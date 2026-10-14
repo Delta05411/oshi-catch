@@ -490,5 +490,103 @@
       "source_url": "https://www.livefans.jp/groups/262647",
       "confidence": "low"
     }
+  ],
+  "festivals": [
+    {
+      "name": "COUNTDOWN JAPAN 26/27",
+      "note": "2026-12-26,27,29,30,31 幕張メッセ。第1弾発表は10月中旬予定"
+    },
+    {
+      "name": "ツタロックフェス 2027",
+      "note": "幕張メッセ（2026年は3月開催）"
+    },
+    {
+      "name": "VIVA LA ROCK 2027",
+      "note": "さいたまスーパーアリーナ（GW）"
+    },
+    {
+      "name": "JAPAN JAM 2027",
+      "note": "千葉（GW）"
+    },
+    {
+      "name": "METROCK 2027",
+      "note": ""
+    },
+    {
+      "name": "ARABAKI ROCK FEST. 2027",
+      "note": ""
+    },
+    {
+      "name": "RISING SUN ROCK FESTIVAL 2027 in EZO",
+      "note": "北海道（8月）"
+    },
+    {
+      "name": "FUJI ROCK FESTIVAL '27",
+      "note": "新潟・苗場（7月）"
+    },
+    {
+      "name": "SUMMER SONIC 2027",
+      "note": "東京・大阪（8月中旬）"
+    },
+    {
+      "name": "ROCK IN JAPAN FESTIVAL 2027",
+      "note": "千葉（2026年は9月開催）"
+    },
+    {
+      "name": "SWEET LOVE SHOWER 2027",
+      "note": "山梨"
+    },
+    {
+      "name": "OSAKA GIGANTIC MUSIC FESTIVAL 2027",
+      "note": "大阪"
+    },
+    {
+      "name": "京都大作戦 2027",
+      "note": "10-FEET主催"
+    },
+    {
+      "name": "YON FES 2027",
+      "note": "04 Limited Sazabys主催"
+    },
+    {
+      "name": "OSAKA HAZIKETEMAZARE FESTIVAL 2027",
+      "note": "HEY-SMITH主催"
+    },
+    {
+      "name": "SATANIC CARNIVAL 2027",
+      "note": "PIZZA OF DEATH主催"
+    },
+    {
+      "name": "BAYCAMP 2027",
+      "note": "神奈川"
+    },
+    {
+      "name": "RUSH BALL 2027",
+      "note": "大阪"
+    },
+    {
+      "name": "WILD BUNCH FEST. 2027",
+      "note": "山口"
+    },
+    {
+      "name": "TREASURE05X 2027",
+      "note": "愛知"
+    },
+    {
+      "name": "ベリテンライブ 2027",
+      "note": "マキシマム ザ ホルモン主催（栃木）"
+    },
+    {
+      "name": "OGA NAMAHAGE ROCK FESTIVAL 2027",
+      "note": "秋田"
+    },
+    {
+      "name": "1CHANCE FESTIVAL 2027",
+      "note": "WANIMA主催"
+    },
+    {
+      "name": "LIVE AZUMA 2027",
+      "note": "福島"
+    }
   ]
 }
