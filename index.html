@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#e8457c">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="推しキャッチ">
+<link rel="manifest" href="manifest.json">
+<link rel="apple-touch-icon" href="icon.svg">
+<title>推しキャッチ</title>
+<style>
+:root{--bg:#fff7fa;--card:#fff;--fg:#2a2230;--sub:#7b6f84;--accent:#e8457c;--line:#f0dfe7}
+@media (prefers-color-scheme:dark){:root{--bg:#17121b;--card:#241c2b;--fg:#f5eef8;--sub:#a99bb3;--line:#3a2e44}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font-family:system-ui,-apple-system,"Hiragino Sans","Yu Gothic",sans-serif;padding-bottom:env(safe-area-inset-bottom)}
+header{position:sticky;top:0;background:var(--bg);padding:12px 16px 8px;border-bottom:1px solid var(--line);z-index:2}
+h1{margin:0 0 8px;font-size:18px;color:var(--accent)}
+input{width:100%;font-size:16px;padding:10px 12px;border:1px solid var(--line);border-radius:10px;background:var(--card);color:var(--fg)}
+.chips{display:flex;gap:6px;margin:8px 0 2px;overflow-x:auto;padding-bottom:4px;-webkit-overflow-scrolling:touch}
+.chip{flex:none;font-size:13px;padding:5px 11px;border-radius:99px;background:var(--card);border:1px solid var(--line);color:var(--sub);cursor:pointer}
+.chip.on{background:var(--accent);border-color:var(--accent);color:#fff}
+main{max-width:720px;margin:0 auto;padding:4px 16px 24px}
+.msg{color:var(--sub);text-align:center;padding:32px 0}
+.mon{font-weight:700;font-size:14px;color:var(--sub);margin:18px 0 4px}
+.ev{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:12px 14px;margin:8px 0}
+.d{font-weight:700;color:var(--accent)}
+.a{display:inline-block;font-size:12px;padding:1px 8px;border-radius:99px;border:1px solid var(--accent);color:var(--accent);margin-left:6px;vertical-align:middle}
+.k{display:inline-block;font-size:12px;padding:1px 8px;border-radius:99px;background:var(--line);color:var(--sub);margin-left:4px;vertical-align:middle}
+.warn{background:#ffe9b8;color:#7a5200}
+.t{font-weight:600;margin:3px 0}
+.m{font-size:14px;color:var(--sub);margin:2px 0}
+.links{display:flex;flex-wrap:wrap;gap:8px;margin-top:8px}
+.links a{font-size:14px;padding:6px 12px;border-radius:8px;text-decoration:none;border:1px solid var(--accent);color:var(--accent)}
+.links a.buy{background:var(--accent);color:#fff}
+small{color:var(--sub);display:block;text-align:center;margin:16px 0}
+</style>
+</head>
+<body>
+<header>
+  <h1>🎤 推しキャッチ</h1>
+  <input id="q" type="search" placeholder="会場・公演名・地名で絞り込み" autocomplete="off">
+  <div class="chips" id="chips"></div>
+</header>
+<main id="out"><div class="msg">読み込み中…</div></main>
+<script>
+const $=s=>document.querySelector(s), out=$('#out');
+const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const safe=u=>/^https?:\/\//.test(u||'')?u:'';
+const W='日月火水木金土';
+let DB={artists:[],events:[]}, sel=new Set();
+try{sel=new Set(JSON.parse(localStorage.sel||'[]'))}catch{}
+function fmt(d){const m=/^(\d{4})-(\d\d)-(\d\d)$/.exec(d||'');if(!m)return d||'日付未定';return `${+m[2]}/${+m[3]}（${W[new Date(+m[1],m[2]-1,+m[3]).getDay()]}）`}
+function chips(){
+  $('#chips').innerHTML=`<span class="chip ${sel.size?'':'on'}" data-a="">すべて</span>`+DB.artists.map(a=>`<span class="chip ${sel.has(a)?'on':''}" data-a="${esc(a)}">${esc(a)}</span>`).join('')}
+function card(e){
+  const t=safe(e.ticket_url),s=safe(e.source_url);
+  return `<div class="ev"><div class="d">${fmt(e.date)}<span class="a">${esc(e.artist)}</span>${e.kind?`<span class="k">${esc(e.kind)}</span>`:''}${e.confidence==='low'?'<span class="k warn">要確認</span>':''}</div>
+  <div class="t">${esc(e.title)}</div>
+  ${e.venue?`<div class="m">📍 ${esc(e.venue)}</div>`:''}
+  ${e.with?`<div class="m">🤝 ${esc(e.with)}</div>`:''}
+  ${e.sale_info?`<div class="m">🎫 ${esc(e.sale_info)}</div>`:''}
+  <div class="links">${t?`<a class="buy" href="${t}" target="_blank" rel="noopener">${esc(e.ticket_name||'チケット')}</a>`:e.ticket_name?`<span class="m">🎫 ${esc(e.ticket_name)}</span>`:''}${s?`<a href="${s}" target="_blank" rel="noopener">情報元</a>`:''}</div></div>`}
+function render(){
+  chips();
+  const today=new Date(Date.now()+9*36e5).toISOString().slice(0,10); // 日本時間の今日
+  const q=$('#q').value.trim().toLowerCase();
+  const list=DB.events.filter(e=>(e.date||'9999')>=today&&(!sel.size||sel.has(e.artist))&&(!q||JSON.stringify(e).toLowerCase().includes(q)))
+    .sort((a,b)=>(a.date||'9999').localeCompare(b.date||'9999'));
+  let h='',cur='';
+  for(const e of list){const mo=(e.date||'').slice(0,7)||'日付未定';if(mo!==cur){cur=mo;h+=`<div class="mon">${mo.replace('-','年')}${/\d/.test(mo)?'月':''}</div>`}h+=card(e)}
+  const up=DB.updated?new Date(DB.updated).toLocaleString('ja-JP',{month:'numeric',day:'numeric',hour:'2-digit',minute:'2-digit'}):'';
+  out.innerHTML=(list.length?`<div class="m">${list.length}件</div>${h}`:'<div class="msg">該当するライブはありません</div>')+
+    `<small>最終更新 ${esc(up)} ／ AIによる収集です。購入前に必ず公式情報をご確認ください</small>`;
+}
+$('#chips').onclick=e=>{const a=e.target.dataset?.a;if(a===undefined)return;
+  if(a==='')sel.clear();else sel.has(a)?sel.delete(a):sel.add(a);
+  try{localStorage.sel=JSON.stringify([...sel])}catch{}render()};
+$('#q').oninput=render;
+fetch('data/events.json',{cache:'no-cache'}).then(r=>r.json()).then(j=>{DB=j;render()}).catch(()=>{out.innerHTML='<div class="msg">データを読み込めませんでした</div>'});
+if('serviceWorker'in navigator)navigator.serviceWorker.register('sw.js').catch(()=>{});
+</script>
+</body>
+</html>
