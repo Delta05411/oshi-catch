@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T07:10:00+09:00",
+  "updated": "2026-10-15T07:15:00+09:00",
   "artists": [
     "04 Limited Sazabys",
     "ELLEGARDEN",
@@ -11,18 +11,6 @@
     "あいみょん"
   ],
   "events": [
-    {
-      "artist": "ELLEGARDEN",
-      "date": "2026-10-14",
-      "title": "Bad For Education Tour II (2026)",
-      "kind": "ワンマン",
-      "venue": "Zepp Fukuoka（福岡）",
-      "ticket_name": "e+",
-      "ticket_url": "https://eplus.jp/sf/word/0000002116",
-      "sale_info": "2日目（10/13・14）",
-      "source_url": "https://realsound.jp/2026/08/post-2487674.html",
-      "confidence": "high"
-    },
     {
       "artist": "04 Limited Sazabys",
       "date": "2026-10-17",
