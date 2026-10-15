@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T07:15:00+09:00",
+  "updated": "2026-10-15T20:10:00+09:00",
   "artists": [
     "04 Limited Sazabys",
     "ELLEGARDEN",
@@ -17,9 +17,21 @@
       "title": "LIVE AZUMA 2026 5th ANNIVERSARY（10/17・18）",
       "kind": "フェス",
       "venue": "あづま総合運動公園（福島）",
-      "sale_info": "出演日は未確認",
-      "source_url": "https://ticketjam.jp/tickets/04-limited-sazabys/event/1165277",
-      "confidence": "low"
+      "sale_info": "AZUMA STAGE出演（後半）。1日券13,500円・2日通し券24,500円",
+      "source_url": "https://san-tatsu.jp/pressrelease/552258/",
+      "confidence": "high"
+    },
+    {
+      "ticket_name": "ローソンチケット",
+      "ticket_url": "https://l-tike.com/yabaitshirtsyasan/t",
+      "source_url": "https://realsound.jp/2026/05/post-2389827.html",
+      "confidence": "high",
+      "artist": "ヤバイTシャツ屋さん",
+      "kind": "ワンマン",
+      "title": "\"Magical Tank-top Parade\" ONE-MAN TOUR 2026",
+      "date": "2026-10-19",
+      "venue": "Zepp Fukuoka（福岡）",
+      "sale_info": "6,050円（税込）＋ドリンク代。開場18:00／開演19:00"
     },
     {
       "artist": "04 Limited Sazabys",
@@ -85,6 +97,18 @@
       "confidence": "low"
     },
     {
+      "ticket_name": "ローソンチケット",
+      "ticket_url": "https://l-tike.com/yabaitshirtsyasan/t",
+      "source_url": "https://realsound.jp/2026/05/post-2389827.html",
+      "confidence": "high",
+      "artist": "ヤバイTシャツ屋さん",
+      "kind": "ワンマン",
+      "title": "\"Magical Tank-top Parade\" ONE-MAN TOUR 2026",
+      "date": "2026-10-24",
+      "venue": "Zepp Sapporo（北海道）",
+      "sale_info": "6,050円（税込）＋ドリンク代。開場17:00／開演18:00"
+    },
+    {
       "artist": "ELLEGARDEN",
       "date": "2026-10-27",
       "title": "Bad For Education Tour II (2026)",
@@ -102,11 +126,11 @@
       "title": "\"Magical Tank-top Parade\" ONE-MAN TOUR 2026",
       "kind": "ワンマン",
       "venue": "Zepp Haneda（東京）",
-      "sale_info": "一般発売中（先着）",
+      "sale_info": "6,050円（税込）＋ドリンク代。開場18:00／開演19:00",
       "ticket_name": "ローソンチケット",
       "ticket_url": "https://l-tike.com/yabaitshirtsyasan/t",
-      "source_url": "https://l-tike.com/yabaitshirtsyasan/t",
-      "confidence": "low"
+      "source_url": "https://realsound.jp/2026/05/post-2389827.html",
+      "confidence": "high"
     },
     {
       "artist": "ELLEGARDEN",
@@ -127,8 +151,9 @@
       "venue": "Zepp Haneda（東京）",
       "ticket_name": "ローソンチケット",
       "ticket_url": "https://l-tike.com/yabaitshirtsyasan/t",
-      "source_url": "https://l-tike.com/yabaitshirtsyasan/t",
-      "confidence": "low"
+      "source_url": "https://realsound.jp/2026/05/post-2389827.html",
+      "confidence": "high",
+      "sale_info": "6,050円（税込）＋ドリンク代。開場18:00／開演19:00"
     },
     {
       "artist": "04 Limited Sazabys",
@@ -202,8 +227,9 @@
       "venue": "Zepp Haneda（東京）",
       "ticket_name": "ローソンチケット",
       "ticket_url": "https://l-tike.com/yabaitshirtsyasan/t",
-      "source_url": "https://l-tike.com/yabaitshirtsyasan/t",
-      "confidence": "low"
+      "source_url": "https://realsound.jp/2026/05/post-2389827.html",
+      "confidence": "high",
+      "sale_info": "6,050円（税込）＋ドリンク代。開場18:00／開演19:00"
     },
     {
       "artist": "04 Limited Sazabys",
@@ -222,8 +248,9 @@
       "venue": "Zepp Haneda（東京）",
       "ticket_name": "ローソンチケット",
       "ticket_url": "https://l-tike.com/yabaitshirtsyasan/t",
-      "source_url": "https://l-tike.com/yabaitshirtsyasan/t",
-      "confidence": "low"
+      "source_url": "https://realsound.jp/2026/05/post-2389827.html",
+      "confidence": "high",
+      "sale_info": "6,050円（税込）＋ドリンク代。開場18:00／開演19:00"
     },
     {
       "artist": "ORAL CIGARETTES",
@@ -272,8 +299,9 @@
       "venue": "Zepp Haneda（東京）",
       "ticket_name": "ローソンチケット",
       "ticket_url": "https://l-tike.com/yabaitshirtsyasan/t",
-      "source_url": "https://l-tike.com/yabaitshirtsyasan/t",
-      "confidence": "low"
+      "source_url": "https://realsound.jp/2026/05/post-2389827.html",
+      "confidence": "high",
+      "sale_info": "6,050円（税込）＋ドリンク代。開場18:00／開演19:00"
     },
     {
       "artist": "ORAL CIGARETTES",
@@ -296,8 +324,9 @@
       "venue": "Zepp Haneda（東京）",
       "ticket_name": "ローソンチケット",
       "ticket_url": "https://l-tike.com/yabaitshirtsyasan/t",
-      "source_url": "https://l-tike.com/yabaitshirtsyasan/t",
-      "confidence": "low"
+      "source_url": "https://realsound.jp/2026/05/post-2389827.html",
+      "confidence": "high",
+      "sale_info": "6,050円（税込）＋ドリンク代。開場18:00／開演19:00"
     },
     {
       "artist": "ORAL CIGARETTES",
@@ -313,6 +342,16 @@
       "confidence": "high"
     },
     {
+      "artist": "HEY-SMITH",
+      "title": "20th ANNIVERSARY 「ALL OVER JAPAN TOUR」",
+      "kind": "ワンマン",
+      "confidence": "low",
+      "sale_info": "会場・日程は再販サイトの掲載から（要確認）",
+      "date": "2026-11-14",
+      "venue": "SENDAI GIGS（宮城）",
+      "source_url": "https://www.livefans.jp/groups/262647"
+    },
+    {
       "artist": "ORAL CIGARETTES",
       "date": "2026-11-15",
       "title": "WANDER ABOUT 放浪 TOUR 2026 関東編",
@@ -324,6 +363,16 @@
       "ticket_url": "https://eplus.jp/sf/word/0000044957",
       "source_url": "https://dime.jp/company_news/detail/?pr=2664079",
       "confidence": "high"
+    },
+    {
+      "artist": "HEY-SMITH",
+      "title": "20th ANNIVERSARY 「ALL OVER JAPAN TOUR」",
+      "kind": "ワンマン",
+      "confidence": "low",
+      "sale_info": "会場・日程は再販サイトの掲載から（要確認）",
+      "date": "2026-11-15",
+      "venue": "高崎芸術劇場 スタジオシアター（群馬）",
+      "source_url": "https://ticketjam.jp/tickets/hey-smith/event/1064350"
     },
     {
       "artist": "ELLEGARDEN",
@@ -349,6 +398,16 @@
       "confidence": "high"
     },
     {
+      "artist": "HEY-SMITH",
+      "title": "20th ANNIVERSARY 「ALL OVER JAPAN TOUR」",
+      "kind": "ワンマン",
+      "confidence": "low",
+      "sale_info": "会場・日程は再販サイトの掲載から（要確認）",
+      "date": "2026-11-26",
+      "venue": "SOUND SHOWER ark",
+      "source_url": "https://www.livefans.jp/groups/262647"
+    },
+    {
       "artist": "ELLEGARDEN",
       "date": "2026-11-28",
       "title": "Bad For Education Tour II (2026)",
@@ -357,6 +416,16 @@
       "sale_info": "11/28・29の2日間",
       "source_url": "https://realsound.jp/2026/08/post-2487674.html",
       "confidence": "high"
+    },
+    {
+      "artist": "HEY-SMITH",
+      "title": "20th ANNIVERSARY 「ALL OVER JAPAN TOUR」",
+      "kind": "ワンマン",
+      "confidence": "low",
+      "sale_info": "会場・日程は再販サイトの掲載から（要確認）",
+      "date": "2026-11-28",
+      "venue": "佐賀GEILS（佐賀）",
+      "source_url": "https://www.livefans.jp/groups/262647"
     },
     {
       "artist": "ELLEGARDEN",
