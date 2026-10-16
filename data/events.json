@@ -10,7 +10,9 @@
   "サンボマスター",
   "あいみょん",
   "10-FEET",
-  "Hi-STANDARD"
+  "Hi-STANDARD",
+  "Mrs. GREEN APPLE",
+  "back number"
  ],
  "events": [
   {
@@ -100,6 +102,16 @@
    "confidence": "high"
   },
   {
+   "artist": "Mrs. GREEN APPLE",
+   "date": "2026-10-23",
+   "title": "Mrs. GREEN APPLE Ringo Jam Tour “SHADOWS”",
+   "kind": "ワンマン",
+   "venue": "Makomanai Sekisui Heim Ice Arena（北海道）",
+   "sale_info": "ファンクラブ先行あり。一般発売は公式で要確認",
+   "source_url": "https://mrsgreenapple.com/feature/ringojamtour_shadows",
+   "confidence": "high"
+  },
+  {
    "artist": "04 Limited Sazabys",
    "date": "2026-10-24",
    "title": "OSAKA HAZIKETEMAZARE FESTIVAL 2026",
@@ -172,6 +184,16 @@
    "sale_info": "6,050円（税込）＋ドリンク代。開場17:00／開演18:00"
   },
   {
+   "artist": "Mrs. GREEN APPLE",
+   "date": "2026-10-24",
+   "title": "Mrs. GREEN APPLE Ringo Jam Tour “SHADOWS”",
+   "kind": "ワンマン",
+   "venue": "Makomanai Sekisui Heim Ice Arena（北海道）",
+   "sale_info": "ファンクラブ先行あり。一般発売は公式で要確認",
+   "source_url": "https://mrsgreenapple.com/feature/ringojamtour_shadows",
+   "confidence": "high"
+  },
+  {
    "artist": "HEY-SMITH",
    "date": "2026-10-25",
    "title": "OSAKA HAZIKETEMAZARE FESTIVAL 2026",
@@ -229,6 +251,26 @@
    "source_url": "https://realsound.jp/2026/05/post-2389827.html",
    "confidence": "high",
    "sale_info": "6,050円（税込）＋ドリンク代。開場18:00／開演19:00"
+  },
+  {
+   "artist": "Mrs. GREEN APPLE",
+   "date": "2026-10-28",
+   "title": "Mrs. GREEN APPLE Ringo Jam Tour “SHADOWS”",
+   "kind": "ワンマン",
+   "venue": "国立代々木競技場 第一体育館（東京）",
+   "sale_info": "ファンクラブ先行あり。一般発売は公式で要確認",
+   "source_url": "https://mrsgreenapple.com/feature/ringojamtour_shadows",
+   "confidence": "high"
+  },
+  {
+   "artist": "Mrs. GREEN APPLE",
+   "date": "2026-10-29",
+   "title": "Mrs. GREEN APPLE Ringo Jam Tour “SHADOWS”",
+   "kind": "ワンマン",
+   "venue": "国立代々木競技場 第一体育館（東京）",
+   "sale_info": "ファンクラブ先行あり。一般発売は公式で要確認",
+   "source_url": "https://mrsgreenapple.com/feature/ringojamtour_shadows",
+   "confidence": "high"
   },
   {
    "artist": "04 Limited Sazabys",
@@ -307,6 +349,16 @@
    "sale_info": "6,050円（税込）＋ドリンク代。開場18:00／開演19:00"
   },
   {
+   "artist": "Mrs. GREEN APPLE",
+   "date": "2026-11-04",
+   "title": "Mrs. GREEN APPLE Ringo Jam Tour “SHADOWS”",
+   "kind": "ワンマン",
+   "venue": "SAGAアリーナ（佐賀）",
+   "sale_info": "ファンクラブ先行あり。一般発売は公式で要確認",
+   "source_url": "https://mrsgreenapple.com/feature/ringojamtour_shadows",
+   "confidence": "high"
+  },
+  {
    "artist": "04 Limited Sazabys",
    "date": "2026-11-05",
    "title": "ONE MAN TOUR 2026",
@@ -326,6 +378,16 @@
    "source_url": "https://realsound.jp/2026/05/post-2389827.html",
    "confidence": "high",
    "sale_info": "6,050円（税込）＋ドリンク代。開場18:00／開演19:00"
+  },
+  {
+   "artist": "Mrs. GREEN APPLE",
+   "date": "2026-11-05",
+   "title": "Mrs. GREEN APPLE Ringo Jam Tour “SHADOWS”",
+   "kind": "ワンマン",
+   "venue": "SAGAアリーナ（佐賀）",
+   "sale_info": "ファンクラブ先行あり。一般発売は公式で要確認",
+   "source_url": "https://mrsgreenapple.com/feature/ringojamtour_shadows",
+   "confidence": "high"
   },
   {
    "artist": "ORAL CIGARETTES",
@@ -428,6 +490,26 @@
    "confidence": "high"
   },
   {
+   "artist": "Mrs. GREEN APPLE",
+   "date": "2026-11-13",
+   "title": "Mrs. GREEN APPLE Ringo Jam Tour “SHADOWS”",
+   "kind": "ワンマン",
+   "venue": "サンドーム福井（福井）",
+   "sale_info": "ファンクラブ先行あり。一般発売は公式で要確認",
+   "source_url": "https://mrsgreenapple.com/feature/ringojamtour_shadows",
+   "confidence": "high"
+  },
+  {
+   "artist": "Mrs. GREEN APPLE",
+   "date": "2026-11-14",
+   "title": "Mrs. GREEN APPLE Ringo Jam Tour “SHADOWS”",
+   "kind": "ワンマン",
+   "venue": "サンドーム福井（福井）",
+   "sale_info": "ファンクラブ先行あり。一般発売は公式で要確認",
+   "source_url": "https://mrsgreenapple.com/feature/ringojamtour_shadows",
+   "confidence": "high"
+  },
+  {
    "artist": "ORAL CIGARETTES",
    "date": "2026-11-15",
    "title": "WANDER ABOUT 放浪 TOUR 2026 関東編",
@@ -464,6 +546,26 @@
    "confidence": "high"
   },
   {
+   "artist": "Mrs. GREEN APPLE",
+   "date": "2026-11-18",
+   "title": "Mrs. GREEN APPLE Ringo Jam Tour “SHADOWS”",
+   "kind": "ワンマン",
+   "venue": "長野市若里多目的スポーツアリーナ ビッグハット（長野）",
+   "sale_info": "ファンクラブ先行あり。一般発売は公式で要確認",
+   "source_url": "https://mrsgreenapple.com/feature/ringojamtour_shadows",
+   "confidence": "high"
+  },
+  {
+   "artist": "Mrs. GREEN APPLE",
+   "date": "2026-11-19",
+   "title": "Mrs. GREEN APPLE Ringo Jam Tour “SHADOWS”",
+   "kind": "ワンマン",
+   "venue": "長野市若里多目的スポーツアリーナ ビッグハット（長野）",
+   "sale_info": "ファンクラブ先行あり。一般発売は公式で要確認",
+   "source_url": "https://mrsgreenapple.com/feature/ringojamtour_shadows",
+   "confidence": "high"
+  },
+  {
    "artist": "ELLEGARDEN",
    "date": "2026-11-28",
    "title": "Bad For Education Tour II (2026)",
@@ -474,12 +576,32 @@
    "confidence": "high"
   },
   {
+   "artist": "Mrs. GREEN APPLE",
+   "date": "2026-11-28",
+   "title": "Mrs. GREEN APPLE Ringo Jam Tour “SHADOWS”",
+   "kind": "ワンマン",
+   "venue": "LaLa arena TOKYO-BAY（千葉）",
+   "sale_info": "ファンクラブ先行あり。一般発売は公式で要確認",
+   "source_url": "https://mrsgreenapple.com/feature/ringojamtour_shadows",
+   "confidence": "high"
+  },
+  {
    "artist": "ELLEGARDEN",
    "date": "2026-11-29",
    "title": "Bad For Education Tour II (2026)",
    "kind": "ワンマン",
    "venue": "Seoul YES24 LIVE HALL（韓国）",
    "source_url": "https://realsound.jp/2026/08/post-2487674.html",
+   "confidence": "high"
+  },
+  {
+   "artist": "Mrs. GREEN APPLE",
+   "date": "2026-11-29",
+   "title": "Mrs. GREEN APPLE Ringo Jam Tour “SHADOWS”",
+   "kind": "ワンマン",
+   "venue": "LaLa arena TOKYO-BAY（千葉）",
+   "sale_info": "ファンクラブ先行あり。一般発売は公式で要確認",
+   "source_url": "https://mrsgreenapple.com/feature/ringojamtour_shadows",
    "confidence": "high"
   },
   {
@@ -499,6 +621,26 @@
    "kind": "ワンマン",
    "venue": "日本武道館（東京）",
    "source_url": "https://realsound.jp/2026/07/post-2462631.html",
+   "confidence": "high"
+  },
+  {
+   "artist": "Mrs. GREEN APPLE",
+   "date": "2026-12-02",
+   "title": "Mrs. GREEN APPLE Ringo Jam Tour “SHADOWS”",
+   "kind": "ワンマン",
+   "venue": "GLION ARENA KOBE（兵庫）",
+   "sale_info": "ファンクラブ先行あり。一般発売は公式で要確認",
+   "source_url": "https://mrsgreenapple.com/feature/ringojamtour_shadows",
+   "confidence": "high"
+  },
+  {
+   "artist": "Mrs. GREEN APPLE",
+   "date": "2026-12-03",
+   "title": "Mrs. GREEN APPLE Ringo Jam Tour “SHADOWS”",
+   "kind": "ワンマン",
+   "venue": "GLION ARENA KOBE（兵庫）",
+   "sale_info": "ファンクラブ先行あり。一般発売は公式で要確認",
+   "source_url": "https://mrsgreenapple.com/feature/ringojamtour_shadows",
    "confidence": "high"
   },
   {
@@ -525,6 +667,66 @@
    "confidence": "high"
   },
   {
+   "artist": "Mrs. GREEN APPLE",
+   "date": "2026-12-09",
+   "title": "Mrs. GREEN APPLE Ringo Jam Tour “SHADOWS”",
+   "kind": "ワンマン",
+   "venue": "マリンメッセ福岡 A館（福岡）",
+   "sale_info": "ファンクラブ先行あり。一般発売は公式で要確認",
+   "source_url": "https://mrsgreenapple.com/feature/ringojamtour_shadows",
+   "confidence": "high"
+  },
+  {
+   "artist": "Mrs. GREEN APPLE",
+   "date": "2026-12-10",
+   "title": "Mrs. GREEN APPLE Ringo Jam Tour “SHADOWS”",
+   "kind": "ワンマン",
+   "venue": "マリンメッセ福岡 A館（福岡）",
+   "sale_info": "ファンクラブ先行あり。一般発売は公式で要確認",
+   "source_url": "https://mrsgreenapple.com/feature/ringojamtour_shadows",
+   "confidence": "high"
+  },
+  {
+   "artist": "Mrs. GREEN APPLE",
+   "date": "2026-12-15",
+   "title": "Mrs. GREEN APPLE Ringo Jam Tour “SHADOWS”",
+   "kind": "ワンマン",
+   "venue": "宮城セキスイハイムスーパーアリーナ（宮城）",
+   "sale_info": "ファンクラブ先行あり。一般発売は公式で要確認",
+   "source_url": "https://mrsgreenapple.com/feature/ringojamtour_shadows",
+   "confidence": "high"
+  },
+  {
+   "artist": "Mrs. GREEN APPLE",
+   "date": "2026-12-16",
+   "title": "Mrs. GREEN APPLE Ringo Jam Tour “SHADOWS”",
+   "kind": "ワンマン",
+   "venue": "宮城セキスイハイムスーパーアリーナ（宮城）",
+   "sale_info": "ファンクラブ先行あり。一般発売は公式で要確認",
+   "source_url": "https://mrsgreenapple.com/feature/ringojamtour_shadows",
+   "confidence": "high"
+  },
+  {
+   "artist": "Mrs. GREEN APPLE",
+   "date": "2026-12-19",
+   "title": "Mrs. GREEN APPLE Ringo Jam Tour “SHADOWS”",
+   "kind": "ワンマン",
+   "venue": "ぴあアリーナMM（神奈川）",
+   "sale_info": "ファンクラブ先行あり。一般発売は公式で要確認",
+   "source_url": "https://mrsgreenapple.com/feature/ringojamtour_shadows",
+   "confidence": "high"
+  },
+  {
+   "artist": "Mrs. GREEN APPLE",
+   "date": "2026-12-20",
+   "title": "Mrs. GREEN APPLE Ringo Jam Tour “SHADOWS”",
+   "kind": "ワンマン",
+   "venue": "ぴあアリーナMM（神奈川）",
+   "sale_info": "ファンクラブ先行あり。一般発売は公式で要確認",
+   "source_url": "https://mrsgreenapple.com/feature/ringojamtour_shadows",
+   "confidence": "high"
+  },
+  {
    "artist": "マキシマム ザ ホルモン",
    "date": "2026-12-26",
    "title": "COUNTDOWN JAPAN 26/27（12/26・27・29・30・31のいずれか）",
@@ -533,6 +735,26 @@
    "sale_info": "第1弾出演者に発表。出演日は記事に記載なし（日付は開催初日の仮置き・要確認）。チケット第1次抽選先行 10/14〜10/20 16:00（公式アプリ「Jフェス」）",
    "source_url": "https://realsound.jp/2026/10/post-2553051.html",
    "confidence": "low"
+  },
+  {
+   "artist": "Mrs. GREEN APPLE",
+   "date": "2026-12-27",
+   "title": "Mrs. GREEN APPLE Ringo Jam Tour “SHADOWS”",
+   "kind": "ワンマン",
+   "venue": "Aichi Sky Expo（愛知）",
+   "sale_info": "ファンクラブ先行あり。一般発売は公式で要確認",
+   "source_url": "https://mrsgreenapple.com/feature/ringojamtour_shadows",
+   "confidence": "high"
+  },
+  {
+   "artist": "Mrs. GREEN APPLE",
+   "date": "2026-12-28",
+   "title": "Mrs. GREEN APPLE Ringo Jam Tour “SHADOWS”",
+   "kind": "ワンマン",
+   "venue": "Aichi Sky Expo（愛知）",
+   "sale_info": "ファンクラブ先行あり。一般発売は公式で要確認",
+   "source_url": "https://mrsgreenapple.com/feature/ringojamtour_shadows",
+   "confidence": "high"
   },
   {
    "artist": "あいみょん",
@@ -1702,7 +1924,11 @@
    "official": "https://www.aimyong.net/",
    "schedule": "https://www.aimyong.net/feature/tour2027"
   },
-  "Hi-STANDARD": {}
+  "Hi-STANDARD": {},
+  "Mrs. GREEN APPLE": {
+   "official": "https://mrsgreenapple.com/",
+   "schedule": "https://mrsgreenapple.com/feature/ringojamtour_shadows"
+  }
  },
  "aliases": {
   "04 Limited Sazabys": [
@@ -1762,6 +1988,14 @@
  "artist_status": {
   "Hi-STANDARD": {
    "state": "ok",
+   "checked": "2026-10-16T23:30:00+09:00"
+  },
+  "Mrs. GREEN APPLE": {
+   "state": "ok",
+   "checked": "2026-10-16T23:30:00+09:00"
+  },
+  "back number": {
+   "state": "no_events",
    "checked": "2026-10-16T23:30:00+09:00"
   }
  }
