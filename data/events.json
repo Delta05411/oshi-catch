@@ -1688,5 +1688,55 @@
       "official": "https://www.aimyong.net/",
       "schedule": "https://www.aimyong.net/feature/tour2027"
     }
-  }
+  },
+  "aliases": {
+    "04 Limited Sazabys": [
+      "フォーリミ",
+      "フォーリミテッドサザビーズ",
+      "04LS",
+      "4リミ"
+    ],
+    "ELLEGARDEN": [
+      "エルレガーデン",
+      "エルレ"
+    ],
+    "ヤバイTシャツ屋さん": [
+      "ヤバT",
+      "ヤバＴ",
+      "ヤバイティーシャツヤさん",
+      "ヤバTシャツ屋さん"
+    ],
+    "ORAL CIGARETTES": [
+      "オーラル",
+      "オーラルシガレッツ",
+      "THE ORAL CIGARETTES",
+      "ジオーラルシガレッツ"
+    ],
+    "HEY-SMITH": [
+      "ヘイスミス",
+      "HEYSMITH"
+    ],
+    "マキシマム ザ ホルモン": [
+      "ホルモン",
+      "マキシマムザホルモン",
+      "マキシマム・ザ・ホルモン",
+      "MAXIMUM THE HORMONE"
+    ],
+    "サンボマスター": [
+      "サンボ",
+      "SANBOMASTER"
+    ],
+    "あいみょん": [
+      "aimyon",
+      "AIMYON",
+      "愛みょん"
+    ],
+    "10-FEET": [
+      "テンフィート",
+      "10FEET",
+      "10 FEET"
+    ]
+  },
+  "rejected": [],
+  "artist_status": {}
 }
