@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T23:06:13+09:00",
+  "updated": "2026-10-16T23:09:46+09:00",
   "artists": [
     "04 Limited Sazabys",
     "ELLEGARDEN",
@@ -471,6 +471,25 @@
       "confidence": "high"
     },
     {
+      "artist": "あいみょん",
+      "date": "2026-11-30",
+      "title": "AIMYON 10th anniversary LIVE 2026「、、、」IN 日本武道館",
+      "kind": "ワンマン",
+      "venue": "日本武道館（東京）",
+      "sale_info": "11/30・12/1の2日間。12,000円（税込）。バンド編成で初の武道館",
+      "source_url": "https://realsound.jp/2026/07/post-2462631.html",
+      "confidence": "high"
+    },
+    {
+      "artist": "あいみょん",
+      "date": "2026-12-01",
+      "title": "AIMYON 10th anniversary LIVE 2026「、、、」IN 日本武道館",
+      "kind": "ワンマン",
+      "venue": "日本武道館（東京）",
+      "source_url": "https://realsound.jp/2026/07/post-2462631.html",
+      "confidence": "high"
+    },
+    {
       "artist": "ELLEGARDEN",
       "date": "2026-12-08",
       "title": "Bad For Education Tour II GRAND FINALE",
@@ -502,6 +521,348 @@
       "sale_info": "第1弾出演者に発表。出演日は記事に記載なし（日付は開催初日の仮置き・要確認）。チケット第1次抽選先行 10/14〜10/20 16:00（公式アプリ「Jフェス」）",
       "source_url": "https://realsound.jp/2026/10/post-2553051.html",
       "confidence": "low"
+    },
+    {
+      "artist": "あいみょん",
+      "date": "2027-02-06",
+      "title": "AIMYON TOUR 2027",
+      "kind": "ワンマン",
+      "venue": "ぴあアリーナMM（神奈川）",
+      "sale_info": "2/6・7の2日間。全国14都市36公演。先行はベストアルバム封入カードのQRから",
+      "source_url": "https://realsound.jp/2026/07/post-2462631.html",
+      "confidence": "high"
+    },
+    {
+      "artist": "あいみょん",
+      "date": "2027-02-07",
+      "title": "AIMYON TOUR 2027",
+      "kind": "ワンマン",
+      "venue": "ぴあアリーナMM（神奈川）",
+      "source_url": "https://realsound.jp/2026/07/post-2462631.html",
+      "confidence": "high"
+    },
+    {
+      "artist": "あいみょん",
+      "date": "2027-02-13",
+      "title": "AIMYON TOUR 2027",
+      "kind": "ワンマン",
+      "venue": "サンドーム福井（福井）",
+      "sale_info": "2/13・14の2日間。全国14都市36公演。先行はベストアルバム封入カードのQRから",
+      "source_url": "https://realsound.jp/2026/07/post-2462631.html",
+      "confidence": "high"
+    },
+    {
+      "artist": "あいみょん",
+      "date": "2027-02-14",
+      "title": "AIMYON TOUR 2027",
+      "kind": "ワンマン",
+      "venue": "サンドーム福井（福井）",
+      "source_url": "https://realsound.jp/2026/07/post-2462631.html",
+      "confidence": "high"
+    },
+    {
+      "artist": "あいみょん",
+      "date": "2027-02-20",
+      "title": "AIMYON TOUR 2027",
+      "kind": "ワンマン",
+      "venue": "朱鷺メッセ（新潟）",
+      "sale_info": "2/20・21の2日間。全国14都市36公演。先行はベストアルバム封入カードのQRから",
+      "source_url": "https://realsound.jp/2026/07/post-2462631.html",
+      "confidence": "high"
+    },
+    {
+      "artist": "あいみょん",
+      "date": "2027-02-21",
+      "title": "AIMYON TOUR 2027",
+      "kind": "ワンマン",
+      "venue": "朱鷺メッセ（新潟）",
+      "source_url": "https://realsound.jp/2026/07/post-2462631.html",
+      "confidence": "high"
+    },
+    {
+      "artist": "あいみょん",
+      "date": "2027-03-13",
+      "title": "AIMYON TOUR 2027",
+      "kind": "ワンマン",
+      "venue": "K-Arena Yokohama（神奈川）",
+      "sale_info": "3/13・14の2日間。全国14都市36公演。先行はベストアルバム封入カードのQRから",
+      "source_url": "https://realsound.jp/2026/07/post-2462631.html",
+      "confidence": "high"
+    },
+    {
+      "artist": "あいみょん",
+      "date": "2027-03-14",
+      "title": "AIMYON TOUR 2027",
+      "kind": "ワンマン",
+      "venue": "K-Arena Yokohama（神奈川）",
+      "source_url": "https://realsound.jp/2026/07/post-2462631.html",
+      "confidence": "high"
+    },
+    {
+      "artist": "あいみょん",
+      "date": "2027-03-20",
+      "title": "AIMYON TOUR 2027",
+      "kind": "ワンマン",
+      "venue": "セキスイハイムスーパーアリーナ（宮城）",
+      "sale_info": "3/20・21の2日間。全国14都市36公演。先行はベストアルバム封入カードのQRから",
+      "source_url": "https://realsound.jp/2026/07/post-2462631.html",
+      "confidence": "high"
+    },
+    {
+      "artist": "あいみょん",
+      "date": "2027-03-21",
+      "title": "AIMYON TOUR 2027",
+      "kind": "ワンマン",
+      "venue": "セキスイハイムスーパーアリーナ（宮城）",
+      "source_url": "https://realsound.jp/2026/07/post-2462631.html",
+      "confidence": "high"
+    },
+    {
+      "artist": "あいみょん",
+      "date": "2027-03-31",
+      "title": "AIMYON TOUR 2027",
+      "kind": "ワンマン",
+      "venue": "国立代々木競技場第一体育館（東京）",
+      "sale_info": "3/31・4/1の2日間。全国14都市36公演。先行はベストアルバム封入カードのQRから",
+      "source_url": "https://realsound.jp/2026/07/post-2462631.html",
+      "confidence": "high"
+    },
+    {
+      "artist": "あいみょん",
+      "date": "2027-04-01",
+      "title": "AIMYON TOUR 2027",
+      "kind": "ワンマン",
+      "venue": "国立代々木競技場第一体育館（東京）",
+      "source_url": "https://realsound.jp/2026/07/post-2462631.html",
+      "confidence": "high"
+    },
+    {
+      "artist": "あいみょん",
+      "date": "2027-04-17",
+      "title": "AIMYON TOUR 2027",
+      "kind": "ワンマン",
+      "venue": "GLION ARENA KOBE（兵庫）",
+      "sale_info": "4/17・18の2日間。全国14都市36公演。先行はベストアルバム封入カードのQRから",
+      "source_url": "https://realsound.jp/2026/07/post-2462631.html",
+      "confidence": "high"
+    },
+    {
+      "artist": "あいみょん",
+      "date": "2027-04-18",
+      "title": "AIMYON TOUR 2027",
+      "kind": "ワンマン",
+      "venue": "GLION ARENA KOBE（兵庫）",
+      "source_url": "https://realsound.jp/2026/07/post-2462631.html",
+      "confidence": "high"
+    },
+    {
+      "artist": "あいみょん",
+      "date": "2027-04-21",
+      "title": "AIMYON TOUR 2027",
+      "kind": "ワンマン",
+      "venue": "クロコくんホール（愛知）",
+      "sale_info": "4/21・22の2日間。全国14都市36公演。先行はベストアルバム封入カードのQRから",
+      "source_url": "https://realsound.jp/2026/07/post-2462631.html",
+      "confidence": "high"
+    },
+    {
+      "artist": "あいみょん",
+      "date": "2027-04-22",
+      "title": "AIMYON TOUR 2027",
+      "kind": "ワンマン",
+      "venue": "クロコくんホール（愛知）",
+      "source_url": "https://realsound.jp/2026/07/post-2462631.html",
+      "confidence": "high"
+    },
+    {
+      "artist": "あいみょん",
+      "date": "2027-04-28",
+      "title": "AIMYON TOUR 2027",
+      "kind": "ワンマン",
+      "venue": "エコパアリーナ（静岡）",
+      "sale_info": "4/28・29の2日間。全国14都市36公演。先行はベストアルバム封入カードのQRから",
+      "source_url": "https://realsound.jp/2026/07/post-2462631.html",
+      "confidence": "high"
+    },
+    {
+      "artist": "あいみょん",
+      "date": "2027-04-29",
+      "title": "AIMYON TOUR 2027",
+      "kind": "ワンマン",
+      "venue": "エコパアリーナ（静岡）",
+      "source_url": "https://realsound.jp/2026/07/post-2462631.html",
+      "confidence": "high"
+    },
+    {
+      "artist": "あいみょん",
+      "date": "2027-05-02",
+      "title": "AIMYON TOUR 2027",
+      "kind": "ワンマン",
+      "venue": "K-Arena Yokohama（神奈川）",
+      "sale_info": "5/2・3の2日間。全国14都市36公演。先行はベストアルバム封入カードのQRから",
+      "source_url": "https://realsound.jp/2026/07/post-2462631.html",
+      "confidence": "high"
+    },
+    {
+      "artist": "あいみょん",
+      "date": "2027-05-03",
+      "title": "AIMYON TOUR 2027",
+      "kind": "ワンマン",
+      "venue": "K-Arena Yokohama（神奈川）",
+      "source_url": "https://realsound.jp/2026/07/post-2462631.html",
+      "confidence": "high"
+    },
+    {
+      "artist": "あいみょん",
+      "date": "2027-05-12",
+      "title": "AIMYON TOUR 2027",
+      "kind": "ワンマン",
+      "venue": "大阪城ホール（大阪）",
+      "sale_info": "5/12・13の2日間。全国14都市36公演。先行はベストアルバム封入カードのQRから",
+      "source_url": "https://realsound.jp/2026/07/post-2462631.html",
+      "confidence": "high"
+    },
+    {
+      "artist": "あいみょん",
+      "date": "2027-05-13",
+      "title": "AIMYON TOUR 2027",
+      "kind": "ワンマン",
+      "venue": "大阪城ホール（大阪）",
+      "source_url": "https://realsound.jp/2026/07/post-2462631.html",
+      "confidence": "high"
+    },
+    {
+      "artist": "あいみょん",
+      "date": "2027-05-29",
+      "title": "AIMYON TOUR 2027",
+      "kind": "ワンマン",
+      "venue": "あなぶきアリーナ香川（香川）",
+      "sale_info": "5/29・30の2日間。全国14都市36公演。先行はベストアルバム封入カードのQRから",
+      "source_url": "https://realsound.jp/2026/07/post-2462631.html",
+      "confidence": "high"
+    },
+    {
+      "artist": "あいみょん",
+      "date": "2027-05-30",
+      "title": "AIMYON TOUR 2027",
+      "kind": "ワンマン",
+      "venue": "あなぶきアリーナ香川（香川）",
+      "source_url": "https://realsound.jp/2026/07/post-2462631.html",
+      "confidence": "high"
+    },
+    {
+      "artist": "あいみょん",
+      "date": "2027-06-05",
+      "title": "AIMYON TOUR 2027",
+      "kind": "ワンマン",
+      "venue": "クロコくんホール（愛知）",
+      "sale_info": "6/5・6の2日間。全国14都市36公演。先行はベストアルバム封入カードのQRから",
+      "source_url": "https://realsound.jp/2026/07/post-2462631.html",
+      "confidence": "high"
+    },
+    {
+      "artist": "あいみょん",
+      "date": "2027-06-06",
+      "title": "AIMYON TOUR 2027",
+      "kind": "ワンマン",
+      "venue": "クロコくんホール（愛知）",
+      "source_url": "https://realsound.jp/2026/07/post-2462631.html",
+      "confidence": "high"
+    },
+    {
+      "artist": "あいみょん",
+      "date": "2027-06-12",
+      "title": "AIMYON TOUR 2027",
+      "kind": "ワンマン",
+      "venue": "真駒内セキスイハイムアイスアリーナ（北海道）",
+      "sale_info": "6/12・13の2日間。全国14都市36公演。先行はベストアルバム封入カードのQRから",
+      "source_url": "https://realsound.jp/2026/07/post-2462631.html",
+      "confidence": "high"
+    },
+    {
+      "artist": "あいみょん",
+      "date": "2027-06-13",
+      "title": "AIMYON TOUR 2027",
+      "kind": "ワンマン",
+      "venue": "真駒内セキスイハイムアイスアリーナ（北海道）",
+      "source_url": "https://realsound.jp/2026/07/post-2462631.html",
+      "confidence": "high"
+    },
+    {
+      "artist": "あいみょん",
+      "date": "2027-06-22",
+      "title": "AIMYON TOUR 2027",
+      "kind": "ワンマン",
+      "venue": "GLION ARENA KOBE（兵庫）",
+      "sale_info": "6/22・23の2日間。全国14都市36公演。先行はベストアルバム封入カードのQRから",
+      "source_url": "https://realsound.jp/2026/07/post-2462631.html",
+      "confidence": "high"
+    },
+    {
+      "artist": "あいみょん",
+      "date": "2027-06-23",
+      "title": "AIMYON TOUR 2027",
+      "kind": "ワンマン",
+      "venue": "GLION ARENA KOBE（兵庫）",
+      "source_url": "https://realsound.jp/2026/07/post-2462631.html",
+      "confidence": "high"
+    },
+    {
+      "artist": "あいみょん",
+      "date": "2027-06-26",
+      "title": "AIMYON TOUR 2027",
+      "kind": "ワンマン",
+      "venue": "広島グリーンアリーナ（広島）",
+      "sale_info": "6/26・27の2日間。全国14都市36公演。先行はベストアルバム封入カードのQRから",
+      "source_url": "https://realsound.jp/2026/07/post-2462631.html",
+      "confidence": "high"
+    },
+    {
+      "artist": "あいみょん",
+      "date": "2027-06-27",
+      "title": "AIMYON TOUR 2027",
+      "kind": "ワンマン",
+      "venue": "広島グリーンアリーナ（広島）",
+      "source_url": "https://realsound.jp/2026/07/post-2462631.html",
+      "confidence": "high"
+    },
+    {
+      "artist": "あいみょん",
+      "date": "2027-07-03",
+      "title": "AIMYON TOUR 2027",
+      "kind": "ワンマン",
+      "venue": "マリンメッセ福岡A館（福岡）",
+      "sale_info": "7/3・4の2日間。全国14都市36公演。先行はベストアルバム封入カードのQRから",
+      "source_url": "https://realsound.jp/2026/07/post-2462631.html",
+      "confidence": "high"
+    },
+    {
+      "artist": "あいみょん",
+      "date": "2027-07-04",
+      "title": "AIMYON TOUR 2027",
+      "kind": "ワンマン",
+      "venue": "マリンメッセ福岡A館（福岡）",
+      "source_url": "https://realsound.jp/2026/07/post-2462631.html",
+      "confidence": "high"
+    },
+    {
+      "artist": "あいみょん",
+      "date": "2027-07-10",
+      "title": "AIMYON TOUR 2027",
+      "kind": "ワンマン",
+      "venue": "沖縄サントリーアリーナ（沖縄）",
+      "sale_info": "7/10・11の2日間。全国14都市36公演。先行はベストアルバム封入カードのQRから",
+      "source_url": "https://realsound.jp/2026/07/post-2462631.html",
+      "confidence": "high"
+    },
+    {
+      "artist": "あいみょん",
+      "date": "2027-07-11",
+      "title": "AIMYON TOUR 2027",
+      "kind": "ワンマン",
+      "venue": "沖縄サントリーアリーナ（沖縄）",
+      "source_url": "https://realsound.jp/2026/07/post-2462631.html",
+      "confidence": "high"
     }
   ],
   "festivals": [
@@ -1321,5 +1682,11 @@
       "status": "unknown",
       "source_url": "https://www.ragnet.co.jp/rock-festival"
     }
-  ]
+  ],
+  "artist_links": {
+    "あいみょん": {
+      "official": "https://www.aimyong.net/",
+      "schedule": "https://www.aimyong.net/feature/tour2027"
+    }
+  }
 }
