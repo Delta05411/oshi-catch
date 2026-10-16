@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T23:30:00+09:00",
+ "updated": "2026-10-17T07:30:00+09:00",
  "artists": [
   "04 Limited Sazabys",
   "ELLEGARDEN",
@@ -148,6 +148,16 @@
    "confidence": "high"
   },
   {
+   "artist": "Mrs. GREEN APPLE",
+   "date": "2026-10-24",
+   "title": "Mrs. GREEN APPLE Ringo Jam Tour “SHADOWS”",
+   "kind": "ワンマン",
+   "venue": "Makomanai Sekisui Heim Ice Arena（北海道）",
+   "sale_info": "ファンクラブ先行あり。一般発売は公式で要確認",
+   "source_url": "https://mrsgreenapple.com/feature/ringojamtour_shadows",
+   "confidence": "high"
+  },
+  {
    "artist": "ORAL CIGARETTES",
    "date": "2026-10-24",
    "title": "OSAKA HAZIKETEMAZARE FESTIVAL 2026",
@@ -182,16 +192,6 @@
    "date": "2026-10-24",
    "venue": "Zepp Sapporo（北海道）",
    "sale_info": "6,050円（税込）＋ドリンク代。開場17:00／開演18:00"
-  },
-  {
-   "artist": "Mrs. GREEN APPLE",
-   "date": "2026-10-24",
-   "title": "Mrs. GREEN APPLE Ringo Jam Tour “SHADOWS”",
-   "kind": "ワンマン",
-   "venue": "Makomanai Sekisui Heim Ice Arena（北海道）",
-   "sale_info": "ファンクラブ先行あり。一般発売は公式で要確認",
-   "source_url": "https://mrsgreenapple.com/feature/ringojamtour_shadows",
-   "confidence": "high"
   },
   {
    "artist": "HEY-SMITH",
@@ -241,6 +241,16 @@
    "confidence": "high"
   },
   {
+   "artist": "Mrs. GREEN APPLE",
+   "date": "2026-10-28",
+   "title": "Mrs. GREEN APPLE Ringo Jam Tour “SHADOWS”",
+   "kind": "ワンマン",
+   "venue": "国立代々木競技場 第一体育館（東京）",
+   "sale_info": "ファンクラブ先行あり。一般発売は公式で要確認",
+   "source_url": "https://mrsgreenapple.com/feature/ringojamtour_shadows",
+   "confidence": "high"
+  },
+  {
    "artist": "ヤバイTシャツ屋さん",
    "date": "2026-10-28",
    "title": "\"Magical Tank-top Parade\" ONE-MAN TOUR 2026",
@@ -251,16 +261,6 @@
    "source_url": "https://realsound.jp/2026/05/post-2389827.html",
    "confidence": "high",
    "sale_info": "6,050円（税込）＋ドリンク代。開場18:00／開演19:00"
-  },
-  {
-   "artist": "Mrs. GREEN APPLE",
-   "date": "2026-10-28",
-   "title": "Mrs. GREEN APPLE Ringo Jam Tour “SHADOWS”",
-   "kind": "ワンマン",
-   "venue": "国立代々木競技場 第一体育館（東京）",
-   "sale_info": "ファンクラブ先行あり。一般発売は公式で要確認",
-   "source_url": "https://mrsgreenapple.com/feature/ringojamtour_shadows",
-   "confidence": "high"
   },
   {
    "artist": "Mrs. GREEN APPLE",
@@ -289,6 +289,16 @@
    "venue": "Zepp Sapporo（北海道）",
    "source_url": "https://bestcalendar.jp/press/121082",
    "confidence": "high"
+  },
+  {
+   "artist": "マキシマム ザ ホルモン",
+   "date": "2026-11-01",
+   "title": "ONAGAWA COTTELEEZUN（女川町町制施行100周年記念祭）",
+   "kind": "フェス",
+   "venue": "女川町総合運動場（宮城）",
+   "sale_info": "10/31・11/1の開催。ホルモンは報道ベースで要確認",
+   "source_url": "https://natalie.mu/music/news/691796",
+   "confidence": "low"
   },
   {
    "artist": "ELLEGARDEN",
@@ -324,6 +334,16 @@
    "confidence": "high"
   },
   {
+   "artist": "Mrs. GREEN APPLE",
+   "date": "2026-11-04",
+   "title": "Mrs. GREEN APPLE Ringo Jam Tour “SHADOWS”",
+   "kind": "ワンマン",
+   "venue": "SAGAアリーナ（佐賀）",
+   "sale_info": "ファンクラブ先行あり。一般発売は公式で要確認",
+   "source_url": "https://mrsgreenapple.com/feature/ringojamtour_shadows",
+   "confidence": "high"
+  },
+  {
    "artist": "ORAL CIGARETTES",
    "date": "2026-11-04",
    "title": "WANDER ABOUT 放浪 TOUR 2026 関東編",
@@ -337,6 +357,16 @@
    "confidence": "high"
   },
   {
+   "artist": "マキシマム ザ ホルモン",
+   "date": "2026-11-04",
+   "title": "対バンツアー「ザ・ホルモネア」",
+   "kind": "対バン",
+   "venue": "Zepp Sapporo（北海道）",
+   "sale_info": "ゲストは後日発表",
+   "source_url": "https://natalie.mu/music/news/684366",
+   "confidence": "low"
+  },
+  {
    "artist": "ヤバイTシャツ屋さん",
    "date": "2026-11-04",
    "title": "\"Magical Tank-top Parade\" ONE-MAN TOUR 2026",
@@ -347,16 +377,6 @@
    "source_url": "https://realsound.jp/2026/05/post-2389827.html",
    "confidence": "high",
    "sale_info": "6,050円（税込）＋ドリンク代。開場18:00／開演19:00"
-  },
-  {
-   "artist": "Mrs. GREEN APPLE",
-   "date": "2026-11-04",
-   "title": "Mrs. GREEN APPLE Ringo Jam Tour “SHADOWS”",
-   "kind": "ワンマン",
-   "venue": "SAGAアリーナ（佐賀）",
-   "sale_info": "ファンクラブ先行あり。一般発売は公式で要確認",
-   "source_url": "https://mrsgreenapple.com/feature/ringojamtour_shadows",
-   "confidence": "high"
   },
   {
    "artist": "04 Limited Sazabys",
@@ -368,6 +388,16 @@
    "confidence": "high"
   },
   {
+   "artist": "Mrs. GREEN APPLE",
+   "date": "2026-11-05",
+   "title": "Mrs. GREEN APPLE Ringo Jam Tour “SHADOWS”",
+   "kind": "ワンマン",
+   "venue": "SAGAアリーナ（佐賀）",
+   "sale_info": "ファンクラブ先行あり。一般発売は公式で要確認",
+   "source_url": "https://mrsgreenapple.com/feature/ringojamtour_shadows",
+   "confidence": "high"
+  },
+  {
    "artist": "ヤバイTシャツ屋さん",
    "date": "2026-11-05",
    "title": "\"Magical Tank-top Parade\" ONE-MAN TOUR 2026",
@@ -378,16 +408,6 @@
    "source_url": "https://realsound.jp/2026/05/post-2389827.html",
    "confidence": "high",
    "sale_info": "6,050円（税込）＋ドリンク代。開場18:00／開演19:00"
-  },
-  {
-   "artist": "Mrs. GREEN APPLE",
-   "date": "2026-11-05",
-   "title": "Mrs. GREEN APPLE Ringo Jam Tour “SHADOWS”",
-   "kind": "ワンマン",
-   "venue": "SAGAアリーナ（佐賀）",
-   "sale_info": "ファンクラブ先行あり。一般発売は公式で要確認",
-   "source_url": "https://mrsgreenapple.com/feature/ringojamtour_shadows",
-   "confidence": "high"
   },
   {
    "artist": "ORAL CIGARETTES",
@@ -400,6 +420,37 @@
    "ticket_name": "e+",
    "ticket_url": "https://eplus.jp/sf/word/0000044957",
    "source_url": "https://dime.jp/company_news/detail/?pr=2664079",
+   "confidence": "high"
+  },
+  {
+   "artist": "10-FEET",
+   "date": "2026-11-07",
+   "title": "AIR JAM 2026",
+   "kind": "フェス",
+   "venue": "ZOZOマリンスタジアム（千葉県）",
+   "sale_info": "Hi-STANDARD主催・ヘッドライナー。公式サイトにSOLDOUT表示あり",
+   "source_url": "https://airjam.jp/",
+   "confidence": "high"
+  },
+  {
+   "artist": "HEY-SMITH",
+   "date": "2026-11-07",
+   "title": "AIR JAM 2026",
+   "kind": "フェス",
+   "venue": "ZOZOマリンスタジアム（千葉県）",
+   "sale_info": "Hi-STANDARD主催・ヘッドライナー。公式サイトにSOLDOUT表示あり",
+   "source_url": "https://airjam.jp/",
+   "confidence": "high"
+  },
+  {
+   "artist": "Hi-STANDARD",
+   "date": "2026-11-07",
+   "title": "AIR JAM 2026",
+   "kind": "フェス",
+   "venue": "ZOZOマリンスタジアム（千葉県）",
+   "with": "10-FEET、HEY-SMITH、マキシマム ザ ホルモン、ザ・クロマニヨンズ ほか",
+   "sale_info": "Hi-STANDARD主催・ヘッドライナー。公式サイトにSOLDOUT表示あり",
+   "source_url": "https://airjam.jp/",
    "confidence": "high"
   },
   {
@@ -416,12 +467,11 @@
    "confidence": "high"
   },
   {
-   "artist": "Hi-STANDARD",
+   "artist": "マキシマム ザ ホルモン",
    "date": "2026-11-07",
    "title": "AIR JAM 2026",
    "kind": "フェス",
    "venue": "ZOZOマリンスタジアム（千葉県）",
-   "with": "10-FEET、HEY-SMITH、マキシマム ザ ホルモン、ザ・クロマニヨンズ ほか",
    "sale_info": "Hi-STANDARD主催・ヘッドライナー。公式サイトにSOLDOUT表示あり",
    "source_url": "https://airjam.jp/",
    "confidence": "high"
@@ -500,6 +550,29 @@
    "confidence": "high"
   },
   {
+   "artist": "マキシマム ザ ホルモン",
+   "date": "2026-11-13",
+   "title": "対バンツアー「ザ・ホルモネア」",
+   "kind": "対バン",
+   "venue": "松山市総合コミュニティセンター（愛媛）",
+   "sale_info": "ゲストは後日発表",
+   "source_url": "https://natalie.mu/music/news/684366",
+   "confidence": "low"
+  },
+  {
+   "artist": "HEY-SMITH",
+   "date": "2026-11-14",
+   "title": "HEY-SMITH 20th ANNIVERSARY『ALL OVER JAPAN TOUR』",
+   "kind": "対バン",
+   "venue": "SENDAI GIGS（宮城）",
+   "with": "ハルカミライ",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/heysmith_AOJ47tour/",
+   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）",
+   "source_url": "https://spice.eplus.jp/articles/344241",
+   "confidence": "high"
+  },
+  {
    "artist": "Mrs. GREEN APPLE",
    "date": "2026-11-14",
    "title": "Mrs. GREEN APPLE Ringo Jam Tour “SHADOWS”",
@@ -507,6 +580,19 @@
    "venue": "サンドーム福井（福井）",
    "sale_info": "ファンクラブ先行あり。一般発売は公式で要確認",
    "source_url": "https://mrsgreenapple.com/feature/ringojamtour_shadows",
+   "confidence": "high"
+  },
+  {
+   "artist": "HEY-SMITH",
+   "date": "2026-11-15",
+   "title": "HEY-SMITH 20th ANNIVERSARY『ALL OVER JAPAN TOUR』",
+   "kind": "対バン",
+   "venue": "高崎芸術劇場 スタジオシアター（群馬）",
+   "with": "ハルカミライ",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/heysmith_AOJ47tour/",
+   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）",
+   "source_url": "https://spice.eplus.jp/articles/344241",
    "confidence": "high"
   },
   {
@@ -556,6 +642,16 @@
    "confidence": "high"
   },
   {
+   "artist": "ヤバイTシャツ屋さん",
+   "date": "2026-11-18",
+   "title": "Wienners OVER THE TOP TOUR 2026（名古屋）",
+   "kind": "対バン",
+   "venue": "名古屋CLUB QUATTRO（愛知）",
+   "sale_info": "Wienners対バンツアー。出演日は報道ベース、公式で要確認",
+   "source_url": "https://natalie.mu/music/news/686462",
+   "confidence": "low"
+  },
+  {
    "artist": "Mrs. GREEN APPLE",
    "date": "2026-11-19",
    "title": "Mrs. GREEN APPLE Ringo Jam Tour “SHADOWS”",
@@ -566,6 +662,29 @@
    "confidence": "high"
   },
   {
+   "artist": "04 Limited Sazabys",
+   "date": "2026-11-24",
+   "title": "Wienners OVER THE TOP TOUR 2026 ファイナル",
+   "kind": "対バン",
+   "venue": "LIQUIDROOM（東京）",
+   "sale_info": "Wienners対バンツアーの最終日。ゲスト：粗品、ヤバイTシャツ屋さん、04 Limited Sazabys",
+   "source_url": "https://natalie.mu/music/news/686462",
+   "confidence": "low"
+  },
+  {
+   "artist": "HEY-SMITH",
+   "date": "2026-11-26",
+   "title": "HEY-SMITH 20th ANNIVERSARY『ALL OVER JAPAN TOUR』",
+   "kind": "対バン",
+   "venue": "清水SOUND SHOWER ark（静岡）",
+   "with": "dustbox",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/heysmith_AOJ47tour/",
+   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）",
+   "source_url": "https://spice.eplus.jp/articles/344241",
+   "confidence": "high"
+  },
+  {
    "artist": "ELLEGARDEN",
    "date": "2026-11-28",
    "title": "Bad For Education Tour II (2026)",
@@ -573,6 +692,18 @@
    "venue": "Seoul YES24 LIVE HALL（韓国）",
    "sale_info": "11/28・29の2日間",
    "source_url": "https://realsound.jp/2026/08/post-2487674.html",
+   "confidence": "high"
+  },
+  {
+   "artist": "HEY-SMITH",
+   "date": "2026-11-28",
+   "title": "HEY-SMITH 20th ANNIVERSARY『ALL OVER JAPAN TOUR』",
+   "kind": "対バン",
+   "venue": "佐賀GEILS（佐賀）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/heysmith_AOJ47tour/",
+   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）",
+   "source_url": "https://spice.eplus.jp/articles/344241",
    "confidence": "high"
   },
   {
@@ -592,6 +723,18 @@
    "kind": "ワンマン",
    "venue": "Seoul YES24 LIVE HALL（韓国）",
    "source_url": "https://realsound.jp/2026/08/post-2487674.html",
+   "confidence": "high"
+  },
+  {
+   "artist": "HEY-SMITH",
+   "date": "2026-11-29",
+   "title": "HEY-SMITH 20th ANNIVERSARY『ALL OVER JAPAN TOUR』",
+   "kind": "対バン",
+   "venue": "Zepp Fukuoka（福岡）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/heysmith_AOJ47tour/",
+   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）",
+   "source_url": "https://spice.eplus.jp/articles/344241",
    "confidence": "high"
   },
   {
@@ -642,6 +785,76 @@
    "sale_info": "ファンクラブ先行あり。一般発売は公式で要確認",
    "source_url": "https://mrsgreenapple.com/feature/ringojamtour_shadows",
    "confidence": "high"
+  },
+  {
+   "artist": "04 Limited Sazabys",
+   "date": "2026-12-04",
+   "title": "TORI ROCK FESTIVAL'26（12/4・5のどちらか）",
+   "kind": "フェス",
+   "venue": "豊洲PIT（東京）",
+   "ticket_name": "チケットぴあ",
+   "ticket_url": "https://w.pia.jp/t/torirockfes2026/",
+   "sale_info": "12/4・5の2日間。出演日は未発表（日割り発表待ち）。通し13,000円／DAY1 6,500円／DAY2 7,900円",
+   "source_url": "https://barks.jp/news/1081936/",
+   "confidence": "low"
+  },
+  {
+   "artist": "04 Limited Sazabys",
+   "date": "2026-12-06",
+   "title": "BLAZE UP NAGASAKI 2026（12/5・6のうち12/6）",
+   "kind": "フェス",
+   "venue": "出島メッセ長崎（長崎）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/blazeupnagasaki/",
+   "sale_info": "12/5・6の2日間開催。第3次先行（抽選）は10/12で受付終了",
+   "source_url": "https://barks.jp/news/1091706/",
+   "confidence": "high"
+  },
+  {
+   "artist": "10-FEET",
+   "date": "2026-12-06",
+   "title": "BLAZE UP NAGASAKI 2026（12/5・6のうち12/6）",
+   "kind": "フェス",
+   "venue": "出島メッセ長崎（長崎）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/blazeupnagasaki/",
+   "sale_info": "12/5・6の2日間開催。第3次先行（抽選）は10/12で受付終了",
+   "source_url": "https://barks.jp/news/1091706/",
+   "confidence": "high"
+  },
+  {
+   "artist": "HEY-SMITH",
+   "date": "2026-12-06",
+   "title": "BLAZE UP NAGASAKI 2026（12/5・6のうち12/6）",
+   "kind": "フェス",
+   "venue": "出島メッセ長崎（長崎）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/blazeupnagasaki/",
+   "sale_info": "12/5・6の2日間開催。第3次先行（抽選）は10/12で受付終了",
+   "source_url": "https://barks.jp/news/1091706/",
+   "confidence": "high"
+  },
+  {
+   "artist": "ORAL CIGARETTES",
+   "date": "2026-12-06",
+   "title": "BLAZE UP NAGASAKI 2026（12/5・6のうち12/6）",
+   "kind": "フェス",
+   "venue": "出島メッセ長崎（長崎）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/blazeupnagasaki/",
+   "sale_info": "12/5・6の2日間開催。第3次先行（抽選）は10/12で受付終了",
+   "source_url": "https://barks.jp/news/1091706/",
+   "confidence": "high"
+  },
+  {
+   "artist": "マキシマム ザ ホルモン",
+   "date": "2026-12-07",
+   "title": "対バンツアー「ザ・ホルモネア」",
+   "kind": "対バン",
+   "venue": "GORILLA HALL OSAKA（大阪）",
+   "sale_info": "ゲストは後日発表",
+   "source_url": "https://natalie.mu/music/news/684366",
+   "confidence": "low"
   },
   {
    "artist": "ELLEGARDEN",
@@ -707,6 +920,16 @@
    "confidence": "high"
   },
   {
+   "artist": "マキシマム ザ ホルモン",
+   "date": "2026-12-18",
+   "title": "対バンツアー「ザ・ホルモネア」",
+   "kind": "対バン",
+   "venue": "BLUE LIVE HIROSHIMA（広島）",
+   "sale_info": "ゲストは後日発表",
+   "source_url": "https://natalie.mu/music/news/684366",
+   "confidence": "low"
+  },
+  {
    "artist": "Mrs. GREEN APPLE",
    "date": "2026-12-19",
    "title": "Mrs. GREEN APPLE Ringo Jam Tour “SHADOWS”",
@@ -757,6 +980,132 @@
    "confidence": "high"
   },
   {
+   "artist": "HEY-SMITH",
+   "date": "2027-01-09",
+   "title": "HEY-SMITH 20th ANNIVERSARY『ALL OVER JAPAN TOUR』",
+   "kind": "対バン",
+   "venue": "高松オリーブホール（香川）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/heysmith_AOJ47tour/",
+   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）",
+   "source_url": "https://spice.eplus.jp/articles/344241",
+   "confidence": "high"
+  },
+  {
+   "artist": "HEY-SMITH",
+   "date": "2027-01-10",
+   "title": "HEY-SMITH 20th ANNIVERSARY『ALL OVER JAPAN TOUR』",
+   "kind": "対バン",
+   "venue": "徳島 アスティとくしま アクア・チッタ（徳島）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/heysmith_AOJ47tour/",
+   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）",
+   "source_url": "https://spice.eplus.jp/articles/344241",
+   "confidence": "high"
+  },
+  {
+   "artist": "HEY-SMITH",
+   "date": "2027-01-12",
+   "title": "HEY-SMITH 20th ANNIVERSARY『ALL OVER JAPAN TOUR』",
+   "kind": "対バン",
+   "venue": "松江AZTiC canova（島根）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/heysmith_AOJ47tour/",
+   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）",
+   "source_url": "https://spice.eplus.jp/articles/344241",
+   "confidence": "high"
+  },
+  {
+   "artist": "HEY-SMITH",
+   "date": "2027-01-13",
+   "title": "HEY-SMITH 20th ANNIVERSARY『ALL OVER JAPAN TOUR』",
+   "kind": "対バン",
+   "venue": "米子AZTiC laughs（鳥取）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/heysmith_AOJ47tour/",
+   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）",
+   "source_url": "https://spice.eplus.jp/articles/344241",
+   "confidence": "high"
+  },
+  {
+   "artist": "HEY-SMITH",
+   "date": "2027-01-16",
+   "title": "HEY-SMITH 20th ANNIVERSARY『ALL OVER JAPAN TOUR』",
+   "kind": "対バン",
+   "venue": "和歌山SHELTER（和歌山）",
+   "with": "Maki",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/heysmith_AOJ47tour/",
+   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）",
+   "source_url": "https://spice.eplus.jp/articles/344241",
+   "confidence": "high"
+  },
+  {
+   "artist": "HEY-SMITH",
+   "date": "2027-01-17",
+   "title": "HEY-SMITH 20th ANNIVERSARY『ALL OVER JAPAN TOUR』",
+   "kind": "対バン",
+   "venue": "奈良EVANS CASTLE HALL（奈良）",
+   "with": "Maki",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/heysmith_AOJ47tour/",
+   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）",
+   "source_url": "https://spice.eplus.jp/articles/344241",
+   "confidence": "high"
+  },
+  {
+   "artist": "HEY-SMITH",
+   "date": "2027-01-19",
+   "title": "HEY-SMITH 20th ANNIVERSARY『ALL OVER JAPAN TOUR』",
+   "kind": "対バン",
+   "venue": "松阪M'AXA（三重）",
+   "with": "The Suicide Machines",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/heysmith_AOJ47tour/",
+   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）",
+   "source_url": "https://spice.eplus.jp/articles/344241",
+   "confidence": "high"
+  },
+  {
+   "artist": "HEY-SMITH",
+   "date": "2027-01-20",
+   "title": "HEY-SMITH 20th ANNIVERSARY『ALL OVER JAPAN TOUR』",
+   "kind": "対バン",
+   "venue": "京都FANJ（京都）",
+   "with": "The Suicide Machines",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/heysmith_AOJ47tour/",
+   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）",
+   "source_url": "https://spice.eplus.jp/articles/344241",
+   "confidence": "high"
+  },
+  {
+   "artist": "HEY-SMITH",
+   "date": "2027-01-22",
+   "title": "HEY-SMITH 20th ANNIVERSARY『ALL OVER JAPAN TOUR』",
+   "kind": "対バン",
+   "venue": "なんばHatch（大阪）",
+   "with": "My Hair is Bad",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/heysmith_AOJ47tour/",
+   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）",
+   "source_url": "https://spice.eplus.jp/articles/344241",
+   "confidence": "high"
+  },
+  {
+   "artist": "HEY-SMITH",
+   "date": "2027-02-06",
+   "title": "HEY-SMITH 20th ANNIVERSARY『ALL OVER JAPAN TOUR』",
+   "kind": "対バン",
+   "venue": "広島CLUB QUATTRO（広島）",
+   "with": "KUZIRA",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/heysmith_AOJ47tour/",
+   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）",
+   "source_url": "https://spice.eplus.jp/articles/344241",
+   "confidence": "high"
+  },
+  {
    "artist": "あいみょん",
    "date": "2027-02-06",
    "title": "AIMYON TOUR 2027",
@@ -767,12 +1116,62 @@
    "confidence": "high"
   },
   {
+   "artist": "HEY-SMITH",
+   "date": "2027-02-07",
+   "title": "HEY-SMITH 20th ANNIVERSARY『ALL OVER JAPAN TOUR』",
+   "kind": "対バン",
+   "venue": "山口RISING HALL（山口）",
+   "with": "KUZIRA",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/heysmith_AOJ47tour/",
+   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）",
+   "source_url": "https://spice.eplus.jp/articles/344241",
+   "confidence": "high"
+  },
+  {
    "artist": "あいみょん",
    "date": "2027-02-07",
    "title": "AIMYON TOUR 2027",
    "kind": "ワンマン",
    "venue": "ぴあアリーナMM（神奈川）",
    "source_url": "https://realsound.jp/2026/07/post-2462631.html",
+   "confidence": "high"
+  },
+  {
+   "artist": "HEY-SMITH",
+   "date": "2027-02-09",
+   "title": "HEY-SMITH 20th ANNIVERSARY『ALL OVER JAPAN TOUR』",
+   "kind": "対バン",
+   "venue": "長崎Astro Space（長崎）",
+   "with": "KUZIRA",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/heysmith_AOJ47tour/",
+   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）",
+   "source_url": "https://spice.eplus.jp/articles/344241",
+   "confidence": "high"
+  },
+  {
+   "artist": "HEY-SMITH",
+   "date": "2027-02-11",
+   "title": "HEY-SMITH 20th ANNIVERSARY『ALL OVER JAPAN TOUR』",
+   "kind": "対バン",
+   "venue": "大分DRUM Be-0（大分）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/heysmith_AOJ47tour/",
+   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）",
+   "source_url": "https://spice.eplus.jp/articles/344241",
+   "confidence": "high"
+  },
+  {
+   "artist": "HEY-SMITH",
+   "date": "2027-02-13",
+   "title": "HEY-SMITH 20th ANNIVERSARY『ALL OVER JAPAN TOUR』",
+   "kind": "対バン",
+   "venue": "鹿児島CAPARVO HALL（鹿児島）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/heysmith_AOJ47tour/",
+   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）",
+   "source_url": "https://spice.eplus.jp/articles/344241",
    "confidence": "high"
   },
   {
@@ -786,12 +1185,60 @@
    "confidence": "high"
   },
   {
+   "artist": "HEY-SMITH",
+   "date": "2027-02-14",
+   "title": "HEY-SMITH 20th ANNIVERSARY『ALL OVER JAPAN TOUR』",
+   "kind": "対バン",
+   "venue": "熊本B.9 V1（熊本）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/heysmith_AOJ47tour/",
+   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）",
+   "source_url": "https://spice.eplus.jp/articles/344241",
+   "confidence": "high"
+  },
+  {
    "artist": "あいみょん",
    "date": "2027-02-14",
    "title": "AIMYON TOUR 2027",
    "kind": "ワンマン",
    "venue": "サンドーム福井（福井）",
    "source_url": "https://realsound.jp/2026/07/post-2462631.html",
+   "confidence": "high"
+  },
+  {
+   "artist": "HEY-SMITH",
+   "date": "2027-02-16",
+   "title": "HEY-SMITH 20th ANNIVERSARY『ALL OVER JAPAN TOUR』",
+   "kind": "対バン",
+   "venue": "宮崎LAZARUS（宮崎）",
+   "with": "Dizzy Sunfist",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/heysmith_AOJ47tour/",
+   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）",
+   "source_url": "https://spice.eplus.jp/articles/344241",
+   "confidence": "high"
+  },
+  {
+   "artist": "HEY-SMITH",
+   "date": "2027-02-18",
+   "title": "HEY-SMITH 20th ANNIVERSARY『ALL OVER JAPAN TOUR』",
+   "kind": "対バン",
+   "venue": "岡山YEBISU YA PRO（岡山）",
+   "with": "Dizzy Sunfist",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/heysmith_AOJ47tour/",
+   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）",
+   "source_url": "https://spice.eplus.jp/articles/344241",
+   "confidence": "high"
+  },
+  {
+   "artist": "Mrs. GREEN APPLE",
+   "date": "2027-02-20",
+   "title": "Harmony2",
+   "kind": "ワンマン",
+   "venue": "Kアリーナ横浜（神奈川）",
+   "sale_info": "チケット詳細は後日発表。アルバム『POPS』封入のシリアルコード／FC「Ringo Jam」最速先行",
+   "source_url": "https://www.thefirsttimes.jp/news/0000882382/",
    "confidence": "high"
   },
   {
@@ -805,12 +1252,167 @@
    "confidence": "high"
   },
   {
+   "artist": "Mrs. GREEN APPLE",
+   "date": "2027-02-21",
+   "title": "Harmony2",
+   "kind": "ワンマン",
+   "venue": "Kアリーナ横浜（神奈川）",
+   "sale_info": "チケット詳細は後日発表。アルバム『POPS』封入のシリアルコード／FC「Ringo Jam」最速先行",
+   "source_url": "https://www.thefirsttimes.jp/news/0000882382/",
+   "confidence": "high"
+  },
+  {
+   "artist": "ORAL CIGARETTES",
+   "date": "2027-02-21",
+   "title": "ALL-STANDING ARENA TOUR 2027「DOPE PURPLE HOLE」",
+   "kind": "ワンマン",
+   "venue": "ポートメッセなごや 第1展示館（愛知）",
+   "sale_info": "スタンディング9,500円／キッズペア12,500円。FC先行は9/20終了、一般発売は未確認",
+   "source_url": "https://spice.eplus.jp/articles/348992",
+   "confidence": "high"
+  },
+  {
    "artist": "あいみょん",
    "date": "2027-02-21",
    "title": "AIMYON TOUR 2027",
    "kind": "ワンマン",
    "venue": "朱鷺メッセ（新潟）",
    "source_url": "https://realsound.jp/2026/07/post-2462631.html",
+   "confidence": "high"
+  },
+  {
+   "artist": "Mrs. GREEN APPLE",
+   "date": "2027-02-27",
+   "title": "Harmony2",
+   "kind": "ワンマン",
+   "venue": "Kアリーナ横浜（神奈川）",
+   "sale_info": "チケット詳細は後日発表。アルバム『POPS』封入のシリアルコード／FC「Ringo Jam」最速先行",
+   "source_url": "https://www.thefirsttimes.jp/news/0000882382/",
+   "confidence": "high"
+  },
+  {
+   "artist": "Mrs. GREEN APPLE",
+   "date": "2027-02-28",
+   "title": "Harmony2",
+   "kind": "ワンマン",
+   "venue": "Kアリーナ横浜（神奈川）",
+   "sale_info": "チケット詳細は後日発表。アルバム『POPS』封入のシリアルコード／FC「Ringo Jam」最速先行",
+   "source_url": "https://www.thefirsttimes.jp/news/0000882382/",
+   "confidence": "high"
+  },
+  {
+   "artist": "HEY-SMITH",
+   "date": "2027-03-04",
+   "title": "HEY-SMITH 20th ANNIVERSARY『ALL OVER JAPAN TOUR』",
+   "kind": "対バン",
+   "venue": "神戸VARIT.（兵庫）",
+   "with": "JUNKY58%",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/heysmith_AOJ47tour/",
+   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）",
+   "source_url": "https://spice.eplus.jp/articles/344241",
+   "confidence": "high"
+  },
+  {
+   "artist": "ORAL CIGARETTES",
+   "date": "2027-03-04",
+   "title": "ALL-STANDING ARENA TOUR 2027「DOPE PURPLE HOLE」",
+   "kind": "ワンマン",
+   "venue": "幕張メッセ国際展示場1-2ホール（千葉）",
+   "sale_info": "スタンディング9,500円／キッズペア12,500円。FC先行は9/20終了、一般発売は未確認",
+   "source_url": "https://spice.eplus.jp/articles/348992",
+   "confidence": "high"
+  },
+  {
+   "artist": "HEY-SMITH",
+   "date": "2027-03-06",
+   "title": "HEY-SMITH 20th ANNIVERSARY『ALL OVER JAPAN TOUR』",
+   "kind": "対バン",
+   "venue": "高知CARAVAN SARY（高知）",
+   "with": "ROTTENGRAFFTY",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/heysmith_AOJ47tour/",
+   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）",
+   "source_url": "https://spice.eplus.jp/articles/344241",
+   "confidence": "high"
+  },
+  {
+   "artist": "Mrs. GREEN APPLE",
+   "date": "2027-03-06",
+   "title": "Harmony2",
+   "kind": "ワンマン",
+   "venue": "Kアリーナ横浜（神奈川）",
+   "sale_info": "チケット詳細は後日発表。アルバム『POPS』封入のシリアルコード／FC「Ringo Jam」最速先行",
+   "source_url": "https://www.thefirsttimes.jp/news/0000882382/",
+   "confidence": "high"
+  },
+  {
+   "artist": "HEY-SMITH",
+   "date": "2027-03-07",
+   "title": "HEY-SMITH 20th ANNIVERSARY『ALL OVER JAPAN TOUR』",
+   "kind": "対バン",
+   "venue": "愛媛WstudioRED（愛媛）",
+   "with": "ROTTENGRAFFTY",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/heysmith_AOJ47tour/",
+   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）",
+   "source_url": "https://spice.eplus.jp/articles/344241",
+   "confidence": "high"
+  },
+  {
+   "artist": "Mrs. GREEN APPLE",
+   "date": "2027-03-07",
+   "title": "Harmony2",
+   "kind": "ワンマン",
+   "venue": "Kアリーナ横浜（神奈川）",
+   "sale_info": "チケット詳細は後日発表。アルバム『POPS』封入のシリアルコード／FC「Ringo Jam」最速先行",
+   "source_url": "https://www.thefirsttimes.jp/news/0000882382/",
+   "confidence": "high"
+  },
+  {
+   "artist": "Mrs. GREEN APPLE",
+   "date": "2027-03-10",
+   "title": "Harmony2",
+   "kind": "ワンマン",
+   "venue": "Kアリーナ横浜（神奈川）",
+   "sale_info": "チケット詳細は後日発表。アルバム『POPS』封入のシリアルコード／FC「Ringo Jam」最速先行",
+   "source_url": "https://www.thefirsttimes.jp/news/0000882382/",
+   "confidence": "high"
+  },
+  {
+   "artist": "HEY-SMITH",
+   "date": "2027-03-11",
+   "title": "HEY-SMITH 20th ANNIVERSARY『ALL OVER JAPAN TOUR』",
+   "kind": "対バン",
+   "venue": "秋田Club SWINDLE（秋田）",
+   "with": "SHADOWS",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/heysmith_AOJ47tour/",
+   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）",
+   "source_url": "https://spice.eplus.jp/articles/344241",
+   "confidence": "high"
+  },
+  {
+   "artist": "Mrs. GREEN APPLE",
+   "date": "2027-03-11",
+   "title": "Harmony2",
+   "kind": "ワンマン",
+   "venue": "Kアリーナ横浜（神奈川）",
+   "sale_info": "チケット詳細は後日発表。アルバム『POPS』封入のシリアルコード／FC「Ringo Jam」最速先行",
+   "source_url": "https://www.thefirsttimes.jp/news/0000882382/",
+   "confidence": "high"
+  },
+  {
+   "artist": "HEY-SMITH",
+   "date": "2027-03-13",
+   "title": "HEY-SMITH 20th ANNIVERSARY『ALL OVER JAPAN TOUR』",
+   "kind": "対バン",
+   "venue": "青森Quarter（青森）",
+   "with": "SHADOWS",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/heysmith_AOJ47tour/",
+   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）",
+   "source_url": "https://spice.eplus.jp/articles/344241",
    "confidence": "high"
   },
   {
@@ -824,12 +1426,58 @@
    "confidence": "high"
   },
   {
+   "artist": "HEY-SMITH",
+   "date": "2027-03-14",
+   "title": "HEY-SMITH 20th ANNIVERSARY『ALL OVER JAPAN TOUR』",
+   "kind": "対バン",
+   "venue": "盛岡CLUB CHANGE WAVE（岩手）",
+   "with": "SHADOWS",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/heysmith_AOJ47tour/",
+   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）",
+   "source_url": "https://spice.eplus.jp/articles/344241",
+   "confidence": "high"
+  },
+  {
    "artist": "あいみょん",
    "date": "2027-03-14",
    "title": "AIMYON TOUR 2027",
    "kind": "ワンマン",
    "venue": "K-Arena Yokohama（神奈川）",
    "source_url": "https://realsound.jp/2026/07/post-2462631.html",
+   "confidence": "high"
+  },
+  {
+   "artist": "HEY-SMITH",
+   "date": "2027-03-16",
+   "title": "HEY-SMITH 20th ANNIVERSARY『ALL OVER JAPAN TOUR』",
+   "kind": "対バン",
+   "venue": "山形ミュージック昭和Session（山形）",
+   "with": "SHADOWS",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/heysmith_AOJ47tour/",
+   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）",
+   "source_url": "https://spice.eplus.jp/articles/344241",
+   "confidence": "high"
+  },
+  {
+   "artist": "Mrs. GREEN APPLE",
+   "date": "2027-03-16",
+   "title": "Harmony2",
+   "kind": "ワンマン",
+   "venue": "Kアリーナ横浜（神奈川）",
+   "sale_info": "チケット詳細は後日発表。アルバム『POPS』封入のシリアルコード／FC「Ringo Jam」最速先行",
+   "source_url": "https://www.thefirsttimes.jp/news/0000882382/",
+   "confidence": "high"
+  },
+  {
+   "artist": "Mrs. GREEN APPLE",
+   "date": "2027-03-17",
+   "title": "Harmony2",
+   "kind": "ワンマン",
+   "venue": "Kアリーナ横浜（神奈川）",
+   "sale_info": "チケット詳細は後日発表。アルバム『POPS』封入のシリアルコード／FC「Ringo Jam」最速先行",
+   "source_url": "https://www.thefirsttimes.jp/news/0000882382/",
    "confidence": "high"
   },
   {
@@ -852,6 +1500,32 @@
    "confidence": "high"
   },
   {
+   "artist": "HEY-SMITH",
+   "date": "2027-03-27",
+   "title": "HEY-SMITH 20th ANNIVERSARY『ALL OVER JAPAN TOUR』",
+   "kind": "対バン",
+   "venue": "沖縄 桜坂セントラル（沖縄）",
+   "with": "山嵐",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/heysmith_AOJ47tour/",
+   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）",
+   "source_url": "https://spice.eplus.jp/articles/344241",
+   "confidence": "high"
+  },
+  {
+   "artist": "HEY-SMITH",
+   "date": "2027-03-31",
+   "title": "HEY-SMITH 20th ANNIVERSARY『ALL OVER JAPAN TOUR』",
+   "kind": "対バン",
+   "venue": "豊中LIVE HOUSE LIP2nd（大阪）",
+   "with": "EGG BRAIN",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/heysmith_AOJ47tour/",
+   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）",
+   "source_url": "https://spice.eplus.jp/articles/344241",
+   "confidence": "high"
+  },
+  {
    "artist": "あいみょん",
    "date": "2027-03-31",
    "title": "AIMYON TOUR 2027",
@@ -862,12 +1536,57 @@
    "confidence": "high"
   },
   {
+   "artist": "10-FEET",
+   "date": "2027-04-01",
+   "title": "10-FEET × G-FREAK FACTORY 30th Anniversary「10-FREAK HISTORY」〜2本○○○〜",
+   "kind": "対バン",
+   "venue": "サッポロファクトリーホール（北海道）",
+   "with": "G-FREAK FACTORY",
+   "sale_info": "前売5,500円（ドリンク別）。開場17:45/開演18:30",
+   "source_url": "https://realsound.jp/2026/10/post-2550509.html",
+   "confidence": "high"
+  },
+  {
    "artist": "あいみょん",
    "date": "2027-04-01",
    "title": "AIMYON TOUR 2027",
    "kind": "ワンマン",
    "venue": "国立代々木競技場第一体育館（東京）",
    "source_url": "https://realsound.jp/2026/07/post-2462631.html",
+   "confidence": "high"
+  },
+  {
+   "artist": "HEY-SMITH",
+   "date": "2027-04-03",
+   "title": "HEY-SMITH 20th Anniversary ONE MAN SHOW",
+   "kind": "ワンマン",
+   "venue": "大阪城ホール（大阪）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/heysmith_AOJ47tour/",
+   "sale_info": "アリーナ立見8,500円／スタンドA7,500円／スタンドB7,000円",
+   "source_url": "https://spice.eplus.jp/articles/344241",
+   "confidence": "high"
+  },
+  {
+   "artist": "10-FEET",
+   "date": "2027-04-12",
+   "title": "10-FEET × G-FREAK FACTORY 30th Anniversary「10-FREAK HISTORY」〜2本○○○〜",
+   "kind": "対バン",
+   "venue": "GORILLA HALL OSAKA（大阪）",
+   "with": "G-FREAK FACTORY",
+   "sale_info": "前売5,500円（ドリンク別）。開場17:45/開演18:30",
+   "source_url": "https://realsound.jp/2026/10/post-2550509.html",
+   "confidence": "high"
+  },
+  {
+   "artist": "10-FEET",
+   "date": "2027-04-14",
+   "title": "10-FEET × G-FREAK FACTORY 30th Anniversary「10-FREAK HISTORY」〜2本○○○〜",
+   "kind": "対バン",
+   "venue": "高松festhalle（香川）",
+   "with": "G-FREAK FACTORY",
+   "sale_info": "前売5,500円（ドリンク別）。開場17:45/開演18:30",
+   "source_url": "https://realsound.jp/2026/10/post-2550509.html",
    "confidence": "high"
   },
   {
@@ -890,6 +1609,38 @@
    "confidence": "high"
   },
   {
+   "artist": "10-FEET",
+   "date": "2027-04-19",
+   "title": "10-FEET × G-FREAK FACTORY 30th Anniversary「10-FREAK HISTORY」〜2本○○○〜",
+   "kind": "対バン",
+   "venue": "広島CLUB QUATTRO（広島）",
+   "with": "G-FREAK FACTORY",
+   "sale_info": "前売5,500円（ドリンク別）。開場17:45/開演18:30",
+   "source_url": "https://realsound.jp/2026/10/post-2550509.html",
+   "confidence": "high"
+  },
+  {
+   "artist": "10-FEET",
+   "date": "2027-04-21",
+   "title": "10-FEET × G-FREAK FACTORY 30th Anniversary「10-FREAK HISTORY」〜2本○○○〜",
+   "kind": "対バン",
+   "venue": "福岡UNITEDLAB（福岡）",
+   "with": "G-FREAK FACTORY",
+   "sale_info": "前売5,500円（ドリンク別）。開場17:45/開演18:30",
+   "source_url": "https://realsound.jp/2026/10/post-2550509.html",
+   "confidence": "high"
+  },
+  {
+   "artist": "Mrs. GREEN APPLE",
+   "date": "2027-04-21",
+   "title": "Harmony2",
+   "kind": "ワンマン",
+   "venue": "Kアリーナ横浜（神奈川）",
+   "sale_info": "チケット詳細は後日発表。アルバム『POPS』封入のシリアルコード／FC「Ringo Jam」最速先行",
+   "source_url": "https://www.thefirsttimes.jp/news/0000882382/",
+   "confidence": "high"
+  },
+  {
    "artist": "あいみょん",
    "date": "2027-04-21",
    "title": "AIMYON TOUR 2027",
@@ -900,12 +1651,32 @@
    "confidence": "high"
   },
   {
+   "artist": "Mrs. GREEN APPLE",
+   "date": "2027-04-22",
+   "title": "Harmony2",
+   "kind": "ワンマン",
+   "venue": "Kアリーナ横浜（神奈川）",
+   "sale_info": "チケット詳細は後日発表。アルバム『POPS』封入のシリアルコード／FC「Ringo Jam」最速先行",
+   "source_url": "https://www.thefirsttimes.jp/news/0000882382/",
+   "confidence": "high"
+  },
+  {
    "artist": "あいみょん",
    "date": "2027-04-22",
    "title": "AIMYON TOUR 2027",
    "kind": "ワンマン",
    "venue": "クロコくんホール（愛知）",
    "source_url": "https://realsound.jp/2026/07/post-2462631.html",
+   "confidence": "high"
+  },
+  {
+   "artist": "ORAL CIGARETTES",
+   "date": "2027-04-25",
+   "title": "ALL-STANDING ARENA TOUR 2027「DOPE PURPLE HOLE」",
+   "kind": "ワンマン",
+   "venue": "インテックス大阪 5号館（大阪）",
+   "sale_info": "スタンディング9,500円／キッズペア12,500円。FC先行は9/20終了、一般発売は未確認",
+   "source_url": "https://spice.eplus.jp/articles/348992",
    "confidence": "high"
   },
   {
@@ -947,6 +1718,36 @@
    "confidence": "high"
   },
   {
+   "artist": "Mrs. GREEN APPLE",
+   "date": "2027-05-08",
+   "title": "Harmony2",
+   "kind": "ワンマン",
+   "venue": "Kアリーナ横浜（神奈川）",
+   "sale_info": "チケット詳細は後日発表。アルバム『POPS』封入のシリアルコード／FC「Ringo Jam」最速先行",
+   "source_url": "https://www.thefirsttimes.jp/news/0000882382/",
+   "confidence": "high"
+  },
+  {
+   "artist": "Mrs. GREEN APPLE",
+   "date": "2027-05-09",
+   "title": "Harmony2",
+   "kind": "ワンマン",
+   "venue": "Kアリーナ横浜（神奈川）",
+   "sale_info": "チケット詳細は後日発表。アルバム『POPS』封入のシリアルコード／FC「Ringo Jam」最速先行",
+   "source_url": "https://www.thefirsttimes.jp/news/0000882382/",
+   "confidence": "high"
+  },
+  {
+   "artist": "Mrs. GREEN APPLE",
+   "date": "2027-05-12",
+   "title": "Harmony2",
+   "kind": "ワンマン",
+   "venue": "Kアリーナ横浜（神奈川）",
+   "sale_info": "チケット詳細は後日発表。アルバム『POPS』封入のシリアルコード／FC「Ringo Jam」最速先行",
+   "source_url": "https://www.thefirsttimes.jp/news/0000882382/",
+   "confidence": "high"
+  },
+  {
    "artist": "あいみょん",
    "date": "2027-05-12",
    "title": "AIMYON TOUR 2027",
@@ -957,12 +1758,42 @@
    "confidence": "high"
   },
   {
+   "artist": "Mrs. GREEN APPLE",
+   "date": "2027-05-13",
+   "title": "Harmony2",
+   "kind": "ワンマン",
+   "venue": "Kアリーナ横浜（神奈川）",
+   "sale_info": "チケット詳細は後日発表。アルバム『POPS』封入のシリアルコード／FC「Ringo Jam」最速先行",
+   "source_url": "https://www.thefirsttimes.jp/news/0000882382/",
+   "confidence": "high"
+  },
+  {
    "artist": "あいみょん",
    "date": "2027-05-13",
    "title": "AIMYON TOUR 2027",
    "kind": "ワンマン",
    "venue": "大阪城ホール（大阪）",
    "source_url": "https://realsound.jp/2026/07/post-2462631.html",
+   "confidence": "high"
+  },
+  {
+   "artist": "Mrs. GREEN APPLE",
+   "date": "2027-05-18",
+   "title": "Harmony2",
+   "kind": "ワンマン",
+   "venue": "Kアリーナ横浜（神奈川）",
+   "sale_info": "チケット詳細は後日発表。アルバム『POPS』封入のシリアルコード／FC「Ringo Jam」最速先行",
+   "source_url": "https://www.thefirsttimes.jp/news/0000882382/",
+   "confidence": "high"
+  },
+  {
+   "artist": "Mrs. GREEN APPLE",
+   "date": "2027-05-19",
+   "title": "Harmony2",
+   "kind": "ワンマン",
+   "venue": "Kアリーナ横浜（神奈川）",
+   "sale_info": "チケット詳細は後日発表。アルバム『POPS』封入のシリアルコード／FC「Ringo Jam」最速先行",
+   "source_url": "https://www.thefirsttimes.jp/news/0000882382/",
    "confidence": "high"
   },
   {
@@ -982,6 +1813,26 @@
    "kind": "ワンマン",
    "venue": "あなぶきアリーナ香川（香川）",
    "source_url": "https://realsound.jp/2026/07/post-2462631.html",
+   "confidence": "high"
+  },
+  {
+   "artist": "Mrs. GREEN APPLE",
+   "date": "2027-06-01",
+   "title": "Harmony2",
+   "kind": "ワンマン",
+   "venue": "Kアリーナ横浜（神奈川）",
+   "sale_info": "チケット詳細は後日発表。アルバム『POPS』封入のシリアルコード／FC「Ringo Jam」最速先行",
+   "source_url": "https://www.thefirsttimes.jp/news/0000882382/",
+   "confidence": "high"
+  },
+  {
+   "artist": "Mrs. GREEN APPLE",
+   "date": "2027-06-02",
+   "title": "Harmony2",
+   "kind": "ワンマン",
+   "venue": "Kアリーナ横浜（神奈川）",
+   "sale_info": "チケット詳細は後日発表。アルバム『POPS』封入のシリアルコード／FC「Ringo Jam」最速先行",
+   "source_url": "https://www.thefirsttimes.jp/news/0000882382/",
    "confidence": "high"
   },
   {
@@ -1020,6 +1871,26 @@
    "kind": "ワンマン",
    "venue": "真駒内セキスイハイムアイスアリーナ（北海道）",
    "source_url": "https://realsound.jp/2026/07/post-2462631.html",
+   "confidence": "high"
+  },
+  {
+   "artist": "Mrs. GREEN APPLE",
+   "date": "2027-06-16",
+   "title": "CEREMONY 2027",
+   "kind": "イベント",
+   "venue": "Kアリーナ横浜（神奈川）",
+   "sale_info": "チケット情報は未確認",
+   "source_url": "https://www.thefirsttimes.jp/news/0000865938/",
+   "confidence": "high"
+  },
+  {
+   "artist": "Mrs. GREEN APPLE",
+   "date": "2027-06-17",
+   "title": "CEREMONY 2027",
+   "kind": "イベント",
+   "venue": "Kアリーナ横浜（神奈川）",
+   "sale_info": "チケット情報は未確認",
+   "source_url": "https://www.thefirsttimes.jp/news/0000865938/",
    "confidence": "high"
   },
   {
@@ -1997,6 +2868,42 @@
   "back number": {
    "state": "no_events",
    "checked": "2026-10-16T23:30:00+09:00"
+  },
+  "04 Limited Sazabys": {
+   "state": "ok",
+   "checked": "2026-10-17T07:30:00+09:00"
+  },
+  "ELLEGARDEN": {
+   "state": "ok",
+   "checked": "2026-10-17T07:30:00+09:00"
+  },
+  "ヤバイTシャツ屋さん": {
+   "state": "ok",
+   "checked": "2026-10-17T07:30:00+09:00"
+  },
+  "ORAL CIGARETTES": {
+   "state": "ok",
+   "checked": "2026-10-17T07:30:00+09:00"
+  },
+  "HEY-SMITH": {
+   "state": "ok",
+   "checked": "2026-10-17T07:30:00+09:00"
+  },
+  "マキシマム ザ ホルモン": {
+   "state": "ok",
+   "checked": "2026-10-17T07:30:00+09:00"
+  },
+  "サンボマスター": {
+   "state": "ok",
+   "checked": "2026-10-17T07:30:00+09:00"
+  },
+  "あいみょん": {
+   "state": "ok",
+   "checked": "2026-10-17T07:30:00+09:00"
+  },
+  "10-FEET": {
+   "state": "ok",
+   "checked": "2026-10-17T07:30:00+09:00"
   }
  }
 }
