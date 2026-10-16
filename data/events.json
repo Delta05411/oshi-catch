@@ -843,100 +843,817 @@
   ],
   "festivals": [
     {
+      "name": "BACK FROM THE GRAVE HALLOWEEN BALL",
+      "start": "2026-10-17",
+      "end": "2026-10-18",
+      "pref": "東京",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "DElicious BUns FESTIVAL",
+      "start": "2026-10-17",
+      "end": "2026-10-18",
+      "pref": "愛知",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "INDIE MANNERS COLLECTIVE",
+      "start": "2026-10-17",
+      "end": "2026-10-17",
+      "pref": "栃木",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "LIVE AZUMA",
+      "start": "2026-10-17",
+      "end": "2026-10-18",
+      "pref": "福島",
+      "status": "lineup",
+      "source_url": "https://www.ragnet.co.jp/rock-festival",
+      "venue": "あづま総合運動公園"
+    },
+    {
+      "name": "MIYAKO ISLAND ROCK FESTIVAL",
+      "start": "2026-10-17",
+      "end": "2026-10-17",
+      "pref": "沖縄",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "YAPPA-MUSIC",
+      "start": "2026-10-17",
+      "end": "2026-10-17",
+      "pref": "富山",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "みいろ歌あそびフェスタ みいロック",
+      "start": "2026-10-17",
+      "end": "2026-10-17",
+      "pref": "香川",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "Bands Shock REVOLUTION",
+      "start": "2026-10-18",
+      "end": "2026-10-18",
+      "pref": "大阪",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "Chain Rock Fes",
+      "start": "2026-10-18",
+      "end": "2026-10-18",
+      "pref": "和歌山",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "FANTOM FES",
+      "start": "2026-10-18",
+      "end": "2026-10-18",
+      "pref": "熊本",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "SAMURAI SONIC",
+      "start": "2026-10-18",
+      "end": "2026-10-18",
+      "pref": "千葉",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "YONEZAWA ROCK FES",
+      "start": "2026-10-18",
+      "end": "2026-10-18",
+      "pref": "山形",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "FULL METAL JAPAN ~Powered by WACKEN~",
+      "start": "2026-10-24",
+      "end": "2026-10-25",
+      "pref": "神奈川",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "HAWAIIAN6 presents ECHOES",
+      "start": "2026-10-24",
+      "end": "2026-10-25",
+      "pref": "神奈川",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "ITaFES",
+      "start": "2026-10-24",
+      "end": "2026-10-25",
+      "pref": "東京",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "OSAKA HAZIKETEMAZARE FESTIVAL",
+      "start": "2026-10-24",
+      "end": "2026-10-25",
+      "pref": "大阪",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival",
+      "venue": "泉大津フェニックス",
+      "note": "livefans等の情報では10/25開催の可能性。要確認"
+    },
+    {
+      "name": "SOTOASOBI FRIENDS",
+      "start": "2026-10-24",
+      "end": "2026-10-24",
+      "pref": "奈良",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "コネコレロック",
+      "start": "2026-10-24",
+      "end": "2026-10-25",
+      "pref": "大阪",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "川じゃんロックフェスティバル",
+      "start": "2026-10-24",
+      "end": "2026-10-25",
+      "pref": "高知",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "CATCH the STARミュージックフェス",
+      "start": "2026-10-25",
+      "end": "2026-10-25",
+      "pref": "鳥取",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "SUPER AMERICAN FESTIVAL",
+      "start": "2026-10-25",
+      "end": "2026-10-25",
+      "pref": "東京",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "THE ARGUMENT",
+      "start": "2026-10-25",
+      "end": "2026-10-25",
+      "pref": "東京",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "イノベソニック",
+      "start": "2026-10-25",
+      "end": "2026-10-25",
+      "pref": "大阪",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "女川70sロックまつり",
+      "start": "2026-10-25",
+      "end": "2026-10-25",
+      "pref": "宮城",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "心臓爆発CIRCUIT",
+      "start": "2026-10-25",
+      "end": "2026-10-25",
+      "pref": "東京",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "Crazy Monsters Halloween Party",
+      "start": "2026-10-28",
+      "end": "2026-10-28",
+      "pref": "東京",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "BE WONDERFUL!!",
+      "start": "2026-10-31",
+      "end": "2026-11-01",
+      "pref": "愛知",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "BURST MAX",
+      "start": "2026-10-31",
+      "end": "2026-11-01",
+      "pref": "島根",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "THIS FES in Sagamihara",
+      "start": "2026-10-31",
+      "end": "2026-11-01",
+      "pref": "神奈川",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "おおいた夢色音楽祭",
+      "start": "2026-10-31",
+      "end": "2026-11-01",
+      "pref": "大分",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "四王寺ロックフェスティバル",
+      "start": "2026-10-31",
+      "end": "2026-11-01",
+      "pref": "福岡",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "女川町町制施行100周年記念祭",
+      "start": "2026-10-31",
+      "end": "2026-11-01",
+      "pref": "宮城",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "柳家スーパーフェス",
+      "start": "2026-10-31",
+      "end": "2026-11-01",
+      "pref": "山梨",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "能古島食と音楽の祭典",
+      "start": "2026-10-31",
+      "end": "2026-10-31",
+      "pref": "福岡",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "ETAJIMA BLUES ROCK祭",
+      "start": "2026-11-01",
+      "end": "2026-11-01",
+      "pref": "広島",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "KNOCKOUT FES",
+      "start": "2026-11-01",
+      "end": "2026-11-01",
+      "pref": "東京",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "SATANIC PARTY",
+      "start": "2026-11-01",
+      "end": "2026-11-01",
+      "pref": "東京",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "アガロック大作戦",
+      "start": "2026-11-01",
+      "end": "2026-11-01",
+      "pref": "新潟",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "クロマンタROCK-FES",
+      "start": "2026-11-01",
+      "end": "2026-11-01",
+      "pref": "秋田",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "鎌倉プチロックフェスティバル 秋",
+      "start": "2026-11-01",
+      "end": "2026-11-01",
+      "pref": "神奈川",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "PUNK IN AUTUMN",
+      "start": "2026-11-03",
+      "end": "2026-11-08",
+      "pref": "愛知",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "SHUNAN Orbit",
+      "start": "2026-11-03",
+      "end": "2026-11-03",
+      "pref": "山口",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "三浦ロカビリーまつり",
+      "start": "2026-11-03",
+      "end": "2026-11-03",
+      "pref": "神奈川",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "BUZZ RHYTHM LIVE",
+      "start": "2026-11-06",
+      "end": "2026-11-08",
+      "pref": "神奈川",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "AIR JAM",
+      "start": "2026-11-07",
+      "end": "2026-11-07",
+      "pref": "千葉",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "MIYA SONIC",
+      "start": "2026-11-07",
+      "end": "2026-11-07",
+      "pref": "東京",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "MONGOL800 ga FESTIVAL What a Wonderful World!!",
+      "start": "2026-11-07",
+      "end": "2026-11-08",
+      "pref": "沖縄",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "PUNK ROCK CONNECTION",
+      "start": "2026-11-07",
+      "end": "2026-11-07",
+      "pref": "東京",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "STORMY DUDES FESTA",
+      "start": "2026-11-07",
+      "end": "2026-11-07",
+      "pref": "大阪",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "いわたde音楽フェスタ",
+      "start": "2026-11-07",
+      "end": "2026-11-08",
+      "pref": "静岡",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "氣志團万博",
+      "start": "2026-11-07",
+      "end": "2026-11-08",
+      "pref": "千葉",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "金沢一生青春FESTIVAL",
+      "start": "2026-11-07",
+      "end": "2026-11-07",
+      "pref": "石川",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "おやじばんどふぇすた in YAMANASHI",
+      "start": "2026-11-08",
+      "end": "2026-11-08",
+      "pref": "山梨",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "大磯ファミリーロックフェスティバル",
+      "start": "2026-11-08",
+      "end": "2026-11-08",
+      "pref": "神奈川",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "こんがりおんがく祭",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "pref": "大阪",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "アメ村天国",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "pref": "大阪",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "宇土ROCKフェスティバル",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "pref": "熊本",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "せいか祭り 学研ミュージックストリート",
+      "start": "2026-11-15",
+      "end": "2026-11-15",
+      "pref": "京都",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "加須ゴリロックフェスティバル",
+      "start": "2026-11-15",
+      "end": "2026-11-15",
+      "pref": "埼玉",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "岩手町SDGs ROCK HAND FES",
+      "start": "2026-11-15",
+      "end": "2026-11-15",
+      "pref": "岩手",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "Kurayoshi ROCK Festival",
+      "start": "2026-11-21",
+      "end": "2026-11-22",
+      "pref": "鳥取",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "SAGAE MUSIC DAY",
+      "start": "2026-11-21",
+      "end": "2026-11-21",
+      "pref": "山形",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "over fest",
+      "start": "2026-11-21",
+      "end": "2026-11-21",
+      "pref": "東京",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "サブライムロックふぇふてぃばる",
+      "start": "2026-11-21",
+      "end": "2026-11-22",
+      "pref": "宮崎",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "千のRockYou!!",
+      "start": "2026-11-21",
+      "end": "2026-11-21",
+      "pref": "大阪",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "ANI-ROCK FES.",
+      "start": "2026-11-22",
+      "end": "2026-11-23",
+      "pref": "東京",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "MUSIC FESTIVAL「天和」",
+      "start": "2026-11-22",
+      "end": "2026-11-22",
+      "pref": "愛知",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "TRUE NORTH FESTIVAL",
+      "start": "2026-11-22",
+      "end": "2026-11-22",
+      "pref": "東京",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "PANA FES",
+      "start": "2026-11-23",
+      "end": "2026-11-23",
+      "pref": "兵庫",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "つばめ音楽祭（ロック＆フォークフェスタ）",
+      "start": "2026-11-23",
+      "end": "2026-11-23",
+      "pref": "新潟",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "ロックアンセムEX",
+      "start": "2026-11-27",
+      "end": "2026-11-29",
+      "pref": "東京",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "ISHIGAKI FEST",
+      "start": "2026-11-28",
+      "end": "2026-11-29",
+      "pref": "沖縄",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "MASTERPIECE",
+      "start": "2026-11-28",
+      "end": "2026-11-29",
+      "pref": "岐阜",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "PSYCHIC FES",
+      "start": "2026-11-28",
+      "end": "2026-11-28",
+      "pref": "大阪",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "EDO WAVE",
+      "start": "2026-11-29",
+      "end": "2026-11-29",
+      "pref": "東京",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "ROCK IN FUJI MUSIC DAY",
+      "start": "2026-11-29",
+      "end": "2026-11-29",
+      "pref": "静岡",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "浪花どさんこROCKFES",
+      "start": "2026-11-29",
+      "end": "2026-11-29",
+      "pref": "大阪",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "革命ロジック",
+      "start": "2026-11-29",
+      "end": "2026-11-29",
+      "pref": "東京",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "TORI ROCK FESTIVAL",
+      "start": "2026-12-04",
+      "end": "2026-12-05",
+      "pref": "東京",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "BLAZE UP NAGASAKI",
+      "start": "2026-12-05",
+      "end": "2026-12-06",
+      "pref": "長崎",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "TOKYO DOOM FEST -WINTER Edition-",
+      "start": "2026-12-05",
+      "end": "2026-12-06",
+      "pref": "東京",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "ドラキュラロックフェスタ",
+      "start": "2026-12-05",
+      "end": "2026-12-06",
+      "pref": "栃木",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "カデナロックフェスティバル",
+      "start": "2026-12-12",
+      "end": "2026-12-13",
+      "pref": "沖縄",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "結びの夢番地",
+      "start": "2026-12-12",
+      "end": "2026-12-13",
+      "pref": "広島",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "響都超特急",
+      "start": "2026-12-12",
+      "end": "2026-12-13",
+      "pref": "京都",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "長田大行進曲",
+      "start": "2026-12-19",
+      "end": "2026-12-19",
+      "pref": "兵庫",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
+      "name": "若者たちの音楽祭（愛川町軽音フェス）",
+      "start": "2026-12-20",
+      "end": "2026-12-20",
+      "pref": "神奈川",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
+    },
+    {
       "name": "COUNTDOWN JAPAN 26/27",
-      "note": "2026-12-26,27,29,30,31 幕張メッセ。第1弾発表済み（10/14、ホルモン含む97組）。日割り・第2弾以降を要確認"
+      "start": "2026-12-26",
+      "end": "2026-12-31",
+      "pref": "千葉",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival",
+      "venue": "幕張メッセ",
+      "note": "12/26,27,29,30,31（28日は休演日）。第1弾発表は10月中旬予定"
     },
     {
-      "name": "ツタロックフェス 2027",
-      "note": "幕張メッセ（2026年は3月開催）"
+      "name": "MAGIC HOUR FESTIVAL",
+      "start": "2026-12-26",
+      "end": "2026-12-26",
+      "pref": "東京",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
     },
     {
-      "name": "VIVA LA ROCK 2027",
-      "note": "さいたまスーパーアリーナ（GW）"
+      "name": "RADIO CRAZY",
+      "start": "2026-12-26",
+      "end": "2026-12-28",
+      "pref": "大阪",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
     },
     {
-      "name": "JAPAN JAM 2027",
-      "note": "千葉（GW）"
+      "name": "NEW HORIZON FEST",
+      "start": "2026-12-28",
+      "end": "2026-12-28",
+      "pref": "東京",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
     },
     {
-      "name": "METROCK 2027",
-      "note": ""
+      "name": "5時SAT ROCKWAVE",
+      "start": "2026-12-29",
+      "end": "2026-12-30",
+      "pref": "愛知",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
     },
     {
-      "name": "ARABAKI ROCK FEST. 2027",
-      "note": ""
+      "name": "ブクロック!フェスティバル",
+      "start": "2027-02-11",
+      "end": "2027-02-11",
+      "pref": "千葉",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
     },
     {
-      "name": "RISING SUN ROCK FESTIVAL 2027 in EZO",
-      "note": "北海道（8月）"
+      "name": "UOOO!!",
+      "start": "2027-03-27",
+      "end": "2027-03-27",
+      "pref": "東京",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
     },
     {
-      "name": "FUJI ROCK FESTIVAL '27",
-      "note": "新潟・苗場（7月）"
+      "name": "SYNCHRONICITY'26",
+      "start": "2027-04-10",
+      "end": "2027-04-11",
+      "pref": "東京",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
     },
     {
-      "name": "SUMMER SONIC 2027",
-      "note": "東京・大阪（8月中旬）"
+      "name": "渋谷メタル会フェス",
+      "start": "2027-05-01",
+      "end": "2027-05-01",
+      "pref": "東京",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
     },
     {
-      "name": "ROCK IN JAPAN FESTIVAL 2027",
-      "note": "千葉（2026年は9月開催）"
+      "name": "ONE FES -imizu music festival-",
+      "start": "2027-05-02",
+      "end": "2027-05-03",
+      "pref": "富山",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
     },
     {
-      "name": "SWEET LOVE SHOWER 2027",
-      "note": "山梨"
+      "name": "CAMPASS",
+      "start": "2027-05-29",
+      "end": "2027-05-30",
+      "pref": "千葉",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
     },
     {
-      "name": "OSAKA GIGANTIC MUSIC FESTIVAL 2027",
-      "note": "大阪"
+      "name": "かみのやまデスフェスト",
+      "start": "2027-06-13",
+      "end": "2027-06-13",
+      "pref": "山形",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
     },
     {
-      "name": "京都大作戦 2027",
-      "note": "10-FEET主催"
+      "name": "INSPIRATION OKINAWA",
+      "start": "2027-08-01",
+      "end": "2027-08-02",
+      "pref": "沖縄",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
     },
     {
-      "name": "YON FES 2027",
-      "note": "04 Limited Sazabys主催"
-    },
-    {
-      "name": "OSAKA HAZIKETEMAZARE FESTIVAL 2027",
-      "note": "HEY-SMITH主催"
-    },
-    {
-      "name": "SATANIC CARNIVAL 2027",
-      "note": "PIZZA OF DEATH主催"
-    },
-    {
-      "name": "BAYCAMP 2027",
-      "note": "神奈川"
-    },
-    {
-      "name": "RUSH BALL 2027",
-      "note": "大阪"
-    },
-    {
-      "name": "WILD BUNCH FEST. 2027",
-      "note": "山口"
-    },
-    {
-      "name": "TREASURE05X 2027",
-      "note": "愛知"
-    },
-    {
-      "name": "ベリテンライブ 2027",
-      "note": "マキシマム ザ ホルモン主催（栃木）"
-    },
-    {
-      "name": "OGA NAMAHAGE ROCK FESTIVAL 2027",
-      "note": "秋田"
-    },
-    {
-      "name": "1CHANCE FESTIVAL 2027",
-      "note": "WANIMA主催"
-    },
-    {
-      "name": "LIVE AZUMA 2027",
-      "note": "福島"
+      "name": "鶴フェス",
+      "start": "2027-10-03",
+      "end": "2027-10-03",
+      "pref": "埼玉",
+      "status": "unknown",
+      "source_url": "https://www.ragnet.co.jp/rock-festival"
     }
   ]
 }
