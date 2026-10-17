@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T07:30:00+09:00",
+ "updated": "2026-10-17T17:00:00+09:00",
  "artists": [
   "04 Limited Sazabys",
   "ELLEGARDEN",
@@ -12,7 +12,8 @@
   "10-FEET",
   "Hi-STANDARD",
   "Mrs. GREEN APPLE",
-  "back number"
+  "back number",
+  "SHANK"
  ],
  "events": [
   {
@@ -662,6 +663,18 @@
    "confidence": "high"
   },
   {
+   "artist": "SHANK",
+   "date": "2026-11-23",
+   "title": "SHANK（Shunan RISING HALL）",
+   "kind": "ワンマン",
+   "venue": "Shunan RISING HALL（山口）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/0434550007-P0030321?P6=001",
+   "sale_info": "開場17:00/開演18:00。抽選先行は受付終了",
+   "source_url": "https://eplus.jp/sf/detail/0434550007-P0030321?P6=001",
+   "confidence": "low"
+  },
+  {
    "artist": "04 Limited Sazabys",
    "date": "2026-11-24",
    "title": "Wienners OVER THE TOP TOUR 2026 ファイナル",
@@ -799,6 +812,18 @@
    "confidence": "low"
   },
   {
+   "artist": "SHANK",
+   "date": "2026-12-05",
+   "title": "BLAZE UP NAGASAKI 2026（12/5・6・SHANK主催）",
+   "kind": "フェス",
+   "venue": "出島メッセ長崎（長崎）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/blazeupnagasaki/",
+   "sale_info": "12/5・6の2日間開催。先行受付は終了",
+   "source_url": "https://spice.eplus.jp/articles/342587",
+   "confidence": "high"
+  },
+  {
    "artist": "04 Limited Sazabys",
    "date": "2026-12-06",
    "title": "BLAZE UP NAGASAKI 2026（12/5・6のうち12/6）",
@@ -844,6 +869,18 @@
    "ticket_url": "https://eplus.jp/blazeupnagasaki/",
    "sale_info": "12/5・6の2日間開催。第3次先行（抽選）は10/12で受付終了",
    "source_url": "https://barks.jp/news/1091706/",
+   "confidence": "high"
+  },
+  {
+   "artist": "SHANK",
+   "date": "2026-12-06",
+   "title": "BLAZE UP NAGASAKI 2026（12/5・6・SHANK主催）",
+   "kind": "フェス",
+   "venue": "出島メッセ長崎（長崎）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/blazeupnagasaki/",
+   "sale_info": "12/5・6の2日間開催。先行受付は終了",
+   "source_url": "https://spice.eplus.jp/articles/342587",
    "confidence": "high"
   },
   {
@@ -2616,8 +2653,9 @@
    "start": "2026-12-05",
    "end": "2026-12-06",
    "pref": "長崎",
-   "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "status": "lineup",
+   "source_url": "https://spice.eplus.jp/articles/342587",
+   "venue": "出島メッセ長崎"
   },
   {
    "name": "TOKYO DOOM FEST -WINTER Edition-",
@@ -2799,6 +2837,9 @@
   "Mrs. GREEN APPLE": {
    "official": "https://mrsgreenapple.com/",
    "schedule": "https://mrsgreenapple.com/feature/ringojamtour_shadows"
+  },
+  "SHANK": {
+   "official": "https://www.shankofficial.com/"
   }
  },
  "aliases": {
@@ -2846,16 +2887,23 @@
   "10-FEET": [
    "テンフィート",
    "10FEET",
-   "10 FEET"
+   "10 FEET",
+   "10-Feet"
   ],
   "Hi-STANDARD": [
    "ハイスタンダード",
    "ハイスタ",
    "HiSTANDARD",
    "Hi STANDARD"
+  ],
+  "SHANK": [
+   "シャンク"
   ]
  },
- "rejected": [],
+ "rejected": [
+  "ぬるぽがっ太郎バンド",
+  "asdfghjklqwerty"
+ ],
  "artist_status": {
   "Hi-STANDARD": {
    "state": "ok",
@@ -2904,6 +2952,10 @@
   "10-FEET": {
    "state": "ok",
    "checked": "2026-10-17T07:30:00+09:00"
+  },
+  "SHANK": {
+   "state": "ok",
+   "checked": "2026-10-17T17:00:00+09:00"
   }
  }
 }
