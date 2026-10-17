@@ -50,6 +50,9 @@ header .wrap{display:flex;align-items:center;justify-content:space-between;heigh
 .chip:hover{color:var(--fg)}
 .chip.on{color:var(--w);border-bottom-color:var(--w)}
 .chip.pend{font-style:normal;border-bottom:1px dashed var(--line2)}
+.chips.fold{max-height:66px;overflow:hidden;-webkit-mask-image:linear-gradient(#000 62%,transparent);mask-image:linear-gradient(#000 62%,transparent)}
+#ctog{display:block;margin:6px 0 0;font-family:"Bebas Neue",sans-serif;font-size:16px;letter-spacing:.1em;color:var(--w);padding:4px 0;border-bottom:1px solid var(--w)}
+#ctog[hidden]{display:none}
 .spin{display:inline-block;width:11px;height:11px;border:2px solid var(--w);border-right-color:transparent;border-radius:50%;animation:sp .8s linear infinite;flex:none}
 @keyframes sp{to{transform:rotate(360deg)}}
 
@@ -125,6 +128,7 @@ main{padding-bottom:70px}
     <p id="herosub">推しのライブ・フェスを、まとめてキャッチ</p>
     <label class="search"><input id="q" type="search" placeholder="会場・公演名・地名で探す" autocomplete="off" aria-label="検索"></label>
     <div class="chips" id="chips" role="group" aria-label="推しで絞り込み"></div>
+    <button type="button" id="ctog" hidden></button>
   </section>
   <main id="out"><div class="sk"></div><div class="sk"></div><div class="sk"></div></main>
 </div>
@@ -201,10 +205,22 @@ function loadCat(){
 const LATE=24*3600*1000; // 24時間たっても反映されない場合は注意を出す
 // 推しの一覧：幅に合わせて折り返し、全員が見えるようにする
 const chipEl=(a,extra='')=>`<button class="chip ${sel.has(a)?'on':''} ${extra}" data-a="${esc(a)}" style="--h:${hue(a)}"><i class="dot"></i>${esc(a)}</button>`;
+// 一覧の畳む／開く：畳んでいる間は2行ぶんだけ見せる（選んでいる推しは先頭に出す）。開く／畳むは覚えておく
+let OPEN=false;try{OPEN=localStorage.copen==='1'}catch{}
+function foldChips(){
+  const el=$('#chips'),btn=$('#ctog');
+  if(TAB==='fes'){btn.hidden=true;return}
+  el.classList.remove('fold');
+  if(el.offsetHeight<=70){btn.hidden=true;return}   // 2行に収まるなら、畳む必要なし
+  btn.hidden=false;
+  if(OPEN)btn.textContent='CLOSE −';
+  else{el.classList.add('fold');btn.textContent=`SHOW ALL ${DB.artists.length+pend.length} +`}
+}
 function chips(){
   pend=pend.filter(p=>!findArtist(p.n));savePend(); // データに載ったら「調査中」から外す
+  const names=OPEN?DB.artists:[...DB.artists].sort((a,b)=>(sel.has(b)-sel.has(a)));
   $('#chips').innerHTML=`<button class="chip ${sel.size?'':'on'}" data-a="">ALL</button>`+
-    DB.artists.map(a=>chipEl(a)).join('')+
+    names.map(a=>chipEl(a)).join('')+
     pend.map(p=>{const late=Date.now()-p.t>LATE||isRejected(p.n);const inCat=!late&&findCatalog(p.n);
       return inCat?`<button class="chip pend ${sel.has(p.n)?'on':''}" data-a="${esc(p.n)}"><i class="spin"></i>${esc(p.n)}</button>`
         :`<button class="chip pend" data-p="${esc(p.n)}">${late?'⚠':'<i class="spin"></i>'}${esc(p.n)}</button>`}).join('');
@@ -289,8 +305,8 @@ function render(){
   $('#hero').innerHTML=TAB==='fes'?'FESTIVAL<br>LINEUP':'LIVE<br>SCHEDULE';
   $('#herosub').textContent=TAB==='fes'?'開催予定のフェスを、自動で集めています':'推しのライブ・フェスを、まとめてキャッチ';
   $('#q').placeholder=TAB==='fes'?'フェス名・地名で探す':'会場・公演名・地名で探す';
-  if(TAB==='fes'){$('#chips').style.display='none';return renderFes()}
-  $('#chips').style.display='';
+  if(TAB==='fes'){$('#chips').style.display='none';$('#ctog').hidden=true;return renderFes()}
+  $('#chips').style.display='';foldChips();
   const today=todayJ(),q=$('#q').value.trim().toLowerCase();
   const list=allEv().filter(e=>(e.date||'9999')>=today&&(!sel.size||sel.has(e.artist))&&(!q||JSON.stringify(e).toLowerCase().includes(q)))
     .sort((a,b)=>(a.date||'9999').localeCompare(b.date||'9999'));
@@ -308,6 +324,8 @@ $('#chips').onclick=e=>{const b=e.target.closest('button');if(!b)return;const d=
   if(a==='')sel.clear();else sel.has(a)?sel.delete(a):sel.add(a);
   try{localStorage.sel=JSON.stringify([...sel])}catch{}render()};
 $('#q').oninput=render;
+$('#ctog').onclick=()=>{OPEN=!OPEN;try{localStorage.copen=OPEN?'1':'0'}catch{}render()};
+if(document.fonts&&document.fonts.ready)document.fonts.ready.then(()=>render()); // フォントが読み込まれたら、折り返しを測り直す
 $('#nav').onclick=e=>{const b=e.target.closest('button');if(!b)return;const n=b.dataset.nav;if(n==='add')openAdd(true);else if(n)go(n)};
 $('#addbox').onclick=e=>{if(e.target.closest('[data-close]'))openAdd(false)};
 document.addEventListener('keydown',e=>{if(e.key==='Escape')openAdd(false)});
