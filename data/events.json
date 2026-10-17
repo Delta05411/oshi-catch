@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T16:38:32+09:00",
+ "updated": "2026-10-17T20:30:00+09:00",
  "artists": [
   "04 Limited Sazabys",
   "ELLEGARDEN",
@@ -13,7 +13,8 @@
   "Hi-STANDARD",
   "Mrs. GREEN APPLE",
   "back number",
-  "SHANK"
+  "SHANK",
+  "ROTTENGRAFFTY"
  ],
  "events": [
   {
@@ -71,6 +72,19 @@
    "confidence": "high"
   },
   {
+   "artist": "ROTTENGRAFFTY",
+   "date": "2026-10-21",
+   "title": "響都超特急TOUR2026",
+   "kind": "対バン",
+   "venue": "長野CLUB JUNK BOX（長野県）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/0069680001",
+   "sale_info": "先着一般発売 予定枚数終了",
+   "source_url": "https://eplus.jp/sf/detail/0069680001",
+   "confidence": "high",
+   "with": "ENTH"
+  },
+  {
    "artist": "04 Limited Sazabys",
    "date": "2026-10-22",
    "title": "ONE MAN TOUR 2026",
@@ -90,6 +104,19 @@
    "ticket_url": "https://eplus.jp/sf/word/0000002116",
    "source_url": "https://realsound.jp/2026/08/post-2487674.html",
    "confidence": "high"
+  },
+  {
+   "artist": "ROTTENGRAFFTY",
+   "date": "2026-10-22",
+   "title": "響都超特急TOUR2026",
+   "kind": "対バン",
+   "venue": "金沢EIGHT HALL（石川県）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/0069680001",
+   "sale_info": "先着一般発売 予定枚数終了",
+   "source_url": "https://eplus.jp/sf/detail/0069680001",
+   "confidence": "high",
+   "with": "ENTH"
   },
   {
    "artist": "ELLEGARDEN",
@@ -283,6 +310,19 @@
    "confidence": "high"
   },
   {
+   "artist": "ROTTENGRAFFTY",
+   "date": "2026-10-31",
+   "title": "響都超特急TOUR2026",
+   "kind": "対バン",
+   "venue": "熊本B.9 V1（熊本県）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/0069680001",
+   "sale_info": "先着一般発売 受付中",
+   "source_url": "https://eplus.jp/sf/detail/0069680001",
+   "confidence": "high",
+   "with": "w.o.d."
+  },
+  {
    "artist": "04 Limited Sazabys",
    "date": "2026-11-01",
    "title": "ONE MAN TOUR 2026",
@@ -314,6 +354,19 @@
    "confidence": "high"
   },
   {
+   "artist": "ROTTENGRAFFTY",
+   "date": "2026-11-02",
+   "title": "響都超特急TOUR2026",
+   "kind": "対バン",
+   "venue": "広島クラブクアトロ（広島県）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/0069680001",
+   "sale_info": "オフィシャル一次先行 受付終了",
+   "source_url": "https://eplus.jp/sf/detail/0069680001",
+   "confidence": "high",
+   "with": "10-FEET"
+  },
+  {
    "artist": "ELLEGARDEN",
    "date": "2026-11-03",
    "title": "Bad For Education Tour II (2026)",
@@ -323,6 +376,19 @@
    "ticket_url": "https://eplus.jp/sf/word/0000002116",
    "source_url": "https://realsound.jp/2026/08/post-2487674.html",
    "confidence": "high"
+  },
+  {
+   "artist": "ROTTENGRAFFTY",
+   "date": "2026-11-03",
+   "title": "響都超特急TOUR2026",
+   "kind": "対バン",
+   "venue": "高松オリーブホール（香川県）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/0069680001",
+   "sale_info": "先着一般発売 予定枚数終了",
+   "source_url": "https://eplus.jp/sf/detail/0069680001",
+   "confidence": "high",
+   "with": "ガガガSP"
   },
   {
    "artist": "04 Limited Sazabys",
@@ -694,6 +760,19 @@
    "confidence": "low"
   },
   {
+   "artist": "ROTTENGRAFFTY",
+   "date": "2026-11-18",
+   "title": "響都超特急TOUR2026",
+   "kind": "対バン",
+   "venue": "CLUB CITTA'（神奈川県）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/0069680001",
+   "sale_info": "オフィシャル一次先行 受付終了",
+   "source_url": "https://eplus.jp/sf/detail/0069680001",
+   "confidence": "high",
+   "with": "The Ravens"
+  },
+  {
    "artist": "Mrs. GREEN APPLE",
    "date": "2026-11-19",
    "title": "Mrs. GREEN APPLE Ringo Jam Tour “SHADOWS”",
@@ -702,6 +781,19 @@
    "sale_info": "ファンクラブ先行あり。一般発売は公式で要確認",
    "source_url": "https://mrsgreenapple.com/feature/ringojamtour_shadows",
    "confidence": "high"
+  },
+  {
+   "artist": "ROTTENGRAFFTY",
+   "date": "2026-11-20",
+   "title": "響都超特急TOUR2026",
+   "kind": "対バン",
+   "venue": "NIIGATA LOTS（新潟県）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/0069680001",
+   "sale_info": "先着一般発売 受付中",
+   "source_url": "https://eplus.jp/sf/detail/0069680001",
+   "confidence": "high",
+   "with": "ダブルアート"
   },
   {
    "artist": "SHANK",
@@ -716,6 +808,19 @@
    "confidence": "low"
   },
   {
+   "artist": "ROTTENGRAFFTY",
+   "date": "2026-11-23",
+   "title": "響都超特急TOUR2026",
+   "kind": "対バン",
+   "venue": "小樽 GOLDSTONE（北海道）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/0069680001",
+   "sale_info": "先着一般発売 受付中",
+   "source_url": "https://eplus.jp/sf/detail/0069680001",
+   "confidence": "high",
+   "with": "モリマン"
+  },
+  {
    "artist": "04 Limited Sazabys",
    "date": "2026-11-24",
    "title": "Wienners OVER THE TOP TOUR 2026 ファイナル",
@@ -724,6 +829,19 @@
    "sale_info": "Wienners対バンツアーの最終日。ゲスト：粗品、ヤバイTシャツ屋さん、04 Limited Sazabys",
    "source_url": "https://natalie.mu/music/news/686462",
    "confidence": "low"
+  },
+  {
+   "artist": "ROTTENGRAFFTY",
+   "date": "2026-11-24",
+   "title": "響都超特急TOUR2026",
+   "kind": "対バン",
+   "venue": "ペニーレーン24（北海道）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/0069680001",
+   "sale_info": "先着一般発売 受付中",
+   "source_url": "https://eplus.jp/sf/detail/0069680001",
+   "confidence": "high",
+   "with": "ニッポンの社長"
   },
   {
    "artist": "SHANK",
@@ -1026,6 +1144,18 @@
    "sale_info": "ファンクラブ先行あり。一般発売は公式で要確認",
    "source_url": "https://mrsgreenapple.com/feature/ringojamtour_shadows",
    "confidence": "high"
+  },
+  {
+   "artist": "ROTTENGRAFFTY",
+   "date": "2026-12-19",
+   "title": "IWA ROCK presented by e-Broad",
+   "kind": "フェス",
+   "venue": "Zepp DiverCity(TOKYO)（東京都）",
+   "ticket_name": "イープラス",
+   "sale_info": "オフィシャル一次先行 9/30〜10/12。1Fスタンディング7,500円／2F指定8,000円（別途ドリンク600円）",
+   "source_url": "https://spice.eplus.jp/articles/349354",
+   "confidence": "high",
+   "with": "ACIDMAN、BEYOOOOONDS、Dragon Ash"
   },
   {
    "artist": "Mrs. GREEN APPLE",
@@ -1939,6 +2069,16 @@
    "sale_info": "チケット詳細は後日発表。アルバム『POPS』封入のシリアルコード／FC「Ringo Jam」最速先行",
    "source_url": "https://www.thefirsttimes.jp/news/0000882382/",
    "confidence": "high"
+  },
+  {
+   "artist": "ROTTENGRAFFTY",
+   "date": "2027-05-22",
+   "title": "電撃BEPPU",
+   "kind": "フェス",
+   "venue": "別府ビーコンプラザ（大分県）",
+   "sale_info": "5/22・23の2日間開催。出演日は未確認（第1弾発表で出演決定）",
+   "source_url": "https://news.livedoor.com/article/detail/31333276/",
+   "confidence": "low"
   },
   {
    "artist": "あいみょん",
@@ -2913,6 +3053,16 @@
    "source_url": "https://www.ragnet.co.jp/rock-festival"
   },
   {
+   "name": "電撃BEPPU",
+   "start": "2027-05-22",
+   "end": "2027-05-23",
+   "pref": "大分県",
+   "venue": "別府ビーコンプラザ",
+   "status": "lineup",
+   "note": "第1弾発表：ROTTENGRAFFTYほか",
+   "source_url": "https://news.livedoor.com/article/detail/31333276/"
+  },
+  {
    "name": "CAMPASS",
    "start": "2027-05-29",
    "end": "2027-05-30",
@@ -3015,6 +3165,10 @@
   ],
   "SHANK": [
    "シャンク"
+  ],
+  "ROTTENGRAFFTY": [
+   "ロットン",
+   "ロットングラフティー"
   ]
  },
  "rejected": [
@@ -3073,6 +3227,10 @@
   "SHANK": {
    "state": "ok",
    "checked": "2026-10-17T16:38:32+09:00"
+  },
+  "ROTTENGRAFFTY": {
+   "state": "ok",
+   "checked": "2026-10-17T20:30:00+09:00"
   }
  }
 }
