@@ -3,67 +3,159 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<meta name="theme-color" content="#e8457c">
+<meta name="theme-color" content="#faf7ff" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0e0a1a" media="(prefers-color-scheme: dark)">
 <meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <meta name="apple-mobile-web-app-title" content="推しキャッチ">
+<meta name="description" content="推しのライブ・フェス・対バン情報を、まとめてキャッチ。">
 <link rel="manifest" href="manifest.json">
 <link rel="apple-touch-icon" href="icon.svg">
 <title>推しキャッチ</title>
 <style>
-:root{--bg:#fff7fa;--card:#fff;--fg:#2a2230;--sub:#7b6f84;--accent:#e8457c;--line:#f0dfe7}
-@media (prefers-color-scheme:dark){:root{--bg:#17121b;--card:#241c2b;--fg:#f5eef8;--sub:#a99bb3;--line:#3a2e44}}
-*{box-sizing:border-box}
-body{margin:0;background:var(--bg);color:var(--fg);font-family:system-ui,-apple-system,"Hiragino Sans","Yu Gothic",sans-serif;padding-bottom:env(safe-area-inset-bottom)}
-header{position:sticky;top:0;background:var(--bg);padding:12px 16px 8px;border-bottom:1px solid var(--line);z-index:2}
-h1{margin:0 0 8px;font-size:18px;color:var(--accent)}
-input{width:100%;font-size:16px;padding:10px 12px;border:1px solid var(--line);border-radius:10px;background:var(--card);color:var(--fg)}
-.chips{display:flex;gap:6px;margin:8px 0 2px;overflow-x:auto;padding-bottom:4px;-webkit-overflow-scrolling:touch}
-.chip{flex:none;font-size:13px;padding:5px 11px;border-radius:99px;background:var(--card);border:1px solid var(--line);color:var(--sub);cursor:pointer}
-.chip.add{border-style:dashed;color:var(--accent);border-color:var(--accent);text-decoration:none}
-.chip.pend{opacity:.7;border-style:dotted}
-.spin{display:inline-block;width:11px;height:11px;border:2px solid var(--accent);border-right-color:transparent;border-radius:50%;animation:sp .8s linear infinite;vertical-align:-1px;margin-right:2px}
+:root{
+  --bg:#faf7ff;--bg2:#f1ebff;--card:#ffffff;--card2:#f7f3ff;--line:#e7dff7;--fg:#1f1a33;--sub:#6b6385;
+  --a1:#ff3d86;--a2:#7c4dff;--grad:linear-gradient(135deg,var(--a1),var(--a2));
+  --shadow:0 6px 24px rgba(124,77,255,.10);--glass:rgba(250,247,255,.78);
+  --sat:#2563eb;--sun:#e11d48;--ok-bg:#dcfce7;--ok-fg:#166534;--warn-bg:#fef3c7;--warn-fg:#92400e;
+  --hl:62%;
+}
+@media (prefers-color-scheme:dark){:root{
+  --bg:#0e0a1a;--bg2:#171030;--card:rgba(255,255,255,.055);--card2:rgba(255,255,255,.08);--line:rgba(255,255,255,.10);
+  --fg:#f4f0ff;--sub:#a99fc6;--shadow:0 8px 30px rgba(0,0,0,.35);--glass:rgba(14,10,26,.72);
+  --sat:#60a5fa;--sun:#fb7185;--ok-bg:rgba(34,197,94,.18);--ok-fg:#86efac;--warn-bg:rgba(251,191,36,.16);--warn-fg:#fcd34d;
+}}
+*{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+html{scroll-behavior:smooth}
+body{margin:0;color:var(--fg);font-family:-apple-system,BlinkMacSystemFont,"Hiragino Sans","Hiragino Kaku Gothic ProN","Yu Gothic UI","Noto Sans JP",system-ui,sans-serif;line-height:1.55;
+  background:radial-gradient(1200px 500px at 85% -10%,rgba(124,77,255,.22),transparent 60%),radial-gradient(900px 500px at -10% 0%,rgba(255,61,134,.16),transparent 55%),var(--bg);
+  background-attachment:fixed;min-height:100vh}
+button{font:inherit;color:inherit;cursor:pointer}
+a{color:inherit}
+:focus-visible{outline:2px solid var(--a2);outline-offset:2px}
+
+/* ヘッダー */
+header{position:sticky;top:0;z-index:5;padding:calc(10px + env(safe-area-inset-top)) 16px 8px;background:var(--glass);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);border-bottom:1px solid var(--line)}
+.wrap{max-width:760px;margin:0 auto}
+.brand{display:flex;align-items:center;gap:10px;margin-bottom:10px}
+.logo{width:36px;height:36px;border-radius:11px;background:var(--grad);display:grid;place-items:center;color:#fff;font-weight:800;font-size:19px;box-shadow:0 4px 14px rgba(255,61,134,.35)}
+.brand h1{margin:0;font-size:20px;line-height:1.1;letter-spacing:.02em;background:var(--grad);-webkit-background-clip:text;background-clip:text;color:transparent;font-weight:800}
+.brand p{margin:2px 0 0;font-size:11.5px;color:var(--sub)}
+.search{position:relative}
+.search svg{position:absolute;left:13px;top:50%;transform:translateY(-50%);width:17px;height:17px;color:var(--sub)}
+#q{width:100%;font-size:16px;padding:11px 14px 11px 38px;border-radius:14px;border:1px solid var(--line);background:var(--card);color:var(--fg);outline:none}
+#q:focus{border-color:var(--a2);box-shadow:0 0 0 3px rgba(124,77,255,.18)}
+.chips{display:flex;gap:8px;margin:10px -16px 0;padding:2px 16px 6px;overflow-x:auto;scrollbar-width:none;-webkit-overflow-scrolling:touch}
+.chips::-webkit-scrollbar{display:none}
+.chip{flex:none;display:inline-flex;align-items:center;gap:7px;font-size:13px;font-weight:600;padding:7px 13px 7px 9px;border-radius:99px;background:var(--card);border:1px solid var(--line);color:var(--fg);transition:transform .15s,background .15s}
+.chip:active{transform:scale(.96)}
+.chip .dot{width:9px;height:9px;border-radius:50%;background:hsl(var(--h,260) 85% var(--hl))}
+.chip.all{padding-left:13px}
+.chip.on{background:var(--grad);border-color:transparent;color:#fff;box-shadow:0 4px 14px rgba(124,77,255,.35)}
+.chip.on .dot{background:#fff}
+.chip.pend{opacity:.85;border-style:dashed}
+.spin{display:inline-block;width:12px;height:12px;border:2px solid var(--a2);border-right-color:transparent;border-radius:50%;animation:sp .8s linear infinite;vertical-align:-2px}
+.chip.on .spin{border-color:#fff;border-right-color:transparent}
 @keyframes sp{to{transform:rotate(360deg)}}
-#tabs{display:flex;gap:6px;margin:0 0 8px}
-.tab{flex:1;font-size:14px;padding:8px;border:1px solid var(--line);border-radius:10px;background:var(--card);color:var(--sub);font-weight:600}
-.tab.on{background:var(--accent);border-color:var(--accent);color:#fff}
-.badge{display:inline-block;font-size:12px;padding:1px 8px;border-radius:99px;margin-left:6px;vertical-align:middle;background:var(--line);color:var(--sub)}
-.badge.ok{background:#d9f2e3;color:#14633a}
-.badge.me{background:var(--accent);color:#fff}
-#addbox{padding:6px 0 4px}
-#addform{display:flex;gap:8px}
-#addform input{flex:1;min-width:0}
-#addform button{font-size:16px;padding:10px 16px;border:0;border-radius:10px;background:var(--accent);color:#fff;font-weight:600}
-#toast{position:fixed;left:16px;right:16px;bottom:calc(16px + env(safe-area-inset-bottom));background:var(--fg);color:var(--bg);padding:12px 14px;border-radius:12px;font-size:14px;opacity:0;pointer-events:none;transition:opacity .25s;z-index:9}
-#toast.show{opacity:1}
-.chip.on{background:var(--accent);border-color:var(--accent);color:#fff}
-main{max-width:720px;margin:0 auto;padding:4px 16px 24px}
-.msg{color:var(--sub);text-align:center;padding:32px 0}
-.mon{font-weight:700;font-size:14px;color:var(--sub);margin:18px 0 4px}
-.ev{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:12px 14px;margin:8px 0}
-.d{font-weight:700;color:var(--accent)}
-.a{display:inline-block;font-size:12px;padding:1px 8px;border-radius:99px;border:1px solid var(--accent);color:var(--accent);margin-left:6px;vertical-align:middle}
-.k{display:inline-block;font-size:12px;padding:1px 8px;border-radius:99px;background:var(--line);color:var(--sub);margin-left:4px;vertical-align:middle}
-.warn{background:#ffe9b8;color:#7a5200}
-.t{font-weight:600;margin:3px 0}
-.m{font-size:14px;color:var(--sub);margin:2px 0}
-.links{display:flex;flex-wrap:wrap;gap:8px;margin-top:8px}
-.links a{font-size:14px;padding:6px 12px;border-radius:8px;text-decoration:none;border:1px solid var(--accent);color:var(--accent)}
-.links a.buy{background:var(--accent);color:#fff}
-small{color:var(--sub);display:block;text-align:center;margin:16px 0}
+
+/* 本文 */
+main{max-width:760px;margin:0 auto;padding:6px 16px calc(120px + env(safe-area-inset-bottom))}
+.count{font-size:13px;color:var(--sub);margin:14px 2px 4px}
+.mon{display:flex;align-items:baseline;gap:8px;margin:22px 2px 8px;font-weight:800;font-size:22px;letter-spacing:.01em}
+.mon small{font-size:12px;color:var(--sub);font-weight:600;margin:0;display:inline}
+.mon::after{content:"";flex:1;height:1px;background:linear-gradient(90deg,var(--line),transparent);align-self:center}
+.ev{--h:260;position:relative;display:grid;grid-template-columns:58px 1fr;gap:14px;padding:14px 14px 14px 12px;margin:10px 0;border-radius:18px;background:var(--card);border:1px solid var(--line);box-shadow:var(--shadow);overflow:hidden;animation:rise .4s both}
+.ev::before{content:"";position:absolute;left:0;top:0;bottom:0;width:4px;background:hsl(var(--h) 85% var(--hl))}
+@keyframes rise{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+.date{text-align:center;line-height:1;padding-top:2px}
+.date .mo{font-size:11px;color:var(--sub);font-weight:700}
+.date .dy{font-size:30px;font-weight:800;margin:3px 0 2px;letter-spacing:-.02em}
+.date .wk{font-size:11px;font-weight:700;color:var(--sub)}
+.date .wk.sat{color:var(--sat)}.date .wk.sun{color:var(--sun)}
+.date .to{font-size:10.5px;color:var(--sub);margin-top:4px;font-weight:600}
+.tags{display:flex;flex-wrap:wrap;gap:6px;align-items:center;margin-bottom:5px}
+.tag{display:inline-flex;align-items:center;gap:6px;font-size:12px;font-weight:700;padding:2px 9px 2px 7px;border-radius:99px;background:hsl(var(--h) 85% 62% / .14);color:hsl(var(--h) 80% var(--tl,35%))}
+@media (prefers-color-scheme:dark){.tag{--tl:78%}}
+.tag::before{content:"";width:7px;height:7px;border-radius:50%;background:hsl(var(--h) 85% 62%)}
+.kind{font-size:11px;font-weight:700;padding:2px 8px;border-radius:99px;background:var(--card2);color:var(--sub);border:1px solid var(--line)}
+.kind.fes{background:rgba(255,61,134,.12);color:var(--a1);border-color:transparent}
+.soon{font-size:11px;font-weight:800;padding:2px 8px;border-radius:99px;background:var(--grad);color:#fff}
+.warn{font-size:11px;font-weight:700;padding:2px 8px;border-radius:99px;background:var(--warn-bg);color:var(--warn-fg)}
+.ok{font-size:11px;font-weight:700;padding:2px 8px;border-radius:99px;background:var(--ok-bg);color:var(--ok-fg)}
+.me{font-size:11px;font-weight:800;padding:2px 8px;border-radius:99px;background:var(--grad);color:#fff}
+.t{font-size:16px;font-weight:800;line-height:1.35;margin:2px 0 4px;word-break:break-word}
+.m{font-size:13px;color:var(--sub);margin:2px 0;word-break:break-word}
+.links{display:flex;flex-wrap:wrap;gap:8px;margin-top:10px}
+.btn{display:inline-flex;align-items:center;gap:6px;font-size:13.5px;font-weight:700;text-decoration:none;padding:8px 14px;border-radius:99px;border:1px solid var(--line);background:var(--card2);color:var(--fg)}
+.btn.buy{background:var(--grad);border-color:transparent;color:#fff;box-shadow:0 4px 14px rgba(255,61,134,.30)}
+.btn:active{transform:scale(.97)}
+.empty{text-align:center;padding:56px 20px;color:var(--sub)}
+.empty .em{font-size:44px;margin-bottom:8px}
+.empty b{display:block;color:var(--fg);font-size:16px;margin-bottom:4px}
+.note{display:flex;gap:8px;align-items:flex-start;font-size:12.5px;color:var(--sub);background:var(--card);border:1px dashed var(--line);border-radius:14px;padding:10px 12px;margin:14px 0}
+.foot{font-size:11.5px;color:var(--sub);text-align:center;margin:26px 8px 0;line-height:1.7}
+/* 読み込み中 */
+.sk{height:104px;border-radius:18px;margin:10px 0;background:linear-gradient(90deg,var(--card) 25%,var(--card2) 37%,var(--card) 63%);background-size:400% 100%;animation:sh 1.3s ease infinite;border:1px solid var(--line)}
+@keyframes sh{0%{background-position:100% 50%}100%{background-position:0 50%}}
+
+/* 下のナビ */
+nav#nav{position:fixed;left:50%;transform:translateX(-50%);bottom:calc(12px + env(safe-area-inset-bottom));z-index:6;display:flex;align-items:center;gap:4px;padding:6px;border-radius:99px;background:var(--glass);backdrop-filter:blur(16px);-webkit-backdrop-filter:blur(16px);border:1px solid var(--line);box-shadow:0 12px 36px rgba(0,0,0,.28)}
+nav#nav button{display:flex;flex-direction:column;align-items:center;gap:1px;min-width:78px;padding:7px 14px;border:0;border-radius:99px;background:transparent;color:var(--sub);font-size:11px;font-weight:700}
+nav#nav button .ic{font-size:18px;line-height:1}
+nav#nav button.on{background:var(--card2);color:var(--fg)}
+nav#nav button.add{min-width:56px;height:56px;margin:-14px 6px;padding:0;background:var(--grad);color:#fff;box-shadow:0 8px 24px rgba(255,61,134,.45);font-size:30px;font-weight:400;justify-content:center}
+nav#nav button.add:active{transform:scale(.94)}
+
+/* 推しを追加（下から出るシート） */
+#addbox{position:fixed;inset:0;z-index:20;display:flex;align-items:flex-end;justify-content:center}
+#addbox[hidden]{display:none}
+.bg{position:absolute;inset:0;background:rgba(5,3,15,.55);backdrop-filter:blur(3px);animation:fade .2s}
+@keyframes fade{from{opacity:0}}
+#addform{position:relative;width:100%;max-width:560px;padding:20px 18px calc(22px + env(safe-area-inset-bottom));border-radius:26px 26px 0 0;background:var(--bg2);border:1px solid var(--line);animation:up .28s cubic-bezier(.2,.8,.2,1)}
+@keyframes up{from{transform:translateY(40px);opacity:0}}
+#addform h2{margin:0 0 4px;font-size:18px}
+#addform p{margin:0 0 14px;font-size:12.5px;color:var(--sub)}
+.row{display:flex;gap:8px}
+#addname{flex:1;min-width:0;font-size:16px;padding:13px 14px;border-radius:14px;border:1px solid var(--line);background:var(--card);color:var(--fg);outline:none}
+#addname:focus{border-color:var(--a2);box-shadow:0 0 0 3px rgba(124,77,255,.18)}
+#addgo{font-size:16px;font-weight:800;padding:0 22px;border:0;border-radius:14px;background:var(--grad);color:#fff}
+#addgo:disabled{opacity:.5}
+.x{position:absolute;top:12px;right:14px;border:0;background:transparent;font-size:22px;color:var(--sub);padding:4px 8px}
+
+#toast{position:fixed;left:50%;transform:translate(-50%,12px);bottom:calc(96px + env(safe-area-inset-bottom));z-index:30;max-width:min(92vw,520px);background:var(--fg);color:var(--bg);padding:12px 18px;border-radius:16px;font-size:13.5px;font-weight:600;opacity:0;pointer-events:none;transition:opacity .25s,transform .25s;text-align:center}
+#toast.show{opacity:1;transform:translate(-50%,0)}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
 </style>
 </head>
 <body>
 <header>
-  <h1>🎤 推しキャッチ</h1>
-  <div id="tabs"><button class="tab on" data-tab="live">ライブ</button><button class="tab" data-tab="fes">フェス一覧</button></div>
-  <input id="q" type="search" placeholder="会場・公演名・地名で絞り込み" autocomplete="off">
-  <div class="chips" id="chips"></div>
-  <div id="addbox" hidden>
-    <form id="addform"><input id="addname" list="sug" maxlength="60" placeholder="追加したいアーティスト名（候補から選べます）" autocomplete="off" enterkeyhint="send"><datalist id="sug"></datalist><button id="addgo" type="submit">追加</button></form>
+  <div class="wrap">
+    <div class="brand"><div class="logo" aria-hidden="true">推</div><div><h1>推しキャッチ</h1><p>推しのライブ・フェスを、まとめてキャッチ</p></div></div>
+    <label class="search"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+      <input id="q" type="search" placeholder="会場・公演名・地名で探す" autocomplete="off" aria-label="検索"></label>
+    <div class="chips" id="chips" role="group" aria-label="推しで絞り込み"></div>
   </div>
 </header>
+
+<main id="out"><div class="sk"></div><div class="sk"></div><div class="sk"></div></main>
+
+<nav id="nav" aria-label="メニュー">
+  <button data-nav="live" class="on"><span class="ic">🎵</span>ライブ</button>
+  <button data-nav="add" class="add" aria-label="推しを追加">＋</button>
+  <button data-nav="fes"><span class="ic">🎪</span>フェス</button>
+</nav>
+
+<div id="addbox" hidden>
+  <div class="bg" data-close></div>
+  <form id="addform">
+    <button type="button" class="x" data-close aria-label="閉じる">×</button>
+    <h2>推しを追加</h2>
+    <p>候補から選ぶと、すぐ表示されます。候補にない人は調べるので、1〜3分ほどかかります。</p>
+    <div class="row"><input id="addname" list="sug" maxlength="60" placeholder="アーティスト名" autocomplete="off" enterkeyhint="send"><datalist id="sug"></datalist><button id="addgo" type="submit">追加</button></div>
+  </form>
+</div>
 <div id="toast" role="status"></div>
-<main id="out"><div class="msg">読み込み中…</div></main>
+
 <script>
 const $=s=>document.querySelector(s), out=$('#out');
 const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
@@ -71,9 +163,22 @@ const safe=u=>/^https?:\/\//.test(u||'')?u:'';
 const W='日月火水木金土';
 let DB={artists:[],events:[]}, sel=new Set();
 try{sel=new Set(JSON.parse(localStorage.sel||'[]'))}catch{}
-function fmt(d){const m=/^(\d{4})-(\d\d)-(\d\d)$/.exec(d||'');if(!m)return d||'日付未定';return `${+m[2]}/${+m[3]}（${W[new Date(+m[1],m[2]-1,+m[3]).getDay()]}）`}
+// 推しごとの色（名前から決める。同じ名前はいつも同じ色）
+const hue=s=>{let h=0;for(const c of String(s))h=(h*31+c.charCodeAt(0))%360;return h};
+const todayJ=()=>new Date(Date.now()+9*36e5).toISOString().slice(0,10); // 日本時間の今日
+function dinfo(d){const m=/^(\d{4})-(\d\d)-(\d\d)$/.exec(d||'');if(!m)return null;
+  const y=+m[1],mo=+m[2],dy=+m[3],t=/^(\d{4})-(\d\d)-(\d\d)$/.exec(todayJ());
+  const left=Math.round((Date.UTC(y,mo-1,dy)-Date.UTC(+t[1],+t[2]-1,+t[3]))/864e5);
+  return {y,mo,dy,w:new Date(y,mo-1,dy).getDay(),left}}
+function dateBlock(d,end){
+  const i=dinfo(d);if(!i)return `<div class="date"><div class="dy" style="font-size:15px;margin-top:12px">日付<br>未定</div></div>`;
+  const wk=W[i.w], cls=i.w===6?'sat':i.w===0?'sun':'';
+  let to='';const j=end&&end!==d?dinfo(end):null;
+  if(j)to=`<div class="to">〜${j.mo===i.mo?'':j.mo+'/'}${j.dy}</div>`;
+  return `<div class="date"><div class="mo">${i.mo}月</div><div class="dy">${i.dy}</div><div class="wk ${cls}">${wk}</div>${to}</div>`;
+}
+function soonBadge(d){const i=dinfo(d);if(!i)return'';if(i.left===0)return '<span class="soon">今日</span>';if(i.left>0&&i.left<=14)return `<span class="soon">あと${i.left}日</span>`;return''}
 // 推し追加：この画面から送信する（Googleフォームの受付口へ直接送る。別画面には移動しない）。
-// 受け付けた名前は自動で調べて追加される（目安：1時間以内）。
 const FORM_POST='https://docs.google.com/forms/d/e/1FAIpQLScyDwwYaorGtzIDbylyTZa8qPfOZapT8wkfYOPNODXN4mmVBA/formResponse';
 const ENTRY='entry.822980878';
 let pend=[];try{pend=JSON.parse(localStorage.pend||'[]').map(p=>typeof p==='string'?{n:p,t:Date.now()}:p)}catch{}
@@ -96,10 +201,10 @@ function findCatalog(name){
   return null;
 }
 function catEvents(){ // 調べている最中の推しのうち、カタログにある分の予定
-  const out=[];
+  const o=[];
   for(const p of pend){if(findArtist(p.n))continue;const ck=findCatalog(p.n);if(!ck)continue;
-    for(const e of CAT.artists[ck].events||[])out.push({...e,artist:ck})}
-  return out;
+    for(const e of CAT.artists[ck].events||[])o.push({...e,artist:ck})}
+  return o;
 }
 const allEv=()=>DB.events.concat(catEvents());
 function fillSug(){
@@ -110,28 +215,30 @@ function loadCat(){
   return fetch('data/catalog.json?t='+Date.now(),{cache:'no-store'}).then(r=>r.ok?r.json():null).then(j=>{if(j&&j.artists){CAT=j;fillSug();render()}}).catch(()=>{});
 }
 const LATE=24*3600*1000; // 24時間たっても反映されない場合は注意を出す
+const chipEl=(a,extra='')=>`<button class="chip ${sel.has(a)?'on':''} ${extra}" data-a="${esc(a)}" style="--h:${hue(a)}"><i class="dot"></i>${esc(a)}</button>`;
 function chips(){
   pend=pend.filter(p=>!findArtist(p.n));savePend(); // データに載ったら「調査中」から外す
-  $('#chips').innerHTML=`<span class="chip ${sel.size?'':'on'}" data-a="">すべて</span>`+
-    DB.artists.map(a=>`<span class="chip ${sel.has(a)?'on':''}" data-a="${esc(a)}">${esc(a)}</span>`).join('')+
+  $('#chips').innerHTML=`<button class="chip all ${sel.size?'':'on'}" data-a="">すべて</button>`+
+    DB.artists.map(a=>chipEl(a)).join('')+
     pend.map(p=>{const late=Date.now()-p.t>LATE||isRejected(p.n);const inCat=!late&&findCatalog(p.n);
-      return inCat?`<span class="chip pend ${sel.has(p.n)?'on':''}" data-a="${esc(p.n)}"><i class="spin"></i> ${esc(p.n)}</span>`
-        :`<span class="chip pend" data-p="${esc(p.n)}">${late?'⚠️':'<i class="spin"></i>'} ${esc(p.n)}</span>`}).join('')+
-    `<span class="chip add" data-add="1">＋ 推しを追加</span>`}
+      return inCat?`<button class="chip pend ${sel.has(p.n)?'on':''}" data-a="${esc(p.n)}"><i class="spin"></i>${esc(p.n)}</button>`
+        :`<button class="chip pend" data-p="${esc(p.n)}">${late?'⚠️':'<i class="spin"></i>'}${esc(p.n)}</button>`}).join('');
+}
 function pendNote(){
   const late=pend.filter(p=>Date.now()-p.t>LATE||isRejected(p.n)), wait=pend.filter(p=>!late.includes(p));
   let h='';
-  if(wait.length)h+=`<small><i class="spin"></i> ${esc(wait.map(p=>p.n).join('、'))} を調べています…（フェスの出演情報はすぐ表示します。ツアーなどの詳しい情報は通常1〜3分で追加されます。閉じても大丈夫です）</small>`;
-  if(late.length)h+=`<small>⚠️ 登録できなかった可能性：${esc(late.map(p=>p.n).join('、'))}（音楽・ライブ活動が確認できない名前は登録されません。正式名称で、もう一度お試しください。タップで一覧から消せます）</small>`;
+  if(wait.length)h+=`<div class="note"><i class="spin"></i><div><b>${esc(wait.map(p=>p.n).join('、'))}</b> を調べています。フェスの出演情報はすぐ表示します。ツアーなどの詳しい情報は、通常1〜3分で追加されます（閉じても大丈夫です）。</div></div>`;
+  if(late.length)h+=`<div class="note">⚠️<div>登録できなかった可能性：<b>${esc(late.map(p=>p.n).join('、'))}</b>。音楽・ライブ活動が確認できない名前は登録されません。正式名称でもう一度お試しください（タップで一覧から消せます）。</div></div>`;
   return h;
 }
-function toast(msg){const t=$('#toast');t.textContent=msg;t.classList.add('show');clearTimeout(toast.id);toast.id=setTimeout(()=>t.classList.remove('show'),5000)}
+function toast(msg){const t=$('#toast');t.textContent=msg;t.classList.add('show');clearTimeout(toast.id);toast.id=setTimeout(()=>t.classList.remove('show'),5200)}
+function openAdd(on){const b=$('#addbox');b.hidden=!on;if(on)setTimeout(()=>$('#addname').focus(),80)}
 async function addArtist(name){
   name=name.trim().replace(/\s+/g,' ').slice(0,60);
   if(!name)return;
   if(/https?:|@|[\r\n]/i.test(name)){toast('名前だけを入力してください');return}
   const ex=findArtist(name);
-  if(ex){toast('「'+ex+'」はすでに登録されています');$('#addname').value='';$('#addbox').hidden=true;sel=new Set([ex]);try{localStorage.sel=JSON.stringify([...sel])}catch{}render();return}
+  if(ex){toast('「'+ex+'」はすでに登録されています');$('#addname').value='';openAdd(false);sel=new Set([ex]);try{localStorage.sel=JSON.stringify([...sel])}catch{}go('live');return}
   if(pend.some(p=>nzName(p.n)===nzName(name))){toast('「'+name+'」は調査中です。しばらくお待ちください');return}
   if(isRejected(name)){toast('「'+name+'」は登録できませんでした（音楽・ライブ活動が確認できない名前）。正式名称でお試しください');return}
   if(pend.filter(p=>Date.now()-p.t<=LATE).length>=5){toast('一度に追加できるのは5組までです。反映されてから追加してください');return}
@@ -139,78 +246,82 @@ async function addArtist(name){
   const ck=findCatalog(name), nm=ck||name; // カタログにいれば正式名で送る
   try{
     await fetch(FORM_POST,{method:'POST',mode:'no-cors',headers:{'Content-Type':'application/x-www-form-urlencoded'},body:ENTRY+'='+encodeURIComponent(nm)});
-    pend.push({n:nm,t:Date.now()});savePend();$('#addname').value='';$('#addbox').hidden=true;
-    if(ck){sel=new Set([ck]);try{localStorage.sel=JSON.stringify([...sel])}catch{}TAB='live';scrollTo(0,0)}
-    render();
+    pend.push({n:nm,t:Date.now()});savePend();$('#addname').value='';openAdd(false);
+    if(ck){sel=new Set([ck]);try{localStorage.sel=JSON.stringify([...sel])}catch{}}
+    go('live');
     const n=ck?(CAT.artists[ck].events||[]).length:0;
     toast(ck?`「${ck}」を追加しました（フェス等の予定 ${n}件）。ツアーなど詳しい情報を調べています…`:'「'+name+'」を受け付けました。調べています…（通常1〜3分）');
     load(false);
   }catch(e){toast('送信できませんでした。通信を確認してもう一度お試しください')}
   $('#addgo').disabled=false;
 }
-function card(e){
-  const t=safe(e.ticket_url),s=safe(e.source_url);
-  return `<div class="ev"><div class="d">${fmt(e.date)}<span class="a">${esc(e.artist)}</span>${e.kind?`<span class="k">${esc(e.kind)}</span>`:''}${e.confidence==='low'?'<span class="k warn">要確認</span>':''}</div>
+const links=(o)=>{const t=safe(o.ticket_url),s=safe(o.source_url||o.official_url);
+  return `<div class="links">${t?`<a class="btn buy" href="${t}" target="_blank" rel="noopener">🎫 ${esc(o.ticket_name||'チケット')}</a>`:o.ticket_name?`<span class="m">🎫 ${esc(o.ticket_name)}</span>`:''}${s?`<a class="btn" href="${s}" target="_blank" rel="noopener">${o.official_url?'公式サイト':'情報元'}</a>`:''}</div>`};
+function card(e,i){
+  return `<article class="ev" style="--h:${hue(e.artist)};animation-delay:${Math.min(i,10)*30}ms">${dateBlock(e.date)}
+  <div><div class="tags"><span class="tag">${esc(e.artist)}</span>${e.kind?`<span class="kind ${e.kind==='フェス'?'fes':''}">${esc(e.kind)}</span>`:''}${soonBadge(e.date)}${e.confidence==='low'?'<span class="warn">要確認</span>':''}</div>
   <div class="t">${esc(e.title)}</div>
   ${e.venue?`<div class="m">📍 ${esc(e.venue)}</div>`:''}
   ${e.with?`<div class="m">🤝 ${esc(e.with)}</div>`:''}
-  ${e.sale_info?`<div class="m">🎫 ${esc(e.sale_info)}</div>`:''}
-  <div class="links">${t?`<a class="buy" href="${t}" target="_blank" rel="noopener">${esc(e.ticket_name||'チケット')}</a>`:e.ticket_name?`<span class="m">🎫 ${esc(e.ticket_name)}</span>`:''}${s?`<a href="${s}" target="_blank" rel="noopener">情報元</a>`:''}</div></div>`}
+  ${e.sale_info?`<div class="m">🎟 ${esc(e.sale_info)}</div>`:''}
+  ${links(e)}</div></article>`}
 let TAB='live';
 try{if(localStorage.tab==='fes')TAB='fes'}catch{}
-function fesRange(f){const a=f.start||'',b=f.end||a;const p=s=>{const m=/^(\d{4})-(\d\d)-(\d\d)$/.exec(s);return m?`${+m[2]}/${+m[3]}`:s};
-  return a===b?fmt(a):`${p(a)}〜${p(b)}`}
-function fesCard(f){
+function fesCard(f,i){
   const nz=s=>String(s||'').toLowerCase().replace(/[\s'’"「」『』（）()【】!！?？・~〜-]/g,'');
   const fn=nz(f.name);
-  const mine=DB.events.filter(e=>{
+  const mine=allEv().filter(e=>{
     if(e.kind!=='フェス'||(e.date||'')<f.start||(e.date||'')>(f.end||f.start))return false;
     const en=nz(e.title);return fn.length>=4&&en.length>=4&&(en.includes(fn)||fn.includes(en)||en.includes(fn.slice(0,Math.max(4,fn.length-2))));
   });
   const who=[...new Set(mine.map(e=>e.artist))];
-  const u=safe(f.official_url),q='https://www.google.com/search?q='+encodeURIComponent(f.name+' 出演者 ラインナップ');
-  return `<div class="ev"><div class="d">${fesRange(f)}${who.length?`<span class="badge me">推しが出演</span>`:''}${f.status==='lineup'?'<span class="badge ok">出演者発表済み</span>':''}</div>
+  const q='https://www.google.com/search?q='+encodeURIComponent(f.name+' 出演者 ラインナップ');
+  const u=safe(f.official_url);
+  return `<article class="ev" style="--h:${hue(f.name)};animation-delay:${Math.min(i,10)*30}ms">${dateBlock(f.start,f.end)}
+  <div><div class="tags"><span class="kind fes">フェス</span>${who.length?'<span class="me">推しが出演</span>':''}${f.status==='lineup'?'<span class="ok">出演者発表済み</span>':''}${soonBadge(f.start)}</div>
   <div class="t">${esc(f.name)}</div>
   <div class="m">📍 ${esc([f.pref,f.venue].filter(Boolean).join('・'))}</div>
   ${who.length?`<div class="m">🎤 ${esc(who.join('、'))}</div>`:''}
   ${f.note?`<div class="m">📝 ${esc(f.note)}</div>`:''}
-  <div class="links">${u?`<a class="buy" href="${u}" target="_blank" rel="noopener">公式サイト</a>`:''}<a href="${q}" target="_blank" rel="noopener">出演者を検索</a></div></div>`}
+  <div class="links">${u?`<a class="btn buy" href="${u}" target="_blank" rel="noopener">公式サイト</a>`:''}<a class="btn" href="${q}" target="_blank" rel="noopener">出演者を探す</a></div></div></article>`}
+const upd=()=>DB.updated?new Date(DB.updated).toLocaleString('ja-JP',{month:'numeric',day:'numeric',hour:'2-digit',minute:'2-digit'}):'';
+const foot=t=>`<div class="foot">最終更新 ${esc(upd())}<br>${t}</div>`;
+const monHead=k=>{const [y,m]=k.split('-');return `<div class="mon">${+m}月<small>${y}</small></div>`};
 function renderFes(){
-  const today=new Date(Date.now()+9*36e5).toISOString().slice(0,10);
-  const q=$('#q').value.trim().toLowerCase();
+  const q=$('#q').value.trim().toLowerCase(),today=todayJ();
   const list=(DB.festivals||[]).filter(f=>(f.end||f.start||'')>=today&&(!q||JSON.stringify(f).toLowerCase().includes(q)))
     .sort((a,b)=>(a.start||'').localeCompare(b.start||''));
-  let h='',cur='';
-  for(const f of list){const mo=(f.start||'').slice(0,7);if(mo!==cur){cur=mo;h+=`<div class="mon">${mo.replace('-','年')}月</div>`}h+=fesCard(f)}
-  const up=DB.updated?new Date(DB.updated).toLocaleString('ja-JP',{month:'numeric',day:'numeric',hour:'2-digit',minute:'2-digit'}):'';
-  out.innerHTML=(list.length?`<div class="m">開催予定のフェス ${list.length}件（自動で収集。出演者の発表に合わせて、推しが出る日は「推しが出演」と表示されます）</div>${h}`:'<div class="msg">該当するフェスはありません</div>')+
-    `<small>最終更新 ${esc(up)} ／ 情報は自動収集のため、最新の発表は公式でご確認ください</small>`;
+  let h='',cur='',i=0;
+  for(const f of list){const mo=(f.start||'').slice(0,7);if(mo!==cur){cur=mo;h+=monHead(mo)}h+=fesCard(f,i++)}
+  out.innerHTML=(list.length?`<div class="count">開催予定のフェス ${list.length}件　自動で集めています。推しが出る日は「推しが出演」と表示されます</div>${h}`:`<div class="empty"><div class="em">🎪</div><b>該当するフェスはありません</b>キーワードを変えてみてください</div>`)+
+    foot('情報は自動収集です。最新の発表は公式サイトでご確認ください');
 }
 function render(){
   chips();
-  document.querySelectorAll('.tab').forEach(b=>b.classList.toggle('on',b.dataset.tab===TAB));
+  document.querySelectorAll('#nav button[data-nav]').forEach(b=>b.classList.toggle('on',b.dataset.nav===TAB));
+  $('#q').placeholder=TAB==='fes'?'フェス名・地名で探す':'会場・公演名・地名で探す';
   if(TAB==='fes'){$('#chips').style.display='none';return renderFes()}
   $('#chips').style.display='';
-  const today=new Date(Date.now()+9*36e5).toISOString().slice(0,10); // 日本時間の今日
-  const q=$('#q').value.trim().toLowerCase();
+  const today=todayJ(),q=$('#q').value.trim().toLowerCase();
   const list=allEv().filter(e=>(e.date||'9999')>=today&&(!sel.size||sel.has(e.artist))&&(!q||JSON.stringify(e).toLowerCase().includes(q)))
     .sort((a,b)=>(a.date||'9999').localeCompare(b.date||'9999'));
-  let h='',cur='';
-  for(const e of list){const mo=(e.date||'').slice(0,7)||'日付未定';if(mo!==cur){cur=mo;h+=`<div class="mon">${mo.replace('-','年')}${/\d/.test(mo)?'月':''}</div>`}h+=card(e)}
-  const up=DB.updated?new Date(DB.updated).toLocaleString('ja-JP',{month:'numeric',day:'numeric',hour:'2-digit',minute:'2-digit'}):'';
-  const none=(sel.size&&!q)?`<div class="msg">${esc([...sel].join('、'))} の今後の予定は、いまのところ見つかっていません。<br>公式サイトで発表されると、自動で追加されます（毎日確認しています）。</div>`:'<div class="msg">該当するライブはありません</div>';
-  out.innerHTML=(list.length?`<div class="m">${list.length}件</div>${h}`:none)+
-    pendNote()+
-    `<small>最終更新 ${esc(up)} ／ AIによる収集です。購入前に必ず公式情報をご確認ください</small>`;
+  let h='',cur='',i=0;
+  for(const e of list){const mo=(e.date||'').slice(0,7)||'未定';if(mo!==cur){cur=mo;h+=/\d/.test(mo)?monHead(mo):'<div class="mon">日付未定</div>'}h+=card(e,i++)}
+  const none=(sel.size&&!q)?`<div class="empty"><div class="em">🔎</div><b>${esc([...sel].join('、'))} の予定は、まだ見つかっていません</b>公式サイトで発表されると、自動で追加されます（毎日確認しています）</div>`
+    :`<div class="empty"><div class="em">🎤</div><b>該当するライブはありません</b>キーワードや、推しの選択を変えてみてください</div>`;
+  out.innerHTML=(list.length?`<div class="count">${list.length}件のライブ・フェス</div>${h}`:none)+pendNote()+
+    foot('AIによる自動収集です。購入前に、必ず公式の情報をご確認ください');
 }
-$('#chips').onclick=e=>{const d=e.target.dataset||{};
-  if(d.add){const b=$('#addbox');b.hidden=!b.hidden;if(!b.hidden)$('#addname').focus();return}
-  if(d.p){const p=pend.find(x=>x.n===d.p);if(p&&(Date.now()-p.t>LATE||isRejected(p.n))&&confirm(`「${p.n}」を一覧から消しますか？（もう一度追加できます）`)){pend=pend.filter(x=>x!==p);savePend();render()}return}
+function go(t){TAB=t;try{localStorage.tab=t}catch{}render();scrollTo({top:0})}
+$('#chips').onclick=e=>{const b=e.target.closest('button');if(!b)return;const d=b.dataset;
+  if(d.p!==undefined){const p=pend.find(x=>x.n===d.p);if(p&&(Date.now()-p.t>LATE||isRejected(p.n))&&confirm(`「${p.n}」を一覧から消しますか？（もう一度追加できます）`)){pend=pend.filter(x=>x!==p);savePend();render()}return}
   const a=d.a;if(a===undefined)return;
   if(a==='')sel.clear();else sel.has(a)?sel.delete(a):sel.add(a);
   try{localStorage.sel=JSON.stringify([...sel])}catch{}render()};
 $('#q').oninput=render;
-$('#tabs').onclick=e=>{const t=e.target.dataset?.tab;if(!t)return;TAB=t;try{localStorage.tab=t}catch{}render();scrollTo(0,0)};
+$('#nav').onclick=e=>{const b=e.target.closest('button');if(!b)return;const n=b.dataset.nav;if(n==='add')openAdd(true);else if(n)go(n)};
+$('#addbox').onclick=e=>{if(e.target.closest('[data-close]'))openAdd(false)};
+document.addEventListener('keydown',e=>{if(e.key==='Escape')openAdd(false)});
 $('#addform').onsubmit=e=>{e.preventDefault();addArtist($('#addname').value)};
 function load(first){
   return fetch('data/events.json?t='+Date.now(),{cache:'no-store'}).then(r=>r.json()).then(j=>{
@@ -222,10 +333,10 @@ function load(first){
       sel=new Set([a]);try{localStorage.sel=JSON.stringify([...sel])}catch{}
       TAB='live';try{localStorage.tab='live'}catch{}
       toast(n?`「${a}」を追加しました（今後の予定 ${n}件）`:`「${a}」を追加しました（今後の予定は、いまのところ見つかっていません）`);
-      scrollTo(0,0);
+      scrollTo({top:0});
     }
     render();
-  }).catch(()=>{if(first)out.innerHTML='<div class="msg">データを読み込めませんでした</div>'});
+  }).catch(()=>{if(first)out.innerHTML='<div class="empty"><div class="em">📡</div><b>データを読み込めませんでした</b>通信を確認して、もう一度開いてください</div>'});
 }
 load(true).then(loadCat);
 // 調べている推しがあるうちは15秒ごと、ないときは5分ごとに最新へ
