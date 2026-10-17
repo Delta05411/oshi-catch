@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T20:30:00+09:00",
+ "updated": "2026-10-18T07:30:00+09:00",
  "artists": [
   "04 Limited Sazabys",
   "ELLEGARDEN",
@@ -17,38 +17,6 @@
   "ROTTENGRAFFTY"
  ],
  "events": [
-  {
-   "artist": "04 Limited Sazabys",
-   "date": "2026-10-17",
-   "title": "LIVE AZUMA 2026 5th ANNIVERSARY（10/17・18）",
-   "kind": "フェス",
-   "venue": "あづま総合運動公園（福島）",
-   "sale_info": "AZUMA STAGE出演（後半）。1日券13,500円・2日通し券24,500円",
-   "source_url": "https://san-tatsu.jp/pressrelease/552258/",
-   "confidence": "high"
-  },
-  {
-   "artist": "ELLEGARDEN",
-   "date": "2026-10-17",
-   "title": "MIYAKO ISLAND ROCK FESTIVAL 2026〜SAVE THE SEA SAVE THE SKY〜",
-   "kind": "フェス",
-   "venue": "宮古島コースタルリゾート ヒララ トゥリバー地区ヘッドランド特設会場（沖縄）",
-   "ticket_name": "イープラス",
-   "sale_info": "前売9,000円・当日10,000円（全席自由）。開場10:00／開演11:00予定",
-   "source_url": "https://spice.eplus.jp/articles/346177",
-   "confidence": "high"
-  },
-  {
-   "artist": "サンボマスター",
-   "date": "2026-10-17",
-   "title": "MIYAKO ISLAND ROCK FESTIVAL 2026〜SAVE THE SEA SAVE THE SKY〜",
-   "kind": "フェス",
-   "venue": "宮古島コースタルリゾート ヒララ トゥリバー地区ヘッドランド特設会場（沖縄）",
-   "ticket_name": "イープラス",
-   "sale_info": "前売9,000円・当日10,000円（全席自由）。開場10:00／開演11:00予定",
-   "source_url": "https://spice.eplus.jp/articles/346177",
-   "confidence": "high"
-  },
   {
    "ticket_name": "ローソンチケット",
    "ticket_url": "https://l-tike.com/yabaitshirtsyasan/t",
@@ -2272,14 +2240,6 @@
    "source_url": "https://www.ragnet.co.jp/rock-festival"
   },
   {
-   "name": "INDIE MANNERS COLLECTIVE",
-   "start": "2026-10-17",
-   "end": "2026-10-17",
-   "pref": "栃木",
-   "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
-  },
-  {
    "name": "LIVE AZUMA",
    "start": "2026-10-17",
    "end": "2026-10-18",
@@ -2287,32 +2247,6 @@
    "status": "lineup",
    "source_url": "https://www.ragnet.co.jp/rock-festival",
    "venue": "あづま総合運動公園"
-  },
-  {
-   "name": "MIYAKO ISLAND ROCK FESTIVAL",
-   "start": "2026-10-17",
-   "end": "2026-10-17",
-   "pref": "沖縄",
-   "status": "lineup",
-   "source_url": "https://www.ragnet.co.jp/rock-festival",
-   "official_url": "http://www.mirf.jp/",
-   "venue": "ヒララ トゥリバー地区ヘッドランド特設会場"
-  },
-  {
-   "name": "YAPPA-MUSIC",
-   "start": "2026-10-17",
-   "end": "2026-10-17",
-   "pref": "富山",
-   "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
-  },
-  {
-   "name": "みいろ歌あそびフェスタ みいロック",
-   "start": "2026-10-17",
-   "end": "2026-10-17",
-   "pref": "香川",
-   "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
   },
   {
    "name": "Bands Shock REVOLUTION",
@@ -3178,59 +3112,59 @@
  "artist_status": {
   "Hi-STANDARD": {
    "state": "ok",
-   "checked": "2026-10-17T16:38:32+09:00"
+   "checked": "2026-10-18T07:30:00+09:00"
   },
   "Mrs. GREEN APPLE": {
    "state": "ok",
-   "checked": "2026-10-17T16:38:32+09:00"
+   "checked": "2026-10-18T07:30:00+09:00"
   },
   "back number": {
    "state": "no_events",
-   "checked": "2026-10-17T16:38:32+09:00"
+   "checked": "2026-10-18T07:30:00+09:00"
   },
   "04 Limited Sazabys": {
    "state": "ok",
-   "checked": "2026-10-17T16:38:32+09:00"
+   "checked": "2026-10-18T07:30:00+09:00"
   },
   "ELLEGARDEN": {
    "state": "ok",
-   "checked": "2026-10-17T16:38:32+09:00"
+   "checked": "2026-10-18T07:30:00+09:00"
   },
   "ヤバイTシャツ屋さん": {
    "state": "ok",
-   "checked": "2026-10-17T16:38:32+09:00"
+   "checked": "2026-10-18T07:30:00+09:00"
   },
   "ORAL CIGARETTES": {
    "state": "ok",
-   "checked": "2026-10-17T16:38:32+09:00"
+   "checked": "2026-10-18T07:30:00+09:00"
   },
   "HEY-SMITH": {
    "state": "ok",
-   "checked": "2026-10-17T16:38:32+09:00"
+   "checked": "2026-10-18T07:30:00+09:00"
   },
   "マキシマム ザ ホルモン": {
    "state": "ok",
-   "checked": "2026-10-17T16:38:32+09:00"
+   "checked": "2026-10-18T07:30:00+09:00"
   },
   "サンボマスター": {
-   "state": "ok",
-   "checked": "2026-10-17T16:38:32+09:00"
+   "state": "no_events",
+   "checked": "2026-10-18T07:30:00+09:00"
   },
   "あいみょん": {
    "state": "ok",
-   "checked": "2026-10-17T16:38:32+09:00"
+   "checked": "2026-10-18T07:30:00+09:00"
   },
   "10-FEET": {
    "state": "ok",
-   "checked": "2026-10-17T16:38:32+09:00"
+   "checked": "2026-10-18T07:30:00+09:00"
   },
   "SHANK": {
    "state": "ok",
-   "checked": "2026-10-17T16:38:32+09:00"
+   "checked": "2026-10-18T07:30:00+09:00"
   },
   "ROTTENGRAFFTY": {
    "state": "ok",
-   "checked": "2026-10-17T20:30:00+09:00"
+   "checked": "2026-10-18T07:30:00+09:00"
   }
  }
 }
