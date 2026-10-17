@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T17:00:00+09:00",
+ "updated": "2026-10-17T16:38:32+09:00",
  "artists": [
   "04 Limited Sazabys",
   "ELLEGARDEN",
@@ -380,6 +380,16 @@
    "sale_info": "6,050円（税込）＋ドリンク代。開場18:00／開演19:00"
   },
   {
+   "artist": "SHANK",
+   "date": "2026-11-04",
+   "title": "SHANK THE TOUR 2026",
+   "kind": "対バン",
+   "venue": "金沢 EIGHT HALL（石川）",
+   "with": "山嵐",
+   "source_url": "https://barks.jp/news/1080436/",
+   "confidence": "low"
+  },
+  {
    "artist": "04 Limited Sazabys",
    "date": "2026-11-05",
    "title": "ONE MAN TOUR 2026",
@@ -422,6 +432,16 @@
    "ticket_url": "https://eplus.jp/sf/word/0000044957",
    "source_url": "https://dime.jp/company_news/detail/?pr=2664079",
    "confidence": "high"
+  },
+  {
+   "artist": "SHANK",
+   "date": "2026-11-06",
+   "title": "SHANK THE TOUR 2026",
+   "kind": "対バン",
+   "venue": "新潟 LOTS（新潟）",
+   "with": "山嵐",
+   "source_url": "https://barks.jp/news/1080436/",
+   "confidence": "low"
   },
   {
    "artist": "10-FEET",
@@ -475,6 +495,17 @@
    "venue": "ZOZOマリンスタジアム（千葉県）",
    "sale_info": "Hi-STANDARD主催・ヘッドライナー。公式サイトにSOLDOUT表示あり",
    "source_url": "https://airjam.jp/",
+   "confidence": "high"
+  },
+  {
+   "artist": "ELLEGARDEN",
+   "date": "2026-11-07",
+   "title": "MONGOL800 ga FESTIVAL What a Wonderful World!! 26（11/7・8のどちらか）",
+   "kind": "フェス",
+   "venue": "宜野湾市（沖縄）",
+   "ticket_name": "イープラス",
+   "sale_info": "1日券12,000円・2日券22,000円。出演日は未発表",
+   "source_url": "https://spice.eplus.jp/articles/345243",
    "confidence": "high"
   },
   {
@@ -558,6 +589,16 @@
    "venue": "松山市総合コミュニティセンター（愛媛）",
    "sale_info": "ゲストは後日発表",
    "source_url": "https://natalie.mu/music/news/684366",
+   "confidence": "low"
+  },
+  {
+   "artist": "SHANK",
+   "date": "2026-11-13",
+   "title": "SHANK THE TOUR 2026",
+   "kind": "対バン",
+   "venue": "仙台 Rensa（宮城）",
+   "with": "Boobie Trap",
+   "source_url": "https://barks.jp/news/1080436/",
    "confidence": "low"
   },
   {
@@ -682,6 +723,16 @@
    "venue": "LIQUIDROOM（東京）",
    "sale_info": "Wienners対バンツアーの最終日。ゲスト：粗品、ヤバイTシャツ屋さん、04 Limited Sazabys",
    "source_url": "https://natalie.mu/music/news/686462",
+   "confidence": "low"
+  },
+  {
+   "artist": "SHANK",
+   "date": "2026-11-25",
+   "title": "SHANK THE TOUR 2026",
+   "kind": "対バン",
+   "venue": "福岡 BEAT STATION（福岡）",
+   "with": "Survive Said The Prophet",
+   "source_url": "https://barks.jp/news/1080436/",
    "confidence": "low"
   },
   {
@@ -997,6 +1048,16 @@
    "confidence": "low"
   },
   {
+   "artist": "10-FEET",
+   "date": "2026-12-26",
+   "title": "COUNTDOWN JAPAN 26/27（12/26・27・29・30・31のいずれか）",
+   "kind": "フェス",
+   "venue": "幕張メッセ 国際展示場（千葉）",
+   "sale_info": "出演日は後日発表。第1次抽選先行受付中",
+   "source_url": "https://www.thefirsttimes.jp/news/0000899196/",
+   "confidence": "high"
+  },
+  {
    "artist": "Mrs. GREEN APPLE",
    "date": "2026-12-27",
    "title": "Mrs. GREEN APPLE Ringo Jam Tour “SHADOWS”",
@@ -1065,6 +1126,18 @@
    "confidence": "high"
   },
   {
+   "artist": "SHANK",
+   "date": "2027-01-15",
+   "title": "SHANK THE TOUR 2026 FINAL STAGE",
+   "kind": "対バン",
+   "venue": "Zepp Haneda（東京）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/shank202701/",
+   "sale_info": "ゲストは後日発表。1次先行は8/9受付終了",
+   "source_url": "https://barks.jp/news/1080436/",
+   "confidence": "high"
+  },
+  {
    "artist": "HEY-SMITH",
    "date": "2027-01-16",
    "title": "HEY-SMITH 20th ANNIVERSARY『ALL OVER JAPAN TOUR』",
@@ -1127,6 +1200,40 @@
    "ticket_url": "https://eplus.jp/heysmith_AOJ47tour/",
    "sale_info": "1F立見/2F指定 4,600円（ドリンク別）",
    "source_url": "https://spice.eplus.jp/articles/344241",
+   "confidence": "high"
+  },
+  {
+   "artist": "SHANK",
+   "date": "2027-01-24",
+   "title": "SHANK THE TOUR 2026 FINAL STAGE",
+   "kind": "対バン",
+   "venue": "COMTEC PORTBASE（愛知）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/shank202701/",
+   "sale_info": "ゲストは後日発表。1次先行は8/9受付終了",
+   "source_url": "https://barks.jp/news/1080436/",
+   "confidence": "high"
+  },
+  {
+   "artist": "04 Limited Sazabys",
+   "date": "2027-01-30",
+   "title": "FUKUOKA MUSIC FES.2027 supported by Trunk（1/30・31のどちらか）",
+   "kind": "フェス",
+   "venue": "みずほPayPayドーム福岡（福岡）",
+   "sale_info": "1/30・31の2日間。出演日は後日発表",
+   "source_url": "https://natalie.mu/music/news/690002",
+   "confidence": "low"
+  },
+  {
+   "artist": "SHANK",
+   "date": "2027-01-30",
+   "title": "SHANK THE TOUR 2026 FINAL STAGE",
+   "kind": "対バン",
+   "venue": "なんばHatch（大阪）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/shank202701/",
+   "sale_info": "ゲストは後日発表。1次先行は8/9受付終了",
+   "source_url": "https://barks.jp/news/1080436/",
    "confidence": "high"
   },
   {
@@ -2389,7 +2496,7 @@
    "start": "2026-11-07",
    "end": "2026-11-08",
    "pref": "沖縄",
-   "status": "unknown",
+   "status": "lineup",
    "source_url": "https://www.ragnet.co.jp/rock-festival"
   },
   {
@@ -2718,7 +2825,7 @@
    "start": "2026-12-26",
    "end": "2026-12-31",
    "pref": "千葉",
-   "status": "unknown",
+   "status": "lineup",
    "source_url": "https://www.ragnet.co.jp/rock-festival",
    "venue": "幕張メッセ",
    "note": "12/26,27,29,30,31（28日は休演日）。第1弾発表は10月中旬予定"
@@ -2754,6 +2861,16 @@
    "pref": "愛知",
    "status": "unknown",
    "source_url": "https://www.ragnet.co.jp/rock-festival"
+  },
+  {
+   "name": "FUKUOKA MUSIC FES.2027 supported by Trunk",
+   "start": "2027-01-30",
+   "end": "2027-01-31",
+   "pref": "福岡",
+   "venue": "みずほPayPayドーム福岡",
+   "status": "lineup",
+   "note": "第1弾：Saucy Dog、04 Limited Sazabys、My Hair is Bad、マルシィ、WurtS",
+   "source_url": "https://natalie.mu/music/news/690002"
   },
   {
    "name": "ブクロック!フェスティバル",
@@ -2907,55 +3024,55 @@
  "artist_status": {
   "Hi-STANDARD": {
    "state": "ok",
-   "checked": "2026-10-16T23:30:00+09:00"
+   "checked": "2026-10-17T16:38:32+09:00"
   },
   "Mrs. GREEN APPLE": {
    "state": "ok",
-   "checked": "2026-10-16T23:30:00+09:00"
+   "checked": "2026-10-17T16:38:32+09:00"
   },
   "back number": {
    "state": "no_events",
-   "checked": "2026-10-16T23:30:00+09:00"
+   "checked": "2026-10-17T16:38:32+09:00"
   },
   "04 Limited Sazabys": {
    "state": "ok",
-   "checked": "2026-10-17T07:30:00+09:00"
+   "checked": "2026-10-17T16:38:32+09:00"
   },
   "ELLEGARDEN": {
    "state": "ok",
-   "checked": "2026-10-17T07:30:00+09:00"
+   "checked": "2026-10-17T16:38:32+09:00"
   },
   "ヤバイTシャツ屋さん": {
    "state": "ok",
-   "checked": "2026-10-17T07:30:00+09:00"
+   "checked": "2026-10-17T16:38:32+09:00"
   },
   "ORAL CIGARETTES": {
    "state": "ok",
-   "checked": "2026-10-17T07:30:00+09:00"
+   "checked": "2026-10-17T16:38:32+09:00"
   },
   "HEY-SMITH": {
    "state": "ok",
-   "checked": "2026-10-17T07:30:00+09:00"
+   "checked": "2026-10-17T16:38:32+09:00"
   },
   "マキシマム ザ ホルモン": {
    "state": "ok",
-   "checked": "2026-10-17T07:30:00+09:00"
+   "checked": "2026-10-17T16:38:32+09:00"
   },
   "サンボマスター": {
    "state": "ok",
-   "checked": "2026-10-17T07:30:00+09:00"
+   "checked": "2026-10-17T16:38:32+09:00"
   },
   "あいみょん": {
    "state": "ok",
-   "checked": "2026-10-17T07:30:00+09:00"
+   "checked": "2026-10-17T16:38:32+09:00"
   },
   "10-FEET": {
    "state": "ok",
-   "checked": "2026-10-17T07:30:00+09:00"
+   "checked": "2026-10-17T16:38:32+09:00"
   },
   "SHANK": {
    "state": "ok",
-   "checked": "2026-10-17T17:00:00+09:00"
+   "checked": "2026-10-17T16:38:32+09:00"
   }
  }
 }

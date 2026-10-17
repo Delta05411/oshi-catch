@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T23:27:07+09:00",
+ "updated": "2026-10-17T16:38:32+09:00",
  "artists": {
   "Someday's Gone": {
    "aliases": [],
@@ -423,6 +423,240 @@
      "kind": "フェス",
      "venue": "ぴあアリーナMM（神奈川）",
      "source_url": "https://t-onkyo.co.jp/ticket/fullmetal_japan2026",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Saucy Dog": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-30",
+     "title": "FUKUOKA MUSIC FES.2027 supported by Trunk（1/30・31のどちらか）",
+     "kind": "フェス",
+     "venue": "みずほPayPayドーム福岡（福岡）",
+     "source_url": "https://natalie.mu/music/news/690002",
+     "confidence": "low"
+    }
+   ]
+  },
+  "My Hair is Bad": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-30",
+     "title": "FUKUOKA MUSIC FES.2027 supported by Trunk（1/30・31のどちらか）",
+     "kind": "フェス",
+     "venue": "みずほPayPayドーム福岡（福岡）",
+     "source_url": "https://natalie.mu/music/news/690002",
+     "confidence": "low"
+    }
+   ]
+  },
+  "マルシィ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-30",
+     "title": "FUKUOKA MUSIC FES.2027 supported by Trunk（1/30・31のどちらか）",
+     "kind": "フェス",
+     "venue": "みずほPayPayドーム福岡（福岡）",
+     "source_url": "https://natalie.mu/music/news/690002",
+     "confidence": "low"
+    }
+   ]
+  },
+  "WurtS": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-30",
+     "title": "FUKUOKA MUSIC FES.2027 supported by Trunk（1/30・31のどちらか）",
+     "kind": "フェス",
+     "venue": "みずほPayPayドーム福岡（福岡）",
+     "source_url": "https://natalie.mu/music/news/690002",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Creepy Nuts": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-26",
+     "title": "COUNTDOWN JAPAN 26/27（12/26・27・29・30・31のいずれか）",
+     "kind": "フェス",
+     "venue": "幕張メッセ 国際展示場（千葉）",
+     "source_url": "https://www.thefirsttimes.jp/news/0000899196/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "羊文学": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-26",
+     "title": "COUNTDOWN JAPAN 26/27（12/26・27・29・30・31のいずれか）",
+     "kind": "フェス",
+     "venue": "幕張メッセ 国際展示場（千葉）",
+     "source_url": "https://www.thefirsttimes.jp/news/0000899196/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "CUTIE STREET": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-26",
+     "title": "COUNTDOWN JAPAN 26/27（12/26・27・29・30・31のいずれか）",
+     "kind": "フェス",
+     "venue": "幕張メッセ 国際展示場（千葉）",
+     "source_url": "https://www.thefirsttimes.jp/news/0000899196/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "超特急": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-26",
+     "title": "COUNTDOWN JAPAN 26/27（12/26・27・29・30・31のいずれか）",
+     "kind": "フェス",
+     "venue": "幕張メッセ 国際展示場（千葉）",
+     "source_url": "https://www.thefirsttimes.jp/news/0000899196/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "LiSA": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-26",
+     "title": "COUNTDOWN JAPAN 26/27（12/26・27・29・30・31のいずれか）",
+     "kind": "フェス",
+     "venue": "幕張メッセ 国際展示場（千葉）",
+     "source_url": "https://www.thefirsttimes.jp/news/0000899196/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ENHYPEN": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-26",
+     "title": "COUNTDOWN JAPAN 26/27（12/26・27・29・30・31のいずれか）",
+     "kind": "フェス",
+     "venue": "幕張メッセ 国際展示場（千葉）",
+     "source_url": "https://www.thefirsttimes.jp/news/0000899196/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "クリープハイプ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-26",
+     "title": "COUNTDOWN JAPAN 26/27（12/26・27・29・30・31のいずれか）",
+     "kind": "フェス",
+     "venue": "幕張メッセ 国際展示場（千葉）",
+     "source_url": "https://www.thefirsttimes.jp/news/0000899196/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Eve": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-26",
+     "title": "COUNTDOWN JAPAN 26/27（12/26・27・29・30・31のいずれか）",
+     "kind": "フェス",
+     "venue": "幕張メッセ 国際展示場（千葉）",
+     "source_url": "https://www.thefirsttimes.jp/news/0000899196/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "星街すいせい": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-26",
+     "title": "COUNTDOWN JAPAN 26/27（12/26・27・29・30・31のいずれか）",
+     "kind": "フェス",
+     "venue": "幕張メッセ 国際展示場（千葉）",
+     "source_url": "https://www.thefirsttimes.jp/news/0000899196/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "LEX": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-26",
+     "title": "COUNTDOWN JAPAN 26/27（12/26・27・29・30・31のいずれか）",
+     "kind": "フェス",
+     "venue": "幕張メッセ 国際展示場（千葉）",
+     "source_url": "https://www.thefirsttimes.jp/news/0000899196/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "LANA": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-26",
+     "title": "COUNTDOWN JAPAN 26/27（12/26・27・29・30・31のいずれか）",
+     "kind": "フェス",
+     "venue": "幕張メッセ 国際展示場（千葉）",
+     "source_url": "https://www.thefirsttimes.jp/news/0000899196/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "MAZZEL": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-26",
+     "title": "COUNTDOWN JAPAN 26/27（12/26・27・29・30・31のいずれか）",
+     "kind": "フェス",
+     "venue": "幕張メッセ 国際展示場（千葉）",
+     "source_url": "https://www.thefirsttimes.jp/news/0000899196/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "BRAHMAN": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-07",
+     "title": "MONGOL800 ga FESTIVAL What a Wonderful World!! 26（11/7・8のどちらか）",
+     "kind": "フェス",
+     "venue": "宜野湾市（沖縄）",
+     "source_url": "https://spice.eplus.jp/articles/345243",
+     "confidence": "high"
+    }
+   ]
+  },
+  "MAN WITH A MISSION": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-07",
+     "title": "MONGOL800 ga FESTIVAL What a Wonderful World!! 26（11/7・8のどちらか）",
+     "kind": "フェス",
+     "venue": "宜野湾市（沖縄）",
+     "source_url": "https://spice.eplus.jp/articles/345243",
      "confidence": "high"
     }
    ]
