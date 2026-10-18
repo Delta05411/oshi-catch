@@ -4486,7 +4486,8 @@
    "end": "2027-05-01",
    "pref": "東京",
    "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "lineup_checked": "2026-10-19"
   },
   {
    "name": "ONE FES -imizu music festival-",
@@ -4494,7 +4495,9 @@
    "end": "2027-05-03",
    "pref": "富山",
    "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "lineup_checked": "2026-10-19",
+   "official_url": "https://one-fes.jp/"
   },
   {
    "name": "Tank-top Festival 2027",
@@ -4506,7 +4509,8 @@
    "ticket_name": "ローチケ",
    "ticket_url": "https://l-tike.com/ttfes2027/",
    "note": "ヤバイTシャツ屋さん主催。出演者は未確認",
-   "source_url": "https://l-tike.com/ttfes2027/"
+   "source_url": "https://l-tike.com/ttfes2027/",
+   "lineup_checked": "2026-10-19"
   },
   {
    "name": "電撃BEPPU",
@@ -4516,7 +4520,15 @@
    "venue": "別府ビーコンプラザ",
    "status": "lineup",
    "note": "第1弾発表：ROTTENGRAFFTYほか",
-   "source_url": "https://news.livedoor.com/article/detail/31333276/"
+   "source_url": "https://news.livedoor.com/article/detail/31333276/",
+   "lineup_checked": "2026-10-19",
+   "lineup": [
+    "JUN SKY WALKER(S)",
+    "純烈",
+    "ハルカミライ",
+    "ROTTENGRAFFTY",
+    "四星球"
+   ]
   },
   {
    "name": "CAMPASS",
@@ -4524,7 +4536,8 @@
    "end": "2027-05-30",
    "pref": "千葉",
    "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "lineup_checked": "2026-10-19"
   },
   {
    "name": "かみのやまデスフェスト",
@@ -4532,7 +4545,8 @@
    "end": "2027-06-13",
    "pref": "山形",
    "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "lineup_checked": "2026-10-19"
   },
   {
    "name": "INSPIRATION OKINAWA",
