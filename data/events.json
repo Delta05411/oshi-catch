@@ -2583,24 +2583,127 @@
    "start": "2026-10-24",
    "end": "2026-10-25",
    "pref": "神奈川",
-   "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "status": "lineup",
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "official_url": "https://fullmetaljapan.com/",
+   "ticket_name": "チケットぴあ",
+   "ticket_url": "https://w.pia.jp/t/fullmetaljapan2026/",
+   "lineup": [
+    "Michael Schenker Group",
+    "Stratovarius",
+    "Lovebites",
+    "Vandenberg",
+    "Gus G. & Ronnie Romero",
+    "Powerwolf",
+    "Angra feat. Kiko Loureiro & Edu Falaschi",
+    "Loudness",
+    "Pretty Maids",
+    "Hibria featuring Iuri Sanson & Renato Osorio"
+   ],
+   "sales": [
+    {
+     "label": "プレオーダー（抽選）",
+     "start": "2026-07-10",
+     "end": "2026-07-26",
+     "url": "https://w.pia.jp/t/fullmetaljapan2026/",
+     "note": "12:00〜23:59"
+    }
+   ],
+   "lineup_checked": "2026-10-19"
   },
   {
    "name": "HAWAIIAN6 presents ECHOES",
    "start": "2026-10-24",
    "end": "2026-10-25",
    "pref": "神奈川",
-   "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "status": "lineup",
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/4567250001",
+   "lineup": [
+    "HAWAIIAN6",
+    "AGGROKNUCKLE",
+    "BAREBONES",
+    "COUNTRY YARD",
+    "Dizzy Sunfist",
+    "dustbox",
+    "HERO COMPLEX",
+    "KiM",
+    "KUZIRA",
+    "LOW IQ 01 & THE RHYTHM MAKERS",
+    "OVER ARM THROW",
+    "PALM",
+    "STAB 4 REASON",
+    "鐵槌",
+    "壬生狼",
+    "bacho",
+    "ENDZWECK",
+    "GARLICBOYS",
+    "G-FREAK FACTORY",
+    "kamomekamome",
+    "KiNGONS",
+    "locofrank",
+    "THE NO EAR",
+    "NUMB",
+    "spike shoes",
+    "STINKY",
+    "STOMPIN' BIRD",
+    "オナニ渕剛",
+    "九狼吽"
+   ],
+   "sales": [
+    {
+     "label": "プレオーダー1次（抽選）",
+     "start": "2026-07-30",
+     "end": "2026-08-10",
+     "url": "https://eplus.jp/sf/detail/4567250001",
+     "note": "12:00〜23:59"
+    },
+    {
+     "label": "プレオーダー2次",
+     "start": "2026-08-20",
+     "end": "2026-08-30",
+     "url": "https://eplus.jp/sf/detail/4567250001",
+     "note": "12:00〜23:59"
+    },
+    {
+     "label": "一般発売",
+     "start": "2026-09-12",
+     "url": "https://eplus.jp/sf/detail/4567250001",
+     "note": "10:00〜"
+    }
+   ],
+   "lineup_checked": "2026-10-19"
   },
   {
    "name": "ITaFES",
    "start": "2026-10-24",
    "end": "2026-10-25",
    "pref": "東京",
-   "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "status": "lineup",
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "ticket_name": "チケットぴあ",
+   "ticket_url": "https://w.pia.jp/t/itafes/",
+   "lineup": [
+    "the band apart"
+   ],
+   "sales": [
+    {
+     "label": "オフィシャル先行",
+     "start": "2026-07-07",
+     "end": "2026-07-26",
+     "url": "https://w.pia.jp/t/itafes/",
+     "note": "20:00〜23:59"
+    },
+    {
+     "label": "一般発売",
+     "start": "2026-08-15",
+     "end": "2026-10-21",
+     "url": "https://w.pia.jp/t/itafes/",
+     "note": "10:00〜18:00"
+    }
+   ],
+   "lineup_checked": "2026-10-19"
   },
   {
    "name": "OSAKA HAZIKETEMAZARE FESTIVAL",
@@ -2611,7 +2714,20 @@
    "source_url": "https://spice.eplus.jp/articles/346146",
    "venue": "泉大津フェニックス",
    "note": "10/24・25開催。日割りは後日発表",
-   "official_url": "https://haziketemazare.com/2026/"
+   "official_url": "https://haziketemazare.com/2026/",
+   "sales": [
+    {
+     "label": "オフィシャル最終先行",
+     "start": "2026-07-31",
+     "note": "全券種SOLD OUT（8/9時点）"
+    },
+    {
+     "label": "一般発売",
+     "start": "2026-08-29",
+     "note": "全券種SOLD OUT"
+    }
+   ],
+   "lineup_checked": "2026-10-19"
   },
   {
    "name": "SOTOASOBI FRIENDS",
@@ -2619,7 +2735,8 @@
    "end": "2026-10-24",
    "pref": "奈良",
    "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "lineup_checked": "2026-10-19"
   },
   {
    "name": "コネコレロック",
@@ -2627,7 +2744,15 @@
    "end": "2026-10-25",
    "pref": "大阪",
    "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "official_url": "https://connecolle.com",
+   "lineup": [
+    "愛条ヒカル",
+    "斉藤れいか",
+    "夕凪"
+   ],
+   "note": "無料。オーディション入賞者のみ確認、他の出演者は未確認",
+   "lineup_checked": "2026-10-19"
   },
   {
    "name": "川じゃんロックフェスティバル",
@@ -2635,7 +2760,8 @@
    "end": "2026-10-25",
    "pref": "高知",
    "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "lineup_checked": "2026-10-19"
   },
   {
    "name": "CATCH the STARミュージックフェス",
@@ -2643,7 +2769,8 @@
    "end": "2026-10-25",
    "pref": "鳥取",
    "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "lineup_checked": "2026-10-19"
   },
   {
    "name": "SUPER AMERICAN FESTIVAL",
