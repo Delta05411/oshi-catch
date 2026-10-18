@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T20:10:00+09:00",
+ "updated": "2026-10-19T07:30:00+09:00",
  "artists": {
   "氣志團": {
    "aliases": [
@@ -268,6 +268,14 @@
      "venue": "みずほPayPayドーム福岡（福岡）",
      "source_url": "https://natalie.mu/music/news/690002",
      "confidence": "low"
+    },
+    {
+     "date": "2027-01-23",
+     "title": "HYPE LIKE IT!",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://xhl-music.com/feature/hypelikeit",
+     "confidence": "high"
     }
    ]
   },
@@ -307,6 +315,14 @@
      "venue": "みずほPayPayドーム福岡（福岡）",
      "source_url": "https://natalie.mu/music/news/690002",
      "confidence": "low"
+    },
+    {
+     "date": "2027-01-23",
+     "title": "HYPE LIKE IT!",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://xhl-music.com/feature/hypelikeit",
+     "confidence": "high"
     }
    ]
   },
@@ -488,6 +504,264 @@
      "kind": "フェス",
      "venue": "宜野湾市（沖縄）",
      "source_url": "https://spice.eplus.jp/articles/345243",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-11-07",
+     "title": "AIR JAM 2026",
+     "kind": "フェス",
+     "venue": "ZOZOマリンスタジアム（千葉）",
+     "source_url": "https://www.thefirsttimes.jp/?p=820987",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Hi-STANDARD": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-07",
+     "title": "AIR JAM 2026",
+     "kind": "フェス",
+     "venue": "ZOZOマリンスタジアム（千葉）",
+     "source_url": "https://www.thefirsttimes.jp/?p=820987",
+     "confidence": "high"
+    }
+   ]
+  },
+  "10-FEET": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-07",
+     "title": "AIR JAM 2026",
+     "kind": "フェス",
+     "venue": "ZOZOマリンスタジアム（千葉）",
+     "source_url": "https://www.thefirsttimes.jp/?p=820987",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-01-24",
+     "title": "HYPE LIKE IT!",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://xhl-music.com/feature/hypelikeit",
+     "confidence": "high"
+    }
+   ]
+  },
+  "DANCE HALL CRASHERS": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-07",
+     "title": "AIR JAM 2026",
+     "kind": "フェス",
+     "venue": "ZOZOマリンスタジアム（千葉）",
+     "source_url": "https://www.thefirsttimes.jp/?p=820987",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ENTH": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-07",
+     "title": "AIR JAM 2026",
+     "kind": "フェス",
+     "venue": "ZOZOマリンスタジアム（千葉）",
+     "source_url": "https://www.thefirsttimes.jp/?p=820987",
+     "confidence": "high"
+    }
+   ]
+  },
+  "HEY-SMITH": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-07",
+     "title": "AIR JAM 2026",
+     "kind": "フェス",
+     "venue": "ZOZOマリンスタジアム（千葉）",
+     "source_url": "https://www.thefirsttimes.jp/?p=820987",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-01-24",
+     "title": "HYPE LIKE IT!",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://xhl-music.com/feature/hypelikeit",
+     "confidence": "high"
+    }
+   ]
+  },
+  "HUSKING BEE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-07",
+     "title": "AIR JAM 2026",
+     "kind": "フェス",
+     "venue": "ZOZOマリンスタジアム（千葉）",
+     "source_url": "https://www.thefirsttimes.jp/?p=820987",
+     "confidence": "high"
+    }
+   ]
+  },
+  "KUZIRA": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-07",
+     "title": "AIR JAM 2026",
+     "kind": "フェス",
+     "venue": "ZOZOマリンスタジアム（千葉）",
+     "source_url": "https://www.thefirsttimes.jp/?p=820987",
+     "confidence": "high"
+    }
+   ]
+  },
+  "LAGWAGON": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-07",
+     "title": "AIR JAM 2026",
+     "kind": "フェス",
+     "venue": "ZOZOマリンスタジアム（千葉）",
+     "source_url": "https://www.thefirsttimes.jp/?p=820987",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ザ・クロマニヨンズ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-07",
+     "title": "AIR JAM 2026",
+     "kind": "フェス",
+     "venue": "ZOZOマリンスタジアム（千葉）",
+     "source_url": "https://www.thefirsttimes.jp/?p=820987",
+     "confidence": "high"
+    }
+   ]
+  },
+  "マキシマム ザ ホルモン": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-07",
+     "title": "AIR JAM 2026",
+     "kind": "フェス",
+     "venue": "ZOZOマリンスタジアム（千葉）",
+     "source_url": "https://www.thefirsttimes.jp/?p=820987",
+     "confidence": "high"
+    }
+   ]
+  },
+  "KANA-BOON": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-23",
+     "title": "HYPE LIKE IT!",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://xhl-music.com/feature/hypelikeit",
+     "confidence": "high"
+    }
+   ]
+  },
+  "フレデリック": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-23",
+     "title": "HYPE LIKE IT!",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://xhl-music.com/feature/hypelikeit",
+     "confidence": "high"
+    }
+   ]
+  },
+  "go!go!vanillas": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-23",
+     "title": "HYPE LIKE IT!",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://xhl-music.com/feature/hypelikeit",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Chevon": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-23",
+     "title": "HYPE LIKE IT!",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://xhl-music.com/feature/hypelikeit",
+     "confidence": "high"
+    }
+   ]
+  },
+  "THE ORAL CIGARETTES": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-24",
+     "title": "HYPE LIKE IT!",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://xhl-music.com/feature/hypelikeit",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ハルカミライ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-24",
+     "title": "HYPE LIKE IT!",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://xhl-music.com/feature/hypelikeit",
+     "confidence": "high"
+    }
+   ]
+  },
+  "04 Limited Sazabys": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-24",
+     "title": "HYPE LIKE IT!",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://xhl-music.com/feature/hypelikeit",
+     "confidence": "high"
+    }
+   ]
+  },
+  "BLUE ENCOUNT": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-24",
+     "title": "HYPE LIKE IT!",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://xhl-music.com/feature/hypelikeit",
      "confidence": "high"
     }
    ]
