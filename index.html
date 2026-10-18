@@ -354,7 +354,7 @@ function fesCard(f,m,i){
   const q='https://www.google.com/search?q='+encodeURIComponent(f.name+' 出演者 ラインナップ');
   const u=safe(f.official_url),tk=safe(f.ticket_url);
   const luHtml=lu.length?`<details class="lu"><summary>出演者 ${lu.length}組${f.lineup_checked?`（${md(f.lineup_checked.slice(0,10))}時点）`:''}</summary><div>${lu.map(n=>mine.has(n)?`<b>${esc(n)}</b>`:esc(n)).join('<i>/</i>')}</div></details>`
-    :`<div class="m">出演者は未取得です（発表され次第、自動で追加します）</div>`;
+    :`<div class="m">${f.lineup_checked?`出演者は未発表です（${md(f.lineup_checked.slice(0,10))}確認。発表され次第、自動で追加します）`:'出演者は未取得です（順次、自動で集めています）'}</div>`;
   return `<article class="ev" style="animation-delay:${Math.min(i,10)*25}ms">${dateBlock(f.start,f.end)}
   <div><div class="tags"><span>FES</span>${who.length?'<span class="pill solid">推しが出演</span>':''}${f.status==='lineup'?'<span class="pill dim">出演者発表済み</span>':''}${soonBadge(f.start)}</div>
   <div class="t">${esc(f.name)}</div>
