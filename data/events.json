@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T06:51:00+09:00",
+ "updated": "2026-10-19T07:20:00+09:00",
  "artists": [
   "04 Limited Sazabys",
   "ELLEGARDEN",
@@ -533,17 +533,6 @@
    "confidence": "high"
   },
   {
-   "artist": "サンボマスター",
-   "date": "2026-11-07",
-   "title": "MONGOL800 ga FESTIVAL What a Wonderful World!!（11/7・8のいずれか）",
-   "kind": "フェス",
-   "venue": "宜野湾港マリーナ・トロピカルビーチ（沖縄）",
-   "ticket_name": "イープラス",
-   "ticket_url": "https://eplus.jp/sf/word/0000002764",
-   "source_url": "https://eplus.jp/sf/word/0000002764",
-   "confidence": "low"
-  },
-  {
    "artist": "マキシマム ザ ホルモン",
    "date": "2026-11-07",
    "title": "AIR JAM 2026",
@@ -552,6 +541,17 @@
    "sale_info": "Hi-STANDARD主催・ヘッドライナー。公式サイトにSOLDOUT表示あり",
    "source_url": "https://airjam.jp/",
    "confidence": "high"
+  },
+  {
+   "artist": "サンボマスター",
+   "date": "2026-11-08",
+   "title": "MONGOL800 ga FESTIVAL What a Wonderful World!!（11/8）",
+   "kind": "フェス",
+   "venue": "宜野湾港マリーナ・トロピカルビーチ（沖縄）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/word/0000002764",
+   "source_url": "https://eplus.jp/sf/word/0000002764",
+   "confidence": "low"
   },
   {
    "artist": "ORAL CIGARETTES",
@@ -3421,7 +3421,15 @@
    "venue": "みずほPayPayドーム福岡",
    "status": "lineup",
    "note": "第1弾：Saucy Dog、04 Limited Sazabys、My Hair is Bad、マルシィ、WurtS",
-   "source_url": "https://natalie.mu/music/news/690002"
+   "source_url": "https://natalie.mu/music/news/690002",
+   "lineup": [
+    "Saucy Dog",
+    "04 Limited Sazabys",
+    "My Hair is Bad",
+    "マルシィ",
+    "WurtS"
+   ],
+   "lineup_checked": "2026-10-19"
   },
   {
    "name": "ブクロック!フェスティバル",
