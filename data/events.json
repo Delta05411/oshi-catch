@@ -3174,7 +3174,8 @@
    "end": "2026-11-01",
    "pref": "東京",
    "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "lineup_checked": "2026-10-19"
   },
   {
    "name": "アガロック大作戦",
@@ -3182,7 +3183,8 @@
    "end": "2026-11-01",
    "pref": "新潟",
    "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "lineup_checked": "2026-10-19"
   },
   {
    "name": "クロマンタROCK-FES",
@@ -3190,7 +3192,8 @@
    "end": "2026-11-01",
    "pref": "秋田",
    "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "lineup_checked": "2026-10-19"
   },
   {
    "name": "鎌倉プチロックフェスティバル 秋",
@@ -3198,7 +3201,9 @@
    "end": "2026-11-01",
    "pref": "神奈川",
    "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "lineup_checked": "2026-10-19",
+   "official_url": "https://www.kprf.jp/"
   },
   {
    "name": "PUNK IN AUTUMN",
@@ -3206,7 +3211,8 @@
    "end": "2026-11-08",
    "pref": "愛知",
    "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "lineup_checked": "2026-10-19"
   },
   {
    "name": "SHUNAN Orbit",
@@ -3214,7 +3220,8 @@
    "end": "2026-11-03",
    "pref": "山口",
    "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "lineup_checked": "2026-10-19"
   },
   {
    "name": "三浦ロカビリーまつり",
@@ -3222,15 +3229,66 @@
    "end": "2026-11-03",
    "pref": "神奈川",
    "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "lineup_checked": "2026-10-19"
   },
   {
    "name": "BUZZ RHYTHM LIVE",
    "start": "2026-11-06",
    "end": "2026-11-08",
    "pref": "神奈川",
-   "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "status": "lineup",
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "lineup_checked": "2026-10-19",
+   "lineup": [
+    "Ayumu Imazu",
+    "KOIAI",
+    "Saucy Dog",
+    "Chevon",
+    "マルシィ",
+    "METALVERSE",
+    "龍宮城 -楽器隊篇-",
+    "IMP.",
+    "TAGRIGHT",
+    "超特急",
+    "NEXZ",
+    "Lienel",
+    "ONE OR EIGHT",
+    "OddRe:",
+    "kurayamisaka",
+    "This is LAST",
+    "Vaundy",
+    "FUJIBASE",
+    "My Hair is Bad"
+   ],
+   "official_url": "https://buzzrhythm.live/",
+   "ticket_name": "ローソンチケット",
+   "ticket_url": "https://l-tike.com/ntvzero/event/buzzrhythm26.html",
+   "sales": [
+    {
+     "label": "最速先行",
+     "start": "2026-08-14",
+     "url": "https://buzzrhythm.live/"
+    },
+    {
+     "label": "オフィシャル最終特別先行",
+     "start": "2026-10-02",
+     "end": "2026-10-19",
+     "url": "https://buzzrhythm.live/"
+    },
+    {
+     "label": "アップグレードチケット（抽選）",
+     "start": "2026-10-13",
+     "end": "2026-10-19",
+     "url": "https://buzzrhythm.live/"
+    },
+    {
+     "label": "BUZZER STAGE先行",
+     "start": "2026-09-11",
+     "end": "2026-10-19",
+     "url": "https://buzzrhythm.live/"
+    }
+   ]
   },
   {
    "name": "AIR JAM",
