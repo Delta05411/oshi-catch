@@ -67,6 +67,10 @@ header .wrap{display:flex;align-items:center;justify-content:space-between;heigh
 .spin{display:inline-block;width:11px;height:11px;border:2px solid var(--w);border-right-color:transparent;border-radius:50%;animation:sp .8s linear infinite;flex:none}
 @keyframes sp{to{transform:rotate(360deg)}}
 
+#cedit{display:block;margin:10px 0 0;font-size:12px;color:var(--sub);padding:2px 0;border-bottom:1px solid var(--line2);letter-spacing:.04em}
+#cedit[hidden]{display:none}
+.chip .rm{margin-left:4px;color:var(--warn);font-weight:700}
+
 /* 一覧 */
 main{padding-bottom:70px}
 .count{font-size:12px;color:var(--sub);margin:22px 0 0;letter-spacing:.04em}
@@ -157,6 +161,7 @@ details.lu i{font-style:normal;color:var(--line2);margin:0 6px}
     <label class="search"><input id="q" type="search" placeholder="会場・公演名・地名で探す" autocomplete="off" aria-label="検索"></label>
     <div class="chips" id="chips" role="group" aria-label="推しで絞り込み"></div>
     <button type="button" id="ctog" hidden></button>
+    <button type="button" id="cedit" hidden>EDIT 推しを外す</button>
   </section>
   <main id="out"><div class="sk"></div><div class="sk"></div><div class="sk"></div></main>
 </div>
@@ -179,6 +184,12 @@ const safe=u=>/^https?:\/\//.test(u||'')?u:'';
 const WE=['SUN','MON','TUE','WED','THU','FRI','SAT'];
 const KIND={'フェス':'FES','ワンマン':'ONE MAN','対バン':'TAIBAN','イベント':'EVENT','その他':'OTHER'};
 let DB={artists:[],events:[]}, sel=new Set();
+// 自分の推し（この端末だけに保存）。共通データには、全員が追加した推しが入っている
+let MYART=null;try{const j=localStorage.myart;if(j)MYART=new Set(JSON.parse(j))}catch{}
+const saveMA=()=>{try{localStorage.myart=JSON.stringify([...MYART])}catch{}};
+const addMy=a=>{if(!MYART)MYART=new Set();MYART.add(a);saveMA()};
+const mineA=()=>DB.artists.filter(a=>MYART&&MYART.has(a));
+let EDIT=false;
 try{sel=new Set(JSON.parse(localStorage.sel||'[]'))}catch{}
 // 推しごとの目印の色（名前から決める。同じ名前はいつも同じ色）
 const hue=s=>{let h=0;for(const c of String(s))h=(h*31+c.charCodeAt(0))%360;return h};
@@ -222,7 +233,7 @@ function catEvents(){ // 調べている最中の推しのうち、カタログ�
     for(const e of CAT.artists[ck].events||[])o.push({...e,artist:ck})}
   return o;
 }
-const allEv=()=>DB.events.concat(catEvents());
+const allEv=()=>DB.events.filter(e=>MYART&&MYART.has(e.artist)).concat(catEvents());
 function fillSug(){
   const names=new Set([...DB.artists,...Object.keys(CAT.artists||{})]);
   $('#sug').innerHTML=[...names].sort((a,b)=>a.localeCompare(b,'ja')).slice(0,2000).map(n=>`<option value="${esc(n)}">`).join('');
@@ -232,22 +243,24 @@ function loadCat(){
 }
 const LATE=24*3600*1000; // 24時間たっても反映されない場合は注意を出す
 // 推しの一覧：幅に合わせて折り返し、全員が見えるようにする
-const chipEl=(a,extra='')=>`<button class="chip ${sel.has(a)?'on':''} ${extra}" data-a="${esc(a)}" style="--h:${hue(a)}"><i class="dot"></i>${esc(a)}</button>`;
+const chipEl=(a,extra='')=>`<button class="chip ${sel.has(a)&&!EDIT?'on':''} ${extra}" data-a="${esc(a)}" style="--h:${hue(a)}"><i class="dot"></i>${esc(a)}${EDIT?'<b class="rm">×</b>':''}</button>`;
 // 一覧の畳む／開く：畳んでいる間は2行ぶんだけ見せる（選んでいる推しは先頭に出す）。開く／畳むは覚えておく
 let OPEN=false;try{OPEN=localStorage.copen==='1'}catch{}
 function foldChips(){
   const el=$('#chips'),btn=$('#ctog');
-  if(TAB==='fes'){btn.hidden=true;return}
+  if(TAB==='fes'||EDIT){btn.hidden=true;el.classList.remove('fold');return}
   el.classList.remove('fold');
   if(el.offsetHeight<=70){btn.hidden=true;return}   // 2行に収まるなら、畳む必要なし
   btn.hidden=false;
   if(OPEN)btn.textContent='CLOSE −';
-  else{el.classList.add('fold');btn.textContent=`SHOW ALL ${DB.artists.length+pend.length} +`}
+  else{el.classList.add('fold');btn.textContent=`SHOW ALL ${mineA().length+pend.length} +`}
 }
 function chips(){
+  pend.filter(p=>findArtist(p.n)).forEach(p=>addMy(findArtist(p.n)));
   pend=pend.filter(p=>!findArtist(p.n));savePend(); // データに載ったら「調査中」から外す
-  const names=OPEN?DB.artists:[...DB.artists].sort((a,b)=>(sel.has(b)-sel.has(a)));
-  $('#chips').innerHTML=`<button class="chip ${sel.size?'':'on'}" data-a="">ALL</button>`+
+  const mine=mineA(),names=OPEN||EDIT?mine:[...mine].sort((a,b)=>(sel.has(b)-sel.has(a)));
+  const ce=$('#cedit');if(ce){ce.hidden=TAB==='fes'||!mine.length;ce.textContent=EDIT?'DONE':'EDIT 推しを外す'}
+  $('#chips').innerHTML=(EDIT?'':`<button class="chip ${sel.size?'':'on'}" data-a="">ALL</button>`)+
     names.map(a=>chipEl(a)).join('')+
     pend.map(p=>{const late=Date.now()-p.t>LATE||isRejected(p.n);const inCat=!late&&findCatalog(p.n);
       return inCat?`<button class="chip pend ${sel.has(p.n)?'on':''}" data-a="${esc(p.n)}"><i class="spin"></i>${esc(p.n)}</button>`
@@ -267,7 +280,7 @@ async function addArtist(name){
   if(!name)return;
   if(/https?:|@|[\r\n]/i.test(name)){toast('名前だけを入力してください');return}
   const ex=findArtist(name);
-  if(ex){toast('「'+ex+'」はすでに登録されています');$('#addname').value='';openAdd(false);sel=new Set([ex]);try{localStorage.sel=JSON.stringify([...sel])}catch{}go('all');return}
+  if(ex){const had=MYART&&MYART.has(ex);addMy(ex);toast(had?'「'+ex+'」はすでに追加済みです':'「'+ex+'」を追加しました');$('#addname').value='';openAdd(false);sel=new Set([ex]);try{localStorage.sel=JSON.stringify([...sel])}catch{}go('all');return}
   if(pend.some(p=>nzName(p.n)===nzName(name))){toast('「'+name+'」は調査中です。しばらくお待ちください');return}
   if(isRejected(name)){toast('「'+name+'」は登録できませんでした（音楽・ライブ活動が確認できない名前）。正式名称でお試しください');return}
   if(pend.filter(p=>Date.now()-p.t<=LATE).length>=5){toast('一度に追加できるのは5組までです。反映されてから追加してください');return}
@@ -330,7 +343,7 @@ function fesCard(f,m,i){
   const who=[...new Set(m.map(e=>e.artist))];
   const cat=CIDX.filter(x=>x.d>=f.start&&x.d<=end&&fesHit(fn,x.t)).map(x=>x.a);
   const lu=[...new Set([...who,...(f.lineup||[]),...cat])];
-  const mine=new Set(who.concat(DB.artists));
+  const mine=new Set(who.concat([...(MYART||[])]));
   const q='https://www.google.com/search?q='+encodeURIComponent(f.name+' 出演者 ラインナップ');
   const u=safe(f.official_url),tk=safe(f.ticket_url);
   const luHtml=lu.length?`<details class="lu"><summary>出演者 ${lu.length}組${f.lineup_checked?`（${md(f.lineup_checked.slice(0,10))}時点）`:''}</summary><div>${lu.map(n=>mine.has(n)?`<b>${esc(n)}</b>`:esc(n)).join('<i>/</i>')}</div></details>`
@@ -390,7 +403,7 @@ function render(){
   for(const x of list){const mo=(x.d||'').slice(0,7);const mk=/^\d{4}-\d\d$/.test(mo)?mo:'';
     if(mk!==cur){cur=mk;h+=mk?monHead(mk):'<div class="mon"><span class="j">日付未定</span></div>'}
     h+=x.f?fesCard(x.f,x.m,i++):card(x.e,i++)}
-  const none=TAB==='mine'?`<div class="empty"><div class="bb">NOTHING YET</div><p>各公演・フェスの「申込状況」から、検討中・申込済・当選などを記録すると、ここに集まります。</p></div>`
+  const none=(!mineA().length&&!pend.length)?`<div class="empty"><div class="bb">ADD YOUR OSHI</div><p>右上の「+ ADD」から、推しを追加してください。名前を入れると、ライブ・フェスの予定がここに並びます。</p></div>`:TAB==='mine'?`<div class="empty"><div class="bb">NOTHING YET</div><p>各公演・フェスの「申込状況」から、検討中・申込済・当選などを記録すると、ここに集まります。</p></div>`
     :(sel.size&&!q)?`<div class="empty"><div class="bb">NO SCHEDULE</div><p>${esc([...sel].join('、'))} の予定は、まだ見つかっていません。公式サイトで発表されると、自動で追加されます（毎日確認しています）。</p></div>`
     :`<div class="empty"><div class="bb">NO RESULT</div><p>該当するものはありません。キーワードや、推しの選択を変えてみてください。</p></div>`;
   const cnt=TAB==='fes'?`開催予定のフェス ${list.length}件　推しが出る日は「推しが出演」と表示されます`
@@ -406,9 +419,11 @@ function go(t){TAB=t;try{localStorage.tab2=t}catch{}render();scrollTo({top:0})}
 $('#chips').onclick=e=>{const b=e.target.closest('button');if(!b)return;const d=b.dataset;
   if(d.p!==undefined){const p=pend.find(x=>x.n===d.p);if(p&&(Date.now()-p.t>LATE||isRejected(p.n))&&confirm(`「${p.n}」を一覧から消しますか？（もう一度追加できます）`)){pend=pend.filter(x=>x!==p);savePend();render()}return}
   const a=d.a;if(a===undefined)return;
+  if(EDIT){if(a){MYART.delete(a);sel.delete(a);saveMA();try{localStorage.sel=JSON.stringify([...sel])}catch{}toast('「'+a+'」を外しました。+ ADD で、またすぐ戻せます');render()}return}
   if(a==='')sel.clear();else sel.has(a)?sel.delete(a):sel.add(a);
   try{localStorage.sel=JSON.stringify([...sel])}catch{}render()};
 $('#q').oninput=render;
+$('#cedit').onclick=()=>{EDIT=!EDIT;render()};
 $('#ctog').onclick=()=>{OPEN=!OPEN;try{localStorage.copen=OPEN?'1':'0'}catch{}render()};
 if(document.fonts&&document.fonts.ready)document.fonts.ready.then(()=>render()); // フォントが読み込まれたら、折り返しを測り直す
 $('#nav').onclick=e=>{const b=e.target.closest('button');if(!b)return;if(b.dataset.nav==='add')openAdd(true)};
@@ -419,9 +434,12 @@ $('#addform').onsubmit=e=>{e.preventDefault();addArtist($('#addname').value)};
 function load(first){
   return fetch('data/events.json?t='+Date.now(),{cache:'no-store'}).then(r=>r.json()).then(j=>{
     DB=j;fillSug();
+    if(MYART===null){let old=false;try{const g=k=>localStorage.getItem(k);old=['tab','tab2','copen','my'].some(g)||['sel','pend'].some(k=>{const v=g(k);return v&&v!=='[]'})}catch{}
+      MYART=new Set(old?DB.artists:[]);saveMA()}
     // 調べていた推しができあがったら、すぐ知らせて、その推しを表示する
     const done=pend.filter(p=>findArtist(p.n));
     if(done.length){
+      done.forEach(p=>addMy(findArtist(p.n)));
       const a=findArtist(done[0].n), n=DB.events.filter(e=>e.artist===a).length;
       sel=new Set([a]);try{localStorage.sel=JSON.stringify([...sel])}catch{}
       TAB='all';try{localStorage.tab2='all'}catch{}
