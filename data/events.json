@@ -3320,7 +3320,8 @@
    "end": "2026-11-07",
    "pref": "東京",
    "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "lineup_checked": "2026-10-19"
   },
   {
    "name": "MONGOL800 ga FESTIVAL What a Wonderful World!!",
@@ -3328,23 +3329,156 @@
    "end": "2026-11-08",
    "pref": "沖縄",
    "status": "lineup",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "lineup": [
+    "MONGOL800",
+    "AI",
+    "ACIDMAN",
+    "ELLEGARDEN",
+    "かりゆし58",
+    "竹原ピストル",
+    "BRAHMAN",
+    "Rasen Okinawa",
+    "WANIMA",
+    "HoRookies",
+    "ウルフルズ",
+    "黒夢",
+    "サンボマスター",
+    "渋谷すばる",
+    "大工哲弘+島袋優",
+    "HANA",
+    "MAN WITH A MISSION",
+    "The Ravens",
+    "ふみの"
+   ],
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/0295910001",
+   "sales": [
+    {
+     "label": "最速先行",
+     "start": "2026-03-06",
+     "end": "2026-03-11",
+     "url": "https://eplus.jp/sf/detail/0295910001"
+    },
+    {
+     "label": "1次先行",
+     "start": "2026-04-03",
+     "end": "2026-04-12",
+     "url": "https://eplus.jp/sf/detail/0295910001"
+    },
+    {
+     "label": "2次先行",
+     "start": "2026-05-15",
+     "end": "2026-05-24",
+     "url": "https://eplus.jp/sf/detail/0295910001"
+    },
+    {
+     "label": "3次先行",
+     "start": "2026-07-04",
+     "end": "2026-07-12",
+     "url": "https://eplus.jp/sf/detail/0295910001"
+    },
+    {
+     "label": "4次先行",
+     "start": "2026-08-26",
+     "end": "2026-08-30",
+     "url": "https://eplus.jp/sf/detail/0295910001"
+    },
+    {
+     "label": "5次先行",
+     "start": "2026-09-18",
+     "end": "2026-09-24",
+     "url": "https://eplus.jp/sf/detail/0295910001"
+    }
+   ],
+   "lineup_checked": "2026-10-19"
   },
   {
    "name": "PUNK ROCK CONNECTION",
    "start": "2026-11-07",
    "end": "2026-11-07",
    "pref": "東京",
-   "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "status": "lineup",
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "lineup": [
+    "DONT TURN AWAY",
+    "Pity fall",
+    "THE PRISONER",
+    "JUNIOR",
+    "FUCKIN' JUNKIES",
+    "30%LESS FAT",
+    "SHACHI",
+    "BOMB FACTORY",
+    "SKINHEAD GIRL",
+    "RAISE A FLAG",
+    "THE BROTHELS",
+    "THE JUNGLES!!!",
+    "PET",
+    "the arounds",
+    "KISSSSAKI",
+    "Dirty Old DrunX",
+    "Relents",
+    "SWITCHER",
+    "DOING LIFE",
+    "CxCxD",
+    "THE PEOPLE",
+    "GO→STRAIGHT",
+    "DR.SNUFKIN",
+    "JIMMY REVOLT",
+    "THE BROKEN FLOWERS",
+    "流血ブリザード",
+    "雷矢",
+    "ゲンドウミサイル",
+    "ギョ・ビリーズ"
+   ],
+   "lineup_checked": "2026-10-19"
   },
   {
    "name": "STORMY DUDES FESTA",
    "start": "2026-11-07",
    "end": "2026-11-07",
    "pref": "大阪",
-   "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "status": "lineup",
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "lineup": [
+    "RAZORS EDGE",
+    "ガガガSP",
+    "HAWAIIAN6",
+    "dustbox",
+    "GARLICBOYS",
+    "locofrank",
+    "RUDE BONES",
+    "GOOD4NOTHING",
+    "HOTSQUALL",
+    "GASOLINE",
+    "TOTALFAT",
+    "Dizzy Sunfist",
+    "BURL",
+    "bacho",
+    "8otto",
+    "AIRFLIP",
+    "CROW DRAGON TEA",
+    "DEEPSLAUTER",
+    "FIRE ON FIRE",
+    "KUZIRA",
+    "SiM",
+    "SCAFULL KING",
+    "THE FRAGILE",
+    "THE SKIPPERS",
+    "THE STARBEMS"
+   ],
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/3969250001",
+   "sales": [
+    {
+     "label": "先着一般発売",
+     "start": "2026-10-03",
+     "end": "2026-11-06",
+     "url": "https://eplus.jp/sf/detail/3969250001",
+     "note": "10:00開始・スマチケ"
+    }
+   ],
+   "lineup_checked": "2026-10-19"
   },
   {
    "name": "いわたde音楽フェスタ",
@@ -3352,15 +3486,66 @@
    "end": "2026-11-08",
    "pref": "静岡",
    "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "lineup_checked": "2026-10-19"
   },
   {
    "name": "氣志團万博",
    "start": "2026-11-07",
    "end": "2026-11-08",
    "pref": "千葉",
-   "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "status": "lineup",
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "lineup": [
+    "氣志團",
+    "ゴールデンボンバー",
+    "スチャダラパー",
+    "バックドロップシンデレラ",
+    "日向坂46",
+    "モナキ",
+    "秋山竜次（ロバート）",
+    "打首獄門同好会",
+    "go!go!vanillas",
+    "Saucy Dog",
+    "NEWS",
+    "PUFFY",
+    "美少女戦士セーラームーン -Shining Theater Shinagawa Tokyo- Team Silver Moon",
+    "GEZAN",
+    "10-FEET",
+    "ももいろクローバーZ",
+    "海援隊",
+    "奇妙礼太郎BAND",
+    "くるり",
+    "超ときめき♡宣伝部",
+    "DJダイノジ",
+    "BARBEE BOYS 4 PEACE",
+    "ROTTENGRAFFTY",
+    "WANIMA"
+   ],
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/0755060002",
+   "official_url": "http://www.kishidanbanpaku.com",
+   "sales": [
+    {
+     "label": "最速先行",
+     "start": "2026-06-26",
+     "end": "2026-07-13",
+     "url": "https://eplus.jp/sf/detail/0755060002"
+    },
+    {
+     "label": "2次先行",
+     "start": "2026-07-16",
+     "end": "2026-08-24",
+     "url": "https://eplus.jp/sf/detail/0755060002"
+    },
+    {
+     "label": "一般発売",
+     "start": "2026-10-03",
+     "url": "https://eplus.jp/sf/detail/0755060002",
+     "note": "10:00開始"
+    }
+   ],
+   "lineup_checked": "2026-10-19"
   },
   {
    "name": "金沢一生青春FESTIVAL",
@@ -3368,7 +3553,8 @@
    "end": "2026-11-07",
    "pref": "石川",
    "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "lineup_checked": "2026-10-19"
   },
   {
    "name": "おやじばんどふぇすた in YAMANASHI",
@@ -3376,7 +3562,8 @@
    "end": "2026-11-08",
    "pref": "山梨",
    "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "lineup_checked": "2026-10-19"
   },
   {
    "name": "大磯ファミリーロックフェスティバル",
