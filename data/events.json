@@ -3571,7 +3571,8 @@
    "end": "2026-11-08",
    "pref": "神奈川",
    "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "lineup_checked": "2026-10-19"
   },
   {
    "name": "こんがりおんがく祭",
@@ -3579,7 +3580,11 @@
    "end": "2026-11-14",
    "pref": "大阪",
    "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "lineup_checked": "2026-10-19",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/word/0000082199",
+   "venue": "大阪城音楽堂（大阪府）"
   },
   {
    "name": "アメ村天国",
@@ -3587,7 +3592,8 @@
    "end": "2026-11-14",
    "pref": "大阪",
    "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "lineup_checked": "2026-10-19"
   },
   {
    "name": "宇土ROCKフェスティバル",
@@ -3595,7 +3601,8 @@
    "end": "2026-11-14",
    "pref": "熊本",
    "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "lineup_checked": "2026-10-19"
   },
   {
    "name": "せいか祭り 学研ミュージックストリート",
@@ -3603,7 +3610,9 @@
    "end": "2026-11-15",
    "pref": "京都",
    "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "lineup_checked": "2026-10-19",
+   "official_url": "https://www.town.seika.kyoto.jp/kakuka/jichi/kyodo/kankou/seikafestival/30298.html"
   },
   {
    "name": "加須ゴリロックフェスティバル",
@@ -3611,7 +3620,8 @@
    "end": "2026-11-15",
    "pref": "埼玉",
    "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "lineup_checked": "2026-10-19"
   },
   {
    "name": "岩手町SDGs ROCK HAND FES",
@@ -3619,7 +3629,8 @@
    "end": "2026-11-15",
    "pref": "岩手",
    "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "lineup_checked": "2026-10-19"
   },
   {
    "name": "Kurayoshi ROCK Festival",
@@ -3627,7 +3638,8 @@
    "end": "2026-11-22",
    "pref": "鳥取",
    "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "lineup_checked": "2026-10-19"
   },
   {
    "name": "SAGAE MUSIC DAY",
