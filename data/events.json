@@ -4147,7 +4147,8 @@
    "end": "2026-12-19",
    "pref": "兵庫",
    "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "lineup_checked": "2026-10-19"
   },
   {
    "name": "若者たちの音楽祭（愛川町軽音フェス）",
@@ -4155,7 +4156,8 @@
    "end": "2026-12-20",
    "pref": "神奈川",
    "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "lineup_checked": "2026-10-19"
   },
   {
    "name": "COUNTDOWN JAPAN 26/27",
@@ -4199,7 +4201,8 @@
    "end": "2026-12-26",
    "pref": "東京",
    "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "lineup_checked": "2026-10-19"
   },
   {
    "name": "RADIO CRAZY",
@@ -4289,16 +4292,76 @@
    "start": "2026-12-28",
    "end": "2026-12-28",
    "pref": "東京",
-   "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "status": "lineup",
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "lineup_checked": "2026-10-19",
+   "official_url": "https://newhorizon.sammy.co.jp/2026/nhf/",
+   "lineup": [
+    "Crystal Lake",
+    "HIKAGE",
+    "PROMPTS",
+    "SHADOWS",
+    "SHANK",
+    "SPARK!!SOUND!!SHOW!!"
+   ],
+   "sales": [
+    {
+     "label": "オフィシャル先行（第2次）",
+     "start": "2026-08-28",
+     "end": "2026-09-06",
+     "url": "https://newhorizon.sammy.co.jp/2026/nhf/",
+     "note": "18:00開始〜23:59"
+    }
+   ],
+   "note": "第2弾までの発表分（第1弾・第3弾は未反映）"
   },
   {
    "name": "5時SAT ROCKWAVE",
    "start": "2026-12-29",
    "end": "2026-12-30",
    "pref": "愛知",
-   "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "status": "lineup",
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "lineup_checked": "2026-10-19",
+   "official_url": "https://www.ctv.co.jp/rockwave2026/",
+   "lineup": [
+    "INGRY'S",
+    "AURA",
+    "KUSU KUSU",
+    "永井真理子",
+    "MAGUMI",
+    "松岡英明",
+    "ラフィンノーズ",
+    "嘉門タツオ",
+    "ダイアモンド☆ユカイ(RED WARRIORS)",
+    "田村直美",
+    "爆風スランプ",
+    "モダンチョキチョキズ"
+   ],
+   "ticket_name": "チケットぴあ",
+   "ticket_url": "https://w.pia.jp/t/gojisat-rockwave2026/",
+   "sales": [
+    {
+     "label": "1次先行",
+     "start": "2026-10-07",
+     "end": "2026-10-18",
+     "url": "https://w.pia.jp/t/gojisat-rockwave2026/",
+     "note": "12:00〜23:59"
+    },
+    {
+     "label": "2次先行",
+     "start": "2026-10-24",
+     "end": "2026-11-01",
+     "url": "https://w.pia.jp/t/gojisat-rockwave2026/",
+     "note": "10:00〜23:59"
+    },
+    {
+     "label": "一般発売",
+     "start": "2026-11-07",
+     "url": "https://w.pia.jp/t/gojisat-rockwave2026/",
+     "note": "10:00〜"
+    }
+   ]
   },
   {
    "name": "HYPE LIKE IT!",
@@ -4396,7 +4459,8 @@
    "end": "2027-02-11",
    "pref": "千葉",
    "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "lineup_checked": "2026-10-19"
   },
   {
    "name": "UOOO!!",
@@ -4404,7 +4468,8 @@
    "end": "2027-03-27",
    "pref": "東京",
    "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "lineup_checked": "2026-10-19"
   },
   {
    "name": "SYNCHRONICITY'26",
@@ -4412,7 +4477,8 @@
    "end": "2027-04-11",
    "pref": "東京",
    "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "lineup_checked": "2026-10-19"
   },
   {
    "name": "渋谷メタル会フェス",
