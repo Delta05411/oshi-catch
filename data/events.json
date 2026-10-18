@@ -3990,15 +3990,29 @@
    "end": "2026-11-29",
    "pref": "東京",
    "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "lineup_checked": "2026-10-19"
   },
   {
    "name": "TORI ROCK FESTIVAL",
    "start": "2026-12-04",
    "end": "2026-12-05",
    "pref": "東京",
-   "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "status": "lineup",
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "lineup": [
+    "KOTORI"
+   ],
+   "official_url": "https://kotori-band.com/",
+   "sales": [
+    {
+     "label": "ぴあ先行",
+     "start": "2026-04-01",
+     "end": "2026-04-05",
+     "note": "チケットぴあ"
+    }
+   ],
+   "lineup_checked": "2026-10-19"
   },
   {
    "name": "BLAZE UP NAGASAKI",
@@ -4007,15 +4021,38 @@
    "pref": "長崎",
    "status": "lineup",
    "source_url": "https://spice.eplus.jp/articles/342587",
-   "venue": "出島メッセ長崎"
+   "venue": "出島メッセ長崎",
+   "lineup": [
+    "SHANK"
+   ],
+   "lineup_checked": "2026-10-19"
   },
   {
    "name": "TOKYO DOOM FEST -WINTER Edition-",
    "start": "2026-12-05",
    "end": "2026-12-06",
    "pref": "東京",
-   "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "status": "lineup",
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "official_url": "https://livehousesunrize.jp/",
+   "lineup": [
+    "CASTLE",
+    "金属恵比須",
+    "CONSENT",
+    "Burden of Despair",
+    "AMBER VIAL",
+    "GOOFY STYLE",
+    "Youth Riott",
+    "WRENCH",
+    "ハヤヲ技研",
+    "HARAKIRI ZOMBIE",
+    "久保田陽子",
+    "RIFFANA",
+    "HEBI KATANA with OKKO",
+    "GREEN TRIPE",
+    "KRISHNV"
+   ],
+   "lineup_checked": "2026-10-19"
   },
   {
    "name": "ドラキュラロックフェスタ",
@@ -4023,7 +4060,8 @@
    "end": "2026-12-06",
    "pref": "栃木",
    "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "lineup_checked": "2026-10-19"
   },
   {
    "name": "カデナロックフェスティバル",
@@ -4031,7 +4069,8 @@
    "end": "2026-12-13",
    "pref": "沖縄",
    "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "lineup_checked": "2026-10-19"
   },
   {
    "name": "結びの夢番地",
@@ -4039,15 +4078,68 @@
    "end": "2026-12-13",
    "pref": "広島",
    "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "lineup_checked": "2026-10-19"
   },
   {
    "name": "響都超特急",
    "start": "2026-12-12",
    "end": "2026-12-13",
    "pref": "京都",
-   "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "status": "lineup",
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/2288480002",
+   "lineup": [
+    "氣志團",
+    "キュウソネコカミ",
+    "04 Limited Sazabys",
+    "FOMARE",
+    "HEY-SMITH",
+    "ヤバイTシャツ屋さん",
+    "ROTTENGRAFFTY",
+    "アルカラ",
+    "GUMX",
+    "The Ravens",
+    "TRACY",
+    "NAGAN SERVER",
+    "山嵐",
+    "coldrain",
+    "10-FEET",
+    "Dragon Ash",
+    "西川貴教",
+    "マキシマム ザ ホルモン",
+    "OVER ARM THROW",
+    "サバシスター",
+    "JUN SKY WALKER(S)",
+    "四星球",
+    "Knosis",
+    "HIKAGE"
+   ],
+   "sales": [
+    {
+     "label": "オフィシャル一次",
+     "start": "2026-07-13",
+     "end": "2026-08-02",
+     "url": "https://eplus.jp/sf/detail/2288480002",
+     "note": "e+ 7/13 22:06〜8/2 23:59"
+    },
+    {
+     "label": "オフィシャル二次",
+     "start": "2026-09-02",
+     "end": "2026-09-23",
+     "url": "https://eplus.jp/sf/detail/2288480002",
+     "note": "e+ 9/2 22:06〜9/23 23:59"
+    },
+    {
+     "label": "オフィシャル最終",
+     "start": "2026-10-06",
+     "end": "2026-10-18",
+     "url": "https://eplus.jp/sf/detail/2288480002",
+     "note": "e+ 10/6 22:06〜10/18 23:59"
+    }
+   ],
+   "lineup_checked": "2026-10-19"
   },
   {
    "name": "長田大行進曲",
