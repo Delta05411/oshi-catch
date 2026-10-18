@@ -3646,8 +3646,40 @@
    "start": "2026-11-21",
    "end": "2026-11-21",
    "pref": "山形",
-   "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "status": "lineup",
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "lineup": [
+    "ハルカミライ",
+    "ヤングスキニー"
+   ],
+   "ticket_name": "イープラス",
+   "official_url": "https://www.city.sagae.yamagata.jp/kanko/bunka/syogaigakusyu/sagaemusicday.html",
+   "sales": [
+    {
+     "label": "市内中高生限定",
+     "start": "2026-08-03",
+     "end": "2026-08-06",
+     "note": "8:30〜17:00 市文化センター事務室"
+    },
+    {
+     "label": "市民限定",
+     "start": "2026-08-11",
+     "end": "2026-08-14",
+     "note": "10:00〜17:00 市文化センター事務室"
+    },
+    {
+     "label": "一般抽選",
+     "start": "2026-08-15",
+     "end": "2026-08-23",
+     "note": "12:00〜23:59 イープラス"
+    },
+    {
+     "label": "一般先着",
+     "start": "2026-09-05",
+     "note": "10:00〜 イープラス ※9/11完売"
+    }
+   ],
+   "lineup_checked": "2026-10-19"
   },
   {
    "name": "over fest",
@@ -3655,7 +3687,8 @@
    "end": "2026-11-21",
    "pref": "東京",
    "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "lineup_checked": "2026-10-19"
   },
   {
    "name": "サブライムロックふぇふてぃばる",
@@ -3663,7 +3696,8 @@
    "end": "2026-11-22",
    "pref": "宮崎",
    "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "lineup_checked": "2026-10-19"
   },
   {
    "name": "千のRockYou!!",
@@ -3671,23 +3705,61 @@
    "end": "2026-11-21",
    "pref": "大阪",
    "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "lineup_checked": "2026-10-19"
   },
   {
    "name": "ANI-ROCK FES.",
    "start": "2026-11-22",
    "end": "2026-11-23",
    "pref": "東京",
-   "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "status": "lineup",
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "lineup": [
+    "Omoinotake",
+    "SIX LOUNGE",
+    "DISH//",
+    "BLUE ENCOUNT",
+    "ポルノグラフィティ",
+    "秋山黄色",
+    "KANA-BOON",
+    "TK from 凛として時雨",
+    "Little Glee Monster"
+   ],
+   "ticket_name": "チケットぴあ",
+   "ticket_url": "https://lp.p.pia.jp/event/music/471173/index.html",
+   "sales": [
+    {
+     "label": "最速先行",
+     "start": "2026-05-01",
+     "end": "2026-05-17",
+     "url": "https://lp.p.pia.jp/event/music/471173/index.html",
+     "note": "12:00〜23:59 ぴあ"
+    }
+   ],
+   "lineup_checked": "2026-10-19"
   },
   {
    "name": "MUSIC FESTIVAL「天和」",
    "start": "2026-11-22",
    "end": "2026-11-22",
    "pref": "愛知",
-   "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "status": "lineup",
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "lineup": [
+    "Maki",
+    "FOMARE",
+    "KOTORI",
+    "HEY-SMITH"
+   ],
+   "sales": [
+    {
+     "label": "オフィシャル先行",
+     "start": "2026-04-29",
+     "note": "20:00〜 締切は未確認"
+    }
+   ],
+   "lineup_checked": "2026-10-19"
   },
   {
    "name": "TRUE NORTH FESTIVAL",
@@ -3695,7 +3767,8 @@
    "end": "2026-11-22",
    "pref": "東京",
    "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "lineup_checked": "2026-10-19"
   },
   {
    "name": "PANA FES",
@@ -3703,7 +3776,8 @@
    "end": "2026-11-23",
    "pref": "兵庫",
    "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "lineup_checked": "2026-10-19"
   },
   {
    "name": "つばめ音楽祭（ロック＆フォークフェスタ）",
