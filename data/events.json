@@ -2778,23 +2778,57 @@
    "end": "2026-10-25",
    "pref": "東京",
    "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "lineup_checked": "2026-10-19"
   },
   {
    "name": "THE ARGUMENT",
    "start": "2026-10-25",
    "end": "2026-10-25",
    "pref": "東京",
-   "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "status": "lineup",
+   "source_url": "https://eplus.jp/sf/word/0000176930",
+   "lineup": [
+    "envy",
+    "MONO",
+    "AMENRA",
+    "We Lost The Sea",
+    "Crystal Lake",
+    "kanekoayano",
+    "LOSTAGE",
+    "NTBLS",
+    "PALM",
+    "Stranded",
+    "The Novembers",
+    "toe",
+    "Aiming for Enrike",
+    "Butter Sugar Toast"
+   ],
+   "ticket_name": "イープラス",
+   "sales": [
+    {
+     "label": "一般発売",
+     "start": "2026-07-01",
+     "note": "10:00〜／スマートチケットのみ"
+    }
+   ],
+   "lineup_checked": "2026-10-19"
   },
   {
    "name": "イノベソニック",
    "start": "2026-10-25",
    "end": "2026-10-25",
    "pref": "大阪",
-   "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "status": "lineup",
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "lineup": [
+    "らくだのこぶX",
+    "soratobiwo",
+    "SMASH YOUTH",
+    "サイツアキノリ"
+   ],
+   "official_url": "https://sites.google.com/view/inovesonic/",
+   "lineup_checked": "2026-10-19"
   },
   {
    "name": "女川70sロックまつり",
@@ -2802,7 +2836,8 @@
    "end": "2026-10-25",
    "pref": "宮城",
    "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "lineup_checked": "2026-10-19"
   },
   {
    "name": "心臓爆発CIRCUIT",
@@ -2810,7 +2845,8 @@
    "end": "2026-10-25",
    "pref": "東京",
    "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "lineup_checked": "2026-10-19"
   },
   {
    "name": "Crazy Monsters Halloween Party",
@@ -2818,23 +2854,81 @@
    "end": "2026-10-28",
    "pref": "東京",
    "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "lineup_checked": "2026-10-19"
   },
   {
    "name": "BE WONDERFUL!!",
    "start": "2026-10-31",
    "end": "2026-11-01",
    "pref": "愛知",
-   "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "status": "lineup",
+   "source_url": "https://bewon32.com",
+   "lineup": [
+    "ADAM at",
+    "BACK LIFT",
+    "FIVE STATE DRIVE",
+    "HONEST",
+    "KUZIRA",
+    "locofrank",
+    "LOOSELY",
+    "May Forth",
+    "Northern19",
+    "POT",
+    "Some Life",
+    "アルカラ",
+    "the奥歯's",
+    "カライドスコープ",
+    "かずき山盛り",
+    "プッシュプルポット",
+    "Blue Mash",
+    "Brown Basket",
+    "kurage",
+    "Maki",
+    "MAYSON's PARTY",
+    "Sunny Girl",
+    "TETORA",
+    "TOTALFAT",
+    "THE JAPANESE PRIDE",
+    "Wienners",
+    "アルステイク",
+    "四星球",
+    "セカンドバッカー",
+    "バックドロップシンデレラ",
+    "ビレッジマンズストア",
+    "Teru (Crossfaith)",
+    "BASSAN (rock bar Neverland)",
+    "ROCKxOUT Crew",
+    "ZAKU (T.H.C)"
+   ],
+   "official_url": "https://bewon32.com",
+   "ticket_name": "チケットぴあ",
+   "ticket_url": "https://w.pia.jp/t/be-wonderful-26/",
+   "sales": [
+    {
+     "label": "一般発売",
+     "start": "2026-08-22",
+     "url": "https://w.pia.jp/t/be-wonderful-26/",
+     "note": "10:00〜"
+    }
+   ],
+   "lineup_checked": "2026-10-19"
   },
   {
    "name": "BURST MAX",
    "start": "2026-10-31",
    "end": "2026-11-01",
    "pref": "島根",
-   "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "status": "lineup",
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "lineup": [
+    "四星球",
+    "竹原ピストル",
+    "ガガガSP"
+   ],
+   "ticket_name": "イープラス",
+   "note": "他多数出演（全員は未確認）",
+   "lineup_checked": "2026-10-19"
   },
   {
    "name": "THIS FES in Sagamihara",
