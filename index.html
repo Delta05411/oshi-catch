@@ -137,6 +137,9 @@ details.lu i{font-style:normal;color:var(--line2);margin:0 6px}
 #addname:focus{border-bottom-color:var(--w)}
 #addgo{font-family:"Bebas Neue",sans-serif;font-size:22px;letter-spacing:.08em;color:var(--bg);background:var(--w);padding:4px 24px 2px;border-radius:2px}
 #addgo:disabled{opacity:.5}
+#pick{margin-top:18px}
+#pick .pk{font-size:12px;color:var(--sub)}
+#pick .chips{margin:10px 0 0;max-height:150px;overflow:auto}
 .x{position:absolute;top:14px;right:16px;font-size:26px;line-height:1;color:var(--sub);padding:4px 8px}
 #toast{position:fixed;left:50%;transform:translate(-50%,10px);bottom:calc(24px + env(safe-area-inset-bottom));z-index:30;max-width:min(92vw,520px);background:var(--w);color:var(--bg);padding:12px 18px;border-radius:2px;font-size:13px;font-weight:700;opacity:0;pointer-events:none;transition:opacity .25s,transform .25s}
 #toast.show{opacity:1;transform:translate(-50%,0)}
@@ -173,6 +176,7 @@ details.lu i{font-style:normal;color:var(--line2);margin:0 6px}
     <h2 class="bb">ADD ARTIST</h2>
     <p>候補から選ぶと、すぐ表示されます。候補にない人は調べるので、1〜3分ほどかかります。</p>
     <div class="row"><input id="addname" list="sug" maxlength="60" placeholder="アーティスト名" autocomplete="off" enterkeyhint="send"><datalist id="sug"></datalist><button id="addgo" type="submit">ADD</button></div>
+    <div id="pick"></div>
   </form>
 </div>
 <div id="toast" role="status"></div>
@@ -209,7 +213,7 @@ function soonBadge(d){const i=dinfo(d);if(!i)return'';if(i.left===0)return '<spa
 const FORM_POST='https://docs.google.com/forms/d/e/1FAIpQLScyDwwYaorGtzIDbylyTZa8qPfOZapT8wkfYOPNODXN4mmVBA/formResponse';
 const ENTRY='entry.822980878';
 let pend=[];try{pend=JSON.parse(localStorage.pend||'[]').map(p=>typeof p==='string'?{n:p,t:Date.now()}:p)}catch{}
-const savePend=()=>{try{localStorage.pend=JSON.stringify(pend)}catch{}};
+const savePend=()=>{try{const v=JSON.stringify(pend);if(v==='[]'&&localStorage.getItem('pend')===null)return;localStorage.pend=v}catch{}};
 const nzName=s=>String(s||'').normalize('NFKC').toLowerCase().replace(/[\s'’"・.·\-_!！?？]/g,'');
 // 登録済みの推し（正式名・別名）に一致するか。一致したら正式名を返す
 function findArtist(name){
@@ -274,7 +278,10 @@ function pendNote(){
   return h;
 }
 function toast(msg){const t=$('#toast');t.textContent=msg;t.classList.add('show');clearTimeout(toast.id);toast.id=setTimeout(()=>t.classList.remove('show'),5200)}
-function openAdd(on){const b=$('#addbox');b.hidden=!on;if(on)setTimeout(()=>$('#addname').focus(),80)}
+const pickList=()=>DB.artists.filter(a=>!(MYART&&MYART.has(a)));
+function openAdd(on){const b=$('#addbox');b.hidden=!on;
+  if(on){const pk=pickList();$('#pick').innerHTML=pk.length?`<div class="pk">みんなの推しから選ぶ（タップで追加）</div><div class="chips">${pk.map(a=>`<button type="button" class="chip" data-pick="${esc(a)}" style="--h:${hue(a)}"><i class="dot"></i>${esc(a)}</button>`).join('')}</div>`:'';
+    setTimeout(()=>$('#addname').focus(),80)}}
 async function addArtist(name){
   name=name.trim().replace(/\s+/g,' ').slice(0,60);
   if(!name)return;
@@ -347,7 +354,7 @@ function fesCard(f,m,i){
   const q='https://www.google.com/search?q='+encodeURIComponent(f.name+' 出演者 ラインナップ');
   const u=safe(f.official_url),tk=safe(f.ticket_url);
   const luHtml=lu.length?`<details class="lu"><summary>出演者 ${lu.length}組${f.lineup_checked?`（${md(f.lineup_checked.slice(0,10))}時点）`:''}</summary><div>${lu.map(n=>mine.has(n)?`<b>${esc(n)}</b>`:esc(n)).join('<i>/</i>')}</div></details>`
-    :`<div class="m">出演者は発表待ちです（発表されると自動で追加します）</div>`;
+    :`<div class="m">出演者は未取得です（発表され次第、自動で追加します）</div>`;
   return `<article class="ev" style="animation-delay:${Math.min(i,10)*25}ms">${dateBlock(f.start,f.end)}
   <div><div class="tags"><span>FES</span>${who.length?'<span class="pill solid">推しが出演</span>':''}${f.status==='lineup'?'<span class="pill dim">出演者発表済み</span>':''}${soonBadge(f.start)}</div>
   <div class="t">${esc(f.name)}</div>
@@ -356,7 +363,7 @@ function fesCard(f,m,i){
   ${f.note?`<div class="m">${esc(f.note)}</div>`:''}
   ${luHtml}
   ${salesHtml(f)}
-  <div class="links">${tk?`<a class="btn" href="${tk}" target="_blank" rel="noopener">${esc(f.ticket_name||'チケット')}　→</a>`:''}${u?`<a class="${tk?'lnk':'btn'}" href="${u}" target="_blank" rel="noopener">${tk?'公式サイト':'公式サイト　→'}</a>`:''}<a class="lnk" href="${q}" target="_blank" rel="noopener">出演者を探す</a></div>${stSel(fesKey(f))}</div></article>`}
+  <div class="links">${tk?`<a class="btn" href="${tk}" target="_blank" rel="noopener">${esc(f.ticket_name||'チケット')}　→</a>`:''}${u?`<a class="${tk?'lnk':'btn'}" href="${u}" target="_blank" rel="noopener">${tk?'公式サイト':'公式サイト　→'}</a>`:''}</div>${stSel(fesKey(f))}</div></article>`}
 const upd=()=>DB.updated?new Date(DB.updated).toLocaleString('ja-JP',{month:'numeric',day:'numeric',hour:'2-digit',minute:'2-digit'}):'';
 const foot=t=>`<div class="foot">最終更新 ${esc(upd())}<br>${t}</div>`;
 const MON=['JAN','FEB','MAR','APR','MAY','JUN','JUL','AUG','SEP','OCT','NOV','DEC'];
@@ -403,7 +410,7 @@ function render(){
   for(const x of list){const mo=(x.d||'').slice(0,7);const mk=/^\d{4}-\d\d$/.test(mo)?mo:'';
     if(mk!==cur){cur=mk;h+=mk?monHead(mk):'<div class="mon"><span class="j">日付未定</span></div>'}
     h+=x.f?fesCard(x.f,x.m,i++):card(x.e,i++)}
-  const none=(!mineA().length&&!pend.length)?`<div class="empty"><div class="bb">ADD YOUR OSHI</div><p>右上の「+ ADD」から、推しを追加してください。名前を入れると、ライブ・フェスの予定がここに並びます。</p></div>`:TAB==='mine'?`<div class="empty"><div class="bb">NOTHING YET</div><p>各公演・フェスの「申込状況」から、検討中・申込済・当選などを記録すると、ここに集まります。</p></div>`
+  const none=(!mineA().length&&!pend.length)?`<div class="empty"><div class="bb">ADD YOUR OSHI</div><p>右上の「+ ADD」から推しを追加してください。名前を入れると、ライブ・フェスの予定がここに並びます。</p><p><button type="button" class="btn" onclick="openAdd(true)">+ ADD ARTIST</button></p></div>`:TAB==='mine'?`<div class="empty"><div class="bb">NOTHING YET</div><p>各公演・フェスの「申込状況」から、検討中・申込済・当選などを記録すると、ここに集まります。</p></div>`
     :(sel.size&&!q)?`<div class="empty"><div class="bb">NO SCHEDULE</div><p>${esc([...sel].join('、'))} の予定は、まだ見つかっていません。公式サイトで発表されると、自動で追加されます（毎日確認しています）。</p></div>`
     :`<div class="empty"><div class="bb">NO RESULT</div><p>該当するものはありません。キーワードや、推しの選択を変えてみてください。</p></div>`;
   const cnt=TAB==='fes'?`開催予定のフェス ${list.length}件　推しが出る日は「推しが出演」と表示されます`
@@ -428,14 +435,16 @@ $('#ctog').onclick=()=>{OPEN=!OPEN;try{localStorage.copen=OPEN?'1':'0'}catch{}re
 if(document.fonts&&document.fonts.ready)document.fonts.ready.then(()=>render()); // フォントが読み込まれたら、折り返しを測り直す
 $('#nav').onclick=e=>{const b=e.target.closest('button');if(!b)return;if(b.dataset.nav==='add')openAdd(true)};
 $('#seg').onclick=e=>{const b=e.target.closest('button');if(b&&b.dataset.seg)go(b.dataset.seg)};
+$('#pick').onclick=e=>{const b=e.target.closest('[data-pick]');if(b)addArtist(b.dataset.pick)};
 $('#addbox').onclick=e=>{if(e.target.closest('[data-close]'))openAdd(false)};
 document.addEventListener('keydown',e=>{if(e.key==='Escape')openAdd(false)});
 $('#addform').onsubmit=e=>{e.preventDefault();addArtist($('#addname').value)};
 function load(first){
   return fetch('data/events.json?t='+Date.now(),{cache:'no-store'}).then(r=>r.json()).then(j=>{
     DB=j;fillSug();
-    if(MYART===null){let old=false;try{const g=k=>localStorage.getItem(k);old=['tab','tab2','copen','my'].some(g)||['sel','pend'].some(k=>{const v=g(k);return v&&v!=='[]'})}catch{}
+    if(MYART===null){let old=false;try{const g=k=>localStorage.getItem(k);old=['tab','tab2','copen','my','sel','pend'].some(k=>g(k)!==null)}catch{}
       MYART=new Set(old?DB.artists:[]);saveMA()}
+    else if(MYART.size===0){try{if(!localStorage.getItem('mig2')){localStorage.mig2='1';if(['tab','tab2','copen','my','sel'].some(k=>localStorage.getItem(k)!==null)){MYART=new Set(DB.artists);saveMA()}}}catch{}} // 初版の判定漏れの救済（1回だけ）
     // 調べていた推しができあがったら、すぐ知らせて、その推しを表示する
     const done=pend.filter(p=>findArtist(p.n));
     if(done.length){
