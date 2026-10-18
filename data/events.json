@@ -3726,14 +3726,11 @@
     "TK from 凛として時雨",
     "Little Glee Monster"
    ],
-   "ticket_name": "チケットぴあ",
-   "ticket_url": "https://lp.p.pia.jp/event/music/471173/index.html",
    "sales": [
     {
      "label": "最速先行",
      "start": "2026-05-01",
      "end": "2026-05-17",
-     "url": "https://lp.p.pia.jp/event/music/471173/index.html",
      "note": "12:00〜23:59 ぴあ"
     }
    ],
