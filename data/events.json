@@ -3785,15 +3785,38 @@
    "end": "2026-11-23",
    "pref": "新潟",
    "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "lineup_checked": "2026-10-19"
   },
   {
    "name": "ロックアンセムEX",
    "start": "2026-11-27",
    "end": "2026-11-29",
    "pref": "東京",
-   "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "status": "lineup",
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "lineup": [
+    "OKAMOTO'S",
+    "ドレスコーズ",
+    "THE BAWDIES",
+    "ACIDMAN",
+    "ストレイテナー",
+    "THE BACK HORN",
+    "TenTwenty",
+    "Base Ball Bear",
+    "山内 総一郎"
+   ],
+   "official_url": "https://rock-anthem.jp/",
+   "ticket_name": "ぴあ",
+   "sales": [
+    {
+     "label": "オフィシャル最終先行",
+     "start": "2026-09-26",
+     "end": "2026-10-13",
+     "note": "18:00開始〜23:59締切・ぴあ"
+    }
+   ],
+   "lineup_checked": "2026-10-19"
   },
   {
    "name": "ISHIGAKI FEST",
@@ -3801,31 +3824,139 @@
    "end": "2026-11-29",
    "pref": "沖縄",
    "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "lineup_checked": "2026-10-19"
   },
   {
    "name": "MASTERPIECE",
    "start": "2026-11-28",
    "end": "2026-11-29",
    "pref": "岐阜",
-   "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "status": "lineup",
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "lineup": [
+    "04 Limited Sazabys",
+    "BRAHMAN",
+    "dustbox",
+    "Maki",
+    "MARIO2BLOCK",
+    "SA",
+    "STAB 4 REASON AND THE STYLES",
+    "Dizzy Sunfist",
+    "ENTH",
+    "FOMARE",
+    "HAWAIIAN6",
+    "KOTORI",
+    "KUZIRA",
+    "サバシスター"
+   ],
+   "official_url": "http://masterpiece-gifu.com/",
+   "lineup_checked": "2026-10-19"
   },
   {
    "name": "PSYCHIC FES",
    "start": "2026-11-28",
    "end": "2026-11-28",
    "pref": "大阪",
-   "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "status": "lineup",
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "lineup": [
+    "PK shampoo",
+    "アフターソウル",
+    "171",
+    "Wienners",
+    "おとぎ話",
+    "カッパマイナス",
+    "きのホ。",
+    "キュウソネコカミ",
+    "KING BROTHERS",
+    "Cloudy",
+    "クリトリック・リス",
+    "CRAZY BLUES",
+    "grating hunny",
+    "小林私",
+    "sidenerds",
+    "挫・人間",
+    "三四少女",
+    "ザ・シスターズハイ",
+    "自爆",
+    "空きっ腹に酒",
+    "鈴木実貴子ズ",
+    "超☆社会的サンダル",
+    "トップシークレットマン",
+    "ナードマグネット",
+    "ザ ニンクス",
+    "ネクライトーキー",
+    "Pastel Tang Club",
+    "林直大",
+    "Hue's",
+    "THE FOREVER YOUNG",
+    "フリージアン",
+    "Blue Mash",
+    "the bercedes menz",
+    "眉村ちあき",
+    "muk",
+    "モーモールルギャバン",
+    "YAPOOL",
+    "よさこいマン",
+    "ラブリーサマーちゃん",
+    "ルサンチマン",
+    "レトロマイガール！！",
+    "忘れらんねえよ",
+    "愛はズボーン",
+    "8otto",
+    "クニタケヒロキ from THE FOREVER YOUNG",
+    "DJ後藤まりこ",
+    "SuiseiNoboAz",
+    "SuU",
+    "dj sleeper",
+    "DENIMS",
+    "流田Project",
+    "ハダカエフダ",
+    "Panorama Panama Town"
+   ],
+   "official_url": "https://pkshampoo.jp/psychicfes/",
+   "ticket_name": "ぴあ",
+   "ticket_url": "https://w.pia.jp/t/psychicfes-2026/",
+   "sales": [
+    {
+     "label": "一般発売",
+     "start": "2026-10-17",
+     "url": "https://w.pia.jp/t/psychicfes-2026/",
+     "note": "DAY/NIGHT/DAY(U18)。ALL券は完売"
+    }
+   ],
+   "lineup_checked": "2026-10-19"
   },
   {
    "name": "EDO WAVE",
    "start": "2026-11-29",
    "end": "2026-11-29",
    "pref": "東京",
-   "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "status": "lineup",
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "lineup": [
+    "VAIWATT",
+    "Bad Mary",
+    "Kathleen Yearwood",
+    "Dead Happy",
+    "Yukka",
+    "The Number Zero",
+    "FVRMN",
+    "Daniela Aiko Group",
+    "Ninja wi Ninja",
+    "Native Broadcast",
+    "CREEP DOWN",
+    "JACK IT OUT.",
+    "Fin",
+    "timothy",
+    "PONつよ",
+    "The Spilt Ink"
+   ],
+   "official_url": "https://www.edowave.com/",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/4580500001-P0030001P021001?P1=1221",
+   "lineup_checked": "2026-10-19"
   },
   {
    "name": "ROCK IN FUJI MUSIC DAY",
@@ -3833,15 +3964,25 @@
    "end": "2026-11-29",
    "pref": "静岡",
    "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "lineup_checked": "2026-10-19"
   },
   {
    "name": "浪花どさんこROCKFES",
    "start": "2026-11-29",
    "end": "2026-11-29",
    "pref": "大阪",
-   "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival"
+   "status": "lineup",
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "lineup": [
+    "ナンカノユメ",
+    "透明な7日目の真実",
+    "ジョーブログバンド",
+    "シュガーズ",
+    "君がそうなら僕はこう",
+    "+Pluscotch+"
+   ],
+   "lineup_checked": "2026-10-19"
   },
   {
    "name": "革命ロジック",
