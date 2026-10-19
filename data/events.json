@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T12:05:00+09:00",
+ "updated": "2026-10-19T12:30:00+09:00",
  "artists": [
   "04 Limited Sazabys",
   "ELLEGARDEN",
@@ -15,7 +15,9 @@
   "back number",
   "SHANK",
   "ROTTENGRAFFTY",
-  "SiM"
+  "SiM",
+  "[Alexandros]",
+  "RADWIMPS"
  ],
  "events": [
   {
@@ -292,6 +294,25 @@
    "with": "w.o.d."
   },
   {
+   "artist": "[Alexandros]",
+   "date": "2026-10-31",
+   "title": "[Alexandros] presents THIS FES'26 in Sagamihara（10/31）",
+   "kind": "フェス",
+   "venue": "相模原ギオンフィールド（神奈川）",
+   "sale_info": "10/31・11/1の2日間。開場9:00・開演11:00",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/thisfes26/",
+   "sales": [
+    {
+     "label": "一般発売",
+     "start": "2026-09-05",
+     "note": "先着・10:00〜"
+    }
+   ],
+   "source_url": "https://eplus.jp/thisfes26/",
+   "confidence": "high"
+  },
+  {
    "artist": "04 Limited Sazabys",
    "date": "2026-11-01",
    "title": "ONE MAN TOUR 2026",
@@ -309,6 +330,25 @@
    "sale_info": "10/31・11/1の開催。ホルモンは報道ベースで要確認",
    "source_url": "https://natalie.mu/music/news/691796",
    "confidence": "low"
+  },
+  {
+   "artist": "[Alexandros]",
+   "date": "2026-11-01",
+   "title": "[Alexandros] presents THIS FES'26 in Sagamihara（11/1）",
+   "kind": "フェス",
+   "venue": "相模原ギオンフィールド（神奈川）",
+   "sale_info": "10/31・11/1の2日間。開場9:00・開演11:00",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/thisfes26/",
+   "sales": [
+    {
+     "label": "一般発売",
+     "start": "2026-09-05",
+     "note": "先着・10:00〜"
+    }
+   ],
+   "source_url": "https://eplus.jp/thisfes26/",
+   "confidence": "high"
   },
   {
    "artist": "ELLEGARDEN",
@@ -4646,6 +4686,13 @@
   },
   "SHANK": {
    "official": "https://www.shankofficial.com/"
+  },
+  "[Alexandros]": {
+   "eplus": "https://eplus.jp/sf/word/0000038798"
+  },
+  "RADWIMPS": {
+   "official": "https://radwimps.jp/",
+   "schedule": "https://radwimps.jp/live/"
   }
  },
  "aliases": {
@@ -4712,6 +4759,16 @@
   "SiM": [
    "シム",
    "SIM"
+  ],
+  "[Alexandros]": [
+   "アレキサンドロス",
+   "アレキ",
+   "Alexandros",
+   "ALEXANDROS"
+  ],
+  "RADWIMPS": [
+   "ラッド",
+   "ラッドウィンプス"
   ]
  },
  "rejected": [
@@ -4778,6 +4835,14 @@
   "SiM": {
    "state": "ok",
    "checked": "2026-10-19T12:05:00+09:00"
+  },
+  "[Alexandros]": {
+   "state": "ok",
+   "checked": "2026-10-19T12:30:00+09:00"
+  },
+  "RADWIMPS": {
+   "state": "no_events",
+   "checked": "2026-10-19T12:30:00+09:00"
   }
  }
 }
