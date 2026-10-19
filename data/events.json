@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T07:20:00+09:00",
+ "updated": "2026-10-19T12:05:00+09:00",
  "artists": [
   "04 Limited Sazabys",
   "ELLEGARDEN",
@@ -14,7 +14,8 @@
   "Mrs. GREEN APPLE",
   "back number",
   "SHANK",
-  "ROTTENGRAFFTY"
+  "ROTTENGRAFFTY",
+  "SiM"
  ],
  "events": [
   {
@@ -543,6 +544,26 @@
    "confidence": "high"
   },
   {
+   "artist": "SiM",
+   "date": "2026-11-07",
+   "title": "STORMY DUDES FESTA",
+   "kind": "フェス",
+   "venue": "大阪",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/3969250001",
+   "sales": [
+    {
+     "label": "先着一般発売",
+     "start": "2026-10-03",
+     "end": "2026-11-06",
+     "url": "https://eplus.jp/sf/detail/3969250001",
+     "note": "10:00開始・スマチケ"
+    }
+   ],
+   "source_url": "https://eplus.jp/sf/detail/3969250001",
+   "confidence": "high"
+  },
+  {
    "artist": "サンボマスター",
    "date": "2026-11-08",
    "title": "MONGOL800 ga FESTIVAL What a Wonderful World!!（11/8）",
@@ -972,6 +993,18 @@
    "confidence": "high"
   },
   {
+   "artist": "SiM",
+   "title": "BLAZE UP NAGASAKI 2026",
+   "kind": "フェス",
+   "venue": "出島メッセ長崎（長崎）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/word/0000038382",
+   "sale_info": "12/5・6の2日間。e+のSiMページに掲載（抽選）。出演者の公式発表は未確認",
+   "source_url": "https://eplus.jp/sf/word/0000038382",
+   "confidence": "low",
+   "date": "2026-12-05"
+  },
+  {
    "artist": "04 Limited Sazabys",
    "date": "2026-12-06",
    "title": "BLAZE UP NAGASAKI 2026（12/5・6のうち12/6）",
@@ -1032,6 +1065,18 @@
    "confidence": "high"
   },
   {
+   "artist": "SiM",
+   "title": "BLAZE UP NAGASAKI 2026",
+   "kind": "フェス",
+   "venue": "出島メッセ長崎（長崎）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/word/0000038382",
+   "sale_info": "12/5・6の2日間。e+のSiMページに掲載（抽選）。出演者の公式発表は未確認",
+   "source_url": "https://eplus.jp/sf/word/0000038382",
+   "confidence": "low",
+   "date": "2026-12-06"
+  },
+  {
    "artist": "マキシマム ザ ホルモン",
    "date": "2026-12-07",
    "title": "対バンツアー「ザ・ホルモネア」",
@@ -1082,6 +1127,18 @@
    "venue": "マリンメッセ福岡 A館（福岡）",
    "sale_info": "ファンクラブ先行あり。一般発売は公式で要確認",
    "source_url": "https://mrsgreenapple.com/feature/ringojamtour_shadows",
+   "confidence": "high"
+  },
+  {
+   "artist": "SiM",
+   "date": "2026-12-13",
+   "title": "結びの夢番地 2026（12/13）",
+   "kind": "フェス",
+   "venue": "広島県立ふくやま産業交流館 ビッグ・ローズ（広島）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/word/0000038382",
+   "sale_info": "開場10:45／開演11:30（先着）",
+   "source_url": "https://eplus.jp/sf/word/0000038382",
    "confidence": "high"
   },
   {
@@ -4074,9 +4131,24 @@
    "start": "2026-12-12",
    "end": "2026-12-13",
    "pref": "広島",
-   "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival",
-   "lineup_checked": "2026-10-19"
+   "status": "lineup",
+   "source_url": "https://eplus.jp/sf/word/0000038382",
+   "lineup_checked": "2026-10-19",
+   "lineup": [
+    "KANA-BOON",
+    "Tele",
+    "マルシィ",
+    "緑黄色社会",
+    "Novelbright",
+    "マカロニえんぴつ",
+    "クリープハイプ",
+    "Saucy Dog",
+    "SiM",
+    "ハルカミライ",
+    "04 Limited Sazabys",
+    "My Hair is Bad"
+   ],
+   "venue": "広島県立ふくやま産業交流館 ビッグ・ローズ"
   },
   {
    "name": "響都超特急",
@@ -4636,6 +4708,10 @@
   "ROTTENGRAFFTY": [
    "ロットン",
    "ロットングラフティー"
+  ],
+  "SiM": [
+   "シム",
+   "SIM"
   ]
  },
  "rejected": [
@@ -4698,6 +4774,10 @@
   "ROTTENGRAFFTY": {
    "state": "ok",
    "checked": "2026-10-19T06:51:00+09:00"
+  },
+  "SiM": {
+   "state": "ok",
+   "checked": "2026-10-19T12:05:00+09:00"
   }
  }
 }
