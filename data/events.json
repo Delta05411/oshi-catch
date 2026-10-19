@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T13:35:00+09:00",
+ "updated": "2026-10-19T13:50:00+09:00",
  "artists": [
   "04 Limited Sazabys",
   "ELLEGARDEN",
@@ -22,7 +22,8 @@
   "THE KEBABS",
   "coldrain",
   "TenTwenty",
-  "Wienners"
+  "Wienners",
+  "ハルカミライ"
  ],
  "events": [
   {
@@ -469,6 +470,18 @@
    "confidence": "high"
   },
   {
+   "artist": "ハルカミライ",
+   "date": "2026-10-31",
+   "title": "ハルカミライ ライブ",
+   "kind": "ワンマン",
+   "venue": "本多の森北電ホール（石川）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/word/0000069733",
+   "sale_info": "17:30開演/16:30開場（公演名・料金は要確認）",
+   "source_url": "https://eplus.jp/sf/word/0000069733",
+   "confidence": "low"
+  },
+  {
    "artist": "04 Limited Sazabys",
    "date": "2026-11-01",
    "title": "ONE MAN TOUR 2026",
@@ -689,6 +702,18 @@
    "source_url": "https://realsound.jp/2026/05/post-2389827.html",
    "confidence": "high",
    "sale_info": "6,050円（税込）＋ドリンク代。開場18:00／開演19:00"
+  },
+  {
+   "artist": "ハルカミライ",
+   "date": "2026-11-05",
+   "title": "ハルカミライ ライブ",
+   "kind": "ワンマン",
+   "venue": "J:COMホール八王子（東京）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/word/0000069733",
+   "sale_info": "18:30開演/17:30開場（公演名・料金は要確認）",
+   "source_url": "https://eplus.jp/sf/word/0000069733",
+   "confidence": "low"
   },
   {
    "artist": "ORAL CIGARETTES",
@@ -1226,6 +1251,18 @@
    "confidence": "low"
   },
   {
+   "artist": "ハルカミライ",
+   "date": "2026-11-25",
+   "title": "ハルカミライ ライブ",
+   "kind": "その他",
+   "venue": "静岡UMBER（静岡）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/word/0000069733",
+   "sale_info": "19:00開演/18:00開場（公演名・料金は要確認）",
+   "source_url": "https://eplus.jp/sf/word/0000069733",
+   "confidence": "low"
+  },
+  {
    "artist": "HEY-SMITH",
    "date": "2026-11-26",
    "title": "HEY-SMITH 20th ANNIVERSARY『ALL OVER JAPAN TOUR』",
@@ -1237,6 +1274,18 @@
    "sale_info": "1F立見/2F指定 4,600円（ドリンク別）",
    "source_url": "https://spice.eplus.jp/articles/344241",
    "confidence": "high"
+  },
+  {
+   "artist": "ハルカミライ",
+   "date": "2026-11-27",
+   "title": "ハルカミライ ライブ",
+   "kind": "その他",
+   "venue": "伊那GRAMHOUSE（長野）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/word/0000069733",
+   "sale_info": "19:00開演/18:00開場（公演名・料金は要確認）",
+   "source_url": "https://eplus.jp/sf/word/0000069733",
+   "confidence": "low"
   },
   {
    "artist": "ELLEGARDEN",
@@ -2248,6 +2297,62 @@
    "kind": "ワンマン",
    "venue": "豊洲PIT（東京都）",
    "source_url": "https://realsound.jp/2026/05/post-2386759.html",
+   "confidence": "high"
+  },
+  {
+   "artist": "ハルカミライ",
+   "date": "2027-01-24",
+   "title": "HYPE LIKE IT!（1/24）",
+   "kind": "フェス",
+   "venue": "幕張メッセ（千葉）",
+   "sale_info": "1日券11,000円",
+   "sales": [
+    {
+     "label": "第1弾出演者FC先行",
+     "start": "2026-07-21",
+     "end": "2026-07-26"
+    },
+    {
+     "label": "オフィシャル先行",
+     "start": "2026-07-29",
+     "end": "2026-08-03"
+    },
+    {
+     "label": "オフィシャル2次先行",
+     "start": "2026-08-07",
+     "end": "2026-08-16"
+    },
+    {
+     "label": "ファミリーマート先行",
+     "start": "2026-08-18",
+     "end": "2026-08-24"
+    },
+    {
+     "label": "ぴあプレリザーブ",
+     "start": "2026-10-02",
+     "end": "2026-10-12",
+     "note": "18:00開始"
+    },
+    {
+     "label": "イープラスプレオーダー（1回目）",
+     "start": "2026-10-02",
+     "end": "2026-10-12",
+     "note": "18:00開始"
+    },
+    {
+     "label": "ローソンプレリクエスト",
+     "start": "2026-10-16",
+     "end": "2026-10-25",
+     "note": "18:00〜23:59"
+    },
+    {
+     "label": "イープラスプレオーダー（2回目）",
+     "start": "2026-10-16",
+     "end": "2026-10-25",
+     "note": "18:00〜23:59"
+    }
+   ],
+   "source_url": "https://eplus.jp/sf/detail/4569750001",
    "confidence": "high"
   },
   {
@@ -5237,6 +5342,10 @@
   "Wienners": {
    "official": "https://wienners.net/",
    "eplus": "https://eplus.jp/sf/word/0000033997"
+  },
+  "ハルカミライ": {
+   "official": "https://www.harukamirai.com/",
+   "eplus": "https://eplus.jp/sf/word/0000069733"
   }
  },
  "aliases": {
@@ -5337,6 +5446,10 @@
   "Wienners": [
    "ウィーナーズ",
    "WIENNERS"
+  ],
+  "ハルカミライ": [
+   "HARUKAMIRAI",
+   "ハルミラ"
   ]
  },
  "rejected": [
@@ -5431,6 +5544,10 @@
   "Wienners": {
    "state": "ok",
    "checked": "2026-10-19T13:35:00+09:00"
+  },
+  "ハルカミライ": {
+   "state": "ok",
+   "checked": "2026-10-19T13:50:00+09:00"
   }
  }
 }
