@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T13:50:00+09:00",
+ "updated": "2026-10-19T20:10:00+09:00",
  "artists": [
   "04 Limited Sazabys",
   "ELLEGARDEN",
@@ -23,7 +23,8 @@
   "coldrain",
   "TenTwenty",
   "Wienners",
-  "ハルカミライ"
+  "ハルカミライ",
+  "UNISON SQUARE GARDEN"
  ],
  "events": [
   {
@@ -5450,6 +5451,11 @@
   "ハルカミライ": [
    "HARUKAMIRAI",
    "ハルミラ"
+  ],
+  "UNISON SQUARE GARDEN": [
+   "Unison Square Garden",
+   "ユニゾン",
+   "ユニゾンスクエアガーデン"
   ]
  },
  "rejected": [
@@ -5548,6 +5554,10 @@
   "ハルカミライ": {
    "state": "ok",
    "checked": "2026-10-19T13:50:00+09:00"
+  },
+  "UNISON SQUARE GARDEN": {
+   "state": "no_events",
+   "checked": "2026-10-19T20:10:00+09:00"
   }
  }
 }
