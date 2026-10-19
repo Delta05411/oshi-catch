@@ -70,6 +70,7 @@ header .wrap{display:flex;align-items:center;justify-content:space-between;heigh
 #cedit{display:block;margin:10px 0 0;font-size:12px;color:var(--sub);padding:2px 0;border-bottom:1px solid var(--line2);letter-spacing:.04em}
 #cedit[hidden]{display:none}
 .chip .rm{margin-left:4px;color:var(--warn);font-weight:700}
+.chip .ed{margin-left:6px;color:var(--w);font-weight:400}
 
 /* 一覧 */
 main{padding-bottom:70px}
@@ -140,6 +141,9 @@ details.lu i{font-style:normal;color:var(--line2);margin:0 6px}
 #pick{margin-top:18px}
 #pick .pk{font-size:12px;color:var(--sub)}
 #pick .chips{margin:10px 0 0;max-height:150px;overflow:auto}
+#amode{display:flex;gap:16px;margin:12px 0 4px}
+#amode button{font-family:"Bebas Neue",sans-serif;font-size:20px;letter-spacing:.08em;color:var(--sub);border-bottom:2px solid transparent}
+#amode button.on{color:var(--w);border-bottom-color:var(--w)}
 .x{position:absolute;top:14px;right:16px;font-size:26px;line-height:1;color:var(--sub);padding:4px 8px}
 #toast{position:fixed;left:50%;transform:translate(-50%,10px);bottom:calc(24px + env(safe-area-inset-bottom));z-index:30;max-width:min(92vw,520px);background:var(--w);color:var(--bg);padding:12px 18px;border-radius:2px;font-size:13px;font-weight:700;opacity:0;pointer-events:none;transition:opacity .25s,transform .25s}
 #toast.show{opacity:1;transform:translate(-50%,0)}
@@ -164,7 +168,7 @@ details.lu i{font-style:normal;color:var(--line2);margin:0 6px}
     <label class="search"><input id="q" type="search" placeholder="会場・公演名・地名で探す" autocomplete="off" aria-label="検索"></label>
     <div class="chips" id="chips" role="group" aria-label="推しで絞り込み"></div>
     <button type="button" id="ctog" hidden></button>
-    <button type="button" id="cedit" hidden>EDIT 推しを外す</button>
+    <button type="button" id="cedit" hidden>EDIT 推しの名前・削除</button>
   </section>
   <main id="out"><div class="sk"></div><div class="sk"></div><div class="sk"></div></main>
 </div>
@@ -174,7 +178,8 @@ details.lu i{font-style:normal;color:var(--line2);margin:0 6px}
   <form id="addform">
     <button type="button" class="x" data-close aria-label="閉じる">×</button>
     <h2 class="bb">ADD ARTIST</h2>
-    <p>候補から選ぶと、すぐ表示されます。候補にない人は調べるので、1〜3分ほどかかります。</p>
+    <div id="amode"><button type="button" data-m="a" class="on">ARTIST</button><button type="button" data-m="f">FES</button></div>
+    <p id="addhelp">候補から選ぶと、すぐ表示されます。候補にない人は調べるので、1〜3分ほどかかります。</p>
     <div class="row"><input id="addname" list="sug" maxlength="60" placeholder="アーティスト名" autocomplete="off" enterkeyhint="send"><datalist id="sug"></datalist><button id="addgo" type="submit">ADD</button></div>
     <div id="pick"></div>
   </form>
@@ -194,6 +199,11 @@ const saveMA=()=>{try{localStorage.myart=JSON.stringify([...MYART])}catch{}};
 const addMy=a=>{if(!MYART)MYART=new Set();MYART.add(a);saveMA()};
 const mineA=()=>DB.artists.filter(a=>MYART&&MYART.has(a));
 let EDIT=false;
+let ADDMODE='a'; // a=アーティスト / f=フェス
+// 推しの表示名（自分用）。大文字小文字・THE の有無など、好きな表記に直せる。検索・データは元の名前のまま
+let NM={};try{NM=JSON.parse(localStorage.nm||'{}')}catch{}
+const saveNM=()=>{try{localStorage.nm=JSON.stringify(NM)}catch{}};
+const dn=a=>NM[a]||a;
 try{sel=new Set(JSON.parse(localStorage.sel||'[]'))}catch{}
 // 推しごとの目印の色（名前から決める。同じ名前はいつも同じ色）
 const hue=s=>{let h=0;for(const c of String(s))h=(h*31+c.charCodeAt(0))%360;return h};
@@ -247,7 +257,7 @@ function loadCat(){
 }
 const LATE=24*3600*1000; // 24時間たっても反映されない場合は注意を出す
 // 推しの一覧：幅に合わせて折り返し、全員が見えるようにする
-const chipEl=(a,extra='')=>`<button class="chip ${sel.has(a)&&!EDIT?'on':''} ${extra}" data-a="${esc(a)}" style="--h:${hue(a)}"><i class="dot"></i>${esc(a)}${EDIT?'<b class="rm">×</b>':''}</button>`;
+const chipEl=(a,extra='')=>`<button class="chip ${sel.has(a)&&!EDIT?'on':''} ${extra}" data-a="${esc(a)}" style="--h:${hue(a)}"><i class="dot"></i>${esc(dn(a))}${EDIT?'<b class="ed" data-e="'+esc(a)+'">✎</b><b class="rm">×</b>':''}</button>`;
 // 一覧の畳む／開く：畳んでいる間は2行ぶんだけ見せる（選んでいる推しは先頭に出す）。開く／畳むは覚えておく
 let OPEN=false;try{OPEN=localStorage.copen==='1'}catch{}
 function foldChips(){
@@ -263,13 +273,18 @@ function chips(){
   pend.filter(p=>findArtist(p.n)).forEach(p=>addMy(findArtist(p.n)));
   pend=pend.filter(p=>!findArtist(p.n));savePend(); // データに載ったら「調査中」から外す
   const mine=mineA(),names=OPEN||EDIT?mine:[...mine].sort((a,b)=>(sel.has(b)-sel.has(a)));
-  const ce=$('#cedit');if(ce){ce.hidden=TAB==='fes'||!mine.length;ce.textContent=EDIT?'DONE':'EDIT 推しを外す'}
+  const ce=$('#cedit');if(ce){ce.hidden=TAB==='fes'||!mine.length;ce.textContent=EDIT?'DONE':'EDIT 推しの名前・削除'}
   $('#chips').innerHTML=(EDIT?'':`<button class="chip ${sel.size?'':'on'}" data-a="">ALL</button>`)+
     names.map(a=>chipEl(a)).join('')+
     pend.map(p=>{const late=Date.now()-p.t>LATE||isRejected(p.n);const inCat=!late&&findCatalog(p.n);
       return inCat?`<button class="chip pend ${sel.has(p.n)?'on':''}" data-a="${esc(p.n)}"><i class="spin"></i>${esc(p.n)}</button>`
         :`<button class="chip pend" data-p="${esc(p.n)}">${late?'⚠':'<i class="spin"></i>'}${esc(p.n)}</button>`}).join('');
 }
+function fesNote(){
+  const late=FP.filter(p=>Date.now()-p.t>LATE||isRejected(p.n)),wait=FP.filter(p=>!late.includes(p));let h='';
+  if(wait.length)h+=`<div class="note"><i class="spin"></i><div>フェス <b>${esc(wait.map(p=>p.n).join('、'))}</b> を調べています（通常1〜3分。閉じても大丈夫です）。</div></div>`;
+  if(late.length)h+=`<div class="note">⚠<div>登録できなかった可能性：フェス <b>${esc(late.map(p=>p.n).join('、'))}</b>。開催が確認できない名前は登録されません。正式名称でもう一度お試しください（<a href="#" data-fx="1">一覧から消す</a>）。</div></div>`;
+  return h}
 function pendNote(){
   const late=pend.filter(p=>Date.now()-p.t>LATE||isRejected(p.n)), wait=pend.filter(p=>!late.includes(p));
   let h='';
@@ -278,13 +293,37 @@ function pendNote(){
   return h;
 }
 function toast(msg){const t=$('#toast');t.textContent=msg;t.classList.add('show');clearTimeout(toast.id);toast.id=setTimeout(()=>t.classList.remove('show'),5200)}
+let FP=[];try{FP=JSON.parse(localStorage.fpend||'[]')}catch{}
+const saveFP=()=>{try{localStorage.fpend=JSON.stringify(FP)}catch{}};
+const findFes=name=>{const k=nzT(name);if(k.length<3)return null;
+  return (DB.festivals||[]).find(f=>{const n=nzT(f.name);return n===k||(k.length>=4&&(n.includes(k)||(n.length>=4&&k.includes(n))))})||null};
 const pickList=()=>DB.artists.filter(a=>!(MYART&&MYART.has(a)));
+function setMode(m){ADDMODE=m;document.querySelectorAll('#amode button').forEach(b=>b.classList.toggle('on',b.dataset.m===m));
+  $('#addname').placeholder=m==='f'?'フェス名（例：RADIO CRAZY）':'アーティスト名';
+  $('#addhelp').textContent=m==='f'?'フェスの名前を入れてください。調べて、日程・出演者・受付期間を追加します（1〜3分）。':'候補から選ぶと、すぐ表示されます。候補にない人は調べるので、1〜3分ほどかかります。';
+  $('#pick').style.display=m==='f'?'none':''}
 function openAdd(on){const b=$('#addbox');b.hidden=!on;
-  if(on){const pk=pickList();$('#pick').innerHTML=pk.length?`<div class="pk">みんなの推しから選ぶ（タップで追加）</div><div class="chips">${pk.map(a=>`<button type="button" class="chip" data-pick="${esc(a)}" style="--h:${hue(a)}"><i class="dot"></i>${esc(a)}</button>`).join('')}</div>`:'';
+  if(on){setMode(ADDMODE);const pk=pickList();$('#pick').innerHTML=pk.length?`<div class="pk">みんなの推しから選ぶ（タップで追加）</div><div class="chips">${pk.map(a=>`<button type="button" class="chip" data-pick="${esc(a)}" style="--h:${hue(a)}"><i class="dot"></i>${esc(a)}</button>`).join('')}</div>`:'';
     setTimeout(()=>$('#addname').focus(),80)}}
+async function addFes(name){
+  if(/https?:|@|[\r\n]/i.test(name)){toast('名前だけを入力してください');return}
+  const ex=findFes(name);
+  if(ex){if(!fesMarked(ex))fesDays(ex).forEach(d=>{MY[dayKey(ex,d)]='検討中'});saveMy();toast('「'+ex.name+'」はすでに載っています。ALLにも表示します');$('#addname').value='';openAdd(false);go('all');return}
+  if(FP.some(p=>nzT(p.n)===nzT(name))){toast('「'+name+'」は調査中です。しばらくお待ちください');return}
+  if(isRejected(name)){toast('「'+name+'」は登録できませんでした（フェスとして確認できない名前）。正式名称でお試しください');return}
+  if(FP.filter(p=>Date.now()-p.t<=LATE).length>=3){toast('一度に追加できるフェスは3件までです。反映されてから追加してください');return}
+  $('#addgo').disabled=true;
+  try{
+    await fetch(FORM_POST,{method:'POST',mode:'no-cors',headers:{'Content-Type':'application/x-www-form-urlencoded'},body:ENTRY+'='+encodeURIComponent('【フェス】'+name)});
+    FP.push({n:name,t:Date.now()});saveFP();$('#addname').value='';openAdd(false);go('all');
+    toast('「'+name+'」を受け付けました。調べています…（通常1〜3分）');load(false);
+  }catch(e){toast('送信できませんでした。通信を確認してもう一度お試しください')}
+  $('#addgo').disabled=false;
+}
 async function addArtist(name){
   name=name.trim().replace(/\s+/g,' ').slice(0,60);
   if(!name)return;
+  if(ADDMODE==='f'&&!arguments[1])return addFes(name);
   if(/https?:|@|[\r\n]/i.test(name)){toast('名前だけを入力してください');return}
   const ex=findArtist(name);
   if(ex){const had=MYART&&MYART.has(ex);addMy(ex);toast(had?'「'+ex+'」はすでに追加済みです':'「'+ex+'」を追加しました');$('#addname').value='';openAdd(false);sel=new Set([ex]);try{localStorage.sel=JSON.stringify([...sel])}catch{}go('all');return}
@@ -312,6 +351,12 @@ let MY={};try{MY=JSON.parse(localStorage.my||'{}')}catch{}
 const saveMy=()=>{try{localStorage.my=JSON.stringify(MY)}catch{}};
 const evKey=e=>e.artist+'|'+e.date+'|'+(e.title||'');
 const fesKey=f=>'F|'+f.name+'|'+f.start;
+// 複数日のフェスは、日ごとに1枚のカードにする（最大10日）
+function fesDays(f){const a=f.start,b=f.end||f.start;if(!dinfo(a))return [a];const o=[];
+  for(let t=Date.UTC(+a.slice(0,4),+a.slice(5,7)-1,+a.slice(8,10)),n=0;n<10;n++,t+=864e5){const d=new Date(t).toISOString().slice(0,10);if(d>b)break;o.push(d)}
+  return o.length?o:[a]}
+const dayKey=(f,d)=>fesDays(f).length>1?fesKey(f)+'@'+d:fesKey(f);
+const fesMarked=f=>MY[fesKey(f)]||fesDays(f).some(d=>MY[dayKey(f,d)]);
 const stSel=key=>{const v=MY[key]||'';return `<select class="st ${v?'has s'+ST.indexOf(v):''}" data-k="${esc(key)}" aria-label="申込状況"><option value="">申込状況：未記録</option>${ST.map(s=>`<option ${s===v?'selected':''}>${s}</option>`).join('')}</select>`};
 // チケットの受付期間（先行・一般など）
 const md=d=>{const i=dinfo(d);return i?`${i.mo}/${i.dy}`:''};
@@ -330,7 +375,7 @@ function salesHtml(o){
 function card(e,i){
   const k=KIND[e.kind]||e.kind||'';
   return `<article class="ev" style="animation-delay:${Math.min(i,10)*25}ms">${dateBlock(e.date)}
-  <div><div class="tags">${k?`<span>${esc(k)}</span>`:''}<span class="who" style="--h:${hue(e.artist)}"><i class="dot"></i>${esc(e.artist)}</span>${soonBadge(e.date)}${e.confidence==='low'?'<span class="pill warn">要確認</span>':''}</div>
+  <div><div class="tags">${k?`<span>${esc(k)}</span>`:''}<span class="who" style="--h:${hue(e.artist)}"><i class="dot"></i>${esc(dn(e.artist))}</span>${soonBadge(e.date)}${e.confidence==='low'?'<span class="pill warn">要確認</span>':''}</div>
   <div class="t">${esc(e.title)}</div>
   ${e.venue?`<div class="m">${esc(e.venue)}</div>`:''}
   ${e.with?`<div class="m">with ${esc(e.with)}</div>`:''}
@@ -345,25 +390,28 @@ const fesHit=(fn,en)=>fn.length>=4&&en.length>=4&&(en.includes(fn)||fn.includes(
 let CIDX=[];
 function buildIdx(){CIDX=[];for(const [a,v] of Object.entries(CAT.artists||{}))for(const e of v.events||[])if(e.kind==='フェス')CIDX.push({a,d:e.date||'',t:nzT(e.title)})}
 const fesMine=(f,evs)=>{const fn=nzT(f.name);return evs.filter(e=>e.kind==='フェス'&&(e.date||'')>=f.start&&(e.date||'')<=(f.end||f.start)&&fesHit(fn,nzT(e.title)))};
-function fesCard(f,m,i){
-  const fn=nzT(f.name),end=f.end||f.start;
-  const who=[...new Set(m.map(e=>e.artist))];
-  const cat=CIDX.filter(x=>x.d>=f.start&&x.d<=end&&fesHit(fn,x.t)).map(x=>x.a);
-  const lu=[...new Set([...who,...(f.lineup||[]),...cat])];
+function fesCard(f,m,i,day){
+  const fn=nzT(f.name),days=fesDays(f),multi=days.length>1;
+  const dm=multi&&day?m.filter(e=>e.date===day):m;
+  const who=[...new Set(dm.map(e=>e.artist))];
+  const cat=CIDX.filter(x=>(multi&&day?x.d===day:x.d>=f.start&&x.d<=(f.end||f.start))&&fesHit(fn,x.t)).map(x=>x.a);
+  const perDay=multi&&day&&f.lineup_days&&f.lineup_days[day];
+  const lu=perDay?[...new Set([...who,...perDay])]:[...new Set([...who,...(f.lineup||[]),...cat])];
   const mine=new Set(who.concat([...(MYART||[])]));
+  const dayNote=multi&&!perDay&&lu.length?'（全日程の出演者。日ごとの出演は公式サイトで確認）':'';
   const q='https://www.google.com/search?q='+encodeURIComponent(f.name+' 出演者 ラインナップ');
   const u=safe(f.official_url),tk=safe(f.ticket_url);
-  const luHtml=lu.length?`<details class="lu"><summary>出演者 ${lu.length}組${f.lineup_checked?`（${md(f.lineup_checked.slice(0,10))}時点）`:''}</summary><div>${lu.map(n=>mine.has(n)?`<b>${esc(n)}</b>`:esc(n)).join('<i>/</i>')}</div></details>`
+  const luHtml=lu.length?`<details class="lu"><summary>出演者 ${lu.length}組${perDay?'':f.lineup_checked?`（${md(f.lineup_checked.slice(0,10))}時点）`:''}</summary><div>${lu.map(n=>mine.has(n)?`<b>${esc(dn(n))}</b>`:esc(n)).join('<i>/</i>')}${dayNote?`<br><span class="m">${dayNote}</span>`:''}</div></details>`
     :`<div class="m">${f.lineup_checked?`出演者は未発表です（${md(f.lineup_checked.slice(0,10))}確認。発表され次第、自動で追加します）`:'出演者は未取得です（順次、自動で集めています）'}</div>`;
-  return `<article class="ev" style="animation-delay:${Math.min(i,10)*25}ms">${dateBlock(f.start,f.end)}
-  <div><div class="tags"><span>FES</span>${who.length?'<span class="pill solid">推しが出演</span>':''}${f.status==='lineup'?'<span class="pill dim">出演者発表済み</span>':''}${soonBadge(f.start)}</div>
-  <div class="t">${esc(f.name)}</div>
+  return `<article class="ev" style="animation-delay:${Math.min(i,10)*25}ms">${multi&&day?dateBlock(day):dateBlock(f.start,f.end)}
+  <div><div class="tags"><span>FES</span>${multi&&day?`<span class="pill">DAY ${days.indexOf(day)+1} / ${days.length}</span>`:''}${who.length?'<span class="pill solid">推しが出演</span>':''}${f.status==='lineup'?'<span class="pill dim">出演者発表済み</span>':''}${soonBadge(multi&&day?day:f.start)}</div>
+  <div class="t">${esc(f.name)}${multi?`<span class="m">　${md(f.start)}〜${md(f.end)}</span>`:''}</div>
   <div class="m">${esc([f.pref,f.venue].filter(Boolean).join('　'))}</div>
-  ${who.length?`<div class="m" style="color:var(--fg)">推し：${esc(who.join('、'))}</div>`:''}
+  ${who.length?`<div class="m" style="color:var(--fg)">推し：${esc(who.map(dn).join('、'))}</div>`:''}
   ${f.note?`<div class="m">${esc(f.note)}</div>`:''}
   ${luHtml}
   ${salesHtml(f)}
-  <div class="links">${tk?`<a class="btn" href="${tk}" target="_blank" rel="noopener">${esc(f.ticket_name||'チケット')}　→</a>`:''}${u?`<a class="${tk?'lnk':'btn'}" href="${u}" target="_blank" rel="noopener">${tk?'公式サイト':'公式サイト　→'}</a>`:''}</div>${stSel(fesKey(f))}</div></article>`}
+  <div class="links">${tk?`<a class="btn" href="${tk}" target="_blank" rel="noopener">${esc(f.ticket_name||'チケット')}　→</a>`:''}${u?`<a class="${tk?'lnk':'btn'}" href="${u}" target="_blank" rel="noopener">${tk?'公式サイト':'公式サイト　→'}</a>`:''}</div>${stSel(dayKey(f,day||f.start))}</div></article>`}
 const upd=()=>DB.updated?new Date(DB.updated).toLocaleString('ja-JP',{month:'numeric',day:'numeric',hour:'2-digit',minute:'2-digit'}):'';
 const foot=t=>`<div class="foot">最終更新 ${esc(upd())}<br>${t}</div>`;
 const MON=['JAN','FEB','MAR','APR','MAY','JUN','JUL','AUG','SEP','OCT','NOV','DEC'];
@@ -376,12 +424,15 @@ function build(tab,q,today){
   const hit=o=>!q||JSON.stringify(o).toLowerCase().includes(q);
   const fl=(DB.festivals||[]).filter(f=>(f.end||f.start||'')>=today);
   const absorbed=new Set();
-  if(tab==='fes'){for(const f of fl)if(hit(f))res.push({f,m:fesMine(f,evs),d:f.start||'9999'});}
+  const pushF=(f,m)=>{const ds=fesDays(f).filter(d=>d>=today);for(const d of (ds.length?ds:[f.start||'9999']))res.push({f,m,day:d,d})};
+  if(tab==='fes'){for(const f of fl)if(hit(f))pushF(f,fesMine(f,evs));}
   else if(tab!=='live'){
-    for(const f of fl){const m=fesMine(f,evs),key=fesKey(f);
-      const ok=tab==='mine'?!!MY[key]:(m.some(e=>!sel.size||sel.has(e.artist))||!!MY[key]);
+    for(const f of fl){const m=fesMine(f,evs),mk=fesMarked(f);
+      const ok=tab==='mine'?!!mk:(m.some(e=>!sel.size||sel.has(e.artist))||!!mk);
       if(!ok||!hit(f)&&!hit(m))continue;
-      m.forEach(e=>absorbed.add(e));res.push({f,m,d:f.start||'9999'})}
+      m.forEach(e=>absorbed.add(e));
+      if(tab==='mine'){for(const d of fesDays(f))if(d>=today&&(MY[dayKey(f,d)]||MY[fesKey(f)]))res.push({f,m,day:d,d})}
+      else pushF(f,m)}
   }
   if(tab!=='fes')for(const e of evs){
     if(absorbed.has(e)||(sel.size&&!sel.has(e.artist)))continue;
@@ -392,8 +443,8 @@ function build(tab,q,today){
 // 「検討中」にした申込のうち、締切が3日以内のもの
 function dueNote(){
   const t=todayJ(),o=[];
-  for(const e of allEv())if(MY[evKey(e)]==='検討中')for(const s of liveSales(e))if(s.end&&s.end>=t&&dinfo(s.end).left<=3)o.push(`${e.artist}　${e.title}（${s.label||'受付'} 〜${md(s.end)}）`);
-  for(const f of DB.festivals||[])if(MY[fesKey(f)]==='検討中')for(const s of liveSales(f))if(s.end&&s.end>=t&&dinfo(s.end).left<=3)o.push(`${f.name}（${s.label||'受付'} 〜${md(s.end)}）`);
+  for(const e of allEv())if(MY[evKey(e)]==='検討中')for(const s of liveSales(e))if(s.end&&s.end>=t&&dinfo(s.end).left<=3)o.push(`${dn(e.artist)}　${e.title}（${s.label||'受付'} 〜${md(s.end)}）`);
+  for(const f of DB.festivals||[])if(MY[fesKey(f)]==='検討中'||fesDays(f).some(d=>MY[dayKey(f,d)]==='検討中'))for(const s of liveSales(f))if(s.end&&s.end>=t&&dinfo(s.end).left<=3)o.push(`${f.name}（${s.label||'受付'} 〜${md(s.end)}）`);
   return o.length?`<div class="note due">⏰<div><b>検討中の申込が、もうすぐ締切です</b><br>${o.map(esc).join('<br>')}</div></div>`:'';
 }
 function render(){
@@ -409,15 +460,16 @@ function render(){
   let h='',cur='',i=0;
   for(const x of list){const mo=(x.d||'').slice(0,7);const mk=/^\d{4}-\d\d$/.test(mo)?mo:'';
     if(mk!==cur){cur=mk;h+=mk?monHead(mk):'<div class="mon"><span class="j">日付未定</span></div>'}
-    h+=x.f?fesCard(x.f,x.m,i++):card(x.e,i++)}
+    h+=x.f?fesCard(x.f,x.m,i++,x.day):card(x.e,i++)}
   const none=(!mineA().length&&!pend.length)?`<div class="empty"><div class="bb">ADD YOUR OSHI</div><p>右上の「+ ADD」から推しを追加してください。名前を入れると、ライブ・フェスの予定がここに並びます。</p><p><button type="button" class="btn" onclick="openAdd(true)">+ ADD ARTIST</button></p></div>`:TAB==='mine'?`<div class="empty"><div class="bb">NOTHING YET</div><p>各公演・フェスの「申込状況」から、検討中・申込済・当選などを記録すると、ここに集まります。</p></div>`
     :(sel.size&&!q)?`<div class="empty"><div class="bb">NO SCHEDULE</div><p>${esc([...sel].join('、'))} の予定は、まだ見つかっていません。公式サイトで発表されると、自動で追加されます（毎日確認しています）。</p></div>`
     :`<div class="empty"><div class="bb">NO RESULT</div><p>該当するものはありません。キーワードや、推しの選択を変えてみてください。</p></div>`;
-  const cnt=TAB==='fes'?`開催予定のフェス ${list.length}件　推しが出る日は「推しが出演」と表示されます`
+  const cnt=TAB==='fes'?`開催予定のフェス（日ごとに表示） ${list.length}件　推しが出る日は「推しが出演」と表示されます`
     :TAB==='all'?`${list.length}件　フェスは、推しが出演するものと申込状況を記録したものを表示（全部は FES で）`:`${list.length}件`;
-  out.innerHTML=(list.length?`${TAB==='mine'?'':dueNote()}<div class="count">${cnt}</div>${h}`:dueNote()+none)+(TAB==='fes'?'':pendNote())+
+  out.innerHTML=(list.length?`${TAB==='mine'?'':dueNote()}<div class="count">${cnt}</div>${h}`:dueNote()+none)+fesNote()+(TAB==='fes'?'':pendNote())+
     foot(TAB==='fes'?'情報は自動収集です。最新の発表は公式サイトでご確認ください':'AIによる自動収集です。受付期間・購入前に、必ず公式の情報をご確認ください');
 }
+out.addEventListener('click',e=>{if(e.target.closest('[data-fx]')){e.preventDefault();FP=FP.filter(p=>Date.now()-p.t<=LATE&&!isRejected(p.n));saveFP();render()}});
 out.addEventListener('change',e=>{const s=e.target.closest('select.st');if(!s)return;
   const k=s.dataset.k,v=s.value;if(v)MY[k]=v;else delete MY[k];saveMy();
   s.className='st'+(v?' has s'+ST.indexOf(v):'');
@@ -425,6 +477,9 @@ out.addEventListener('change',e=>{const s=e.target.closest('select.st');if(!s)re
 function go(t){TAB=t;try{localStorage.tab2=t}catch{}render();scrollTo({top:0})}
 $('#chips').onclick=e=>{const b=e.target.closest('button');if(!b)return;const d=b.dataset;
   if(d.p!==undefined){const p=pend.find(x=>x.n===d.p);if(p&&(Date.now()-p.t>LATE||isRejected(p.n))&&confirm(`「${p.n}」を一覧から消しますか？（もう一度追加できます）`)){pend=pend.filter(x=>x!==p);savePend();render()}return}
+  const ed=e.target.closest('.ed');
+  if(ed){const a0=ed.dataset.e,cur=dn(a0),v=prompt('表示名を変更（この端末だけに反映。空にすると元に戻ります）',cur);
+    if(v!==null){const t=v.trim().slice(0,60);if(t&&t!==a0)NM[a0]=t;else delete NM[a0];saveNM();render()}return}
   const a=d.a;if(a===undefined)return;
   if(EDIT){if(a){MYART.delete(a);sel.delete(a);saveMA();try{localStorage.sel=JSON.stringify([...sel])}catch{}toast('「'+a+'」を外しました。+ ADD で、またすぐ戻せます');render()}return}
   if(a==='')sel.clear();else sel.has(a)?sel.delete(a):sel.add(a);
@@ -435,7 +490,8 @@ $('#ctog').onclick=()=>{OPEN=!OPEN;try{localStorage.copen=OPEN?'1':'0'}catch{}re
 if(document.fonts&&document.fonts.ready)document.fonts.ready.then(()=>render()); // フォントが読み込まれたら、折り返しを測り直す
 $('#nav').onclick=e=>{const b=e.target.closest('button');if(!b)return;if(b.dataset.nav==='add')openAdd(true)};
 $('#seg').onclick=e=>{const b=e.target.closest('button');if(b&&b.dataset.seg)go(b.dataset.seg)};
-$('#pick').onclick=e=>{const b=e.target.closest('[data-pick]');if(b)addArtist(b.dataset.pick)};
+$('#pick').onclick=e=>{const b=e.target.closest('[data-pick]');if(b)addArtist(b.dataset.pick,true)};
+$('#amode').onclick=e=>{const b=e.target.closest('button');if(b)setMode(b.dataset.m)};
 $('#addbox').onclick=e=>{if(e.target.closest('[data-close]'))openAdd(false)};
 document.addEventListener('keydown',e=>{if(e.key==='Escape')openAdd(false)});
 $('#addform').onsubmit=e=>{e.preventDefault();addArtist($('#addname').value)};
@@ -446,6 +502,10 @@ function load(first){
       MYART=new Set(old?DB.artists:[]);saveMA()}
     else if(MYART.size===0){try{if(!localStorage.getItem('mig2')){localStorage.mig2='1';if(['tab','tab2','copen','my','sel'].some(k=>localStorage.getItem(k)!==null)){MYART=new Set(DB.artists);saveMA()}}}catch{}} // 初版の判定漏れの救済（1回だけ）
     // 調べていた推しができあがったら、すぐ知らせて、その推しを表示する
+    const fdone=FP.filter(p=>findFes(p.n));
+    if(fdone.length){fdone.forEach(p=>{const f=findFes(p.n);if(!fesMarked(f))fesDays(f).forEach(d=>{MY[dayKey(f,d)]='検討中'})});saveMy();
+      FP=FP.filter(p=>!findFes(p.n));saveFP();toast('フェス「'+findFes(fdone[0].n).name+'」を追加しました（日程・出演者・受付期間）');
+      TAB='all';try{localStorage.tab2='all'}catch{}}
     const done=pend.filter(p=>findArtist(p.n));
     if(done.length){
       done.forEach(p=>addMy(findArtist(p.n)));
@@ -460,7 +520,7 @@ function load(first){
 }
 load(true).then(loadCat);
 // 調べている推しがあるうちは15秒ごと、ないときは5分ごとに最新へ
-(function tick(){setTimeout(()=>{if(!document.hidden)load(false);tick()},pend.some(p=>Date.now()-p.t<=LATE)?15*1000:5*60*1000)})();
+(function tick(){setTimeout(()=>{if(!document.hidden)load(false);tick()},pend.concat(FP).some(p=>Date.now()-p.t<=LATE)?15*1000:5*60*1000)})();
 document.addEventListener('visibilitychange',()=>{if(!document.hidden)load(false)}); // 戻ってきたときも最新へ
 if('serviceWorker'in navigator)navigator.serviceWorker.register('sw.js').catch(()=>{});
 </script>
