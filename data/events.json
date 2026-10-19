@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T12:20:00+09:00",
+ "updated": "2026-10-19T12:45:00+09:00",
  "artists": [
   "04 Limited Sazabys",
   "ELLEGARDEN",
@@ -18,7 +18,8 @@
   "SiM",
   "[Alexandros]",
   "RADWIMPS",
-  "a flood of circle"
+  "a flood of circle",
+  "THE KEBABS"
  ],
  "events": [
   {
@@ -843,6 +844,35 @@
    "ticket_url": "https://eplus.jp/sf/word/0000044957",
    "source_url": "https://dime.jp/company_news/detail/?pr=2664079",
    "confidence": "high"
+  },
+  {
+   "artist": "THE KEBABS",
+   "date": "2026-11-15",
+   "title": "山中さわお & ELPIS 対バン",
+   "kind": "対バン",
+   "venue": "BEAT STATION（福岡県）",
+   "with": "山中さわお & ELPIS",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/0557640001-P0030138P021001?P1=0175",
+   "sale_info": "開場16:30 / 開演17:00",
+   "sales": [
+    {
+     "label": "抽選プレオーダー",
+     "start": "2026-09-07",
+     "end": "2026-09-13",
+     "url": "https://eplus.jp/sf/detail/0557640001-P0030138P021001?P1=0175",
+     "note": "12:00〜23:59（受付終了）"
+    },
+    {
+     "label": "一般発売（先着）",
+     "start": "2026-09-20",
+     "end": "2026-11-14",
+     "url": "https://eplus.jp/sf/detail/0557640001-P0030138P021001?P1=0175",
+     "note": "10:00〜 前日18:00まで"
+    }
+   ],
+   "source_url": "https://eplus.jp/sf/detail/0557640001-P0030138P021001?P1=0175",
+   "confidence": "low"
   },
   {
    "artist": "ELLEGARDEN",
@@ -4900,6 +4930,9 @@
   "RADWIMPS": {
    "official": "https://radwimps.jp/",
    "schedule": "https://radwimps.jp/live/"
+  },
+  "THE KEBABS": {
+   "eplus": "https://eplus.jp/sf/word/0000128876"
   }
  },
  "aliases": {
@@ -4982,6 +5015,11 @@
    "フラッド",
    "AFOC",
    "ア・フラッド・オブ・サークル"
+  ],
+  "THE KEBABS": [
+   "ケバブス",
+   "ザ・ケバブス",
+   "KEBABS"
   ]
  },
  "rejected": [
@@ -5060,6 +5098,10 @@
   "a flood of circle": {
    "state": "ok",
    "checked": "2026-10-19T12:20:00+09:00"
+  },
+  "THE KEBABS": {
+   "state": "ok",
+   "checked": "2026-10-19T12:45:00+09:00"
   }
  }
 }
