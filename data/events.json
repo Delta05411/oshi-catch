@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T13:20:00+09:00",
+ "updated": "2026-10-19T13:35:00+09:00",
  "artists": [
   "04 Limited Sazabys",
   "ELLEGARDEN",
@@ -21,7 +21,8 @@
   "a flood of circle",
   "THE KEBABS",
   "coldrain",
-  "TenTwenty"
+  "TenTwenty",
+  "Wienners"
  ],
  "events": [
   {
@@ -261,6 +262,18 @@
    "sale_info": "6,050円（税込）＋ドリンク代。開場17:00／開演18:00"
   },
   {
+   "artist": "Wienners",
+   "date": "2026-10-24",
+   "title": "Wienners OVER THE TOP TOUR 2026",
+   "kind": "ワンマン",
+   "venue": "F.A.D YOKOHAMA（神奈川）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/word/0000033997",
+   "sale_info": "開場17:30/開演18:00",
+   "source_url": "https://wienners.net/",
+   "confidence": "high"
+  },
+  {
    "artist": "HEY-SMITH",
    "date": "2026-10-25",
    "title": "OSAKA HAZIKETEMAZARE FESTIVAL 2026",
@@ -291,6 +304,15 @@
    "kind": "フェス",
    "venue": "泉大津フェニックス（大阪）",
    "source_url": "https://coldrain.jp/blogs/live",
+   "confidence": "high"
+  },
+  {
+   "artist": "Wienners",
+   "date": "2026-10-26",
+   "title": "SHELTER 35th Anniversary One Epic Month",
+   "kind": "イベント",
+   "venue": "下北沢SHELTER（東京）",
+   "source_url": "https://wienners.net/",
    "confidence": "high"
   },
   {
@@ -435,6 +457,18 @@
    "confidence": "high"
   },
   {
+   "artist": "Wienners",
+   "date": "2026-10-31",
+   "title": "Wienners OVER THE TOP TOUR 2026",
+   "kind": "対バン",
+   "venue": "梅田CLUB QUATTRO（大阪）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/word/0000033997",
+   "sale_info": "開場17:00/開演18:00",
+   "source_url": "https://wienners.net/",
+   "confidence": "high"
+  },
+  {
    "artist": "04 Limited Sazabys",
    "date": "2026-11-01",
    "title": "ONE MAN TOUR 2026",
@@ -490,6 +524,16 @@
    "sale_info": "スタンディング6,800円（税込・別途ドリンク代）／開場16:00／開演17:00",
    "source_url": "https://coldrain.jp/blogs/live",
    "confidence": "high"
+  },
+  {
+   "artist": "Wienners",
+   "date": "2026-11-01",
+   "title": "BE WONDERFUL!!",
+   "kind": "イベント",
+   "venue": "とよはし産業人材育成センター（愛知）",
+   "sale_info": "公式サイト記載。詳細未確認",
+   "source_url": "https://wienners.net/",
+   "confidence": "low"
   },
   {
    "artist": "ELLEGARDEN",
@@ -764,6 +808,15 @@
    "confidence": "high"
   },
   {
+   "artist": "Wienners",
+   "date": "2026-11-07",
+   "title": "ツタロックDIG LIVE Vol.21",
+   "kind": "イベント",
+   "venue": "Spotify O-EAST（東京）",
+   "source_url": "https://wienners.net/",
+   "confidence": "low"
+  },
+  {
    "artist": "サンボマスター",
    "date": "2026-11-08",
    "title": "MONGOL800 ga FESTIVAL What a Wonderful World!!（11/8）",
@@ -807,6 +860,18 @@
    "source_url": "https://realsound.jp/2026/05/post-2389827.html",
    "confidence": "high",
    "sale_info": "6,050円（税込）＋ドリンク代。開場18:00／開演19:00"
+  },
+  {
+   "artist": "Wienners",
+   "date": "2026-11-10",
+   "title": "Wienners 振替公演",
+   "kind": "ワンマン",
+   "venue": "仙台LIVE HOUSE enn 2nd（宮城）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/word/0000033997",
+   "sale_info": "開場18:30/開演19:00（10/4公演の振替）",
+   "source_url": "https://eplus.jp/sf/word/0000033997",
+   "confidence": "low"
   },
   {
    "artist": "ORAL CIGARETTES",
@@ -1020,6 +1085,18 @@
    "confidence": "low"
   },
   {
+   "artist": "Wienners",
+   "date": "2026-11-18",
+   "title": "Wienners OVER THE TOP TOUR 2026",
+   "kind": "対バン",
+   "venue": "名古屋クラブクアトロ（愛知）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/word/0000033997",
+   "sale_info": "開場18:00/開演19:00",
+   "source_url": "https://eplus.jp/sf/word/0000033997",
+   "confidence": "low"
+  },
+  {
    "artist": "Mrs. GREEN APPLE",
    "date": "2026-11-19",
    "title": "Mrs. GREEN APPLE Ringo Jam Tour “SHADOWS”",
@@ -1125,6 +1202,18 @@
    "source_url": "https://eplus.jp/sf/detail/0069680001",
    "confidence": "high",
    "with": "ニッポンの社長"
+  },
+  {
+   "artist": "Wienners",
+   "date": "2026-11-24",
+   "title": "Wienners",
+   "kind": "その他",
+   "venue": "LIQUIDROOM（東京）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/word/0000033997",
+   "sale_info": "開場18:00/開演19:00",
+   "source_url": "https://eplus.jp/sf/word/0000033997",
+   "confidence": "low"
   },
   {
    "artist": "SHANK",
@@ -5144,6 +5233,10 @@
   },
   "TenTwenty": {
    "eplus": "https://eplus.jp/tentwenty/"
+  },
+  "Wienners": {
+   "official": "https://wienners.net/",
+   "eplus": "https://eplus.jp/sf/word/0000033997"
   }
  },
  "aliases": {
@@ -5240,6 +5333,10 @@
    "テントゥエンティ",
    "XIIX",
    "Ten Twenty"
+  ],
+  "Wienners": [
+   "ウィーナーズ",
+   "WIENNERS"
   ]
  },
  "rejected": [
@@ -5330,6 +5427,10 @@
   "TenTwenty": {
    "state": "ok",
    "checked": "2026-10-19T13:20:00+09:00"
+  },
+  "Wienners": {
+   "state": "ok",
+   "checked": "2026-10-19T13:35:00+09:00"
   }
  }
 }
