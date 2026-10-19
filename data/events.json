@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T06:04:04+09:00",
+ "updated": "2026-10-20T07:20:00+09:00",
  "artists": [
   "04 Limited Sazabys",
   "ELLEGARDEN",
@@ -3282,12 +3282,48 @@
    "confidence": "high"
   },
   {
+   "artist": "10-FEET",
+   "date": "2027-07-03",
+   "title": "京都大作戦2027（10-FEET主催）",
+   "kind": "フェス",
+   "venue": "京都府立山城総合運動公園 太陽が丘特設野外ステージ（京都府）",
+   "sale_info": "7/3・4・10・11の4日間開催。9:30開場/11:00開演",
+   "sales": [
+    {
+     "label": "はんなり会 超最速0次受付",
+     "start": "2026-10-03",
+     "end": "2026-10-12",
+     "note": "10/3 20:00〜10/12 23:59 / 年額会員制度「はんなり会」限定"
+    }
+   ],
+   "source_url": "https://kyoto-daisakusen.kyoto/27/",
+   "confidence": "high"
+  },
+  {
    "artist": "あいみょん",
    "date": "2027-07-04",
    "title": "AIMYON TOUR 2027",
    "kind": "ワンマン",
    "venue": "マリンメッセ福岡A館（福岡）",
    "source_url": "https://realsound.jp/2026/07/post-2462631.html",
+   "confidence": "high"
+  },
+  {
+   "artist": "10-FEET",
+   "date": "2027-07-04",
+   "title": "京都大作戦2027（10-FEET主催）",
+   "kind": "フェス",
+   "venue": "京都府立山城総合運動公園 太陽が丘特設野外ステージ（京都府）",
+   "sale_info": "7/3・4・10・11の4日間開催。9:30開場/11:00開演",
+   "sales": [
+    {
+     "label": "はんなり会 超最速0次受付",
+     "start": "2026-10-03",
+     "end": "2026-10-12",
+     "note": "10/3 20:00〜10/12 23:59 / 年額会員制度「はんなり会」限定"
+    }
+   ],
+   "source_url": "https://kyoto-daisakusen.kyoto/27/",
    "confidence": "high"
   },
   {
@@ -3301,12 +3337,48 @@
    "confidence": "high"
   },
   {
+   "artist": "10-FEET",
+   "date": "2027-07-10",
+   "title": "京都大作戦2027（10-FEET主催）",
+   "kind": "フェス",
+   "venue": "京都府立山城総合運動公園 太陽が丘特設野外ステージ（京都府）",
+   "sale_info": "7/3・4・10・11の4日間開催。9:30開場/11:00開演",
+   "sales": [
+    {
+     "label": "はんなり会 超最速0次受付",
+     "start": "2026-10-03",
+     "end": "2026-10-12",
+     "note": "10/3 20:00〜10/12 23:59 / 年額会員制度「はんなり会」限定"
+    }
+   ],
+   "source_url": "https://kyoto-daisakusen.kyoto/27/",
+   "confidence": "high"
+  },
+  {
    "artist": "あいみょん",
    "date": "2027-07-11",
    "title": "AIMYON TOUR 2027",
    "kind": "ワンマン",
    "venue": "沖縄サントリーアリーナ（沖縄）",
    "source_url": "https://realsound.jp/2026/07/post-2462631.html",
+   "confidence": "high"
+  },
+  {
+   "artist": "10-FEET",
+   "date": "2027-07-11",
+   "title": "京都大作戦2027（10-FEET主催）",
+   "kind": "フェス",
+   "venue": "京都府立山城総合運動公園 太陽が丘特設野外ステージ（京都府）",
+   "sale_info": "7/3・4・10・11の4日間開催。9:30開場/11:00開演",
+   "sales": [
+    {
+     "label": "はんなり会 超最速0次受付",
+     "start": "2026-10-03",
+     "end": "2026-10-12",
+     "note": "10/3 20:00〜10/12 23:59 / 年額会員制度「はんなり会」限定"
+    }
+   ],
+   "source_url": "https://kyoto-daisakusen.kyoto/27/",
    "confidence": "high"
   }
  ],
@@ -5308,6 +5380,43 @@
    "pref": "埼玉",
    "status": "unknown",
    "source_url": "https://www.ragnet.co.jp/rock-festival"
+  },
+  {
+   "name": "京都大作戦2027",
+   "start": "2027-07-03",
+   "end": "2027-07-11",
+   "pref": "京都府",
+   "venue": "京都府立山城総合運動公園 太陽が丘特設野外ステージ",
+   "official_url": "https://kyoto-daisakusen.kyoto/27/",
+   "status": "lineup",
+   "lineup": [
+    "10-FEET"
+   ],
+   "lineup_checked": "2026-10-20",
+   "lineup_days": {
+    "2027-07-03": [
+     "10-FEET"
+    ],
+    "2027-07-04": [
+     "10-FEET"
+    ],
+    "2027-07-10": [
+     "10-FEET"
+    ],
+    "2027-07-11": [
+     "10-FEET"
+    ]
+   },
+   "sales": [
+    {
+     "label": "はんなり会 超最速0次受付",
+     "start": "2026-10-03",
+     "end": "2026-10-12",
+     "note": "10/3 20:00〜10/12 23:59 / 年額会員制度「はんなり会」限定"
+    }
+   ],
+   "note": "20周年記念で4日間（7/3・4・10・11）。10-FEET主催、他の出演者は後日発表",
+   "source_url": "https://realsound.jp/2026/10/post-2542953.html"
   }
  ],
  "artist_links": {
