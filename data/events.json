@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T12:30:00+09:00",
+ "updated": "2026-10-19T12:20:00+09:00",
  "artists": [
   "04 Limited Sazabys",
   "ELLEGARDEN",
@@ -17,7 +17,8 @@
   "ROTTENGRAFFTY",
   "SiM",
   "[Alexandros]",
-  "RADWIMPS"
+  "RADWIMPS",
+  "a flood of circle"
  ],
  "events": [
   {
@@ -90,6 +91,18 @@
    "with": "ENTH"
   },
   {
+   "artist": "a flood of circle",
+   "date": "2026-10-22",
+   "title": "a flood of circle TOUR 革命未遂の蝶が見る夢",
+   "kind": "ワンマン",
+   "venue": "札幌BESSIE HALL（北海道）",
+   "source_url": "https://realsound.jp/2026/05/post-2386759.html",
+   "confidence": "high",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/afloodofcircle-ep/",
+   "sale_info": "一般発売中（先着）"
+  },
+  {
    "artist": "ELLEGARDEN",
    "date": "2026-10-23",
    "title": "Bad For Education Tour II (2026)",
@@ -109,6 +122,18 @@
    "sale_info": "ファンクラブ先行あり。一般発売は公式で要確認",
    "source_url": "https://mrsgreenapple.com/feature/ringojamtour_shadows",
    "confidence": "high"
+  },
+  {
+   "artist": "a flood of circle",
+   "date": "2026-10-23",
+   "title": "a flood of circle TOUR 革命未遂の蝶が見る夢",
+   "kind": "ワンマン",
+   "venue": "旭川CASINO DRIVE（北海道）",
+   "source_url": "https://realsound.jp/2026/05/post-2386759.html",
+   "confidence": "high",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/afloodofcircle-ep/",
+   "sale_info": "一般発売中（先着）"
   },
   {
    "artist": "04 Limited Sazabys",
@@ -205,6 +230,18 @@
    "confidence": "high"
   },
   {
+   "artist": "a flood of circle",
+   "date": "2026-10-25",
+   "title": "a flood of circle TOUR 革命未遂の蝶が見る夢",
+   "kind": "ワンマン",
+   "venue": "函館ARARA（北海道）",
+   "source_url": "https://realsound.jp/2026/05/post-2386759.html",
+   "confidence": "high",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/afloodofcircle-ep/",
+   "sale_info": "一般発売中（先着）"
+  },
+  {
    "artist": "ELLEGARDEN",
    "date": "2026-10-27",
    "title": "Bad For Education Tour II (2026)",
@@ -272,6 +309,18 @@
    "confidence": "high"
   },
   {
+   "artist": "a flood of circle",
+   "date": "2026-10-29",
+   "title": "a flood of circle TOUR 革命未遂の蝶が見る夢",
+   "kind": "ワンマン",
+   "venue": "金沢vanvanV4（石川県）",
+   "source_url": "https://realsound.jp/2026/05/post-2386759.html",
+   "confidence": "high",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/afloodofcircle-ep/",
+   "sale_info": "一般発売中（先着）"
+  },
+  {
    "artist": "04 Limited Sazabys",
    "date": "2026-10-30",
    "title": "ONE MAN TOUR 2026",
@@ -279,6 +328,18 @@
    "venue": "SENDAI GIGS（宮城）",
    "source_url": "https://bestcalendar.jp/press/121082",
    "confidence": "high"
+  },
+  {
+   "artist": "a flood of circle",
+   "date": "2026-10-30",
+   "title": "a flood of circle TOUR 革命未遂の蝶が見る夢",
+   "kind": "ワンマン",
+   "venue": "新潟GOLDEN PIGS RED STAGE（新潟県）",
+   "source_url": "https://realsound.jp/2026/05/post-2386759.html",
+   "confidence": "high",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/afloodofcircle-ep/",
+   "sale_info": "一般発売中（先着）"
   },
   {
    "artist": "ROTTENGRAFFTY",
@@ -348,6 +409,15 @@
     }
    ],
    "source_url": "https://eplus.jp/thisfes26/",
+   "confidence": "high"
+  },
+  {
+   "artist": "a flood of circle",
+   "date": "2026-11-01",
+   "title": "a flood of circle TOUR 革命未遂の蝶が見る夢",
+   "kind": "ワンマン",
+   "venue": "長野J（長野県）",
+   "source_url": "https://realsound.jp/2026/05/post-2386759.html",
    "confidence": "high"
   },
   {
@@ -519,6 +589,15 @@
    "confidence": "low"
   },
   {
+   "artist": "a flood of circle",
+   "date": "2026-11-06",
+   "title": "a flood of circle TOUR 革命未遂の蝶が見る夢",
+   "kind": "ワンマン",
+   "venue": "仙台darwin（宮城県）",
+   "source_url": "https://realsound.jp/2026/05/post-2386759.html",
+   "confidence": "high"
+  },
+  {
    "artist": "10-FEET",
    "date": "2026-11-07",
    "title": "AIR JAM 2026",
@@ -678,6 +757,15 @@
    "confidence": "high"
   },
   {
+   "artist": "a flood of circle",
+   "date": "2026-11-12",
+   "title": "a flood of circle TOUR 革命未遂の蝶が見る夢",
+   "kind": "ワンマン",
+   "venue": "横浜F.A.D（神奈川県）",
+   "source_url": "https://realsound.jp/2026/05/post-2386759.html",
+   "confidence": "high"
+  },
+  {
    "artist": "Mrs. GREEN APPLE",
    "date": "2026-11-13",
    "title": "Mrs. GREEN APPLE Ringo Jam Tour “SHADOWS”",
@@ -823,6 +911,15 @@
    "confidence": "high"
   },
   {
+   "artist": "a flood of circle",
+   "date": "2026-11-19",
+   "title": "a flood of circle TOUR 革命未遂の蝶が見る夢",
+   "kind": "ワンマン",
+   "venue": "松山Wstudio RED（愛媛県）",
+   "source_url": "https://realsound.jp/2026/05/post-2386759.html",
+   "confidence": "high"
+  },
+  {
    "artist": "ROTTENGRAFFTY",
    "date": "2026-11-20",
    "title": "響都超特急TOUR2026",
@@ -834,6 +931,15 @@
    "source_url": "https://eplus.jp/sf/detail/0069680001",
    "confidence": "high",
    "with": "ダブルアート"
+  },
+  {
+   "artist": "a flood of circle",
+   "date": "2026-11-21",
+   "title": "a flood of circle TOUR 革命未遂の蝶が見る夢",
+   "kind": "ワンマン",
+   "venue": "高知X-pt.（高知県）",
+   "source_url": "https://realsound.jp/2026/05/post-2386759.html",
+   "confidence": "high"
   },
   {
    "artist": "ROTTENGRAFFTY",
@@ -858,6 +964,15 @@
    "ticket_url": "https://eplus.jp/sf/detail/0434550007-P0030321?P6=001",
    "sale_info": "開場17:00/開演18:00。抽選先行は受付終了",
    "source_url": "https://eplus.jp/sf/detail/0434550007-P0030321?P6=001",
+   "confidence": "low"
+  },
+  {
+   "artist": "a flood of circle",
+   "date": "2026-11-23",
+   "title": "GETTiNG BETTER 30周年記念回",
+   "kind": "イベント",
+   "venue": "Zepp Shinjuku（東京都）",
+   "source_url": "https://natalie.mu/music/news/677205",
    "confidence": "low"
   },
   {
@@ -999,6 +1114,15 @@
    "confidence": "high"
   },
   {
+   "artist": "a flood of circle",
+   "date": "2026-12-02",
+   "title": "a flood of circle TOUR 革命未遂の蝶が見る夢",
+   "kind": "ワンマン",
+   "venue": "津CLUB CHAOS（三重県）",
+   "source_url": "https://realsound.jp/2026/05/post-2386759.html",
+   "confidence": "high"
+  },
+  {
    "artist": "Mrs. GREEN APPLE",
    "date": "2026-12-03",
    "title": "Mrs. GREEN APPLE Ringo Jam Tour “SHADOWS”",
@@ -1019,6 +1143,15 @@
    "sale_info": "12/4・5の2日間。出演日は未発表（日割り発表待ち）。通し13,000円／DAY1 6,500円／DAY2 7,900円",
    "source_url": "https://barks.jp/news/1081936/",
    "confidence": "low"
+  },
+  {
+   "artist": "a flood of circle",
+   "date": "2026-12-04",
+   "title": "a flood of circle TOUR 革命未遂の蝶が見る夢",
+   "kind": "ワンマン",
+   "venue": "岡山PEPPERLAND（岡山県）",
+   "source_url": "https://realsound.jp/2026/05/post-2386759.html",
+   "confidence": "high"
   },
   {
    "artist": "SHANK",
@@ -1043,6 +1176,15 @@
    "source_url": "https://eplus.jp/sf/word/0000038382",
    "confidence": "low",
    "date": "2026-12-05"
+  },
+  {
+   "artist": "a flood of circle",
+   "date": "2026-12-05",
+   "title": "a flood of circle TOUR 革命未遂の蝶が見る夢",
+   "kind": "ワンマン",
+   "venue": "鳥取AZTiC laughs（鳥取県）",
+   "source_url": "https://realsound.jp/2026/05/post-2386759.html",
+   "confidence": "high"
   },
   {
    "artist": "04 Limited Sazabys",
@@ -1212,6 +1354,15 @@
    "confidence": "low"
   },
   {
+   "artist": "a flood of circle",
+   "date": "2026-12-18",
+   "title": "a flood of circle TOUR 革命未遂の蝶が見る夢",
+   "kind": "ワンマン",
+   "venue": "広島SECOND CRUTCH（広島県）",
+   "source_url": "https://realsound.jp/2026/05/post-2386759.html",
+   "confidence": "high"
+  },
+  {
    "artist": "Mrs. GREEN APPLE",
    "date": "2026-12-19",
    "title": "Mrs. GREEN APPLE Ringo Jam Tour “SHADOWS”",
@@ -1241,6 +1392,15 @@
    "venue": "ぴあアリーナMM（神奈川）",
    "sale_info": "ファンクラブ先行あり。一般発売は公式で要確認",
    "source_url": "https://mrsgreenapple.com/feature/ringojamtour_shadows",
+   "confidence": "high"
+  },
+  {
+   "artist": "a flood of circle",
+   "date": "2026-12-20",
+   "title": "a flood of circle TOUR 革命未遂の蝶が見る夢",
+   "kind": "ワンマン",
+   "venue": "福岡BEAT STATION（福岡県）",
+   "source_url": "https://realsound.jp/2026/05/post-2386759.html",
    "confidence": "high"
   },
   {
@@ -1440,6 +1600,15 @@
    "confidence": "high"
   },
   {
+   "artist": "a flood of circle",
+   "date": "2027-01-15",
+   "title": "a flood of circle TOUR 革命未遂の蝶が見る夢",
+   "kind": "ワンマン",
+   "venue": "大阪BIGCAT（大阪府）",
+   "source_url": "https://realsound.jp/2026/05/post-2386759.html",
+   "confidence": "high"
+  },
+  {
    "artist": "HEY-SMITH",
    "date": "2027-01-16",
    "title": "HEY-SMITH 20th ANNIVERSARY『ALL OVER JAPAN TOUR』",
@@ -1463,6 +1632,15 @@
    "ticket_url": "https://eplus.jp/heysmith_AOJ47tour/",
    "sale_info": "1F立見/2F指定 4,600円（ドリンク別）",
    "source_url": "https://spice.eplus.jp/articles/344241",
+   "confidence": "high"
+  },
+  {
+   "artist": "a flood of circle",
+   "date": "2027-01-17",
+   "title": "a flood of circle TOUR 革命未遂の蝶が見る夢",
+   "kind": "ワンマン",
+   "venue": "名古屋THE BOTTOM LINE（愛知県）",
+   "source_url": "https://realsound.jp/2026/05/post-2386759.html",
    "confidence": "high"
   },
   {
@@ -1741,6 +1919,15 @@
    "confidence": "high"
   },
   {
+   "artist": "a flood of circle",
+   "date": "2027-01-24",
+   "title": "a flood of circle TOUR 革命未遂の蝶が見る夢",
+   "kind": "ワンマン",
+   "venue": "豊洲PIT（東京都）",
+   "source_url": "https://realsound.jp/2026/05/post-2386759.html",
+   "confidence": "high"
+  },
+  {
    "artist": "04 Limited Sazabys",
    "date": "2027-01-30",
    "title": "FUKUOKA MUSIC FES.2027 supported by Trunk（1/30・31のどちらか）",
@@ -1761,6 +1948,26 @@
    "sale_info": "ゲストは後日発表。1次先行は8/9受付終了",
    "source_url": "https://barks.jp/news/1080436/",
    "confidence": "high"
+  },
+  {
+   "artist": "a flood of circle",
+   "date": "2027-01-30",
+   "title": "a flood of circle TOUR 革命未遂の蝶が見る夢",
+   "kind": "ワンマン",
+   "venue": "沖縄OutPut（沖縄県）",
+   "source_url": "https://realsound.jp/2026/05/post-2386759.html",
+   "confidence": "high",
+   "sale_info": "沖縄2days公演（1/30・31）"
+  },
+  {
+   "artist": "a flood of circle",
+   "date": "2027-01-31",
+   "title": "a flood of circle TOUR 革命未遂の蝶が見る夢",
+   "kind": "ワンマン",
+   "venue": "沖縄OutPut（沖縄県）",
+   "source_url": "https://realsound.jp/2026/05/post-2386759.html",
+   "confidence": "high",
+   "sale_info": "沖縄2days公演（1/30・31）"
   },
   {
    "artist": "HEY-SMITH",
@@ -4769,6 +4976,12 @@
   "RADWIMPS": [
    "ラッド",
    "ラッドウィンプス"
+  ],
+  "a flood of circle": [
+   "フラッドオブサークル",
+   "フラッド",
+   "AFOC",
+   "ア・フラッド・オブ・サークル"
   ]
  },
  "rejected": [
@@ -4843,6 +5056,10 @@
   "RADWIMPS": {
    "state": "no_events",
    "checked": "2026-10-19T12:30:00+09:00"
+  },
+  "a flood of circle": {
+   "state": "ok",
+   "checked": "2026-10-19T12:20:00+09:00"
   }
  }
 }
