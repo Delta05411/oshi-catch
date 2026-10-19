@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T12:45:00+09:00",
+ "updated": "2026-10-19T13:00:00+09:00",
  "artists": [
   "04 Limited Sazabys",
   "ELLEGARDEN",
@@ -19,7 +19,8 @@
   "[Alexandros]",
   "RADWIMPS",
   "a flood of circle",
-  "THE KEBABS"
+  "THE KEBABS",
+  "coldrain"
  ],
  "events": [
   {
@@ -56,6 +57,16 @@
    "source_url": "https://eplus.jp/sf/detail/0069680001",
    "confidence": "high",
    "with": "ENTH"
+  },
+  {
+   "artist": "coldrain",
+   "date": "2026-10-21",
+   "title": "OPTIMIZE = OPTDEMISE JAPAN TOUR 2026",
+   "kind": "ワンマン",
+   "venue": "PENNY LANE24（北海道）",
+   "sale_info": "スタンディング6,800円（税込・別途ドリンク代）／開場18:00／開演19:00",
+   "source_url": "https://coldrain.jp/blogs/live",
+   "confidence": "high"
   },
   {
    "artist": "04 Limited Sazabys",
@@ -102,6 +113,16 @@
    "ticket_name": "イープラス",
    "ticket_url": "https://eplus.jp/afloodofcircle-ep/",
    "sale_info": "一般発売中（先着）"
+  },
+  {
+   "artist": "coldrain",
+   "date": "2026-10-22",
+   "title": "OPTIMIZE = OPTDEMISE JAPAN TOUR 2026",
+   "kind": "ワンマン",
+   "venue": "PENNY LANE24（北海道）",
+   "sale_info": "スタンディング6,800円（税込・別途ドリンク代）／開場18:00／開演19:00",
+   "source_url": "https://coldrain.jp/blogs/live",
+   "confidence": "high"
   },
   {
    "artist": "ELLEGARDEN",
@@ -243,6 +264,15 @@
    "sale_info": "一般発売中（先着）"
   },
   {
+   "artist": "coldrain",
+   "date": "2026-10-25",
+   "title": "HEY-SMITH Presents OSAKA HAZIKETEMAZARE FESTIVAL 2026",
+   "kind": "フェス",
+   "venue": "泉大津フェニックス（大阪）",
+   "source_url": "https://coldrain.jp/blogs/live",
+   "confidence": "high"
+  },
+  {
    "artist": "ELLEGARDEN",
    "date": "2026-10-27",
    "title": "Bad For Education Tour II (2026)",
@@ -375,6 +405,15 @@
    "confidence": "high"
   },
   {
+   "artist": "coldrain",
+   "date": "2026-10-31",
+   "title": "[Alexandros] presents THIS FES'26 in Sagamihara",
+   "kind": "フェス",
+   "venue": "相模原ギオンフィールド（神奈川）",
+   "source_url": "https://coldrain.jp/blogs/live",
+   "confidence": "high"
+  },
+  {
    "artist": "04 Limited Sazabys",
    "date": "2026-11-01",
    "title": "ONE MAN TOUR 2026",
@@ -419,6 +458,16 @@
    "kind": "ワンマン",
    "venue": "長野J（長野県）",
    "source_url": "https://realsound.jp/2026/05/post-2386759.html",
+   "confidence": "high"
+  },
+  {
+   "artist": "coldrain",
+   "date": "2026-11-01",
+   "title": "OPTIMIZE = OPTDEMISE JAPAN TOUR 2026",
+   "kind": "ワンマン",
+   "venue": "金沢EIGHT HALL（石川）",
+   "sale_info": "スタンディング6,800円（税込・別途ドリンク代）／開場16:00／開演17:00",
+   "source_url": "https://coldrain.jp/blogs/live",
    "confidence": "high"
   },
   {
@@ -469,6 +518,16 @@
    "source_url": "https://eplus.jp/sf/detail/0069680001",
    "confidence": "high",
    "with": "ガガガSP"
+  },
+  {
+   "artist": "coldrain",
+   "date": "2026-11-03",
+   "title": "OPTIMIZE = OPTDEMISE JAPAN TOUR 2026",
+   "kind": "ワンマン",
+   "venue": "NIIGATA LOTS（新潟）",
+   "sale_info": "スタンディング6,800円（税込・別途ドリンク代）／開場16:00／開演17:00",
+   "source_url": "https://coldrain.jp/blogs/live",
+   "confidence": "high"
   },
   {
    "artist": "04 Limited Sazabys",
@@ -693,6 +752,15 @@
    "ticket_url": "https://eplus.jp/sf/word/0000002764",
    "source_url": "https://eplus.jp/sf/word/0000002764",
    "confidence": "low"
+  },
+  {
+   "artist": "coldrain",
+   "date": "2026-11-08",
+   "title": "浪人祭 Vagabond Festival 2026",
+   "kind": "フェス",
+   "venue": "觀夕平台旁大草皮（台湾）",
+   "source_url": "https://coldrain.jp/blogs/live",
+   "confidence": "high"
   },
   {
    "artist": "ORAL CIGARETTES",
@@ -972,6 +1040,15 @@
    "confidence": "high"
   },
   {
+   "artist": "coldrain",
+   "date": "2026-11-22",
+   "title": "Crystal Lake presents TRUE NORTH FESTIVAL 2026",
+   "kind": "フェス",
+   "venue": "豊洲PIT（東京）",
+   "source_url": "https://coldrain.jp/blogs/live",
+   "confidence": "high"
+  },
+  {
    "artist": "ROTTENGRAFFTY",
    "date": "2026-11-23",
    "title": "響都超特急TOUR2026",
@@ -1115,6 +1192,16 @@
    "confidence": "high"
   },
   {
+   "artist": "coldrain",
+   "date": "2026-11-29",
+   "title": "OPTIMIZE = OPTDEMISE JAPAN TOUR 2026",
+   "kind": "ワンマン",
+   "venue": "SENDAI GIGS（宮城）",
+   "sale_info": "スタンディング6,800円（税込・別途ドリンク代）／開場16:00／開演17:00",
+   "source_url": "https://coldrain.jp/blogs/live",
+   "confidence": "high"
+  },
+  {
    "artist": "あいみょん",
    "date": "2026-11-30",
    "title": "AIMYON 10th anniversary LIVE 2026「、、、」IN 日本武道館",
@@ -1134,6 +1221,16 @@
    "confidence": "high"
   },
   {
+   "artist": "coldrain",
+   "date": "2026-12-01",
+   "title": "OPTIMIZE = OPTDEMISE JAPAN TOUR 2026",
+   "kind": "ワンマン",
+   "venue": "なんばHatch（大阪）",
+   "sale_info": "スタンディング6,800円（税込・別途ドリンク代）／開場18:00／開演19:00",
+   "source_url": "https://coldrain.jp/blogs/live",
+   "confidence": "high"
+  },
+  {
    "artist": "Mrs. GREEN APPLE",
    "date": "2026-12-02",
    "title": "Mrs. GREEN APPLE Ringo Jam Tour “SHADOWS”",
@@ -1150,6 +1247,16 @@
    "kind": "ワンマン",
    "venue": "津CLUB CHAOS（三重県）",
    "source_url": "https://realsound.jp/2026/05/post-2386759.html",
+   "confidence": "high"
+  },
+  {
+   "artist": "coldrain",
+   "date": "2026-12-02",
+   "title": "OPTIMIZE = OPTDEMISE JAPAN TOUR 2026",
+   "kind": "ワンマン",
+   "venue": "COMTEC PORTBASE（香川）",
+   "sale_info": "スタンディング6,800円（税込・別途ドリンク代）",
+   "source_url": "https://coldrain.jp/blogs/live",
    "confidence": "high"
   },
   {
@@ -1214,6 +1321,15 @@
    "kind": "ワンマン",
    "venue": "鳥取AZTiC laughs（鳥取県）",
    "source_url": "https://realsound.jp/2026/05/post-2386759.html",
+   "confidence": "high"
+  },
+  {
+   "artist": "coldrain",
+   "date": "2026-12-05",
+   "title": "BLAZE UP NAGASAKI 2026",
+   "kind": "フェス",
+   "venue": "出島メッセ長崎（長崎）",
+   "source_url": "https://coldrain.jp/blogs/live",
    "confidence": "high"
   },
   {
@@ -1311,6 +1427,16 @@
    "confidence": "high"
   },
   {
+   "artist": "coldrain",
+   "date": "2026-12-08",
+   "title": "OPTIMIZE = OPTDEMISE JAPAN TOUR 2026",
+   "kind": "ワンマン",
+   "venue": "豊洲PIT（東京）",
+   "sale_info": "スタンディング6,800円（税込・別途ドリンク代）",
+   "source_url": "https://coldrain.jp/blogs/live",
+   "confidence": "high"
+  },
+  {
    "artist": "ELLEGARDEN",
    "date": "2026-12-09",
    "title": "Bad For Education Tour II GRAND FINALE",
@@ -1329,6 +1455,16 @@
    "venue": "マリンメッセ福岡 A館（福岡）",
    "sale_info": "ファンクラブ先行あり。一般発売は公式で要確認",
    "source_url": "https://mrsgreenapple.com/feature/ringojamtour_shadows",
+   "confidence": "high"
+  },
+  {
+   "artist": "coldrain",
+   "date": "2026-12-09",
+   "title": "OPTIMIZE = OPTDEMISE JAPAN TOUR 2026",
+   "kind": "ワンマン",
+   "venue": "豊洲PIT（東京）",
+   "sale_info": "スタンディング6,800円（税込・別途ドリンク代）／開場18:00／開演19:00",
+   "source_url": "https://coldrain.jp/blogs/live",
    "confidence": "high"
   },
   {
@@ -1351,6 +1487,15 @@
    "ticket_url": "https://eplus.jp/sf/word/0000038382",
    "sale_info": "開場10:45／開演11:30（先着）",
    "source_url": "https://eplus.jp/sf/word/0000038382",
+   "confidence": "high"
+  },
+  {
+   "artist": "coldrain",
+   "date": "2026-12-13",
+   "title": "響都超特急2026",
+   "kind": "フェス",
+   "venue": "京都パルスプラザ（京都）",
+   "source_url": "https://coldrain.jp/blogs/live",
    "confidence": "high"
   },
   {
@@ -1413,6 +1558,15 @@
    "source_url": "https://spice.eplus.jp/articles/349354",
    "confidence": "high",
    "with": "ACIDMAN、BEYOOOOONDS、Dragon Ash"
+  },
+  {
+   "artist": "coldrain",
+   "date": "2026-12-19",
+   "title": "MERRY ROCK PARADE 2026",
+   "kind": "フェス",
+   "venue": "ポートメッセなごや（愛知）",
+   "source_url": "https://coldrain.jp/blogs/live",
+   "confidence": "high"
   },
   {
    "artist": "Mrs. GREEN APPLE",
@@ -1549,6 +1703,15 @@
     }
    ],
    "source_url": "https://eplus.jp/radiocrazy2026/",
+   "confidence": "high"
+  },
+  {
+   "artist": "coldrain",
+   "date": "2026-12-28",
+   "title": "Sammy presents NEW HORIZON FEST 2026",
+   "kind": "フェス",
+   "venue": "TOYOTA ARENA TOKYO（東京）",
+   "source_url": "https://coldrain.jp/blogs/live",
    "confidence": "high"
   },
   {
@@ -4933,6 +5096,10 @@
   },
   "THE KEBABS": {
    "eplus": "https://eplus.jp/sf/word/0000128876"
+  },
+  "coldrain": {
+   "official": "https://coldrain.jp/",
+   "schedule": "https://coldrain.jp/blogs/live"
   }
  },
  "aliases": {
@@ -5020,6 +5187,10 @@
    "ケバブス",
    "ザ・ケバブス",
    "KEBABS"
+  ],
+  "coldrain": [
+   "コールドレイン",
+   "COLDRAIN"
   ]
  },
  "rejected": [
@@ -5102,6 +5273,10 @@
   "THE KEBABS": {
    "state": "ok",
    "checked": "2026-10-19T12:45:00+09:00"
+  },
+  "coldrain": {
+   "state": "ok",
+   "checked": "2026-10-19T13:00:00+09:00"
   }
  }
 }
