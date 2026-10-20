@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T20:40:00+09:00",
+ "updated": "2026-10-21T07:15:00+09:00",
  "artists": [
   "04 Limited Sazabys",
   "ELLEGARDEN",
@@ -5725,6 +5725,15 @@
    "tba": true,
    "status": "unknown",
    "note": "2027年の開催は未発表（友人の追加依頼。発表され次第、日程を入れます）"
+  },
+  {
+   "name": "FUJI ROCK FESTIVAL",
+   "tba": true,
+   "status": "unknown",
+   "pref": "新潟",
+   "venue": "苗場スキー場",
+   "official_url": "https://www.fujirockfestival.com/",
+   "note": "次回の日程は未発表（例年7月下旬・新潟県湯沢町苗場）"
   }
  ],
  "artist_links": {
@@ -5878,8 +5887,7 @@
  "rejected": [
   "ぬるぽがっ太郎バンド",
   "asdfghjklqwerty",
-  "ほげほげフェスティバル2099",
-  "FUJI ROCK FESTIVAL"
+  "ほげほげフェスティバル2099"
  ],
  "artist_status": {
   "Hi-STANDARD": {
