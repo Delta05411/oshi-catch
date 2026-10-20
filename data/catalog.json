@@ -1,133 +1,6 @@
 {
- "updated": "2026-10-19T07:30:00+09:00",
+ "updated": "2026-10-20T20:40:00+09:00",
  "artists": {
-  "氣志團": {
-   "aliases": [
-    "氣志團",
-    "気志團",
-    "氣志団",
-    "KISHIDAN"
-   ],
-   "events": [
-    {
-     "date": "2026-10-18",
-     "title": "SAMURAI SONIC",
-     "kind": "フェス",
-     "venue": "幕張メッセ（千葉）",
-     "source_url": "https://www.samuraisonic.com/",
-     "confidence": "high"
-    }
-   ]
-  },
-  "WEDNESDAY CAMPANELLA": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-10-18",
-     "title": "SAMURAI SONIC",
-     "kind": "フェス",
-     "venue": "幕張メッセ（千葉）",
-     "source_url": "https://www.samuraisonic.com/",
-     "confidence": "high"
-    }
-   ]
-  },
-  "Dannie May": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-10-18",
-     "title": "SAMURAI SONIC",
-     "kind": "フェス",
-     "venue": "幕張メッセ（千葉）",
-     "source_url": "https://www.samuraisonic.com/",
-     "confidence": "high"
-    }
-   ]
-  },
-  "バッドドロップシンデレラ": {
-   "aliases": [
-    "バドシン"
-   ],
-   "events": [
-    {
-     "date": "2026-10-18",
-     "title": "SAMURAI SONIC",
-     "kind": "フェス",
-     "venue": "幕張メッセ（千葉）",
-     "source_url": "https://www.samuraisonic.com/",
-     "confidence": "high"
-    }
-   ]
-  },
-  "LUCKY KILIMANJARO": {
-   "aliases": [
-    "ラッキリ",
-    "ラッキーキリマンジャロ"
-   ],
-   "events": [
-    {
-     "date": "2026-10-18",
-     "title": "SAMURAI SONIC",
-     "kind": "フェス",
-     "venue": "幕張メッセ（千葉）",
-     "source_url": "https://www.samuraisonic.com/",
-     "confidence": "high"
-    }
-   ]
-  },
-  "accobin": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-10-18",
-     "title": "SAMURAI SONIC",
-     "kind": "フェス",
-     "venue": "幕張メッセ（千葉）",
-     "source_url": "https://www.samuraisonic.com/",
-     "confidence": "high"
-    }
-   ]
-  },
-  "寶船": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-10-18",
-     "title": "SAMURAI SONIC",
-     "kind": "フェス",
-     "venue": "幕張メッセ（千葉）",
-     "source_url": "https://www.samuraisonic.com/",
-     "confidence": "high"
-    }
-   ]
-  },
-  "T-STONE": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-10-18",
-     "title": "SAMURAI SONIC",
-     "kind": "フェス",
-     "venue": "幕張メッセ（千葉）",
-     "source_url": "https://www.samuraisonic.com/",
-     "confidence": "high"
-    }
-   ]
-  },
-  "DJダイノジ": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-10-18",
-     "title": "SAMURAI SONIC",
-     "kind": "フェス",
-     "venue": "幕張メッセ（千葉）",
-     "source_url": "https://www.samuraisonic.com/",
-     "confidence": "high"
-    }
-   ]
-  },
   "Michael Schenker Group": {
    "aliases": [],
    "events": [
@@ -276,6 +149,14 @@
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://xhl-music.com/feature/hypelikeit",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-30",
+     "title": "COUNTDOWN JAPAN 26/27（12/30）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
     }
    ]
   },
@@ -289,6 +170,14 @@
      "venue": "みずほPayPayドーム福岡（福岡）",
      "source_url": "https://natalie.mu/music/news/690002",
      "confidence": "low"
+    },
+    {
+     "date": "2026-12-31",
+     "title": "COUNTDOWN JAPAN 26/27（12/31）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
     }
    ]
   },
@@ -302,6 +191,14 @@
      "venue": "みずほPayPayドーム福岡（福岡）",
      "source_url": "https://natalie.mu/music/news/690002",
      "confidence": "low"
+    },
+    {
+     "date": "2026-12-30",
+     "title": "COUNTDOWN JAPAN 26/27（12/30）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
     }
    ]
   },
@@ -323,6 +220,14 @@
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://xhl-music.com/feature/hypelikeit",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-31",
+     "title": "COUNTDOWN JAPAN 26/27（12/31）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
     }
    ]
   },
@@ -335,6 +240,14 @@
      "kind": "フェス",
      "venue": "幕張メッセ 国際展示場（千葉）",
      "source_url": "https://www.thefirsttimes.jp/news/0000899196/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-26",
+     "title": "COUNTDOWN JAPAN 26/27（12/26）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
      "confidence": "high"
     }
    ]
@@ -349,6 +262,14 @@
      "venue": "幕張メッセ 国際展示場（千葉）",
      "source_url": "https://www.thefirsttimes.jp/news/0000899196/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-26",
+     "title": "COUNTDOWN JAPAN 26/27（12/26）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
     }
    ]
   },
@@ -361,6 +282,14 @@
      "kind": "フェス",
      "venue": "幕張メッセ 国際展示場（千葉）",
      "source_url": "https://www.thefirsttimes.jp/news/0000899196/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "COUNTDOWN JAPAN 26/27（12/27）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
      "confidence": "high"
     }
    ]
@@ -375,6 +304,14 @@
      "venue": "幕張メッセ 国際展示場（千葉）",
      "source_url": "https://www.thefirsttimes.jp/news/0000899196/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-26",
+     "title": "COUNTDOWN JAPAN 26/27（12/26）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
     }
    ]
   },
@@ -387,6 +324,14 @@
      "kind": "フェス",
      "venue": "幕張メッセ 国際展示場（千葉）",
      "source_url": "https://www.thefirsttimes.jp/news/0000899196/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-31",
+     "title": "COUNTDOWN JAPAN 26/27（12/31）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
      "confidence": "high"
     }
    ]
@@ -401,6 +346,14 @@
      "venue": "幕張メッセ 国際展示場（千葉）",
      "source_url": "https://www.thefirsttimes.jp/news/0000899196/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-30",
+     "title": "COUNTDOWN JAPAN 26/27（12/30）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
     }
    ]
   },
@@ -413,6 +366,14 @@
      "kind": "フェス",
      "venue": "幕張メッセ 国際展示場（千葉）",
      "source_url": "https://www.thefirsttimes.jp/news/0000899196/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-31",
+     "title": "COUNTDOWN JAPAN 26/27（12/31）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
      "confidence": "high"
     }
    ]
@@ -427,6 +388,14 @@
      "venue": "幕張メッセ 国際展示場（千葉）",
      "source_url": "https://www.thefirsttimes.jp/news/0000899196/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-29",
+     "title": "COUNTDOWN JAPAN 26/27（12/29）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
     }
    ]
   },
@@ -439,6 +408,14 @@
      "kind": "フェス",
      "venue": "幕張メッセ 国際展示場（千葉）",
      "source_url": "https://www.thefirsttimes.jp/news/0000899196/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-26",
+     "title": "COUNTDOWN JAPAN 26/27（12/26）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
      "confidence": "high"
     }
    ]
@@ -453,6 +430,14 @@
      "venue": "幕張メッセ 国際展示場（千葉）",
      "source_url": "https://www.thefirsttimes.jp/news/0000899196/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-30",
+     "title": "COUNTDOWN JAPAN 26/27（12/30）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
     }
    ]
   },
@@ -466,6 +451,14 @@
      "venue": "幕張メッセ 国際展示場（千葉）",
      "source_url": "https://www.thefirsttimes.jp/news/0000899196/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "COUNTDOWN JAPAN 26/27（12/27）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
     }
    ]
   },
@@ -478,6 +471,14 @@
      "kind": "フェス",
      "venue": "幕張メッセ 国際展示場（千葉）",
      "source_url": "https://www.thefirsttimes.jp/news/0000899196/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-26",
+     "title": "COUNTDOWN JAPAN 26/27（12/26）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
      "confidence": "high"
     }
    ]
@@ -512,6 +513,14 @@
      "kind": "フェス",
      "venue": "ZOZOマリンスタジアム（千葉）",
      "source_url": "https://www.thefirsttimes.jp/?p=820987",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-29",
+     "title": "COUNTDOWN JAPAN 26/27（12/29）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
      "confidence": "high"
     }
    ]
@@ -672,6 +681,14 @@
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://xhl-music.com/feature/hypelikeit",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-26",
+     "title": "COUNTDOWN JAPAN 26/27（12/26）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
     }
    ]
   },
@@ -684,6 +701,14 @@
      "kind": "フェス",
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://xhl-music.com/feature/hypelikeit",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-26",
+     "title": "COUNTDOWN JAPAN 26/27（12/26）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
      "confidence": "high"
     }
    ]
@@ -698,6 +723,14 @@
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://xhl-music.com/feature/hypelikeit",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-30",
+     "title": "COUNTDOWN JAPAN 26/27（12/30）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
     }
    ]
   },
@@ -710,6 +743,14 @@
      "kind": "フェス",
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://xhl-music.com/feature/hypelikeit",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-29",
+     "title": "COUNTDOWN JAPAN 26/27（12/29）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
      "confidence": "high"
     }
    ]
@@ -762,6 +803,890 @@
      "kind": "フェス",
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://xhl-music.com/feature/hypelikeit",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Juice=Juice": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-26",
+     "title": "COUNTDOWN JAPAN 26/27（12/26）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    }
+   ]
+  },
+  "NELKE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-26",
+     "title": "COUNTDOWN JAPAN 26/27（12/26）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    }
+   ]
+  },
+  "NOMELON NOLEMON": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-26",
+     "title": "COUNTDOWN JAPAN 26/27（12/26）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    }
+   ]
+  },
+  "harha": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-26",
+     "title": "COUNTDOWN JAPAN 26/27（12/26）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    }
+   ]
+  },
+  "FRUITS ZIPPER": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-26",
+     "title": "COUNTDOWN JAPAN 26/27（12/26）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    }
+   ]
+  },
+  "FLOW": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-26",
+     "title": "COUNTDOWN JAPAN 26/27（12/26）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    }
+   ]
+  },
+  "MAISONdes": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-26",
+     "title": "COUNTDOWN JAPAN 26/27（12/26）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    }
+   ]
+  },
+  "luv": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-26",
+     "title": "COUNTDOWN JAPAN 26/27（12/26）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    }
+   ]
+  },
+  "レトロリロン": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-26",
+     "title": "COUNTDOWN JAPAN 26/27（12/26）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Reol": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-26",
+     "title": "COUNTDOWN JAPAN 26/27（12/26）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    }
+   ]
+  },
+  "RoI3ert": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-26",
+     "title": "COUNTDOWN JAPAN 26/27（12/26）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Aooo": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-27",
+     "title": "COUNTDOWN JAPAN 26/27（12/27）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    }
+   ]
+  },
+  "HY": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-27",
+     "title": "COUNTDOWN JAPAN 26/27（12/27）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Awich": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-27",
+     "title": "COUNTDOWN JAPAN 26/27（12/27）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Cloudy": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-27",
+     "title": "COUNTDOWN JAPAN 26/27（12/27）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    }
+   ]
+  },
+  "KOTORI": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-27",
+     "title": "COUNTDOWN JAPAN 26/27（12/27）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    }
+   ]
+  },
+  "35.7": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-27",
+     "title": "COUNTDOWN JAPAN 26/27（12/27）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    }
+   ]
+  },
+  "sumika": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-27",
+     "title": "COUNTDOWN JAPAN 26/27（12/27）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    }
+   ]
+  },
+  "CHiCO with HoneyWorks": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-27",
+     "title": "COUNTDOWN JAPAN 26/27（12/27）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    }
+   ]
+  },
+  "超ときめき♡宣伝部": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-27",
+     "title": "COUNTDOWN JAPAN 26/27（12/27）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    }
+   ]
+  },
+  "東京スカパラダイスオーケストラ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-27",
+     "title": "COUNTDOWN JAPAN 26/27（12/27）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    }
+   ]
+  },
+  "FUNKY MONKEY BΛBY'S": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-27",
+     "title": "COUNTDOWN JAPAN 26/27（12/27）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Penthouse": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-27",
+     "title": "COUNTDOWN JAPAN 26/27（12/27）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    }
+   ]
+  },
+  "アイナ・ジ・エンド": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-29",
+     "title": "COUNTDOWN JAPAN 26/27（12/29）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    }
+   ]
+  },
+  "amazarashi": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-29",
+     "title": "COUNTDOWN JAPAN 26/27（12/29）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    }
+   ]
+  },
+  "OddRe:": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-29",
+     "title": "COUNTDOWN JAPAN 26/27（12/29）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    }
+   ]
+  },
+  "9mm Parabellum Bullet": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-29",
+     "title": "COUNTDOWN JAPAN 26/27（12/29）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    }
+   ]
+  },
+  "CLAN QUEEN": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-29",
+     "title": "COUNTDOWN JAPAN 26/27（12/29）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    }
+   ]
+  },
+  "syudou": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-29",
+     "title": "COUNTDOWN JAPAN 26/27（12/29）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    }
+   ]
+  },
+  "SPARK!!SOUND!!SHOW!!": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-29",
+     "title": "COUNTDOWN JAPAN 26/27（12/29）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    }
+   ]
+  },
+  "TAKU INOUE × 超かぐや姫！": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-29",
+     "title": "COUNTDOWN JAPAN 26/27（12/29）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    }
+   ]
+  },
+  "tuki.": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-29",
+     "title": "COUNTDOWN JAPAN 26/27（12/29）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    }
+   ]
+  },
+  "PEOPLE 1": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-29",
+     "title": "COUNTDOWN JAPAN 26/27（12/29）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    }
+   ]
+  },
+  "muque": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-29",
+     "title": "COUNTDOWN JAPAN 26/27（12/29）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    }
+   ]
+  },
+  "MAYSON's PARTY": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-29",
+     "title": "COUNTDOWN JAPAN 26/27（12/29）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    }
+   ]
+  },
+  "礼賛": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-29",
+     "title": "COUNTDOWN JAPAN 26/27（12/29）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    }
+   ]
+  },
+  "iLiFE!": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-30",
+     "title": "COUNTDOWN JAPAN 26/27（12/30）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    }
+   ]
+  },
+  "indigo la End": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-30",
+     "title": "COUNTDOWN JAPAN 26/27（12/30）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    }
+   ]
+  },
+  "AEN": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-30",
+     "title": "COUNTDOWN JAPAN 26/27（12/30）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    }
+   ]
+  },
+  "クレイジーウォウウォ!!": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-30",
+     "title": "COUNTDOWN JAPAN 26/27（12/30）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    }
+   ]
+  },
+  "コレサワ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-30",
+     "title": "COUNTDOWN JAPAN 26/27（12/30）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    }
+   ]
+  },
+  "スキマスイッチ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-30",
+     "title": "COUNTDOWN JAPAN 26/27（12/30）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    }
+   ]
+  },
+  "鈴木愛理": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-30",
+     "title": "COUNTDOWN JAPAN 26/27（12/30）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    }
+   ]
+  },
+  "This is LAST": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-30",
+     "title": "COUNTDOWN JAPAN 26/27（12/30）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    }
+   ]
+  },
+  "DISH//": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-30",
+     "title": "COUNTDOWN JAPAN 26/27（12/30）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    }
+   ]
+  },
+  "TRACK15": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-30",
+     "title": "COUNTDOWN JAPAN 26/27（12/30）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ねぎ塩豚丼": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-30",
+     "title": "COUNTDOWN JAPAN 26/27（12/30）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    }
+   ]
+  },
+  "マカロニえんぴつ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-30",
+     "title": "COUNTDOWN JAPAN 26/27（12/30）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Mega Shinnosuke": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-30",
+     "title": "COUNTDOWN JAPAN 26/27（12/30）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    }
+   ]
+  },
+  "MON7A": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-30",
+     "title": "COUNTDOWN JAPAN 26/27（12/30）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    }
+   ]
+  },
+  "緑黄色社会": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-30",
+     "title": "COUNTDOWN JAPAN 26/27（12/30）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    }
+   ]
+  },
+  "おいしくるメロンパン": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-31",
+     "title": "COUNTDOWN JAPAN 26/27（12/31）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    }
+   ]
+  },
+  "the奥歯's": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-31",
+     "title": "COUNTDOWN JAPAN 26/27（12/31）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Sunny Girl": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-31",
+     "title": "COUNTDOWN JAPAN 26/27（12/31）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    }
+   ]
+  },
+  "サバシスター": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-31",
+     "title": "COUNTDOWN JAPAN 26/27（12/31）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    }
+   ]
+  },
+  "SIX LOUNGE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-31",
+     "title": "COUNTDOWN JAPAN 26/27（12/31）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    }
+   ]
+  },
+  "シンガーズハイ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-31",
+     "title": "COUNTDOWN JAPAN 26/27（12/31）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    }
+   ]
+  },
+  "セカンドバッカー": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-31",
+     "title": "COUNTDOWN JAPAN 26/27（12/31）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    }
+   ]
+  },
+  "TETORA": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-31",
+     "title": "COUNTDOWN JAPAN 26/27（12/31）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Tele": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-31",
+     "title": "COUNTDOWN JAPAN 26/27（12/31）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    }
+   ]
+  },
+  "なとり": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-31",
+     "title": "COUNTDOWN JAPAN 26/27（12/31）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ねぐせ。": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-31",
+     "title": "COUNTDOWN JAPAN 26/27（12/31）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Hump Back": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-31",
+     "title": "COUNTDOWN JAPAN 26/27（12/31）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Blue Mash": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-31",
+     "title": "COUNTDOWN JAPAN 26/27（12/31）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Paledusk": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-31",
+     "title": "COUNTDOWN JAPAN 26/27（12/31）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ヤングスキニー": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-31",
+     "title": "COUNTDOWN JAPAN 26/27（12/31）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    }
+   ]
+  },
+  "reGretGirl": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-31",
+     "title": "COUNTDOWN JAPAN 26/27（12/31）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    }
+   ]
+  },
+  "忘れらんねえよ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-31",
+     "title": "COUNTDOWN JAPAN 26/27（12/31）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
      "confidence": "high"
     }
    ]

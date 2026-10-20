@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T12:30:00+09:00",
+ "updated": "2026-10-20T20:40:00+09:00",
  "artists": [
   "04 Limited Sazabys",
   "ELLEGARDEN",
@@ -27,18 +27,6 @@
   "UNISON SQUARE GARDEN"
  ],
  "events": [
-  {
-   "ticket_name": "ローソンチケット",
-   "ticket_url": "https://l-tike.com/yabaitshirtsyasan/t",
-   "source_url": "https://realsound.jp/2026/05/post-2389827.html",
-   "confidence": "high",
-   "artist": "ヤバイTシャツ屋さん",
-   "kind": "ワンマン",
-   "title": "\"Magical Tank-top Parade\" ONE-MAN TOUR 2026",
-   "date": "2026-10-19",
-   "venue": "Zepp Fukuoka（福岡）",
-   "sale_info": "6,050円（税込）＋ドリンク代。開場18:00／開演19:00"
-  },
   {
    "artist": "TenTwenty",
    "date": "2026-10-20",
@@ -1768,13 +1756,23 @@
    "title": "FM802 ROCK FESTIVAL RADIO CRAZY 2026（12/26）"
   },
   {
-   "artist": "10-FEET",
-   "date": "2026-12-26",
-   "title": "COUNTDOWN JAPAN 26/27（12/26・27・29・30・31のいずれか）",
+   "artist": "Mrs. GREEN APPLE",
+   "date": "2026-12-27",
+   "title": "Mrs. GREEN APPLE Ringo Jam Tour “SHADOWS”",
+   "kind": "ワンマン",
+   "venue": "Aichi Sky Expo（愛知）",
+   "sale_info": "ファンクラブ先行あり。一般発売は公式で要確認",
+   "source_url": "https://mrsgreenapple.com/feature/ringojamtour_shadows",
+   "confidence": "high"
+  },
+  {
+   "artist": "Wienners",
+   "date": "2026-12-27",
+   "title": "COUNTDOWN JAPAN 26/27（12/27）",
    "kind": "フェス",
    "venue": "幕張メッセ 国際展示場（千葉）",
-   "sale_info": "出演日は後日発表。第1次抽選先行受付中",
-   "source_url": "https://www.thefirsttimes.jp/news/0000899196/",
+   "sale_info": "第1弾出演者（日別発表）。第1次抽選先行 10/14〜10/20 16:00（公式アプリ「Jフェス」）",
+   "source_url": "https://festival-life.com/168983",
    "confidence": "high",
    "sales": [
     {
@@ -1786,14 +1784,40 @@
    ]
   },
   {
-   "artist": "Mrs. GREEN APPLE",
+   "artist": "ヤバイTシャツ屋さん",
    "date": "2026-12-27",
-   "title": "Mrs. GREEN APPLE Ringo Jam Tour “SHADOWS”",
-   "kind": "ワンマン",
-   "venue": "Aichi Sky Expo（愛知）",
-   "sale_info": "ファンクラブ先行あり。一般発売は公式で要確認",
-   "source_url": "https://mrsgreenapple.com/feature/ringojamtour_shadows",
-   "confidence": "high"
+   "title": "COUNTDOWN JAPAN 26/27（12/27）",
+   "kind": "フェス",
+   "venue": "幕張メッセ 国際展示場（千葉）",
+   "sale_info": "第1弾出演者（日別発表）。第1次抽選先行 10/14〜10/20 16:00（公式アプリ「Jフェス」）",
+   "source_url": "https://festival-life.com/168983",
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "第1次抽選先行",
+     "start": "2026-10-14",
+     "end": "2026-10-20",
+     "note": "12:15開始〜16:00締切 / 公式アプリ「Jフェス」のみ"
+    }
+   ]
+  },
+  {
+   "artist": "サンボマスター",
+   "date": "2026-12-27",
+   "title": "COUNTDOWN JAPAN 26/27（12/27）",
+   "kind": "フェス",
+   "venue": "幕張メッセ 国際展示場（千葉）",
+   "sale_info": "第1弾出演者（日別発表）。第1次抽選先行 10/14〜10/20 16:00（公式アプリ「Jフェス」）",
+   "source_url": "https://festival-life.com/168983",
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "第1次抽選先行",
+     "start": "2026-10-14",
+     "end": "2026-10-20",
+     "note": "12:15開始〜16:00締切 / 公式アプリ「Jフェス」のみ"
+    }
+   ]
   },
   {
    "artist": "10-FEET",
@@ -1900,8 +1924,80 @@
    "title": "COUNTDOWN JAPAN 26/27（12/29）",
    "kind": "フェス",
    "venue": "幕張メッセ 国際展示場（千葉）",
-   "sale_info": "第1弾出演者に発表。出演日は記事に記載なし（日付は開催初日の仮置き・要確認）。チケット第1次抽選先行 10/14〜10/20 16:00（公式アプリ「Jフェス」）",
-   "source_url": "https://realsound.jp/2026/10/post-2553051.html",
+   "sale_info": "第1弾出演者（日別発表）。第1次抽選先行 10/14〜10/20 16:00（公式アプリ「Jフェス」）",
+   "source_url": "https://festival-life.com/168983",
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "第1次抽選先行",
+     "start": "2026-10-14",
+     "end": "2026-10-20",
+     "note": "12:15開始〜16:00締切 / 公式アプリ「Jフェス」のみ"
+    }
+   ]
+  },
+  {
+   "artist": "SiM",
+   "date": "2026-12-29",
+   "title": "COUNTDOWN JAPAN 26/27（12/29）",
+   "kind": "フェス",
+   "venue": "幕張メッセ 国際展示場（千葉）",
+   "sale_info": "第1弾出演者（日別発表）。第1次抽選先行 10/14〜10/20 16:00（公式アプリ「Jフェス」）",
+   "source_url": "https://festival-life.com/168983",
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "第1次抽選先行",
+     "start": "2026-10-14",
+     "end": "2026-10-20",
+     "note": "12:15開始〜16:00締切 / 公式アプリ「Jフェス」のみ"
+    }
+   ]
+  },
+  {
+   "artist": "10-FEET",
+   "date": "2026-12-31",
+   "title": "COUNTDOWN JAPAN 26/27（12/31）",
+   "kind": "フェス",
+   "venue": "幕張メッセ 国際展示場（千葉）",
+   "sale_info": "第1弾出演者（日別発表）。第1次抽選先行 10/14〜10/20 16:00（公式アプリ「Jフェス」）",
+   "source_url": "https://festival-life.com/168983",
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "第1次抽選先行",
+     "start": "2026-10-14",
+     "end": "2026-10-20",
+     "note": "12:15開始〜16:00締切 / 公式アプリ「Jフェス」のみ"
+    }
+   ]
+  },
+  {
+   "artist": "04 Limited Sazabys",
+   "date": "2026-12-31",
+   "title": "COUNTDOWN JAPAN 26/27（12/31）",
+   "kind": "フェス",
+   "venue": "幕張メッセ 国際展示場（千葉）",
+   "sale_info": "第1弾出演者（日別発表）。第1次抽選先行 10/14〜10/20 16:00（公式アプリ「Jフェス」）",
+   "source_url": "https://festival-life.com/168983",
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "第1次抽選先行",
+     "start": "2026-10-14",
+     "end": "2026-10-20",
+     "note": "12:15開始〜16:00締切 / 公式アプリ「Jフェス」のみ"
+    }
+   ]
+  },
+  {
+   "artist": "HEY-SMITH",
+   "date": "2026-12-31",
+   "title": "COUNTDOWN JAPAN 26/27（12/31）",
+   "kind": "フェス",
+   "venue": "幕張メッセ 国際展示場（千葉）",
+   "sale_info": "第1弾出演者（日別発表）。第1次抽選先行 10/14〜10/20 16:00（公式アプリ「Jフェス」）",
+   "source_url": "https://festival-life.com/168983",
    "confidence": "high",
    "sales": [
     {
@@ -4801,9 +4897,14 @@
    "end": "2026-12-05",
    "pref": "東京",
    "status": "lineup",
-   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "source_url": "https://barks.jp/news/1081936/",
    "lineup": [
-    "KOTORI"
+    "KOTORI",
+    "04 Limited Sazabys",
+    "w.o.d.",
+    "bacho",
+    "yonige",
+    "KUZIRA"
    ],
    "official_url": "https://kotori-band.com/",
    "sales": [
@@ -4814,7 +4915,10 @@
      "note": "チケットぴあ"
     }
    ],
-   "lineup_checked": "2026-10-19"
+   "lineup_checked": "2026-10-20",
+   "ticket_name": "チケットぴあ",
+   "ticket_url": "https://w.pia.jp/t/torirockfes2026/",
+   "venue": "豊洲PIT（東京）"
   },
   {
    "name": "BLAZE UP NAGASAKI",
@@ -4984,25 +5088,108 @@
    "status": "lineup",
    "source_url": "https://realsound.jp/2026/10/post-2553051.html",
    "venue": "幕張メッセ",
-   "note": "12/26,27,29,30,31（28日は休演日）。第1弾97組発表済み（日別・ステージは後日）。出演者は一部のみ登録",
+   "note": "12/26,27,29,30,31（28日は休演日）。第1弾97組発表済み（日別は一部のみ登録・各日and more。ステージは後日）",
    "official_url": "https://countdownjapan.jp/",
    "lineup": [
-    "マキシマム ザ ホルモン",
-    "10-FEET",
+    "KANA-BOON",
     "Creepy Nuts",
-    "クリープハイプ",
-    "ENHYPEN",
-    "Eve",
-    "星街すいせい",
-    "LEX",
-    "LANA",
-    "MAZZEL",
-    "羊文学",
-    "CUTIE STREET",
+    "Juice=Juice",
     "超特急",
-    "LiSA"
+    "NELKE",
+    "NOMELON NOLEMON",
+    "harha",
+    "羊文学",
+    "FRUITS ZIPPER",
+    "フレデリック",
+    "FLOW",
+    "星街すいせい",
+    "MAZZEL",
+    "MAISONdes",
+    "luv",
+    "レトロリロン",
+    "Reol",
+    "RoI3ert",
+    "Aooo",
+    "Wienners",
+    "HY",
+    "Awich",
+    "CUTIE STREET",
+    "Cloudy",
+    "KOTORI",
+    "35.7",
+    "サンボマスター",
+    "sumika",
+    "CHiCO with HoneyWorks",
+    "超ときめき♡宣伝部",
+    "東京スカパラダイスオーケストラ",
+    "FUNKY MONKEY BΛBY'S",
+    "Penthouse",
+    "ヤバイTシャツ屋さん",
+    "LANA",
+    "アイナ・ジ・エンド",
+    "amazarashi",
+    "Eve",
+    "OddRe:",
+    "9mm Parabellum Bullet",
+    "CLAN QUEEN",
+    "Chevon",
+    "SiM",
+    "syudou",
+    "SPARK!!SOUND!!SHOW!!",
+    "TAKU INOUE × 超かぐや姫！",
+    "tuki.",
+    "PEOPLE 1",
+    "マキシマム ザ ホルモン",
+    "MAN WITH A MISSION",
+    "muque",
+    "MAYSON's PARTY",
+    "礼賛",
+    "iLiFE!",
+    "indigo la End",
+    "AEN",
+    "ENHYPEN",
+    "クレイジーウォウウォ!!",
+    "go!go!vanillas",
+    "コレサワ",
+    "Saucy Dog",
+    "スキマスイッチ",
+    "鈴木愛理",
+    "This is LAST",
+    "DISH//",
+    "TRACK15",
+    "ねぎ塩豚丼",
+    "マカロニえんぴつ",
+    "マルシィ",
+    "Mega Shinnosuke",
+    "MON7A",
+    "緑黄色社会",
+    "LEX",
+    "おいしくるメロンパン",
+    "the奥歯's",
+    "クリープハイプ",
+    "Sunny Girl",
+    "サバシスター",
+    "SIX LOUNGE",
+    "シンガーズハイ",
+    "セカンドバッカー",
+    "TETORA",
+    "Tele",
+    "10-FEET",
+    "なとり",
+    "ねぐせ。",
+    "Hump Back",
+    "04 Limited Sazabys",
+    "Blue Mash",
+    "HEY-SMITH",
+    "Paledusk",
+    "My Hair is Bad",
+    "ヤングスキニー",
+    "reGretGirl",
+    "LiSA",
+    "WurtS",
+    "忘れらんねえよ"
    ],
-   "lineup_checked": "2026-10-19",
+   "lineup_checked": "2026-10-20",
    "sales": [
     {
      "label": "第1次抽選先行",
@@ -5010,7 +5197,116 @@
      "end": "2026-10-20",
      "note": "12:15開始〜16:00締切 / 公式アプリ「Jフェス」のみ"
     }
-   ]
+   ],
+   "lineup_days": {
+    "2026-12-26": [
+     "KANA-BOON",
+     "Creepy Nuts",
+     "Juice=Juice",
+     "超特急",
+     "NELKE",
+     "NOMELON NOLEMON",
+     "harha",
+     "羊文学",
+     "FRUITS ZIPPER",
+     "フレデリック",
+     "FLOW",
+     "星街すいせい",
+     "MAZZEL",
+     "MAISONdes",
+     "luv",
+     "レトロリロン",
+     "Reol",
+     "RoI3ert"
+    ],
+    "2026-12-27": [
+     "Aooo",
+     "Wienners",
+     "HY",
+     "Awich",
+     "CUTIE STREET",
+     "Cloudy",
+     "KOTORI",
+     "35.7",
+     "サンボマスター",
+     "sumika",
+     "CHiCO with HoneyWorks",
+     "超ときめき♡宣伝部",
+     "東京スカパラダイスオーケストラ",
+     "FUNKY MONKEY BΛBY'S",
+     "Penthouse",
+     "ヤバイTシャツ屋さん",
+     "LANA"
+    ],
+    "2026-12-29": [
+     "アイナ・ジ・エンド",
+     "amazarashi",
+     "Eve",
+     "OddRe:",
+     "9mm Parabellum Bullet",
+     "CLAN QUEEN",
+     "Chevon",
+     "SiM",
+     "syudou",
+     "SPARK!!SOUND!!SHOW!!",
+     "TAKU INOUE × 超かぐや姫！",
+     "tuki.",
+     "PEOPLE 1",
+     "マキシマム ザ ホルモン",
+     "MAN WITH A MISSION",
+     "muque",
+     "MAYSON's PARTY",
+     "礼賛"
+    ],
+    "2026-12-30": [
+     "iLiFE!",
+     "indigo la End",
+     "AEN",
+     "ENHYPEN",
+     "クレイジーウォウウォ!!",
+     "go!go!vanillas",
+     "コレサワ",
+     "Saucy Dog",
+     "スキマスイッチ",
+     "鈴木愛理",
+     "This is LAST",
+     "DISH//",
+     "TRACK15",
+     "ねぎ塩豚丼",
+     "マカロニえんぴつ",
+     "マルシィ",
+     "Mega Shinnosuke",
+     "MON7A",
+     "緑黄色社会",
+     "LEX"
+    ],
+    "2026-12-31": [
+     "おいしくるメロンパン",
+     "the奥歯's",
+     "クリープハイプ",
+     "Sunny Girl",
+     "サバシスター",
+     "SIX LOUNGE",
+     "シンガーズハイ",
+     "セカンドバッカー",
+     "TETORA",
+     "Tele",
+     "10-FEET",
+     "なとり",
+     "ねぐせ。",
+     "Hump Back",
+     "04 Limited Sazabys",
+     "Blue Mash",
+     "HEY-SMITH",
+     "Paledusk",
+     "My Hair is Bad",
+     "ヤングスキニー",
+     "reGretGirl",
+     "LiSA",
+     "WurtS",
+     "忘れらんねえよ"
+    ]
+   }
   },
   {
    "name": "MAGIC HOUR FESTIVAL",
