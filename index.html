@@ -106,8 +106,8 @@ main{padding-bottom:70px}
 .sk{height:96px;margin:0;border-bottom:1px solid var(--line);background:linear-gradient(90deg,#0b0b0b 25%,#161616 37%,#0b0b0b 63%);background-size:400% 100%;animation:sh 1.3s ease infinite}
 @keyframes sh{0%{background-position:100% 50%}100%{background-position:0 50%}}
 
-#seg{display:flex;gap:16px;margin-top:20px;border-bottom:1px solid var(--line)}
-#seg button{font-family:"Bebas Neue",sans-serif;font-size:20px;letter-spacing:.08em;color:var(--sub);padding:4px 0 3px;border-bottom:2px solid transparent;margin-bottom:-1px}
+#seg{display:flex;gap:14px;overflow-x:auto;scrollbar-width:none;margin-top:20px;border-bottom:1px solid var(--line)}
+#seg button{flex:none;font-family:"Bebas Neue",sans-serif;font-size:19px;letter-spacing:.08em;color:var(--sub);padding:4px 0 3px;border-bottom:2px solid transparent;margin-bottom:-1px}
 #seg button.on{color:var(--w);border-bottom-color:var(--w)}
 .sale{display:flex;gap:8px;align-items:baseline;flex-wrap:wrap;font-size:12.5px;color:var(--fg);margin-top:6px}
 .sale a{color:var(--fg);text-underline-offset:3px}
@@ -167,6 +167,17 @@ details.lu i{font-style:normal;color:var(--line2);margin:0 6px}
 .cd u{font-size:9.5px;color:var(--sub);text-decoration:none;padding:0 3px}
 .legend{display:flex;flex-wrap:wrap;gap:6px 14px;margin-top:10px;font-size:11px;color:var(--sub)}
 .legend .ci{display:inline-block;width:10px;height:10px;padding:0;vertical-align:-1px;margin-right:4px;background:none;border-left-width:3px}
+.help{padding-top:6px}
+.help h3{font-size:30px;line-height:1;color:var(--w);margin:34px 0 10px;padding-bottom:6px;border-bottom:1px solid var(--line2)}
+.help h3.warnh{color:var(--warn)}
+.help p{font-size:13.5px;color:var(--fg);margin:8px 0}
+.hl{display:grid;gap:3px;padding:10px 0;border-bottom:1px solid var(--line)}
+.hl b{font-size:14px;color:var(--w)}
+.hl span{font-size:13px;color:var(--sub);line-height:1.75}
+.hl span b{font-size:13px;color:var(--fg)}
+.hl.warnb{border:1px solid var(--warn);padding:12px;margin-top:6px}
+.hl.warnb b:first-child{color:var(--warn)}
+.help textarea{width:100%;margin-top:10px;font:inherit;font-size:12.5px;color:var(--fg);background:#111;border:1px solid var(--line2);border-radius:2px;padding:8px;resize:vertical}
 .x{position:absolute;top:14px;right:16px;font-size:26px;line-height:1;color:var(--sub);padding:4px 8px}
 #toast{position:fixed;left:50%;transform:translate(-50%,10px);bottom:calc(24px + env(safe-area-inset-bottom));z-index:30;max-width:min(92vw,520px);background:var(--w);color:var(--bg);padding:12px 18px;border-radius:2px;font-size:13px;font-weight:700;opacity:0;pointer-events:none;transition:opacity .25s,transform .25s}
 #toast.show{opacity:1;transform:translate(-50%,0)}
@@ -187,7 +198,7 @@ details.lu i{font-style:normal;color:var(--line2);margin:0 6px}
   <section class="hero">
     <h1 class="bb" id="hero">LIVE<br>SCHEDULE</h1>
     <p id="herosub">推しのライブ・フェスを、まとめてキャッチ</p>
-    <div id="seg" role="tablist"><button data-seg="all">ALL</button><button data-seg="live">LIVE</button><button data-seg="fes">FES</button><button data-seg="mine">MY LIST</button><button data-seg="cal">MY CAL</button></div>
+    <div id="seg" role="tablist"><button data-seg="all">ALL</button><button data-seg="live">LIVE</button><button data-seg="fes">FES</button><button data-seg="mine">MY LIST</button><button data-seg="cal">MY CAL</button><button data-seg="help">HELP</button></div>
     <label class="search"><input id="q" type="search" placeholder="会場・公演名・地名で探す" autocomplete="off" aria-label="検索"></label>
     <div class="chips" id="chips" role="group" aria-label="推しで絞り込み"></div>
     <button type="button" id="ctog" hidden></button>
@@ -296,7 +307,7 @@ function chips(){
   pend.filter(p=>findArtist(p.n)).forEach(p=>addMy(findArtist(p.n)));
   pend=pend.filter(p=>!findArtist(p.n));savePend(); // データに載ったら「調査中」から外す
   const mine=mineA(),names=OPEN||EDIT?mine:[...mine].sort((a,b)=>(sel.has(b)-sel.has(a)));
-  const ce=$('#cedit');if(ce){ce.hidden=TAB==='fes'||TAB==='cal'||!mine.length;ce.textContent=EDIT?'DONE':'EDIT 推しの名前・削除'}
+  const ce=$('#cedit');if(ce){ce.hidden=TAB==='fes'||TAB==='cal'||TAB==='help'||!mine.length;ce.textContent=EDIT?'DONE':'EDIT 推しの名前・削除'}
   $('#chips').innerHTML=(EDIT?'':`<button class="chip ${sel.size?'':'on'}" data-a="">ALL</button>`)+
     names.map(a=>chipEl(a)).join('')+
     pend.map(p=>{const late=Date.now()-p.t>LATE||isRejected(p.n);const inCat=!late&&findCatalog(p.n);
@@ -433,6 +444,50 @@ function renderCal(){
     :`<div class="empty"><div class="bb">NO MARKS</div><p>公演・フェスの「申込状況」を記録すると、ここに表示されます。終わった公演も、このカレンダーに残ります。</p></div>`}
   ${foot('記録はこの端末に保存されます')}`;
 }
+// HELP（使い方）と、引き継ぎコード
+const BKKEYS=['myart','my','snap','nm','sel'];
+function bkMake(){const o={};for(const k of BKKEYS){try{const v=localStorage.getItem(k);if(v)o[k]=JSON.parse(v)}catch{}}
+  return 'OSHI1:'+btoa(unescape(encodeURIComponent(JSON.stringify(o))))}
+function bkLoad(code){
+  const m=/OSHI1:([A-Za-z0-9+/=]+)/.exec(code||'');if(!m)return '引き継ぎコードが読み取れませんでした。「OSHI1:」から始まるコードを、まるごと貼り付けてください';
+  let o;try{o=JSON.parse(decodeURIComponent(escape(atob(m[1]))))}catch{return 'コードが壊れているようです。もう一度コピーしてください'}
+  if(Array.isArray(o.myart)){MYART=new Set([...(MYART||[]),...o.myart]);saveMA()}
+  if(o.my&&typeof o.my==='object'){MY={...MY,...o.my};saveMy()}
+  if(o.snap&&typeof o.snap==='object'){SNAP={...SNAP,...o.snap};saveSnap()}
+  if(o.nm&&typeof o.nm==='object'){NM={...NM,...o.nm};saveNM()}
+  return ''}
+function renderHelp(){
+  const st=(a,b)=>`<div class="hl"><b>${a}</b><span>${b}</span></div>`;
+  out.innerHTML=`<div class="help">
+  <h3 class="bb">WHAT IS THIS?</h3>
+  <p>「推しキャッチ」は、すきなバンドやアーティストの <b>ライブ・フェスの予定</b> を、ひとつの画面にまとめて見られるサイトです。予定は、AIがインターネットから自動で集めています。</p>
+  <h3 class="bb">HOW TO USE</h3>
+  ${st('1　推しを入れる','右上の「+ ADD」をおして、すきなアーティストの名前を入れます。のっている人は、すぐに出ます。のっていない人は、調べるので1〜3分まってね（画面をとじても大丈夫）。')}
+  ${st('2　予定を見る','「ALL」は、あなたの推しのライブと、推しが出るフェスが、日にち順にならびます。上の月ボタン（10月・11月…）をおすと、その月までジャンプできます。')}
+  ${st('3　きろくする','それぞれのカードの「申込状況」で、検討中・申込済・当選・落選・購入済・参加済 を えらべます。自分用のメモです。')}
+  <h3 class="bb">TABS</h3>
+  ${st('ALL','推しのライブと、推しが出るフェスをまとめて見る')}
+  ${st('LIVE','推しのライブだけ見る')}
+  ${st('FES','フェスぜんぶ見る（何日間のフェスは、1日ずつ出ます）。「+ ADD」の FES から、のっていないフェスも追加できます')}
+  ${st('MY LIST','申込状況をきろくしたものだけが集まります。終わった分は「PAST」に残ります')}
+  ${st('MY CAL','きろくしたものが、カレンダーで見られます。「Googleカレンダーに追加」や、まとめて書き出すこともできます')}
+  <h3 class="bb">GOOD TO KNOW</h3>
+  ${st('推しの名前を直す・外す','推しの一覧の下の「EDIT」をおすと、✎で表示名を変えられて、×で一覧から外せます。自分の画面だけで、ほかの人には見えません。')}
+  ${st('まちがいがあるかも','予定はAIが自動で集めているので、まちがいや、のっていないものがあります。チケットを買う前に、かならず公式サイトで たしかめてね。')}
+  ${st('日程未定のフェス','来年の開催がまだ発表されていないフェスは「日程未定」で出ます。発表されると、自動で日にちが入ります。')}
+  <h3 class="bb warnh">IMPORTANT</h3>
+  <div class="hl warnb"><b>きろくは、このスマホの中だけに入っています</b><span>推しの一覧・申込状況・MY LIST・MY CAL・名前の直しは、いま使っている<b>スマホ（ブラウザ）の中</b>に保存されます。そのため、次のときは<b>見えなくなります</b>。<br>・スマホを買いかえたとき<br>・パソコンや、べつのスマホで開いたとき<br>・ホーム画面のアプリと Safari を べつべつに使ったとき<br>・ブラウザの「サイトデータ消去」をしたとき<br>そんなときのために、下の「引き継ぎコード」を使ってください。</span></div>
+  <h3 class="bb">BACKUP</h3>
+  <p><b>① コードを作る</b>（いまの端末で）：ボタンをおして、出てきたコードをコピーして、自分にLINEなどで送っておきます。</p>
+  <div class="links"><button type="button" class="btn" id="bkmake">引き継ぎコードを作る</button></div>
+  <textarea id="bkout" rows="3" readonly placeholder="ここにコードが出ます"></textarea>
+  <div class="links"><button type="button" class="btn" id="bkcopy">コピーする</button></div>
+  <p style="margin-top:22px"><b>② コードを読みこむ</b>（新しい端末で）：LINEなどで受けとったコードを、ここに貼りつけます。</p>
+  <textarea id="bkin" rows="3" placeholder="ここにコードを貼りつけ（OSHI1: から始まります）"></textarea>
+  <div class="links"><button type="button" class="btn" id="bkload">読みこむ</button></div>
+  <p class="m" style="margin-top:14px">※ コードには、あなたの推しや申込状況が入っています。ほかの人には見せないでね。</p>
+  </div>${foot('')}`;
+}
 // チケットの受付期間（先行・一般など）
 const md=d=>{const i=dinfo(d);return i?`${i.mo}/${i.dy}`:''};
 const liveSales=o=>{const t=todayJ(),a=(o.sales||[]).filter(s=>s&&(s.start||s.end));const open=a.filter(s=>!(s.end&&s.end<t));return (open.length?open:a).slice(0,4)};
@@ -458,7 +513,7 @@ function card(e,i){
   ${salesHtml(e)}
   ${links(e)}${stRow(keyOf(e),snapE(e))}</div></article>`}
 let TAB='all';
-try{const t=localStorage.tab2;if(['live','fes','mine','cal'].includes(t))TAB=t}catch{}
+try{const t=localStorage.tab2;if(['live','fes','mine','cal','help'].includes(t))TAB=t}catch{}
 const nzT=s=>String(s||'').toLowerCase().replace(/[\s'’"「」『』（）()【】!！?？・~〜-]/g,'');
 const fesHit=(fn,en)=>fn.length>=4&&en.length>=4&&(en.includes(fn)||fn.includes(en)||en.includes(fn.slice(0,Math.max(4,fn.length-2))));
 // カタログ（事前収集した出演者）から、フェスごとの出演者を引けるようにする
@@ -492,7 +547,7 @@ const upd=()=>DB.updated?new Date(DB.updated).toLocaleString('ja-JP',{month:'num
 const foot=t=>`<div class="foot">最終更新 ${esc(upd())}<br>${t}</div>`;
 const MON=['JAN','FEB','MAR','APR','MAY','JUN','JUL','AUG','SEP','OCT','NOV','DEC'];
 const monHead=k=>{const [y,m]=k.split('-');return `<div class="mon" id="m-${k}"><span class="bb n">${+m}</span><span class="j">月</span><span class="y">${MON[+m-1]} ${y}</span></div>`};
-const HERO={all:['LIVE<br>&amp; FES','推しのライブ・フェスを、日付順にまとめてキャッチ'],live:['LIVE<br>SCHEDULE','推しのライブ・ツアーの予定'],cal:['MY<br>CALENDAR','行く予定と、行ったライブ・フェスの記録（過去の分も残ります）'],fes:['FESTIVAL<br>LINEUP','開催予定のフェスを、自動で集めています'],mine:['MY<br>LIST','申込状況を記録した公演・フェス']};
+const HERO={all:['LIVE<br>&amp; FES','推しのライブ・フェスを、日付順にまとめてキャッチ'],live:['LIVE<br>SCHEDULE','推しのライブ・ツアーの予定'],help:['HOW<br>TO USE','はじめて使う人へ。使い方と、記録の引き継ぎ方'],cal:['MY<br>CALENDAR','行く予定と、行ったライブ・フェスの記録（過去の分も残ります）'],fes:['FESTIVAL<br>LINEUP','開催予定のフェスを、自動で集めています'],mine:['MY<br>LIST','申込状況を記録した公演・フェス']};
 const PH={fes:'フェス名・地名で探す',mine:'公演名・アーティストで探す'};
 // 表示する項目を組み立てる（ライブとフェスを1本の時間順に）
 function build(tab,q,today){
@@ -532,7 +587,7 @@ function render(){
   $('#hero').innerHTML=h1;$('#herosub').textContent=sub;
   $('#q').placeholder=PH[TAB]||'会場・公演名・地名で探す';
   const sb=document.querySelector('.search');
-  if(TAB==='cal'){$('#chips').style.display='none';$('#ctog').hidden=true;sb.style.display='none';return renderCal()}
+  if(TAB==='cal'||TAB==='help'){$('#chips').style.display='none';$('#ctog').hidden=true;sb.style.display='none';return TAB==='cal'?renderCal():renderHelp()}
   sb.style.display='';
   if(TAB==='fes'){$('#chips').style.display='none';$('#ctog').hidden=true}
   else{$('#chips').style.display='';foldChips()}
@@ -558,6 +613,10 @@ out.addEventListener('click',e=>{
   const cd=e.target.closest('[data-cd]');if(cd){CALD=cd.dataset.cd;renderCal();return}
   const cm=e.target.closest('[data-cm]');if(cm){const [y,m]=CALM.split('-').map(Number),n=new Date(Date.UTC(y,m-1+Number(cm.dataset.cm),1));CALM=n.toISOString().slice(0,7);CALD='';renderCal();return}
   if(e.target.closest('#icsbtn')){icsAll();return}
+  if(e.target.closest('#bkmake')){$('#bkout').value=bkMake();return}
+  if(e.target.closest('#bkcopy')){const t=$('#bkout');if(!t.value)t.value=bkMake();t.select();
+    (navigator.clipboard?navigator.clipboard.writeText(t.value):Promise.reject()).then(()=>toast('コピーしました。LINEなどに貼りつけて、自分に送っておいてください')).catch(()=>{try{document.execCommand('copy');toast('コピーしました')}catch{toast('コードを長おしして、コピーしてください')}});return}
+  if(e.target.closest('#bkload')){const er=bkLoad($('#bkin').value);if(er){toast(er);return}toast('読みこみました。推しと記録が引き継がれました');go('all');return}
 if(e.target.closest('[data-fx]')){e.preventDefault();FP=FP.filter(p=>Date.now()-p.t<=LATE&&!isRejected(p.n));saveFP();render()}});
 out.addEventListener('change',e=>{const s=e.target.closest('select.st');if(!s)return;
   const k=s.dataset.k,v=s.value;if(v)MY[k]=v;else delete MY[k];saveMy();if(v)refreshSnap();else{delete SNAP[k];saveSnap()}
