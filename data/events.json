@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T22:22:04+09:00",
+ "updated": "2026-10-23T07:30:00+09:00",
  "artists": [
   "04 Limited Sazabys",
   "ELLEGARDEN",
@@ -1478,6 +1478,18 @@
    "venue": "出島メッセ長崎（長崎）",
    "source_url": "https://coldrain.jp/blogs/live",
    "confidence": "high"
+  },
+  {
+   "artist": "ハルカミライ",
+   "title": "BLAZE UP NAGASAKI 2026（12/5・6のうち12/5）",
+   "kind": "フェス",
+   "venue": "出島メッセ長崎（長崎）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/word/0000038382",
+   "sale_info": "12/5・6の2日間。e+のSiMページに掲載（抽選）。出演者の公式発表は未確認",
+   "source_url": "https://barks.jp/news/1091706/",
+   "confidence": "high",
+   "date": "2026-12-05"
   },
   {
    "artist": "04 Limited Sazabys",
@@ -5008,9 +5020,57 @@
    "source_url": "https://spice.eplus.jp/articles/342587",
    "venue": "出島メッセ長崎",
    "lineup": [
-    "SHANK"
+    "SHANK",
+    "coldrain",
+    "ENTH",
+    "Fear, and Loathing in Las Vegas",
+    "G-FREAK FACTORY",
+    "Hump Back",
+    "SiM",
+    "The BONEZ",
+    "ハルカミライ",
+    "04 Limited Sazabys",
+    "10-FEET",
+    "Age Factory",
+    "dustbox",
+    "HEY-SMITH",
+    "SHADOWS",
+    "THE ORAL CIGARETTES",
+    "KUZIRA"
    ],
-   "lineup_checked": "2026-10-19"
+   "lineup_checked": "2026-10-23",
+   "lineup_days": {
+    "2026-12-05": [
+     "SHANK",
+     "coldrain",
+     "ENTH",
+     "Fear, and Loathing in Las Vegas",
+     "G-FREAK FACTORY",
+     "Hump Back",
+     "SiM",
+     "The BONEZ",
+     "ハルカミライ"
+    ],
+    "2026-12-06": [
+     "SHANK",
+     "04 Limited Sazabys",
+     "10-FEET",
+     "Age Factory",
+     "dustbox",
+     "HEY-SMITH",
+     "SHADOWS",
+     "THE ORAL CIGARETTES",
+     "KUZIRA"
+    ]
+   },
+   "sales": [
+    {
+     "label": "オフィシャル3次先行",
+     "start": "2026-09-28",
+     "end": "2026-10-12",
+     "note": "e+・抽選"
+    }
+   ]
   },
   {
    "name": "TOKYO DOOM FEST -WINTER Edition-",
