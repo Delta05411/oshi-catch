@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T20:30:00+09:00",
+ "updated": "2026-10-22T22:22:04+09:00",
  "artists": [
   "04 Limited Sazabys",
   "ELLEGARDEN",
@@ -835,6 +835,32 @@
    "sale_info": "6,050円（税込）＋ドリンク代。開場18:00／開演19:00"
   },
   {
+   "artist": "RADWIMPS",
+   "date": "2026-11-10",
+   "title": "RADWIMPS Official Fan Club Tour 2026 ユーリンチー \"おかわり\" 追加公演",
+   "kind": "ワンマン",
+   "venue": "ぴあアリーナMM（神奈川）",
+   "sale_info": "11/10・11/11の2日間。ボクンチ会員限定。開場18:00 開演19:00。9,900〜12,100円。完売",
+   "ticket_name": "ボクンチ（会員限定）",
+   "ticket_url": "https://radwimps.jp/yurinchi/",
+   "sales": [
+    {
+     "label": "ボクンチ会員1次受付",
+     "start": "2026-07-24",
+     "end": "2026-08-03",
+     "note": "抽選 12:00〜23:59"
+    },
+    {
+     "label": "ボクンチ会員2次受付",
+     "start": "2026-08-21",
+     "end": "2026-08-27",
+     "note": "抽選 12:00〜23:59"
+    }
+   ],
+   "source_url": "https://radwimps.jp/news/16474/",
+   "confidence": "high"
+  },
+  {
    "artist": "ORAL CIGARETTES",
    "date": "2026-11-11",
    "title": "WANDER ABOUT 放浪 TOUR 2026 関東編",
@@ -858,6 +884,32 @@
    "source_url": "https://realsound.jp/2026/05/post-2389827.html",
    "confidence": "high",
    "sale_info": "6,050円（税込）＋ドリンク代。開場18:00／開演19:00"
+  },
+  {
+   "artist": "RADWIMPS",
+   "date": "2026-11-11",
+   "title": "RADWIMPS Official Fan Club Tour 2026 ユーリンチー \"おかわり\" 追加公演",
+   "kind": "ワンマン",
+   "venue": "ぴあアリーナMM（神奈川）",
+   "sale_info": "11/10・11/11の2日間。ボクンチ会員限定。開場18:00 開演19:00。9,900〜12,100円。完売",
+   "ticket_name": "ボクンチ（会員限定）",
+   "ticket_url": "https://radwimps.jp/yurinchi/",
+   "sales": [
+    {
+     "label": "ボクンチ会員1次受付",
+     "start": "2026-07-24",
+     "end": "2026-08-03",
+     "note": "抽選 12:00〜23:59"
+    },
+    {
+     "label": "ボクンチ会員2次受付",
+     "start": "2026-08-21",
+     "end": "2026-08-27",
+     "note": "抽選 12:00〜23:59"
+    }
+   ],
+   "source_url": "https://radwimps.jp/news/16474/",
+   "confidence": "high"
   },
   {
    "artist": "ORAL CIGARETTES",
