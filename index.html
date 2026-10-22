@@ -135,7 +135,9 @@ details.lu i{font-style:normal;color:var(--line2);margin:0 6px}
 #addform p{margin:8px 0 18px;font-size:12.5px;color:var(--sub)}
 .row{display:flex;gap:14px;align-items:flex-end}
 #addname{flex:1;min-width:0;font-size:16px;color:var(--fg);background:transparent;border:0;border-bottom:1px solid var(--line2);border-radius:0;padding:10px 0;outline:none}
-#addname:focus{border-bottom-color:var(--w)}
+#addname:focus,#addhint:focus{border-bottom-color:var(--w)}
+#addhint{flex:1;min-width:0;font-size:16px;color:var(--fg);background:transparent;border:0;border-bottom:1px solid var(--line2);border-radius:0;padding:10px 0;outline:none}
+#hintrow{margin-top:6px}
 #addgo{font-family:"Bebas Neue",sans-serif;font-size:22px;letter-spacing:.08em;color:var(--bg);background:var(--w);padding:4px 24px 2px;border-radius:2px}
 #addgo:disabled{opacity:.5}
 #pick{margin-top:18px}
@@ -212,9 +214,10 @@ details.lu i{font-style:normal;color:var(--line2);margin:0 6px}
   <form id="addform">
     <button type="button" class="x" data-close aria-label="閉じる">×</button>
     <h2 class="bb">ADD ARTIST</h2>
-    <div id="amode"><button type="button" data-m="a" class="on">ARTIST</button><button type="button" data-m="f">FES</button></div>
+    <div id="amode"><button type="button" data-m="a" class="on">ARTIST</button><button type="button" data-m="l">LIVE</button><button type="button" data-m="f">FES</button></div>
     <p id="addhelp">候補から選ぶと、すぐ表示されます。候補にない人は調べるので、1〜3分ほどかかります。</p>
     <div class="row"><input id="addname" list="sug" maxlength="60" placeholder="アーティスト名" autocomplete="off" enterkeyhint="send"><datalist id="sug"></datalist><button id="addgo" type="submit">ADD</button></div>
+    <div class="row" id="hintrow" hidden><input id="addhint" maxlength="40" placeholder="日付や公演名（例：11/10,11 ワンマン）" autocomplete="off" enterkeyhint="send"></div>
     <div id="pick"></div>
   </form>
 </div>
@@ -334,8 +337,33 @@ const findFes=name=>{const k=nzT(name);if(k.length<3)return null;
 const pickList=()=>DB.artists.filter(a=>!(MYART&&MYART.has(a)));
 function setMode(m){ADDMODE=m;document.querySelectorAll('#amode button').forEach(b=>b.classList.toggle('on',b.dataset.m===m));
   $('#addname').placeholder=m==='f'?'フェス名（例：RADIO CRAZY）':'アーティスト名';
-  $('#addhelp').textContent=m==='f'?'フェスの名前を入れてください。調べて、日程・出演者・受付期間を追加します（1〜3分）。':'候補から選ぶと、すぐ表示されます。候補にない人は調べるので、1〜3分ほどかかります。';
-  $('#pick').style.display=m==='f'?'none':''}
+  $('#addhelp').textContent=m==='f'?'フェスの名前を入れてください。調べて、日程・出演者・受付期間を追加します（1〜3分）。':m==='l'?'載っていない単独ライブ（ワンマン・ツアーなど）を追加します。アーティスト名と、分かる範囲の日付・公演名を入れてください。調べて、会場・チケット・受付期間を追加します（1〜3分）。':'候補から選ぶと、すぐ表示されます。候補にない人は調べるので、1〜3分ほどかかります。';
+  $('#hintrow').hidden=m!=='l';
+  $('#pick').style.display=m==='a'?'':'none'}
+let LV=[];try{LV=JSON.parse(localStorage.lpend||'[]')}catch{}
+const saveLV=()=>{try{localStorage.lpend=JSON.stringify(LV)}catch{}};
+const liveNote=()=>{LV=LV.filter(p=>Date.now()-p.t<=LATE);const w=LV.filter(p=>Date.now()-p.t<=20*60*1000);
+  return w.length?`<div class="note"><i class="spin"></i><div>ライブ <b>${esc(w.map(p=>p.n+(p.h?'（'+p.h+'）':'')).join('、'))}</b> を調べています（通常1〜3分。閉じても大丈夫です）。見つからなかったときは、日付や公演名を足してもう一度お試しください。</div></div>`:''};
+async function addLive(name,hint){
+  name=name.trim().replace(/\s+/g,' ').slice(0,40);hint=hint.trim().replace(/\s+/g,' ').slice(0,40);
+  if(!name){toast('アーティスト名を入れてください');return}
+  if(/https?:|@|[\r\n｜|]/i.test(name+hint)){toast('名前と日付だけを入力してください（URLや記号は使えません）');return}
+  if(LV.some(p=>nzName(p.n)===nzName(name)&&p.h===hint&&Date.now()-p.t<=20*60*1000)){toast('「'+name+'」のライブは調査中です。しばらくお待ちください');return}
+  if(LV.filter(p=>Date.now()-p.t<=20*60*1000).length>=3){toast('一度に追加できるライブは3件までです。反映されてから追加してください');return}
+  const ex=findArtist(name);
+  if(!ex&&isRejected(name)){toast('「'+name+'」は登録できませんでした（音楽・ライブ活動が確認できない名前）。正式名称でお試しください');return}
+  $('#addgo').disabled=true;
+  try{
+    const nm=ex||name;
+    await fetch(FORM_POST,{method:'POST',mode:'no-cors',headers:{'Content-Type':'application/x-www-form-urlencoded'},body:ENTRY+'='+encodeURIComponent('【ライブ】'+nm+(hint?'｜'+hint:''))});
+    LV.push({n:nm,h:hint,t:Date.now()});saveLV();
+    if(ex)addMy(ex);else if(!pend.some(p=>nzName(p.n)===nzName(nm))){pend.push({n:nm,t:Date.now()});savePend()}
+    $('#addname').value='';$('#addhint').value='';openAdd(false);
+    if(ex){sel=new Set([ex]);try{localStorage.sel=JSON.stringify([...sel])}catch{}}
+    go('all');toast('「'+nm+'」のライブを受け付けました。調べています…（通常1〜3分）');load(false);
+  }catch(e){toast('送信できませんでした。通信を確認してもう一度お試しください')}
+  $('#addgo').disabled=false;
+}
 function openAdd(on){const b=$('#addbox');b.hidden=!on;
   if(on){setMode(ADDMODE);const pk=pickList();$('#pick').innerHTML=pk.length?`<div class="pk">みんなの推しから選ぶ（タップで追加）</div><div class="chips">${pk.map(a=>`<button type="button" class="chip" data-pick="${esc(a)}" style="--h:${hue(a)}"><i class="dot"></i>${esc(a)}</button>`).join('')}</div>`:'';
     setTimeout(()=>$('#addname').focus(),80)}}
@@ -358,6 +386,7 @@ async function addArtist(name){
   name=name.trim().replace(/\s+/g,' ').slice(0,60);
   if(!name)return;
   if(ADDMODE==='f'&&!arguments[1])return addFes(name);
+  if(ADDMODE==='l'&&!arguments[1])return addLive(name,$('#addhint').value);
   if(/https?:|@|[\r\n]/i.test(name)){toast('名前だけを入力してください');return}
   const ex=findArtist(name);
   if(ex){const had=MYART&&MYART.has(ex);addMy(ex);toast(had?'「'+ex+'」はすでに追加済みです':'「'+ex+'」を追加しました');$('#addname').value='';openAdd(false);sel=new Set([ex]);try{localStorage.sel=JSON.stringify([...sel])}catch{}go('all');return}
@@ -605,7 +634,7 @@ function render(){
   const ms=[...new Set(list.map(x=>(x.d||'').slice(0,7)).filter(k=>/^\d{4}-\d\d$/.test(k)))];
   const mnav=ms.length>1?`<div id="mnav">${ms.map((k,i)=>`<button data-mj="${k}">${+k.slice(5)}月${i===0||k.slice(0,4)!==ms[i-1].slice(0,4)?`<small>${k.slice(2,4)}</small>`:''}</button>`).join('')}</div>`:'';
   const past=TAB==='mine'?pastHtml():'';
-  out.innerHTML=mnav+(list.length?`${TAB==='mine'?'':dueNote()}<div class="count">${cnt}</div>${h}`:(TAB==='mine'&&past?'':dueNote()+none))+past+fesNote()+(TAB==='fes'?'':pendNote())+
+  out.innerHTML=mnav+(list.length?`${TAB==='mine'?'':dueNote()}<div class="count">${cnt}</div>${h}`:(TAB==='mine'&&past?'':dueNote()+none))+past+fesNote()+liveNote()+(TAB==='fes'?'':pendNote())+
     foot(TAB==='fes'?'情報は自動収集です。最新の発表は公式サイトでご確認ください':'AIによる自動収集です。受付期間・購入前に、必ず公式の情報をご確認ください');
 }
 out.addEventListener('click',e=>{
@@ -669,7 +698,7 @@ function load(first){
 }
 load(true).then(loadCat);
 // 調べている推しがあるうちは15秒ごと、ないときは5分ごとに最新へ
-(function tick(){setTimeout(()=>{if(!document.hidden)load(false);tick()},pend.concat(FP).some(p=>Date.now()-p.t<=LATE)?15*1000:5*60*1000)})();
+(function tick(){setTimeout(()=>{if(!document.hidden)load(false);tick()},pend.concat(FP,LV).some(p=>Date.now()-p.t<=LATE)?15*1000:5*60*1000)})();
 document.addEventListener('visibilitychange',()=>{if(!document.hidden)load(false)}); // 戻ってきたときも最新へ
 if('serviceWorker'in navigator)navigator.serviceWorker.register('sw.js').catch(()=>{});
 </script>
