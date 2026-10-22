@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T17:09:27+09:00",
+ "updated": "2026-10-22T20:30:00+09:00",
  "artists": [
   "04 Limited Sazabys",
   "ELLEGARDEN",
@@ -27,59 +27,6 @@
   "UNISON SQUARE GARDEN"
  ],
  "events": [
-  {
-   "artist": "TenTwenty",
-   "date": "2026-10-20",
-   "title": "TenTwenty ONEMAN LIVE",
-   "kind": "ワンマン",
-   "venue": "SGC HALL ARIAKE（東京）",
-   "ticket_name": "イープラス",
-   "ticket_url": "https://eplus.jp/tentwenty/",
-   "sale_info": "開場17:30 開演18:30 / スマチケ",
-   "sales": [
-    {
-     "label": "先着一般発売",
-     "start": "2026-09-05",
-     "end": "2026-10-19",
-     "note": "10:00開始〜23:59締切"
-    }
-   ],
-   "source_url": "https://eplus.jp/tentwenty/",
-   "confidence": "high"
-  },
-  {
-   "artist": "04 Limited Sazabys",
-   "date": "2026-10-21",
-   "title": "ONE MAN TOUR 2026",
-   "kind": "ワンマン",
-   "venue": "Zepp Haneda（東京）",
-   "sale_info": "10/21・22の2日間",
-   "source_url": "https://bestcalendar.jp/press/121082",
-   "confidence": "high"
-  },
-  {
-   "artist": "ROTTENGRAFFTY",
-   "date": "2026-10-21",
-   "title": "響都超特急TOUR2026",
-   "kind": "対バン",
-   "venue": "長野CLUB JUNK BOX（長野県）",
-   "ticket_name": "イープラス",
-   "ticket_url": "https://eplus.jp/sf/detail/0069680001",
-   "sale_info": "先着一般発売 予定枚数終了",
-   "source_url": "https://eplus.jp/sf/detail/0069680001",
-   "confidence": "high",
-   "with": "ENTH"
-  },
-  {
-   "artist": "coldrain",
-   "date": "2026-10-21",
-   "title": "OPTIMIZE = OPTDEMISE JAPAN TOUR 2026",
-   "kind": "ワンマン",
-   "venue": "PENNY LANE24（北海道）",
-   "sale_info": "スタンディング6,800円（税込・別途ドリンク代）／開場18:00／開演19:00",
-   "source_url": "https://coldrain.jp/blogs/live",
-   "confidence": "high"
-  },
   {
    "artist": "04 Limited Sazabys",
    "date": "2026-10-22",
@@ -228,6 +175,18 @@
    "confidence": "low"
   },
   {
+   "artist": "Wienners",
+   "date": "2026-10-24",
+   "title": "Wienners OVER THE TOP TOUR 2026",
+   "kind": "ワンマン",
+   "venue": "F.A.D YOKOHAMA（神奈川）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/word/0000033997",
+   "sale_info": "開場17:30/開演18:00",
+   "source_url": "https://wienners.net/",
+   "confidence": "high"
+  },
+  {
    "artist": "マキシマム ザ ホルモン",
    "date": "2026-10-24",
    "title": "OSAKA HAZIKETEMAZARE FESTIVAL 2026",
@@ -250,18 +209,6 @@
    "date": "2026-10-24",
    "venue": "Zepp Sapporo（北海道）",
    "sale_info": "6,050円（税込）＋ドリンク代。開場17:00／開演18:00"
-  },
-  {
-   "artist": "Wienners",
-   "date": "2026-10-24",
-   "title": "Wienners OVER THE TOP TOUR 2026",
-   "kind": "ワンマン",
-   "venue": "F.A.D YOKOHAMA（神奈川）",
-   "ticket_name": "イープラス",
-   "ticket_url": "https://eplus.jp/sf/word/0000033997",
-   "sale_info": "開場17:30/開演18:00",
-   "source_url": "https://wienners.net/",
-   "confidence": "high"
   },
   {
    "artist": "HEY-SMITH",
@@ -419,6 +366,18 @@
    "with": "w.o.d."
   },
   {
+   "artist": "Wienners",
+   "date": "2026-10-31",
+   "title": "Wienners OVER THE TOP TOUR 2026",
+   "kind": "対バン",
+   "venue": "梅田CLUB QUATTRO（大阪）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/word/0000033997",
+   "sale_info": "開場17:00/開演18:00",
+   "source_url": "https://wienners.net/",
+   "confidence": "high"
+  },
+  {
    "artist": "[Alexandros]",
    "date": "2026-10-31",
    "title": "[Alexandros] presents THIS FES'26 in Sagamihara（10/31）",
@@ -447,18 +406,6 @@
    "confidence": "high"
   },
   {
-   "artist": "Wienners",
-   "date": "2026-10-31",
-   "title": "Wienners OVER THE TOP TOUR 2026",
-   "kind": "対バン",
-   "venue": "梅田CLUB QUATTRO（大阪）",
-   "ticket_name": "イープラス",
-   "ticket_url": "https://eplus.jp/sf/word/0000033997",
-   "sale_info": "開場17:00/開演18:00",
-   "source_url": "https://wienners.net/",
-   "confidence": "high"
-  },
-  {
    "artist": "ハルカミライ",
    "date": "2026-10-31",
    "title": "ハルカミライ ライブ",
@@ -480,13 +427,13 @@
    "confidence": "high"
   },
   {
-   "artist": "マキシマム ザ ホルモン",
+   "artist": "Wienners",
    "date": "2026-11-01",
-   "title": "ONAGAWA COTTELEEZUN（女川町町制施行100周年記念祭）",
-   "kind": "フェス",
-   "venue": "女川町総合運動場（宮城）",
-   "sale_info": "10/31・11/1の開催。ホルモンは報道ベースで要確認",
-   "source_url": "https://natalie.mu/music/news/691796",
+   "title": "BE WONDERFUL!!",
+   "kind": "イベント",
+   "venue": "とよはし産業人材育成センター（愛知）",
+   "sale_info": "公式サイト記載。詳細未確認",
+   "source_url": "https://wienners.net/",
    "confidence": "low"
   },
   {
@@ -528,13 +475,13 @@
    "confidence": "high"
   },
   {
-   "artist": "Wienners",
+   "artist": "マキシマム ザ ホルモン",
    "date": "2026-11-01",
-   "title": "BE WONDERFUL!!",
-   "kind": "イベント",
-   "venue": "とよはし産業人材育成センター（愛知）",
-   "sale_info": "公式サイト記載。詳細未確認",
-   "source_url": "https://wienners.net/",
+   "title": "ONAGAWA COTTELEEZUN（女川町町制施行100周年記念祭）",
+   "kind": "フェス",
+   "venue": "女川町総合運動場（宮城）",
+   "sale_info": "10/31・11/1の開催。ホルモンは報道ベースで要確認",
+   "source_url": "https://natalie.mu/music/news/691796",
    "confidence": "low"
   },
   {
@@ -681,18 +628,6 @@
    "confidence": "high"
   },
   {
-   "artist": "ヤバイTシャツ屋さん",
-   "date": "2026-11-05",
-   "title": "\"Magical Tank-top Parade\" ONE-MAN TOUR 2026",
-   "kind": "ワンマン",
-   "venue": "Zepp Haneda（東京）",
-   "ticket_name": "ローソンチケット",
-   "ticket_url": "https://l-tike.com/yabaitshirtsyasan/t",
-   "source_url": "https://realsound.jp/2026/05/post-2389827.html",
-   "confidence": "high",
-   "sale_info": "6,050円（税込）＋ドリンク代。開場18:00／開演19:00"
-  },
-  {
    "artist": "ハルカミライ",
    "date": "2026-11-05",
    "title": "ハルカミライ ライブ",
@@ -703,6 +638,18 @@
    "sale_info": "18:30開演/17:30開場（公演名・料金は要確認）",
    "source_url": "https://eplus.jp/sf/word/0000069733",
    "confidence": "low"
+  },
+  {
+   "artist": "ヤバイTシャツ屋さん",
+   "date": "2026-11-05",
+   "title": "\"Magical Tank-top Parade\" ONE-MAN TOUR 2026",
+   "kind": "ワンマン",
+   "venue": "Zepp Haneda（東京）",
+   "ticket_name": "ローソンチケット",
+   "ticket_url": "https://l-tike.com/yabaitshirtsyasan/t",
+   "source_url": "https://realsound.jp/2026/05/post-2389827.html",
+   "confidence": "high",
+   "sale_info": "6,050円（税込）＋ドリンク代。開場18:00／開演19:00"
   },
   {
    "artist": "ORAL CIGARETTES",
@@ -792,16 +739,6 @@
    "confidence": "high"
   },
   {
-   "artist": "マキシマム ザ ホルモン",
-   "date": "2026-11-07",
-   "title": "AIR JAM 2026",
-   "kind": "フェス",
-   "venue": "ZOZOマリンスタジアム（千葉県）",
-   "sale_info": "Hi-STANDARD主催・ヘッドライナー。公式サイトにSOLDOUT表示あり",
-   "source_url": "https://airjam.jp/",
-   "confidence": "high"
-  },
-  {
    "artist": "SiM",
    "date": "2026-11-07",
    "title": "STORMY DUDES FESTA",
@@ -831,15 +768,14 @@
    "confidence": "low"
   },
   {
-   "artist": "サンボマスター",
-   "date": "2026-11-08",
-   "title": "MONGOL800 ga FESTIVAL What a Wonderful World!!（11/8）",
+   "artist": "マキシマム ザ ホルモン",
+   "date": "2026-11-07",
+   "title": "AIR JAM 2026",
    "kind": "フェス",
-   "venue": "宜野湾港マリーナ・トロピカルビーチ（沖縄）",
-   "ticket_name": "イープラス",
-   "ticket_url": "https://eplus.jp/sf/word/0000002764",
-   "source_url": "https://eplus.jp/sf/word/0000002764",
-   "confidence": "low"
+   "venue": "ZOZOマリンスタジアム（千葉県）",
+   "sale_info": "Hi-STANDARD主催・ヘッドライナー。公式サイトにSOLDOUT表示あり",
+   "source_url": "https://airjam.jp/",
+   "confidence": "high"
   },
   {
    "artist": "coldrain",
@@ -849,6 +785,17 @@
    "venue": "觀夕平台旁大草皮（台湾）",
    "source_url": "https://coldrain.jp/blogs/live",
    "confidence": "high"
+  },
+  {
+   "artist": "サンボマスター",
+   "date": "2026-11-08",
+   "title": "MONGOL800 ga FESTIVAL What a Wonderful World!!（11/8）",
+   "kind": "フェス",
+   "venue": "宜野湾港マリーナ・トロピカルビーチ（沖縄）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/word/0000002764",
+   "source_url": "https://eplus.jp/sf/word/0000002764",
+   "confidence": "low"
   },
   {
    "artist": "ORAL CIGARETTES",
@@ -864,18 +811,6 @@
    "confidence": "high"
   },
   {
-   "artist": "ヤバイTシャツ屋さん",
-   "date": "2026-11-10",
-   "title": "\"Magical Tank-top Parade\" ONE-MAN TOUR 2026",
-   "kind": "ワンマン",
-   "venue": "Zepp Haneda（東京）",
-   "ticket_name": "ローソンチケット",
-   "ticket_url": "https://l-tike.com/yabaitshirtsyasan/t",
-   "source_url": "https://realsound.jp/2026/05/post-2389827.html",
-   "confidence": "high",
-   "sale_info": "6,050円（税込）＋ドリンク代。開場18:00／開演19:00"
-  },
-  {
    "artist": "Wienners",
    "date": "2026-11-10",
    "title": "Wienners 振替公演",
@@ -886,6 +821,18 @@
    "sale_info": "開場18:30/開演19:00（10/4公演の振替）",
    "source_url": "https://eplus.jp/sf/word/0000033997",
    "confidence": "low"
+  },
+  {
+   "artist": "ヤバイTシャツ屋さん",
+   "date": "2026-11-10",
+   "title": "\"Magical Tank-top Parade\" ONE-MAN TOUR 2026",
+   "kind": "ワンマン",
+   "venue": "Zepp Haneda（東京）",
+   "ticket_name": "ローソンチケット",
+   "ticket_url": "https://l-tike.com/yabaitshirtsyasan/t",
+   "source_url": "https://realsound.jp/2026/05/post-2389827.html",
+   "confidence": "high",
+   "sale_info": "6,050円（税込）＋ドリンク代。開場18:00／開演19:00"
   },
   {
    "artist": "ORAL CIGARETTES",
@@ -1089,16 +1036,6 @@
    "with": "The Ravens"
   },
   {
-   "artist": "ヤバイTシャツ屋さん",
-   "date": "2026-11-18",
-   "title": "Wienners OVER THE TOP TOUR 2026（名古屋）",
-   "kind": "対バン",
-   "venue": "名古屋CLUB QUATTRO（愛知）",
-   "sale_info": "Wienners対バンツアー。出演日は報道ベース、公式で要確認",
-   "source_url": "https://natalie.mu/music/news/686462",
-   "confidence": "low"
-  },
-  {
    "artist": "Wienners",
    "date": "2026-11-18",
    "title": "Wienners OVER THE TOP TOUR 2026",
@@ -1108,6 +1045,16 @@
    "ticket_url": "https://eplus.jp/sf/word/0000033997",
    "sale_info": "開場18:00/開演19:00",
    "source_url": "https://eplus.jp/sf/word/0000033997",
+   "confidence": "low"
+  },
+  {
+   "artist": "ヤバイTシャツ屋さん",
+   "date": "2026-11-18",
+   "title": "Wienners OVER THE TOP TOUR 2026（名古屋）",
+   "kind": "対バン",
+   "venue": "名古屋CLUB QUATTRO（愛知）",
+   "sale_info": "Wienners対バンツアー。出演日は報道ベース、公式で要確認",
+   "source_url": "https://natalie.mu/music/news/686462",
    "confidence": "low"
   },
   {
@@ -1360,15 +1307,6 @@
    "confidence": "high"
   },
   {
-   "artist": "あいみょん",
-   "date": "2026-12-01",
-   "title": "AIMYON 10th anniversary LIVE 2026「、、、」IN 日本武道館",
-   "kind": "ワンマン",
-   "venue": "日本武道館（東京）",
-   "source_url": "https://realsound.jp/2026/07/post-2462631.html",
-   "confidence": "high"
-  },
-  {
    "artist": "coldrain",
    "date": "2026-12-01",
    "title": "OPTIMIZE = OPTDEMISE JAPAN TOUR 2026",
@@ -1376,6 +1314,15 @@
    "venue": "なんばHatch（大阪）",
    "sale_info": "スタンディング6,800円（税込・別途ドリンク代）／開場18:00／開演19:00",
    "source_url": "https://coldrain.jp/blogs/live",
+   "confidence": "high"
+  },
+  {
+   "artist": "あいみょん",
+   "date": "2026-12-01",
+   "title": "AIMYON 10th anniversary LIVE 2026「、、、」IN 日本武道館",
+   "kind": "ワンマン",
+   "venue": "日本武道館（東京）",
+   "source_url": "https://realsound.jp/2026/07/post-2462631.html",
    "confidence": "high"
   },
   {
@@ -1667,6 +1614,15 @@
    "confidence": "high"
   },
   {
+   "artist": "a flood of circle",
+   "date": "2026-12-18",
+   "title": "a flood of circle TOUR 革命未遂の蝶が見る夢",
+   "kind": "ワンマン",
+   "venue": "広島SECOND CRUTCH（広島県）",
+   "source_url": "https://realsound.jp/2026/05/post-2386759.html",
+   "confidence": "high"
+  },
+  {
    "artist": "マキシマム ザ ホルモン",
    "date": "2026-12-18",
    "title": "対バンツアー「ザ・ホルモネア」",
@@ -1675,15 +1631,6 @@
    "sale_info": "ゲストは後日発表",
    "source_url": "https://natalie.mu/music/news/684366",
    "confidence": "low"
-  },
-  {
-   "artist": "a flood of circle",
-   "date": "2026-12-18",
-   "title": "a flood of circle TOUR 革命未遂の蝶が見る夢",
-   "kind": "ワンマン",
-   "venue": "広島SECOND CRUTCH（広島県）",
-   "source_url": "https://realsound.jp/2026/05/post-2386759.html",
-   "confidence": "high"
   },
   {
    "artist": "Mrs. GREEN APPLE",
@@ -1756,6 +1703,46 @@
    "title": "FM802 ROCK FESTIVAL RADIO CRAZY 2026（12/26）"
   },
   {
+   "artist": "ハルカミライ",
+   "date": "2026-12-26",
+   "title": "FM802 ROCK FESTIVAL RADIO CRAZY 2026（12/26）",
+   "kind": "フェス",
+   "venue": "INTEX大阪（大阪）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/radiocrazy2026/",
+   "sale_info": "1日券13,500円 / 開場10:00 開演11:00",
+   "sales": [
+    {
+     "label": "オフィシャル3次抽選",
+     "start": "2026-10-15",
+     "end": "2026-10-25",
+     "note": "21:00開始〜23:59締切"
+    }
+   ],
+   "source_url": "https://eplus.jp/radiocrazy2026/",
+   "confidence": "high"
+  },
+  {
+   "artist": "ヤバイTシャツ屋さん",
+   "date": "2026-12-26",
+   "title": "FM802 ROCK FESTIVAL RADIO CRAZY 2026（12/26）",
+   "kind": "フェス",
+   "venue": "INTEX大阪（大阪）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/radiocrazy2026/",
+   "sale_info": "1日券13,500円 / 開場10:00 開演11:00",
+   "sales": [
+    {
+     "label": "オフィシャル3次抽選",
+     "start": "2026-10-15",
+     "end": "2026-10-25",
+     "note": "21:00開始〜23:59締切"
+    }
+   ],
+   "source_url": "https://eplus.jp/radiocrazy2026/",
+   "confidence": "high"
+  },
+  {
    "artist": "Mrs. GREEN APPLE",
    "date": "2026-12-27",
    "title": "Mrs. GREEN APPLE Ringo Jam Tour “SHADOWS”",
@@ -1784,7 +1771,7 @@
    ]
   },
   {
-   "artist": "ヤバイTシャツ屋さん",
+   "artist": "サンボマスター",
    "date": "2026-12-27",
    "title": "COUNTDOWN JAPAN 26/27（12/27）",
    "kind": "フェス",
@@ -1802,7 +1789,7 @@
    ]
   },
   {
-   "artist": "サンボマスター",
+   "artist": "ヤバイTシャツ屋さん",
    "date": "2026-12-27",
    "title": "COUNTDOWN JAPAN 26/27（12/27）",
    "kind": "フェス",
@@ -1870,7 +1857,27 @@
    "confidence": "high"
   },
   {
-   "artist": "マキシマム ザ ホルモン",
+   "artist": "SiM",
+   "date": "2026-12-28",
+   "title": "FM802 ROCK FESTIVAL RADIO CRAZY 2026（12/28）",
+   "kind": "フェス",
+   "venue": "INTEX大阪（大阪）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/radiocrazy2026/",
+   "sale_info": "1日券13,500円 / 開場10:00 開演11:00",
+   "sales": [
+    {
+     "label": "オフィシャル3次抽選",
+     "start": "2026-10-15",
+     "end": "2026-10-25",
+     "note": "21:00開始〜23:59締切"
+    }
+   ],
+   "source_url": "https://eplus.jp/radiocrazy2026/",
+   "confidence": "high"
+  },
+  {
+   "artist": "TenTwenty",
    "date": "2026-12-28",
    "title": "FM802 ROCK FESTIVAL RADIO CRAZY 2026（12/28）",
    "kind": "フェス",
@@ -1899,7 +1906,7 @@
    "confidence": "high"
   },
   {
-   "artist": "TenTwenty",
+   "artist": "サンボマスター",
    "date": "2026-12-28",
    "title": "FM802 ROCK FESTIVAL RADIO CRAZY 2026（12/28）",
    "kind": "フェス",
@@ -1920,21 +1927,23 @@
   },
   {
    "artist": "マキシマム ザ ホルモン",
-   "date": "2026-12-29",
-   "title": "COUNTDOWN JAPAN 26/27（12/29）",
+   "date": "2026-12-28",
+   "title": "FM802 ROCK FESTIVAL RADIO CRAZY 2026（12/28）",
    "kind": "フェス",
-   "venue": "幕張メッセ 国際展示場（千葉）",
-   "sale_info": "第1弾出演者（日別発表）。第1次抽選先行 10/14〜10/20 16:00（公式アプリ「Jフェス」）",
-   "source_url": "https://festival-life.com/168983",
-   "confidence": "high",
+   "venue": "INTEX大阪（大阪）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/radiocrazy2026/",
+   "sale_info": "1日券13,500円 / 開場10:00 開演11:00",
    "sales": [
     {
-     "label": "第1次抽選先行",
-     "start": "2026-10-14",
-     "end": "2026-10-20",
-     "note": "12:15開始〜16:00締切 / 公式アプリ「Jフェス」のみ"
+     "label": "オフィシャル3次抽選",
+     "start": "2026-10-15",
+     "end": "2026-10-25",
+     "note": "21:00開始〜23:59締切"
     }
-   ]
+   ],
+   "source_url": "https://eplus.jp/radiocrazy2026/",
+   "confidence": "high"
   },
   {
    "artist": "SiM",
@@ -1955,7 +1964,25 @@
    ]
   },
   {
-   "artist": "10-FEET",
+   "artist": "マキシマム ザ ホルモン",
+   "date": "2026-12-29",
+   "title": "COUNTDOWN JAPAN 26/27（12/29）",
+   "kind": "フェス",
+   "venue": "幕張メッセ 国際展示場（千葉）",
+   "sale_info": "第1弾出演者（日別発表）。第1次抽選先行 10/14〜10/20 16:00（公式アプリ「Jフェス」）",
+   "source_url": "https://festival-life.com/168983",
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "第1次抽選先行",
+     "start": "2026-10-14",
+     "end": "2026-10-20",
+     "note": "12:15開始〜16:00締切 / 公式アプリ「Jフェス」のみ"
+    }
+   ]
+  },
+  {
+   "artist": "04 Limited Sazabys",
    "date": "2026-12-31",
    "title": "COUNTDOWN JAPAN 26/27（12/31）",
    "kind": "フェス",
@@ -1973,7 +2000,7 @@
    ]
   },
   {
-   "artist": "04 Limited Sazabys",
+   "artist": "10-FEET",
    "date": "2026-12-31",
    "title": "COUNTDOWN JAPAN 26/27（12/31）",
    "kind": "フェス",
@@ -3368,6 +3395,24 @@
    "confidence": "high"
   },
   {
+   "artist": "10-FEET",
+   "date": "2027-07-03",
+   "title": "京都大作戦2027（10-FEET主催）",
+   "kind": "フェス",
+   "venue": "京都府立山城総合運動公園 太陽が丘特設野外ステージ（京都府）",
+   "sale_info": "7/3・4・10・11の4日間開催。9:30開場/11:00開演",
+   "sales": [
+    {
+     "label": "はんなり会 超最速0次受付",
+     "start": "2026-10-03",
+     "end": "2026-10-12",
+     "note": "10/3 20:00〜10/12 23:59 / 年額会員制度「はんなり会」限定"
+    }
+   ],
+   "source_url": "https://kyoto-daisakusen.kyoto/27/",
+   "confidence": "high"
+  },
+  {
    "artist": "あいみょん",
    "date": "2027-07-03",
    "title": "AIMYON TOUR 2027",
@@ -3379,7 +3424,7 @@
   },
   {
    "artist": "10-FEET",
-   "date": "2027-07-03",
+   "date": "2027-07-04",
    "title": "京都大作戦2027（10-FEET主催）",
    "kind": "フェス",
    "venue": "京都府立山城総合運動公園 太陽が丘特設野外ステージ（京都府）",
@@ -3406,7 +3451,7 @@
   },
   {
    "artist": "10-FEET",
-   "date": "2027-07-04",
+   "date": "2027-07-10",
    "title": "京都大作戦2027（10-FEET主催）",
    "kind": "フェス",
    "venue": "京都府立山城総合運動公園 太陽が丘特設野外ステージ（京都府）",
@@ -3434,7 +3479,7 @@
   },
   {
    "artist": "10-FEET",
-   "date": "2027-07-10",
+   "date": "2027-07-11",
    "title": "京都大作戦2027（10-FEET主催）",
    "kind": "フェス",
    "venue": "京都府立山城総合運動公園 太陽が丘特設野外ステージ（京都府）",
@@ -3457,24 +3502,6 @@
    "kind": "ワンマン",
    "venue": "沖縄サントリーアリーナ（沖縄）",
    "source_url": "https://realsound.jp/2026/07/post-2462631.html",
-   "confidence": "high"
-  },
-  {
-   "artist": "10-FEET",
-   "date": "2027-07-11",
-   "title": "京都大作戦2027（10-FEET主催）",
-   "kind": "フェス",
-   "venue": "京都府立山城総合運動公園 太陽が丘特設野外ステージ（京都府）",
-   "sale_info": "7/3・4・10・11の4日間開催。9:30開場/11:00開演",
-   "sales": [
-    {
-     "label": "はんなり会 超最速0次受付",
-     "start": "2026-10-03",
-     "end": "2026-10-12",
-     "note": "10/3 20:00〜10/12 23:59 / 年額会員制度「はんなり会」限定"
-    }
-   ],
-   "source_url": "https://kyoto-daisakusen.kyoto/27/",
    "confidence": "high"
   }
  ],
@@ -5387,9 +5414,10 @@
     "マカロニえんぴつ",
     "マキシマム ザ ホルモン",
     "milet",
-    "Lucky Kilimanjaro"
+    "Lucky Kilimanjaro",
+    "YUKI"
    ],
-   "lineup_checked": "2026-10-19",
+   "lineup_checked": "2026-10-22",
    "sales": [
     {
      "label": "オフィシャル3次抽選",
@@ -5398,7 +5426,74 @@
      "note": "21:00開始〜23:59締切"
     }
    ],
-   "note": "12/26〜28 INTEX大阪。1日券13,500円。公式掲載分（and more）。26日:フォーリミ、28日:10-FEET・HEY-SMITH・ホルモン"
+   "note": "12/26〜28 INTEX大阪。1日券13,500円。公式掲載分（and more）。推し：26日 フォーリミ・ヤバT・ハルカミライ／28日 10-FEET・HEY-SMITH・ホルモン・サンボ・SiM・TenTwenty",
+   "lineup_days": {
+    "2026-12-26": [
+     "アイナ・ジ・エンド",
+     "ウルフルズ",
+     "HY",
+     "Omoinotake",
+     "go!go!vanillas",
+     "サバシスター",
+     "jo0ji",
+     "SCANDAL",
+     "sumika",
+     "Tele",
+     "東京スカパラダイスオーケストラ",
+     "ねぐせ。",
+     "ハルカミライ",
+     "Hump Back",
+     "ハンブレッダーズ",
+     "04 Limited Sazabys",
+     "マルシィ",
+     "ヤバイTシャツ屋さん",
+     "ヤングスキニー",
+     "UNICORN"
+    ],
+    "2026-12-27": [
+     "indigo la End",
+     "梅田サイファー",
+     "CLAN QUEEN",
+     "Creepy Nuts",
+     "クリープハイプ",
+     "くるり",
+     "Saucy Dog",
+     "スキマスイッチ",
+     "Chilli Beans.",
+     "This is LAST",
+     "なとり",
+     "にしな",
+     "PEOPLE 1",
+     "plenty",
+     "My Hair is Bad",
+     "山内総一郎",
+     "YUKI",
+     "緑黄色社会",
+     "レキシ",
+     "WurtS"
+    ],
+    "2026-12-28": [
+     "打首獄門同好会",
+     "Aimer",
+     "KANA-BOON",
+     "キュウソネコカミ",
+     "サンボマスター",
+     "the paddles",
+     "THE BAWDIES",
+     "Chevon",
+     "SiM",
+     "w.o.d.",
+     "TenTwenty",
+     "10-FEET",
+     "flumpool",
+     "フレデリック",
+     "HEY-SMITH",
+     "マカロニえんぴつ",
+     "マキシマム ザ ホルモン",
+     "milet",
+     "Lucky Kilimanjaro"
+    ]
+   }
   },
   {
    "name": "NEW HORIZON FEST",
