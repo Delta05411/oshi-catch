@@ -140,6 +140,15 @@ details.lu i{font-style:normal;color:var(--line2);margin:0 6px}
 #hintrow{margin-top:6px}
 #addgo{font-family:"Bebas Neue",sans-serif;font-size:22px;letter-spacing:.08em;color:var(--bg);background:var(--w);padding:4px 24px 2px;border-radius:2px}
 #addgo:disabled{opacity:.5}
+#recbox{position:fixed;inset:0;z-index:20;display:flex;align-items:flex-end;justify-content:center}
+#recbox[hidden]{display:none}
+#recform{position:relative;width:100%;max-width:560px;max-height:92vh;overflow:auto;padding:22px 20px calc(24px + env(safe-area-inset-bottom));background:var(--bg);border:1px solid var(--line2);border-bottom:0;animation:up .25s cubic-bezier(.2,.8,.2,1)}
+#recform h2{margin:0;font-size:38px;line-height:1;color:var(--w)}
+#recform p{margin:8px 0 14px;font-size:12.5px;color:var(--sub)}
+#recform input,#recform select{flex:1;min-width:0;font:inherit;font-size:16px;color:var(--fg);background:transparent;border:0;border-bottom:1px solid var(--line2);border-radius:0;padding:10px 0;outline:none;margin-top:4px;color-scheme:dark}
+#recform select option{color:#000;background:#fff}
+#recform input:focus,#recform select:focus{border-bottom-color:var(--w)}
+#recgo{margin-top:20px;font-family:"Bebas Neue",sans-serif;font-size:22px;letter-spacing:.08em;color:var(--bg);background:var(--w);padding:6px 28px 4px;border-radius:2px}
 #pick{margin-top:18px}
 #pick .pk{font-size:12px;color:var(--sub)}
 #pick .chips{margin:10px 0 0;max-height:150px;overflow:auto}
@@ -221,6 +230,20 @@ details.lu i{font-style:normal;color:var(--line2);margin:0 6px}
     <div id="pick"></div>
   </form>
 </div>
+<div id="recbox" hidden>
+  <div class="bg" data-rclose></div>
+  <form id="recform">
+    <button type="button" class="x" data-rclose aria-label="閉じる">×</button>
+    <h2 class="bb">ADD RECORD</h2>
+    <p>行った（行く）ライブ・フェスを、自分で記録します。載っていない公演や、昔のライブもOKです。この端末にだけ保存されます。</p>
+    <div class="row"><input id="recd" type="date" required aria-label="日付"></div>
+    <div class="row"><input id="rect" maxlength="60" placeholder="公演名・フェス名（例：ONE MAN TOUR 2026）" required autocomplete="off"></div>
+    <div class="row"><input id="reca" maxlength="40" placeholder="アーティスト名（任意）" autocomplete="off"></div>
+    <div class="row"><input id="recv" maxlength="40" placeholder="会場（任意）" autocomplete="off"></div>
+    <div class="row"><select id="recs" aria-label="申込状況"></select></div>
+    <button id="recgo" type="submit">SAVE</button>
+  </form>
+</div>
 <div id="toast" role="status"></div>
 
 <script>
@@ -229,7 +252,7 @@ const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&g
 const safe=u=>/^https?:\/\//.test(u||'')?u:'';
 const WE=['SUN','MON','TUE','WED','THU','FRI','SAT'];
 const KIND={'フェス':'FES','ワンマン':'ONE MAN','対バン':'TAIBAN','イベント':'EVENT','その他':'OTHER'};
-let DB={artists:[],events:[]}, sel=new Set();
+let DB={artists:[],events:[]}, sel=new Set(), LOADED=false; // LOADED：データを読み込む前に「該当なし」を出さないための目印
 // 自分の推し（この端末だけに保存）。共通データには、全員が追加した推しが入っている
 let MYART=null;try{const j=localStorage.myart;if(j)MYART=new Set(JSON.parse(j))}catch{}
 const saveMA=()=>{try{localStorage.myart=JSON.stringify([...MYART])}catch{}};
@@ -364,6 +387,19 @@ async function addLive(name,hint){
   }catch(e){toast('送信できませんでした。通信を確認してもう一度お試しください')}
   $('#addgo').disabled=false;
 }
+// 自分で記録を足す（載っていない公演・昔のライブ。キーは M| で始まり、データの更新では消えない）
+function openRec(on){const b=$('#recbox');b.hidden=!on;
+  if(on){$('#recs').innerHTML=ST.map(s=>`<option ${s==='参加済'?'selected':''}>${s}</option>`).join('');
+    if(!$('#recd').value)$('#recd').value=CALD||todayJ();setTimeout(()=>$('#rect').focus(),80)}}
+function saveRec(){
+  const d=$('#recd').value,t=$('#rect').value.trim().replace(/\s+/g,' '),a=$('#reca').value.trim().replace(/\s+/g,' '),v=$('#recv').value.trim().replace(/\s+/g,' '),s=$('#recs').value;
+  if(!/^\d{4}-\d\d-\d\d$/.test(d)||!t){toast('日付と公演名を入れてください');return}
+  if(/https?:/i.test(t+a+v)){toast('URLは入れないでください');return}
+  const key='M|'+d+'|'+(a?a+'|':'')+t;
+  MY[key]=ST.includes(s)?s:'参加済';SNAP[key]={d,t,a:a||'',v,k:'',u:''};saveMy();saveSnap();
+  ['reca','rect','recv'].forEach(i=>$('#'+i).value='');
+  CALM=d.slice(0,7);CALD=d;openRec(false);if(TAB!=='cal')go('cal');else render();
+  toast('「'+t+'」を記録しました（'+d.replace(/-/g,'/')+'）')}
 function openAdd(on){const b=$('#addbox');b.hidden=!on;
   if(on){setMode(ADDMODE);const pk=pickList();$('#pick').innerHTML=pk.length?`<div class="pk">みんなの推しから選ぶ（タップで追加）</div><div class="chips">${pk.map(a=>`<button type="button" class="chip" data-pick="${esc(a)}" style="--h:${hue(a)}"><i class="dot"></i>${esc(a)}</button>`).join('')}</div>`:'';
     setTimeout(()=>$('#addname').focus(),80)}}
@@ -469,6 +505,7 @@ function renderCal(){
   <div class="cal">${g}</div>
   <div class="legend">${ST.map((s,i)=>`<span><i class="ci s${i}"></i>${s}</span>`).join('')}</div>
   ${CALD?`<div class="count">${CALD.replace(/-/g,'/')} の予定 ${dl.length}件</div>${dl.length?dl.map(miniCard).join(''):'<div class="m" style="margin-top:14px">この日の記録はありません</div>'}`:''}
+  <div class="links" style="margin-top:18px"><button type="button" class="btn" id="recopen">＋ 行ったライブを自分で記録する</button></div>
   ${items.length?`<div class="count">記録：今後 ${todo}件・過去 ${past}件</div><div class="links"><button type="button" class="btn" id="icsbtn">カレンダーに書き出す（.ics）</button></div><div class="m" style="margin-top:8px">書き出したファイルを開くと、iPhoneのカレンダーやGoogleカレンダーにまとめて取り込めます。</div>`
     :`<div class="empty"><div class="bb">NO MARKS</div><p>公演・フェスの「申込状況」を記録すると、ここに表示されます。終わった公演も、このカレンダーに残ります。</p></div>`}
   ${foot('記録はこの端末に保存されます')}`;
@@ -499,7 +536,7 @@ function renderHelp(){
   ${st('LIVE','推しのライブだけ見る')}
   ${st('FES','フェスぜんぶ見る（何日間のフェスは、1日ずつ出ます）。「+ ADD」の FES から、載っていないフェスも追加できます')}
   ${st('MY LIST','申込状況を記録したものだけが集まります。終わった分は「PAST」に残ります')}
-  ${st('MY CAL','記録したものが、カレンダーで見られます。「Googleカレンダーに追加」や、まとめて書き出すこともできます')}
+  ${st('MY CAL','記録したものが、カレンダーで見られます。「Googleカレンダーに追加」や、まとめて書き出すこともできます。載っていない公演や、昔に行ったライブは「＋ 行ったライブを自分で記録する」から日付と公演名を入れて足せます（消すときは、カードの申込状況を「未記録」に）')}
   <h3 class="bb">GOOD TO KNOW</h3>
   ${st('推しの名前を直す・外す','推しの一覧の下の「EDIT」をおすと、✎で表示名を変えられて、×で一覧から外せます。自分の画面だけで、ほかの人には見えません。')}
   ${st('まちがいがあるかも','予定はAIが自動で集めているので、まちがいや、載っていないものがあります。チケットを買う前に、かならず公式サイトで たしかめてね。')}
@@ -620,6 +657,7 @@ function render(){
   sb.style.display='';
   if(TAB==='fes'){$('#chips').style.display='none';$('#ctog').hidden=true}
   else{$('#chips').style.display='';foldChips()}
+  if(!LOADED){out.innerHTML='<div class="empty"><div class="bb">LOADING</div><p>データを読み込んでいます…</p></div>';return}
   const today=todayJ(),q=$('#q').value.trim().toLowerCase();
   const list=build(TAB,q,today);
   let h='',cur='',i=0;
@@ -628,7 +666,8 @@ function render(){
     h+=x.f?fesCard(x.f,x.m,i++,x.day):card(x.e,i++)}
   const none=(!mineA().length&&!pend.length)?`<div class="empty"><div class="bb">ADD YOUR OSHI</div><p>右上の「+ ADD」から推しを追加してください。名前を入れると、ライブ・フェスの予定がここに並びます。</p><p><button type="button" class="btn" onclick="openAdd(true)">+ ADD ARTIST</button></p></div>`:TAB==='mine'?`<div class="empty"><div class="bb">NOTHING YET</div><p>各公演・フェスの「申込状況」から、検討中・申込済・当選などを記録すると、ここに集まります。</p></div>`
     :(sel.size&&!q)?`<div class="empty"><div class="bb">NO SCHEDULE</div><p>${esc([...sel].join('、'))} の予定は、まだ見つかっていません。公式サイトで発表されると、自動で追加されます（毎日確認しています）。</p></div>`
-    :`<div class="empty"><div class="bb">NO RESULT</div><p>該当するものはありません。キーワードや、推しの選択を変えてみてください。</p></div>`;
+    :q||sel.size?`<div class="empty"><div class="bb">NO RESULT</div><p>${q?`検索「${esc($('#q').value.trim())}」に合うものはありません。`:'選んだ推しの予定はありません。'}</p><p><button type="button" class="btn" data-reset="1">検索と推しの絞り込みを解除</button></p></div>`
+    :`<div class="empty"><div class="bb">NO SCHEDULE</div><p>いま追加している推しの、今後の予定は見つかっていません。公式サイトで発表されると自動で追加されます（毎日確認しています）。FES では、開催予定のフェスを全部見られます。</p></div>`;
   const cnt=TAB==='fes'?`開催予定のフェス（日ごとに表示） ${list.length}件　推しが出る日は「推しが出演」と表示されます`
     :TAB==='all'?`${list.length}件　フェスは、推しが出演するものと申込状況を記録したものを表示（全部は FES で）`:`${list.length}件`;
   const ms=[...new Set(list.map(x=>(x.d||'').slice(0,7)).filter(k=>/^\d{4}-\d\d$/.test(k)))];
@@ -642,16 +681,18 @@ out.addEventListener('click',e=>{
   const cd=e.target.closest('[data-cd]');if(cd){CALD=cd.dataset.cd;renderCal();return}
   const cm=e.target.closest('[data-cm]');if(cm){const [y,m]=CALM.split('-').map(Number),n=new Date(Date.UTC(y,m-1+Number(cm.dataset.cm),1));CALM=n.toISOString().slice(0,7);CALD='';renderCal();return}
   if(e.target.closest('#icsbtn')){icsAll();return}
+  if(e.target.closest('#recopen')){openRec(true);return}
   if(e.target.closest('#bkmake')){$('#bkout').value=bkMake();return}
   if(e.target.closest('#bkcopy')){const t=$('#bkout');if(!t.value)t.value=bkMake();t.select();
     (navigator.clipboard?navigator.clipboard.writeText(t.value):Promise.reject()).then(()=>toast('コピーしました。LINEなどに貼りつけて、自分に送っておいてください')).catch(()=>{try{document.execCommand('copy');toast('コピーしました')}catch{toast('コードを長おしして、コピーしてください')}});return}
   if(e.target.closest('#bkload')){const er=bkLoad($('#bkin').value);if(er){toast(er);return}toast('読みこみました。推しと記録が引き継がれました');go('all');return}
+if(e.target.closest('[data-reset]')){$('#q').value='';sel.clear();try{localStorage.sel='[]'}catch{}render();return}
 if(e.target.closest('[data-fx]')){e.preventDefault();FP=FP.filter(p=>Date.now()-p.t<=LATE&&!isRejected(p.n));saveFP();render()}});
 out.addEventListener('change',e=>{const s=e.target.closest('select.st');if(!s)return;
   const k=s.dataset.k,v=s.value;if(v)MY[k]=v;else delete MY[k];saveMy();if(v)refreshSnap();else{delete SNAP[k];saveSnap()}
   s.className='st'+(v?' has s'+ST.indexOf(v):'');
   render();toast(v?`「${v}」で記録しました（この端末に保存）`:'記録を消しました')});
-function go(t){TAB=t;try{localStorage.tab2=t}catch{}render();scrollTo({top:0})}
+function go(t){if(t!==TAB)$('#q').value='';TAB=t;try{localStorage.tab2=t}catch{}render();scrollTo({top:0})} // 検索ワードは、タブを移ったら消す（残ると「該当なし」に見えるため）
 $('#chips').onclick=e=>{const b=e.target.closest('button');if(!b)return;const d=b.dataset;
   if(d.p!==undefined){const p=pend.find(x=>x.n===d.p);if(p&&(Date.now()-p.t>LATE||isRejected(p.n))&&confirm(`「${p.n}」を一覧から消しますか？（もう一度追加できます）`)){pend=pend.filter(x=>x!==p);savePend();render()}return}
   const ed=e.target.closest('.ed');
@@ -670,11 +711,16 @@ $('#seg').onclick=e=>{const b=e.target.closest('button');if(b&&b.dataset.seg)go(
 $('#pick').onclick=e=>{const b=e.target.closest('[data-pick]');if(b)addArtist(b.dataset.pick,true)};
 $('#amode').onclick=e=>{const b=e.target.closest('button');if(b)setMode(b.dataset.m)};
 $('#addbox').onclick=e=>{if(e.target.closest('[data-close]'))openAdd(false)};
-document.addEventListener('keydown',e=>{if(e.key==='Escape')openAdd(false)});
+document.addEventListener('keydown',e=>{if(e.key==='Escape'){openAdd(false);openRec(false)}});
 $('#addform').onsubmit=e=>{e.preventDefault();addArtist($('#addname').value)};
+$('#recbox').onclick=e=>{if(e.target.closest('[data-rclose]'))openRec(false)};
+$('#recform').onsubmit=e=>{e.preventDefault();saveRec()};
 function load(first){
   return fetch('data/events.json?t='+Date.now(),{cache:'no-store'}).then(r=>r.json()).then(j=>{
-    DB=j;fillSug();
+    DB=j;LOADED=true;fillSug();
+    // 別名で保存されていた推し・選択を、正式名に直す（名前が統一されたあとも ALL に出るように）
+    if(MYART){let ch=false;for(const a of [...MYART])if(!DB.artists.includes(a)){const o=findArtist(a);if(o){MYART.delete(a);MYART.add(o);ch=true}}if(ch)saveMA()}
+    if(sel.size){let ch=false;for(const a of [...sel])if(!DB.artists.includes(a)){sel.delete(a);const o=findArtist(a);if(o)sel.add(o);ch=true}if(ch)try{localStorage.sel=JSON.stringify([...sel])}catch{}}
     if(MYART===null){let old=false;try{const g=k=>localStorage.getItem(k);old=['tab','tab2','copen','my','sel','pend'].some(k=>g(k)!==null)}catch{}
       MYART=new Set(old?DB.artists:[]);saveMA()}
     else if(MYART.size===0){try{if(!localStorage.getItem('mig2')){localStorage.mig2='1';if(['tab','tab2','copen','my','sel'].some(k=>localStorage.getItem(k)!==null)){MYART=new Set(DB.artists);saveMA()}}}catch{}} // 初版の判定漏れの救済（1回だけ）
