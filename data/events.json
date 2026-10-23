@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T00:20:00+09:00",
+ "updated": "2026-10-24T11:00:00+09:00",
  "artists": [
   "04 Limited Sazabys",
   "ELLEGARDEN",
@@ -598,6 +598,17 @@
    "kind": "ワンマン",
    "venue": "Zepp Nagoya（愛知）",
    "source_url": "https://bestcalendar.jp/press/121082",
+   "confidence": "high"
+  },
+  {
+   "artist": "04 Limited Sazabys",
+   "date": "2026-11-16",
+   "title": "ONE MAN TOUR 2026 横浜（10/2延期の振替公演）",
+   "kind": "ワンマン",
+   "venue": "KT Zepp Yokohama（神奈川）",
+   "sale_info": "10/2(金)公演の振替。開場18:00 開演19:00。払い戻しをしないチケットはそのまま有効（払い戻し受付は10/19で終了）",
+   "ticket_name": "チケプラ",
+   "source_url": "https://www.04limitedsazabys.com/news/detail/2446",
    "confidence": "high"
   },
   {
@@ -6275,15 +6286,51 @@
   },
   {
    "name": "VIVA LA ROCK",
-   "tba": true,
+   "start": "2027-05-02",
+   "end": "2027-05-05",
+   "pref": "埼玉",
+   "venue": "GMOアリーナさいたま（さいたまスーパーアリーナ）",
+   "official_url": "https://vivalarock.jp/",
    "status": "unknown",
-   "note": "2027年の開催は未発表（友人の追加依頼。発表され次第、日程を入れます）"
+   "note": "14回目。出演者は未発表。4日通し券のみ37,000円（埼玉県限定・超先行）",
+   "ticket_name": "イープラス（埼玉県限定・超先行）",
+   "ticket_url": "https://eplus.jp/vivasaitama/",
+   "sales": [
+    {
+     "label": "埼玉県限定・超先行（抽選・WEB・4日通し券のみ）",
+     "start": "2026-10-23",
+     "end": "2026-11-24",
+     "url": "https://eplus.jp/vivasaitama/",
+     "note": "10/23 12:00〜11/24 23:59"
+    }
+   ],
+   "source_url": "https://realsound.jp/2026/10/post-2562487.html"
   },
   {
    "name": "DEAD POP FESTiVAL",
-   "tba": true,
+   "start": "2027-04-10",
+   "end": "2027-04-11",
+   "pref": "神奈川",
+   "venue": "川崎市東扇島東公園特設会場",
+   "official_url": "https://deadpopfest.com/",
    "status": "unknown",
-   "note": "2027年の開催は未発表（友人の追加依頼。発表され次第、日程を入れます）"
+   "note": "SiM主催。出演者は未確認。2026-04-05に開催決定が発表済み",
+   "ticket_name": "チケットぴあ",
+   "ticket_url": "https://t.pia.jp/en/pia/event/event.do?eventBundleCd=b2667181",
+   "sales": [
+    {
+     "label": "最速割引先行",
+     "start": "2026-04-05",
+     "note": "20:30開始"
+    },
+    {
+     "label": "オフィシャル2次先行",
+     "start": "2026-09-14",
+     "end": "2026-09-29",
+     "note": "18:00開始〜23:59"
+    }
+   ],
+   "source_url": "https://deadpopfest.com/2026/04/05/sim-presents-dead-pop-festival-2027%E9%96%8B%E5%82%AC%E6%B1%BA%E5%AE%9A%EF%BC%81/"
   },
   {
    "name": "FUJI ROCK FESTIVAL",
