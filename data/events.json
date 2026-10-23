@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T07:30:00+09:00",
+ "updated": "2026-10-23T18:30:00+09:00",
  "artists": [
   "04 Limited Sazabys",
   "ELLEGARDEN",
@@ -27,62 +27,6 @@
   "UNISON SQUARE GARDEN"
  ],
  "events": [
-  {
-   "artist": "04 Limited Sazabys",
-   "date": "2026-10-22",
-   "title": "ONE MAN TOUR 2026",
-   "kind": "ワンマン",
-   "venue": "Zepp Haneda（東京）",
-   "source_url": "https://bestcalendar.jp/press/121082",
-   "confidence": "high"
-  },
-  {
-   "artist": "ELLEGARDEN",
-   "date": "2026-10-22",
-   "title": "Bad For Education Tour II (2026)",
-   "kind": "ワンマン",
-   "venue": "COMTEC PORTBASE（愛知）",
-   "sale_info": "10/22・23の2日間",
-   "ticket_name": "e+",
-   "ticket_url": "https://eplus.jp/sf/word/0000002116",
-   "source_url": "https://realsound.jp/2026/08/post-2487674.html",
-   "confidence": "high"
-  },
-  {
-   "artist": "ROTTENGRAFFTY",
-   "date": "2026-10-22",
-   "title": "響都超特急TOUR2026",
-   "kind": "対バン",
-   "venue": "金沢EIGHT HALL（石川県）",
-   "ticket_name": "イープラス",
-   "ticket_url": "https://eplus.jp/sf/detail/0069680001",
-   "sale_info": "先着一般発売 予定枚数終了",
-   "source_url": "https://eplus.jp/sf/detail/0069680001",
-   "confidence": "high",
-   "with": "ENTH"
-  },
-  {
-   "artist": "a flood of circle",
-   "date": "2026-10-22",
-   "title": "a flood of circle TOUR 革命未遂の蝶が見る夢",
-   "kind": "ワンマン",
-   "venue": "札幌BESSIE HALL（北海道）",
-   "source_url": "https://realsound.jp/2026/05/post-2386759.html",
-   "confidence": "high",
-   "ticket_name": "イープラス",
-   "ticket_url": "https://eplus.jp/afloodofcircle-ep/",
-   "sale_info": "一般発売中（先着）"
-  },
-  {
-   "artist": "coldrain",
-   "date": "2026-10-22",
-   "title": "OPTIMIZE = OPTDEMISE JAPAN TOUR 2026",
-   "kind": "ワンマン",
-   "venue": "PENNY LANE24（北海道）",
-   "sale_info": "スタンディング6,800円（税込・別途ドリンク代）／開場18:00／開演19:00",
-   "source_url": "https://coldrain.jp/blogs/live",
-   "confidence": "high"
-  },
   {
    "artist": "ELLEGARDEN",
    "date": "2026-10-23",
@@ -2110,6 +2054,17 @@
    "sale_info": "1F立見/2F指定 4,600円（ドリンク別）",
    "source_url": "https://spice.eplus.jp/articles/344241",
    "confidence": "high"
+  },
+  {
+   "artist": "04 Limited Sazabys",
+   "date": "2027-01-09",
+   "title": "go!go!vanillas presents「ぼくらのタイマン上等ツアー」",
+   "kind": "対バン",
+   "venue": "Zepp Nagoya（愛知）",
+   "with": "go!go!vanillas",
+   "sale_info": "2027/1/8・9の2日間のうち1/9(土)17:00開演。出演日は要確認",
+   "source_url": "https://natalie.mu/music/news/676847",
+   "confidence": "low"
   },
   {
    "artist": "HEY-SMITH",
