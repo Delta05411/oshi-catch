@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T07:30:00+09:00",
+ "updated": "2026-10-24T09:20:00+09:00",
  "artists": [
   "04 Limited Sazabys",
   "ELLEGARDEN",
@@ -87,7 +87,17 @@
    "ticket_url": "https://eplus.jp/ohmf2026/",
    "sale_info": "10/24・25のどちらかに出演（日割りは後日発表・日付は仮置き）",
    "source_url": "https://spice.eplus.jp/articles/346146",
-   "confidence": "low"
+   "confidence": "high"
+  },
+  {
+   "artist": "SHANK",
+   "date": "2026-10-24",
+   "title": "OSAKA HAZIKETEMAZARE FESTIVAL 2026",
+   "kind": "フェス",
+   "venue": "泉大津フェニックス（大阪）",
+   "sale_info": "1日券10,500円/2日通し20,000円",
+   "source_url": "https://www.shankofficial.com/live/3a9dcf11-a0d1-4b47-9509-c3c45a7674d0",
+   "confidence": "high"
   },
   {
    "artist": "Wienners",
@@ -168,6 +178,18 @@
    "confidence": "high"
   },
   {
+   "artist": "BUMP OF CHICKEN",
+   "date": "2026-10-27",
+   "title": "BUMP OF CHICKEN TOUR 2026-2027 Ratio Clavis",
+   "kind": "ワンマン",
+   "venue": "有明アリーナ（東京）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
+   "sale_info": "10/27・28の2日間。チケットは完売",
+   "source_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
+   "confidence": "high"
+  },
+  {
    "artist": "ELLEGARDEN",
    "date": "2026-10-27",
    "title": "Bad For Education Tour II (2026)",
@@ -193,7 +215,7 @@
   },
   {
    "artist": "BUMP OF CHICKEN",
-   "date": "2026-10-27",
+   "date": "2026-10-28",
    "title": "BUMP OF CHICKEN TOUR 2026-2027 Ratio Clavis",
    "kind": "ワンマン",
    "venue": "有明アリーナ（東京）",
@@ -235,18 +257,6 @@
    "source_url": "https://realsound.jp/2026/05/post-2389827.html",
    "confidence": "high",
    "sale_info": "6,050円（税込）＋ドリンク代。開場18:00／開演19:00"
-  },
-  {
-   "artist": "BUMP OF CHICKEN",
-   "date": "2026-10-28",
-   "title": "BUMP OF CHICKEN TOUR 2026-2027 Ratio Clavis",
-   "kind": "ワンマン",
-   "venue": "有明アリーナ（東京）",
-   "ticket_name": "イープラス",
-   "ticket_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
-   "sale_info": "10/27・28の2日間。チケットは完売",
-   "source_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
-   "confidence": "high"
   },
   {
    "artist": "Mrs. GREEN APPLE",
@@ -292,6 +302,17 @@
    "sale_info": "一般発売中（先着）"
   },
   {
+   "artist": "ORAL CIGARETTES",
+   "date": "2026-10-31",
+   "title": "[Alexandros] presents THIS FES '26 in Sagamihara",
+   "kind": "フェス",
+   "venue": "相模原ギオンフィールド（神奈川）",
+   "ticket_url": "https://thisfes.com/",
+   "sale_info": "公式LIVE掲載。THIS FES側ではビデオメッセージ表記のため要確認",
+   "source_url": "https://theoralcigarettes.com/news/detail/3199",
+   "confidence": "low"
+  },
+  {
    "artist": "ROTTENGRAFFTY",
    "date": "2026-10-31",
    "title": "響都超特急TOUR2026",
@@ -303,6 +324,17 @@
    "source_url": "https://eplus.jp/sf/detail/0069680001",
    "confidence": "high",
    "with": "w.o.d."
+  },
+  {
+   "artist": "SHANK",
+   "date": "2026-10-31",
+   "title": "G-FREAK FACTORY Path to 30th TOUR \"TOMOSHIBI -燈-\"",
+   "kind": "対バン",
+   "venue": "BIG CAT（大阪）",
+   "with": "G-FREAK FACTORY",
+   "sale_info": "スタンディング4,800円+ドリンク代。開場17:15 開演18:00",
+   "source_url": "https://www.shankofficial.com/live/c6d0ca3e-62d7-48a7-a503-3f6b27cea786",
+   "confidence": "high"
   },
   {
    "artist": "Wienners",
@@ -357,6 +389,28 @@
    "confidence": "low"
   },
   {
+   "artist": "マキシマム ザ ホルモン",
+   "date": "2026-10-31",
+   "title": "ONAGAWA COTTELEEZUN（女川町町制施行100周年記念祭）",
+   "kind": "フェス",
+   "venue": "女川町総合運動場 第二多目的運動場（宮城）",
+   "sale_info": "公式に「10/31に特別アンバサダーとして出演。11/1の出演なし」と記載",
+   "source_url": "https://onagawa100.com/",
+   "confidence": "high"
+  },
+  {
+   "artist": "ヤバイTシャツ屋さん",
+   "date": "2026-10-31",
+   "title": "女川町町制施行100周年記念祭 ONAGAWA COTTELEEZUN",
+   "kind": "フェス",
+   "venue": "女川町総合運動場（宮城）",
+   "ticket_name": "女川100周年記念祭",
+   "ticket_url": "https://www.onagawa100.com/ticket/",
+   "sale_info": "1次先行は8/11締切（終了）",
+   "source_url": "https://yabaitshirtsyasan.com/live/293027/",
+   "confidence": "high"
+  },
+  {
    "artist": "04 Limited Sazabys",
    "date": "2026-11-01",
    "title": "ONE MAN TOUR 2026",
@@ -364,6 +418,17 @@
    "venue": "Zepp Sapporo（北海道）",
    "source_url": "https://bestcalendar.jp/press/121082",
    "confidence": "high"
+  },
+  {
+   "artist": "Fear, and Loathing in Las Vegas",
+   "date": "2026-11-01",
+   "title": "The Focus \"Feeling of Unity\" Vol.1",
+   "kind": "対バン",
+   "venue": "仙台Rensa（宮城）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/0524940001",
+   "source_url": "https://eplus.jp/sf/detail/0524940001",
+   "confidence": "low"
   },
   {
    "artist": "Wienners",
@@ -414,25 +479,25 @@
    "confidence": "high"
   },
   {
-   "artist": "マキシマム ザ ホルモン",
+   "artist": "ヤバイTシャツ屋さん",
    "date": "2026-11-01",
-   "title": "ONAGAWA COTTELEEZUN（女川町町制施行100周年記念祭）",
+   "title": "[Alexandros] presents THIS FES '26 in Sagamihara",
    "kind": "フェス",
-   "venue": "女川町総合運動場（宮城）",
-   "sale_info": "10/31・11/1の開催。ホルモンは報道ベースで要確認",
-   "source_url": "https://natalie.mu/music/news/691796",
-   "confidence": "low"
-  },
-  {
-   "artist": "Fear, and Loathing in Las Vegas",
-   "date": "2026-11-01",
-   "title": "The Focus \"Feeling of Unity\" Vol.1",
-   "kind": "対バン",
-   "venue": "仙台Rensa（宮城）",
+   "venue": "相模原ギオンフィールド（神奈川）",
+   "with": "[Alexandros], Saucy Dog, sumika, ハルカミライ, PEOPLE 1, レキシ",
    "ticket_name": "イープラス",
-   "ticket_url": "https://eplus.jp/sf/detail/0524940001",
-   "source_url": "https://eplus.jp/sf/detail/0524940001",
-   "confidence": "low"
+   "ticket_url": "https://thisfes.com/",
+   "sale_info": "開場9:00 開演11:00",
+   "sales": [
+    {
+     "label": "一般発売",
+     "start": "2026-09-05",
+     "url": "https://thisfes.com/",
+     "note": "10:00 e+先着"
+    }
+   ],
+   "source_url": "https://yabaitshirtsyasan.com/live/282640/",
+   "confidence": "high"
   },
   {
    "artist": "ELLEGARDEN",
@@ -494,6 +559,19 @@
    "confidence": "high"
   },
   {
+   "artist": "サンボマスター",
+   "date": "2026-11-03",
+   "title": "THE MELTING POT SESSIONS（THE BAWDIES × サンボマスター）",
+   "kind": "対バン",
+   "venue": "EX THEATER ROPPONGI（東京）",
+   "with": "THE BAWDIES",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/word/0000002764",
+   "sale_info": "1Fスタンディング6,000円/2F指定6,000円。開場16:00 開演17:00",
+   "source_url": "https://eplus.jp/sf/word/0000002764/events",
+   "confidence": "high"
+  },
+  {
    "artist": "04 Limited Sazabys",
    "date": "2026-11-04",
    "title": "ONE MAN TOUR 2026",
@@ -533,8 +611,9 @@
    "kind": "対バン",
    "venue": "金沢 EIGHT HALL（石川）",
    "with": "山嵐",
-   "source_url": "https://barks.jp/news/1080436/",
-   "confidence": "low"
+   "source_url": "https://www.shankofficial.com/live",
+   "confidence": "high",
+   "sale_info": "ADV4,800円/DOOR5,400円（ドリンク別）"
   },
   {
    "artist": "マキシマム ザ ホルモン",
@@ -621,8 +700,9 @@
    "kind": "対バン",
    "venue": "新潟 LOTS（新潟）",
    "with": "山嵐",
-   "source_url": "https://barks.jp/news/1080436/",
-   "confidence": "low"
+   "source_url": "https://www.shankofficial.com/live",
+   "confidence": "high",
+   "sale_info": "ADV4,800円/DOOR5,400円（ドリンク別）"
   },
   {
    "artist": "a flood of circle",
@@ -641,6 +721,38 @@
    "venue": "ZOZOマリンスタジアム（千葉県）",
    "sale_info": "Hi-STANDARD主催・ヘッドライナー。公式サイトにSOLDOUT表示あり",
    "source_url": "https://airjam.jp/",
+   "confidence": "high"
+  },
+  {
+   "artist": "9mm Parabellum Bullet",
+   "date": "2026-11-07",
+   "title": "9mm Parabellum Bullet Tour 2026-27「Raison d’être」",
+   "kind": "ワンマン",
+   "venue": "金沢EIGHT HALL（石川県）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/0178780001-P0030529P021001?P1=0175",
+   "sale_info": "開場17:00 開演17:30",
+   "source_url": "https://eplus.jp/sf/word/0000009226",
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "一般発売",
+     "start": "2026-10-03",
+     "end": "2026-11-06",
+     "note": "先着 10:00〜11/6 18:00"
+    }
+   ]
+  },
+  {
+   "artist": "BUMP OF CHICKEN",
+   "date": "2026-11-07",
+   "title": "BUMP OF CHICKEN TOUR 2026-2027 Ratio Clavis",
+   "kind": "ワンマン",
+   "venue": "GLION ARENA KOBE（兵庫）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
+   "sale_info": "11/7・8の2日間。チケットは完売",
+   "source_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
    "confidence": "high"
   },
   {
@@ -728,28 +840,40 @@
    "confidence": "high"
   },
   {
-   "artist": "9mm Parabellum Bullet",
-   "date": "2026-11-07",
-   "title": "9mm Parabellum Bullet Tour 2026-27「Raison d’être」",
-   "kind": "ワンマン",
-   "venue": "金沢EIGHT HALL（石川県）",
+   "artist": "10-FEET",
+   "date": "2026-11-08",
+   "title": "氣志團万博2026 〜房総爆音リゾート〜",
+   "kind": "フェス",
+   "venue": "幕張メッセ 国際展示場（千葉）",
    "ticket_name": "イープラス",
-   "ticket_url": "https://eplus.jp/sf/detail/0178780001-P0030529P021001?P1=0175",
-   "sale_info": "開場17:00 開演17:30",
-   "source_url": "https://eplus.jp/sf/word/0000009226",
-   "confidence": "high",
+   "ticket_url": "https://eplus.jp/sf/detail/0755060002",
+   "sale_info": "開場9:00 開演10:30。1日券16,000円/2日通し29,000円",
    "sales": [
     {
      "label": "一般発売",
      "start": "2026-10-03",
-     "end": "2026-11-06",
-     "note": "先着 10:00〜11/6 18:00"
+     "url": "https://eplus.jp/sf/detail/0755060002",
+     "note": "10:00〜"
     }
-   ]
+   ],
+   "source_url": "https://eplus.jp/sf/word/0000058765",
+   "confidence": "high"
+  },
+  {
+   "artist": "9mm Parabellum Bullet",
+   "date": "2026-11-08",
+   "title": "9mm Parabellum Bullet Tour 2026-27「Raison d’être」",
+   "kind": "ワンマン",
+   "venue": "長野CLUB JUNK BOX（長野県）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/0178780001-P0030530P021001?P1=0175",
+   "sale_info": "開場16:30 開演17:00",
+   "source_url": "https://eplus.jp/sf/word/0000009226",
+   "confidence": "high"
   },
   {
    "artist": "BUMP OF CHICKEN",
-   "date": "2026-11-07",
+   "date": "2026-11-08",
    "title": "BUMP OF CHICKEN TOUR 2026-2027 Ratio Clavis",
    "kind": "ワンマン",
    "venue": "GLION ARENA KOBE（兵庫）",
@@ -780,30 +904,6 @@
    "confidence": "low"
   },
   {
-   "artist": "9mm Parabellum Bullet",
-   "date": "2026-11-08",
-   "title": "9mm Parabellum Bullet Tour 2026-27「Raison d’être」",
-   "kind": "ワンマン",
-   "venue": "長野CLUB JUNK BOX（長野県）",
-   "ticket_name": "イープラス",
-   "ticket_url": "https://eplus.jp/sf/detail/0178780001-P0030530P021001?P1=0175",
-   "sale_info": "開場16:30 開演17:00",
-   "source_url": "https://eplus.jp/sf/word/0000009226",
-   "confidence": "high"
-  },
-  {
-   "artist": "BUMP OF CHICKEN",
-   "date": "2026-11-08",
-   "title": "BUMP OF CHICKEN TOUR 2026-2027 Ratio Clavis",
-   "kind": "ワンマン",
-   "venue": "GLION ARENA KOBE（兵庫）",
-   "ticket_name": "イープラス",
-   "ticket_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
-   "sale_info": "11/7・8の2日間。チケットは完売",
-   "source_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
-   "confidence": "high"
-  },
-  {
    "artist": "ORAL CIGARETTES",
    "date": "2026-11-09",
    "title": "WANDER ABOUT 放浪 TOUR 2026 関東編",
@@ -814,6 +914,32 @@
    "ticket_name": "e+",
    "ticket_url": "https://eplus.jp/sf/word/0000044957",
    "source_url": "https://dime.jp/company_news/detail/?pr=2664079",
+   "confidence": "high"
+  },
+  {
+   "artist": "RADWIMPS",
+   "date": "2026-11-10",
+   "title": "RADWIMPS Official Fan Club Tour 2026 ユーリンチー \"おかわり\" 追加公演",
+   "kind": "ワンマン",
+   "venue": "ぴあアリーナMM（神奈川）",
+   "sale_info": "11/10・11/11の2日間。ボクンチ会員限定。開場18:00 開演19:00。9,900〜12,100円。完売",
+   "ticket_name": "ボクンチ（会員限定）",
+   "ticket_url": "https://radwimps.jp/yurinchi/",
+   "sales": [
+    {
+     "label": "ボクンチ会員1次受付",
+     "start": "2026-07-24",
+     "end": "2026-08-03",
+     "note": "抽選 12:00〜23:59"
+    },
+    {
+     "label": "ボクンチ会員2次受付",
+     "start": "2026-08-21",
+     "end": "2026-08-27",
+     "note": "抽選 12:00〜23:59"
+    }
+   ],
+   "source_url": "https://radwimps.jp/news/16474/",
    "confidence": "high"
   },
   {
@@ -841,32 +967,6 @@
    "sale_info": "6,050円（税込）＋ドリンク代。開場18:00／開演19:00"
   },
   {
-   "artist": "RADWIMPS",
-   "date": "2026-11-10",
-   "title": "RADWIMPS Official Fan Club Tour 2026 ユーリンチー \"おかわり\" 追加公演",
-   "kind": "ワンマン",
-   "venue": "ぴあアリーナMM（神奈川）",
-   "sale_info": "11/10・11/11の2日間。ボクンチ会員限定。開場18:00 開演19:00。9,900〜12,100円。完売",
-   "ticket_name": "ボクンチ（会員限定）",
-   "ticket_url": "https://radwimps.jp/yurinchi/",
-   "sales": [
-    {
-     "label": "ボクンチ会員1次受付",
-     "start": "2026-07-24",
-     "end": "2026-08-03",
-     "note": "抽選 12:00〜23:59"
-    },
-    {
-     "label": "ボクンチ会員2次受付",
-     "start": "2026-08-21",
-     "end": "2026-08-27",
-     "note": "抽選 12:00〜23:59"
-    }
-   ],
-   "source_url": "https://radwimps.jp/news/16474/",
-   "confidence": "high"
-  },
-  {
    "artist": "ORAL CIGARETTES",
    "date": "2026-11-11",
    "title": "WANDER ABOUT 放浪 TOUR 2026 関東編",
@@ -880,18 +980,6 @@
    "confidence": "high"
   },
   {
-   "artist": "ヤバイTシャツ屋さん",
-   "date": "2026-11-11",
-   "title": "\"Magical Tank-top Parade\" ONE-MAN TOUR 2026",
-   "kind": "ワンマン",
-   "venue": "Zepp Haneda（東京）",
-   "ticket_name": "ローソンチケット",
-   "ticket_url": "https://l-tike.com/yabaitshirtsyasan/t",
-   "source_url": "https://realsound.jp/2026/05/post-2389827.html",
-   "confidence": "high",
-   "sale_info": "6,050円（税込）＋ドリンク代。開場18:00／開演19:00"
-  },
-  {
    "artist": "RADWIMPS",
    "date": "2026-11-11",
    "title": "RADWIMPS Official Fan Club Tour 2026 ユーリンチー \"おかわり\" 追加公演",
@@ -916,6 +1004,18 @@
    ],
    "source_url": "https://radwimps.jp/news/16474/",
    "confidence": "high"
+  },
+  {
+   "artist": "ヤバイTシャツ屋さん",
+   "date": "2026-11-11",
+   "title": "\"Magical Tank-top Parade\" ONE-MAN TOUR 2026",
+   "kind": "ワンマン",
+   "venue": "Zepp Haneda（東京）",
+   "ticket_name": "ローソンチケット",
+   "ticket_url": "https://l-tike.com/yabaitshirtsyasan/t",
+   "source_url": "https://realsound.jp/2026/05/post-2389827.html",
+   "confidence": "high",
+   "sale_info": "6,050円（税込）＋ドリンク代。開場18:00／開演19:00"
   },
   {
    "artist": "ORAL CIGARETTES",
@@ -940,6 +1040,17 @@
    "confidence": "high"
   },
   {
+   "artist": "Fear, and Loathing in Las Vegas",
+   "date": "2026-11-13",
+   "title": "The Focus \"Feeling of Unity\" Vol.1",
+   "kind": "対バン",
+   "venue": "KYOTO MUSE（京都）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/0524940001",
+   "source_url": "https://eplus.jp/sf/detail/0524940001",
+   "confidence": "low"
+  },
+  {
    "artist": "Mrs. GREEN APPLE",
    "date": "2026-11-13",
    "title": "Mrs. GREEN APPLE Ringo Jam Tour “SHADOWS”",
@@ -956,8 +1067,9 @@
    "kind": "対バン",
    "venue": "仙台 Rensa（宮城）",
    "with": "Boobie Trap",
-   "source_url": "https://barks.jp/news/1080436/",
-   "confidence": "low"
+   "source_url": "https://www.shankofficial.com/live",
+   "confidence": "high",
+   "sale_info": "ADV4,800円/DOOR5,400円（ドリンク別）"
   },
   {
    "artist": "マキシマム ザ ホルモン",
@@ -970,15 +1082,16 @@
    "confidence": "low"
   },
   {
-   "artist": "Fear, and Loathing in Las Vegas",
-   "date": "2026-11-13",
-   "title": "The Focus \"Feeling of Unity\" Vol.1",
-   "kind": "対バン",
-   "venue": "KYOTO MUSE（京都）",
+   "artist": "9mm Parabellum Bullet",
+   "date": "2026-11-14",
+   "title": "9mm Parabellum Bullet Tour 2026-27「Raison d’être」",
+   "kind": "ワンマン",
+   "venue": "名古屋 DIAMOND HALL（愛知県）",
    "ticket_name": "イープラス",
-   "ticket_url": "https://eplus.jp/sf/detail/0524940001",
-   "source_url": "https://eplus.jp/sf/detail/0524940001",
-   "confidence": "low"
+   "ticket_url": "https://eplus.jp/sf/detail/0178780001-P0030531P021001?P1=0175",
+   "sale_info": "開場16:30 開演17:30",
+   "source_url": "https://eplus.jp/sf/word/0000009226",
+   "confidence": "high"
   },
   {
    "artist": "HEY-SMITH",
@@ -1005,13 +1118,13 @@
   },
   {
    "artist": "9mm Parabellum Bullet",
-   "date": "2026-11-14",
+   "date": "2026-11-15",
    "title": "9mm Parabellum Bullet Tour 2026-27「Raison d’être」",
    "kind": "ワンマン",
-   "venue": "名古屋 DIAMOND HALL（愛知県）",
+   "venue": "Live House浜松 窓枠（静岡県）",
    "ticket_name": "イープラス",
-   "ticket_url": "https://eplus.jp/sf/detail/0178780001-P0030531P021001?P1=0175",
-   "sale_info": "開場16:30 開演17:30",
+   "ticket_url": "https://eplus.jp/sf/detail/0178780001-P0030532P021001?P1=0175",
+   "sale_info": "開場16:30 開演17:00",
    "source_url": "https://eplus.jp/sf/word/0000009226",
    "confidence": "high"
   },
@@ -1071,15 +1184,23 @@
    "confidence": "low"
   },
   {
-   "artist": "9mm Parabellum Bullet",
+   "artist": "ヤバイTシャツ屋さん",
    "date": "2026-11-15",
-   "title": "9mm Parabellum Bullet Tour 2026-27「Raison d’être」",
-   "kind": "ワンマン",
-   "venue": "Live House浜松 窓枠（静岡県）",
-   "ticket_name": "イープラス",
-   "ticket_url": "https://eplus.jp/sf/detail/0178780001-P0030532P021001?P1=0175",
-   "sale_info": "開場16:30 開演17:00",
-   "source_url": "https://eplus.jp/sf/word/0000009226",
+   "title": "サバシスター presents Buddy Up!!!",
+   "kind": "対バン",
+   "venue": "仙台GIGS（宮城）",
+   "with": "サバシスター",
+   "ticket_name": "チケットぴあ",
+   "ticket_url": "https://w.pia.jp/t/sabasister-buddy-up/",
+   "sales": [
+    {
+     "label": "オフィシャル先行2次",
+     "start": "2026-08-19",
+     "end": "2026-08-24",
+     "url": "https://w.pia.jp/t/sabasister-buddy-up/"
+    }
+   ],
+   "source_url": "https://yabaitshirtsyasan.com/live/294097/",
    "confidence": "high"
   },
   {
@@ -1091,6 +1212,19 @@
    "sale_info": "10/2(金)公演の振替。開場18:00 開演19:00。払い戻しをしないチケットはそのまま有効（払い戻し受付は10/19で終了）",
    "ticket_name": "チケプラ",
    "source_url": "https://www.04limitedsazabys.com/news/detail/2446",
+   "confidence": "high"
+  },
+  {
+   "artist": "04 Limited Sazabys",
+   "date": "2026-11-17",
+   "title": "TENDOUJI LIVEHOUSE TOUR 2026 EASY PUNK PARK \"SPECIAL EDITION!!!\"",
+   "kind": "対バン",
+   "venue": "F.A.D YOKOHAMA（神奈川）",
+   "with": "TENDOUJI",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/tendouji/",
+   "sale_info": "STANDING4,200円/学生3,000円（ドリンク別）。開場18:15 開演19:00",
+   "source_url": "https://eplus.jp/tendouji/",
    "confidence": "high"
   },
   {
@@ -1158,7 +1292,21 @@
    "kind": "対バン",
    "venue": "名古屋CLUB QUATTRO（愛知）",
    "sale_info": "Wienners対バンツアー。出演日は報道ベース、公式で要確認",
-   "source_url": "https://natalie.mu/music/news/686462",
+   "source_url": "https://yabaitshirtsyasan.com/live/294415/",
+   "confidence": "high",
+   "with": "Wienners",
+   "ticket_name": "チケットぴあ",
+   "ticket_url": "https://w.pia.jp/t/wienners-tour2026/"
+  },
+  {
+   "artist": "Fear, and Loathing in Las Vegas",
+   "date": "2026-11-19",
+   "title": "The Focus \"Feeling of Unity\" Vol.1",
+   "kind": "対バン",
+   "venue": "名古屋 DIAMOND HALL（愛知）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/0524940001",
+   "source_url": "https://eplus.jp/sf/detail/0524940001",
    "confidence": "low"
   },
   {
@@ -1181,17 +1329,6 @@
    "confidence": "high"
   },
   {
-   "artist": "Fear, and Loathing in Las Vegas",
-   "date": "2026-11-19",
-   "title": "The Focus \"Feeling of Unity\" Vol.1",
-   "kind": "対バン",
-   "venue": "名古屋 DIAMOND HALL（愛知）",
-   "ticket_name": "イープラス",
-   "ticket_url": "https://eplus.jp/sf/detail/0524940001",
-   "source_url": "https://eplus.jp/sf/detail/0524940001",
-   "confidence": "low"
-  },
-  {
    "artist": "ROTTENGRAFFTY",
    "date": "2026-11-20",
    "title": "響都超特急TOUR2026",
@@ -1205,12 +1342,15 @@
    "with": "ダブルアート"
   },
   {
-   "artist": "a flood of circle",
-   "date": "2026-11-21",
-   "title": "a flood of circle TOUR 革命未遂の蝶が見る夢",
-   "kind": "ワンマン",
-   "venue": "高知X-pt.（高知県）",
-   "source_url": "https://realsound.jp/2026/05/post-2386759.html",
+   "artist": "ヤバイTシャツ屋さん",
+   "date": "2026-11-20",
+   "title": "神聖かまってちゃん tour 2026「17歳の処方箋」",
+   "kind": "対バン",
+   "venue": "大阪GORILLA HALL（大阪）",
+   "with": "神聖かまってちゃん",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/shinseikamattechan/",
+   "source_url": "https://yabaitshirtsyasan.com/live/297146/",
    "confidence": "high"
   },
   {
@@ -1238,12 +1378,24 @@
    "confidence": "high"
   },
   {
-   "artist": "coldrain",
+   "artist": "a flood of circle",
+   "date": "2026-11-21",
+   "title": "a flood of circle TOUR 革命未遂の蝶が見る夢",
+   "kind": "ワンマン",
+   "venue": "高知X-pt.（高知県）",
+   "source_url": "https://realsound.jp/2026/05/post-2386759.html",
+   "confidence": "high"
+  },
+  {
+   "artist": "BUMP OF CHICKEN",
    "date": "2026-11-22",
-   "title": "Crystal Lake presents TRUE NORTH FESTIVAL 2026",
-   "kind": "フェス",
-   "venue": "豊洲PIT（東京）",
-   "source_url": "https://coldrain.jp/blogs/live",
+   "title": "BUMP OF CHICKEN TOUR 2026-2027 Ratio Clavis",
+   "kind": "ワンマン",
+   "venue": "あなぶきアリーナ香川（香川）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
+   "sale_info": "11/21・22の2日間。チケットは完売",
+   "source_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
    "confidence": "high"
   },
   {
@@ -1258,15 +1410,12 @@
    "confidence": "low"
   },
   {
-   "artist": "BUMP OF CHICKEN",
+   "artist": "coldrain",
    "date": "2026-11-22",
-   "title": "BUMP OF CHICKEN TOUR 2026-2027 Ratio Clavis",
-   "kind": "ワンマン",
-   "venue": "あなぶきアリーナ香川（香川）",
-   "ticket_name": "イープラス",
-   "ticket_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
-   "sale_info": "11/21・22の2日間。チケットは完売",
-   "source_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
+   "title": "Crystal Lake presents TRUE NORTH FESTIVAL 2026",
+   "kind": "フェス",
+   "venue": "豊洲PIT（東京）",
+   "source_url": "https://coldrain.jp/blogs/live",
    "confidence": "high"
   },
   {
@@ -1285,14 +1434,14 @@
   {
    "artist": "SHANK",
    "date": "2026-11-23",
-   "title": "SHANK（Shunan RISING HALL）",
+   "title": "SHANK THE TOUR 2026",
    "kind": "ワンマン",
-   "venue": "Shunan RISING HALL（山口）",
+   "venue": "周南 RISING HALL（山口）",
    "ticket_name": "イープラス",
    "ticket_url": "https://eplus.jp/sf/detail/0434550007-P0030321?P6=001",
-   "sale_info": "開場17:00/開演18:00。抽選先行は受付終了",
-   "source_url": "https://eplus.jp/sf/detail/0434550007-P0030321?P6=001",
-   "confidence": "low"
+   "sale_info": "開場17:00/開演18:00。ADV4,800円",
+   "source_url": "https://www.shankofficial.com/live",
+   "confidence": "high"
   },
   {
    "artist": "a flood of circle",
@@ -1345,8 +1494,9 @@
    "kind": "対バン",
    "venue": "福岡 BEAT STATION（福岡）",
    "with": "Survive Said The Prophet",
-   "source_url": "https://barks.jp/news/1080436/",
-   "confidence": "low"
+   "source_url": "https://www.shankofficial.com/live",
+   "confidence": "high",
+   "sale_info": "ADV4,800円/DOOR5,400円（ドリンク別）"
   },
   {
    "artist": "ハルカミライ",
@@ -1359,6 +1509,26 @@
    "sale_info": "19:00開演/18:00開場（公演名・料金は要確認）",
    "source_url": "https://eplus.jp/sf/word/0000069733",
    "confidence": "low"
+  },
+  {
+   "artist": "ヤバイTシャツ屋さん",
+   "date": "2026-11-25",
+   "title": "サバシスター presents Buddy Up!!!",
+   "kind": "対バン",
+   "venue": "新潟LOTS（新潟）",
+   "with": "サバシスター",
+   "ticket_name": "チケットぴあ",
+   "ticket_url": "https://w.pia.jp/t/sabasister-buddy-up/",
+   "sales": [
+    {
+     "label": "オフィシャル先行2次",
+     "start": "2026-08-19",
+     "end": "2026-08-24",
+     "url": "https://w.pia.jp/t/sabasister-buddy-up/"
+    }
+   ],
+   "source_url": "https://yabaitshirtsyasan.com/live/294143/",
+   "confidence": "high"
   },
   {
    "artist": "HEY-SMITH",
@@ -1374,6 +1544,17 @@
    "confidence": "high"
   },
   {
+   "artist": "Fear, and Loathing in Las Vegas",
+   "date": "2026-11-27",
+   "title": "The Focus \"Feeling of Unity\" Vol.1",
+   "kind": "対バン",
+   "venue": "Zepp Haneda(TOKYO)（東京）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/0524940001",
+   "source_url": "https://eplus.jp/sf/detail/0524940001",
+   "confidence": "low"
+  },
+  {
    "artist": "ハルカミライ",
    "date": "2026-11-27",
    "title": "ハルカミライ ライブ",
@@ -1386,15 +1567,26 @@
    "confidence": "low"
   },
   {
-   "artist": "Fear, and Loathing in Las Vegas",
+   "artist": "ヤバイTシャツ屋さん",
    "date": "2026-11-27",
-   "title": "The Focus \"Feeling of Unity\" Vol.1",
-   "kind": "対バン",
-   "venue": "Zepp Haneda(TOKYO)（東京）",
+   "title": "ハルカミライ「ヨーロー劇場2026 – GRAMHOUSE 移転10周年」",
+   "kind": "イベント",
+   "venue": "伊那GRAMHOUSE（長野）",
+   "with": "ハルカミライ",
+   "source_url": "https://yabaitshirtsyasan.com/live/296393/",
+   "confidence": "high"
+  },
+  {
+   "artist": "BUMP OF CHICKEN",
+   "date": "2026-11-28",
+   "title": "BUMP OF CHICKEN TOUR 2026-2027 Ratio Clavis",
+   "kind": "ワンマン",
+   "venue": "グリーンアリーナ（広島）",
    "ticket_name": "イープラス",
-   "ticket_url": "https://eplus.jp/sf/detail/0524940001",
-   "source_url": "https://eplus.jp/sf/detail/0524940001",
-   "confidence": "low"
+   "ticket_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
+   "sale_info": "11/28・29の2日間。チケットは完売",
+   "source_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
+   "confidence": "high"
   },
   {
    "artist": "ELLEGARDEN",
@@ -1426,11 +1618,32 @@
    "venue": "LaLa arena TOKYO-BAY（千葉）",
    "sale_info": "ファンクラブ先行あり。一般発売は公式で要確認",
    "source_url": "https://mrsgreenapple.com/feature/ringojamtour_shadows",
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "ファンクラブ全会員先行",
+     "start": "2026-10-20",
+     "end": "2026-10-27",
+     "url": "https://mrsgreenapple.com/feature/ringojamtour_shadows#ticket",
+     "note": "10/20 12:00〜10/27 05:00。当落・入金 11/7 14:00〜11/10 23:59。15,000円"
+    }
+   ]
+  },
+  {
+   "artist": "ヤバイTシャツ屋さん",
+   "date": "2026-11-28",
+   "title": "MASTERPIECE 2026",
+   "kind": "フェス",
+   "venue": "岐阜市文化センター（岐阜）",
+   "ticket_name": "チケットぴあ",
+   "ticket_url": "https://w.pia.jp/t/masterpiece-26/",
+   "sale_info": "3次先行は8/5締切（終了）",
+   "source_url": "https://yabaitshirtsyasan.com/live/292928/",
    "confidence": "high"
   },
   {
    "artist": "BUMP OF CHICKEN",
-   "date": "2026-11-28",
+   "date": "2026-11-29",
    "title": "BUMP OF CHICKEN TOUR 2026-2027 Ratio Clavis",
    "kind": "ワンマン",
    "venue": "グリーンアリーナ（広島）",
@@ -1469,7 +1682,16 @@
    "venue": "LaLa arena TOKYO-BAY（千葉）",
    "sale_info": "ファンクラブ先行あり。一般発売は公式で要確認",
    "source_url": "https://mrsgreenapple.com/feature/ringojamtour_shadows",
-   "confidence": "high"
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "ファンクラブ全会員先行",
+     "start": "2026-10-20",
+     "end": "2026-10-27",
+     "url": "https://mrsgreenapple.com/feature/ringojamtour_shadows#ticket",
+     "note": "10/20 12:00〜10/27 05:00。当落・入金 11/7 14:00〜11/10 23:59。15,000円"
+    }
+   ]
   },
   {
    "artist": "coldrain",
@@ -1479,18 +1701,6 @@
    "venue": "SENDAI GIGS（宮城）",
    "sale_info": "スタンディング6,800円（税込・別途ドリンク代）／開場16:00／開演17:00",
    "source_url": "https://coldrain.jp/blogs/live",
-   "confidence": "high"
-  },
-  {
-   "artist": "BUMP OF CHICKEN",
-   "date": "2026-11-29",
-   "title": "BUMP OF CHICKEN TOUR 2026-2027 Ratio Clavis",
-   "kind": "ワンマン",
-   "venue": "グリーンアリーナ（広島）",
-   "ticket_name": "イープラス",
-   "ticket_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
-   "sale_info": "11/28・29の2日間。チケットは完売",
-   "source_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
    "confidence": "high"
   },
   {
@@ -1530,7 +1740,16 @@
    "venue": "GLION ARENA KOBE（兵庫）",
    "sale_info": "ファンクラブ先行あり。一般発売は公式で要確認",
    "source_url": "https://mrsgreenapple.com/feature/ringojamtour_shadows",
-   "confidence": "high"
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "ファンクラブ全会員先行",
+     "start": "2026-10-20",
+     "end": "2026-10-27",
+     "url": "https://mrsgreenapple.com/feature/ringojamtour_shadows#ticket",
+     "note": "10/20 12:00〜10/27 05:00。当落・入金 11/7 14:00〜11/10 23:59。15,000円"
+    }
+   ]
   },
   {
    "artist": "a flood of circle",
@@ -1552,16 +1771,6 @@
    "confidence": "high"
   },
   {
-   "artist": "Mrs. GREEN APPLE",
-   "date": "2026-12-03",
-   "title": "Mrs. GREEN APPLE Ringo Jam Tour “SHADOWS”",
-   "kind": "ワンマン",
-   "venue": "GLION ARENA KOBE（兵庫）",
-   "sale_info": "ファンクラブ先行あり。一般発売は公式で要確認",
-   "source_url": "https://mrsgreenapple.com/feature/ringojamtour_shadows",
-   "confidence": "high"
-  },
-  {
    "artist": "Fear, and Loathing in Las Vegas",
    "date": "2026-12-03",
    "title": "The Focus \"Feeling of Unity\" Vol.1",
@@ -1571,6 +1780,25 @@
    "ticket_url": "https://eplus.jp/sf/detail/0524940001",
    "source_url": "https://eplus.jp/sf/detail/0524940001",
    "confidence": "low"
+  },
+  {
+   "artist": "Mrs. GREEN APPLE",
+   "date": "2026-12-03",
+   "title": "Mrs. GREEN APPLE Ringo Jam Tour “SHADOWS”",
+   "kind": "ワンマン",
+   "venue": "GLION ARENA KOBE（兵庫）",
+   "sale_info": "ファンクラブ先行あり。一般発売は公式で要確認",
+   "source_url": "https://mrsgreenapple.com/feature/ringojamtour_shadows",
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "ファンクラブ全会員先行",
+     "start": "2026-10-20",
+     "end": "2026-10-27",
+     "url": "https://mrsgreenapple.com/feature/ringojamtour_shadows#ticket",
+     "note": "10/20 12:00〜10/27 05:00。当落・入金 11/7 14:00〜11/10 23:59。15,000円"
+    }
+   ]
   },
   {
    "artist": "04 Limited Sazabys",
@@ -1594,6 +1822,15 @@
    "confidence": "high"
   },
   {
+   "artist": "Fear, and Loathing in Las Vegas",
+   "date": "2026-12-05",
+   "title": "BLAZE UP NAGASAKI 2026（12/5・6のうち12/5）",
+   "kind": "フェス",
+   "venue": "出島メッセ長崎（長崎）",
+   "source_url": "https://spice.eplus.jp/articles/342587",
+   "confidence": "high"
+  },
+  {
    "artist": "SHANK",
    "date": "2026-12-05",
    "title": "BLAZE UP NAGASAKI 2026（12/5・6・SHANK主催）",
@@ -1601,7 +1838,7 @@
    "venue": "出島メッセ長崎（長崎）",
    "ticket_name": "イープラス",
    "ticket_url": "https://eplus.jp/blazeupnagasaki/",
-   "sale_info": "12/5・6の2日間開催。先行受付は終了",
+   "sale_info": "SHANK出演 19:00〜19:45。1日10,800円/2日21,000円（中高生 1日3,000円/2日5,500円）",
    "source_url": "https://spice.eplus.jp/articles/342587",
    "confidence": "high"
   },
@@ -1646,15 +1883,6 @@
    "source_url": "https://barks.jp/news/1091706/",
    "confidence": "high",
    "date": "2026-12-05"
-  },
-  {
-   "artist": "Fear, and Loathing in Las Vegas",
-   "date": "2026-12-05",
-   "title": "BLAZE UP NAGASAKI 2026（12/5・6のうち12/5）",
-   "kind": "フェス",
-   "venue": "出島メッセ長崎（長崎）",
-   "source_url": "https://spice.eplus.jp/articles/342587",
-   "confidence": "high"
   },
   {
    "artist": "04 Limited Sazabys",
@@ -1712,7 +1940,7 @@
    "venue": "出島メッセ長崎（長崎）",
    "ticket_name": "イープラス",
    "ticket_url": "https://eplus.jp/blazeupnagasaki/",
-   "sale_info": "12/5・6の2日間開催。先行受付は終了",
+   "sale_info": "SHANK出演 19:00〜19:45。1日10,800円/2日21,000円（中高生 1日3,000円/2日5,500円）",
    "source_url": "https://spice.eplus.jp/articles/342587",
    "confidence": "high"
   },
@@ -1779,7 +2007,16 @@
    "venue": "マリンメッセ福岡 A館（福岡）",
    "sale_info": "ファンクラブ先行あり。一般発売は公式で要確認",
    "source_url": "https://mrsgreenapple.com/feature/ringojamtour_shadows",
-   "confidence": "high"
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "ファンクラブ全会員先行",
+     "start": "2026-10-20",
+     "end": "2026-10-27",
+     "url": "https://mrsgreenapple.com/feature/ringojamtour_shadows#ticket",
+     "note": "10/20 12:00〜10/27 05:00。当落・入金 11/7 14:00〜11/10 23:59。15,000円"
+    }
+   ]
   },
   {
    "artist": "coldrain",
@@ -1799,7 +2036,16 @@
    "venue": "マリンメッセ福岡 A館（福岡）",
    "sale_info": "ファンクラブ先行あり。一般発売は公式で要確認",
    "source_url": "https://mrsgreenapple.com/feature/ringojamtour_shadows",
-   "confidence": "high"
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "ファンクラブ全会員先行",
+     "start": "2026-10-20",
+     "end": "2026-10-27",
+     "url": "https://mrsgreenapple.com/feature/ringojamtour_shadows#ticket",
+     "note": "10/20 12:00〜10/27 05:00。当落・入金 11/7 14:00〜11/10 23:59。15,000円"
+    }
+   ]
   },
   {
    "artist": "Fear, and Loathing in Las Vegas",
@@ -1825,6 +2071,49 @@
    "confidence": "high"
   },
   {
+   "artist": "SHANK",
+   "date": "2026-12-12",
+   "title": "PUNK STRIKE FESTIVAL 2026（公式はtentative表記）",
+   "kind": "フェス",
+   "venue": "Shuinan Transfer Center（台湾・台中）",
+   "source_url": "https://www.shankofficial.com/live/afff8f90-0f46-47f4-8c1c-46cfdef6459c",
+   "confidence": "low"
+  },
+  {
+   "artist": "ヤバイTシャツ屋さん",
+   "date": "2026-12-12",
+   "title": "響都超特急2026",
+   "kind": "フェス",
+   "venue": "京都パルスプラザ（京都）",
+   "ticket_name": "響都超特急",
+   "ticket_url": "https://kue.rotten-g.com/26/",
+   "sale_info": "先行は8/2締切（終了）",
+   "source_url": "https://yabaitshirtsyasan.com/live/287965/",
+   "confidence": "high"
+  },
+  {
+   "artist": "BUMP OF CHICKEN",
+   "date": "2026-12-13",
+   "title": "BUMP OF CHICKEN TOUR 2026-2027 Ratio Clavis",
+   "kind": "ワンマン",
+   "venue": "マリンメッセ福岡A館（福岡）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
+   "sale_info": "12/12・13の2日間。チケットは完売",
+   "source_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
+   "confidence": "high"
+  },
+  {
+   "artist": "SHANK",
+   "date": "2026-12-13",
+   "title": "台日爆音10TH vol.1",
+   "kind": "対バン",
+   "venue": "PIPE LIVE MUSIC（台湾・台北）",
+   "sale_info": "OPEN18:30 START19:00。VIP NT$1,900 / ADV NT$1,300",
+   "source_url": "https://www.shankofficial.com/live/17da5fdd-6668-4101-b6b6-6121d7f0ae62",
+   "confidence": "high"
+  },
+  {
    "artist": "SiM",
    "date": "2026-12-13",
    "title": "結びの夢番地 2026（12/13）",
@@ -1843,18 +2132,6 @@
    "kind": "フェス",
    "venue": "京都パルスプラザ（京都）",
    "source_url": "https://coldrain.jp/blogs/live",
-   "confidence": "high"
-  },
-  {
-   "artist": "BUMP OF CHICKEN",
-   "date": "2026-12-13",
-   "title": "BUMP OF CHICKEN TOUR 2026-2027 Ratio Clavis",
-   "kind": "ワンマン",
-   "venue": "マリンメッセ福岡A館（福岡）",
-   "ticket_name": "イープラス",
-   "ticket_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
-   "sale_info": "12/12・13の2日間。チケットは完売",
-   "source_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
    "confidence": "high"
   },
   {
@@ -1878,6 +2155,27 @@
    "confidence": "high"
   },
   {
+   "artist": "SHANK",
+   "date": "2026-12-16",
+   "title": "ハルカミライ ヨーロー劇場2026 -THE 対バン-",
+   "kind": "対バン",
+   "venue": "COMTEC PORTBASE（愛知）",
+   "with": "ハルカミライ",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/shk-ofas/",
+   "sales": [
+    {
+     "label": "オフィシャル1次先行",
+     "start": "2026-10-17",
+     "end": "2026-10-20",
+     "url": "https://eplus.jp/shk-ofas/",
+     "note": "20:00〜23:59"
+    }
+   ],
+   "source_url": "https://www.shankofficial.com/news/eef12453-fd16-4414-a30f-ec8fdd37e85d",
+   "confidence": "high"
+  },
+  {
    "artist": "a flood of circle",
    "date": "2026-12-18",
    "title": "a flood of circle TOUR 革命未遂の蝶が見る夢",
@@ -1895,6 +2193,18 @@
    "sale_info": "ゲストは後日発表",
    "source_url": "https://natalie.mu/music/news/684366",
    "confidence": "low"
+  },
+  {
+   "artist": "BUMP OF CHICKEN",
+   "date": "2026-12-19",
+   "title": "BUMP OF CHICKEN TOUR 2026-2027 Ratio Clavis",
+   "kind": "ワンマン",
+   "venue": "IGアリーナ（愛知）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
+   "sale_info": "12/19・20の2日間。チケットは完売",
+   "source_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
+   "confidence": "high"
   },
   {
    "artist": "Mrs. GREEN APPLE",
@@ -1928,8 +2238,40 @@
    "confidence": "high"
   },
   {
-   "artist": "BUMP OF CHICKEN",
+   "artist": "あいみょん",
    "date": "2026-12-19",
+   "title": "MERRY ROCK PARADE 2026",
+   "kind": "フェス",
+   "venue": "ポートメッセなごや（愛知）",
+   "with": "あいみょんがヘッドライナー",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/word/0000069557",
+   "sale_info": "開場9:00 開演11:00",
+   "sales": [
+    {
+     "label": "オフィシャル最速先行",
+     "start": "2026-10-16",
+     "end": "2026-10-25",
+     "url": "https://merryrockparade.jp/",
+     "note": "10/16 18:00〜10/25 23:59"
+    }
+   ],
+   "source_url": "https://www.aimyong.net/news/detail/3666",
+   "confidence": "high"
+  },
+  {
+   "artist": "04 Limited Sazabys",
+   "date": "2026-12-20",
+   "title": "MERRY ROCK PARADE 2026",
+   "kind": "フェス",
+   "venue": "ポートメッセなごや（愛知）",
+   "ticket_url": "https://www.merryrockparade.jp/",
+   "source_url": "https://www.04limitedsazabys.com/news/detail/2400",
+   "confidence": "high"
+  },
+  {
+   "artist": "BUMP OF CHICKEN",
+   "date": "2026-12-20",
    "title": "BUMP OF CHICKEN TOUR 2026-2027 Ratio Clavis",
    "kind": "ワンマン",
    "venue": "IGアリーナ（愛知）",
@@ -1959,15 +2301,13 @@
    "confidence": "high"
   },
   {
-   "artist": "BUMP OF CHICKEN",
+   "artist": "ヤバイTシャツ屋さん",
    "date": "2026-12-20",
-   "title": "BUMP OF CHICKEN TOUR 2026-2027 Ratio Clavis",
-   "kind": "ワンマン",
-   "venue": "IGアリーナ（愛知）",
-   "ticket_name": "イープラス",
-   "ticket_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
-   "sale_info": "12/19・20の2日間。チケットは完売",
-   "source_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
+   "title": "MERRY ROCK PARADE 2026",
+   "kind": "フェス",
+   "venue": "ポートメッセなごや（愛知）",
+   "ticket_url": "https://www.merryrockparade.jp/",
+   "source_url": "https://yabaitshirtsyasan.com/live/295750/",
    "confidence": "high"
   },
   {
@@ -1991,6 +2331,28 @@
    "title": "FM802 ROCK FESTIVAL RADIO CRAZY 2026（12/26）"
   },
   {
+   "artist": "ELLEGARDEN",
+   "date": "2026-12-26",
+   "title": "冬の日本海シリーズ 2026",
+   "kind": "対バン",
+   "venue": "朱鷺メッセ 新潟コンベンションセンター（新潟）",
+   "with": "マキシマム ザ ホルモン, MAN WITH A MISSION, 浅井健一",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/4606820001-P0030001P021001?P1=0175",
+   "sale_info": "開場13:30 開演15:00",
+   "sales": [
+    {
+     "label": "先着一般発売",
+     "start": "2026-10-24",
+     "end": "2026-12-24",
+     "url": "https://eplus.jp/sf/detail/4606820001-P0030001P021001?P1=0175",
+     "note": "10:00〜18:00。ページ内に「受付終了」の記載もあり要確認"
+    }
+   ],
+   "source_url": "https://eplus.jp/sf/detail/4606820001-P0030001P021001?P1=0175",
+   "confidence": "high"
+  },
+  {
    "artist": "ハルカミライ",
    "date": "2026-12-26",
    "title": "FM802 ROCK FESTIVAL RADIO CRAZY 2026（12/26）",
@@ -2008,6 +2370,28 @@
     }
    ],
    "source_url": "https://eplus.jp/radiocrazy2026/",
+   "confidence": "high"
+  },
+  {
+   "artist": "マキシマム ザ ホルモン",
+   "date": "2026-12-26",
+   "title": "冬の日本海シリーズ 2026",
+   "kind": "対バン",
+   "venue": "朱鷺メッセ 新潟コンベンションセンター（新潟）",
+   "with": "ELLEGARDEN, MAN WITH A MISSION, 浅井健一",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/4606820001-P0030001P021001?P1=0175",
+   "sale_info": "開場13:30 開演15:00",
+   "sales": [
+    {
+     "label": "先着一般発売",
+     "start": "2026-10-24",
+     "end": "2026-12-24",
+     "url": "https://eplus.jp/sf/detail/4606820001-P0030001P021001?P1=0175",
+     "note": "10:00〜18:00。ページ内に「受付終了」の記載もあり要確認"
+    }
+   ],
+   "source_url": "https://eplus.jp/sf/detail/4606820001-P0030001P021001?P1=0175",
    "confidence": "high"
   },
   {
@@ -2324,6 +2708,17 @@
    ]
   },
   {
+   "artist": "04 Limited Sazabys",
+   "date": "2027-01-09",
+   "title": "go!go!vanillas presents「ぼくらのタイマン上等ツアー」",
+   "kind": "対バン",
+   "venue": "Zepp Nagoya（愛知）",
+   "with": "go!go!vanillas",
+   "sale_info": "2027/1/8・9の2日間のうち1/9(土)17:00開演。出演日は要確認",
+   "source_url": "https://natalie.mu/music/news/676847",
+   "confidence": "low"
+  },
+  {
    "artist": "HEY-SMITH",
    "date": "2027-01-09",
    "title": "HEY-SMITH 20th ANNIVERSARY『ALL OVER JAPAN TOUR』",
@@ -2334,17 +2729,6 @@
    "sale_info": "1F立見/2F指定 4,600円（ドリンク別）",
    "source_url": "https://spice.eplus.jp/articles/344241",
    "confidence": "high"
-  },
-  {
-   "artist": "04 Limited Sazabys",
-   "date": "2027-01-09",
-   "title": "go!go!vanillas presents「ぼくらのタイマン上等ツアー」",
-   "kind": "対バン",
-   "venue": "Zepp Nagoya（愛知）",
-   "with": "go!go!vanillas",
-   "sale_info": "2027/1/8・9の2日間のうち1/9(土)17:00開演。出演日は要確認",
-   "source_url": "https://natalie.mu/music/news/676847",
-   "confidence": "low"
   },
   {
    "artist": "HEY-SMITH",
@@ -2380,6 +2764,27 @@
    "ticket_url": "https://eplus.jp/heysmith_AOJ47tour/",
    "sale_info": "1F立見/2F指定 4,600円（ドリンク別）",
    "source_url": "https://spice.eplus.jp/articles/344241",
+   "confidence": "high"
+  },
+  {
+   "artist": "ヤバイTシャツ屋さん",
+   "date": "2027-01-14",
+   "title": "Sanrio Kawaii Me Live! リリース記念ライブ",
+   "kind": "イベント",
+   "venue": "横浜関内ホール（神奈川）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://sanrio-games.jp/",
+   "sale_info": "開場17:45 開演18:15",
+   "sales": [
+    {
+     "label": "イープラス一次抽選",
+     "start": "2026-10-18",
+     "end": "2026-11-01",
+     "url": "https://sanrio-games.jp/",
+     "note": "10/18 12:00〜11/1 11:59"
+    }
+   ],
+   "source_url": "https://yabaitshirtsyasan.com/live/295426/",
    "confidence": "high"
   },
   {
@@ -2478,17 +2883,6 @@
    "confidence": "high"
   },
   {
-   "artist": "Fear, and Loathing in Las Vegas",
-   "date": "2027-01-23",
-   "title": "The Focus \"Feeling of Unity\" Vol.1",
-   "kind": "対バン",
-   "venue": "GORILLA HALL OSAKA（大阪）",
-   "ticket_name": "イープラス",
-   "ticket_url": "https://eplus.jp/sf/detail/0524940001",
-   "source_url": "https://eplus.jp/sf/detail/0524940001",
-   "confidence": "low"
-  },
-  {
    "artist": "BUMP OF CHICKEN",
    "date": "2027-01-23",
    "title": "BUMP OF CHICKEN TOUR 2026-2027 Ratio Clavis ドーム追加公演",
@@ -2508,6 +2902,17 @@
    ],
    "source_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
    "confidence": "high"
+  },
+  {
+   "artist": "Fear, and Loathing in Las Vegas",
+   "date": "2027-01-23",
+   "title": "The Focus \"Feeling of Unity\" Vol.1",
+   "kind": "対バン",
+   "venue": "GORILLA HALL OSAKA（大阪）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/0524940001",
+   "source_url": "https://eplus.jp/sf/detail/0524940001",
+   "confidence": "low"
   },
   {
    "artist": "04 Limited Sazabys",
@@ -2619,6 +3024,27 @@
     }
    ],
    "source_url": "https://xhl-music.com/feature/hypelikeit",
+   "confidence": "high"
+  },
+  {
+   "artist": "BUMP OF CHICKEN",
+   "date": "2027-01-24",
+   "title": "BUMP OF CHICKEN TOUR 2026-2027 Ratio Clavis ドーム追加公演",
+   "kind": "ワンマン",
+   "venue": "京セラドーム大阪（大阪）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
+   "sale_info": "1/23・24の2日間。追加プレオーダーは8/28〜9/6で受付終了",
+   "sales": [
+    {
+     "label": "追加プレオーダー",
+     "start": "2026-08-28",
+     "end": "2026-09-06",
+     "url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
+     "note": "23:59締切"
+    }
+   ],
+   "source_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
    "confidence": "high"
   },
   {
@@ -2811,27 +3237,6 @@
    "confidence": "high"
   },
   {
-   "artist": "BUMP OF CHICKEN",
-   "date": "2027-01-24",
-   "title": "BUMP OF CHICKEN TOUR 2026-2027 Ratio Clavis ドーム追加公演",
-   "kind": "ワンマン",
-   "venue": "京セラドーム大阪（大阪）",
-   "ticket_name": "イープラス",
-   "ticket_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
-   "sale_info": "1/23・24の2日間。追加プレオーダーは8/28〜9/6で受付終了",
-   "sales": [
-    {
-     "label": "追加プレオーダー",
-     "start": "2026-08-28",
-     "end": "2026-09-06",
-     "url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
-     "note": "23:59締切"
-    }
-   ],
-   "source_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
-   "confidence": "high"
-  },
-  {
    "artist": "04 Limited Sazabys",
    "date": "2027-01-30",
    "title": "FUKUOKA MUSIC FES.2027 supported by Trunk（1/30・31のどちらか）",
@@ -2874,6 +3279,47 @@
    "sale_info": "沖縄2days公演（1/30・31）"
   },
   {
+   "artist": "ヤバイTシャツ屋さん",
+   "date": "2027-02-04",
+   "title": "ヤングスキニー 老いてもヤングスキニーツアー vol.7",
+   "kind": "対バン",
+   "venue": "奈良EVANS CASTLE HALL（奈良）",
+   "with": "ヤングスキニー",
+   "ticket_name": "ローソンチケット",
+   "ticket_url": "https://l-tike.com/yangskinny/",
+   "sales": [
+    {
+     "label": "プレリクエスト2次先行",
+     "start": "2026-08-21",
+     "end": "2026-09-01",
+     "url": "https://l-tike.com/yangskinny/"
+    }
+   ],
+   "source_url": "https://yabaitshirtsyasan.com/live/293577/",
+   "confidence": "high"
+  },
+  {
+   "artist": "BUMP OF CHICKEN",
+   "date": "2027-02-06",
+   "title": "BUMP OF CHICKEN TOUR 2026-2027 Ratio Clavis ドーム追加公演",
+   "kind": "ワンマン",
+   "venue": "東京ドーム（東京）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
+   "sale_info": "2/6・7の2日間。追加プレオーダーは8/28〜9/6で受付終了",
+   "sales": [
+    {
+     "label": "追加プレオーダー",
+     "start": "2026-08-28",
+     "end": "2026-09-06",
+     "url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
+     "note": "23:59締切"
+    }
+   ],
+   "source_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
+   "confidence": "high"
+  },
+  {
    "artist": "HEY-SMITH",
    "date": "2027-02-06",
    "title": "HEY-SMITH 20th ANNIVERSARY『ALL OVER JAPAN TOUR』",
@@ -2898,7 +3344,7 @@
   },
   {
    "artist": "BUMP OF CHICKEN",
-   "date": "2027-02-06",
+   "date": "2027-02-07",
    "title": "BUMP OF CHICKEN TOUR 2026-2027 Ratio Clavis ドーム追加公演",
    "kind": "ワンマン",
    "venue": "東京ドーム（東京）",
@@ -2940,27 +3386,6 @@
    "confidence": "high"
   },
   {
-   "artist": "BUMP OF CHICKEN",
-   "date": "2027-02-07",
-   "title": "BUMP OF CHICKEN TOUR 2026-2027 Ratio Clavis ドーム追加公演",
-   "kind": "ワンマン",
-   "venue": "東京ドーム（東京）",
-   "ticket_name": "イープラス",
-   "ticket_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
-   "sale_info": "2/6・7の2日間。追加プレオーダーは8/28〜9/6で受付終了",
-   "sales": [
-    {
-     "label": "追加プレオーダー",
-     "start": "2026-08-28",
-     "end": "2026-09-06",
-     "url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
-     "note": "23:59締切"
-    }
-   ],
-   "source_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
-   "confidence": "high"
-  },
-  {
    "artist": "HEY-SMITH",
    "date": "2027-02-09",
    "title": "HEY-SMITH 20th ANNIVERSARY『ALL OVER JAPAN TOUR』",
@@ -2983,7 +3408,8 @@
    "ticket_url": "https://eplus.jp/heysmith_AOJ47tour/",
    "sale_info": "1F立見/2F指定 4,600円（ドリンク別）",
    "source_url": "https://spice.eplus.jp/articles/344241",
-   "confidence": "high"
+   "confidence": "high",
+   "with": "ヤバイTシャツ屋さん"
   },
   {
    "artist": "HEY-SMITH",
@@ -2995,7 +3421,8 @@
    "ticket_url": "https://eplus.jp/heysmith_AOJ47tour/",
    "sale_info": "1F立見/2F指定 4,600円（ドリンク別）",
    "source_url": "https://spice.eplus.jp/articles/344241",
-   "confidence": "high"
+   "confidence": "high",
+   "with": "ヤバイTシャツ屋さん"
   },
   {
    "artist": "あいみょん",
@@ -3017,7 +3444,8 @@
    "ticket_url": "https://eplus.jp/heysmith_AOJ47tour/",
    "sale_info": "1F立見/2F指定 4,600円（ドリンク別）",
    "source_url": "https://spice.eplus.jp/articles/344241",
-   "confidence": "high"
+   "confidence": "high",
+   "with": "ヤバイTシャツ屋さん"
   },
   {
    "artist": "あいみょん",
@@ -3226,6 +3654,16 @@
    "confidence": "high"
   },
   {
+   "artist": "04 Limited Sazabys",
+   "date": "2027-03-13",
+   "title": "RUMBLE×JAG 2027（3/13・14のどちらか。出演日未発表）",
+   "kind": "フェス",
+   "venue": "AICHI SKY EXPO（愛知）",
+   "sale_info": "出演日は後日発表",
+   "source_url": "https://www.04limitedsazabys.com/news/detail/2415",
+   "confidence": "low"
+  },
+  {
    "artist": "HEY-SMITH",
    "date": "2027-03-13",
    "title": "HEY-SMITH 20th ANNIVERSARY『ALL OVER JAPAN TOUR』",
@@ -3304,6 +3742,23 @@
    "confidence": "high"
   },
   {
+   "artist": "SHANK",
+   "date": "2027-03-20",
+   "title": "Dizzy Sunfist \"OUR DREAM IS NOT DEAD\" TOUR 2027",
+   "kind": "対バン",
+   "venue": "Yogibo META VALLEY（大阪）",
+   "with": "Dizzy Sunfist, Jen Pop(The Bombpops)",
+   "sales": [
+    {
+     "label": "一般発売",
+     "start": "2026-10-10",
+     "note": "10:00"
+    }
+   ],
+   "source_url": "https://www.shankofficial.com/news/25ad52ff-bec6-48c8-8b4b-48cab4304b44",
+   "confidence": "high"
+  },
+  {
    "artist": "あいみょん",
    "date": "2027-03-20",
    "title": "AIMYON TOUR 2027",
@@ -3314,12 +3769,39 @@
    "confidence": "high"
   },
   {
+   "artist": "ヤバイTシャツ屋さん",
+   "date": "2027-03-20",
+   "title": "MEGA VEGAS 2027（3/20・21のどちらか。出演日未定）",
+   "kind": "フェス",
+   "venue": "神戸ワールド記念ホール（兵庫）",
+   "sale_info": "出演日未定",
+   "source_url": "https://yabaitshirtsyasan.com/live/296251/",
+   "confidence": "low"
+  },
+  {
    "artist": "あいみょん",
    "date": "2027-03-21",
    "title": "AIMYON TOUR 2027",
    "kind": "ワンマン",
    "venue": "セキスイハイムスーパーアリーナ（宮城）",
    "source_url": "https://realsound.jp/2026/07/post-2462631.html",
+   "confidence": "high"
+  },
+  {
+   "artist": "SHANK",
+   "date": "2027-03-22",
+   "title": "Dizzy Sunfist \"OUR DREAM IS NOT DEAD\" TOUR 2027",
+   "kind": "対バン",
+   "venue": "JAMMIN'（愛知）",
+   "with": "Dizzy Sunfist, Jen Pop(The Bombpops)",
+   "sales": [
+    {
+     "label": "一般発売",
+     "start": "2026-10-10",
+     "note": "10:00"
+    }
+   ],
+   "source_url": "https://www.shankofficial.com/news/25ad52ff-bec6-48c8-8b4b-48cab4304b44",
    "confidence": "high"
   },
   {
@@ -3563,6 +4045,32 @@
    "confidence": "low"
   },
   {
+   "artist": "ヤバイTシャツ屋さん",
+   "date": "2027-05-08",
+   "title": "Tank-top Festival 2027 ONE-MAN SHOW",
+   "kind": "ワンマン",
+   "venue": "志摩スペイン村パルケエスパーニャ（三重）",
+   "ticket_name": "ローソンチケット",
+   "ticket_url": "https://l-tike.com/ttfes2027/",
+   "sales": [
+    {
+     "label": "顧客倶楽部0次先行",
+     "start": "2026-10-07",
+     "end": "2026-10-12",
+     "note": "20:00〜23:59"
+    },
+    {
+     "label": "オフィシャル1次抽選",
+     "start": "2026-10-07",
+     "end": "2026-10-20",
+     "url": "https://l-tike.com/ttfes2027/",
+     "note": "終了"
+    }
+   ],
+   "source_url": "https://yabaitshirtsyasan.com/news/297046/",
+   "confidence": "high"
+  },
+  {
    "artist": "Mrs. GREEN APPLE",
    "date": "2027-05-09",
    "title": "Harmony2",
@@ -3583,6 +4091,17 @@
    "sale_info": "5/8・9の2日間",
    "source_url": "https://l-tike.com/ttfes2027/",
    "confidence": "low"
+  },
+  {
+   "artist": "ヤバイTシャツ屋さん",
+   "date": "2027-05-09",
+   "title": "Tank-top Festival 2027 WACHA-WACHA SHOW",
+   "kind": "ワンマン",
+   "venue": "志摩スペイン村パルケエスパーニャ（三重）",
+   "ticket_name": "ローソンチケット",
+   "ticket_url": "https://l-tike.com/ttfes2027/",
+   "source_url": "https://yabaitshirtsyasan.com/news/297046/",
+   "confidence": "high"
   },
   {
    "artist": "Mrs. GREEN APPLE",
@@ -6312,15 +6831,20 @@
  "artist_links": {
   "あいみょん": {
    "official": "https://www.aimyong.net/",
-   "schedule": "https://www.aimyong.net/feature/tour2027"
+   "schedule": "https://www.aimyong.net/feature/tour2027",
+   "eplus": "https://eplus.jp/sf/word/0000069557"
   },
-  "Hi-STANDARD": {},
+  "Hi-STANDARD": {
+   "eplus": "https://eplus.jp/sf/word/0000000941"
+  },
   "Mrs. GREEN APPLE": {
    "official": "https://mrsgreenapple.com/",
    "schedule": "https://mrsgreenapple.com/feature/ringojamtour_shadows"
   },
   "SHANK": {
-   "official": "https://www.shankofficial.com/"
+   "official": "https://www.shankofficial.com/",
+   "schedule": "https://www.shankofficial.com/live",
+   "eplus": "https://eplus.jp/shk-ofas/"
   },
   "[Alexandros]": {
    "eplus": "https://eplus.jp/sf/word/0000038798"
@@ -6355,6 +6879,42 @@
   },
   "BUMP OF CHICKEN": {
    "eplus": "https://eplus.jp/sf/web/live/irg/boc2026/ep"
+  },
+  "back number": {
+   "official": "https://backnumber.info/",
+   "schedule": "https://backnumber.info/schedule/list"
+  },
+  "ヤバイTシャツ屋さん": {
+   "official": "https://yabaitshirtsyasan.com/",
+   "schedule": "https://yabaitshirtsyasan.com/live/"
+  },
+  "04 Limited Sazabys": {
+   "official": "https://www.04limitedsazabys.com/"
+  },
+  "ORAL CIGARETTES": {
+   "official": "https://theoralcigarettes.com/"
+  },
+  "ELLEGARDEN": {
+   "official": "https://www.ellegarden.jp/",
+   "eplus": "https://eplus.jp/ellegarden2026/"
+  },
+  "HEY-SMITH": {
+   "official": "https://hey-smith.com/",
+   "schedule": "https://hey-smith.com/live"
+  },
+  "サンボマスター": {
+   "official": "https://www.sambomaster.com/",
+   "schedule": "https://www.sambomaster.com/live/",
+   "eplus": "https://eplus.jp/sf/word/0000002764"
+  },
+  "マキシマム ザ ホルモン": {
+   "eplus": "https://eplus.jp/sf/word/0000003230"
+  },
+  "10-FEET": {
+   "eplus": "https://eplus.jp/sf/word/0000002089"
+  },
+  "ROTTENGRAFFTY": {
+   "eplus": "https://eplus.jp/sf/detail/0069680001"
   }
  },
  "aliases": {
@@ -6501,59 +7061,66 @@
  "artist_status": {
   "Hi-STANDARD": {
    "state": "ok",
-   "checked": "2026-10-19T06:51:00+09:00"
+   "checked": "2026-10-24T09:20:00+09:00"
   },
   "Mrs. GREEN APPLE": {
    "state": "ok",
-   "checked": "2026-10-19T06:51:00+09:00"
+   "checked": "2026-10-24T09:20:00+09:00",
+   "news_checked": "2026-10-24T09:20:00+09:00"
   },
   "back number": {
    "state": "no_events",
-   "checked": "2026-10-19T06:51:00+09:00"
+   "checked": "2026-10-24T09:20:00+09:00",
+   "news_checked": "2026-10-24T09:20:00+09:00"
   },
   "04 Limited Sazabys": {
    "state": "ok",
-   "checked": "2026-10-19T06:51:00+09:00"
+   "checked": "2026-10-24T09:20:00+09:00",
+   "news_checked": "2026-10-24T09:20:00+09:00"
   },
   "ELLEGARDEN": {
    "state": "ok",
-   "checked": "2026-10-19T06:51:00+09:00"
+   "checked": "2026-10-24T09:20:00+09:00"
   },
   "ヤバイTシャツ屋さん": {
    "state": "ok",
-   "checked": "2026-10-19T06:51:00+09:00"
+   "checked": "2026-10-24T09:20:00+09:00",
+   "news_checked": "2026-10-24T09:20:00+09:00"
   },
   "ORAL CIGARETTES": {
    "state": "ok",
-   "checked": "2026-10-19T06:51:00+09:00"
+   "checked": "2026-10-24T09:20:00+09:00",
+   "news_checked": "2026-10-24T09:20:00+09:00"
   },
   "HEY-SMITH": {
    "state": "ok",
-   "checked": "2026-10-19T06:51:00+09:00"
+   "checked": "2026-10-24T09:20:00+09:00"
   },
   "マキシマム ザ ホルモン": {
    "state": "ok",
-   "checked": "2026-10-19T06:51:00+09:00"
+   "checked": "2026-10-24T09:20:00+09:00"
   },
   "サンボマスター": {
    "state": "ok",
-   "checked": "2026-10-19T06:51:00+09:00"
+   "checked": "2026-10-24T09:20:00+09:00"
   },
   "あいみょん": {
    "state": "ok",
-   "checked": "2026-10-19T06:51:00+09:00"
+   "checked": "2026-10-24T09:20:00+09:00",
+   "news_checked": "2026-10-24T09:20:00+09:00"
   },
   "10-FEET": {
    "state": "ok",
-   "checked": "2026-10-19T06:51:00+09:00"
+   "checked": "2026-10-24T09:20:00+09:00"
   },
   "SHANK": {
    "state": "ok",
-   "checked": "2026-10-19T06:51:00+09:00"
+   "checked": "2026-10-24T09:20:00+09:00",
+   "news_checked": "2026-10-24T09:20:00+09:00"
   },
   "ROTTENGRAFFTY": {
    "state": "ok",
-   "checked": "2026-10-19T06:51:00+09:00"
+   "checked": "2026-10-24T09:20:00+09:00"
   },
   "SiM": {
    "state": "ok",
