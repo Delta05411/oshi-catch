@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T18:30:00+09:00",
+ "updated": "2026-10-23T23:50:00+09:00",
  "artists": [
   "04 Limited Sazabys",
   "ELLEGARDEN",
@@ -24,7 +24,8 @@
   "TenTwenty",
   "Wienners",
   "ハルカミライ",
-  "UNISON SQUARE GARDEN"
+  "UNISON SQUARE GARDEN",
+  "Fear, and Loathing in Las Vegas"
  ],
  "events": [
   {
@@ -426,6 +427,17 @@
    "venue": "女川町総合運動場（宮城）",
    "sale_info": "10/31・11/1の開催。ホルモンは報道ベースで要確認",
    "source_url": "https://natalie.mu/music/news/691796",
+   "confidence": "low"
+  },
+  {
+   "artist": "Fear, and Loathing in Las Vegas",
+   "date": "2026-11-01",
+   "title": "The Focus \"Feeling of Unity\" Vol.1",
+   "kind": "対バン",
+   "venue": "仙台Rensa（宮城）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/0524940001",
+   "source_url": "https://eplus.jp/sf/detail/0524940001",
    "confidence": "low"
   },
   {
@@ -908,6 +920,17 @@
    "confidence": "low"
   },
   {
+   "artist": "Fear, and Loathing in Las Vegas",
+   "date": "2026-11-13",
+   "title": "The Focus \"Feeling of Unity\" Vol.1",
+   "kind": "対バン",
+   "venue": "KYOTO MUSE（京都）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/0524940001",
+   "source_url": "https://eplus.jp/sf/detail/0524940001",
+   "confidence": "low"
+  },
+  {
    "artist": "HEY-SMITH",
    "date": "2026-11-14",
    "title": "HEY-SMITH 20th ANNIVERSARY『ALL OVER JAPAN TOUR』",
@@ -1073,6 +1096,17 @@
    "confidence": "high"
   },
   {
+   "artist": "Fear, and Loathing in Las Vegas",
+   "date": "2026-11-19",
+   "title": "The Focus \"Feeling of Unity\" Vol.1",
+   "kind": "対バン",
+   "venue": "名古屋 DIAMOND HALL（愛知）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/0524940001",
+   "source_url": "https://eplus.jp/sf/detail/0524940001",
+   "confidence": "low"
+  },
+  {
    "artist": "ROTTENGRAFFTY",
    "date": "2026-11-20",
    "title": "響都超特急TOUR2026",
@@ -1102,6 +1136,17 @@
    "venue": "豊洲PIT（東京）",
    "source_url": "https://coldrain.jp/blogs/live",
    "confidence": "high"
+  },
+  {
+   "artist": "Fear, and Loathing in Las Vegas",
+   "date": "2026-11-22",
+   "title": "The Focus \"Feeling of Unity\" Vol.1",
+   "kind": "対バン",
+   "venue": "NIIGATA LOTS（新潟）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/0524940001",
+   "source_url": "https://eplus.jp/sf/detail/0524940001",
+   "confidence": "low"
   },
   {
    "artist": "ROTTENGRAFFTY",
@@ -1217,6 +1262,17 @@
    "ticket_url": "https://eplus.jp/sf/word/0000069733",
    "sale_info": "19:00開演/18:00開場（公演名・料金は要確認）",
    "source_url": "https://eplus.jp/sf/word/0000069733",
+   "confidence": "low"
+  },
+  {
+   "artist": "Fear, and Loathing in Las Vegas",
+   "date": "2026-11-27",
+   "title": "The Focus \"Feeling of Unity\" Vol.1",
+   "kind": "対バン",
+   "venue": "Zepp Haneda(TOKYO)（東京）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/0524940001",
+   "source_url": "https://eplus.jp/sf/detail/0524940001",
    "confidence": "low"
   },
   {
@@ -1361,6 +1417,17 @@
    "confidence": "high"
   },
   {
+   "artist": "Fear, and Loathing in Las Vegas",
+   "date": "2026-12-03",
+   "title": "The Focus \"Feeling of Unity\" Vol.1",
+   "kind": "対バン",
+   "venue": "DRUM LOGOS（福岡）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/0524940001",
+   "source_url": "https://eplus.jp/sf/detail/0524940001",
+   "confidence": "low"
+  },
+  {
    "artist": "04 Limited Sazabys",
    "date": "2026-12-04",
    "title": "TORI ROCK FESTIVAL'26（12/4・5のどちらか）",
@@ -1434,6 +1501,15 @@
    "source_url": "https://barks.jp/news/1091706/",
    "confidence": "high",
    "date": "2026-12-05"
+  },
+  {
+   "artist": "Fear, and Loathing in Las Vegas",
+   "date": "2026-12-05",
+   "title": "BLAZE UP NAGASAKI 2026（12/5・6のうち12/5）",
+   "kind": "フェス",
+   "venue": "出島メッセ長崎（長崎）",
+   "source_url": "https://spice.eplus.jp/articles/342587",
+   "confidence": "high"
   },
   {
    "artist": "04 Limited Sazabys",
@@ -1579,6 +1655,17 @@
    "sale_info": "ファンクラブ先行あり。一般発売は公式で要確認",
    "source_url": "https://mrsgreenapple.com/feature/ringojamtour_shadows",
    "confidence": "high"
+  },
+  {
+   "artist": "Fear, and Loathing in Las Vegas",
+   "date": "2026-12-11",
+   "title": "The Focus \"Feeling of Unity\" Vol.1",
+   "kind": "対バン",
+   "venue": "岡山CRAZYMAMA KINGDOM（岡山）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/0524940001",
+   "source_url": "https://eplus.jp/sf/detail/0524940001",
+   "confidence": "low"
   },
   {
    "artist": "SiM",
@@ -2196,6 +2283,17 @@
    "sale_info": "1F立見/2F指定 4,600円（ドリンク別）",
    "source_url": "https://spice.eplus.jp/articles/344241",
    "confidence": "high"
+  },
+  {
+   "artist": "Fear, and Loathing in Las Vegas",
+   "date": "2027-01-23",
+   "title": "The Focus \"Feeling of Unity\" Vol.1",
+   "kind": "対バン",
+   "venue": "GORILLA HALL OSAKA（大阪）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/0524940001",
+   "source_url": "https://eplus.jp/sf/detail/0524940001",
+   "confidence": "low"
   },
   {
    "artist": "04 Limited Sazabys",
@@ -5935,6 +6033,9 @@
   "ハルカミライ": {
    "official": "https://www.harukamirai.com/",
    "eplus": "https://eplus.jp/sf/word/0000069733"
+  },
+  "Fear, and Loathing in Las Vegas": {
+   "eplus": "https://eplus.jp/sf/detail/0524940001"
   }
  },
  "aliases": {
@@ -6044,6 +6145,12 @@
    "Unison Square Garden",
    "ユニゾン",
    "ユニゾンスクエアガーデン"
+  ],
+  "Fear, and Loathing in Las Vegas": [
+   "ラスベガス",
+   "FaLiLV",
+   "Fear and Loathing in Las Vegas",
+   "フィアーアンドローシングインラスベガス"
   ]
  },
  "rejected": [
@@ -6153,6 +6260,10 @@
   "UNISON SQUARE GARDEN": {
    "state": "no_events",
    "checked": "2026-10-19T20:10:00+09:00"
+  },
+  "Fear, and Loathing in Las Vegas": {
+   "state": "ok",
+   "checked": "2026-10-23T23:50:00+09:00"
   }
  }
 }
