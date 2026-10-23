@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T11:00:00+09:00",
+ "updated": "2026-10-24T07:30:00+09:00",
  "artists": [
   "04 Limited Sazabys",
   "ELLEGARDEN",
@@ -31,39 +31,6 @@
   "BUMP OF CHICKEN"
  ],
  "events": [
-  {
-   "artist": "ELLEGARDEN",
-   "date": "2026-10-23",
-   "title": "Bad For Education Tour II (2026)",
-   "kind": "ワンマン",
-   "venue": "COMTEC PORTBASE（愛知）",
-   "ticket_name": "e+",
-   "ticket_url": "https://eplus.jp/sf/word/0000002116",
-   "source_url": "https://realsound.jp/2026/08/post-2487674.html",
-   "confidence": "high"
-  },
-  {
-   "artist": "Mrs. GREEN APPLE",
-   "date": "2026-10-23",
-   "title": "Mrs. GREEN APPLE Ringo Jam Tour “SHADOWS”",
-   "kind": "ワンマン",
-   "venue": "Makomanai Sekisui Heim Ice Arena（北海道）",
-   "sale_info": "ファンクラブ先行あり。一般発売は公式で要確認",
-   "source_url": "https://mrsgreenapple.com/feature/ringojamtour_shadows",
-   "confidence": "high"
-  },
-  {
-   "artist": "a flood of circle",
-   "date": "2026-10-23",
-   "title": "a flood of circle TOUR 革命未遂の蝶が見る夢",
-   "kind": "ワンマン",
-   "venue": "旭川CASINO DRIVE（北海道）",
-   "source_url": "https://realsound.jp/2026/05/post-2386759.html",
-   "confidence": "high",
-   "ticket_name": "イープラス",
-   "ticket_url": "https://eplus.jp/afloodofcircle-ep/",
-   "sale_info": "一般発売中（先着）"
-  },
   {
    "artist": "04 Limited Sazabys",
    "date": "2026-10-24",
@@ -601,17 +568,6 @@
    "confidence": "high"
   },
   {
-   "artist": "04 Limited Sazabys",
-   "date": "2026-11-16",
-   "title": "ONE MAN TOUR 2026 横浜（10/2延期の振替公演）",
-   "kind": "ワンマン",
-   "venue": "KT Zepp Yokohama（神奈川）",
-   "sale_info": "10/2(金)公演の振替。開場18:00 開演19:00。払い戻しをしないチケットはそのまま有効（払い戻し受付は10/19で終了）",
-   "ticket_name": "チケプラ",
-   "source_url": "https://www.04limitedsazabys.com/news/detail/2446",
-   "confidence": "high"
-  },
-  {
    "artist": "Mrs. GREEN APPLE",
    "date": "2026-11-05",
    "title": "Mrs. GREEN APPLE Ringo Jam Tour “SHADOWS”",
@@ -1124,6 +1080,17 @@
    "ticket_url": "https://eplus.jp/sf/detail/0178780001-P0030532P021001?P1=0175",
    "sale_info": "開場16:30 開演17:00",
    "source_url": "https://eplus.jp/sf/word/0000009226",
+   "confidence": "high"
+  },
+  {
+   "artist": "04 Limited Sazabys",
+   "date": "2026-11-16",
+   "title": "ONE MAN TOUR 2026 横浜（10/2延期の振替公演）",
+   "kind": "ワンマン",
+   "venue": "KT Zepp Yokohama（神奈川）",
+   "sale_info": "10/2(金)公演の振替。開場18:00 開演19:00。払い戻しをしないチケットはそのまま有効（払い戻し受付は10/19で終了）",
+   "ticket_name": "チケプラ",
+   "source_url": "https://www.04limitedsazabys.com/news/detail/2446",
    "confidence": "high"
   },
   {
