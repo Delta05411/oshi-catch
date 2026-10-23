@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T23:50:00+09:00",
+ "updated": "2026-10-23T23:51:30+09:00",
  "artists": [
   "04 Limited Sazabys",
   "ELLEGARDEN",
@@ -25,7 +25,9 @@
   "Wienners",
   "ハルカミライ",
   "UNISON SQUARE GARDEN",
-  "Fear, and Loathing in Las Vegas"
+  "Fear, and Loathing in Las Vegas",
+  "9mm Parabellum Bullet",
+  "斎藤宏介"
  ],
  "events": [
   {
@@ -734,6 +736,26 @@
    "confidence": "high"
   },
   {
+   "artist": "9mm Parabellum Bullet",
+   "date": "2026-11-07",
+   "title": "9mm Parabellum Bullet Tour 2026-27「Raison d’être」",
+   "kind": "ワンマン",
+   "venue": "金沢EIGHT HALL（石川県）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/0178780001-P0030529P021001?P1=0175",
+   "sale_info": "開場17:00 開演17:30",
+   "source_url": "https://eplus.jp/sf/word/0000009226",
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "一般発売",
+     "start": "2026-10-03",
+     "end": "2026-11-06",
+     "note": "先着 10:00〜11/6 18:00"
+    }
+   ]
+  },
+  {
    "artist": "coldrain",
    "date": "2026-11-08",
    "title": "浪人祭 Vagabond Festival 2026",
@@ -752,6 +774,18 @@
    "ticket_url": "https://eplus.jp/sf/word/0000002764",
    "source_url": "https://eplus.jp/sf/word/0000002764",
    "confidence": "low"
+  },
+  {
+   "artist": "9mm Parabellum Bullet",
+   "date": "2026-11-08",
+   "title": "9mm Parabellum Bullet Tour 2026-27「Raison d’être」",
+   "kind": "ワンマン",
+   "venue": "長野CLUB JUNK BOX（長野県）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/0178780001-P0030530P021001?P1=0175",
+   "sale_info": "開場16:30 開演17:00",
+   "source_url": "https://eplus.jp/sf/word/0000009226",
+   "confidence": "high"
   },
   {
    "artist": "ORAL CIGARETTES",
@@ -954,6 +988,18 @@
    "confidence": "high"
   },
   {
+   "artist": "9mm Parabellum Bullet",
+   "date": "2026-11-14",
+   "title": "9mm Parabellum Bullet Tour 2026-27「Raison d’être」",
+   "kind": "ワンマン",
+   "venue": "名古屋 DIAMOND HALL（愛知県）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/0178780001-P0030531P021001?P1=0175",
+   "sale_info": "開場16:30 開演17:30",
+   "source_url": "https://eplus.jp/sf/word/0000009226",
+   "confidence": "high"
+  },
+  {
    "artist": "HEY-SMITH",
    "date": "2026-11-15",
    "title": "HEY-SMITH 20th ANNIVERSARY『ALL OVER JAPAN TOUR』",
@@ -1007,6 +1053,18 @@
    ],
    "source_url": "https://eplus.jp/sf/detail/0557640001-P0030138P021001?P1=0175",
    "confidence": "low"
+  },
+  {
+   "artist": "9mm Parabellum Bullet",
+   "date": "2026-11-15",
+   "title": "9mm Parabellum Bullet Tour 2026-27「Raison d’être」",
+   "kind": "ワンマン",
+   "venue": "Live House浜松 窓枠（静岡県）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/0178780001-P0030532P021001?P1=0175",
+   "sale_info": "開場16:30 開演17:00",
+   "source_url": "https://eplus.jp/sf/word/0000009226",
+   "confidence": "high"
   },
   {
    "artist": "ELLEGARDEN",
@@ -1126,6 +1184,18 @@
    "kind": "ワンマン",
    "venue": "高知X-pt.（高知県）",
    "source_url": "https://realsound.jp/2026/05/post-2386759.html",
+   "confidence": "high"
+  },
+  {
+   "artist": "9mm Parabellum Bullet",
+   "date": "2026-11-21",
+   "title": "9mm Parabellum Bullet Tour 2026-27「Raison d’être」",
+   "kind": "ワンマン",
+   "venue": "岡山CRAZYMAMA KINGDOM（岡山県）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/0178780001-P0030533P021001?P1=0175",
+   "sale_info": "開場16:45 開演17:30",
+   "source_url": "https://eplus.jp/sf/word/0000009226",
    "confidence": "high"
   },
   {
@@ -6036,6 +6106,9 @@
   },
   "Fear, and Loathing in Las Vegas": {
    "eplus": "https://eplus.jp/sf/detail/0524940001"
+  },
+  "9mm Parabellum Bullet": {
+   "eplus": "https://eplus.jp/sf/word/0000009226"
   }
  },
  "aliases": {
@@ -6151,6 +6224,16 @@
    "FaLiLV",
    "Fear and Loathing in Las Vegas",
    "フィアーアンドローシングインラスベガス"
+  ],
+  "9mm Parabellum Bullet": [
+   "9mm",
+   "キューミリ",
+   "キューミリパラベラムバレット",
+   "9ミリ"
+  ],
+  "斎藤宏介": [
+   "サイトウコウスケ",
+   "斎藤 宏介"
   ]
  },
  "rejected": [
@@ -6264,6 +6347,14 @@
   "Fear, and Loathing in Las Vegas": {
    "state": "ok",
    "checked": "2026-10-23T23:50:00+09:00"
+  },
+  "9mm Parabellum Bullet": {
+   "state": "ok",
+   "checked": "2026-10-23T23:51:30+09:00"
+  },
+  "斎藤宏介": {
+   "state": "no_events",
+   "checked": "2026-10-23T23:51:30+09:00"
   }
  }
 }
