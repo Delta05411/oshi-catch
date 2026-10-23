@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T23:51:30+09:00",
+ "updated": "2026-10-24T00:20:00+09:00",
  "artists": [
   "04 Limited Sazabys",
   "ELLEGARDEN",
@@ -27,7 +27,8 @@
   "UNISON SQUARE GARDEN",
   "Fear, and Loathing in Las Vegas",
   "9mm Parabellum Bullet",
-  "斎藤宏介"
+  "斎藤宏介",
+  "BUMP OF CHICKEN"
  ],
  "events": [
   {
@@ -224,6 +225,18 @@
    "confidence": "high"
   },
   {
+   "artist": "BUMP OF CHICKEN",
+   "date": "2026-10-27",
+   "title": "BUMP OF CHICKEN TOUR 2026-2027 Ratio Clavis",
+   "kind": "ワンマン",
+   "venue": "有明アリーナ（東京）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
+   "sale_info": "10/27・28の2日間。チケットは完売",
+   "source_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
+   "confidence": "high"
+  },
+  {
    "artist": "ELLEGARDEN",
    "date": "2026-10-28",
    "title": "Bad For Education Tour II (2026)",
@@ -255,6 +268,18 @@
    "source_url": "https://realsound.jp/2026/05/post-2389827.html",
    "confidence": "high",
    "sale_info": "6,050円（税込）＋ドリンク代。開場18:00／開演19:00"
+  },
+  {
+   "artist": "BUMP OF CHICKEN",
+   "date": "2026-10-28",
+   "title": "BUMP OF CHICKEN TOUR 2026-2027 Ratio Clavis",
+   "kind": "ワンマン",
+   "venue": "有明アリーナ（東京）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
+   "sale_info": "10/27・28の2日間。チケットは完売",
+   "source_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
+   "confidence": "high"
   },
   {
    "artist": "Mrs. GREEN APPLE",
@@ -756,6 +781,18 @@
    ]
   },
   {
+   "artist": "BUMP OF CHICKEN",
+   "date": "2026-11-07",
+   "title": "BUMP OF CHICKEN TOUR 2026-2027 Ratio Clavis",
+   "kind": "ワンマン",
+   "venue": "GLION ARENA KOBE（兵庫）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
+   "sale_info": "11/7・8の2日間。チケットは完売",
+   "source_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
+   "confidence": "high"
+  },
+  {
    "artist": "coldrain",
    "date": "2026-11-08",
    "title": "浪人祭 Vagabond Festival 2026",
@@ -785,6 +822,18 @@
    "ticket_url": "https://eplus.jp/sf/detail/0178780001-P0030530P021001?P1=0175",
    "sale_info": "開場16:30 開演17:00",
    "source_url": "https://eplus.jp/sf/word/0000009226",
+   "confidence": "high"
+  },
+  {
+   "artist": "BUMP OF CHICKEN",
+   "date": "2026-11-08",
+   "title": "BUMP OF CHICKEN TOUR 2026-2027 Ratio Clavis",
+   "kind": "ワンマン",
+   "venue": "GLION ARENA KOBE（兵庫）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
+   "sale_info": "11/7・8の2日間。チケットは完売",
+   "source_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
    "confidence": "high"
   },
   {
@@ -1199,6 +1248,18 @@
    "confidence": "high"
   },
   {
+   "artist": "BUMP OF CHICKEN",
+   "date": "2026-11-21",
+   "title": "BUMP OF CHICKEN TOUR 2026-2027 Ratio Clavis",
+   "kind": "ワンマン",
+   "venue": "あなぶきアリーナ香川（香川）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
+   "sale_info": "11/21・22の2日間。チケットは完売",
+   "source_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
+   "confidence": "high"
+  },
+  {
    "artist": "coldrain",
    "date": "2026-11-22",
    "title": "Crystal Lake presents TRUE NORTH FESTIVAL 2026",
@@ -1217,6 +1278,18 @@
    "ticket_url": "https://eplus.jp/sf/detail/0524940001",
    "source_url": "https://eplus.jp/sf/detail/0524940001",
    "confidence": "low"
+  },
+  {
+   "artist": "BUMP OF CHICKEN",
+   "date": "2026-11-22",
+   "title": "BUMP OF CHICKEN TOUR 2026-2027 Ratio Clavis",
+   "kind": "ワンマン",
+   "venue": "あなぶきアリーナ香川（香川）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
+   "sale_info": "11/21・22の2日間。チケットは完売",
+   "source_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
+   "confidence": "high"
   },
   {
    "artist": "ROTTENGRAFFTY",
@@ -1378,6 +1451,18 @@
    "confidence": "high"
   },
   {
+   "artist": "BUMP OF CHICKEN",
+   "date": "2026-11-28",
+   "title": "BUMP OF CHICKEN TOUR 2026-2027 Ratio Clavis",
+   "kind": "ワンマン",
+   "venue": "グリーンアリーナ（広島）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
+   "sale_info": "11/28・29の2日間。チケットは完売",
+   "source_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
+   "confidence": "high"
+  },
+  {
    "artist": "ELLEGARDEN",
    "date": "2026-11-29",
    "title": "Bad For Education Tour II (2026)",
@@ -1416,6 +1501,18 @@
    "venue": "SENDAI GIGS（宮城）",
    "sale_info": "スタンディング6,800円（税込・別途ドリンク代）／開場16:00／開演17:00",
    "source_url": "https://coldrain.jp/blogs/live",
+   "confidence": "high"
+  },
+  {
+   "artist": "BUMP OF CHICKEN",
+   "date": "2026-11-29",
+   "title": "BUMP OF CHICKEN TOUR 2026-2027 Ratio Clavis",
+   "kind": "ワンマン",
+   "venue": "グリーンアリーナ（広島）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
+   "sale_info": "11/28・29の2日間。チケットは完売",
+   "source_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
    "confidence": "high"
   },
   {
@@ -1738,6 +1835,18 @@
    "confidence": "low"
   },
   {
+   "artist": "BUMP OF CHICKEN",
+   "date": "2026-12-12",
+   "title": "BUMP OF CHICKEN TOUR 2026-2027 Ratio Clavis",
+   "kind": "ワンマン",
+   "venue": "マリンメッセ福岡A館（福岡）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
+   "sale_info": "12/12・13の2日間。チケットは完売",
+   "source_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
+   "confidence": "high"
+  },
+  {
    "artist": "SiM",
    "date": "2026-12-13",
    "title": "結びの夢番地 2026（12/13）",
@@ -1756,6 +1865,18 @@
    "kind": "フェス",
    "venue": "京都パルスプラザ（京都）",
    "source_url": "https://coldrain.jp/blogs/live",
+   "confidence": "high"
+  },
+  {
+   "artist": "BUMP OF CHICKEN",
+   "date": "2026-12-13",
+   "title": "BUMP OF CHICKEN TOUR 2026-2027 Ratio Clavis",
+   "kind": "ワンマン",
+   "venue": "マリンメッセ福岡A館（福岡）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
+   "sale_info": "12/12・13の2日間。チケットは完売",
+   "source_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
    "confidence": "high"
   },
   {
@@ -1829,6 +1950,18 @@
    "confidence": "high"
   },
   {
+   "artist": "BUMP OF CHICKEN",
+   "date": "2026-12-19",
+   "title": "BUMP OF CHICKEN TOUR 2026-2027 Ratio Clavis",
+   "kind": "ワンマン",
+   "venue": "IGアリーナ（愛知）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
+   "sale_info": "12/19・20の2日間。チケットは完売",
+   "source_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
+   "confidence": "high"
+  },
+  {
    "artist": "Mrs. GREEN APPLE",
    "date": "2026-12-20",
    "title": "Mrs. GREEN APPLE Ringo Jam Tour “SHADOWS”",
@@ -1845,6 +1978,18 @@
    "kind": "ワンマン",
    "venue": "福岡BEAT STATION（福岡県）",
    "source_url": "https://realsound.jp/2026/05/post-2386759.html",
+   "confidence": "high"
+  },
+  {
+   "artist": "BUMP OF CHICKEN",
+   "date": "2026-12-20",
+   "title": "BUMP OF CHICKEN TOUR 2026-2027 Ratio Clavis",
+   "kind": "ワンマン",
+   "venue": "IGアリーナ（愛知）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
+   "sale_info": "12/19・20の2日間。チケットは完売",
+   "source_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
    "confidence": "high"
   },
   {
@@ -2366,6 +2511,27 @@
    "confidence": "low"
   },
   {
+   "artist": "BUMP OF CHICKEN",
+   "date": "2027-01-23",
+   "title": "BUMP OF CHICKEN TOUR 2026-2027 Ratio Clavis ドーム追加公演",
+   "kind": "ワンマン",
+   "venue": "京セラドーム大阪（大阪）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
+   "sale_info": "1/23・24の2日間。追加プレオーダーは8/28〜9/6で受付終了",
+   "sales": [
+    {
+     "label": "追加プレオーダー",
+     "start": "2026-08-28",
+     "end": "2026-09-06",
+     "url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
+     "note": "23:59締切"
+    }
+   ],
+   "source_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
+   "confidence": "high"
+  },
+  {
    "artist": "04 Limited Sazabys",
    "date": "2027-01-24",
    "title": "HYPE LIKE IT!（1/24 HYPE STAGE）",
@@ -2667,6 +2833,27 @@
    "confidence": "high"
   },
   {
+   "artist": "BUMP OF CHICKEN",
+   "date": "2027-01-24",
+   "title": "BUMP OF CHICKEN TOUR 2026-2027 Ratio Clavis ドーム追加公演",
+   "kind": "ワンマン",
+   "venue": "京セラドーム大阪（大阪）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
+   "sale_info": "1/23・24の2日間。追加プレオーダーは8/28〜9/6で受付終了",
+   "sales": [
+    {
+     "label": "追加プレオーダー",
+     "start": "2026-08-28",
+     "end": "2026-09-06",
+     "url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
+     "note": "23:59締切"
+    }
+   ],
+   "source_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
+   "confidence": "high"
+  },
+  {
    "artist": "04 Limited Sazabys",
    "date": "2027-01-30",
    "title": "FUKUOKA MUSIC FES.2027 supported by Trunk（1/30・31のどちらか）",
@@ -2732,6 +2919,27 @@
    "confidence": "high"
   },
   {
+   "artist": "BUMP OF CHICKEN",
+   "date": "2027-02-06",
+   "title": "BUMP OF CHICKEN TOUR 2026-2027 Ratio Clavis ドーム追加公演",
+   "kind": "ワンマン",
+   "venue": "東京ドーム（東京）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
+   "sale_info": "2/6・7の2日間。追加プレオーダーは8/28〜9/6で受付終了",
+   "sales": [
+    {
+     "label": "追加プレオーダー",
+     "start": "2026-08-28",
+     "end": "2026-09-06",
+     "url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
+     "note": "23:59締切"
+    }
+   ],
+   "source_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
+   "confidence": "high"
+  },
+  {
    "artist": "HEY-SMITH",
    "date": "2027-02-07",
    "title": "HEY-SMITH 20th ANNIVERSARY『ALL OVER JAPAN TOUR』",
@@ -2751,6 +2959,27 @@
    "kind": "ワンマン",
    "venue": "ぴあアリーナMM（神奈川）",
    "source_url": "https://realsound.jp/2026/07/post-2462631.html",
+   "confidence": "high"
+  },
+  {
+   "artist": "BUMP OF CHICKEN",
+   "date": "2027-02-07",
+   "title": "BUMP OF CHICKEN TOUR 2026-2027 Ratio Clavis ドーム追加公演",
+   "kind": "ワンマン",
+   "venue": "東京ドーム（東京）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
+   "sale_info": "2/6・7の2日間。追加プレオーダーは8/28〜9/6で受付終了",
+   "sales": [
+    {
+     "label": "追加プレオーダー",
+     "start": "2026-08-28",
+     "end": "2026-09-06",
+     "url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
+     "note": "23:59締切"
+    }
+   ],
+   "source_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
    "confidence": "high"
   },
   {
@@ -6109,6 +6338,9 @@
   },
   "9mm Parabellum Bullet": {
    "eplus": "https://eplus.jp/sf/word/0000009226"
+  },
+  "BUMP OF CHICKEN": {
+   "eplus": "https://eplus.jp/sf/web/live/irg/boc2026/ep"
   }
  },
  "aliases": {
@@ -6234,6 +6466,11 @@
   "斎藤宏介": [
    "サイトウコウスケ",
    "斎藤 宏介"
+  ],
+  "BUMP OF CHICKEN": [
+   "BUMP",
+   "バンプ",
+   "バンプオブチキン"
   ]
  },
  "rejected": [
@@ -6355,6 +6592,10 @@
   "斎藤宏介": {
    "state": "no_events",
    "checked": "2026-10-23T23:51:30+09:00"
+  },
+  "BUMP OF CHICKEN": {
+   "state": "ok",
+   "checked": "2026-10-24T00:20:00+09:00"
   }
  }
 }
