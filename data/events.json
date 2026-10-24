@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T21:20:00+09:00",
+ "updated": "2026-10-25T07:30:00+09:00",
  "artists": [
   "04 Limited Sazabys",
   "ELLEGARDEN",
@@ -320,6 +320,16 @@
    "sale_info": "一般発売中（先着）"
   },
   {
+   "artist": "Fear, and Loathing in Las Vegas",
+   "date": "2026-10-30",
+   "title": "花冷え。presents 絶品!! 2MAMI TOUR 2026",
+   "kind": "対バン",
+   "venue": "心斎橋BIGCAT（大阪）",
+   "sale_info": "開場17:30／開演18:30",
+   "source_url": "https://lasvegas-jp.com/live/9268",
+   "confidence": "high"
+  },
+  {
    "artist": "ORAL CIGARETTES",
    "date": "2026-10-31",
    "title": "[Alexandros] presents THIS FES '26 in Sagamihara",
@@ -426,6 +436,26 @@
    "ticket_url": "https://www.onagawa100.com/ticket/",
    "sale_info": "1次先行は8/11締切（終了）",
    "source_url": "https://yabaitshirtsyasan.com/live/293027/",
+   "confidence": "high"
+  },
+  {
+   "artist": "サンボマスター",
+   "date": "2026-10-31",
+   "title": "女川町町制施行100周年記念祭 ONAGAWA COTTELEEZUN",
+   "kind": "フェス",
+   "venue": "女川町総合運動場 第二多目的運動場（宮城）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/4579910001-P0030001P021001?P1=0175",
+   "sale_info": "開場9:00 開演10:20。先着一般は予定枚数終了",
+   "sales": [
+    {
+     "label": "先着一般",
+     "start": "2026-10-05",
+     "end": "2026-10-30",
+     "note": "予定枚数終了"
+    }
+   ],
+   "source_url": "https://eplus.jp/sf/word/0000002764/events",
    "confidence": "high"
   },
   {
@@ -716,11 +746,24 @@
    "title": "Fear, and Loathing in Las Vegas / iLiFE! Special 2MAN LIVE「VegaLiFE!」",
    "kind": "対バン",
    "venue": "豊洲PIT（東京）",
-   "source_url": "https://eplus.jp/sf/word/0000045057",
-   "confidence": "low",
-   "ticket_url": "https://eplus.jp/sf/word/0000045057",
-   "sale_info": "開場18:30/開演19:30",
-   "with": "iLiFE!"
+   "source_url": "https://lasvegas-jp.com/topics/9299",
+   "confidence": "high",
+   "ticket_url": "https://eplus.jp/vegalife-lasvegas/",
+   "sale_info": "5,000円（別途ドリンク代）／開場18:30／開演19:30",
+   "with": "iLiFE!",
+   "ticket_name": "イープラス",
+   "sales": [
+    {
+     "label": "オフィシャル先行（抽選）",
+     "start": "2026-10-14",
+     "end": "2026-10-16"
+    },
+    {
+     "label": "一般発売",
+     "start": "2026-10-23",
+     "note": "21:00〜、販売先未確認"
+    }
+   ]
   },
   {
    "artist": "Mrs. GREEN APPLE",
@@ -945,7 +988,16 @@
    "ticket_url": "https://eplus.jp/sf/detail/0178780001-P0030530P021001?P1=0175",
    "sale_info": "開場16:30 開演17:00",
    "source_url": "https://eplus.jp/sf/word/0000009226",
-   "confidence": "high"
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "先着一般発売",
+     "start": "2026-10-03",
+     "end": "2026-11-07",
+     "url": "https://eplus.jp/sf/detail/0178780001",
+     "note": "終了日は直前18:00または20:00"
+    }
+   ]
   },
   {
    "artist": "BUMP OF CHICKEN",
@@ -1210,7 +1262,16 @@
    "ticket_url": "https://eplus.jp/sf/detail/0178780001-P0030531P021001?P1=0175",
    "sale_info": "開場16:30 開演17:30",
    "source_url": "https://eplus.jp/sf/word/0000009226",
-   "confidence": "high"
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "先着一般発売",
+     "start": "2026-10-03",
+     "end": "2026-11-13",
+     "url": "https://eplus.jp/sf/detail/0178780001",
+     "note": "終了日は直前18:00または20:00"
+    }
+   ]
   },
   {
    "artist": "HEY-SMITH",
@@ -1257,7 +1318,16 @@
    "ticket_url": "https://eplus.jp/sf/detail/0178780001-P0030532P021001?P1=0175",
    "sale_info": "開場16:30 開演17:00",
    "source_url": "https://eplus.jp/sf/word/0000009226",
-   "confidence": "high"
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "先着一般発売",
+     "start": "2026-10-03",
+     "end": "2026-11-14",
+     "url": "https://eplus.jp/sf/detail/0178780001",
+     "note": "終了日は直前18:00または20:00"
+    }
+   ]
   },
   {
    "artist": "HEY-SMITH",
@@ -1519,7 +1589,16 @@
    "ticket_url": "https://eplus.jp/sf/detail/0178780001-P0030533P021001?P1=0175",
    "sale_info": "開場16:45 開演17:30",
    "source_url": "https://eplus.jp/sf/word/0000009226",
-   "confidence": "high"
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "先着一般発売",
+     "start": "2026-10-03",
+     "end": "2026-11-20",
+     "url": "https://eplus.jp/sf/detail/0178780001",
+     "note": "終了日は直前18:00または20:00"
+    }
+   ]
   },
   {
    "artist": "BUMP OF CHICKEN",
@@ -1612,6 +1691,47 @@
     }
    ],
    "source_url": "https://eplus.jp/sf/detail/2669250001-P0030004P021001",
+   "confidence": "high"
+  },
+  {
+   "artist": "9mm Parabellum Bullet",
+   "date": "2026-11-22",
+   "title": "9mm Parabellum Bullet Tour 2026-27「Raison d’être」",
+   "kind": "ワンマン",
+   "venue": "高松MONSTER（香川）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/0178780001",
+   "sale_info": "",
+   "sales": [
+    {
+     "label": "先着一般発売",
+     "start": "2026-10-03",
+     "end": "2026-11-21",
+     "url": "https://eplus.jp/sf/detail/0178780001"
+    }
+   ],
+   "source_url": "https://eplus.jp/sf/word/0000009226",
+   "confidence": "high"
+  },
+  {
+   "artist": "TenTwenty",
+   "date": "2026-11-22",
+   "title": "SENDAI PIT 10th Anniversary × Fantastic Date fm「RAD DAY 6.5」",
+   "kind": "対バン",
+   "venue": "仙台PIT（宮城）",
+   "with": "ストレイテナー",
+   "ticket_name": "ぴあ",
+   "ticket_url": "https://w.pia.jp/t/radday65/",
+   "sale_info": "6,500円（別途1ドリンク600円）／開場16:00／開演17:00",
+   "sales": [
+    {
+     "label": "プレリザーブ2次",
+     "start": "2026-10-16",
+     "url": "https://w.pia.jp/t/radday65/",
+     "note": "11:00〜、終了日未確認"
+    }
+   ],
+   "source_url": "https://datefm.jp/information/article/20260928133000-99.html",
    "confidence": "high"
   },
   {
@@ -1841,6 +1961,26 @@
    "confidence": "high"
   },
   {
+   "artist": "9mm Parabellum Bullet",
+   "date": "2026-11-28",
+   "title": "9mm Parabellum Bullet Tour 2026-27「Raison d’être」",
+   "kind": "ワンマン",
+   "venue": "熊本B.9 V1（熊本）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/0178780001",
+   "sale_info": "",
+   "sales": [
+    {
+     "label": "先着一般発売",
+     "start": "2026-10-03",
+     "end": "2026-11-27",
+     "url": "https://eplus.jp/sf/detail/0178780001"
+    }
+   ],
+   "source_url": "https://eplus.jp/sf/word/0000009226",
+   "confidence": "high"
+  },
+  {
    "artist": "BUMP OF CHICKEN",
    "date": "2026-11-29",
    "title": "BUMP OF CHICKEN TOUR 2026-2027 Ratio Clavis",
@@ -1901,6 +2041,48 @@
    "venue": "SENDAI GIGS（宮城）",
    "sale_info": "スタンディング6,800円（税込・別途ドリンク代）／開場16:00／開演17:00",
    "source_url": "https://coldrain.jp/blogs/live",
+   "confidence": "high"
+  },
+  {
+   "artist": "9mm Parabellum Bullet",
+   "date": "2026-11-29",
+   "title": "9mm Parabellum Bullet Tour 2026-27「Raison d’être」",
+   "kind": "ワンマン",
+   "venue": "福岡DRUM LOGOS（福岡）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/0178780001",
+   "sale_info": "",
+   "sales": [
+    {
+     "label": "先着一般発売",
+     "start": "2026-10-03",
+     "end": "2026-11-28",
+     "url": "https://eplus.jp/sf/detail/0178780001"
+    }
+   ],
+   "source_url": "https://eplus.jp/sf/word/0000009226",
+   "confidence": "high"
+  },
+  {
+   "artist": "TenTwenty",
+   "date": "2026-11-29",
+   "title": "ロックアンセム2026 EX（DAY3）",
+   "kind": "対バン",
+   "venue": "EX THEATER ROPPONGI（東京）",
+   "with": "Base Ball Bear / 山内総一郎",
+   "ticket_name": "チケットぴあ",
+   "ticket_url": "https://w.pia.jp/t/rock-anthem-26ex/",
+   "sale_info": "6,800円・U18 4,800円／開場16:00／開演17:00／公式でSOLD OUT表記",
+   "sales": [
+    {
+     "label": "ぴあ最速先行",
+     "start": "2026-10-20",
+     "end": "2026-11-01",
+     "url": "https://w.pia.jp/t/rock-anthem-26ex/",
+     "note": "全日程共通"
+    }
+   ],
+   "source_url": "https://rock-anthem.jp/",
    "confidence": "high"
   },
   {
@@ -1983,7 +2165,7 @@
    "date": "2026-12-02",
    "title": "OPTIMIZE = OPTDEMISE JAPAN TOUR 2026",
    "kind": "ワンマン",
-   "venue": "COMTEC PORTBASE（香川）",
+   "venue": "COMTEC PORTBASE（愛知）",
    "sale_info": "スタンディング6,800円（税込・別途ドリンク代）",
    "source_url": "https://coldrain.jp/blogs/live",
    "confidence": "high"
@@ -2112,6 +2294,26 @@
    "date": "2026-12-05"
   },
   {
+   "artist": "9mm Parabellum Bullet",
+   "date": "2026-12-05",
+   "title": "9mm Parabellum Bullet Tour 2026-27「Raison d’être」",
+   "kind": "ワンマン",
+   "venue": "山形ミュージック昭和 SESSION（山形）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/0178780001",
+   "sale_info": "",
+   "sales": [
+    {
+     "label": "先着一般発売",
+     "start": "2026-10-03",
+     "end": "2026-12-04",
+     "url": "https://eplus.jp/sf/detail/0178780001"
+    }
+   ],
+   "source_url": "https://eplus.jp/sf/word/0000009226",
+   "confidence": "high"
+  },
+  {
    "artist": "04 Limited Sazabys",
    "date": "2026-12-06",
    "title": "BLAZE UP NAGASAKI 2026（12/5・6のうち12/6）",
@@ -2182,6 +2384,26 @@
    "source_url": "https://eplus.jp/sf/word/0000038382",
    "confidence": "low",
    "date": "2026-12-06"
+  },
+  {
+   "artist": "9mm Parabellum Bullet",
+   "date": "2026-12-06",
+   "title": "9mm Parabellum Bullet Tour 2026-27「Raison d’être」",
+   "kind": "ワンマン",
+   "venue": "仙台Rensa（宮城）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/0178780001",
+   "sale_info": "",
+   "sales": [
+    {
+     "label": "先着一般発売",
+     "start": "2026-10-03",
+     "end": "2026-12-05",
+     "url": "https://eplus.jp/sf/detail/0178780001"
+    }
+   ],
+   "source_url": "https://eplus.jp/sf/word/0000009226",
+   "confidence": "high"
   },
   {
    "artist": "マキシマム ザ ホルモン",
@@ -2347,6 +2569,20 @@
    "confidence": "high"
   },
   {
+   "artist": "9mm Parabellum Bullet",
+   "date": "2026-12-12",
+   "title": "THE BAWDIES THE MELTING POT SESSIONS",
+   "kind": "対バン",
+   "venue": "富山 SOUL POWER（富山）",
+   "with": "THE BAWDIES",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/0185040001-P0030510P021001",
+   "sale_info": "",
+   "sales": [],
+   "source_url": "https://skream.jp/news/2026/08/the_bawdies_the_melting_pot_limeup.php",
+   "confidence": "high"
+  },
+  {
    "artist": "10-FEET",
    "date": "2026-12-13",
    "title": "響都超特急2026",
@@ -2396,6 +2632,20 @@
    "kind": "フェス",
    "venue": "京都パルスプラザ（京都）",
    "source_url": "https://coldrain.jp/blogs/live",
+   "confidence": "high"
+  },
+  {
+   "artist": "9mm Parabellum Bullet",
+   "date": "2026-12-13",
+   "title": "THE BAWDIES THE MELTING POT SESSIONS（ツアーファイナル）",
+   "kind": "対バン",
+   "venue": "長野CLUB JUNK BOX（長野）",
+   "with": "THE BAWDIES",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/0185040001-P0030511P021001",
+   "sale_info": "",
+   "sales": [],
+   "source_url": "https://tvfan.kyodo.co.jp/music/news-music/1520623",
    "confidence": "high"
   },
   {
@@ -2459,6 +2709,56 @@
     }
    ],
    "with": "SHANK"
+  },
+  {
+   "artist": "9mm Parabellum Bullet",
+   "date": "2026-12-16",
+   "title": "SHINJUKU LOFT 50th ANNIVERSARY DREAM MATCH 2026（9mm × KANA-BOON 2マン）",
+   "kind": "対バン",
+   "venue": "新宿LOFT（東京）",
+   "with": "KANA-BOON",
+   "sale_info": "前売6,000円・20歳以下3,000円／開場18:00／開演19:00",
+   "sales": [
+    {
+     "label": "オフィシャル先行（抽選）",
+     "start": "2026-10-20",
+     "end": "2026-10-27",
+     "note": "1人2枚まで"
+    },
+    {
+     "label": "一般発売",
+     "start": "2026-11-14",
+     "note": "チケットぴあ"
+    }
+   ],
+   "source_url": "https://rooftop1976.com/news/2026/10/20180000.php",
+   "confidence": "low"
+  },
+  {
+   "artist": "9mm Parabellum Bullet",
+   "date": "2026-12-17",
+   "title": "LIQUIDROOM 22nd ANNIVERSARY アルカラ × 9mm Parabellum Bullet × cinema staff",
+   "kind": "対バン",
+   "venue": "LIQUIDROOM（東京）",
+   "with": "アルカラ / cinema staff",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/4607720001-P0030001P021001",
+   "sale_info": "前売6,000円＋ドリンク代／開場18:15／開演19:00",
+   "sales": [
+    {
+     "label": "先行（抽選）",
+     "start": "2026-09-23",
+     "end": "2026-10-21"
+    },
+    {
+     "label": "一般発売",
+     "start": "2026-10-25",
+     "url": "https://eplus.jp/sf/detail/4607720001-P0030001P021001",
+     "note": "10:00〜"
+    }
+   ],
+   "source_url": "https://cinemastaff.net/schedule/6931/",
+   "confidence": "high"
   },
   {
    "artist": "a flood of circle",
@@ -2557,6 +2857,27 @@
    "confidence": "high"
   },
   {
+   "artist": "SiM",
+   "date": "2026-12-19",
+   "title": "MERRY ROCK PARADE 2026（12/19）",
+   "kind": "フェス",
+   "venue": "ポートメッセなごや（愛知）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/1398280001",
+   "sale_info": "12/19・20の2日間 開場9:00/開演11:00",
+   "sales": [
+    {
+     "label": "オフィシャル2次先行(抽選)",
+     "start": "2026-10-16",
+     "end": "2026-10-25",
+     "url": "https://eplus.jp/sf/detail/1398280001",
+     "note": "10/16 18:00〜10/25 23:59"
+    }
+   ],
+   "source_url": "https://eplus.jp/sf/detail/1398280001",
+   "confidence": "high"
+  },
+  {
    "artist": "04 Limited Sazabys",
    "date": "2026-12-20",
    "title": "MERRY ROCK PARADE 2026",
@@ -2614,6 +2935,27 @@
    "venue": "ポートメッセなごや（愛知）",
    "ticket_url": "https://www.merryrockparade.jp/",
    "source_url": "https://yabaitshirtsyasan.com/live/295750/",
+   "confidence": "high"
+  },
+  {
+   "artist": "HEY-SMITH",
+   "date": "2026-12-20",
+   "title": "MERRY ROCK PARADE 2026（12/20）",
+   "kind": "フェス",
+   "venue": "ポートメッセなごや（愛知）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/1398280001",
+   "sale_info": "12/19・20の2日間 開場9:00/開演11:00",
+   "sales": [
+    {
+     "label": "オフィシャル2次先行(抽選)",
+     "start": "2026-10-16",
+     "end": "2026-10-25",
+     "url": "https://eplus.jp/sf/detail/1398280001",
+     "note": "10/16 18:00〜10/25 23:59"
+    }
+   ],
+   "source_url": "https://eplus.jp/sf/detail/1398280001",
    "confidence": "high"
   },
   {
@@ -2739,6 +3081,18 @@
     }
    ],
    "source_url": "https://eplus.jp/radiocrazy2026/",
+   "confidence": "high"
+  },
+  {
+   "artist": "9mm Parabellum Bullet",
+   "date": "2026-12-26",
+   "title": "Survive Said The Prophet presents MAGIC HOUR FESTIVAL",
+   "kind": "フェス",
+   "venue": "豊洲PIT（東京）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/1529190001-P0030299P021001",
+   "sale_info": "一般9,000円・U-22 7,000円／開場14:00／開演15:00",
+   "source_url": "https://gekirock.com/news/2026/08/survive_said_the_prophet_magic_hour_festival_2nd_lineup.php",
    "confidence": "high"
   },
   {
@@ -2981,6 +3335,15 @@
    ]
   },
   {
+   "artist": "9mm Parabellum Bullet",
+   "date": "2026-12-29",
+   "title": "COUNTDOWN JAPAN 26/27（12/29）",
+   "kind": "フェス",
+   "venue": "幕張メッセ 国際展示場（千葉）",
+   "source_url": "https://en.gekirock.com/news/2026/10/countdown_japan_2627_1st_lineup.php",
+   "confidence": "high"
+  },
+  {
    "artist": "04 Limited Sazabys",
    "date": "2026-12-31",
    "title": "COUNTDOWN JAPAN 26/27（12/31）",
@@ -3033,6 +3396,18 @@
      "note": "12:15開始〜16:00締切 / 公式アプリ「Jフェス」のみ"
     }
    ]
+  },
+  {
+   "artist": "9mm Parabellum Bullet",
+   "date": "2026-12-31",
+   "title": "LIVE DI:GA JUDGEMENT 2026",
+   "kind": "フェス",
+   "venue": "渋谷CLUB QUATTRO / TAKE OFF 7（東京）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/0211080001-P0030045P021002",
+   "sale_info": "5,300円（スタンディング）",
+   "source_url": "https://livedigajudgement.net/2026/",
+   "confidence": "high"
   },
   {
    "artist": "04 Limited Sazabys",
@@ -3107,6 +3482,54 @@
    "source_url": "https://spice.eplus.jp/articles/344241",
    "confidence": "high",
    "with": "FOMARE"
+  },
+  {
+   "artist": "THE KEBABS",
+   "date": "2027-01-12",
+   "title": "カオスのオーロラソース",
+   "kind": "対バン",
+   "venue": "恵比寿LIQUIDROOM（東京）",
+   "with": "9mm Parabellum Bullet",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/LIQUIDROOM0112_thekebabs/",
+   "sale_info": "開場18:00/開演19:00 5,900円(+ドリンク代)",
+   "sales": [
+    {
+     "label": "オフィシャル先行",
+     "end": "2026-10-20",
+     "url": "https://eplus.jp/LIQUIDROOM0112_thekebabs/",
+     "note": "23:59受付終了"
+    },
+    {
+     "label": "一般発売",
+     "start": "2026-12-12",
+     "url": "https://eplus.jp/LIQUIDROOM0112_thekebabs/",
+     "note": "10:00〜（年は2026と推定。12/12は土曜）"
+    }
+   ],
+   "source_url": "https://kebabsband.com/live/93540/",
+   "confidence": "high"
+  },
+  {
+   "artist": "9mm Parabellum Bullet",
+   "date": "2027-01-12",
+   "title": "カオスのオーロラソース（w/ THE KEBABS）",
+   "kind": "対バン",
+   "venue": "恵比寿LIQUIDROOM（東京）",
+   "with": "THE KEBABS",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/LIQUIDROOM0112_thekebabs/",
+   "sale_info": "開場18:00/開演19:00 5,900円(+ドリンク代)",
+   "sales": [
+    {
+     "label": "一般発売",
+     "start": "2026-12-12",
+     "url": "https://eplus.jp/LIQUIDROOM0112_thekebabs/",
+     "note": "10:00〜"
+    }
+   ],
+   "source_url": "https://kebabsband.com/live/93540/",
+   "confidence": "high"
   },
   {
    "artist": "HEY-SMITH",
@@ -3195,6 +3618,19 @@
     }
    ],
    "source_url": "https://spice.eplus.jp/articles/346986",
+   "confidence": "high"
+  },
+  {
+   "artist": "9mm Parabellum Bullet",
+   "date": "2027-01-16",
+   "title": "9mm Parabellum Bullet Tour 2026-27「Raison d’être」",
+   "kind": "ワンマン",
+   "venue": "水戸LIGHT HOUSE（茨城）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/0178780001",
+   "sale_info": "予定枚数終了",
+   "sales": [],
+   "source_url": "https://eplus.jp/sf/word/0000009226",
    "confidence": "high"
   },
   {
@@ -3309,6 +3745,26 @@
    "ticket_url": "https://eplus.jp/sf/detail/0524940001",
    "source_url": "https://eplus.jp/sf/detail/0524940001",
    "confidence": "low"
+  },
+  {
+   "artist": "9mm Parabellum Bullet",
+   "date": "2027-01-23",
+   "title": "9mm Parabellum Bullet Tour 2026-27「Raison d’être」",
+   "kind": "ワンマン",
+   "venue": "HEAVEN'S ROCK宇都宮 VJ-2（栃木）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/0178780001",
+   "sale_info": "",
+   "sales": [
+    {
+     "label": "先着一般発売",
+     "start": "2026-10-03",
+     "end": "2027-01-22",
+     "url": "https://eplus.jp/sf/detail/0178780001"
+    }
+   ],
+   "source_url": "https://eplus.jp/sf/word/0000009226",
+   "confidence": "high"
   },
   {
    "artist": "04 Limited Sazabys",
@@ -3633,6 +4089,19 @@
    "confidence": "high"
   },
   {
+   "artist": "9mm Parabellum Bullet",
+   "date": "2027-01-24",
+   "title": "9mm Parabellum Bullet Tour 2026-27「Raison d’être」",
+   "kind": "ワンマン",
+   "venue": "HEAVEN'S ROCKさいたま新都心 VJ-3（埼玉）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/0178780001",
+   "sale_info": "予定枚数終了",
+   "sales": [],
+   "source_url": "https://eplus.jp/sf/word/0000009226",
+   "confidence": "high"
+  },
+  {
    "artist": "Wienners",
    "date": "2027-01-26",
    "title": "THE SUN ALSO RISES vol.426",
@@ -3641,6 +4110,17 @@
    "source_url": "https://wienners.net/news/f1d235cf-3f27-4afc-955b-22057d41073c",
    "confidence": "high",
    "with": "花冷え。"
+  },
+  {
+   "artist": "TenTwenty",
+   "date": "2027-01-26",
+   "title": "ライブナタリー \"ビッケブランカ × TenTwenty\"",
+   "kind": "対バン",
+   "venue": "Kanadevia Hall（東京）",
+   "with": "ビッケブランカ",
+   "sale_info": "指定席6,900円（別途ドリンク代）",
+   "source_url": "https://tentwenty-web.com/",
+   "confidence": "high"
   },
   {
    "artist": "04 Limited Sazabys",
@@ -3683,6 +4163,26 @@
    "source_url": "https://realsound.jp/2026/05/post-2386759.html",
    "confidence": "high",
    "sale_info": "沖縄2days公演（1/30・31）"
+  },
+  {
+   "artist": "9mm Parabellum Bullet",
+   "date": "2027-01-31",
+   "title": "9mm Parabellum Bullet Tour 2026-27「Raison d’être」",
+   "kind": "ワンマン",
+   "venue": "BIGCAT（大阪）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/0178780001",
+   "sale_info": "",
+   "sales": [
+    {
+     "label": "先着一般発売",
+     "start": "2026-10-03",
+     "end": "2027-01-30",
+     "url": "https://eplus.jp/sf/detail/0178780001"
+    }
+   ],
+   "source_url": "https://eplus.jp/sf/word/0000009226",
+   "confidence": "high"
   },
   {
    "artist": "ヤバイTシャツ屋さん",
@@ -3747,6 +4247,19 @@
    "sale_info": "2/6・7の2日間。全国14都市36公演。先行はベストアルバム封入カードのQRから",
    "source_url": "https://realsound.jp/2026/07/post-2462631.html",
    "confidence": "high"
+  },
+  {
+   "artist": "9mm Parabellum Bullet",
+   "date": "2027-02-06",
+   "title": "9mm Parabellum Bullet Tour 2026-27「Raison d’être」",
+   "kind": "ワンマン",
+   "venue": "F.A.D YOKOHAMA（神奈川）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/0178780001",
+   "sale_info": "",
+   "sales": [],
+   "source_url": "https://eplus.jp/sf/word/0000009226",
+   "confidence": "low"
   },
   {
    "artist": "BUMP OF CHICKEN",
@@ -3944,6 +4457,26 @@
    "kind": "ワンマン",
    "venue": "朱鷺メッセ（新潟）",
    "source_url": "https://realsound.jp/2026/07/post-2462631.html",
+   "confidence": "high"
+  },
+  {
+   "artist": "9mm Parabellum Bullet",
+   "date": "2027-02-23",
+   "title": "9mm Parabellum Bullet Tour 2026-27「Raison d’être」",
+   "kind": "ワンマン",
+   "venue": "Shibuya LOVEZ（東京）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/0178780001",
+   "sale_info": "",
+   "sales": [
+    {
+     "label": "先着一般発売",
+     "start": "2026-10-03",
+     "end": "2027-02-18",
+     "url": "https://eplus.jp/sf/detail/0178780001"
+    }
+   ],
+   "source_url": "https://eplus.jp/sf/word/0000009226",
    "confidence": "high"
   },
   {
@@ -7613,14 +8146,15 @@
    "schedule": "https://radwimps.jp/live/"
   },
   "THE KEBABS": {
-   "eplus": "https://eplus.jp/sf/word/0000128876"
+   "eplus": "https://eplus.jp/sf/word/0000128876",
+   "official": "https://kebabsband.com/"
   },
   "coldrain": {
    "official": "https://coldrain.jp/",
    "schedule": "https://coldrain.jp/blogs/live"
   },
   "TenTwenty": {
-   "eplus": "https://eplus.jp/tentwenty/"
+   "official": "https://tentwenty-web.com/"
   },
   "Wienners": {
    "official": "https://wienners.net/",
@@ -7635,10 +8169,12 @@
    "schedule": "https://www.harukamirai.com/schedule/list/"
   },
   "Fear, and Loathing in Las Vegas": {
-   "eplus": "https://eplus.jp/sf/detail/0524940001"
+   "eplus": "https://eplus.jp/sf/detail/0524940001",
+   "official": "https://lasvegas-jp.com/"
   },
   "9mm Parabellum Bullet": {
-   "eplus": "https://eplus.jp/sf/word/0000009226"
+   "eplus": "https://eplus.jp/sf/word/0000009226",
+   "official": "https://9mm.jp/"
   },
   "BUMP OF CHICKEN": {
    "eplus": "https://eplus.jp/sf/web/live/irg/boc2026/ep"
@@ -7691,6 +8227,15 @@
   "a flood of circle": {
    "official": "https://www.afloodofcircle.com/",
    "eplus": "https://eplus.jp/afloodofcircle-ep/"
+  },
+  "UNISON SQUARE GARDEN": {
+   "official": "https://www.unison-s-g.com/"
+  },
+  "斎藤宏介": {
+   "eplus": "https://eplus.jp/sf/word/0000062761"
+  },
+  "SiM": {
+   "eplus": "https://eplus.jp/sf/word/0000038382"
   }
  },
  "aliases": {
@@ -7838,7 +8383,7 @@
   "Hi-STANDARD": {
    "state": "ok",
    "checked": "2026-10-24T09:20:00+09:00",
-   "news_checked": "2026-10-24T09:12:00+09:00"
+   "news_checked": "2026-10-25T07:30:00+09:00"
   },
   "Mrs. GREEN APPLE": {
    "state": "ok",
@@ -7858,7 +8403,8 @@
   "ELLEGARDEN": {
    "state": "ok",
    "checked": "2026-10-24T21:00:00+09:00",
-   "note": "10/23名古屋は延期（振替日程は調整中・未発表）"
+   "note": "10/23名古屋は延期（振替日程は調整中・未発表）",
+   "news_checked": "2026-10-25T07:30:00+09:00"
   },
   "ヤバイTシャツ屋さん": {
    "state": "ok",
@@ -7872,16 +8418,18 @@
   },
   "HEY-SMITH": {
    "state": "ok",
-   "checked": "2026-10-24T21:00:00+09:00"
+   "checked": "2026-10-24T21:00:00+09:00",
+   "news_checked": "2026-10-25T07:30:00+09:00"
   },
   "マキシマム ザ ホルモン": {
    "state": "ok",
-   "checked": "2026-10-24T21:00:00+09:00"
+   "checked": "2026-10-24T21:00:00+09:00",
+   "news_checked": "2026-10-25T07:30:00+09:00"
   },
   "サンボマスター": {
    "state": "ok",
    "checked": "2026-10-24T09:20:00+09:00",
-   "news_checked": "2026-10-24T09:12:00+09:00"
+   "news_checked": "2026-10-25T07:30:00+09:00"
   },
   "あいみょん": {
    "state": "ok",
@@ -7905,7 +8453,8 @@
   },
   "SiM": {
    "state": "ok",
-   "checked": "2026-10-24T21:00:00+09:00"
+   "checked": "2026-10-24T21:00:00+09:00",
+   "news_checked": "2026-10-25T07:30:00+09:00"
   },
   "[Alexandros]": {
    "state": "ok",
@@ -7924,7 +8473,8 @@
   },
   "THE KEBABS": {
    "state": "ok",
-   "checked": "2026-10-24T21:00:00+09:00"
+   "checked": "2026-10-24T21:00:00+09:00",
+   "news_checked": "2026-10-25T07:30:00+09:00"
   },
   "coldrain": {
    "state": "ok",
@@ -7932,7 +8482,8 @@
   },
   "TenTwenty": {
    "state": "ok",
-   "checked": "2026-10-24T21:00:00+09:00"
+   "checked": "2026-10-24T21:00:00+09:00",
+   "news_checked": "2026-10-25T07:30:00+09:00"
   },
   "Wienners": {
    "state": "ok",
@@ -7946,24 +8497,28 @@
   },
   "UNISON SQUARE GARDEN": {
    "state": "no_events",
-   "checked": "2026-10-24T21:20:00+09:00",
+   "checked": "2026-10-25T07:30:00+09:00",
    "note": "2026-04-27に活動休止を発表。最終公演は2026-07-15。再開の発表なし"
   },
   "Fear, and Loathing in Las Vegas": {
    "state": "ok",
-   "checked": "2026-10-24T21:20:00+09:00"
+   "checked": "2026-10-24T21:20:00+09:00",
+   "news_checked": "2026-10-25T07:30:00+09:00"
   },
   "9mm Parabellum Bullet": {
    "state": "ok",
-   "checked": "2026-10-23T23:51:30+09:00"
+   "checked": "2026-10-23T23:51:30+09:00",
+   "news_checked": "2026-10-25T07:30:00+09:00"
   },
   "斎藤宏介": {
    "state": "no_events",
-   "checked": "2026-10-23T23:51:30+09:00"
+   "checked": "2026-10-25T07:30:00+09:00",
+   "news_checked": "2026-10-25T07:30:00+09:00"
   },
   "BUMP OF CHICKEN": {
    "state": "ok",
-   "checked": "2026-10-24T00:20:00+09:00"
+   "checked": "2026-10-24T00:20:00+09:00",
+   "news_checked": "2026-10-25T07:30:00+09:00"
   }
  }
 }
