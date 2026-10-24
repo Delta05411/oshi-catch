@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T09:20:00+09:00",
+ "updated": "2026-10-24T09:12:00+09:00",
  "artists": [
   "04 Limited Sazabys",
   "ELLEGARDEN",
@@ -6835,7 +6835,9 @@
    "eplus": "https://eplus.jp/sf/word/0000069557"
   },
   "Hi-STANDARD": {
-   "eplus": "https://eplus.jp/sf/word/0000000941"
+   "eplus": "https://eplus.jp/sf/word/0000000941",
+   "official": "https://hi-standard.jp/",
+   "news": "https://hi-standard.jp/news"
   },
   "Mrs. GREEN APPLE": {
    "official": "https://mrsgreenapple.com/",
@@ -6895,26 +6897,33 @@
    "official": "https://theoralcigarettes.com/"
   },
   "ELLEGARDEN": {
-   "official": "https://www.ellegarden.jp/",
-   "eplus": "https://eplus.jp/ellegarden2026/"
+   "official": "https://ellegarden.jp/",
+   "eplus": "https://eplus.jp/ellegarden2026/",
+   "news": "(公式NEWSは2022年で停止。e+・ナタリーで確認)"
   },
   "HEY-SMITH": {
    "official": "https://hey-smith.com/",
-   "schedule": "https://hey-smith.com/live"
+   "schedule": "https://hey-smith.com/live",
+   "news": "(公式NEWSは2020年で停止。公演カレンダー https://hey-smith.com/ と e+・ナタリーで確認)"
   },
   "サンボマスター": {
    "official": "https://www.sambomaster.com/",
    "schedule": "https://www.sambomaster.com/live/",
-   "eplus": "https://eplus.jp/sf/word/0000002764"
+   "eplus": "https://eplus.jp/sf/word/0000002764",
+   "news": "https://www.sma.co.jp/s/sma/api/list/ver2_news_list2?arti=186&rw=10&page=0"
   },
   "マキシマム ザ ホルモン": {
-   "eplus": "https://eplus.jp/sf/word/0000003230"
+   "eplus": "https://eplus.jp/sf/word/0000003230",
+   "news": "(公式NEWSは使えない。55mth.comは2015年で停止、maximumthehormone.jpは英語版。e+・ナタリーで確認)"
   },
   "10-FEET": {
-   "eplus": "https://eplus.jp/sf/word/0000002089"
+   "eplus": "https://eplus.jp/sf/word/0000002089",
+   "news": "(公式サイトURL未特定。10-feet.com/10feet.jp は別組織。e+・ナタリーで確認)"
   },
   "ROTTENGRAFFTY": {
-   "eplus": "https://eplus.jp/sf/detail/0069680001"
+   "eplus": "https://eplus.jp/sf/detail/0069680001",
+   "official": "https://rotten-g.com/",
+   "news": "https://rotten-g.com/information"
   }
  },
  "aliases": {
@@ -7061,7 +7070,8 @@
  "artist_status": {
   "Hi-STANDARD": {
    "state": "ok",
-   "checked": "2026-10-24T09:20:00+09:00"
+   "checked": "2026-10-24T09:20:00+09:00",
+   "news_checked": "2026-10-24T09:12:00+09:00"
   },
   "Mrs. GREEN APPLE": {
    "state": "ok",
@@ -7102,7 +7112,8 @@
   },
   "サンボマスター": {
    "state": "ok",
-   "checked": "2026-10-24T09:20:00+09:00"
+   "checked": "2026-10-24T09:20:00+09:00",
+   "news_checked": "2026-10-24T09:12:00+09:00"
   },
   "あいみょん": {
    "state": "ok",
@@ -7120,7 +7131,8 @@
   },
   "ROTTENGRAFFTY": {
    "state": "ok",
-   "checked": "2026-10-24T09:20:00+09:00"
+   "checked": "2026-10-24T09:20:00+09:00",
+   "news_checked": "2026-10-24T09:12:00+09:00"
   },
   "SiM": {
    "state": "ok",
