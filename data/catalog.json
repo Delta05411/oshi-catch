@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T20:40:00+09:00",
+ "updated": "2026-10-24T21:00:00+09:00",
  "artists": {
   "Michael Schenker Group": {
    "aliases": [],
@@ -522,6 +522,14 @@
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
      "confidence": "high"
+    },
+    {
+     "date": "2026-10-24",
+     "title": "OSAKA HAZIKETEMAZARE FESTIVAL",
+     "kind": "フェス",
+     "venue": "泉大津フェニックス（大阪）",
+     "source_url": "https://haziketemazare.com/2026/",
+     "confidence": "low"
     }
    ]
   },
@@ -629,6 +637,22 @@
      "venue": "ZOZOマリンスタジアム（千葉）",
      "source_url": "https://www.thefirsttimes.jp/?p=820987",
      "confidence": "high"
+    },
+    {
+     "date": "2026-10-24",
+     "title": "OSAKA HAZIKETEMAZARE FESTIVAL",
+     "kind": "フェス",
+     "venue": "泉大津フェニックス（大阪）",
+     "source_url": "https://haziketemazare.com/2026/",
+     "confidence": "low"
+    },
+    {
+     "date": "2026-11-01",
+     "title": "SATANIC PARTY",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://satanicparty.com/",
+     "confidence": "low"
     }
    ]
   },
@@ -765,6 +789,14 @@
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://xhl-music.com/feature/hypelikeit",
      "confidence": "high"
+    },
+    {
+     "date": "2026-10-24",
+     "title": "OSAKA HAZIKETEMAZARE FESTIVAL",
+     "kind": "フェス",
+     "venue": "泉大津フェニックス（大阪）",
+     "source_url": "https://haziketemazare.com/2026/",
+     "confidence": "low"
     }
    ]
   },
@@ -1246,6 +1278,14 @@
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-26",
+     "title": "MAGIC HOUR FESTIVAL",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
     }
    ]
   },
@@ -1623,6 +1663,14 @@
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
      "confidence": "high"
+    },
+    {
+     "date": "2026-10-24",
+     "title": "OSAKA HAZIKETEMAZARE FESTIVAL",
+     "kind": "フェス",
+     "venue": "泉大津フェニックス（大阪）",
+     "source_url": "https://haziketemazare.com/2026/",
+     "confidence": "low"
     }
    ]
   },
@@ -1688,6 +1736,2121 @@
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
      "confidence": "high"
+    }
+   ]
+  },
+  "GOOD SKATES": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-10-24",
+     "title": "OSAKA HAZIKETEMAZARE FESTIVAL",
+     "kind": "フェス",
+     "venue": "泉大津フェニックス（大阪）",
+     "source_url": "https://haziketemazare.com/2026/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "R藤本": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-10-24",
+     "title": "OSAKA HAZIKETEMAZARE FESTIVAL",
+     "kind": "フェス",
+     "venue": "泉大津フェニックス（大阪）",
+     "source_url": "https://haziketemazare.com/2026/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Age Factory": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-10-24",
+     "title": "OSAKA HAZIKETEMAZARE FESTIVAL",
+     "kind": "フェス",
+     "venue": "泉大津フェニックス（大阪）",
+     "source_url": "https://haziketemazare.com/2026/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "dustbox": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-10-24",
+     "title": "OSAKA HAZIKETEMAZARE FESTIVAL",
+     "kind": "フェス",
+     "venue": "泉大津フェニックス（大阪）",
+     "source_url": "https://haziketemazare.com/2026/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "FOMARE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-10-24",
+     "title": "OSAKA HAZIKETEMAZARE FESTIVAL",
+     "kind": "フェス",
+     "venue": "泉大津フェニックス（大阪）",
+     "source_url": "https://haziketemazare.com/2026/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Less Than Jake": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-10-24",
+     "title": "OSAKA HAZIKETEMAZARE FESTIVAL",
+     "kind": "フェス",
+     "venue": "泉大津フェニックス（大阪）",
+     "source_url": "https://haziketemazare.com/2026/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "locofrank": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-10-24",
+     "title": "OSAKA HAZIKETEMAZARE FESTIVAL",
+     "kind": "フェス",
+     "venue": "泉大津フェニックス（大阪）",
+     "source_url": "https://haziketemazare.com/2026/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Maki": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-10-24",
+     "title": "OSAKA HAZIKETEMAZARE FESTIVAL",
+     "kind": "フェス",
+     "venue": "泉大津フェニックス（大阪）",
+     "source_url": "https://haziketemazare.com/2026/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "MONGOL800": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-10-24",
+     "title": "OSAKA HAZIKETEMAZARE FESTIVAL",
+     "kind": "フェス",
+     "venue": "泉大津フェニックス（大阪）",
+     "source_url": "https://haziketemazare.com/2026/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "RAZORS EDGE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-10-24",
+     "title": "OSAKA HAZIKETEMAZARE FESTIVAL",
+     "kind": "フェス",
+     "venue": "泉大津フェニックス（大阪）",
+     "source_url": "https://haziketemazare.com/2026/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "SCAFULL KING": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-10-24",
+     "title": "OSAKA HAZIKETEMAZARE FESTIVAL",
+     "kind": "フェス",
+     "venue": "泉大津フェニックス（大阪）",
+     "source_url": "https://haziketemazare.com/2026/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "SHADOWS": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-10-24",
+     "title": "OSAKA HAZIKETEMAZARE FESTIVAL",
+     "kind": "フェス",
+     "venue": "泉大津フェニックス（大阪）",
+     "source_url": "https://haziketemazare.com/2026/",
+     "confidence": "low"
+    },
+    {
+     "date": "2026-11-22",
+     "title": "TRUE NORTH FESTIVAL",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://crystallake-worldwide.com/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "SNAIL RAMP": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-10-24",
+     "title": "OSAKA HAZIKETEMAZARE FESTIVAL",
+     "kind": "フェス",
+     "venue": "泉大津フェニックス（大阪）",
+     "source_url": "https://haziketemazare.com/2026/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Voodoo Glow Skulls": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-10-24",
+     "title": "OSAKA HAZIKETEMAZARE FESTIVAL",
+     "kind": "フェス",
+     "venue": "泉大津フェニックス（大阪）",
+     "source_url": "https://haziketemazare.com/2026/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "山嵐": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-10-24",
+     "title": "OSAKA HAZIKETEMAZARE FESTIVAL",
+     "kind": "フェス",
+     "venue": "泉大津フェニックス（大阪）",
+     "source_url": "https://haziketemazare.com/2026/",
+     "confidence": "low"
+    },
+    {
+     "date": "2026-11-22",
+     "title": "TRUE NORTH FESTIVAL",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://crystallake-worldwide.com/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Are Square": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-10-25",
+     "title": "心臓爆発CIRCUIT",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "anewhite": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-10-25",
+     "title": "心臓爆発CIRCUIT",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "iCO": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-10-25",
+     "title": "心臓爆発CIRCUIT",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "OXU": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-10-25",
+     "title": "心臓爆発CIRCUIT",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "ORCALAND": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-10-25",
+     "title": "心臓爆発CIRCUIT",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    },
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "KAKASHI": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-10-25",
+     "title": "心臓爆発CIRCUIT",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "かたこと": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-10-25",
+     "title": "心臓爆発CIRCUIT",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    },
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "goomiey": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-10-25",
+     "title": "心臓爆発CIRCUIT",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "The Cheserasera": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-10-25",
+     "title": "心臓爆発CIRCUIT",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "SAIHATE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-10-25",
+     "title": "心臓爆発CIRCUIT",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "シベリアンハスキー": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-10-25",
+     "title": "心臓爆発CIRCUIT",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "soyouth": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-10-25",
+     "title": "心臓爆発CIRCUIT",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Tyrkouaz": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-10-25",
+     "title": "心臓爆発CIRCUIT",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Daisycall": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-10-25",
+     "title": "心臓爆発CIRCUIT",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Deneel": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-10-25",
+     "title": "心臓爆発CIRCUIT",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "NiCK": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-10-25",
+     "title": "心臓爆発CIRCUIT",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "ハイドアウト": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-10-25",
+     "title": "心臓爆発CIRCUIT",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Broken my toybox": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-10-25",
+     "title": "心臓爆発CIRCUIT",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Mercy Woodpecker": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-10-25",
+     "title": "心臓爆発CIRCUIT",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "BASEBALL PITCHER": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-01",
+     "title": "SATANIC PARTY",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://satanicparty.com/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "DC": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-01",
+     "title": "SATANIC PARTY",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://satanicparty.com/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "FIVE STATE DRIVE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-01",
+     "title": "SATANIC PARTY",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://satanicparty.com/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "HERO COMPLEX": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-01",
+     "title": "SATANIC PARTY",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://satanicparty.com/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "HIKAGE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-01",
+     "title": "SATANIC PARTY",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://satanicparty.com/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "HONEST": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-01",
+     "title": "SATANIC PARTY",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://satanicparty.com/",
+     "confidence": "low"
+    },
+    {
+     "date": "2026-11-03",
+     "title": "PUNK IN AUTUMN",
+     "kind": "フェス",
+     "venue": "（愛知）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Knosis": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-01",
+     "title": "SATANIC PARTY",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://satanicparty.com/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "KRUELTY": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-01",
+     "title": "SATANIC PARTY",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://satanicparty.com/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "May Forth": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-01",
+     "title": "SATANIC PARTY",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://satanicparty.com/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "moreru": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-01",
+     "title": "SATANIC PARTY",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://satanicparty.com/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "OwL": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-01",
+     "title": "SATANIC PARTY",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://satanicparty.com/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "SHE'll SLEEP": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-01",
+     "title": "SATANIC PARTY",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://satanicparty.com/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "トップシークレットマン": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-01",
+     "title": "SATANIC PARTY",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://satanicparty.com/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "ビリー&ザ・ムーンライツ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-03",
+     "title": "三浦ロカビリーまつり",
+     "kind": "フェス",
+     "venue": "（神奈川）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "山口憲一&ロカビリー・スペシャルズ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-03",
+     "title": "三浦ロカビリーまつり",
+     "kind": "フェス",
+     "venue": "（神奈川）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "キャメルクラッチ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-03",
+     "title": "三浦ロカビリーまつり",
+     "kind": "フェス",
+     "venue": "（神奈川）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "HOT DOG BUDDY BUDDY": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-03",
+     "title": "三浦ロカビリーまつり",
+     "kind": "フェス",
+     "venue": "（神奈川）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "ガレージバンド": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-03",
+     "title": "三浦ロカビリーまつり",
+     "kind": "フェス",
+     "venue": "（神奈川）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "シツレイ・キャッツ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-03",
+     "title": "三浦ロカビリーまつり",
+     "kind": "フェス",
+     "venue": "（神奈川）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "浦江アキコ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-03",
+     "title": "三浦ロカビリーまつり",
+     "kind": "フェス",
+     "venue": "（神奈川）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "日野勝雄": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-03",
+     "title": "三浦ロカビリーまつり",
+     "kind": "フェス",
+     "venue": "（神奈川）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "トニー斉藤": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-03",
+     "title": "三浦ロカビリーまつり",
+     "kind": "フェス",
+     "venue": "（神奈川）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "HAYATO DELAROSSA": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-07",
+     "title": "MIYA SONIC",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://miyasonic.com/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "DJ TATSUTA": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-07",
+     "title": "MIYA SONIC",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://miyasonic.com/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "DJ JIN": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-07",
+     "title": "MIYA SONIC",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://miyasonic.com/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "竹本健一": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-07",
+     "title": "MIYA SONIC",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://miyasonic.com/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "DJ Funky-T": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-07",
+     "title": "MIYA SONIC",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://miyasonic.com/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "武蔵丘高校軽音楽部": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-07",
+     "title": "MIYA SONIC",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://miyasonic.com/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "鷺宮高校軽音楽部": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-07",
+     "title": "MIYA SONIC",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://miyasonic.com/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "ADAM at": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "AIR SWELL": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "AIRFLIP": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "BRADIO": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "CROWN HEAD": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "FABLED NUMBER": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "KNOCK OUT MONKEY": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "LUMiRiSE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "マザリ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "魔法少女になり隊": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Adept": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-22",
+     "title": "TRUE NORTH FESTIVAL",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://crystallake-worldwide.com/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "After the Burial": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-22",
+     "title": "TRUE NORTH FESTIVAL",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://crystallake-worldwide.com/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Crystal Lake": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-22",
+     "title": "TRUE NORTH FESTIVAL",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://crystallake-worldwide.com/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "C-GATE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-22",
+     "title": "TRUE NORTH FESTIVAL",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://crystallake-worldwide.com/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "NOISEMAKER": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-22",
+     "title": "TRUE NORTH FESTIVAL",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://crystallake-worldwide.com/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Prompts": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-22",
+     "title": "TRUE NORTH FESTIVAL",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://crystallake-worldwide.com/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Super Structure": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-22",
+     "title": "TRUE NORTH FESTIVAL",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://crystallake-worldwide.com/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "花冷え。": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-22",
+     "title": "TRUE NORTH FESTIVAL",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://crystallake-worldwide.com/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Adult family": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Ciely": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Gum-9": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "HINONABE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Lala": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Reinore": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Re:name": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "shallm": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Viewtrade": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "アンジーモーテル": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "プルスタンス": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "ミーマイナー": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "ゆっくりな光": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Aloud": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Broken By The Scream": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Cait-C": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "DOPERS": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Hakumay": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "IneedS": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Koyoi": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Lonesome_Blue": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "masa": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "melto": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "PaleNeØ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Sleepless Endorphine": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "TOKYO EAST TAPES CLUB": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "わんちゃんわんわんねこにゃんにゃん": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Survive Said The Prophet": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-26",
+     "title": "MAGIC HOUR FESTIVAL",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    },
+    {
+     "date": "2026-10-31",
+     "title": "BURST MAX",
+     "kind": "フェス",
+     "venue": "（島根）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "ACIDMAN": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-26",
+     "title": "MAGIC HOUR FESTIVAL",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "BACK LIFT": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-03",
+     "title": "PUNK IN AUTUMN",
+     "kind": "フェス",
+     "venue": "（愛知）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "EVERLONG": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-03",
+     "title": "PUNK IN AUTUMN",
+     "kind": "フェス",
+     "venue": "（愛知）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Greedy": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-03",
+     "title": "PUNK IN AUTUMN",
+     "kind": "フェス",
+     "venue": "（愛知）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "THE JAPANESE PRIDE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-03",
+     "title": "PUNK IN AUTUMN",
+     "kind": "フェス",
+     "venue": "（愛知）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "knot": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-03",
+     "title": "PUNK IN AUTUMN",
+     "kind": "フェス",
+     "venue": "（愛知）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "LABRET": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-03",
+     "title": "PUNK IN AUTUMN",
+     "kind": "フェス",
+     "venue": "（愛知）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "MACVES": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-03",
+     "title": "PUNK IN AUTUMN",
+     "kind": "フェス",
+     "venue": "（愛知）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "MORGIC": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-03",
+     "title": "PUNK IN AUTUMN",
+     "kind": "フェス",
+     "venue": "（愛知）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Odd Lazy": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-03",
+     "title": "PUNK IN AUTUMN",
+     "kind": "フェス",
+     "venue": "（愛知）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "RAINCOVER": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-03",
+     "title": "PUNK IN AUTUMN",
+     "kind": "フェス",
+     "venue": "（愛知）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "sanagi": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-03",
+     "title": "PUNK IN AUTUMN",
+     "kind": "フェス",
+     "venue": "（愛知）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "SLACK": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-03",
+     "title": "PUNK IN AUTUMN",
+     "kind": "フェス",
+     "venue": "（愛知）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "stain hung over": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-03",
+     "title": "PUNK IN AUTUMN",
+     "kind": "フェス",
+     "venue": "（愛知）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Trase Rush": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-03",
+     "title": "PUNK IN AUTUMN",
+     "kind": "フェス",
+     "venue": "（愛知）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "VII DAYS REASON": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-03",
+     "title": "PUNK IN AUTUMN",
+     "kind": "フェス",
+     "venue": "（愛知）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Wind shift": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-03",
+     "title": "PUNK IN AUTUMN",
+     "kind": "フェス",
+     "venue": "（愛知）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "DNA GAINZ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-10-31",
+     "title": "BURST MAX",
+     "kind": "フェス",
+     "venue": "（島根）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "GOOD4NOTHING": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-10-31",
+     "title": "BURST MAX",
+     "kind": "フェス",
+     "venue": "（島根）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "HIPPY": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-10-31",
+     "title": "BURST MAX",
+     "kind": "フェス",
+     "venue": "（島根）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "LIKE A STREAM": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-10-31",
+     "title": "BURST MAX",
+     "kind": "フェス",
+     "venue": "（島根）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "MOS": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-10-31",
+     "title": "BURST MAX",
+     "kind": "フェス",
+     "venue": "（島根）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "PAN": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-10-31",
+     "title": "BURST MAX",
+     "kind": "フェス",
+     "venue": "（島根）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "TOTALFAT": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-10-31",
+     "title": "BURST MAX",
+     "kind": "フェス",
+     "venue": "（島根）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "homme": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-10-31",
+     "title": "BURST MAX",
+     "kind": "フェス",
+     "venue": "（島根）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "ゆーこときカズ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-10-31",
+     "title": "BURST MAX",
+     "kind": "フェス",
+     "venue": "（島根）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "ガガガSP": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-10-31",
+     "title": "BURST MAX",
+     "kind": "フェス",
+     "venue": "（島根）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "セックスマシーン!!": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-10-31",
+     "title": "BURST MAX",
+     "kind": "フェス",
+     "venue": "（島根）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "バックドロップシンデレラ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-10-31",
+     "title": "BURST MAX",
+     "kind": "フェス",
+     "venue": "（島根）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "四星球": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-10-31",
+     "title": "BURST MAX",
+     "kind": "フェス",
+     "venue": "（島根）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "竹原ピストル": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-10-31",
+     "title": "BURST MAX",
+     "kind": "フェス",
+     "venue": "（島根）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "花男": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-10-31",
+     "title": "BURST MAX",
+     "kind": "フェス",
+     "venue": "（島根）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "BAB": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-10-31",
+     "title": "四王寺ロックフェスティバル",
+     "kind": "フェス",
+     "venue": "（福岡）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "BEAT SWEET CLUB BAND": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-10-31",
+     "title": "四王寺ロックフェスティバル",
+     "kind": "フェス",
+     "venue": "（福岡）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "DOGs": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-10-31",
+     "title": "四王寺ロックフェスティバル",
+     "kind": "フェス",
+     "venue": "（福岡）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Graf Zeppelin JP": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-10-31",
+     "title": "四王寺ロックフェスティバル",
+     "kind": "フェス",
+     "venue": "（福岡）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "LUNA TEARS": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-10-31",
+     "title": "四王寺ロックフェスティバル",
+     "kind": "フェス",
+     "venue": "（福岡）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "MEISTER": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-10-31",
+     "title": "四王寺ロックフェスティバル",
+     "kind": "フェス",
+     "venue": "（福岡）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Mosh-Asu": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-10-31",
+     "title": "四王寺ロックフェスティバル",
+     "kind": "フェス",
+     "venue": "（福岡）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Oni Brothers Band": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-10-31",
+     "title": "四王寺ロックフェスティバル",
+     "kind": "フェス",
+     "venue": "（福岡）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Sumo Dada": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-10-31",
+     "title": "四王寺ロックフェスティバル",
+     "kind": "フェス",
+     "venue": "（福岡）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "THEダーツ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-10-31",
+     "title": "四王寺ロックフェスティバル",
+     "kind": "フェス",
+     "venue": "（福岡）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "hard Smoker": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-10-31",
+     "title": "四王寺ロックフェスティバル",
+     "kind": "フェス",
+     "venue": "（福岡）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "rainbow of wonder": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-10-31",
+     "title": "四王寺ロックフェスティバル",
+     "kind": "フェス",
+     "venue": "（福岡）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "カミキンと唄の仲間たち": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-10-31",
+     "title": "四王寺ロックフェスティバル",
+     "kind": "フェス",
+     "venue": "（福岡）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "サマーレイル": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-10-31",
+     "title": "四王寺ロックフェスティバル",
+     "kind": "フェス",
+     "venue": "（福岡）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "ルナソル": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-10-31",
+     "title": "四王寺ロックフェスティバル",
+     "kind": "フェス",
+     "venue": "（福岡）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "原田下オールスターズ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-10-31",
+     "title": "四王寺ロックフェスティバル",
+     "kind": "フェス",
+     "venue": "（福岡）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "和装バンド": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-10-31",
+     "title": "四王寺ロックフェスティバル",
+     "kind": "フェス",
+     "venue": "（福岡）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "実行委員バンド": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-10-31",
+     "title": "四王寺ロックフェスティバル",
+     "kind": "フェス",
+     "venue": "（福岡）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
     }
    ]
   }
