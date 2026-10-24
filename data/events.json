@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T09:12:00+09:00",
+ "updated": "2026-10-24T09:49:00+09:00",
  "artists": [
   "04 Limited Sazabys",
   "ELLEGARDEN",
@@ -523,6 +523,15 @@
    "source_url": "https://eplus.jp/sf/detail/0069680001",
    "confidence": "high",
    "with": "10-FEET"
+  },
+  {
+   "artist": "10-FEET",
+   "date": "2026-11-02",
+   "title": "響都超特急TOUR2026",
+   "kind": "対バン",
+   "venue": "広島CLUB QUATTRO（広島県）",
+   "source_url": "https://10-feet.kyoto/contents/1085754",
+   "confidence": "high"
   },
   {
    "artist": "ELLEGARDEN",
@@ -1354,6 +1363,15 @@
    "confidence": "high"
   },
   {
+   "artist": "10-FEET",
+   "date": "2026-11-20",
+   "title": "TOWER RECORDS \"NO MUSIC, NO LIFE.\" presents UNFRAMED -30th Anniversary Live Series-",
+   "kind": "その他",
+   "venue": "Zepp Fukuoka（福岡県）",
+   "source_url": "https://10-feet.kyoto/contents/1118905",
+   "confidence": "high"
+  },
+  {
    "artist": "9mm Parabellum Bullet",
    "date": "2026-11-21",
    "title": "9mm Parabellum Bullet Tour 2026-27「Raison d’être」",
@@ -1714,6 +1732,15 @@
    "confidence": "high"
   },
   {
+   "artist": "10-FEET",
+   "date": "2026-11-30",
+   "title": "WstudioRED 10th ANNIVERSARY LIVE -EXTRA STAGE-",
+   "kind": "その他",
+   "venue": "松山WstudioRED（愛媛県）",
+   "source_url": "https://10-feet.kyoto/contents/1118726",
+   "confidence": "high"
+  },
+  {
    "artist": "coldrain",
    "date": "2026-12-01",
    "title": "OPTIMIZE = OPTDEMISE JAPAN TOUR 2026",
@@ -1771,6 +1798,15 @@
    "confidence": "high"
   },
   {
+   "artist": "10-FEET",
+   "date": "2026-12-02",
+   "title": "HIROSHIMA CLUB QUATTRO 25th ANNIVERSARY \"QUATTRO CROSSING\"",
+   "kind": "その他",
+   "venue": "広島CLUB QUATTRO（広島県）",
+   "source_url": "https://10-feet.kyoto/contents/1119778",
+   "confidence": "high"
+  },
+  {
    "artist": "Fear, and Loathing in Las Vegas",
    "date": "2026-12-03",
    "title": "The Focus \"Feeling of Unity\" Vol.1",
@@ -1819,6 +1855,15 @@
    "kind": "ワンマン",
    "venue": "岡山PEPPERLAND（岡山県）",
    "source_url": "https://realsound.jp/2026/05/post-2386759.html",
+   "confidence": "high"
+  },
+  {
+   "artist": "10-FEET",
+   "date": "2026-12-04",
+   "title": "FUSE 20th Anniversary",
+   "kind": "その他",
+   "venue": "小倉FUSE（福岡県）",
+   "source_url": "https://10-feet.kyoto/contents/1120792",
    "confidence": "high"
   },
   {
@@ -2135,6 +2180,15 @@
    "confidence": "high"
   },
   {
+   "artist": "10-FEET",
+   "date": "2026-12-13",
+   "title": "響都超特急2026",
+   "kind": "フェス",
+   "venue": "京都パルスプラザ（京都府）",
+   "source_url": "https://10-feet.kyoto/contents/1091687",
+   "confidence": "high"
+  },
+  {
    "artist": "Mrs. GREEN APPLE",
    "date": "2026-12-15",
    "title": "Mrs. GREEN APPLE Ringo Jam Tour “SHADOWS”",
@@ -2308,6 +2362,15 @@
    "venue": "ポートメッセなごや（愛知）",
    "ticket_url": "https://www.merryrockparade.jp/",
    "source_url": "https://yabaitshirtsyasan.com/live/295750/",
+   "confidence": "high"
+  },
+  {
+   "artist": "10-FEET",
+   "date": "2026-12-20",
+   "title": "MERRY ROCK PARADE 2026",
+   "kind": "フェス",
+   "venue": "ポートメッセなごや（愛知県）",
+   "source_url": "https://10-feet.kyoto/contents/1113563",
    "confidence": "high"
   },
   {
@@ -6918,7 +6981,9 @@
   },
   "10-FEET": {
    "eplus": "https://eplus.jp/sf/word/0000002089",
-   "news": "(公式サイトURL未特定。10-feet.com/10feet.jp は別組織。e+・ナタリーで確認)"
+   "news": "https://10-feet.kyoto/contents/news",
+   "official": "https://10-feet.kyoto/",
+   "schedule": "https://10-feet.kyoto/contents/live"
   },
   "ROTTENGRAFFTY": {
    "eplus": "https://eplus.jp/sf/detail/0069680001",
@@ -7122,7 +7187,8 @@
   },
   "10-FEET": {
    "state": "ok",
-   "checked": "2026-10-24T09:20:00+09:00"
+   "checked": "2026-10-24T09:20:00+09:00",
+   "news_checked": "2026-10-24T09:49:00+09:00"
   },
   "SHANK": {
    "state": "ok",
