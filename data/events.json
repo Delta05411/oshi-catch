@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T20:30:00+09:00",
+ "updated": "2026-10-25T20:45:00+09:00",
  "artists": [
   "04 Limited Sazabys",
   "ELLEGARDEN",
@@ -28,7 +28,9 @@
   "Fear, and Loathing in Las Vegas",
   "9mm Parabellum Bullet",
   "斎藤宏介",
-  "BUMP OF CHICKEN"
+  "BUMP OF CHICKEN",
+  "ブランデー戦記",
+  "muque"
  ],
  "events": [
   {
@@ -446,6 +448,18 @@
    "confidence": "high"
   },
   {
+   "artist": "ブランデー戦記",
+   "date": "2026-11-01",
+   "title": "BRANDY SENKI TOUR 2026",
+   "kind": "ワンマン",
+   "venue": "名古屋BOTTOM LINE（愛知）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/3887490001-P0030038P021001",
+   "source_url": "https://eplus.jp/sf/word/0000156908",
+   "confidence": "high",
+   "sale_info": "先着一般発売"
+  },
+  {
    "artist": "10-FEET",
    "date": "2026-11-02",
    "title": "響都超特急TOUR2026",
@@ -543,6 +557,18 @@
    "sale_info": "1Fスタンディング6,000円/2F指定6,000円。開場16:00 開演17:00",
    "source_url": "https://eplus.jp/sf/word/0000002764/events",
    "confidence": "high"
+  },
+  {
+   "artist": "ブランデー戦記",
+   "date": "2026-11-03",
+   "title": "BRANDY SENKI TOUR 2026",
+   "kind": "ワンマン",
+   "venue": "Zepp Osaka Bayside（大阪）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/3887490001-P0030039P021001",
+   "source_url": "https://eplus.jp/sf/word/0000156908",
+   "confidence": "high",
+   "sale_info": "先着一般発売"
   },
   {
    "artist": "04 Limited Sazabys",
@@ -1482,6 +1508,18 @@
    "confidence": "high"
   },
   {
+   "artist": "ブランデー戦記",
+   "date": "2026-11-19",
+   "title": "BRANDY SENKI TOUR 2026 ファイナル",
+   "kind": "ワンマン",
+   "venue": "Zepp DiverCity TOKYO（東京）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/3887490001-P0030040P021001",
+   "source_url": "https://eplus.jp/sf/word/0000156908",
+   "confidence": "high",
+   "sale_info": "先着一般発売"
+  },
+  {
    "artist": "10-FEET",
    "date": "2026-11-20",
    "title": "TOWER RECORDS \"NO MUSIC, NO LIFE.\" presents UNFRAMED -30th Anniversary Live Series-",
@@ -1839,6 +1877,26 @@
    "with": "ハルカミライ",
    "source_url": "https://yabaitshirtsyasan.com/live/296393/",
    "confidence": "high"
+  },
+  {
+   "artist": "muque",
+   "date": "2026-11-27",
+   "title": "muque Release Party \"いいんじゃない\"",
+   "kind": "その他",
+   "venue": "代官山UNIT（東京）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/3987700001",
+   "source_url": "https://eplus.jp/sf/detail/3987700001",
+   "confidence": "high",
+   "sale_info": "開場18:00／開演19:00。予定枚数終了",
+   "sales": [
+    {
+     "label": "イープラス受付",
+     "start": "2026-10-05",
+     "end": "2026-11-26",
+     "note": "12:00〜18:00"
+    }
+   ]
   },
   {
    "artist": "9mm Parabellum Bullet",
@@ -3249,6 +3307,15 @@
    "confidence": "high"
   },
   {
+   "artist": "muque",
+   "date": "2026-12-26",
+   "title": "MAGIC HOUR FESTIVAL",
+   "kind": "フェス",
+   "venue": "（東京）",
+   "source_url": "https://www.ragnet.co.jp/rock-festival",
+   "confidence": "low"
+  },
+  {
    "artist": "Mrs. GREEN APPLE",
    "date": "2026-12-27",
    "title": "Mrs. GREEN APPLE Ringo Jam Tour “SHADOWS”",
@@ -3504,6 +3571,15 @@
      "note": "12:15開始〜16:00締切 / 公式アプリ「Jフェス」のみ"
     }
    ]
+  },
+  {
+   "artist": "muque",
+   "date": "2026-12-29",
+   "title": "COUNTDOWN JAPAN 26/27（12/29）",
+   "kind": "フェス",
+   "venue": "幕張メッセ（千葉）",
+   "source_url": "https://festival-life.com/168983",
+   "confidence": "high"
   },
   {
    "artist": "04 Limited Sazabys",
@@ -4365,6 +4441,26 @@
    ],
    "source_url": "https://yabaitshirtsyasan.com/live/293577/",
    "confidence": "high"
+  },
+  {
+   "artist": "muque",
+   "date": "2027-02-05",
+   "title": "muque 5th anniversary kick off live \"SAVE POINT\"",
+   "kind": "ワンマン",
+   "venue": "KT Zepp Yokohama（神奈川）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/3987700001",
+   "source_url": "https://eplus.jp/sf/detail/3987700001",
+   "confidence": "high",
+   "sale_info": "開場18:00／開演19:00",
+   "sales": [
+    {
+     "label": "イープラス受付",
+     "start": "2026-10-22",
+     "end": "2026-10-28",
+     "note": "12:00〜23:59"
+    }
+   ]
   },
   {
    "artist": "9mm Parabellum Bullet",
@@ -8913,6 +9009,12 @@
   },
   "SiM": {
    "eplus": "https://eplus.jp/sf/word/0000038382"
+  },
+  "ブランデー戦記": {
+   "eplus": "https://eplus.jp/sf/word/0000156908"
+  },
+  "muque": {
+   "eplus": "https://eplus.jp/sf/detail/3987700001"
   }
  },
  "aliases": {
@@ -9043,6 +9145,12 @@
    "BUMP",
    "バンプ",
    "バンプオブチキン"
+  ],
+  "ブランデー戦記": [
+   "BRANDY SENKI"
+  ],
+  "muque": [
+   "ムク"
   ]
  },
  "rejected": [
@@ -9197,6 +9305,16 @@
    "state": "ok",
    "checked": "2026-10-24T00:20:00+09:00",
    "news_checked": "2026-10-25T07:30:00+09:00"
+  },
+  "ブランデー戦記": {
+   "state": "ok",
+   "checked": "2026-10-25T20:45:00+09:00",
+   "news_checked": "2026-10-25T20:45:00+09:00"
+  },
+  "muque": {
+   "state": "ok",
+   "checked": "2026-10-25T20:45:00+09:00",
+   "news_checked": "2026-10-25T20:45:00+09:00"
   }
  }
 }
