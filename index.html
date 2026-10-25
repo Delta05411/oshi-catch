@@ -79,12 +79,13 @@ main{padding-bottom:70px}
 .mon .n{font-size:40px;line-height:1;color:var(--w)}
 .mon .j{font-size:14px;font-weight:700}
 .mon .y{margin-left:auto;font-size:12px;color:var(--sub);letter-spacing:.08em}
-.ev{display:grid;grid-template-columns:60px 1fr;gap:14px;padding:16px 0;border-bottom:1px solid var(--line);animation:rise .35s both}
+.ev{display:grid;grid-template-columns:88px 1fr;gap:14px;padding:16px 0;border-bottom:1px solid var(--line);animation:rise .35s both}
 @keyframes rise{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
 .date .dy{font-size:44px;line-height:.9;color:var(--w)}
 .date .ym{font-size:10.5px;color:var(--sub);margin-top:5px;letter-spacing:.06em;line-height:1.35}
 .date .to{font-size:11px;color:var(--sub);margin-top:3px}
-.date .thumb{display:block;width:60px;height:60px;object-fit:contain;border-radius:4px;margin-top:10px;background:#fff}
+.date .thumba{display:block;width:88px}
+.date .thumb{display:block;width:88px;height:88px;object-fit:contain;border-radius:4px;margin-top:10px;background:#fff}
 .tags{display:flex;flex-wrap:wrap;gap:6px 10px;align-items:center;font-size:11px;color:var(--sub);letter-spacing:.04em;margin-bottom:2px}
 .tags .dot{width:6px;height:6px;border-radius:50%;background:hsl(var(--h,0) 85% var(--hl));display:inline-block;margin-right:6px;vertical-align:1px}
 .tags .who{color:var(--fg);font-size:12px}
@@ -274,13 +275,14 @@ function dinfo(d){const m=/^(\d{4})-(\d\d)-(\d\d)$/.exec(d||'');if(!m)return nul
   const left=Math.round((Date.UTC(y,mo-1,dy)-Date.UTC(+t[1],+t[2]-1,+t[3]))/864e5);
   return {y,mo,dy,w:new Date(y,mo-1,dy).getDay(),left}}
 // 日付の下の小さな画像（公式サイトが公開している og:image を直接リンク。自サイトには保存しない）
-const thumb=(u,alt)=>{u=safe(u);return u?`<img class="thumb" src="${esc(u)}" alt="${esc(alt||'')}" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">`:''};
+const thumb=(u,alt,href)=>{u=safe(u);if(!u)return'';const im=`<img class="thumb" src="${esc(u)}" alt="${esc(alt||'')}" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">`;href=safe(href);return href?`<a class="thumba" href="${esc(href)}" target="_blank" rel="noopener">${im}</a>`:im};
 const artImg=a=>((DB.artist_links||{})[a]||{}).image||'';
-function dateBlock(d,end,img,alt){
-  const i=dinfo(d);if(!i)return `<div class="date"><div class="bb dy" style="font-size:26px">TBA</div><div class="ym">日付未定</div>${thumb(img,alt)}</div>`;
+const artSite=a=>((DB.artist_links||{})[a]||{}).official||'';
+function dateBlock(d,end,img,alt,href){
+  const i=dinfo(d);if(!i)return `<div class="date"><div class="bb dy" style="font-size:26px">TBA</div><div class="ym">日付未定</div>${thumb(img,alt,href)}</div>`;
   let to='';const j=end&&end!==d?dinfo(end):null;
   if(j)to=`<div class="to">〜 ${j.mo===i.mo?'':j.mo+'/'}${j.dy}</div>`;
-  return `<div class="date"><div class="bb dy">${i.dy}</div><div class="ym">${i.y}.${String(i.mo).padStart(2,'0')}<br>${WE[i.w]}</div>${to}${thumb(img,alt)}</div>`;
+  return `<div class="date"><div class="bb dy">${i.dy}</div><div class="ym">${i.y}.${String(i.mo).padStart(2,'0')}<br>${WE[i.w]}</div>${to}${thumb(img,alt,href)}</div>`;
 }
 function soonBadge(d){const i=dinfo(d);if(!i)return'';if(i.left===0)return '<span class="pill solid">TODAY</span>';if(i.left>0&&i.left<=14)return `<span class="pill">あと${i.left}日</span>`;return''}
 // 推し追加：この画面から送信する（Googleフォームの受付口へ直接送る。別画面には移動しない）。
@@ -545,7 +547,7 @@ function renderHelp(){
   ${st('推しの名前を直す・外す','推しの一覧の下の「EDIT」をおすと、✎で表示名を変えられて、×で一覧から外せます。自分の画面だけで、ほかの人には見えません。')}
   ${st('間違いがあるかも','予定はAIが自動で集めているので、間違いや、載っていないものがあります。チケットを買う前に、かならず公式サイトで たしかめてね。')}
   ${st('うまく表示されないとき','画面が空になったり、おかしくなったときは、一度アプリ（ブラウザ）を閉じて、開き直してください。たいていは直ります。それでも直らないときは、検索欄や推しの絞り込みを解除してみてください。')}
-  ${st('日付の下の小さな画像','日付の下に出る画像は、アーティストやフェスの公式サイトが公開している画像を、そのまま表示しています。ロゴのことも、写真のこともあります。画像が出ないものもあります。')}
+  ${st('日付の下の小さな画像','日付の下に出る画像は、アーティストやフェスの公式サイトが公開している画像を、そのまま表示しています。ロゴのことも、写真のこともあります。画像が出ないものもあります。画像をおすと、公式サイトが新しい画面で開きます。')}
   ${st('日程未定のフェス','来年の開催がまだ発表されていないフェスは「日程未定」で出ます。発表されると、自動で日にちが入ります。')}
   <h3 class="bb warnh">IMPORTANT</h3>
   <div class="hl warnb"><b>記録は、このスマホの中だけに入っています</b><span>推しの一覧・申込状況・MY LIST・MY CAL・名前の直しは、いま使っている<b>スマホ（ブラウザ）の中</b>に保存されます。そのため、次のときは<b>見えなくなります</b>。<br>・スマホを買いかえたとき<br>・パソコンや、べつのスマホで開いたとき<br>・ホーム画面のアプリと Safari を べつべつに使ったとき<br>・ブラウザの「サイトデータ消去」をしたとき<br>そんなときのために、下の「引き継ぎコード」を使ってください。</span></div>
@@ -576,7 +578,7 @@ function salesHtml(o){
 }
 function card(e,i){
   const k=KIND[e.kind]||e.kind||'';
-  return `<article class="ev" style="animation-delay:${Math.min(i,10)*25}ms">${dateBlock(e.date,'',((festFor(e)||{}).image)||artImg(e.artist),e.kind==='フェス'?e.title:dn(e.artist))}
+  return `<article class="ev" style="animation-delay:${Math.min(i,10)*25}ms">${(()=>{const F=festFor(e);return dateBlock(e.date,'',(F&&F.image)||artImg(e.artist),e.kind==='フェス'?e.title:dn(e.artist),F?F.official_url:artSite(e.artist))})()}
   <div><div class="tags">${k?`<span>${esc(k)}</span>`:''}<span class="who" style="--h:${hue(e.artist)}"><i class="dot"></i>${esc(dn(e.artist))}</span>${soonBadge(e.date)}${e.confidence==='low'?'<span class="pill warn">要確認</span>':''}</div>
   <div class="t">${esc(e.title)}</div>
   ${e.venue?`<div class="m">${esc(e.venue)}</div>`:''}
@@ -605,7 +607,7 @@ function fesCard(f,m,i,day){
   const u=safe(f.official_url),tk=safe(f.ticket_url);
   const luHtml=lu.length?`<details class="lu"><summary>出演者 ${lu.length}組${perDay?'':f.lineup_checked?`（${md(f.lineup_checked.slice(0,10))}時点）`:''}</summary><div>${lu.map(n=>mine.has(n)?`<b>${esc(dn(n))}</b>`:esc(n)).join('<i>/</i>')}${dayNote?`<br><span class="m">${dayNote}</span>`:''}</div></details>`
     :`<div class="m">${f.lineup_checked?`出演者は未発表です（${md(f.lineup_checked.slice(0,10))}確認。発表され次第、自動で追加します）`:'出演者は未取得です（順次、自動で集めています）'}</div>`;
-  return `<article class="ev" style="animation-delay:${Math.min(i,10)*25}ms">${multi&&day?dateBlock(day,'',f.image,f.name):dateBlock(f.start,f.end,f.image,f.name)}
+  return `<article class="ev" style="animation-delay:${Math.min(i,10)*25}ms">${multi&&day?dateBlock(day,'',f.image,f.name,f.official_url):dateBlock(f.start,f.end,f.image,f.name,f.official_url)}
   <div><div class="tags"><span>FES</span>${multi&&day?`<span class="pill">DAY ${days.indexOf(day)+1} / ${days.length}</span>`:''}${who.length?'<span class="pill solid">推しが出演</span>':''}${f.status==='lineup'?'<span class="pill dim">出演者発表済み</span>':''}${f.tba?'<span class="pill warn">日程未定</span>':''}${soonBadge(multi&&day?day:f.start)}</div>
   <div class="t">${esc(f.name)}${multi?`<span class="m">　${md(f.start)}〜${md(f.end)}</span>`:''}</div>
   <div class="m">${esc([f.pref,f.venue].filter(Boolean).join('　'))}</div>
