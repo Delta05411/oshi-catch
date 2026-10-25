@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T07:40:00+09:00",
+ "updated": "2026-10-26T07:30:00+09:00",
  "artists": [
   "04 Limited Sazabys",
   "ELLEGARDEN",
@@ -32,7 +32,8 @@
   "ブランデー戦記",
   "muque",
   "久石譲",
-  "福山雅治"
+  "福山雅治",
+  "竹内まりや"
  ],
  "events": [
   {
@@ -9249,6 +9250,9 @@
   },
   "福山雅治": {
    "eplus": "https://eplus.jp/sf/word/0000000782"
+  },
+  "竹内まりや": {
+   "official": "https://www.sonymusic.co.jp/artist/takeuchimariya/"
   }
  },
  "aliases": {
@@ -9385,6 +9389,12 @@
   ],
   "muque": [
    "ムク"
+  ],
+  "竹内まりや": [
+   "MARIA TAKEUCHI",
+   "Mariya Takeuchi",
+   "たけうちまりや",
+   "マリヤタケウチ"
   ]
  },
  "rejected": [
@@ -9560,6 +9570,10 @@
    "state": "ok",
    "checked": "2026-10-26T07:40:00+09:00",
    "news_checked": "2026-10-26T07:40:00+09:00"
+  },
+  "竹内まりや": {
+   "state": "no_events",
+   "checked": "2026-10-26T07:30:00+09:00"
   }
  }
 }
