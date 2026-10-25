@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T20:45:00+09:00",
+ "updated": "2026-10-26T07:40:00+09:00",
  "artists": [
   "04 Limited Sazabys",
   "ELLEGARDEN",
@@ -30,7 +30,9 @@
   "斎藤宏介",
   "BUMP OF CHICKEN",
   "ブランデー戦記",
-  "muque"
+  "muque",
+  "久石譲",
+  "福山雅治"
  ],
  "events": [
   {
@@ -88,18 +90,6 @@
    "confidence": "high"
   },
   {
-   "artist": "ELLEGARDEN",
-   "date": "2026-10-27",
-   "title": "Bad For Education Tour II (2026)",
-   "kind": "ワンマン",
-   "venue": "Zepp Osaka Bayside（大阪）",
-   "sale_info": "10/27・28の2日間",
-   "ticket_name": "e+",
-   "ticket_url": "https://eplus.jp/sf/word/0000002116",
-   "source_url": "https://realsound.jp/2026/08/post-2487674.html",
-   "confidence": "high"
-  },
-  {
    "artist": "ヤバイTシャツ屋さん",
    "date": "2026-10-27",
    "title": "\"Magical Tank-top Parade\" ONE-MAN TOUR 2026",
@@ -121,17 +111,6 @@
    "ticket_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
    "sale_info": "10/27・28の2日間。チケットは完売",
    "source_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
-   "confidence": "high"
-  },
-  {
-   "artist": "ELLEGARDEN",
-   "date": "2026-10-28",
-   "title": "Bad For Education Tour II (2026)",
-   "kind": "ワンマン",
-   "venue": "Zepp Osaka Bayside（大阪）",
-   "ticket_name": "e+",
-   "ticket_url": "https://eplus.jp/sf/word/0000002116",
-   "source_url": "https://realsound.jp/2026/08/post-2487674.html",
    "confidence": "high"
   },
   {
@@ -571,6 +550,18 @@
    "sale_info": "先着一般発売"
   },
   {
+   "artist": "久石譲",
+   "date": "2026-11-03",
+   "title": "JOE HISAISHI presents MUSIC FUTURE 第7回 Young Composer's Competition",
+   "kind": "イベント",
+   "venue": "東京オペラシティ リサイタルホール（東京）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/4591750001-P0030001P021001?P1=0175",
+   "sale_info": "開演19:00",
+   "source_url": "https://eplus.jp/hisaishi/",
+   "confidence": "low"
+  },
+  {
    "artist": "04 Limited Sazabys",
    "date": "2026-11-04",
    "title": "ONE MAN TOUR 2026",
@@ -654,6 +645,18 @@
    "source_url": "https://realsound.jp/2026/05/post-2389827.html",
    "confidence": "high",
    "sale_info": "6,050円（税込）＋ドリンク代。開場18:00／開演19:00"
+  },
+  {
+   "artist": "久石譲",
+   "date": "2026-11-04",
+   "title": "久石譲プレゼンツ ミュージック・フューチャー Vol.13",
+   "kind": "その他",
+   "venue": "東京オペラシティ コンサートホール（東京）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/1270050001-P0030026P021001?P1=0175",
+   "sale_info": "開演19:00",
+   "source_url": "https://eplus.jp/hisaishi/",
+   "confidence": "high"
   },
   {
    "artist": "04 Limited Sazabys",
@@ -883,6 +886,28 @@
    "confidence": "high"
   },
   {
+   "artist": "斎藤宏介",
+   "date": "2026-11-07",
+   "title": "flumpool（ゲスト出演）",
+   "kind": "対バン",
+   "venue": "LINE CUBE SHIBUYA（東京）",
+   "with": "flumpool / 家入レオ / 川崎鷹也",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/0257350001-P0030332P021002?P1=0175",
+   "sale_info": "開場17:00／開演18:00。予定枚数終了",
+   "sales": [
+    {
+     "label": "先着一般発売",
+     "start": "2026-08-01",
+     "end": "2026-11-03",
+     "url": "https://eplus.jp/sf/detail/0257350001-P0030332P021002?P1=0175",
+     "note": "予定枚数終了"
+    }
+   ],
+   "source_url": "https://eplus.jp/sf/detail/0257350001-P0030332P021002?P1=0175",
+   "confidence": "high"
+  },
+  {
    "artist": "10-FEET",
    "date": "2026-11-08",
    "title": "氣志團万博2026 〜房総爆音リゾート〜",
@@ -972,8 +997,8 @@
    "venue": "宜野湾港マリーナ・トロピカルビーチ（沖縄）",
    "ticket_name": "イープラス",
    "ticket_url": "https://eplus.jp/sf/word/0000002764",
-   "source_url": "https://eplus.jp/sf/word/0000002764",
-   "confidence": "low"
+   "source_url": "https://www800.asia/2026/artist/",
+   "confidence": "high"
   },
   {
    "artist": "ORAL CIGARETTES",
@@ -1334,8 +1359,8 @@
      "note": "10:00〜 前日18:00まで"
     }
    ],
-   "source_url": "https://eplus.jp/sf/detail/0557640001-P0030138P021001?P1=0175",
-   "confidence": "low"
+   "source_url": "https://land-f.jp/shows/11858/",
+   "confidence": "high"
   },
   {
    "artist": "Wienners",
@@ -2464,18 +2489,6 @@
    "confidence": "high"
   },
   {
-   "artist": "SiM",
-   "title": "BLAZE UP NAGASAKI 2026",
-   "kind": "フェス",
-   "venue": "出島メッセ長崎（長崎）",
-   "ticket_name": "イープラス",
-   "ticket_url": "https://eplus.jp/sf/detail/2549320001-P0030008P021002",
-   "sale_info": "開場9:00/開演11:00（SiMのe+ページで先着販売あり。出演の公式発表は未確認）",
-   "source_url": "https://eplus.jp/sf/word/0000038382",
-   "confidence": "low",
-   "date": "2026-12-06"
-  },
-  {
    "artist": "マキシマム ザ ホルモン",
    "date": "2026-12-07",
    "title": "対バンツアー「ザ・ホルモネア」",
@@ -2682,6 +2695,17 @@
    ]
   },
   {
+   "artist": "SiM",
+   "date": "2026-12-11",
+   "title": "WiLDCARD VOL.4",
+   "kind": "対バン",
+   "venue": "Spotify O-EAST（東京）",
+   "with": "dustbox ほか",
+   "sale_info": "前売3,999円",
+   "source_url": "https://sxixm.com/live_information/detail/701",
+   "confidence": "high"
+  },
+  {
    "artist": "9mm Parabellum Bullet",
    "date": "2026-12-12",
    "title": "THE BAWDIES THE MELTING POT SESSIONS",
@@ -2735,6 +2759,18 @@
    "ticket_url": "https://kue.rotten-g.com/26/",
    "sale_info": "先行は8/2締切（終了）",
    "source_url": "https://yabaitshirtsyasan.com/live/287965/",
+   "confidence": "high"
+  },
+  {
+   "artist": "HEY-SMITH",
+   "date": "2026-12-12",
+   "title": "響都超特急2026 ～KYOTO ULTRA EXPRESS～（12/12 金閣）",
+   "kind": "フェス",
+   "venue": "京都パルスプラザ（京都）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/2288480002",
+   "sale_info": "開場10:00／開演11:00。e+の先行は10/18まで終了",
+   "source_url": "https://eplus.jp/sf/detail/2288480002",
    "confidence": "high"
   },
   {
@@ -2801,6 +2837,18 @@
    "kind": "フェス",
    "venue": "京都パルスプラザ（京都）",
    "source_url": "https://coldrain.jp/blogs/live",
+   "confidence": "high"
+  },
+  {
+   "artist": "マキシマム ザ ホルモン",
+   "date": "2026-12-13",
+   "title": "響都超特急2026 ～KYOTO ULTRA EXPRESS～（12/13 金閣）",
+   "kind": "フェス",
+   "venue": "京都パルスプラザ（京都）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/2288480002",
+   "sale_info": "開場10:00／開演11:00。e+の先行は10/18まで終了",
+   "source_url": "https://eplus.jp/sf/detail/2288480002",
    "confidence": "high"
   },
   {
@@ -3033,6 +3081,24 @@
    "confidence": "high"
   },
   {
+   "artist": "Fear, and Loathing in Las Vegas",
+   "date": "2026-12-19",
+   "title": "MERRY ROCK PARADE 2026（12/19）",
+   "kind": "フェス",
+   "venue": "ポートメッセなごや（愛知）",
+   "sale_info": "開場9:00／開演11:00（12/19・20の2日開催。出演日は12/19）",
+   "sales": [
+    {
+     "label": "オフィシャル最速先行",
+     "start": "2026-10-16",
+     "end": "2026-10-25",
+     "note": "受付終了"
+    }
+   ],
+   "source_url": "https://lasvegas-jp.com/topics/9283",
+   "confidence": "high"
+  },
+  {
    "artist": "04 Limited Sazabys",
    "date": "2026-12-20",
    "title": "MERRY ROCK PARADE 2026",
@@ -3114,6 +3180,28 @@
    "confidence": "high"
   },
   {
+   "artist": "SiM",
+   "date": "2026-12-22",
+   "title": "マキシマム ザ ホルモン×SiM ～ゆく太、くる太～",
+   "kind": "対バン",
+   "venue": "Zepp Haneda（東京）",
+   "with": "マキシマム ザ ホルモン",
+   "sale_info": "時間・料金・発売日は後日発表",
+   "source_url": "https://sxixm.com/live_information/detail/697",
+   "confidence": "high"
+  },
+  {
+   "artist": "マキシマム ザ ホルモン",
+   "date": "2026-12-22",
+   "title": "マキシマム ザ ホルモン×SiM ～ゆく太、くる太～",
+   "kind": "対バン",
+   "venue": "Zepp Haneda（東京）",
+   "with": "SiM",
+   "sale_info": "時間・料金・発売日は後日発表",
+   "source_url": "https://sxixm.com/live_information/detail/697",
+   "confidence": "high"
+  },
+  {
    "artist": "ハルカミライ",
    "date": "2026-12-23",
    "title": "ヨーロー劇場2026 - 氣氣 - 秩父ladderladder 17th anniversary",
@@ -3189,6 +3277,18 @@
      "note": "14:00開始・今日締切"
     }
    ]
+  },
+  {
+   "artist": "久石譲",
+   "date": "2026-12-25",
+   "title": "久石譲×日本センチュリー交響楽団 特別演奏会",
+   "kind": "その他",
+   "venue": "フェスティバルホール（大阪）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/4391890001-P0030003P021002?P1=0175",
+   "sale_info": "開演19:00",
+   "source_url": "https://eplus.jp/hisaishi/",
+   "confidence": "high"
   },
   {
    "kind": "フェス",
@@ -3316,6 +3416,28 @@
    "confidence": "low"
   },
   {
+   "artist": "久石譲",
+   "date": "2026-12-26",
+   "title": "久石譲×日本センチュリー交響楽団 特別演奏会",
+   "kind": "その他",
+   "venue": "フェスティバルホール（大阪）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/4391890001-P0030003P021001?P1=0175",
+   "sale_info": "開演14:00",
+   "source_url": "https://eplus.jp/hisaishi/",
+   "confidence": "high"
+  },
+  {
+   "artist": "福山雅治",
+   "date": "2026-12-26",
+   "title": "福山☆冬の大感謝祭 其の二十四（12/26）",
+   "kind": "ワンマン",
+   "venue": "Kアリーナ横浜（神奈川）",
+   "sale_info": "開演16:00。アリーナ15,500円／スタンド12,500円。FC最速先行は9/16終了。一般発売日は未確認",
+   "source_url": "https://natalie.mu/music/news/687225",
+   "confidence": "low"
+  },
+  {
    "artist": "Mrs. GREEN APPLE",
    "date": "2026-12-27",
    "title": "Mrs. GREEN APPLE Ringo Jam Tour “SHADOWS”",
@@ -3378,6 +3500,16 @@
      "note": "12:15開始〜16:00締切 / 公式アプリ「Jフェス」のみ"
     }
    ]
+  },
+  {
+   "artist": "福山雅治",
+   "date": "2026-12-27",
+   "title": "福山☆冬の大感謝祭 其の二十四（12/27）",
+   "kind": "ワンマン",
+   "venue": "Kアリーナ横浜（神奈川）",
+   "sale_info": "開演16:00。アリーナ15,500円／スタンド12,500円。FC最速先行は9/16終了。一般発売日は未確認",
+   "source_url": "https://natalie.mu/music/news/687225",
+   "confidence": "low"
   },
   {
    "artist": "10-FEET",
@@ -3582,6 +3714,16 @@
    "confidence": "high"
   },
   {
+   "artist": "福山雅治",
+   "date": "2026-12-29",
+   "title": "福山☆冬の大感謝祭 其の二十四（12/29）",
+   "kind": "ワンマン",
+   "venue": "Kアリーナ横浜（神奈川）",
+   "sale_info": "開演16:00。アリーナ15,500円／スタンド12,500円。FC最速先行は9/16終了。一般発売日は未確認",
+   "source_url": "https://natalie.mu/music/news/687225",
+   "confidence": "low"
+  },
+  {
    "artist": "04 Limited Sazabys",
    "date": "2026-12-31",
    "title": "COUNTDOWN JAPAN 26/27（12/31）",
@@ -3646,6 +3788,27 @@
      "note": "12:15開始〜16:00締切 / 公式アプリ「Jフェス」のみ"
     }
    ]
+  },
+  {
+   "artist": "福山雅治",
+   "date": "2026-12-31",
+   "title": "福山☆冬の大感謝祭 其の二十四（12/31）",
+   "kind": "ワンマン",
+   "venue": "Kアリーナ横浜（神奈川）",
+   "sale_info": "開演16:00。アリーナ15,500円／スタンド12,500円。FC最速先行は9/16終了。一般発売日は未確認",
+   "source_url": "https://natalie.mu/music/news/687225",
+   "confidence": "low"
+  },
+  {
+   "artist": "SiM",
+   "date": "2027-01-07",
+   "title": "Sable Hills \"Homura Japan Tour 2027\"",
+   "kind": "対バン",
+   "venue": "Electric Lady Land（愛知）",
+   "with": "Sable Hills",
+   "sale_info": "5,300円（ドリンク別）。18:15/19:00",
+   "source_url": "https://sxixm.com/live_information/detail/700",
+   "confidence": "high"
   },
   {
    "artist": "04 Limited Sazabys",
@@ -3872,6 +4035,18 @@
    "confidence": "high"
   },
   {
+   "artist": "久石譲",
+   "date": "2027-01-16",
+   "title": "日本センチュリー交響楽団 第303回定期演奏会（久石譲関連）",
+   "kind": "その他",
+   "venue": "ザ・シンフォニーホール（大阪）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/4535240001-P0030001P021001?P1=0175",
+   "sale_info": "開演14:00",
+   "source_url": "https://eplus.jp/hisaishi/",
+   "confidence": "low"
+  },
+  {
    "artist": "HEY-SMITH",
    "date": "2027-01-17",
    "title": "HEY-SMITH 20th ANNIVERSARY『ALL OVER JAPAN TOUR』",
@@ -3892,6 +4067,18 @@
    "venue": "名古屋THE BOTTOM LINE（愛知県）",
    "source_url": "https://realsound.jp/2026/05/post-2386759.html",
    "confidence": "high"
+  },
+  {
+   "artist": "久石譲",
+   "date": "2027-01-17",
+   "title": "日本センチュリー交響楽団 京都公演（久石譲関連）",
+   "kind": "その他",
+   "venue": "京都コンサートホール 大ホール（京都）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/4535260001-P0030001P021001?P1=0175",
+   "sale_info": "開演14:00",
+   "source_url": "https://eplus.jp/hisaishi/",
+   "confidence": "low"
   },
   {
    "artist": "HEY-SMITH",
@@ -4470,7 +4657,7 @@
    "venue": "F.A.D YOKOHAMA（神奈川）",
    "ticket_name": "イープラス",
    "ticket_url": "https://eplus.jp/sf/detail/0178780001",
-   "sale_info": "",
+   "sale_info": "売切（公式）",
    "sales": [],
    "source_url": "https://eplus.jp/sf/word/0000009226",
    "confidence": "low"
@@ -5133,6 +5320,16 @@
    "sale_info": "アリーナ立見8,500円／スタンドA7,500円／スタンドB7,000円",
    "source_url": "https://spice.eplus.jp/articles/344241",
    "confidence": "high"
+  },
+  {
+   "artist": "SiM",
+   "date": "2027-04-10",
+   "title": "SiM presents DEAD POP FESTiVAL 2027（4/10・11のどちらか）",
+   "kind": "フェス",
+   "venue": "東扇島東公園 特設会場（神奈川）",
+   "sale_info": "日程は公式内で食い違いあり（要確認）",
+   "source_url": "https://sxixm.com/live_information/detail/691",
+   "confidence": "low"
   },
   {
    "artist": "10-FEET",
@@ -5838,6 +6035,27 @@
    "sale_info": "FC（one room gold key）会員限定・抽選。チケット詳細は2026年11月中旬発表予定",
    "ticket_name": "one room gold key 抽選",
    "ticket_url": "https://backnumber.info/news/detail/400314"
+  },
+  {
+   "artist": "HEY-SMITH",
+   "date": "2027-10-23",
+   "title": "OSAKA HAZIKETEMAZARE FESTIVAL 2027（10/23・24のどちらか）",
+   "kind": "フェス",
+   "venue": "泉大津フェニックス（大阪）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/ohmf2027/",
+   "sale_info": "1日券11,000円／2日券21,000円。OPEN 9:00 START 10:30。出演日は未確認",
+   "sales": [
+    {
+     "label": "超最速先着先行",
+     "start": "2026-10-25",
+     "end": "2026-11-08",
+     "url": "https://eplus.jp/ohmf2027/",
+     "note": "21:00開始〜23:59締切"
+    }
+   ],
+   "source_url": "https://eplus.jp/ohmf2027/",
+   "confidence": "low"
   },
   {
    "artist": "back number",
@@ -7967,7 +8185,8 @@
    },
    "venue": "京都パルスプラザ",
    "official_url": "https://kue.rotten-g.com/26/artist/",
-   "note": "BRAHMANは出演キャンセルと公式表記"
+   "note": "BRAHMANは出演キャンセルと公式表記",
+   "image": "https://kue.rotten-g.com/26/assets/images/ogp.jpg"
   },
   {
    "name": "長田大行進曲",
@@ -8020,7 +8239,8 @@
    "venue": "ポートメッセなごや",
    "official_url": "https://www.merryrockparade.jp/artist.html",
    "note": "日別割り当ては未確認。MIRAGE STAGEは後日発表",
-   "source_url": "https://www.merryrockparade.jp/artist.html"
+   "source_url": "https://www.merryrockparade.jp/artist.html",
+   "image": "https://www.merryrockparade.jp/thumbnail/2026.jpg"
   },
   {
    "name": "若者たちの音楽祭（愛川町軽音フェス）",
@@ -8915,7 +9135,8 @@
    "image": "https://coldrain.jp/cdn/shop/files/CR_logo.jpg?v=1719561350"
   },
   "TenTwenty": {
-   "official": "https://tentwenty-web.com/"
+   "official": "https://tentwenty-web.com/",
+   "eplus": "https://eplus.jp/sf/word/0000139406"
   },
   "Wienners": {
    "official": "https://wienners.net/",
@@ -8937,10 +9158,13 @@
   },
   "9mm Parabellum Bullet": {
    "eplus": "https://eplus.jp/sf/word/0000009226",
-   "official": "https://9mm.jp/"
+   "official": "https://9mm.jp/",
+   "schedule": "https://9mm.jp/live.php"
   },
   "BUMP OF CHICKEN": {
-   "eplus": "https://eplus.jp/sf/web/live/irg/boc2026/ep"
+   "eplus": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
+   "official": "https://www.bumpofchicken.com/",
+   "image": "https://www.bumpofchicken.com/images/common/default/common_default_og_image.png"
   },
   "back number": {
    "official": "https://backnumber.info/",
@@ -9008,13 +9232,23 @@
    "eplus": "https://eplus.jp/sf/word/0000062761"
   },
   "SiM": {
-   "eplus": "https://eplus.jp/sf/word/0000038382"
+   "eplus": "https://eplus.jp/sf/word/0000038382",
+   "official": "https://sxixm.com/",
+   "schedule": "https://sxixm.com/live_information/list/?range=future&sort=asc",
+   "image": "https://sxixm.com/static/original/official/image/ogp_img.png"
   },
   "ブランデー戦記": {
    "eplus": "https://eplus.jp/sf/word/0000156908"
   },
   "muque": {
    "eplus": "https://eplus.jp/sf/detail/3987700001"
+  },
+  "久石譲": {
+   "eplus": "https://eplus.jp/hisaishi/",
+   "official": "https://www.joehisaishi.com/"
+  },
+  "福山雅治": {
+   "eplus": "https://eplus.jp/sf/word/0000000782"
   }
  },
  "aliases": {
@@ -9167,8 +9401,8 @@
  "artist_status": {
   "Hi-STANDARD": {
    "state": "ok",
-   "checked": "2026-10-24T09:20:00+09:00",
-   "news_checked": "2026-10-25T07:30:00+09:00"
+   "checked": "2026-10-26T07:40:00+09:00",
+   "news_checked": "2026-10-26T07:40:00+09:00"
   },
   "Mrs. GREEN APPLE": {
    "state": "ok",
@@ -9177,8 +9411,8 @@
   },
   "back number": {
    "state": "ok",
-   "checked": "2026-10-25T20:30:00+09:00",
-   "news_checked": "2026-10-24T09:20:00+09:00"
+   "checked": "2026-10-26T07:40:00+09:00",
+   "news_checked": "2026-10-26T07:40:00+09:00"
   },
   "04 Limited Sazabys": {
    "state": "ok",
@@ -9187,7 +9421,7 @@
   },
   "ELLEGARDEN": {
    "state": "ok",
-   "checked": "2026-10-24T21:00:00+09:00",
+   "checked": "2026-10-26T07:40:00+09:00",
    "note": "10/23名古屋は延期（振替日程は調整中・未発表）",
    "news_checked": "2026-10-25T07:30:00+09:00"
   },
@@ -9203,18 +9437,18 @@
   },
   "HEY-SMITH": {
    "state": "ok",
-   "checked": "2026-10-24T21:00:00+09:00",
+   "checked": "2026-10-26T07:40:00+09:00",
    "news_checked": "2026-10-25T07:30:00+09:00"
   },
   "マキシマム ザ ホルモン": {
    "state": "ok",
-   "checked": "2026-10-24T21:00:00+09:00",
+   "checked": "2026-10-26T07:40:00+09:00",
    "news_checked": "2026-10-25T07:30:00+09:00"
   },
   "サンボマスター": {
    "state": "ok",
-   "checked": "2026-10-24T09:20:00+09:00",
-   "news_checked": "2026-10-25T07:30:00+09:00"
+   "checked": "2026-10-26T07:40:00+09:00",
+   "news_checked": "2026-10-26T07:40:00+09:00"
   },
   "あいみょん": {
    "state": "ok",
@@ -9238,7 +9472,7 @@
   },
   "SiM": {
    "state": "ok",
-   "checked": "2026-10-24T21:00:00+09:00",
+   "checked": "2026-10-26T07:40:00+09:00",
    "news_checked": "2026-10-25T07:30:00+09:00"
   },
   "[Alexandros]": {
@@ -9258,8 +9492,8 @@
   },
   "THE KEBABS": {
    "state": "ok",
-   "checked": "2026-10-24T21:00:00+09:00",
-   "news_checked": "2026-10-25T07:30:00+09:00"
+   "checked": "2026-10-26T07:40:00+09:00",
+   "news_checked": "2026-10-26T07:40:00+09:00"
   },
   "coldrain": {
    "state": "ok",
@@ -9268,8 +9502,8 @@
   },
   "TenTwenty": {
    "state": "ok",
-   "checked": "2026-10-24T21:00:00+09:00",
-   "news_checked": "2026-10-25T07:30:00+09:00"
+   "checked": "2026-10-26T07:40:00+09:00",
+   "news_checked": "2026-10-26T07:40:00+09:00"
   },
   "Wienners": {
    "state": "ok",
@@ -9283,28 +9517,29 @@
   },
   "UNISON SQUARE GARDEN": {
    "state": "no_events",
-   "checked": "2026-10-25T07:30:00+09:00",
-   "note": "2026-04-27に活動休止を発表。最終公演は2026-07-15。再開の発表なし"
+   "checked": "2026-10-26T07:40:00+09:00",
+   "note": "2026-04-27に活動休止を発表。最終公演は2026-07-15。再開の発表なし",
+   "news_checked": "2026-10-26T07:40:00+09:00"
   },
   "Fear, and Loathing in Las Vegas": {
    "state": "ok",
-   "checked": "2026-10-24T21:20:00+09:00",
-   "news_checked": "2026-10-25T07:30:00+09:00"
+   "checked": "2026-10-26T07:40:00+09:00",
+   "news_checked": "2026-10-26T07:40:00+09:00"
   },
   "9mm Parabellum Bullet": {
    "state": "ok",
-   "checked": "2026-10-23T23:51:30+09:00",
-   "news_checked": "2026-10-25T07:30:00+09:00"
+   "checked": "2026-10-26T07:40:00+09:00",
+   "news_checked": "2026-10-26T07:40:00+09:00"
   },
   "斎藤宏介": {
-   "state": "no_events",
-   "checked": "2026-10-25T07:30:00+09:00",
-   "news_checked": "2026-10-25T07:30:00+09:00"
+   "state": "ok",
+   "checked": "2026-10-26T07:40:00+09:00",
+   "news_checked": "2026-10-26T07:40:00+09:00"
   },
   "BUMP OF CHICKEN": {
    "state": "ok",
-   "checked": "2026-10-24T00:20:00+09:00",
-   "news_checked": "2026-10-25T07:30:00+09:00"
+   "checked": "2026-10-26T07:40:00+09:00",
+   "news_checked": "2026-10-26T07:40:00+09:00"
   },
   "ブランデー戦記": {
    "state": "ok",
@@ -9315,6 +9550,16 @@
    "state": "ok",
    "checked": "2026-10-25T20:45:00+09:00",
    "news_checked": "2026-10-25T20:45:00+09:00"
+  },
+  "久石譲": {
+   "state": "ok",
+   "checked": "2026-10-26T07:40:00+09:00",
+   "news_checked": "2026-10-26T07:40:00+09:00"
+  },
+  "福山雅治": {
+   "state": "ok",
+   "checked": "2026-10-26T07:40:00+09:00",
+   "news_checked": "2026-10-26T07:40:00+09:00"
   }
  }
 }
