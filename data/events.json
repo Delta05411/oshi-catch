@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T07:30:00+09:00",
+ "updated": "2026-10-26T14:14:16+09:00",
  "artists": [
   "04 Limited Sazabys",
   "ELLEGARDEN",
@@ -33,7 +33,9 @@
   "muque",
   "久石譲",
   "福山雅治",
-  "竹内まりや"
+  "竹内まりや",
+  "Novelbright",
+  "THE ALFEE"
  ],
  "events": [
   {
@@ -563,6 +565,16 @@
    "confidence": "low"
   },
   {
+   "artist": "THE ALFEE",
+   "date": "2026-11-03",
+   "title": "THE ALFEE Autumn Celebration 2026 Moonlight Rhapsody II",
+   "kind": "ワンマン",
+   "venue": "宇都宮市文化会館（栃木県）",
+   "sale_info": "9,900円(税込)・開場16:30／開演17:30・未就学児入場不可",
+   "source_url": "https://s.alfee.com/news/live/2026a/",
+   "confidence": "high"
+  },
+  {
    "artist": "04 Limited Sazabys",
    "date": "2026-11-04",
    "title": "ONE MAN TOUR 2026",
@@ -909,6 +921,16 @@
    "confidence": "high"
   },
   {
+   "artist": "THE ALFEE",
+   "date": "2026-11-07",
+   "title": "THE ALFEE Autumn Celebration 2026 Moonlight Rhapsody II",
+   "kind": "ワンマン",
+   "venue": "広島文化学園HBGホール（広島県）",
+   "sale_info": "9,900円(税込)・開場17:00／開演18:00・未就学児入場不可",
+   "source_url": "https://s.alfee.com/news/live/2026a/",
+   "confidence": "high"
+  },
+  {
    "artist": "10-FEET",
    "date": "2026-11-08",
    "title": "氣志團万博2026 〜房総爆音リゾート〜",
@@ -999,6 +1021,16 @@
    "ticket_name": "イープラス",
    "ticket_url": "https://eplus.jp/sf/word/0000002764",
    "source_url": "https://www800.asia/2026/artist/",
+   "confidence": "high"
+  },
+  {
+   "artist": "THE ALFEE",
+   "date": "2026-11-08",
+   "title": "THE ALFEE Autumn Celebration 2026 Moonlight Rhapsody II",
+   "kind": "ワンマン",
+   "venue": "広島文化学園HBGホール（広島県）",
+   "sale_info": "9,900円(税込)・開場16:00／開演17:00・未就学児入場不可",
+   "source_url": "https://s.alfee.com/news/live/2026a/",
    "confidence": "high"
   },
   {
@@ -1268,6 +1300,16 @@
    "with": "POYACORO"
   },
   {
+   "artist": "THE ALFEE",
+   "date": "2026-11-14",
+   "title": "THE ALFEE Autumn Celebration 2026 Moonlight Rhapsody II",
+   "kind": "ワンマン",
+   "venue": "福岡サンパレスホテル＆ホール（福岡県）",
+   "sale_info": "9,900円(税込)・開場17:00／開演18:00・未就学児入場不可",
+   "source_url": "https://s.alfee.com/news/live/2026a/",
+   "confidence": "high"
+  },
+  {
    "artist": "9mm Parabellum Bullet",
    "date": "2026-11-15",
    "title": "9mm Parabellum Bullet Tour 2026-27「Raison d’être」",
@@ -1390,6 +1432,16 @@
     }
    ],
    "source_url": "https://yabaitshirtsyasan.com/live/294097/",
+   "confidence": "high"
+  },
+  {
+   "artist": "THE ALFEE",
+   "date": "2026-11-15",
+   "title": "THE ALFEE Autumn Celebration 2026 Moonlight Rhapsody II",
+   "kind": "ワンマン",
+   "venue": "福岡サンパレスホテル＆ホール（福岡県）",
+   "sale_info": "9,900円(税込)・開場16:00／開演17:00・未就学児入場不可",
+   "source_url": "https://s.alfee.com/news/live/2026a/",
    "confidence": "high"
   },
   {
@@ -1769,6 +1821,16 @@
    "confidence": "low"
   },
   {
+   "artist": "THE ALFEE",
+   "date": "2026-11-23",
+   "title": "THE ALFEE Autumn Celebration 2026 Moonlight Rhapsody II",
+   "kind": "ワンマン",
+   "venue": "大宮ソニックシティ（埼玉県）",
+   "sale_info": "9,900円(税込)・開場16:30／開演17:30・未就学児入場不可",
+   "source_url": "https://s.alfee.com/news/live/2026a/",
+   "confidence": "high"
+  },
+  {
    "artist": "04 Limited Sazabys",
    "date": "2026-11-24",
    "title": "Wienners OVER THE TOP TOUR 2026 ファイナル",
@@ -1925,6 +1987,16 @@
    ]
   },
   {
+   "artist": "THE ALFEE",
+   "date": "2026-11-27",
+   "title": "THE ALFEE Autumn Celebration 2026 Moonlight Rhapsody II",
+   "kind": "ワンマン",
+   "venue": "パシフィコ横浜 国立大ホール（神奈川県）",
+   "sale_info": "9,900円(税込)・開場17:30／開演18:30・未就学児入場不可",
+   "source_url": "https://s.alfee.com/news/live/2026a/",
+   "confidence": "high"
+  },
+  {
    "artist": "9mm Parabellum Bullet",
    "date": "2026-11-28",
    "title": "9mm Parabellum Bullet Tour 2026-27「Raison d’être」",
@@ -2008,6 +2080,16 @@
    "ticket_url": "https://w.pia.jp/t/masterpiece-26/",
    "sale_info": "3次先行は8/5締切（終了）",
    "source_url": "https://yabaitshirtsyasan.com/live/292928/",
+   "confidence": "high"
+  },
+  {
+   "artist": "THE ALFEE",
+   "date": "2026-11-28",
+   "title": "THE ALFEE Autumn Celebration 2026 Moonlight Rhapsody II",
+   "kind": "ワンマン",
+   "venue": "パシフィコ横浜 国立大ホール（神奈川県）",
+   "sale_info": "9,900円(税込)・開場17:00／開演18:00・未就学児入場不可",
+   "source_url": "https://s.alfee.com/news/live/2026a/",
    "confidence": "high"
   },
   {
@@ -2327,6 +2409,16 @@
    "confidence": "high"
   },
   {
+   "artist": "THE ALFEE",
+   "date": "2026-12-04",
+   "title": "THE ALFEE Autumn Celebration 2026 Moonlight Rhapsody II",
+   "kind": "ワンマン",
+   "venue": "福井フェニックス・プラザ エルピス大ホール（福井県）",
+   "sale_info": "9,900円(税込)・開場17:30／開演18:30・未就学児入場不可",
+   "source_url": "https://s.alfee.com/news/live/2026a/",
+   "confidence": "high"
+  },
+  {
    "artist": "9mm Parabellum Bullet",
    "date": "2026-12-05",
    "title": "9mm Parabellum Bullet Tour 2026-27「Raison d’être」",
@@ -2487,6 +2579,16 @@
    "ticket_url": "https://eplus.jp/blazeupnagasaki/",
    "sale_info": "SHANK出演 19:00〜19:45。1日10,800円/2日21,000円（中高生 1日3,000円/2日5,500円）",
    "source_url": "https://spice.eplus.jp/articles/342587",
+   "confidence": "high"
+  },
+  {
+   "artist": "THE ALFEE",
+   "date": "2026-12-06",
+   "title": "THE ALFEE Autumn Celebration 2026 Moonlight Rhapsody II",
+   "kind": "ワンマン",
+   "venue": "サントミューゼ（長野県）",
+   "sale_info": "9,900円(税込)・開場16:30／開演17:30・未就学児入場不可",
+   "source_url": "https://s.alfee.com/news/live/2026a/",
    "confidence": "high"
   },
   {
@@ -5365,12 +5467,32 @@
    "confidence": "high"
   },
   {
+   "artist": "Novelbright",
+   "date": "2027-04-17",
+   "title": "Novelbright ARENA TOUR 2027",
+   "kind": "ワンマン",
+   "venue": "K Arena Yokohama（神奈川県）",
+   "sale_info": "チケット情報は後日発表",
+   "source_url": "https://novelbright.jp/news/detail/2501",
+   "confidence": "high"
+  },
+  {
    "artist": "あいみょん",
    "date": "2027-04-18",
    "title": "AIMYON TOUR 2027",
    "kind": "ワンマン",
    "venue": "GLION ARENA KOBE（兵庫）",
    "source_url": "https://realsound.jp/2026/07/post-2462631.html",
+   "confidence": "high"
+  },
+  {
+   "artist": "Novelbright",
+   "date": "2027-04-18",
+   "title": "Novelbright ARENA TOUR 2027",
+   "kind": "ワンマン",
+   "venue": "K Arena Yokohama（神奈川県）",
+   "sale_info": "チケット情報は後日発表",
+   "source_url": "https://novelbright.jp/news/detail/2501",
    "confidence": "high"
   },
   {
@@ -5484,6 +5606,16 @@
    "confidence": "high"
   },
   {
+   "artist": "Novelbright",
+   "date": "2027-05-01",
+   "title": "Novelbright ARENA TOUR 2027",
+   "kind": "ワンマン",
+   "venue": "マリンメッセ福岡 B館（福岡県）",
+   "sale_info": "チケット情報は後日発表",
+   "source_url": "https://novelbright.jp/news/detail/2501",
+   "confidence": "high"
+  },
+  {
    "artist": "あいみょん",
    "date": "2027-05-02",
    "title": "AIMYON TOUR 2027",
@@ -5491,6 +5623,16 @@
    "venue": "K-Arena Yokohama（神奈川）",
    "sale_info": "5/2・3の2日間。全国14都市36公演。先行はベストアルバム封入カードのQRから",
    "source_url": "https://realsound.jp/2026/07/post-2462631.html",
+   "confidence": "high"
+  },
+  {
+   "artist": "Novelbright",
+   "date": "2027-05-02",
+   "title": "Novelbright ARENA TOUR 2027",
+   "kind": "ワンマン",
+   "venue": "マリンメッセ福岡 B館（福岡県）",
+   "sale_info": "チケット情報は後日発表",
+   "source_url": "https://novelbright.jp/news/detail/2501",
    "confidence": "high"
   },
   {
@@ -5663,12 +5805,32 @@
    "confidence": "high"
   },
   {
+   "artist": "Novelbright",
+   "date": "2027-05-29",
+   "title": "Novelbright ARENA TOUR 2027",
+   "kind": "ワンマン",
+   "venue": "真駒内セキスイハイムアイスアリーナ（北海道）",
+   "sale_info": "チケット情報は後日発表",
+   "source_url": "https://novelbright.jp/news/detail/2501",
+   "confidence": "high"
+  },
+  {
    "artist": "あいみょん",
    "date": "2027-05-30",
    "title": "AIMYON TOUR 2027",
    "kind": "ワンマン",
    "venue": "あなぶきアリーナ香川（香川）",
    "source_url": "https://realsound.jp/2026/07/post-2462631.html",
+   "confidence": "high"
+  },
+  {
+   "artist": "Novelbright",
+   "date": "2027-05-30",
+   "title": "Novelbright ARENA TOUR 2027",
+   "kind": "ワンマン",
+   "venue": "真駒内セキスイハイムアイスアリーナ（北海道）",
+   "sale_info": "チケット情報は後日発表",
+   "source_url": "https://novelbright.jp/news/detail/2501",
    "confidence": "high"
   },
   {
@@ -5702,12 +5864,32 @@
    "confidence": "high"
   },
   {
+   "artist": "Novelbright",
+   "date": "2027-06-05",
+   "title": "Novelbright ARENA TOUR 2027",
+   "kind": "ワンマン",
+   "venue": "アスティとくしま（徳島県）",
+   "sale_info": "チケット情報は後日発表",
+   "source_url": "https://novelbright.jp/news/detail/2501",
+   "confidence": "high"
+  },
+  {
    "artist": "あいみょん",
    "date": "2027-06-06",
    "title": "AIMYON TOUR 2027",
    "kind": "ワンマン",
    "venue": "クロコくんホール（愛知）",
    "source_url": "https://realsound.jp/2026/07/post-2462631.html",
+   "confidence": "high"
+  },
+  {
+   "artist": "Novelbright",
+   "date": "2027-06-06",
+   "title": "Novelbright ARENA TOUR 2027",
+   "kind": "ワンマン",
+   "venue": "アスティとくしま（徳島県）",
+   "sale_info": "チケット情報は後日発表",
+   "source_url": "https://novelbright.jp/news/detail/2501",
    "confidence": "high"
   },
   {
@@ -5779,12 +5961,32 @@
    "confidence": "high"
   },
   {
+   "artist": "Novelbright",
+   "date": "2027-06-26",
+   "title": "Novelbright ARENA TOUR 2027",
+   "kind": "ワンマン",
+   "venue": "ゼビオアリーナ仙台（宮城県）",
+   "sale_info": "チケット情報は後日発表",
+   "source_url": "https://novelbright.jp/news/detail/2501",
+   "confidence": "high"
+  },
+  {
    "artist": "あいみょん",
    "date": "2027-06-27",
    "title": "AIMYON TOUR 2027",
    "kind": "ワンマン",
    "venue": "広島グリーンアリーナ（広島）",
    "source_url": "https://realsound.jp/2026/07/post-2462631.html",
+   "confidence": "high"
+  },
+  {
+   "artist": "Novelbright",
+   "date": "2027-06-27",
+   "title": "Novelbright ARENA TOUR 2027",
+   "kind": "ワンマン",
+   "venue": "ゼビオアリーナ仙台（宮城県）",
+   "sale_info": "チケット情報は後日発表",
+   "source_url": "https://novelbright.jp/news/detail/2501",
    "confidence": "high"
   },
   {
@@ -5871,6 +6073,16 @@
    "confidence": "high"
   },
   {
+   "artist": "Novelbright",
+   "date": "2027-07-10",
+   "title": "Novelbright ARENA TOUR 2027",
+   "kind": "ワンマン",
+   "venue": "GLION ARENA KOBE（兵庫県）",
+   "sale_info": "チケット情報は後日発表",
+   "source_url": "https://novelbright.jp/news/detail/2501",
+   "confidence": "high"
+  },
+  {
    "artist": "10-FEET",
    "date": "2027-07-11",
    "title": "京都大作戦2027（10-FEET主催）",
@@ -5895,6 +6107,36 @@
    "kind": "ワンマン",
    "venue": "沖縄サントリーアリーナ（沖縄）",
    "source_url": "https://realsound.jp/2026/07/post-2462631.html",
+   "confidence": "high"
+  },
+  {
+   "artist": "Novelbright",
+   "date": "2027-07-11",
+   "title": "Novelbright ARENA TOUR 2027",
+   "kind": "ワンマン",
+   "venue": "GLION ARENA KOBE（兵庫県）",
+   "sale_info": "チケット情報は後日発表",
+   "source_url": "https://novelbright.jp/news/detail/2501",
+   "confidence": "high"
+  },
+  {
+   "artist": "Novelbright",
+   "date": "2027-07-24",
+   "title": "Novelbright ARENA TOUR 2027",
+   "kind": "ワンマン",
+   "venue": "愛知国際展示場 AICHI SKY EXPO ホールA（愛知県）",
+   "sale_info": "チケット情報は後日発表",
+   "source_url": "https://novelbright.jp/news/detail/2501",
+   "confidence": "high"
+  },
+  {
+   "artist": "Novelbright",
+   "date": "2027-07-25",
+   "title": "Novelbright ARENA TOUR 2027",
+   "kind": "ワンマン",
+   "venue": "愛知国際展示場 AICHI SKY EXPO ホールA（愛知県）",
+   "sale_info": "チケット情報は後日発表",
+   "source_url": "https://novelbright.jp/news/detail/2501",
    "confidence": "high"
   },
   {
@@ -5940,6 +6182,26 @@
    "sale_info": "FC（one room gold key）会員限定・抽選。チケット詳細は2026年11月中旬発表予定",
    "ticket_name": "one room gold key 抽選",
    "ticket_url": "https://backnumber.info/news/detail/400314"
+  },
+  {
+   "artist": "Novelbright",
+   "date": "2027-09-04",
+   "title": "Novelbright ARENA TOUR 2027",
+   "kind": "ワンマン",
+   "venue": "広島サンプラザホール（広島県）",
+   "sale_info": "チケット情報は後日発表",
+   "source_url": "https://novelbright.jp/news/detail/2501",
+   "confidence": "high"
+  },
+  {
+   "artist": "Novelbright",
+   "date": "2027-09-05",
+   "title": "Novelbright ARENA TOUR 2027",
+   "kind": "ワンマン",
+   "venue": "広島サンプラザホール（広島県）",
+   "sale_info": "チケット情報は後日発表",
+   "source_url": "https://novelbright.jp/news/detail/2501",
+   "confidence": "high"
   },
   {
    "artist": "back number",
@@ -6026,6 +6288,16 @@
    "ticket_url": "https://backnumber.info/news/detail/400314"
   },
   {
+   "artist": "Novelbright",
+   "date": "2027-10-16",
+   "title": "Novelbright ARENA TOUR 2027",
+   "kind": "ワンマン",
+   "venue": "大阪城ホール（大阪府）",
+   "sale_info": "チケット情報は後日発表",
+   "source_url": "https://novelbright.jp/news/detail/2501",
+   "confidence": "high"
+  },
+  {
    "artist": "back number",
    "date": "2027-10-17",
    "title": "FCツアー one room party vol.8",
@@ -6036,6 +6308,16 @@
    "sale_info": "FC（one room gold key）会員限定・抽選。チケット詳細は2026年11月中旬発表予定",
    "ticket_name": "one room gold key 抽選",
    "ticket_url": "https://backnumber.info/news/detail/400314"
+  },
+  {
+   "artist": "Novelbright",
+   "date": "2027-10-17",
+   "title": "Novelbright ARENA TOUR 2027",
+   "kind": "ワンマン",
+   "venue": "大阪城ホール（大阪府）",
+   "sale_info": "チケット情報は後日発表",
+   "source_url": "https://novelbright.jp/news/detail/2501",
+   "confidence": "high"
   },
   {
    "artist": "HEY-SMITH",
@@ -9253,6 +9535,13 @@
   },
   "竹内まりや": {
    "official": "https://www.sonymusic.co.jp/artist/takeuchimariya/"
+  },
+  "THE ALFEE": {
+   "official": "https://www.alfee.com/",
+   "schedule": "https://s.alfee.com/news/live/2026a/"
+  },
+  "Novelbright": {
+   "official": "https://novelbright.jp/"
   }
  },
  "aliases": {
@@ -9395,6 +9684,13 @@
    "Mariya Takeuchi",
    "たけうちまりや",
    "マリヤタケウチ"
+  ],
+  "Novelbright": [
+   "ノーベルブライト"
+  ],
+  "THE ALFEE": [
+   "アルフィー",
+   "ジ・アルフィー"
   ]
  },
  "rejected": [
@@ -9574,6 +9870,16 @@
   "竹内まりや": {
    "state": "no_events",
    "checked": "2026-10-26T07:30:00+09:00"
+  },
+  "Novelbright": {
+   "state": "ok",
+   "checked": "2026-10-26T14:14:16+09:00",
+   "news_checked": "2026-10-26T14:14:16+09:00"
+  },
+  "THE ALFEE": {
+   "state": "ok",
+   "checked": "2026-10-26T14:14:16+09:00",
+   "news_checked": "2026-10-26T14:14:16+09:00"
   }
  }
 }
