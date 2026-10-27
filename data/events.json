@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T20:30:00+09:00",
+ "updated": "2026-10-28T07:50:00+09:00",
  "artists": [
   "04 Limited Sazabys",
   "ELLEGARDEN",
@@ -38,51 +38,6 @@
   "THE ALFEE"
  ],
  "events": [
-  {
-   "artist": "Wienners",
-   "date": "2026-10-26",
-   "title": "SHELTER 35th Anniversary One Epic Month",
-   "kind": "イベント",
-   "venue": "下北沢SHELTER（東京）",
-   "source_url": "https://wienners.net/",
-   "confidence": "high"
-  },
-  {
-   "artist": "BUMP OF CHICKEN",
-   "date": "2026-10-27",
-   "title": "BUMP OF CHICKEN TOUR 2026-2027 Ratio Clavis",
-   "kind": "ワンマン",
-   "venue": "有明アリーナ（東京）",
-   "ticket_name": "イープラス",
-   "ticket_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
-   "sale_info": "10/27・28の2日間。チケットは完売",
-   "source_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
-   "confidence": "high"
-  },
-  {
-   "artist": "ヤバイTシャツ屋さん",
-   "date": "2026-10-27",
-   "title": "\"Magical Tank-top Parade\" ONE-MAN TOUR 2026",
-   "kind": "ワンマン",
-   "venue": "Zepp Haneda（東京）",
-   "sale_info": "6,050円（税込）＋ドリンク代。開場18:00／開演19:00",
-   "ticket_name": "ローソンチケット",
-   "ticket_url": "https://l-tike.com/yabaitshirtsyasan/t",
-   "source_url": "https://realsound.jp/2026/05/post-2389827.html",
-   "confidence": "high"
-  },
-  {
-   "artist": "ELLEGARDEN",
-   "date": "2026-10-27",
-   "title": "Bad For Education Tour II (2026)",
-   "kind": "ワンマン",
-   "venue": "大阪府（Zepp Osaka Bayside）",
-   "source_url": "https://eplus.jp/ellegarden2026/",
-   "confidence": "high",
-   "ticket_name": "イープラス",
-   "ticket_url": "https://eplus.jp/ellegarden2026/",
-   "sale_info": "開場18:00/開演19:00。一般発売9/27（予定枚数終了表示）。トレード受付あり"
-  },
   {
    "artist": "BUMP OF CHICKEN",
    "date": "2026-10-28",
@@ -329,6 +284,18 @@
    "ticket_url": "https://www.onagawa100.com/ticket/",
    "sale_info": "1次先行は8/11締切（終了）",
    "source_url": "https://yabaitshirtsyasan.com/live/293027/",
+   "confidence": "high"
+  },
+  {
+   "artist": "muque",
+   "date": "2026-10-31",
+   "title": "NIGHT HIKE 2026 in 幕張",
+   "kind": "フェス",
+   "venue": "幕張メッセ 9・11ホール（千葉）",
+   "ticket_name": "ZAIKO",
+   "ticket_url": "https://tribalcon.zaiko.io/e/night-hike-2026-makuhari",
+   "sale_info": "muqueは HIKE STAGE の17:05から。詳細 https://nighthike.net/",
+   "source_url": "https://muque.jp/live/live-1591/",
    "confidence": "high"
   },
   {
@@ -1390,7 +1357,18 @@
    "source_url": "https://www.shankofficial.com/live/37629c75-b25c-4e1b-9293-879a6f616080",
    "confidence": "high",
    "sale_info": "前売4,000円。開場17:00/開演18:00",
-   "with": "SHADOWS"
+   "with": "SHADOWS",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/shadows/",
+   "sales": [
+    {
+     "label": "一般発売(先着)",
+     "start": "2026-10-24",
+     "end": "2026-11-14",
+     "url": "https://eplus.jp/shadows/",
+     "note": "12:00開始〜11/14 18:00"
+    }
+   ]
   },
   {
    "artist": "THE KEBABS",
@@ -1739,6 +1717,31 @@
    "confidence": "high"
   },
   {
+   "artist": "muque",
+   "date": "2026-11-21",
+   "title": "PARC ON FINAL",
+   "kind": "フェス",
+   "venue": "UNITED LAB（福岡）",
+   "with": "小原綾斗 / ZAZEN BOYS / スーパー登山部 / Trooper Salute / brkfstblend / MONO NO AWARE ほか",
+   "ticket_name": "チケットぴあ",
+   "ticket_url": "https://t.pia.jp/pia/event/event.do?eventCd=2638145",
+   "sale_info": "開場13:00／開演14:00",
+   "source_url": "https://muque.jp/live/live-1674/",
+   "confidence": "low"
+  },
+  {
+   "artist": "[Alexandros]",
+   "date": "2026-11-21",
+   "title": "WONDERLIVET 2026（11/21）",
+   "kind": "フェス",
+   "venue": "KINTEX 展示場2号館（韓国・高陽）",
+   "ticket_name": "Melon Ticket / Ticketlink / Yes24 ほか（韓国）",
+   "ticket_url": "https://www.wonderli.vet/",
+   "sale_info": "海外公演。公式スケジュールに11/21と記載",
+   "source_url": "https://alexandros.jp/contents/schedule",
+   "confidence": "high"
+  },
+  {
    "artist": "9mm Parabellum Bullet",
    "date": "2026-11-22",
    "title": "9mm Parabellum Bullet Tour 2026-27「Raison d’être」",
@@ -1894,6 +1897,34 @@
    "sale_info": "9,900円(税込)・開場16:30／開演17:30・未就学児入場不可",
    "source_url": "https://s.alfee.com/news/live/2026a/",
    "confidence": "high"
+  },
+  {
+   "artist": "muque",
+   "date": "2026-11-23",
+   "title": "Music Splash!! #4 名古屋公演",
+   "kind": "対バン",
+   "venue": "Zepp Nagoya（愛知）",
+   "with": "須田景凪 / CLAN QUEEN",
+   "ticket_name": "チケットぴあ",
+   "ticket_url": "https://w.pia.jp/t/musicsplash-4/",
+   "sale_info": "開場17:00／開演18:00。1Fスタンディング6,000円・2F指定6,500円（税込、ドリンク別）",
+   "sales": [
+    {
+     "label": "プレオーダー最終先行",
+     "start": "2026-10-24",
+     "end": "2026-11-01",
+     "url": "https://w.pia.jp/t/musicsplash-4/",
+     "note": "10/24 12:00〜11/1 23:59"
+    },
+    {
+     "label": "一般発売",
+     "start": "2026-11-07",
+     "url": "https://w.pia.jp/t/musicsplash-4/",
+     "note": "11/7 10:00〜"
+    }
+   ],
+   "source_url": "https://muque.jp/live/live-1678/",
+   "confidence": "low"
   },
   {
    "artist": "04 Limited Sazabys",
@@ -2482,22 +2513,37 @@
    "sale_info": "開場18:00/開演19:00。8,800円",
    "sales": [
     {
-     "label": "CREW先行1次",
-     "start": "2026-09-18",
-     "end": "2026-09-27"
-    },
-    {
-     "label": "CREW2次/Premium",
-     "start": "2026-10-03",
-     "end": "2026-10-12"
-    },
-    {
-     "label": "MOBILE会員先行",
-     "start": "2026-10-17",
-     "end": "2026-10-25",
-     "note": "14:00開始・今日締切"
+     "label": "プレオーダー(抽選)",
+     "start": "2026-10-26",
+     "end": "2026-11-01",
+     "url": "https://eplus.jp/yooheikawakami/",
+     "note": "18:00開始〜23:59。当選発表11/6"
     }
-   ]
+   ],
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/yooheikawakami/"
+  },
+  {
+   "artist": "muque",
+   "date": "2026-12-03",
+   "title": "Orange Station Live 2026",
+   "kind": "対バン",
+   "venue": "Zepp Haneda（東京）",
+   "with": "go!go!vanillas / Lucky Kilimanjaro",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/orangestationlive/",
+   "sale_info": "開場17:30／開演19:00。オールスタンディング5,800円（税込、ドリンク別）",
+   "sales": [
+    {
+     "label": "先着一般発売",
+     "start": "2026-10-19",
+     "end": "2026-12-02",
+     "url": "https://eplus.jp/orangestationlive/",
+     "note": "12/2 18:00まで"
+    }
+   ],
+   "source_url": "https://eplus.jp/orangestationlive/",
+   "confidence": "high"
   },
   {
    "artist": "04 Limited Sazabys",
@@ -2531,22 +2577,15 @@
    "sale_info": "開場18:00/開演19:00。8,800円",
    "sales": [
     {
-     "label": "CREW先行1次",
-     "start": "2026-09-18",
-     "end": "2026-09-27"
-    },
-    {
-     "label": "CREW2次/Premium",
-     "start": "2026-10-03",
-     "end": "2026-10-12"
-    },
-    {
-     "label": "MOBILE会員先行",
-     "start": "2026-10-17",
-     "end": "2026-10-25",
-     "note": "14:00開始・今日締切"
+     "label": "プレオーダー(抽選)",
+     "start": "2026-10-26",
+     "end": "2026-11-01",
+     "url": "https://eplus.jp/yooheikawakami/",
+     "note": "18:00開始〜23:59。当選発表11/6"
     }
-   ]
+   ],
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/yooheikawakami/"
   },
   {
    "artist": "a flood of circle",
@@ -2616,8 +2655,8 @@
    "ticket_name": "イープラス",
    "ticket_url": "https://eplus.jp/sf/detail/2549320001-P0030008P021001",
    "sale_info": "開場9:00/開演11:00（SiMのe+ページで先着販売あり。出演の公式発表は未確認）",
-   "source_url": "https://eplus.jp/sf/word/0000038382",
-   "confidence": "low",
+   "source_url": "https://sxixm.com/live_information/detail/694",
+   "confidence": "high",
    "date": "2026-12-05"
   },
   {
@@ -2941,22 +2980,28 @@
    "sale_info": "開場18:00/開演19:00。8,800円",
    "sales": [
     {
-     "label": "CREW先行1次",
-     "start": "2026-09-18",
-     "end": "2026-09-27"
-    },
-    {
-     "label": "CREW2次/Premium",
-     "start": "2026-10-03",
-     "end": "2026-10-12"
-    },
-    {
-     "label": "MOBILE会員先行",
-     "start": "2026-10-17",
-     "end": "2026-10-25",
-     "note": "14:00開始・今日締切"
+     "label": "プレオーダー(抽選)",
+     "start": "2026-10-26",
+     "end": "2026-11-01",
+     "url": "https://eplus.jp/yooheikawakami/",
+     "note": "18:00開始〜23:59。当選発表11/6"
     }
-   ]
+   ],
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/yooheikawakami/"
+  },
+  {
+   "artist": "muque",
+   "date": "2026-12-10",
+   "title": "GLIM SPANKY「NICE TO MEET YOU tour 2026」",
+   "kind": "対バン",
+   "venue": "DIAMOND HALL（愛知）",
+   "with": "GLIM SPANKY",
+   "ticket_name": "ローチケ",
+   "ticket_url": "https://l-tike.com/st1/glimspanky_muque",
+   "sale_info": "開場18:00／開演19:00。オールスタンディング6,500円・学生4,000円（ドリンク別）",
+   "source_url": "https://muque.jp/live/live-1652/",
+   "confidence": "high"
   },
   {
    "artist": "Fear, and Loathing in Las Vegas",
@@ -2980,22 +3025,15 @@
    "sale_info": "開場18:00/開演19:00。8,800円",
    "sales": [
     {
-     "label": "CREW先行1次",
-     "start": "2026-09-18",
-     "end": "2026-09-27"
-    },
-    {
-     "label": "CREW2次/Premium",
-     "start": "2026-10-03",
-     "end": "2026-10-12"
-    },
-    {
-     "label": "MOBILE会員先行",
-     "start": "2026-10-17",
-     "end": "2026-10-25",
-     "note": "14:00開始・今日締切"
+     "label": "プレオーダー(抽選)",
+     "start": "2026-10-26",
+     "end": "2026-11-01",
+     "url": "https://eplus.jp/yooheikawakami/",
+     "note": "18:00開始〜23:59。当選発表11/6"
     }
-   ]
+   ],
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/yooheikawakami/"
   },
   {
    "artist": "SiM",
@@ -3004,9 +3042,18 @@
    "kind": "対バン",
    "venue": "Spotify O-EAST（東京）",
    "with": "dustbox ほか",
-   "sale_info": "前売3,999円",
-   "source_url": "https://sxixm.com/live_information/detail/701",
-   "confidence": "high"
+   "sale_info": "前売3,999円。ゲストdustbox＋鬼札枠1〜3組",
+   "source_url": "https://sxixm.com/news/detail/1576",
+   "confidence": "high",
+   "ticket_name": "SiM OFFiCiAL APP先行ほか",
+   "sales": [
+    {
+     "label": "SiM OFFiCiAL APP先行",
+     "start": "2026-10-21",
+     "end": "2026-10-28",
+     "note": "18:00開始〜23:59"
+    }
+   ]
   },
   {
    "artist": "9mm Parabellum Bullet",
@@ -3193,7 +3240,7 @@
    "venue": "京都府（京都パルスプラザ）",
    "source_url": "https://rotten-g.com/information",
    "confidence": "high",
-   "sale_info": "10/8に出演アーティスト変更のお知らせあり（内容は公式で要確認）",
+   "sale_info": "10/8公式発表：12/13出演予定のBRAHMANが出演辞退（TOSHI-LOWさんの病気治療のため）。代替出演者は後日発表。出演者変更による払い戻しなし",
    "ticket_url": "https://kue.rotten-g.com/26/"
   },
   {
@@ -3590,22 +3637,15 @@
    "sale_info": "開場18:00/開演19:00。8,800円",
    "sales": [
     {
-     "label": "CREW先行1次",
-     "start": "2026-09-18",
-     "end": "2026-09-27"
-    },
-    {
-     "label": "CREW2次/Premium",
-     "start": "2026-10-03",
-     "end": "2026-10-12"
-    },
-    {
-     "label": "MOBILE会員先行",
-     "start": "2026-10-17",
-     "end": "2026-10-25",
-     "note": "14:00開始・今日締切"
+     "label": "プレオーダー(抽選)",
+     "start": "2026-10-26",
+     "end": "2026-11-01",
+     "url": "https://eplus.jp/yooheikawakami/",
+     "note": "18:00開始〜23:59。当選発表11/6"
     }
-   ]
+   ],
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/yooheikawakami/"
   },
   {
    "artist": "[Alexandros]",
@@ -3618,22 +3658,15 @@
    "sale_info": "開場18:00/開演19:00。8,800円",
    "sales": [
     {
-     "label": "CREW先行1次",
-     "start": "2026-09-18",
-     "end": "2026-09-27"
-    },
-    {
-     "label": "CREW2次/Premium",
-     "start": "2026-10-03",
-     "end": "2026-10-12"
-    },
-    {
-     "label": "MOBILE会員先行",
-     "start": "2026-10-17",
-     "end": "2026-10-25",
-     "note": "14:00開始・今日締切"
+     "label": "プレオーダー(抽選)",
+     "start": "2026-10-26",
+     "end": "2026-11-01",
+     "url": "https://eplus.jp/yooheikawakami/",
+     "note": "18:00開始〜23:59。当選発表11/6"
     }
-   ]
+   ],
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/yooheikawakami/"
   },
   {
    "artist": "久石譲",
@@ -3774,11 +3807,15 @@
   {
    "artist": "muque",
    "date": "2026-12-26",
-   "title": "MAGIC HOUR FESTIVAL",
+   "title": "Survive Said The Prophet Presents『MAGIC HOUR FESTIVAL』",
    "kind": "フェス",
-   "venue": "（東京）",
-   "source_url": "https://www.ragnet.co.jp/rock-festival",
-   "confidence": "low"
+   "venue": "豊洲PIT（東京）",
+   "source_url": "https://muque.jp/live/live-1622/",
+   "confidence": "high",
+   "with": "Survive Said The Prophet / ACIDMAN / 9mm Parabellum Bullet / knosis / ReoNa",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sstp/",
+   "sale_info": "開場14:00／開演15:00"
   },
   {
    "artist": "久石譲",
@@ -4106,6 +4143,27 @@
    "sale_info": "開演16:00。アリーナ15,500円／スタンド12,500円。FC最速先行は9/16終了。一般発売日は未確認",
    "source_url": "https://natalie.mu/music/news/687225",
    "confidence": "low"
+  },
+  {
+   "artist": "ROTTENGRAFFTY",
+   "date": "2026-12-30",
+   "title": "J 2026「放火魔大暴年会」（2025年12/30公演の振替開催）",
+   "kind": "対バン",
+   "venue": "Spotify O-EAST（東京）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/j-live/",
+   "sale_info": "開場15:15／開演16:00。スタンディング7,700円（ドリンク別）。旧公演のチケットも有効",
+   "sales": [
+    {
+     "label": "オフィシャル先行",
+     "start": "2026-10-13",
+     "end": "2026-10-20",
+     "url": "https://eplus.jp/j-live/",
+     "note": "18:00〜23:59"
+    }
+   ],
+   "source_url": "https://rotten-g.com/live/detail/1279",
+   "confidence": "high"
   },
   {
    "artist": "04 Limited Sazabys",
@@ -4537,6 +4595,31 @@
    "source_url": "https://wienners.net/news/54e3f05b-693b-4c34-8e16-b12b064c6b83",
    "confidence": "high",
    "with": "THE BAWDIES"
+  },
+  {
+   "artist": "ROTTENGRAFFTY",
+   "date": "2027-01-21",
+   "title": "SYNAPSE #003 byライブナタリー",
+   "kind": "対バン",
+   "venue": "Spotify O-EAST（東京）",
+   "with": "lynch.",
+   "ticket_name": "イープラス",
+   "sale_info": "開場18:00／開演19:00。スタンディング6,800円／2F指定7,800円",
+   "sales": [
+    {
+     "label": "超早割(クレカのみ)",
+     "start": "2026-10-20",
+     "end": "2026-10-25"
+    },
+    {
+     "label": "早割",
+     "start": "2026-10-26",
+     "end": "2026-11-08",
+     "note": "23:59まで"
+    }
+   ],
+   "source_url": "https://rotten-g.com/live/detail/1282",
+   "confidence": "high"
   },
   {
    "artist": "HEY-SMITH",
@@ -4992,6 +5075,28 @@
    "sale_info": "沖縄2days公演（1/30・31）"
   },
   {
+   "artist": "[Alexandros]",
+   "date": "2027-01-30",
+   "title": "FUKUOKA MUSIC FES.2027（1/30）",
+   "kind": "フェス",
+   "venue": "みずほPayPayドーム福岡（福岡）",
+   "with": "アイナ・ジ・エンド, Chevon, SIX LOUNGE, 04 Limited Sazabys, BLUE ENCOUNT ほか",
+   "ticket_name": "チケットぴあ",
+   "ticket_url": "https://w.pia.jp/t/fukuokamusic-fes27/",
+   "sale_info": "開場9:00／開演10:20。スタンダード席10,800円",
+   "sales": [
+    {
+     "label": "オフィシャル3次先行",
+     "start": "2026-10-27",
+     "end": "2026-11-08",
+     "url": "https://w.pia.jp/t/fukuokamusic-fes27/",
+     "note": "18:00開始〜23:59"
+    }
+   ],
+   "source_url": "https://alexandros.jp/contents/1122470",
+   "confidence": "high"
+  },
+  {
    "artist": "9mm Parabellum Bullet",
    "date": "2027-01-31",
    "title": "9mm Parabellum Bullet Tour 2026-27「Raison d’être」",
@@ -5206,6 +5311,24 @@
    "confidence": "high"
   },
   {
+   "artist": "ROTTENGRAFFTY",
+   "date": "2027-02-11",
+   "title": "ブクロック!フェスティバル2027幕張",
+   "kind": "フェス",
+   "venue": "幕張メッセ国際展示場1〜3ホール（千葉）",
+   "ticket_name": "イープラス",
+   "sale_info": "開場9:30／開演11:00。一般11,000円／U-22 9,500円",
+   "sales": [
+    {
+     "label": "第一次先行",
+     "start": "2026-09-10",
+     "end": "2026-09-28"
+    }
+   ],
+   "source_url": "https://rotten-g.com/live/detail/1278",
+   "confidence": "high"
+  },
+  {
    "artist": "HEY-SMITH",
    "date": "2027-02-13",
    "title": "HEY-SMITH 20th ANNIVERSARY『ALL OVER JAPAN TOUR』",
@@ -5393,6 +5516,28 @@
    "confidence": "high"
   },
   {
+   "artist": "ROTTENGRAFFTY",
+   "date": "2027-02-27",
+   "title": "G-FREAK FACTORY 30th ANNIVERSARY TOUR \"NOROSHI\" -1st series-",
+   "kind": "対バン",
+   "venue": "出雲 APPOLO（島根）",
+   "with": "G-FREAK FACTORY（ROTTENGRAFFTYはゲスト）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/g-freakfactory/",
+   "sale_info": "開場17:30／開演18:00。オールスタンディング5,200円／学割3,800円（ドリンク別）",
+   "sales": [
+    {
+     "label": "オフィシャルHP2次先行",
+     "start": "2026-10-24",
+     "end": "2026-11-01",
+     "url": "https://eplus.jp/g-freakfactory/",
+     "note": "12:00開始〜23:59。1公演2枚まで"
+    }
+   ],
+   "source_url": "https://g-freakfactory.com/contents/1121518",
+   "confidence": "high"
+  },
+  {
    "artist": "Mrs. GREEN APPLE",
    "date": "2027-02-28",
    "title": "Harmony2",
@@ -5400,6 +5545,28 @@
    "venue": "Kアリーナ横浜（神奈川）",
    "sale_info": "チケット詳細は後日発表。アルバム『POPS』封入のシリアルコード／FC「Ringo Jam」最速先行",
    "source_url": "https://www.thefirsttimes.jp/news/0000882382/",
+   "confidence": "high"
+  },
+  {
+   "artist": "ROTTENGRAFFTY",
+   "date": "2027-02-28",
+   "title": "G-FREAK FACTORY 30th ANNIVERSARY TOUR \"NOROSHI\" -1st series-",
+   "kind": "対バン",
+   "venue": "周南 RISING HALL（山口）",
+   "with": "G-FREAK FACTORY（ROTTENGRAFFTYはゲスト）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/g-freakfactory/",
+   "sale_info": "開場16:45／開演17:30。オールスタンディング5,200円／学割3,800円（ドリンク別）",
+   "sales": [
+    {
+     "label": "オフィシャルHP2次先行",
+     "start": "2026-10-24",
+     "end": "2026-11-01",
+     "url": "https://eplus.jp/g-freakfactory/",
+     "note": "12:00開始〜23:59。1公演2枚まで"
+    }
+   ],
+   "source_url": "https://g-freakfactory.com/contents/1121518",
    "confidence": "high"
   },
   {
@@ -5883,7 +6050,18 @@
    "venue": "シーサイドももち海浜公園（福岡）",
    "source_url": "https://www.shankofficial.com/live/033a54f7-3651-4476-9d9d-1df2405b4310",
    "confidence": "low",
-   "sale_info": "公式は「仮確定」表記"
+   "sale_info": "公式は「仮確定」表記",
+   "ticket_name": "ローチケ",
+   "ticket_url": "https://l-tike.com/triangle2027/",
+   "sales": [
+    {
+     "label": "オフィシャル先行",
+     "start": "2026-10-23",
+     "end": "2026-11-15",
+     "url": "https://l-tike.com/triangle2027/",
+     "note": "18:00開始〜23:59"
+    }
+   ]
   },
   {
    "artist": "ORAL CIGARETTES",
@@ -5903,7 +6081,18 @@
    "venue": "シーサイドももち海浜公園（福岡）",
    "source_url": "https://www.shankofficial.com/live/71e0fba3-225b-4b2c-acf5-40ffdb2b3bfa",
    "confidence": "low",
-   "sale_info": "公式は「仮確定」表記"
+   "sale_info": "公式は「仮確定」表記",
+   "ticket_name": "ローチケ",
+   "ticket_url": "https://l-tike.com/triangle2027/",
+   "sales": [
+    {
+     "label": "オフィシャル先行",
+     "start": "2026-10-23",
+     "end": "2026-11-15",
+     "url": "https://l-tike.com/triangle2027/",
+     "note": "18:00開始〜23:59"
+    }
+   ]
   },
   {
    "artist": "あいみょん",
@@ -6466,7 +6655,18 @@
    "venue": "LaLa arena TOKYO-BAY（千葉）",
    "source_url": "https://www.shankofficial.com/live/93b27b30-5e5a-44dd-8bca-cca619064e1b",
    "confidence": "low",
-   "sale_info": "公式は「仮確定」表記"
+   "sale_info": "公式は「仮確定」表記",
+   "ticket_name": "ローチケ",
+   "ticket_url": "https://l-tike.com/triangle2027/",
+   "sales": [
+    {
+     "label": "オフィシャル先行",
+     "start": "2026-10-23",
+     "end": "2026-11-15",
+     "url": "https://l-tike.com/triangle2027/",
+     "note": "18:00開始〜23:59"
+    }
+   ]
   },
   {
    "artist": "SHANK",
@@ -6476,7 +6676,18 @@
    "venue": "LaLa arena TOKYO-BAY（千葉）",
    "source_url": "https://www.shankofficial.com/live/2cb6f4c9-cb04-4a3a-a005-cc97e4c988f0",
    "confidence": "low",
-   "sale_info": "公式は「仮確定」表記。開場10:00/開演11:15"
+   "sale_info": "公式は「仮確定」表記。開場10:00/開演11:15",
+   "ticket_name": "ローチケ",
+   "ticket_url": "https://l-tike.com/triangle2027/",
+   "sales": [
+    {
+     "label": "オフィシャル先行",
+     "start": "2026-10-23",
+     "end": "2026-11-15",
+     "url": "https://l-tike.com/triangle2027/",
+     "note": "18:00開始〜23:59"
+    }
+   ]
   },
   {
    "artist": "back number",
@@ -9399,18 +9610,22 @@
   "Mrs. GREEN APPLE": {
    "official": "https://mrsgreenapple.com/",
    "schedule": "https://mrsgreenapple.com/feature/ringojamtour_shadows",
-   "image": "https://mrsgreenapple.com/og_image_2026.png"
+   "image": "https://mrsgreenapple.com/og_image_2026.png",
+   "news": "https://mrsgreenapple.com/news/"
   },
   "SHANK": {
    "official": "https://www.shankofficial.com/",
    "schedule": "https://www.shankofficial.com/live",
    "eplus": "https://eplus.jp/shk-ofas/",
-   "image": "https://ryzm.imgee.io/sites/1ffc7e9f-350f-4bad-921c-5f0c898a3ff3/images/889687c8-e7fd-48cf-af6e-9c7837ba1571"
+   "image": "https://ryzm.imgee.io/sites/1ffc7e9f-350f-4bad-921c-5f0c898a3ff3/images/889687c8-e7fd-48cf-af6e-9c7837ba1571",
+   "news": "https://www.shankofficial.com/news"
   },
   "[Alexandros]": {
    "eplus": "https://eplus.jp/sf/word/0000038798",
    "official": "https://alexandros.jp/",
-   "image": "https://alexandros.jp/s3/skiyaki/uploads/link/image/24411/ogp_1.png"
+   "image": "https://alexandros.jp/s3/skiyaki/uploads/link/image/24411/ogp_1.png",
+   "schedule": "https://alexandros.jp/contents/schedule",
+   "news": "https://alexandros.jp/contents/news"
   },
   "RADWIMPS": {
    "official": "https://radwimps.jp/",
@@ -9467,7 +9682,9 @@
   "ヤバイTシャツ屋さん": {
    "official": "https://yabaitshirtsyasan.com/",
    "schedule": "https://yabaitshirtsyasan.com/live/",
-   "image": "https://yabaitshirtsyasan.com/wp-content/uploads/2024/06/yabat2024_summer.jpg"
+   "image": "https://yabaitshirtsyasan.com/wp-content/uploads/2024/06/yabat2024_summer.jpg",
+   "pia": "https://t.pia.jp/pia/artist/artists.do?artistsCd=F4090019",
+   "news": "https://yabaitshirtsyasan.com/news/"
   },
   "04 Limited Sazabys": {
    "official": "https://www.04limitedsazabys.com/",
@@ -9477,7 +9694,8 @@
   "ORAL CIGARETTES": {
    "official": "https://theoralcigarettes.com/",
    "image": "https://theoralcigarettes.com/static/original/fanclub-pc/img/cmn/fb.png",
-   "schedule": "https://theoralcigarettes.com/news/list/4"
+   "schedule": "https://theoralcigarettes.com/news/list/4",
+   "eplus": "https://eplus.jp/sf/word/0000044957"
   },
   "ELLEGARDEN": {
    "official": "https://ellegarden.jp/",
@@ -9499,7 +9717,8 @@
   },
   "マキシマム ザ ホルモン": {
    "eplus": "https://eplus.jp/sf/word/0000003230",
-   "news": "(公式NEWSは使えない。55mth.comは2015年で停止、maximumthehormone.jpは英語版。e+・ナタリーで確認)"
+   "news": "(公式NEWSは使えない。55mth.comは2015年で停止、maximumthehormone.jpは英語版。e+・ナタリーで確認)",
+   "pia": "https://t.pia.jp/pia/artist/artists.do?artistsCd=11014200"
   },
   "10-FEET": {
    "eplus": "https://eplus.jp/sf/word/0000002089",
@@ -9512,7 +9731,8 @@
    "eplus": "https://eplus.jp/sf/detail/0069680001",
    "official": "https://rotten-g.com/",
    "news": "https://rotten-g.com/information",
-   "image": "https://rotten-g.com/src/default/image/ogImg.png"
+   "image": "https://rotten-g.com/src/default/image/ogImg.png",
+   "schedule": "https://rotten-g.com/live"
   },
   "a flood of circle": {
    "official": "https://www.afloodofcircle.com/",
@@ -9530,13 +9750,17 @@
    "eplus": "https://eplus.jp/sf/word/0000038382",
    "official": "https://sxixm.com/",
    "schedule": "https://sxixm.com/live_information/list/?range=future&sort=asc",
-   "image": "https://sxixm.com/static/original/official/image/ogp_img.png"
+   "image": "https://sxixm.com/static/original/official/image/ogp_img.png",
+   "news": "https://sxixm.com/news/"
   },
   "ブランデー戦記": {
    "eplus": "https://eplus.jp/sf/word/0000156908"
   },
   "muque": {
-   "eplus": "https://eplus.jp/sf/detail/3987700001"
+   "eplus": "https://eplus.jp/sf/detail/3987700001",
+   "official": "https://muque.jp/",
+   "schedule": "https://muque.jp/live",
+   "news": "https://muque.jp/news"
   },
   "久石譲": {
    "eplus": "https://eplus.jp/hisaishi/",
@@ -9728,8 +9952,8 @@
   },
   "Mrs. GREEN APPLE": {
    "state": "ok",
-   "checked": "2026-10-26T20:40:00+09:00",
-   "news_checked": "2026-10-26T20:40:00+09:00"
+   "checked": "2026-10-28T07:50:00+09:00",
+   "news_checked": "2026-10-28T07:50:00+09:00"
   },
   "back number": {
    "state": "ok",
@@ -9749,13 +9973,13 @@
   },
   "ヤバイTシャツ屋さん": {
    "state": "ok",
-   "checked": "2026-10-26T20:40:00+09:00",
-   "news_checked": "2026-10-26T20:40:00+09:00"
+   "checked": "2026-10-28T07:50:00+09:00",
+   "news_checked": "2026-10-28T07:50:00+09:00"
   },
   "ORAL CIGARETTES": {
    "state": "ok",
-   "checked": "2026-10-26T20:40:00+09:00",
-   "news_checked": "2026-10-26T20:40:00+09:00"
+   "checked": "2026-10-28T07:50:00+09:00",
+   "news_checked": "2026-10-28T07:50:00+09:00"
   },
   "HEY-SMITH": {
    "state": "ok",
@@ -9764,7 +9988,7 @@
   },
   "マキシマム ザ ホルモン": {
    "state": "ok",
-   "checked": "2026-10-27T20:30:00+09:00",
+   "checked": "2026-10-28T07:50:00+09:00",
    "news_checked": "2026-10-25T07:30:00+09:00"
   },
   "サンボマスター": {
@@ -9774,33 +9998,33 @@
   },
   "あいみょん": {
    "state": "ok",
-   "checked": "2026-10-26T20:40:00+09:00",
-   "news_checked": "2026-10-26T20:40:00+09:00"
+   "checked": "2026-10-28T07:50:00+09:00",
+   "news_checked": "2026-10-28T07:50:00+09:00"
   },
   "10-FEET": {
    "state": "ok",
-   "checked": "2026-10-26T20:40:00+09:00",
-   "news_checked": "2026-10-26T20:40:00+09:00"
+   "checked": "2026-10-28T07:50:00+09:00",
+   "news_checked": "2026-10-28T07:50:00+09:00"
   },
   "SHANK": {
    "state": "ok",
-   "checked": "2026-10-26T20:40:00+09:00",
-   "news_checked": "2026-10-26T20:40:00+09:00"
+   "checked": "2026-10-28T07:50:00+09:00",
+   "news_checked": "2026-10-28T07:50:00+09:00"
   },
   "ROTTENGRAFFTY": {
    "state": "ok",
-   "checked": "2026-10-26T20:40:00+09:00",
-   "news_checked": "2026-10-26T20:40:00+09:00"
+   "checked": "2026-10-28T07:50:00+09:00",
+   "news_checked": "2026-10-28T07:50:00+09:00"
   },
   "SiM": {
    "state": "ok",
-   "checked": "2026-10-26T20:40:00+09:00",
-   "news_checked": "2026-10-26T20:40:00+09:00"
+   "checked": "2026-10-28T07:50:00+09:00",
+   "news_checked": "2026-10-28T07:50:00+09:00"
   },
   "[Alexandros]": {
    "state": "ok",
-   "checked": "2026-10-26T20:40:00+09:00",
-   "news_checked": "2026-10-26T20:40:00+09:00"
+   "checked": "2026-10-28T07:50:00+09:00",
+   "news_checked": "2026-10-28T07:50:00+09:00"
   },
   "RADWIMPS": {
    "state": "no_events",
@@ -9839,7 +10063,7 @@
   },
   "UNISON SQUARE GARDEN": {
    "state": "no_events",
-   "checked": "2026-10-27T20:30:00+09:00",
+   "checked": "2026-10-28T07:50:00+09:00",
    "note": "2026-04-27に活動休止を発表。最終公演は2026-07-15。再開の発表なし",
    "news_checked": "2026-10-26T07:40:00+09:00"
   },
@@ -9855,8 +10079,8 @@
   },
   "斎藤宏介": {
    "state": "ok",
-   "checked": "2026-10-27T20:30:00+09:00",
-   "news_checked": "2026-10-26T07:40:00+09:00"
+   "checked": "2026-10-28T07:50:00+09:00",
+   "news_checked": "2026-10-28T07:50:00+09:00"
   },
   "BUMP OF CHICKEN": {
    "state": "ok",
@@ -9865,13 +10089,13 @@
   },
   "ブランデー戦記": {
    "state": "ok",
-   "checked": "2026-10-27T20:30:00+09:00",
-   "news_checked": "2026-10-25T20:45:00+09:00"
+   "checked": "2026-10-28T07:50:00+09:00",
+   "news_checked": "2026-10-28T07:50:00+09:00"
   },
   "muque": {
    "state": "ok",
-   "checked": "2026-10-27T20:30:00+09:00",
-   "news_checked": "2026-10-25T20:45:00+09:00"
+   "checked": "2026-10-28T07:50:00+09:00",
+   "news_checked": "2026-10-28T07:50:00+09:00"
   },
   "久石譲": {
    "state": "ok",
