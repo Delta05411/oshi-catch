@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T08:21:10+09:00",
+ "updated": "2026-10-28T08:23:24+09:00",
  "artists": [
   "04 Limited Sazabys",
   "ELLEGARDEN",
@@ -37,7 +37,8 @@
   "Novelbright",
   "THE ALFEE",
   "バブルガム・ブラザーズ",
-  "Bro.KORN"
+  "Bro.KORN",
+  "ブラザートム"
  ],
  "events": [
   {
@@ -9942,6 +9943,11 @@
   "Bro.KORN": [
    "bro.korn",
    "ブロコーン"
+  ],
+  "ブラザートム": [
+   "Bro.Tom",
+   "Brother Tom",
+   "ブラザー・トム"
   ]
  },
  "rejected": [
@@ -10142,6 +10148,10 @@
   "Bro.KORN": {
    "state": "no_events",
    "checked": "2026-10-28T08:21:10+09:00"
+  },
+  "ブラザートム": {
+   "state": "no_events",
+   "checked": "2026-10-28T08:23:24+09:00"
   }
  }
 }
