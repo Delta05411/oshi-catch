@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T08:00:00+09:00",
+ "updated": "2026-10-27T20:30:00+09:00",
  "artists": [
   "04 Limited Sazabys",
   "ELLEGARDEN",
@@ -2763,6 +2763,27 @@
    ]
   },
   {
+   "artist": "久石譲",
+   "date": "2026-12-07",
+   "title": "ALEXANDRE DESPLAT \"From Paris to Hollywood\"（久石譲 スペシャルゲスト／パシフィックフィルハーモニア東京）",
+   "kind": "その他",
+   "venue": "サントリーホール 大ホール（東京）",
+   "with": "アレクサンドル・デスプラ",
+   "sale_info": "開場18:00／開演19:00。S席21,000円ほか",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/alexandredesplat/",
+   "sales": [
+    {
+     "label": "イープラス先着",
+     "start": "2026-04-08",
+     "end": "2026-12-06",
+     "note": "18:00まで／予定枚数終了"
+    }
+   ],
+   "source_url": "https://eplus.jp/alexandredesplat/",
+   "confidence": "low"
+  },
+  {
    "artist": "ELLEGARDEN",
    "date": "2026-12-08",
    "title": "Bad For Education Tour II GRAND FINALE",
@@ -2848,6 +2869,27 @@
    "venue": "渋谷eggman（東京）",
    "source_url": "https://wienners.net/live?page=2",
    "confidence": "high"
+  },
+  {
+   "artist": "久石譲",
+   "date": "2026-12-09",
+   "title": "ALEXANDRE DESPLAT \"From Paris to Hollywood\"（久石譲 スペシャルゲスト／パシフィックフィルハーモニア東京）",
+   "kind": "その他",
+   "venue": "ザ・シンフォニーホール（大阪）",
+   "with": "アレクサンドル・デスプラ",
+   "sale_info": "開場18:00／開演19:00。S席21,000円ほか",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/alexandredesplat/",
+   "sales": [
+    {
+     "label": "イープラス先着",
+     "start": "2026-04-08",
+     "end": "2026-12-08",
+     "note": "18:00まで"
+    }
+   ],
+   "source_url": "https://eplus.jp/alexandredesplat/",
+   "confidence": "low"
   },
   {
    "artist": "10-FEET",
@@ -3635,7 +3677,15 @@
    "ticket_url": "https://eplus.jp/sf/detail/1529190001-P0030299P021001",
    "sale_info": "一般9,000円・U-22 7,000円／開場14:00／開演15:00",
    "source_url": "https://gekirock.com/news/2026/08/survive_said_the_prophet_magic_hour_festival_2nd_lineup.php",
-   "confidence": "high"
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "公式5次先行（先着）",
+     "start": "2026-10-16",
+     "end": "2026-11-29",
+     "note": "18:00〜23:59"
+    }
+   ]
   },
   {
    "artist": "ELLEGARDEN",
@@ -5185,6 +5235,16 @@
    "kind": "対バン",
    "venue": "鹿児島CAPARVO HALL（鹿児島）",
    "source_url": "https://yabaitshirtsyasan.com/live/",
+   "confidence": "high"
+  },
+  {
+   "artist": "Novelbright",
+   "date": "2027-02-13",
+   "title": "Novelbright ASIA TOUR 2026 〜PYRAMID〜 台北（10/24台風延期の振替公演）",
+   "kind": "ワンマン",
+   "venue": "New Taipei City Exhibition Hall（台湾）",
+   "sale_info": "払い戻し・チケット引継ぎは後日案内",
+   "source_url": "https://novelbright.jp/news/detail/2523",
    "confidence": "high"
   },
   {
@@ -9411,7 +9471,8 @@
   },
   "04 Limited Sazabys": {
    "official": "https://www.04limitedsazabys.com/",
-   "image": "https://www.04limitedsazabys.com/ogp_img.png"
+   "image": "https://www.04limitedsazabys.com/ogp_img.png",
+   "news": "https://www.04limitedsazabys.com/news"
   },
   "ORAL CIGARETTES": {
    "official": "https://theoralcigarettes.com/",
@@ -9490,10 +9551,12 @@
   },
   "THE ALFEE": {
    "official": "https://www.alfee.com/",
-   "schedule": "https://s.alfee.com/news/live/2026a/"
+   "schedule": "https://s.alfee.com/news/live/2026a/",
+   "news": "https://www.alfee.com/news/s_main.asp"
   },
   "Novelbright": {
-   "official": "https://novelbright.jp/"
+   "official": "https://novelbright.jp/",
+   "news": "https://novelbright.jp/news/"
   }
  },
  "aliases": {
@@ -9675,8 +9738,8 @@
   },
   "04 Limited Sazabys": {
    "state": "ok",
-   "checked": "2026-10-26T20:40:00+09:00",
-   "news_checked": "2026-10-26T20:40:00+09:00"
+   "checked": "2026-10-27T20:30:00+09:00",
+   "news_checked": "2026-10-27T20:30:00+09:00"
   },
   "ELLEGARDEN": {
    "state": "ok",
@@ -9701,7 +9764,7 @@
   },
   "マキシマム ザ ホルモン": {
    "state": "ok",
-   "checked": "2026-10-27T07:30:00+09:00",
+   "checked": "2026-10-27T20:30:00+09:00",
    "news_checked": "2026-10-25T07:30:00+09:00"
   },
   "サンボマスター": {
@@ -9761,8 +9824,8 @@
   },
   "TenTwenty": {
    "state": "ok",
-   "checked": "2026-10-26T07:40:00+09:00",
-   "news_checked": "2026-10-26T07:40:00+09:00"
+   "checked": "2026-10-27T20:30:00+09:00",
+   "news_checked": "2026-10-27T20:30:00+09:00"
   },
   "Wienners": {
    "state": "ok",
@@ -9776,49 +9839,49 @@
   },
   "UNISON SQUARE GARDEN": {
    "state": "no_events",
-   "checked": "2026-10-26T07:40:00+09:00",
+   "checked": "2026-10-27T20:30:00+09:00",
    "note": "2026-04-27に活動休止を発表。最終公演は2026-07-15。再開の発表なし",
    "news_checked": "2026-10-26T07:40:00+09:00"
   },
   "Fear, and Loathing in Las Vegas": {
    "state": "ok",
-   "checked": "2026-10-26T07:40:00+09:00",
-   "news_checked": "2026-10-26T07:40:00+09:00"
+   "checked": "2026-10-27T20:30:00+09:00",
+   "news_checked": "2026-10-27T20:30:00+09:00"
   },
   "9mm Parabellum Bullet": {
    "state": "ok",
-   "checked": "2026-10-26T07:40:00+09:00",
-   "news_checked": "2026-10-26T07:40:00+09:00"
+   "checked": "2026-10-27T20:30:00+09:00",
+   "news_checked": "2026-10-27T20:30:00+09:00"
   },
   "斎藤宏介": {
    "state": "ok",
-   "checked": "2026-10-26T07:40:00+09:00",
+   "checked": "2026-10-27T20:30:00+09:00",
    "news_checked": "2026-10-26T07:40:00+09:00"
   },
   "BUMP OF CHICKEN": {
    "state": "ok",
-   "checked": "2026-10-26T07:40:00+09:00",
-   "news_checked": "2026-10-26T07:40:00+09:00"
+   "checked": "2026-10-27T20:30:00+09:00",
+   "news_checked": "2026-10-27T20:30:00+09:00"
   },
   "ブランデー戦記": {
    "state": "ok",
-   "checked": "2026-10-27T07:30:00+09:00",
+   "checked": "2026-10-27T20:30:00+09:00",
    "news_checked": "2026-10-25T20:45:00+09:00"
   },
   "muque": {
    "state": "ok",
-   "checked": "2026-10-27T07:30:00+09:00",
+   "checked": "2026-10-27T20:30:00+09:00",
    "news_checked": "2026-10-25T20:45:00+09:00"
   },
   "久石譲": {
    "state": "ok",
-   "checked": "2026-10-26T07:40:00+09:00",
-   "news_checked": "2026-10-26T07:40:00+09:00"
+   "checked": "2026-10-27T20:30:00+09:00",
+   "news_checked": "2026-10-27T20:30:00+09:00"
   },
   "福山雅治": {
    "state": "ok",
-   "checked": "2026-10-26T07:40:00+09:00",
-   "news_checked": "2026-10-26T07:40:00+09:00"
+   "checked": "2026-10-27T20:30:00+09:00",
+   "news_checked": "2026-10-27T20:30:00+09:00"
   },
   "竹内まりや": {
    "state": "no_events",
@@ -9827,13 +9890,13 @@
   },
   "Novelbright": {
    "state": "ok",
-   "checked": "2026-10-26T14:14:16+09:00",
-   "news_checked": "2026-10-26T14:14:16+09:00"
+   "checked": "2026-10-27T20:30:00+09:00",
+   "news_checked": "2026-10-27T20:30:00+09:00"
   },
   "THE ALFEE": {
    "state": "ok",
-   "checked": "2026-10-26T14:14:16+09:00",
-   "news_checked": "2026-10-26T14:14:16+09:00"
+   "checked": "2026-10-27T20:30:00+09:00",
+   "news_checked": "2026-10-27T20:30:00+09:00"
   }
  }
 }
