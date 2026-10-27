@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T07:50:00+09:00",
+ "updated": "2026-10-28T08:18:58+09:00",
  "artists": [
   "04 Limited Sazabys",
   "ELLEGARDEN",
@@ -35,7 +35,8 @@
   "福山雅治",
   "竹内まりや",
   "Novelbright",
-  "THE ALFEE"
+  "THE ALFEE",
+  "バブルガム・ブラザーズ"
  ],
  "events": [
   {
@@ -9930,6 +9931,12 @@
   "THE ALFEE": [
    "アルフィー",
    "ジ・アルフィー"
+  ],
+  "バブルガム・ブラザーズ": [
+   "DA BUBBLEGUM BROTHERS",
+   "Bubblegum Brothers",
+   "バブルガムブラザーズ",
+   "バブルガム"
   ]
  },
  "rejected": [
@@ -10121,6 +10128,11 @@
    "state": "ok",
    "checked": "2026-10-27T20:30:00+09:00",
    "news_checked": "2026-10-27T20:30:00+09:00"
+  },
+  "バブルガム・ブラザーズ": {
+   "state": "no_events",
+   "checked": "2026-10-28T08:18:58+09:00",
+   "news_checked": "2026-10-28T08:18:58+09:00"
   }
  }
 }
