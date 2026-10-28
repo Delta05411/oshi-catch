@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T08:23:24+09:00",
+ "updated": "2026-10-28T11:35:00+09:00",
  "artists": [
   "04 Limited Sazabys",
   "ELLEGARDEN",
@@ -38,7 +38,8 @@
   "THE ALFEE",
   "バブルガム・ブラザーズ",
   "Bro.KORN",
-  "ブラザートム"
+  "ブラザートム",
+  "Aimer"
  ],
  "events": [
   {
@@ -9784,6 +9785,10 @@
   "Novelbright": {
    "official": "https://novelbright.jp/",
    "news": "https://novelbright.jp/news/"
+  },
+  "Aimer": {
+   "official": "https://www.aimer-web.jp/",
+   "eplus": "https://eplus.jp/sf/word/0000065361"
   }
  },
  "aliases": {
@@ -9948,6 +9953,11 @@
    "Bro.Tom",
    "Brother Tom",
    "ブラザー・トム"
+  ],
+  "Aimer": [
+   "エメ",
+   "aimer",
+   "AIMER"
   ]
  },
  "rejected": [
@@ -10152,6 +10162,10 @@
   "ブラザートム": {
    "state": "no_events",
    "checked": "2026-10-28T08:23:24+09:00"
+  },
+  "Aimer": {
+   "state": "no_events",
+   "checked": "2026-10-28T11:35:00+09:00"
   }
  }
 }
