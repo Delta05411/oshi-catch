@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T20:45:00+09:00",
+ "updated": "2026-10-29T07:40:00+09:00",
  "artists": [
   "04 Limited Sazabys",
   "ELLEGARDEN",
@@ -1757,6 +1757,16 @@
    "confidence": "high"
   },
   {
+   "artist": "Novelbright",
+   "date": "2026-11-21",
+   "title": "テレビ朝日ドリームフェスティバル2026",
+   "kind": "フェス",
+   "venue": "Kアリーナ横浜（神奈川）",
+   "sale_info": "開演15:00予定。出演はNovelbright公式LIVE欄の掲載のみ（外部の裏取り未了）",
+   "source_url": "https://novelbright.jp/",
+   "confidence": "low"
+  },
+  {
    "artist": "9mm Parabellum Bullet",
    "date": "2026-11-22",
    "title": "9mm Parabellum Bullet Tour 2026-27「Raison d’être」",
@@ -2287,6 +2297,17 @@
    "confidence": "high"
   },
   {
+   "artist": "ORAL CIGARETTES",
+   "date": "2026-11-28",
+   "title": "HEY-SMITH「ALL OVER JAPAN TOUR」",
+   "kind": "対バン",
+   "venue": "佐賀GEILS（佐賀）",
+   "with": "HEY-SMITH",
+   "sale_info": "SOLD OUT",
+   "source_url": "https://theoralcigarettes.com/news/list/4",
+   "confidence": "high"
+  },
+  {
    "artist": "9mm Parabellum Bullet",
    "date": "2026-11-29",
    "title": "9mm Parabellum Bullet Tour 2026-27「Raison d’être」",
@@ -2413,6 +2434,17 @@
    "with": "go!go!vanillas"
   },
   {
+   "artist": "ORAL CIGARETTES",
+   "date": "2026-11-29",
+   "title": "HEY-SMITH「ALL OVER JAPAN TOUR」",
+   "kind": "対バン",
+   "venue": "Zepp Fukuoka（福岡）",
+   "with": "HEY-SMITH",
+   "sale_info": "SOLD OUT",
+   "source_url": "https://theoralcigarettes.com/news/list/4",
+   "confidence": "high"
+  },
+  {
    "artist": "10-FEET",
    "date": "2026-11-30",
    "title": "WstudioRED 10th ANNIVERSARY LIVE -EXTRA STAGE-",
@@ -2448,6 +2480,24 @@
    "kind": "ワンマン",
    "venue": "日本武道館（東京）",
    "source_url": "https://realsound.jp/2026/07/post-2462631.html",
+   "confidence": "high"
+  },
+  {
+   "artist": "9mm Parabellum Bullet",
+   "date": "2026-12-01",
+   "title": "THE SUN ALSO RISES vol.422 (F.A.D 30th Anniversary)",
+   "kind": "対バン",
+   "venue": "F.A.D YOKOHAMA（神奈川）",
+   "with": "フルカワユタカ",
+   "sale_info": "前売4,000円（別途ドリンク600円）。e+先着は10/4 10:00〜",
+   "sales": [
+    {
+     "label": "e+先着",
+     "start": "2026-10-04",
+     "note": "10:00〜"
+    }
+   ],
+   "source_url": "https://9mm.jp/live.php",
    "confidence": "high"
   },
   {
@@ -3313,6 +3363,24 @@
    "sale_info": "6,000円"
   },
   {
+   "artist": "ORAL CIGARETTES",
+   "date": "2026-12-15",
+   "title": "NEVERLAND 30TH ANNIVERSARY \"NEVERLAND FOREVER\"",
+   "kind": "イベント",
+   "venue": "Live House NEVERLAND（奈良）",
+   "sale_info": "6,000円（オールスタンディング）",
+   "sales": [
+    {
+     "label": "一般先行",
+     "start": "2026-10-22",
+     "end": "2026-10-28",
+     "note": "12:00〜23:59"
+    }
+   ],
+   "source_url": "https://theoralcigarettes.com/news/list/4",
+   "confidence": "low"
+  },
+  {
    "artist": "9mm Parabellum Bullet",
    "date": "2026-12-16",
    "title": "SHINJUKU LOFT 50th ANNIVERSARY DREAM MATCH 2026（9mm × KANA-BOON 2マン）",
@@ -3457,6 +3525,16 @@
    ]
   },
   {
+   "artist": "THE ALFEE",
+   "date": "2026-12-18",
+   "title": "THE ALFEE Winter Celebration 2026「Moonlight Rhapsody III」",
+   "kind": "ワンマン",
+   "venue": "静岡エコパアリーナ（静岡）",
+   "sale_info": "9,900円",
+   "source_url": "https://s.alfee.com/news/live/2026a/final.asp",
+   "confidence": "high"
+  },
+  {
    "artist": "BUMP OF CHICKEN",
    "date": "2026-12-19",
    "title": "BUMP OF CHICKEN TOUR 2026-2027 Ratio Clavis",
@@ -3558,6 +3636,16 @@
     }
    ],
    "source_url": "https://lasvegas-jp.com/topics/9283",
+   "confidence": "high"
+  },
+  {
+   "artist": "THE ALFEE",
+   "date": "2026-12-19",
+   "title": "THE ALFEE Winter Celebration 2026「Moonlight Rhapsody III」",
+   "kind": "ワンマン",
+   "venue": "静岡エコパアリーナ（静岡）",
+   "sale_info": "9,900円",
+   "source_url": "https://s.alfee.com/news/live/2026a/final.asp",
    "confidence": "high"
   },
   {
@@ -3711,6 +3799,16 @@
    "with": "THE FOREVER YOUNG"
   },
   {
+   "artist": "THE ALFEE",
+   "date": "2026-12-23",
+   "title": "THE ALFEE Winter Celebration 2026「Moonlight Rhapsody III」",
+   "kind": "ワンマン",
+   "venue": "日本武道館（東京）",
+   "sale_info": "9,900円",
+   "source_url": "https://s.alfee.com/news/live/2026a/final.asp",
+   "confidence": "high"
+  },
+  {
    "artist": "[Alexandros]",
    "date": "2026-12-24",
    "title": "川上洋平 TOUR #room665",
@@ -3730,6 +3828,16 @@
    ],
    "ticket_name": "イープラス",
    "ticket_url": "https://eplus.jp/yooheikawakami/"
+  },
+  {
+   "artist": "THE ALFEE",
+   "date": "2026-12-24",
+   "title": "THE ALFEE Winter Celebration 2026「Moonlight Rhapsody III」",
+   "kind": "ワンマン",
+   "venue": "日本武道館（東京）",
+   "sale_info": "9,900円",
+   "source_url": "https://s.alfee.com/news/live/2026a/final.asp",
+   "confidence": "high"
   },
   {
    "artist": "[Alexandros]",
@@ -4240,6 +4348,16 @@
    "confidence": "low"
   },
   {
+   "artist": "THE ALFEE",
+   "date": "2026-12-29",
+   "title": "THE ALFEE Winter Celebration 2026「Moonlight Rhapsody III」",
+   "kind": "ワンマン",
+   "venue": "大阪城ホール（大阪）",
+   "sale_info": "9,900円",
+   "source_url": "https://s.alfee.com/news/live/2026a/final.asp",
+   "confidence": "high"
+  },
+  {
    "artist": "ROTTENGRAFFTY",
    "date": "2026-12-30",
    "title": "J 2026「放火魔大暴年会」（2025年12/30公演の振替開催）",
@@ -4335,6 +4453,16 @@
    "sale_info": "開演16:00。アリーナ15,500円／スタンド12,500円。FC最速先行は9/16終了。一般発売日は未確認",
    "source_url": "https://natalie.mu/music/news/687225",
    "confidence": "low"
+  },
+  {
+   "artist": "TenTwenty",
+   "date": "2026-12-31",
+   "title": "COUNTDOWN JAPAN 26/27（12/31）",
+   "kind": "フェス",
+   "venue": "幕張メッセ 国際展示場（千葉）",
+   "sale_info": "公式サイト記載：開場12:30 開演15:40",
+   "source_url": "https://tentwenty-web.com/",
+   "confidence": "high"
   },
   {
    "artist": "SiM",
@@ -5633,6 +5761,17 @@
    "confidence": "high"
   },
   {
+   "artist": "ORAL CIGARETTES",
+   "date": "2027-02-27",
+   "title": "Jack in tour 2027",
+   "kind": "対バン",
+   "venue": "なんばHatch（大阪）",
+   "with": "KANA-BOON",
+   "sale_info": "出演は公式LIVE一覧の記載のみ（外部で未確認）",
+   "source_url": "https://theoralcigarettes.com/news/list/4",
+   "confidence": "low"
+  },
+  {
    "artist": "Mrs. GREEN APPLE",
    "date": "2027-02-28",
    "title": "Harmony2",
@@ -5663,6 +5802,17 @@
    ],
    "source_url": "https://g-freakfactory.com/contents/1121518",
    "confidence": "high"
+  },
+  {
+   "artist": "ORAL CIGARETTES",
+   "date": "2027-02-28",
+   "title": "Jack in tour 2027",
+   "kind": "対バン",
+   "venue": "なんばHatch（大阪）",
+   "with": "KANA-BOON",
+   "sale_info": "出演は公式LIVE一覧の記載のみ（外部で未確認）",
+   "source_url": "https://theoralcigarettes.com/news/list/4",
+   "confidence": "low"
   },
   {
    "artist": "HEY-SMITH",
@@ -9784,7 +9934,8 @@
   "04 Limited Sazabys": {
    "official": "https://www.04limitedsazabys.com/",
    "image": "https://www.04limitedsazabys.com/ogp_img.png",
-   "news": "https://www.04limitedsazabys.com/news"
+   "news": "https://www.04limitedsazabys.com/news",
+   "schedule": "https://www.04limitedsazabys.com/schedule"
   },
   "ORAL CIGARETTES": {
    "official": "https://theoralcigarettes.com/",
@@ -10081,8 +10232,8 @@
   },
   "04 Limited Sazabys": {
    "state": "ok",
-   "checked": "2026-10-27T20:30:00+09:00",
-   "news_checked": "2026-10-27T20:30:00+09:00"
+   "checked": "2026-10-29T07:40:00+09:00",
+   "news_checked": "2026-10-29T07:40:00+09:00"
   },
   "ELLEGARDEN": {
    "state": "ok",
@@ -10092,13 +10243,13 @@
   },
   "ヤバイTシャツ屋さん": {
    "state": "ok",
-   "checked": "2026-10-28T07:50:00+09:00",
-   "news_checked": "2026-10-28T07:50:00+09:00"
+   "checked": "2026-10-29T07:40:00+09:00",
+   "news_checked": "2026-10-29T07:40:00+09:00"
   },
   "ORAL CIGARETTES": {
    "state": "ok",
-   "checked": "2026-10-28T07:50:00+09:00",
-   "news_checked": "2026-10-28T07:50:00+09:00"
+   "checked": "2026-10-29T07:40:00+09:00",
+   "news_checked": "2026-10-29T07:40:00+09:00"
   },
   "HEY-SMITH": {
    "state": "ok",
@@ -10162,23 +10313,23 @@
   },
   "coldrain": {
    "state": "ok",
-   "checked": "2026-10-27T07:30:00+09:00",
-   "news_checked": "2026-10-27T07:30:00+09:00"
+   "checked": "2026-10-29T07:40:00+09:00",
+   "news_checked": "2026-10-29T07:40:00+09:00"
   },
   "TenTwenty": {
    "state": "ok",
-   "checked": "2026-10-27T20:30:00+09:00",
-   "news_checked": "2026-10-27T20:30:00+09:00"
+   "checked": "2026-10-29T07:40:00+09:00",
+   "news_checked": "2026-10-29T07:40:00+09:00"
   },
   "Wienners": {
    "state": "ok",
-   "checked": "2026-10-27T07:30:00+09:00",
-   "news_checked": "2026-10-27T07:30:00+09:00"
+   "checked": "2026-10-29T07:40:00+09:00",
+   "news_checked": "2026-10-29T07:40:00+09:00"
   },
   "ハルカミライ": {
    "state": "ok",
-   "checked": "2026-10-27T07:30:00+09:00",
-   "news_checked": "2026-10-27T07:30:00+09:00"
+   "checked": "2026-10-29T07:40:00+09:00",
+   "news_checked": "2026-10-29T07:40:00+09:00"
   },
   "UNISON SQUARE GARDEN": {
    "state": "no_events",
@@ -10188,13 +10339,13 @@
   },
   "Fear, and Loathing in Las Vegas": {
    "state": "ok",
-   "checked": "2026-10-27T20:30:00+09:00",
-   "news_checked": "2026-10-27T20:30:00+09:00"
+   "checked": "2026-10-29T07:40:00+09:00",
+   "news_checked": "2026-10-29T07:40:00+09:00"
   },
   "9mm Parabellum Bullet": {
    "state": "ok",
-   "checked": "2026-10-27T20:30:00+09:00",
-   "news_checked": "2026-10-27T20:30:00+09:00"
+   "checked": "2026-10-29T07:40:00+09:00",
+   "news_checked": "2026-10-29T07:40:00+09:00"
   },
   "斎藤宏介": {
    "state": "ok",
@@ -10203,8 +10354,8 @@
   },
   "BUMP OF CHICKEN": {
    "state": "ok",
-   "checked": "2026-10-27T20:30:00+09:00",
-   "news_checked": "2026-10-27T20:30:00+09:00"
+   "checked": "2026-10-29T07:40:00+09:00",
+   "news_checked": "2026-10-29T07:40:00+09:00"
   },
   "ブランデー戦記": {
    "state": "ok",
@@ -10218,13 +10369,13 @@
   },
   "久石譲": {
    "state": "ok",
-   "checked": "2026-10-27T20:30:00+09:00",
-   "news_checked": "2026-10-27T20:30:00+09:00"
+   "checked": "2026-10-29T07:40:00+09:00",
+   "news_checked": "2026-10-29T07:40:00+09:00"
   },
   "福山雅治": {
    "state": "ok",
-   "checked": "2026-10-27T20:30:00+09:00",
-   "news_checked": "2026-10-27T20:30:00+09:00"
+   "checked": "2026-10-29T07:40:00+09:00",
+   "news_checked": "2026-10-29T07:40:00+09:00"
   },
   "竹内まりや": {
    "state": "no_events",
@@ -10233,13 +10384,13 @@
   },
   "Novelbright": {
    "state": "ok",
-   "checked": "2026-10-27T20:30:00+09:00",
-   "news_checked": "2026-10-27T20:30:00+09:00"
+   "checked": "2026-10-29T07:40:00+09:00",
+   "news_checked": "2026-10-29T07:40:00+09:00"
   },
   "THE ALFEE": {
    "state": "ok",
-   "checked": "2026-10-27T20:30:00+09:00",
-   "news_checked": "2026-10-27T20:30:00+09:00"
+   "checked": "2026-10-29T07:40:00+09:00",
+   "news_checked": "2026-10-29T07:40:00+09:00"
   },
   "バブルガム・ブラザーズ": {
    "state": "no_events",
