@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T11:35:00+09:00",
+ "updated": "2026-10-28T20:45:00+09:00",
  "artists": [
   "04 Limited Sazabys",
   "ELLEGARDEN",
@@ -457,6 +457,17 @@
    "source_url": "https://eplus.jp/sf/detail/0069680001",
    "confidence": "high",
    "with": "10-FEET"
+  },
+  {
+   "artist": "HEY-SMITH",
+   "date": "2026-11-02",
+   "title": "音響空調爆上げGIG",
+   "kind": "対バン",
+   "venue": "滋賀（U☆STONE）",
+   "source_url": "https://hey-smith.com/live?y=2026&m=11",
+   "confidence": "high",
+   "with": "Exes on TV, sly cat girl",
+   "sale_info": "ADV 4,400円・SOLD OUT"
   },
   {
    "artist": "ELLEGARDEN",
@@ -1857,6 +1868,16 @@
    ],
    "source_url": "https://eplus.jp/sf/detail/2669250001-P0030004P021001",
    "confidence": "high"
+  },
+  {
+   "artist": "HEY-SMITH",
+   "date": "2026-11-22",
+   "title": "「天和」2026",
+   "kind": "その他",
+   "venue": "愛知（名古屋COMTEC PORTBASE）",
+   "source_url": "https://hey-smith.com/live?y=2026&m=11",
+   "confidence": "high",
+   "sale_info": "オフィシャル先行あり（w.pia.jp）"
   },
   {
    "artist": "ROTTENGRAFFTY",
@@ -3260,6 +3281,17 @@
    "confidence": "high"
   },
   {
+   "artist": "HEY-SMITH",
+   "date": "2026-12-14",
+   "title": "SKAramble Japan",
+   "kind": "対バン",
+   "venue": "愛知（名古屋COMTEC PORTBASE）",
+   "source_url": "https://hey-smith.com/live?y=2026&m=12",
+   "confidence": "high",
+   "with": "東京スカパラダイスオーケストラ 他",
+   "sale_info": "1F 6,000円／2F 6,500円"
+  },
+  {
    "artist": "Mrs. GREEN APPLE",
    "date": "2026-12-15",
    "title": "Mrs. GREEN APPLE Ringo Jam Tour “SHADOWS”",
@@ -3268,6 +3300,17 @@
    "sale_info": "ファンクラブ先行あり。一般発売は公式で要確認",
    "source_url": "https://mrsgreenapple.com/feature/ringojamtour_shadows",
    "confidence": "high"
+  },
+  {
+   "artist": "HEY-SMITH",
+   "date": "2026-12-15",
+   "title": "SKAramble Japan",
+   "kind": "対バン",
+   "venue": "大阪（GORILLA HALL OSAKA）",
+   "source_url": "https://hey-smith.com/live?y=2026&m=12",
+   "confidence": "high",
+   "with": "東京スカパラダイスオーケストラ 他",
+   "sale_info": "6,000円"
   },
   {
    "artist": "9mm Parabellum Bullet",
@@ -3370,6 +3413,17 @@
    ],
    "source_url": "https://cinemastaff.net/schedule/6931/",
    "confidence": "high"
+  },
+  {
+   "artist": "HEY-SMITH",
+   "date": "2026-12-17",
+   "title": "SKAramble Japan",
+   "kind": "対バン",
+   "venue": "神奈川（KT Zepp Yokohama）",
+   "source_url": "https://hey-smith.com/live?y=2026&m=12",
+   "confidence": "high",
+   "with": "東京スカパラダイスオーケストラ 他",
+   "sale_info": "1F 6,000円／2F 6,500円"
   },
   {
    "artist": "a flood of circle",
@@ -3588,6 +3642,32 @@
    "confidence": "high"
   },
   {
+   "artist": "Bro.KORN",
+   "date": "2026-12-20",
+   "title": "～ジジイがChristmasにやってくる!～バブルガム･ブラザーズ LAST LIVE Vol.3～マジで最後だ",
+   "kind": "ワンマン",
+   "venue": "東京都（BLUES ALLEY JAPAN）",
+   "with": "バブルガム・ブラザーズ名義",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/4593520001-P0030001P021001?P1=0175",
+   "sale_info": "先着。昼の部 開場14:30/開演15:30、夜の部 開場18:00/開演19:00（2回公演）",
+   "source_url": "https://eplus.jp/sf/word/0000039568",
+   "confidence": "low"
+  },
+  {
+   "artist": "ブラザートム",
+   "date": "2026-12-20",
+   "title": "～ジジイがChristmasにやってくる!～バブルガム･ブラザーズ LAST LIVE Vol.3～マジで最後だ",
+   "kind": "ワンマン",
+   "venue": "東京都（BLUES ALLEY JAPAN）",
+   "with": "バブルガム・ブラザーズ名義",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/4593520001-P0030001P021001?P1=0175",
+   "sale_info": "先着。昼の部 開場14:30/開演15:30、夜の部 開場18:00/開演19:00（2回公演）",
+   "source_url": "https://eplus.jp/sf/word/0000039568",
+   "confidence": "low"
+  },
+  {
    "artist": "SiM",
    "date": "2026-12-22",
    "title": "マキシマム ザ ホルモン×SiM ～ゆく太、くる太～",
@@ -3683,6 +3763,17 @@
    "sale_info": "開演19:00",
    "source_url": "https://eplus.jp/hisaishi/",
    "confidence": "high"
+  },
+  {
+   "artist": "HEY-SMITH",
+   "date": "2026-12-25",
+   "title": "HEY-Xmas 2026",
+   "kind": "対バン",
+   "venue": "新潟（LOTS）",
+   "source_url": "https://hey-smith.com/live?y=2026&m=12",
+   "confidence": "high",
+   "with": "Northern19",
+   "sale_info": "ADV 4,800円"
   },
   {
    "kind": "フェス",
@@ -9975,8 +10066,8 @@
  "artist_status": {
   "Hi-STANDARD": {
    "state": "ok",
-   "checked": "2026-10-27T07:30:00+09:00",
-   "news_checked": "2026-10-27T07:30:00+09:00"
+   "checked": "2026-10-28T20:40:00+09:00",
+   "news_checked": "2026-10-28T20:40:00+09:00"
   },
   "Mrs. GREEN APPLE": {
    "state": "ok",
@@ -9985,8 +10076,8 @@
   },
   "back number": {
    "state": "ok",
-   "checked": "2026-10-27T07:30:00+09:00",
-   "news_checked": "2026-10-27T07:30:00+09:00"
+   "checked": "2026-10-28T20:40:00+09:00",
+   "news_checked": "2026-10-28T20:40:00+09:00"
   },
   "04 Limited Sazabys": {
    "state": "ok",
@@ -9995,9 +10086,9 @@
   },
   "ELLEGARDEN": {
    "state": "ok",
-   "checked": "2026-10-27T07:30:00+09:00",
+   "checked": "2026-10-28T20:40:00+09:00",
    "note": "10/23名古屋は延期（振替日程は調整中・未発表）",
-   "news_checked": "2026-10-27T07:30:00+09:00"
+   "news_checked": "2026-10-28T20:40:00+09:00"
   },
   "ヤバイTシャツ屋さん": {
    "state": "ok",
@@ -10011,18 +10102,18 @@
   },
   "HEY-SMITH": {
    "state": "ok",
-   "checked": "2026-10-27T07:30:00+09:00",
-   "news_checked": "2026-10-27T07:30:00+09:00"
+   "checked": "2026-10-28T20:40:00+09:00",
+   "news_checked": "2026-10-28T20:40:00+09:00"
   },
   "マキシマム ザ ホルモン": {
    "state": "ok",
-   "checked": "2026-10-28T07:50:00+09:00",
-   "news_checked": "2026-10-25T07:30:00+09:00"
+   "checked": "2026-10-28T20:40:00+09:00",
+   "news_checked": "2026-10-28T20:40:00+09:00"
   },
   "サンボマスター": {
    "state": "ok",
-   "checked": "2026-10-27T07:30:00+09:00",
-   "news_checked": "2026-10-27T07:30:00+09:00"
+   "checked": "2026-10-28T20:40:00+09:00",
+   "news_checked": "2026-10-28T20:40:00+09:00"
   },
   "あいみょん": {
    "state": "ok",
@@ -10055,19 +10146,19 @@
    "news_checked": "2026-10-28T07:50:00+09:00"
   },
   "RADWIMPS": {
-   "state": "no_events",
-   "checked": "2026-10-27T07:30:00+09:00",
-   "news_checked": "2026-10-27T07:30:00+09:00"
+   "state": "ok",
+   "checked": "2026-10-28T20:40:00+09:00",
+   "news_checked": "2026-10-28T20:40:00+09:00"
   },
   "a flood of circle": {
    "state": "ok",
-   "checked": "2026-10-27T07:30:00+09:00",
-   "news_checked": "2026-10-27T07:30:00+09:00"
+   "checked": "2026-10-28T20:40:00+09:00",
+   "news_checked": "2026-10-28T20:40:00+09:00"
   },
   "THE KEBABS": {
    "state": "ok",
-   "checked": "2026-10-27T07:30:00+09:00",
-   "news_checked": "2026-10-27T07:30:00+09:00"
+   "checked": "2026-10-28T20:40:00+09:00",
+   "news_checked": "2026-10-28T20:40:00+09:00"
   },
   "coldrain": {
    "state": "ok",
@@ -10091,9 +10182,9 @@
   },
   "UNISON SQUARE GARDEN": {
    "state": "no_events",
-   "checked": "2026-10-28T07:50:00+09:00",
+   "checked": "2026-10-28T20:40:00+09:00",
    "note": "2026-04-27に活動休止を発表。最終公演は2026-07-15。再開の発表なし",
-   "news_checked": "2026-10-26T07:40:00+09:00"
+   "news_checked": "2026-10-28T20:40:00+09:00"
   },
   "Fear, and Loathing in Las Vegas": {
    "state": "ok",
@@ -10137,8 +10228,8 @@
   },
   "竹内まりや": {
    "state": "no_events",
-   "checked": "2026-10-26T20:40:00+09:00",
-   "news_checked": "2026-10-26T20:40:00+09:00"
+   "checked": "2026-10-28T20:40:00+09:00",
+   "news_checked": "2026-10-28T20:40:00+09:00"
   },
   "Novelbright": {
    "state": "ok",
@@ -10156,16 +10247,19 @@
    "news_checked": "2026-10-28T08:18:58+09:00"
   },
   "Bro.KORN": {
-   "state": "no_events",
-   "checked": "2026-10-28T08:21:10+09:00"
+   "state": "ok",
+   "checked": "2026-10-28T20:40:00+09:00",
+   "news_checked": "2026-10-28T20:40:00+09:00"
   },
   "ブラザートム": {
-   "state": "no_events",
-   "checked": "2026-10-28T08:23:24+09:00"
+   "state": "ok",
+   "checked": "2026-10-28T20:40:00+09:00",
+   "news_checked": "2026-10-28T20:40:00+09:00"
   },
   "Aimer": {
    "state": "no_events",
-   "checked": "2026-10-28T11:35:00+09:00"
+   "checked": "2026-10-28T20:40:00+09:00",
+   "news_checked": "2026-10-28T20:40:00+09:00"
   }
  }
 }
