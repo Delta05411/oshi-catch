@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T07:06:00+09:00",
+ "updated": "2026-10-30T20:40:00+09:00",
  "artists": [
   "04 Limited Sazabys",
   "ELLEGARDEN",
@@ -106,8 +106,9 @@
    "ticket_name": "イープラス",
    "ticket_url": "https://eplus.jp/sf/word/0000033997",
    "sale_info": "開場17:00/開演18:00",
-   "source_url": "https://wienners.net/",
-   "confidence": "high"
+   "source_url": "https://natalie.mu/music/news/686462",
+   "confidence": "high",
+   "with": "粗品（霜降り明星）"
   },
   {
    "artist": "[Alexandros]",
@@ -220,8 +221,9 @@
    "venue": "仙台Rensa（宮城）",
    "ticket_name": "イープラス",
    "ticket_url": "https://eplus.jp/sf/detail/0524940001",
-   "source_url": "https://eplus.jp/sf/detail/0524940001",
-   "confidence": "low"
+   "source_url": "https://lasvegas-jp.com/live/9176",
+   "confidence": "high",
+   "sale_info": "開演18:00（完売表示）"
   },
   {
    "artist": "Wienners",
@@ -486,9 +488,9 @@
    "venue": "東京オペラシティ リサイタルホール（東京）",
    "ticket_name": "イープラス",
    "ticket_url": "https://eplus.jp/sf/detail/4591750001-P0030001P021001?P1=0175",
-   "sale_info": "開演19:00",
-   "source_url": "https://eplus.jp/hisaishi/",
-   "confidence": "low"
+   "sale_info": "11/3 19:00 東京オペラシティ リサイタルホール",
+   "source_url": "https://joehisaishi-concert.com/ycc-vol7/",
+   "confidence": "high"
   },
   {
    "artist": "04 Limited Sazabys",
@@ -1012,7 +1014,8 @@
      "start": "2026-10-19",
      "note": "10:00〜 ぴあ・イープラス・ローチケ"
     }
-   ]
+   ],
+   "with": "忘れらんねえよ"
   },
   {
    "artist": "ヤバイTシャツ屋さん",
@@ -1510,7 +1513,7 @@
    "ticket_url": "https://eplus.jp/sf/word/0000033997",
    "sale_info": "開場18:00/開演19:00",
    "source_url": "https://eplus.jp/sf/word/0000033997",
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "artist": "ハルカミライ",
@@ -1943,7 +1946,7 @@
    "ticket_url": "https://eplus.jp/sf/word/0000033997",
    "sale_info": "開場18:00/開演19:00",
    "source_url": "https://eplus.jp/sf/word/0000033997",
-   "confidence": "low",
+   "confidence": "high",
    "with": "04 Limited Sazabys"
   },
   {
@@ -3351,7 +3354,7 @@
     }
    ],
    "source_url": "https://theoralcigarettes.com/news/list/4",
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "artist": "9mm Parabellum Bullet",
@@ -3374,8 +3377,8 @@
      "note": "チケットぴあ"
     }
    ],
-   "source_url": "https://rooftop1976.com/news/2026/10/20180000.php",
-   "confidence": "low"
+   "source_url": "https://9mm.jp/live.php",
+   "confidence": "high"
   },
   {
    "artist": "Mrs. GREEN APPLE",
@@ -4087,8 +4090,18 @@
    "kind": "ワンマン",
    "venue": "Kアリーナ横浜（神奈川）",
    "sale_info": "開演16:00。アリーナ15,500円／スタンド12,500円。FC最速先行は9/16終了。一般発売日は未確認",
-   "source_url": "https://natalie.mu/music/news/687225",
-   "confidence": "low"
+   "source_url": "https://fmsp.amob.jp/mob/news/diarKijiShw.php?site=F&ima=0255&id=309128",
+   "confidence": "high"
+  },
+  {
+   "artist": "Novelbright",
+   "date": "2026-12-26",
+   "title": "COUNTDOWN JAPAN 26/27（12/26）",
+   "kind": "フェス",
+   "venue": "幕張メッセ国際展示場（千葉）",
+   "sale_info": "12/26〜31開催のうち12/26(土)出演",
+   "source_url": "https://novelbright.jp/news/detail/2525",
+   "confidence": "high"
   },
   {
    "artist": "Mrs. GREEN APPLE",
@@ -4161,8 +4174,8 @@
    "kind": "ワンマン",
    "venue": "Kアリーナ横浜（神奈川）",
    "sale_info": "開演16:00。アリーナ15,500円／スタンド12,500円。FC最速先行は9/16終了。一般発売日は未確認",
-   "source_url": "https://natalie.mu/music/news/687225",
-   "confidence": "low"
+   "source_url": "https://fmsp.amob.jp/mob/news/diarKijiShw.php?site=F&ima=0255&id=309128",
+   "confidence": "high"
   },
   {
    "artist": "04 Limited Sazabys",
@@ -4436,8 +4449,8 @@
    "kind": "ワンマン",
    "venue": "Kアリーナ横浜（神奈川）",
    "sale_info": "開演16:00。アリーナ15,500円／スタンド12,500円。FC最速先行は9/16終了。一般発売日は未確認",
-   "source_url": "https://natalie.mu/music/news/687225",
-   "confidence": "low"
+   "source_url": "https://fmsp.amob.jp/mob/news/diarKijiShw.php?site=F&ima=0255&id=309128",
+   "confidence": "high"
   },
   {
    "artist": "ROTTENGRAFFTY",
@@ -4561,8 +4574,8 @@
    "kind": "ワンマン",
    "venue": "Kアリーナ横浜（神奈川）",
    "sale_info": "開演16:00。アリーナ15,500円／スタンド12,500円。FC最速先行は9/16終了。一般発売日は未確認",
-   "source_url": "https://natalie.mu/music/news/687225",
-   "confidence": "low"
+   "source_url": "https://fmsp.amob.jp/mob/news/diarKijiShw.php?site=F&ima=0255&id=309128",
+   "confidence": "high"
   },
   {
    "artist": "SiM",
@@ -5499,8 +5512,8 @@
    "ticket_url": "https://eplus.jp/sf/detail/0178780001",
    "sale_info": "売切（公式）",
    "sales": [],
-   "source_url": "https://eplus.jp/sf/word/0000009226",
-   "confidence": "low"
+   "source_url": "https://9mm.jp/live.php",
+   "confidence": "high"
   },
   {
    "artist": "BUMP OF CHICKEN",
@@ -7411,15 +7424,6 @@
   }
  ],
  "festivals": [
-  {
-   "name": "Crazy Monsters Halloween Party",
-   "start": "2026-10-28",
-   "end": "2026-10-28",
-   "pref": "東京",
-   "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival",
-   "lineup_checked": "2026-10-24"
-  },
   {
    "name": "BE WONDERFUL!!",
    "start": "2026-10-31",
@@ -10265,6 +10269,17 @@
    "pref": "埼玉",
    "status": "unknown",
    "source_url": "https://www.ragnet.co.jp/rock-festival"
+  },
+  {
+   "name": "RAWFREQ（ローフリーク）",
+   "start": "2027-02-28",
+   "end": "2027-02-28",
+   "pref": "東京都",
+   "venue": "下北沢の複数のライブハウス（サーキット形式）",
+   "official_url": "https://www.tunecore.co.jp/wanted/rfq",
+   "status": "unknown",
+   "note": "出演者公開は2026年12月末頃予定",
+   "source_url": "https://www.tunecore.co.jp/wanted/rfq"
   }
  ],
  "artist_links": {
@@ -10314,7 +10329,8 @@
   "coldrain": {
    "official": "https://coldrain.jp/",
    "schedule": "https://coldrain.jp/blogs/live",
-   "image": "https://coldrain.jp/cdn/shop/files/CR_logo.jpg?v=1719561350"
+   "image": "https://coldrain.jp/cdn/shop/files/CR_logo.jpg?v=1719561350",
+   "news": "https://coldrain.jp/blogs/news"
   },
   "TenTwenty": {
    "official": "https://tentwenty-web.com/",
@@ -10372,7 +10388,8 @@
    "official": "https://theoralcigarettes.com/",
    "image": "https://theoralcigarettes.com/static/original/fanclub-pc/img/cmn/fb.png",
    "schedule": "https://theoralcigarettes.com/news/list/4",
-   "eplus": "https://eplus.jp/sf/word/0000044957"
+   "eplus": "https://eplus.jp/sf/word/0000044957",
+   "news": "https://theoralcigarettes.com/news/list/1"
   },
   "ELLEGARDEN": {
    "official": "https://ellegarden.jp/",
@@ -10421,7 +10438,9 @@
   },
   "UNISON SQUARE GARDEN": {
    "official": "https://www.unison-s-g.com/",
-   "image": "https://unison-s-g.com/usg_ogp.gif"
+   "image": "https://unison-s-g.com/usg_ogp.gif",
+   "schedule": "https://www.unison-s-g.com/live/",
+   "news": "(公式NEWSはJS描画で取得不可。natalie等で確認)"
   },
   "斎藤宏介": {
    "eplus": "https://eplus.jp/sf/word/0000062761"
@@ -10444,10 +10463,14 @@
   },
   "久石譲": {
    "eplus": "https://eplus.jp/hisaishi/",
-   "official": "https://www.joehisaishi.com/"
+   "official": "https://www.joehisaishi.com/",
+   "news": "https://joehisaishi.com/news",
+   "schedule": "https://joehisaishi.com/concert_category/2026/"
   },
   "福山雅治": {
-   "eplus": "https://eplus.jp/sf/word/0000000782"
+   "eplus": "https://eplus.jp/sf/word/0000000782",
+   "official": "https://www.fukuyamamasaharu.com/",
+   "news": "https://fmsp.amob.jp/mob/index.php?site=F&ima=0235"
   },
   "竹内まりや": {
    "official": "https://www.mariyat.co.jp/news",
@@ -10461,7 +10484,8 @@
   },
   "Novelbright": {
    "official": "https://novelbright.jp/",
-   "news": "https://novelbright.jp/news/"
+   "news": "https://novelbright.jp/",
+   "eplus": "https://eplus.jp/sf/word/0000069645"
   },
   "Aimer": {
    "official": "https://www.aimer-web.jp/",
@@ -10476,6 +10500,10 @@
    "schedule": "https://www.brotom.jp/live",
    "news": "https://www.brotom.jp/news",
    "pia": "https://t.pia.jp/pia/artist/artists.do?artistsCd=11023386"
+  },
+  "Bro.KORN": {
+   "official": "https://www.brotom.jp/",
+   "schedule": "https://www.brotom.jp/live"
   }
  },
  "aliases": {
@@ -10693,8 +10721,8 @@
   },
   "ORAL CIGARETTES": {
    "state": "ok",
-   "checked": "2026-10-29T07:40:00+09:00",
-   "news_checked": "2026-10-29T07:40:00+09:00"
+   "checked": "2026-10-30T20:40:00+09:00",
+   "news_checked": "2026-10-30T20:40:00+09:00"
   },
   "HEY-SMITH": {
    "state": "ok",
@@ -10758,39 +10786,39 @@
   },
   "coldrain": {
    "state": "ok",
-   "checked": "2026-10-29T07:40:00+09:00",
+   "checked": "2026-10-30T20:40:00+09:00",
    "news_checked": "2026-10-29T07:40:00+09:00"
   },
   "TenTwenty": {
    "state": "ok",
-   "checked": "2026-10-29T07:40:00+09:00",
-   "news_checked": "2026-10-29T07:40:00+09:00"
+   "checked": "2026-10-30T20:40:00+09:00",
+   "news_checked": "2026-10-30T20:40:00+09:00"
   },
   "Wienners": {
    "state": "ok",
-   "checked": "2026-10-29T07:40:00+09:00",
-   "news_checked": "2026-10-29T07:40:00+09:00"
+   "checked": "2026-10-30T20:40:00+09:00",
+   "news_checked": "2026-10-30T20:40:00+09:00"
   },
   "ハルカミライ": {
    "state": "ok",
-   "checked": "2026-10-29T07:40:00+09:00",
-   "news_checked": "2026-10-29T07:40:00+09:00"
+   "checked": "2026-10-30T20:40:00+09:00",
+   "news_checked": "2026-10-30T20:40:00+09:00"
   },
   "UNISON SQUARE GARDEN": {
    "state": "no_events",
-   "checked": "2026-10-28T20:40:00+09:00",
+   "checked": "2026-10-30T20:40:00+09:00",
    "note": "2026-04-27に活動休止を発表。最終公演は2026-07-15。再開の発表なし",
    "news_checked": "2026-10-28T20:40:00+09:00"
   },
   "Fear, and Loathing in Las Vegas": {
    "state": "ok",
-   "checked": "2026-10-29T07:40:00+09:00",
-   "news_checked": "2026-10-29T07:40:00+09:00"
+   "checked": "2026-10-30T20:40:00+09:00",
+   "news_checked": "2026-10-30T20:40:00+09:00"
   },
   "9mm Parabellum Bullet": {
    "state": "ok",
-   "checked": "2026-10-29T07:40:00+09:00",
-   "news_checked": "2026-10-29T07:40:00+09:00"
+   "checked": "2026-10-30T20:40:00+09:00",
+   "news_checked": "2026-10-30T20:40:00+09:00"
   },
   "斎藤宏介": {
    "state": "ok",
@@ -10799,8 +10827,8 @@
   },
   "BUMP OF CHICKEN": {
    "state": "ok",
-   "checked": "2026-10-29T07:40:00+09:00",
-   "news_checked": "2026-10-29T07:40:00+09:00"
+   "checked": "2026-10-30T20:40:00+09:00",
+   "news_checked": "2026-10-30T20:40:00+09:00"
   },
   "ブランデー戦記": {
    "state": "ok",
@@ -10814,13 +10842,13 @@
   },
   "久石譲": {
    "state": "ok",
-   "checked": "2026-10-29T07:40:00+09:00",
-   "news_checked": "2026-10-29T07:40:00+09:00"
+   "checked": "2026-10-30T20:40:00+09:00",
+   "news_checked": "2026-10-30T20:40:00+09:00"
   },
   "福山雅治": {
    "state": "ok",
-   "checked": "2026-10-29T07:40:00+09:00",
-   "news_checked": "2026-10-29T07:40:00+09:00"
+   "checked": "2026-10-30T20:40:00+09:00",
+   "news_checked": "2026-10-30T20:40:00+09:00"
   },
   "竹内まりや": {
    "state": "no_events",
@@ -10829,13 +10857,13 @@
   },
   "Novelbright": {
    "state": "ok",
-   "checked": "2026-10-29T07:40:00+09:00",
-   "news_checked": "2026-10-29T07:40:00+09:00"
+   "checked": "2026-10-30T20:40:00+09:00",
+   "news_checked": "2026-10-30T20:40:00+09:00"
   },
   "THE ALFEE": {
    "state": "ok",
-   "checked": "2026-10-29T07:40:00+09:00",
-   "news_checked": "2026-10-29T07:40:00+09:00"
+   "checked": "2026-10-30T20:40:00+09:00",
+   "news_checked": "2026-10-30T20:40:00+09:00"
   },
   "バブルガム・ブラザーズ": {
    "state": "no_events",
@@ -10844,7 +10872,7 @@
   },
   "Bro.KORN": {
    "state": "ok",
-   "checked": "2026-10-28T20:40:00+09:00",
+   "checked": "2026-10-30T20:40:00+09:00",
    "news_checked": "2026-10-28T20:40:00+09:00"
   },
   "ブラザートム": {
