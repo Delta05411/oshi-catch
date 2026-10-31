@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T07:40:00+09:00",
+ "updated": "2026-10-31T20:30:00+09:00",
  "artists": [
   "04 Limited Sazabys",
   "ELLEGARDEN",
@@ -1427,6 +1427,17 @@
    ],
    "source_url": "https://www.brotom.jp/live",
    "confidence": "high"
+  },
+  {
+   "artist": "Bro.KORN",
+   "date": "2026-11-16",
+   "title": "GORO 還暦 PARTY（還暦＆ソロアルバム『FUZZと野良犬』リリース記念ライブ）",
+   "kind": "ワンマン",
+   "venue": "会場は要確認（公式LIVEページ参照）",
+   "sale_info": "価格・販売情報は未確認",
+   "sales": [],
+   "source_url": "https://www.brotom.jp/live",
+   "confidence": "low"
   },
   {
    "artist": "04 Limited Sazabys",
@@ -2909,7 +2920,16 @@
    "venue": "豊洲PIT（東京）",
    "sale_info": "スタンディング6,800円（税込・別途ドリンク代）",
    "source_url": "https://coldrain.jp/blogs/live",
-   "confidence": "high"
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "一般発売",
+     "start": "2026-10-31",
+     "end": "2026-12-07",
+     "url": "https://eplus.jp/sf/detail/0289920001",
+     "note": "イープラス 10:00開始〜12/7 18:00"
+    }
+   ]
   },
   {
    "artist": "ELLEGARDEN",
@@ -8629,9 +8649,35 @@
    "start": "2026-11-14",
    "end": "2026-11-14",
    "pref": "大阪",
-   "status": "unknown",
+   "status": "lineup",
    "source_url": "https://www.ragnet.co.jp/rock-festival",
-   "lineup_checked": "2026-10-19"
+   "lineup_checked": "2026-10-31",
+   "lineup": [
+    "愛はズボーン",
+    "アイアムアイ",
+    "アフターアワーズ",
+    "アフターソウル",
+    "炙りなタウン",
+    "さらば帝国",
+    "空きっ腹に酒",
+    "ザ ニンクス",
+    "ハダカエフダ",
+    "ビレッジマンズストア",
+    "FATE BOX",
+    "フリージアン",
+    "mogari",
+    "夜の本気ダンス",
+    "Alaska Jam"
+   ],
+   "official_url": "https://iwzbn.com/",
+   "sales": [
+    {
+     "label": "第1弾チケット(イープラス)",
+     "start": "2026-07-25",
+     "url": "https://eplus.jp/sf/word/0000159089",
+     "note": "締切は記載なし"
+    }
+   ]
   },
   {
    "name": "宇土ROCKフェスティバル",
@@ -9145,11 +9191,52 @@
    "end": "2026-12-06",
    "pref": "東京都",
    "venue": "代々木公園イベント広場 / LINE CUBE SHIBUYA",
-   "status": "unknown",
-   "lineup": [],
-   "lineup_checked": "2026-10-29",
+   "status": "lineup",
+   "lineup": [
+    "別所哲也",
+    "加藤和樹",
+    "杉本ラララ",
+    "五条院凌",
+    "石川紅奈(soraya)",
+    "高木大丈夫",
+    "長澤樹",
+    "綾戸智恵",
+    "大貫妙子",
+    "大橋トリオ",
+    "luvis",
+    "さらさ",
+    "スーパー登山部",
+    "天々高々",
+    "the Po",
+    "Rol3ert"
+   ],
+   "lineup_checked": "2026-10-31",
    "source_url": "https://www.ragnet.co.jp/music-festival-winter",
-   "official_url": "https://www.j-wave.co.jp/special/inspiretokyo/"
+   "official_url": "https://www.j-wave.co.jp/special/inspiretokyo/",
+   "lineup_days": {
+    "2026-12-04": [
+     "別所哲也",
+     "加藤和樹",
+     "杉本ラララ",
+     "五条院凌",
+     "石川紅奈(soraya)",
+     "高木大丈夫",
+     "長澤樹",
+     "綾戸智恵"
+    ],
+    "2026-12-05": [
+     "大貫妙子",
+     "大橋トリオ",
+     "luvis",
+     "さらさ",
+     "スーパー登山部"
+    ],
+    "2026-12-06": [
+     "天々高々",
+     "the Po",
+     "Rol3ert"
+    ]
+   }
   },
   {
    "name": "BLAZE UP NAGASAKI",
@@ -10072,9 +10159,11 @@
     "稲葉浩志",
     "FM802＆怒髪天 presents レディクレ歌合戦",
     "802 PSY TONE RADIO in レディクレ",
-    "YUKI"
+    "YUKI",
+    "『802 PSY TONE RADIO』in レディクレ",
+    "milet"
    ],
-   "lineup_checked": "2026-10-27",
+   "lineup_checked": "2026-10-31",
    "sales": [
     {
      "label": "オフィシャル3次抽選",
@@ -10302,13 +10391,62 @@
     "BLUE ENCOUNT",
     "HEY-SMITH"
    ],
-   "lineup_checked": "2026-10-26",
+   "lineup_checked": "2026-10-31",
    "sales": [
     {
-     "label": "ローソンプレリク",
+     "label": "第1弾出演者FC先行",
+     "start": "2026-07-21",
+     "end": "2026-07-26",
+     "url": "https://fc.frederic-official.com/news/detail/3730",
+     "note": "終了"
+    },
+    {
+     "label": "オフィシャル先行",
+     "start": "2026-07-29",
+     "end": "2026-08-03",
+     "url": "https://eplus.jp/hypelikeit/",
+     "note": "終了"
+    },
+    {
+     "label": "オフィシャル2次先行",
+     "start": "2026-08-07",
+     "end": "2026-08-16",
+     "url": "https://eplus.jp/hypelikeit/",
+     "note": "終了"
+    },
+    {
+     "label": "ファミリーマート先行",
+     "start": "2026-08-18",
+     "end": "2026-08-24",
+     "url": "https://eplus.jp/hypelikeit/",
+     "note": "終了"
+    },
+    {
+     "label": "ぴあプレリザーブ",
+     "start": "2026-10-02",
+     "end": "2026-10-12",
+     "url": "https://w.pia.jp/t/hype-like-it/",
+     "note": "終了"
+    },
+    {
+     "label": "イープラスプレオーダー1st",
+     "start": "2026-10-02",
+     "end": "2026-10-12",
+     "url": "https://eplus.jp/hypelikeit/",
+     "note": "終了"
+    },
+    {
+     "label": "ローソンプレリクエスト",
      "start": "2026-10-16",
      "end": "2026-10-25",
      "url": "https://l-tike.com/hypelikeit/",
+     "note": "終了"
+    },
+    {
+     "label": "イープラスプレオーダー2nd",
+     "start": "2026-10-16",
+     "end": "2026-10-25",
+     "url": "https://eplus.jp/hypelikeit/",
      "note": "終了"
     }
    ],
@@ -11076,23 +11214,23 @@
  "artist_status": {
   "Hi-STANDARD": {
    "state": "ok",
-   "checked": "2026-10-28T20:40:00+09:00",
-   "news_checked": "2026-10-30T07:06:00+09:00"
+   "checked": "2026-10-31T20:30:00+09:00",
+   "news_checked": "2026-10-31T20:30:00+09:00"
   },
   "Mrs. GREEN APPLE": {
    "state": "ok",
-   "checked": "2026-10-28T07:50:00+09:00",
-   "news_checked": "2026-10-30T07:06:00+09:00"
+   "checked": "2026-10-31T20:30:00+09:00",
+   "news_checked": "2026-10-31T20:30:00+09:00"
   },
   "back number": {
    "state": "ok",
-   "checked": "2026-10-28T20:40:00+09:00",
-   "news_checked": "2026-10-30T07:06:00+09:00"
+   "checked": "2026-10-31T20:30:00+09:00",
+   "news_checked": "2026-10-31T20:30:00+09:00"
   },
   "04 Limited Sazabys": {
    "state": "ok",
-   "checked": "2026-10-29T07:40:00+09:00",
-   "news_checked": "2026-10-30T07:06:00+09:00"
+   "checked": "2026-10-31T20:30:00+09:00",
+   "news_checked": "2026-10-31T20:30:00+09:00"
   },
   "ELLEGARDEN": {
    "state": "ok",
@@ -11102,8 +11240,8 @@
   },
   "ヤバイTシャツ屋さん": {
    "state": "ok",
-   "checked": "2026-10-29T07:40:00+09:00",
-   "news_checked": "2026-10-30T07:06:00+09:00"
+   "checked": "2026-10-31T20:30:00+09:00",
+   "news_checked": "2026-10-31T20:30:00+09:00"
   },
   "ORAL CIGARETTES": {
    "state": "ok",
@@ -11117,18 +11255,18 @@
   },
   "マキシマム ザ ホルモン": {
    "state": "ok",
-   "checked": "2026-10-29T20:30:00+09:00",
+   "checked": "2026-10-31T20:30:00+09:00",
    "news_checked": "2026-10-29T20:30:00+09:00"
   },
   "サンボマスター": {
    "state": "ok",
-   "checked": "2026-10-28T20:40:00+09:00",
-   "news_checked": "2026-10-30T07:06:00+09:00"
+   "checked": "2026-10-31T20:30:00+09:00",
+   "news_checked": "2026-10-31T20:30:00+09:00"
   },
   "あいみょん": {
    "state": "ok",
-   "checked": "2026-10-29T20:30:00+09:00",
-   "news_checked": "2026-10-29T20:30:00+09:00"
+   "checked": "2026-10-31T20:30:00+09:00",
+   "news_checked": "2026-10-31T20:30:00+09:00"
   },
   "10-FEET": {
    "state": "ok",
@@ -11172,7 +11310,7 @@
   },
   "coldrain": {
    "state": "ok",
-   "checked": "2026-10-30T20:40:00+09:00",
+   "checked": "2026-10-31T20:30:00+09:00",
    "news_checked": "2026-10-29T07:40:00+09:00"
   },
   "TenTwenty": {
@@ -11192,7 +11330,7 @@
   },
   "UNISON SQUARE GARDEN": {
    "state": "no_events",
-   "checked": "2026-10-30T20:40:00+09:00",
+   "checked": "2026-10-31T20:30:00+09:00",
    "note": "2026-04-27に活動休止を発表。最終公演は2026-07-15。再開の発表なし",
    "news_checked": "2026-10-28T20:40:00+09:00"
   },
@@ -11208,8 +11346,8 @@
   },
   "斎藤宏介": {
    "state": "ok",
-   "checked": "2026-10-29T20:30:00+09:00",
-   "news_checked": "2026-10-29T20:30:00+09:00"
+   "checked": "2026-10-31T20:30:00+09:00",
+   "news_checked": "2026-10-31T20:30:00+09:00"
   },
   "BUMP OF CHICKEN": {
    "state": "ok",
@@ -11223,8 +11361,8 @@
   },
   "muque": {
    "state": "ok",
-   "checked": "2026-10-29T20:30:00+09:00",
-   "news_checked": "2026-10-29T20:30:00+09:00"
+   "checked": "2026-10-31T20:30:00+09:00",
+   "news_checked": "2026-10-31T20:30:00+09:00"
   },
   "久石譲": {
    "state": "ok",
@@ -11253,13 +11391,13 @@
   },
   "バブルガム・ブラザーズ": {
    "state": "no_events",
-   "checked": "2026-10-29T20:30:00+09:00",
+   "checked": "2026-10-31T20:30:00+09:00",
    "news_checked": "2026-10-29T20:30:00+09:00"
   },
   "Bro.KORN": {
    "state": "ok",
-   "checked": "2026-10-30T20:40:00+09:00",
-   "news_checked": "2026-10-28T20:40:00+09:00"
+   "checked": "2026-10-31T20:30:00+09:00",
+   "news_checked": "2026-10-31T20:30:00+09:00"
   },
   "ブラザートム": {
    "state": "ok",
