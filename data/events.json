@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T07:50:00+09:00",
+ "updated": "2026-11-01T20:40:00+09:00",
  "artists": [
   "04 Limited Sazabys",
   "ELLEGARDEN",
@@ -166,27 +166,6 @@
    "confidence": "high"
   },
   {
-   "artist": "ELLEGARDEN",
-   "date": "2026-11-02",
-   "title": "Bad For Education Tour II (2026)",
-   "kind": "ワンマン",
-   "venue": "SENDAI GIGS（宮城）",
-   "sale_info": "11/2・3の2日間",
-   "ticket_name": "e+",
-   "ticket_url": "https://eplus.jp/sf/word/0000002116",
-   "source_url": "https://realsound.jp/2026/08/post-2487674.html",
-   "confidence": "high",
-   "sales": [
-    {
-     "label": "トレード抽選",
-     "start": "2026-10-24",
-     "end": "2026-10-26",
-     "url": "https://eplus.jp/sf/detail/0044950001",
-     "note": "10/24 18:00〜10/26 23:59"
-    }
-   ]
-  },
-  {
    "artist": "HEY-SMITH",
    "date": "2026-11-02",
    "title": "音響空調爆上げGIG",
@@ -241,26 +220,6 @@
    "confidence": "low"
   },
   {
-   "artist": "ELLEGARDEN",
-   "date": "2026-11-03",
-   "title": "Bad For Education Tour II (2026)",
-   "kind": "ワンマン",
-   "venue": "SENDAI GIGS（宮城）",
-   "ticket_name": "e+",
-   "ticket_url": "https://eplus.jp/sf/word/0000002116",
-   "source_url": "https://realsound.jp/2026/08/post-2487674.html",
-   "confidence": "high",
-   "sales": [
-    {
-     "label": "トレード抽選",
-     "start": "2026-10-24",
-     "end": "2026-10-26",
-     "url": "https://eplus.jp/sf/detail/0044950001",
-     "note": "10/24 18:00〜10/26 23:59"
-    }
-   ]
-  },
-  {
    "artist": "ROTTENGRAFFTY",
    "date": "2026-11-03",
    "title": "響都超特急TOUR2026",
@@ -281,7 +240,19 @@
    "venue": "宇都宮市文化会館（栃木県）",
    "sale_info": "9,900円(税込)・開場16:30／開演17:30・未就学児入場不可",
    "source_url": "https://s.alfee.com/news/live/2026a/",
-   "confidence": "high"
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "抽選先行",
+     "start": "2026-09-07",
+     "end": "2026-09-16"
+    },
+    {
+     "label": "一般(先着)",
+     "start": "2026-10-03",
+     "end": "2026-10-30"
+    }
+   ]
   },
   {
    "artist": "coldrain",
@@ -643,7 +614,24 @@
    "venue": "広島文化学園HBGホール（広島県）",
    "sale_info": "9,900円(税込)・開場17:00／開演18:00・未就学児入場不可",
    "source_url": "https://s.alfee.com/news/live/2026a/",
-   "confidence": "high"
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "PG最速先行(抽選)",
+     "start": "2026-08-22",
+     "end": "2026-08-29"
+    },
+    {
+     "label": "PG2次先行(抽選)",
+     "start": "2026-09-07",
+     "end": "2026-09-11"
+    },
+    {
+     "label": "一般(先着)",
+     "start": "2026-09-19",
+     "end": "2026-11-06"
+    }
+   ]
   },
   {
    "artist": "Wienners",
@@ -759,7 +747,24 @@
    "venue": "広島文化学園HBGホール（広島県）",
    "sale_info": "9,900円(税込)・開場16:00／開演17:00・未就学児入場不可",
    "source_url": "https://s.alfee.com/news/live/2026a/",
-   "confidence": "high"
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "PG最速先行(抽選)",
+     "start": "2026-08-22",
+     "end": "2026-08-29"
+    },
+    {
+     "label": "PG2次先行(抽選)",
+     "start": "2026-09-07",
+     "end": "2026-09-11"
+    },
+    {
+     "label": "一般(先着)",
+     "start": "2026-09-19",
+     "end": "2026-11-07"
+    }
+   ]
   },
   {
    "artist": "Wienners",
@@ -951,6 +956,18 @@
    "confidence": "high"
   },
   {
+   "artist": "久石譲",
+   "date": "2026-11-12",
+   "title": "World Dream Tour with Orchestre de Paris",
+   "kind": "ワンマン",
+   "venue": "Esplanade Concert Hall（シンガポール）",
+   "ticket_url": "https://www.sistic.com.sg/events/joe1126",
+   "source_url": "https://joehisaishi.com/concert_category/2026/page/4/",
+   "confidence": "high",
+   "with": "Orchestre de Paris",
+   "ticket_name": "SISTIC"
+  },
+  {
    "artist": "Fear, and Loathing in Las Vegas",
    "date": "2026-11-13",
    "title": "The Focus \"Feeling of Unity\" Vol.1",
@@ -1002,6 +1019,18 @@
      "note": "10/1 20:00〜10/4 23:59"
     }
    ]
+  },
+  {
+   "artist": "久石譲",
+   "date": "2026-11-13",
+   "title": "World Dream Tour with Orchestre de Paris",
+   "kind": "ワンマン",
+   "venue": "Esplanade Concert Hall（シンガポール）",
+   "ticket_url": "https://www.sistic.com.sg/events/joe1126",
+   "source_url": "https://joehisaishi.com/concert_category/2026/page/4/",
+   "confidence": "high",
+   "with": "Orchestre de Paris",
+   "ticket_name": "SISTIC"
   },
   {
    "artist": "9mm Parabellum Bullet",
@@ -1081,6 +1110,18 @@
    "sale_info": "開場17:00/開演18:00 前売4,600円",
    "source_url": "https://www.harukamirai.com/schedule/detail/1234",
    "confidence": "high"
+  },
+  {
+   "artist": "久石譲",
+   "date": "2026-11-14",
+   "title": "World Dream Tour with Orchestre de Paris",
+   "kind": "ワンマン",
+   "venue": "The Star Theatre（シンガポール）",
+   "ticket_url": "https://www.sistic.com.sg/events/joe1126",
+   "source_url": "https://joehisaishi.com/concert_category/2026/page/4/",
+   "confidence": "high",
+   "with": "Orchestre de Paris",
+   "ticket_name": "SISTIC"
   },
   {
    "artist": "9mm Parabellum Bullet",
@@ -1735,7 +1776,19 @@
    "venue": "大宮ソニックシティ（埼玉県）",
    "sale_info": "9,900円(税込)・開場16:30／開演17:30・未就学児入場不可",
    "source_url": "https://s.alfee.com/news/live/2026a/",
-   "confidence": "high"
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "抽選先行",
+     "start": "2026-10-02",
+     "end": "2026-10-04"
+    },
+    {
+     "label": "一般(先着)",
+     "start": "2026-10-11",
+     "end": "2026-11-19"
+    }
+   ]
   },
   {
    "artist": "a flood of circle",
@@ -1774,6 +1827,18 @@
    ],
    "source_url": "https://muque.jp/live/live-1678/",
    "confidence": "low"
+  },
+  {
+   "artist": "久石譲",
+   "date": "2026-11-23",
+   "title": "Hisaishi conducts Hisaishi",
+   "kind": "ワンマン",
+   "venue": "Royal Albert Hall（イギリス・ロンドン）",
+   "ticket_url": "https://www.rpo.co.uk/tickets-memberships/event/2026/hisaishi-conducts-hisaishi",
+   "source_url": "https://joehisaishi.com/concert_category/2026/page/4/",
+   "confidence": "high",
+   "with": "Royal Philharmonic Orchestra",
+   "ticket_name": "RPO"
   },
   {
    "artist": "04 Limited Sazabys",
@@ -1877,6 +1942,18 @@
    "confidence": "high"
   },
   {
+   "artist": "久石譲",
+   "date": "2026-11-25",
+   "title": "World Dream Tour in Munich",
+   "kind": "ワンマン",
+   "venue": "Isarphilharmonie（ドイツ・ミュンヘン）",
+   "ticket_url": "https://www.alegria.de/alg/veranstaltungen/joe-hisaishis-world-dream-tour",
+   "source_url": "https://joehisaishi.com/concert_category/2026/page/4/",
+   "confidence": "high",
+   "with": "Royal Philharmonic Orchestra",
+   "ticket_name": "alegria"
+  },
+  {
    "artist": "HEY-SMITH",
    "date": "2026-11-26",
    "title": "HEY-SMITH 20th ANNIVERSARY『ALL OVER JAPAN TOUR』",
@@ -1900,6 +1977,18 @@
    "sale_info": "SOLD OUT表示"
   },
   {
+   "artist": "久石譲",
+   "date": "2026-11-26",
+   "title": "World Dream Tour in Lucerne",
+   "kind": "ワンマン",
+   "venue": "KKL Luzern（スイス・ルツェルン）",
+   "ticket_url": "https://www.alegria.de/alg/veranstaltungen/joe-hisaishis-world-dream-tour",
+   "source_url": "https://joehisaishi.com/concert_category/2026/page/4/",
+   "confidence": "high",
+   "with": "Royal Philharmonic Orchestra",
+   "ticket_name": "alegria"
+  },
+  {
    "artist": "Fear, and Loathing in Las Vegas",
    "date": "2026-11-27",
    "title": "The Focus \"Feeling of Unity\" Vol.1",
@@ -1918,7 +2007,19 @@
    "venue": "パシフィコ横浜 国立大ホール（神奈川県）",
    "sale_info": "9,900円(税込)・開場17:30／開演18:30・未就学児入場不可",
    "source_url": "https://s.alfee.com/news/live/2026a/",
-   "confidence": "high"
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "e+最速先行(抽選)",
+     "start": "2026-09-08",
+     "end": "2026-09-15"
+    },
+    {
+     "label": "一般(抽選)",
+     "start": "2026-10-17",
+     "end": "2026-10-18"
+    }
+   ]
   },
   {
    "artist": "a flood of circle",
@@ -2085,7 +2186,19 @@
    "venue": "パシフィコ横浜 国立大ホール（神奈川県）",
    "sale_info": "9,900円(税込)・開場17:00／開演18:00・未就学児入場不可",
    "source_url": "https://s.alfee.com/news/live/2026a/",
-   "confidence": "high"
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "e+最速先行(抽選)",
+     "start": "2026-09-08",
+     "end": "2026-09-15"
+    },
+    {
+     "label": "一般(抽選)",
+     "start": "2026-10-17",
+     "end": "2026-10-18"
+    }
+   ]
   },
   {
    "artist": "Wienners",
@@ -2142,6 +2255,17 @@
    "sale_info": "3次先行は8/5締切（終了）",
    "source_url": "https://yabaitshirtsyasan.com/live/292928/",
    "confidence": "high"
+  },
+  {
+   "artist": "久石譲",
+   "date": "2026-11-28",
+   "title": "World Dream Tour in Stuttgart",
+   "kind": "ワンマン",
+   "venue": "Liederhalle Beethovensaal（ドイツ・シュトゥットガルト）",
+   "ticket_url": "https://www.alegria.de/alg/veranstaltungen/joe-hisaishis-world-dream-tour",
+   "source_url": "https://joehisaishi.com/concert_category/2026/page/5/",
+   "confidence": "high",
+   "ticket_name": "alegria"
   },
   {
    "artist": "04 Limited Sazabys",
@@ -2309,6 +2433,17 @@
    "confidence": "high"
   },
   {
+   "artist": "久石譲",
+   "date": "2026-11-30",
+   "title": "World Dream Tour in Berlin",
+   "kind": "ワンマン",
+   "venue": "Philharmonie（ドイツ・ベルリン）",
+   "ticket_url": "https://www.alegria.de/alg/veranstaltungen/joe-hisaishis-world-dream-tour",
+   "source_url": "https://joehisaishi.com/concert_category/2026/page/5/",
+   "confidence": "high",
+   "ticket_name": "alegria"
+  },
+  {
    "artist": "9mm Parabellum Bullet",
    "date": "2026-12-01",
    "title": "THE SUN ALSO RISES vol.422 (F.A.D 30th Anniversary)",
@@ -2409,6 +2544,17 @@
      "note": "e+上は予定枚数終了"
     }
    ]
+  },
+  {
+   "artist": "久石譲",
+   "date": "2026-12-02",
+   "title": "World Dream Tour in Hamburg",
+   "kind": "ワンマン",
+   "venue": "Elbphilharmonie（ドイツ・ハンブルク）",
+   "ticket_url": "https://www.proarte.de/de/konzerte/joe-hisaishis-world-dream-tour/1688",
+   "source_url": "https://joehisaishi.com/concert_category/2026/page/5/",
+   "confidence": "high",
+   "ticket_name": "ProArte"
   },
   {
    "artist": "Fear, and Loathing in Las Vegas",
@@ -2512,7 +2658,14 @@
    "venue": "福井フェニックス・プラザ エルピス大ホール（福井県）",
    "sale_info": "9,900円(税込)・開場17:30／開演18:30・未就学児入場不可",
    "source_url": "https://s.alfee.com/news/live/2026a/",
-   "confidence": "high"
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "一般(抽選)",
+     "start": "2026-10-24",
+     "end": "2026-10-26"
+    }
+   ]
   },
   {
    "artist": "[Alexandros]",
@@ -2715,7 +2868,14 @@
    "venue": "サントミューゼ（長野県）",
    "sale_info": "9,900円(税込)・開場16:30／開演17:30・未就学児入場不可",
    "source_url": "https://s.alfee.com/news/live/2026a/",
-   "confidence": "high"
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "一般(抽選)",
+     "start": "2026-10-24",
+     "end": "2026-10-26"
+    }
+   ]
   },
   {
    "artist": "マキシマム ザ ホルモン",
@@ -2758,7 +2918,7 @@
     }
    ],
    "source_url": "https://eplus.jp/alexandredesplat/",
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "artist": "ELLEGARDEN",
@@ -2887,7 +3047,7 @@
     }
    ],
    "source_url": "https://eplus.jp/alexandredesplat/",
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "artist": "10-FEET",
@@ -3060,6 +3220,33 @@
    "ticket_url": "https://eplus.jp/sf/detail/2288480002",
    "sale_info": "開場10:00／開演11:00。e+の先行は10/18まで終了",
    "source_url": "https://eplus.jp/sf/detail/2288480002",
+   "confidence": "high"
+  },
+  {
+   "artist": "Novelbright",
+   "date": "2026-12-12",
+   "title": "結びの夢番地 2026",
+   "kind": "フェス",
+   "venue": "広島県立ふくやま産業交流館 ビッグ・ローズ（広島県）",
+   "with": "KANA-BOON, Tele, マルシィ, 緑黄色社会, マカロニえんぴつ",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/3332380001-P0030004P021001",
+   "sale_info": "開場10:45/開演11:30（予定枚数終了）",
+   "sales": [
+    {
+     "label": "最速先行",
+     "start": "2026-08-20",
+     "end": "2026-09-21",
+     "note": "12:00〜23:59"
+    },
+    {
+     "label": "一般発売",
+     "start": "2026-09-26",
+     "end": "2026-12-11",
+     "note": "予定枚数終了"
+    }
+   ],
+   "source_url": "https://eplus.jp/sf/detail/3332380001-P0030004P021001",
    "confidence": "high"
   },
   {
@@ -3432,7 +3619,19 @@
    "venue": "静岡エコパアリーナ（静岡）",
    "sale_info": "9,900円",
    "source_url": "https://s.alfee.com/news/live/2026a/final.asp",
-   "confidence": "high"
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "最速先行(抽選)",
+     "start": "2026-10-01",
+     "end": "2026-10-08"
+    },
+    {
+     "label": "e+プレオーダー(抽選)",
+     "start": "2026-10-24",
+     "end": "2026-11-03"
+    }
+   ]
   },
   {
    "artist": "a flood of circle",
@@ -3546,7 +3745,19 @@
    "venue": "静岡エコパアリーナ（静岡）",
    "sale_info": "9,900円",
    "source_url": "https://s.alfee.com/news/live/2026a/final.asp",
-   "confidence": "high"
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "最速先行(抽選)",
+     "start": "2026-10-01",
+     "end": "2026-10-08"
+    },
+    {
+     "label": "e+プレオーダー(抽選)",
+     "start": "2026-10-24",
+     "end": "2026-11-03"
+    }
+   ]
   },
   {
    "artist": "a flood of circle",
@@ -3681,6 +3892,35 @@
    "confidence": "high"
   },
   {
+   "artist": "Novelbright",
+   "date": "2026-12-20",
+   "title": "MERRY ROCK PARADE 2026（12/20）",
+   "kind": "フェス",
+   "venue": "ポートメッセなごや（愛知県）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/1398280001-P0030010P021002",
+   "sale_info": "開場9:00/開演11:00（受付終了）",
+   "sales": [
+    {
+     "label": "オフィシャル最速先行(抽選)",
+     "start": "2026-09-05",
+     "end": "2026-09-14"
+    },
+    {
+     "label": "オフィシャル1次先行(抽選)",
+     "start": "2026-09-25",
+     "end": "2026-10-04"
+    },
+    {
+     "label": "オフィシャル2次先行(抽選)",
+     "start": "2026-10-16",
+     "end": "2026-10-25"
+    }
+   ],
+   "source_url": "https://eplus.jp/sf/detail/1398280001-P0030010P021001",
+   "confidence": "low"
+  },
+  {
    "artist": "a flood of circle",
    "date": "2026-12-20",
    "title": "a flood of circle TOUR 革命未遂の蝶が見る夢",
@@ -3766,7 +4006,19 @@
    "venue": "日本武道館（東京）",
    "sale_info": "9,900円",
    "source_url": "https://s.alfee.com/news/live/2026a/final.asp",
-   "confidence": "high"
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "WEB先行(抽選)",
+     "start": "2026-09-15",
+     "end": "2026-09-23"
+    },
+    {
+     "label": "プレオーダー(抽選)",
+     "start": "2026-10-10",
+     "end": "2026-10-18"
+    }
+   ]
   },
   {
    "artist": "ハルカミライ",
@@ -3797,7 +4049,19 @@
    "venue": "日本武道館（東京）",
    "sale_info": "9,900円",
    "source_url": "https://s.alfee.com/news/live/2026a/final.asp",
-   "confidence": "high"
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "WEB先行(抽選)",
+     "start": "2026-09-15",
+     "end": "2026-09-23"
+    },
+    {
+     "label": "プレオーダー(抽選)",
+     "start": "2026-10-10",
+     "end": "2026-10-18"
+    }
+   ]
   },
   {
    "artist": "[Alexandros]",
@@ -4350,7 +4614,19 @@
    "venue": "大阪城ホール（大阪）",
    "sale_info": "9,900円",
    "source_url": "https://s.alfee.com/news/live/2026a/final.asp",
-   "confidence": "high"
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "PG最速先行(抽選)",
+     "start": "2026-09-28",
+     "end": "2026-10-12"
+    },
+    {
+     "label": "e+プレオーダー(抽選)",
+     "start": "2026-10-27",
+     "end": "2026-11-05"
+    }
+   ]
   },
   {
    "artist": "a flood of circle",
@@ -6025,6 +6301,17 @@
    "confidence": "high"
   },
   {
+   "artist": "久石譲",
+   "date": "2027-03-05",
+   "title": "Joe Hisaishi Returns（フィラデルフィア管弦楽団）",
+   "kind": "ワンマン",
+   "venue": "Marian Anderson Hall（アメリカ・フィラデルフィア）",
+   "ticket_url": "https://philorch.ensembleartsphilly.org/tickets-and-events/2026-27-season/joe-hiasashi-returns",
+   "source_url": "https://joehisaishi.com/concert_category/2027/",
+   "confidence": "high",
+   "sale_info": "3/5・6・7の3日間"
+  },
+  {
    "artist": "HEY-SMITH",
    "date": "2027-03-06",
    "title": "HEY-SMITH 20th ANNIVERSARY『ALL OVER JAPAN TOUR』",
@@ -6058,6 +6345,17 @@
    "confidence": "high"
   },
   {
+   "artist": "久石譲",
+   "date": "2027-03-06",
+   "title": "Joe Hisaishi Returns（フィラデルフィア管弦楽団）",
+   "kind": "ワンマン",
+   "venue": "Marian Anderson Hall（アメリカ・フィラデルフィア）",
+   "ticket_url": "https://philorch.ensembleartsphilly.org/tickets-and-events/2026-27-season/joe-hiasashi-returns",
+   "source_url": "https://joehisaishi.com/concert_category/2027/",
+   "confidence": "high",
+   "sale_info": "3/5・6・7の3日間"
+  },
+  {
    "artist": "HEY-SMITH",
    "date": "2027-03-07",
    "title": "HEY-SMITH 20th ANNIVERSARY『ALL OVER JAPAN TOUR』",
@@ -6089,6 +6387,17 @@
    "with": "HEY-SMITH",
    "source_url": "https://rotten-g.com/live",
    "confidence": "high"
+  },
+  {
+   "artist": "久石譲",
+   "date": "2027-03-07",
+   "title": "Joe Hisaishi Returns（フィラデルフィア管弦楽団）",
+   "kind": "ワンマン",
+   "venue": "Marian Anderson Hall（アメリカ・フィラデルフィア）",
+   "ticket_url": "https://philorch.ensembleartsphilly.org/tickets-and-events/2026-27-season/joe-hiasashi-returns",
+   "source_url": "https://joehisaishi.com/concert_category/2027/",
+   "confidence": "high",
+   "sale_info": "3/5・6・7の3日間"
   },
   {
    "artist": "Mrs. GREEN APPLE",
@@ -6616,6 +6925,17 @@
    "confidence": "high"
   },
   {
+   "artist": "久石譲",
+   "date": "2027-04-30",
+   "title": "Hisaishi Conducts Hisaishi（シカゴ交響楽団）",
+   "kind": "ワンマン",
+   "venue": "Symphony Center（アメリカ・シカゴ）",
+   "ticket_url": "https://cso.org/performances/26-27/featured/hisaishi-conducts-hisaishi/",
+   "source_url": "https://joehisaishi.com/concert_category/2027/",
+   "confidence": "high",
+   "sale_info": "4/30・5/1の2日間"
+  },
+  {
    "artist": "Novelbright",
    "date": "2027-05-01",
    "title": "Novelbright ARENA TOUR 2027",
@@ -6624,6 +6944,17 @@
    "sale_info": "チケット情報は後日発表",
    "source_url": "https://novelbright.jp/news/detail/2501",
    "confidence": "high"
+  },
+  {
+   "artist": "久石譲",
+   "date": "2027-05-01",
+   "title": "Hisaishi Conducts Hisaishi（シカゴ交響楽団）",
+   "kind": "ワンマン",
+   "venue": "Symphony Center（アメリカ・シカゴ）",
+   "ticket_url": "https://cso.org/performances/26-27/featured/hisaishi-conducts-hisaishi/",
+   "source_url": "https://joehisaishi.com/concert_category/2027/",
+   "confidence": "high",
+   "sale_info": "4/30・5/1の2日間"
   },
   {
    "artist": "Novelbright",
@@ -6653,6 +6984,17 @@
    "venue": "K-Arena Yokohama（神奈川）",
    "source_url": "https://realsound.jp/2026/07/post-2462631.html",
    "confidence": "high"
+  },
+  {
+   "artist": "久石譲",
+   "date": "2027-05-07",
+   "title": "Hisaishi Conducts Hisaishi（ヒューストン交響楽団）",
+   "kind": "ワンマン",
+   "venue": "Jones Hall（アメリカ・ヒューストン）",
+   "ticket_url": "https://houstonsymphony.org/performance/hisaishi-conducts-hisaishi/",
+   "source_url": "https://joehisaishi.com/concert_category/2027/",
+   "confidence": "high",
+   "sale_info": "5/7・8・9の3日間"
   },
   {
    "artist": "Mrs. GREEN APPLE",
@@ -6703,6 +7045,17 @@
    "confidence": "high"
   },
   {
+   "artist": "久石譲",
+   "date": "2027-05-08",
+   "title": "Hisaishi Conducts Hisaishi（ヒューストン交響楽団）",
+   "kind": "ワンマン",
+   "venue": "Jones Hall（アメリカ・ヒューストン）",
+   "ticket_url": "https://houstonsymphony.org/performance/hisaishi-conducts-hisaishi/",
+   "source_url": "https://joehisaishi.com/concert_category/2027/",
+   "confidence": "high",
+   "sale_info": "5/7・8・9の3日間"
+  },
+  {
    "artist": "Mrs. GREEN APPLE",
    "date": "2027-05-09",
    "title": "Harmony2",
@@ -6734,6 +7087,17 @@
    "ticket_url": "https://l-tike.com/ttfes2027/",
    "source_url": "https://yabaitshirtsyasan.com/news/297046/",
    "confidence": "high"
+  },
+  {
+   "artist": "久石譲",
+   "date": "2027-05-09",
+   "title": "Hisaishi Conducts Hisaishi（ヒューストン交響楽団）",
+   "kind": "ワンマン",
+   "venue": "Jones Hall（アメリカ・ヒューストン）",
+   "ticket_url": "https://houstonsymphony.org/performance/hisaishi-conducts-hisaishi/",
+   "source_url": "https://joehisaishi.com/concert_category/2027/",
+   "confidence": "high",
+   "sale_info": "5/7・8・9の3日間"
   },
   {
    "artist": "Mrs. GREEN APPLE",
@@ -6864,6 +7228,28 @@
    "confidence": "high"
   },
   {
+   "artist": "久石譲",
+   "date": "2027-06-03",
+   "title": "Joe Hisaishi（サンタ・チェチーリア国立アカデミア）",
+   "kind": "ワンマン",
+   "venue": "Sala Santa Cecilia（イタリア・ローマ）",
+   "ticket_url": "https://santacecilia.it/concerto/joe-hisaishi/",
+   "source_url": "https://joehisaishi.com/concert_category/2027/",
+   "confidence": "high",
+   "sale_info": "6/3・4・5の3日間"
+  },
+  {
+   "artist": "久石譲",
+   "date": "2027-06-04",
+   "title": "Joe Hisaishi（サンタ・チェチーリア国立アカデミア）",
+   "kind": "ワンマン",
+   "venue": "Sala Santa Cecilia（イタリア・ローマ）",
+   "ticket_url": "https://santacecilia.it/concerto/joe-hisaishi/",
+   "source_url": "https://joehisaishi.com/concert_category/2027/",
+   "confidence": "high",
+   "sale_info": "6/3・4・5の3日間"
+  },
+  {
    "artist": "Novelbright",
    "date": "2027-06-05",
    "title": "Novelbright ARENA TOUR 2027",
@@ -6884,6 +7270,17 @@
    "confidence": "high"
   },
   {
+   "artist": "久石譲",
+   "date": "2027-06-05",
+   "title": "Joe Hisaishi（サンタ・チェチーリア国立アカデミア）",
+   "kind": "ワンマン",
+   "venue": "Sala Santa Cecilia（イタリア・ローマ）",
+   "ticket_url": "https://santacecilia.it/concerto/joe-hisaishi/",
+   "source_url": "https://joehisaishi.com/concert_category/2027/",
+   "confidence": "high",
+   "sale_info": "6/3・4・5の3日間"
+  },
+  {
    "artist": "Novelbright",
    "date": "2027-06-06",
    "title": "Novelbright ARENA TOUR 2027",
@@ -6901,6 +7298,28 @@
    "venue": "クロコくんホール（愛知）",
    "source_url": "https://realsound.jp/2026/07/post-2462631.html",
    "confidence": "high"
+  },
+  {
+   "artist": "久石譲",
+   "date": "2027-06-09",
+   "title": "JOE HISAISHI SYMPHONIQUE（パリ管弦楽団）",
+   "kind": "ワンマン",
+   "venue": "Philharmonie de Paris（フランス・パリ）",
+   "ticket_url": "https://philharmoniedeparis.fr/en/activite/29694?itemId=147813",
+   "source_url": "https://joehisaishi.com/concert_category/2027/",
+   "confidence": "high",
+   "sale_info": "6/9・10の2日間"
+  },
+  {
+   "artist": "久石譲",
+   "date": "2027-06-10",
+   "title": "JOE HISAISHI SYMPHONIQUE（パリ管弦楽団）",
+   "kind": "ワンマン",
+   "venue": "Philharmonie de Paris（フランス・パリ）",
+   "ticket_url": "https://philharmoniedeparis.fr/en/activite/29694?itemId=147813",
+   "source_url": "https://joehisaishi.com/concert_category/2027/",
+   "confidence": "high",
+   "sale_info": "6/9・10の2日間"
   },
   {
    "artist": "あいみょん",
@@ -10139,9 +10558,20 @@
     "802 PSY TONE RADIO in レディクレ",
     "YUKI",
     "『802 PSY TONE RADIO』in レディクレ",
-    "milet"
+    "milet",
+    "indigo la End",
+    "ウルフルズ",
+    "Aimer",
+    "キュウソネコカミ",
+    "Creepy Nuts",
+    "SiM",
+    "スキマスイッチ",
+    "SCANDAL",
+    "sumika",
+    "10-FEET",
+    "打首獄門同好会"
    ],
-   "lineup_checked": "2026-10-31",
+   "lineup_checked": "2026-11-01",
    "sales": [
     {
      "label": "オフィシャル3次抽選",
@@ -10810,10 +11240,99 @@
    "end": "2026-11-29",
    "pref": "東京都",
    "venue": "SGC Hall Ariake・TOYOTA ARENA TOKYO",
-   "status": "unknown",
+   "status": "lineup",
    "official_url": "https://gift-idol.jp/",
    "source_url": "https://gift-idol.jp/outline.html",
-   "note": "アイドルフェス（主催：テレビ朝日）。出演者は公式で確認後に追記"
+   "note": "アイドルフェス（主催：テレビ朝日）。出演者は公式で確認後に追記",
+   "lineup": [
+    "＝LOVE",
+    "CUTIE STREET",
+    "超ときめき♡宣伝部",
+    "FRUITS ZIPPER",
+    "モーニング娘。'26",
+    "AKB48",
+    "OCHA NORMA",
+    "CANDY TUNE",
+    "きゅるりんってしてみて",
+    "日向坂46",
+    "MORE STAR",
+    "Rain Tree",
+    "iLiFE!",
+    "いぎなり東北産",
+    "私立恵比寿中学",
+    "Juice=Juice",
+    "SWEET STEADY",
+    "乃木坂46",
+    "WHITE SCORPION",
+    "わーすた"
+   ],
+   "lineup_days": {
+    "2026-11-27": [
+     "＝LOVE",
+     "CUTIE STREET",
+     "超ときめき♡宣伝部",
+     "FRUITS ZIPPER",
+     "モーニング娘。'26"
+    ],
+    "2026-11-28": [
+     "AKB48",
+     "OCHA NORMA",
+     "CANDY TUNE",
+     "きゅるりんってしてみて",
+     "日向坂46",
+     "MORE STAR",
+     "Rain Tree",
+     "超ときめき♡宣伝部",
+     "モーニング娘。'26"
+    ],
+    "2026-11-29": [
+     "iLiFE!",
+     "いぎなり東北産",
+     "私立恵比寿中学",
+     "Juice=Juice",
+     "SWEET STEADY",
+     "乃木坂46",
+     "FRUITS ZIPPER",
+     "WHITE SCORPION",
+     "わーすた"
+    ]
+   },
+   "lineup_checked": "2026-11-01"
+  },
+  {
+   "name": "rockin'on sonic 2027",
+   "start": "2027-01-09",
+   "end": "2027-01-10",
+   "pref": "東京",
+   "venue": "SGCホール有明",
+   "status": "lineup",
+   "lineup": [
+    "Bloc Party",
+    "Dinosaur Jr.",
+    "Kim Gordon",
+    "Violet Grohl",
+    "Suede",
+    "Pale Waves",
+    "Kula Shaker",
+    "Dove Ellis"
+   ],
+   "lineup_days": {
+    "2027-01-09": [
+     "Bloc Party",
+     "Dinosaur Jr.",
+     "Kim Gordon",
+     "Violet Grohl"
+    ],
+    "2027-01-10": [
+     "Suede",
+     "Pale Waves",
+     "Kula Shaker",
+     "Dove Ellis"
+    ]
+   },
+   "lineup_checked": "2026-11-01",
+   "note": "洋楽のみ8組発表済み。公式URL・チケットは未確認",
+   "source_url": "https://realsound.jp/2026/09/post-2523918.html"
   }
  ],
  "artist_links": {
@@ -10864,7 +11383,8 @@
    "official": "https://coldrain.jp/",
    "schedule": "https://coldrain.jp/blogs/live",
    "image": "https://coldrain.jp/cdn/shop/files/CR_logo.jpg?v=1719561350",
-   "news": "https://coldrain.jp/blogs/news"
+   "news": "https://coldrain.jp/blogs/news",
+   "eplus": "https://eplus.jp/sf/word/0000031510"
   },
   "TenTwenty": {
    "official": "https://tentwenty-web.com/",
@@ -10886,7 +11406,9 @@
   },
   "Fear, and Loathing in Las Vegas": {
    "eplus": "https://eplus.jp/sf/detail/0524940001",
-   "official": "https://lasvegas-jp.com/"
+   "official": "https://lasvegas-jp.com/",
+   "schedule": "https://lasvegas-jp.com/live/",
+   "news": "https://lasvegas-jp.com/topics/"
   },
   "9mm Parabellum Bullet": {
    "eplus": "https://eplus.jp/sf/word/0000009226",
@@ -10896,7 +11418,8 @@
   "BUMP OF CHICKEN": {
    "eplus": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
    "official": "https://www.bumpofchicken.com/",
-   "image": "https://www.bumpofchicken.com/images/common/default/common_default_og_image.png"
+   "image": "https://www.bumpofchicken.com/images/common/default/common_default_og_image.png",
+   "schedule": "https://www.bumpofchicken.com/live_information/2799"
   },
   "back number": {
    "official": "https://backnumber.info/",
@@ -11020,7 +11543,7 @@
   },
   "Novelbright": {
    "official": "https://novelbright.jp/",
-   "news": "https://novelbright.jp/",
+   "news": "https://novelbright.jp/news/1",
    "eplus": "https://eplus.jp/sf/word/0000069645"
   },
   "Aimer": {
@@ -11246,7 +11769,7 @@
   },
   "ELLEGARDEN": {
    "state": "ok",
-   "checked": "2026-10-29T20:30:00+09:00",
+   "checked": "2026-11-01T20:40:00+09:00",
    "note": "10/23名古屋は延期（振替日程は調整中・未発表）",
    "news_checked": "2026-10-31T07:40:00+09:00"
   },
@@ -11262,12 +11785,12 @@
   },
   "HEY-SMITH": {
    "state": "ok",
-   "checked": "2026-10-29T20:30:00+09:00",
+   "checked": "2026-11-01T20:40:00+09:00",
    "news_checked": "2026-10-31T07:40:00+09:00"
   },
   "マキシマム ザ ホルモン": {
    "state": "ok",
-   "checked": "2026-11-01T07:50:00+09:00",
+   "checked": "2026-11-01T20:40:00+09:00",
    "news_checked": "2026-10-29T20:30:00+09:00"
   },
   "サンボマスター": {
@@ -11322,7 +11845,7 @@
   },
   "coldrain": {
    "state": "ok",
-   "checked": "2026-11-01T07:50:00+09:00",
+   "checked": "2026-11-01T20:40:00+09:00",
    "news_checked": "2026-10-29T07:40:00+09:00"
   },
   "TenTwenty": {
@@ -11342,19 +11865,19 @@
   },
   "UNISON SQUARE GARDEN": {
    "state": "no_events",
-   "checked": "2026-11-01T07:50:00+09:00",
+   "checked": "2026-11-01T20:40:00+09:00",
    "note": "2026-04-27に活動休止を発表。最終公演は2026-07-15。再開の発表なし",
    "news_checked": "2026-10-28T20:40:00+09:00"
   },
   "Fear, and Loathing in Las Vegas": {
    "state": "ok",
-   "checked": "2026-10-30T20:40:00+09:00",
-   "news_checked": "2026-10-30T20:40:00+09:00"
+   "checked": "2026-11-01T20:40:00+09:00",
+   "news_checked": "2026-11-01T20:40:00+09:00"
   },
   "9mm Parabellum Bullet": {
    "state": "ok",
-   "checked": "2026-10-30T20:40:00+09:00",
-   "news_checked": "2026-10-30T20:40:00+09:00"
+   "checked": "2026-11-01T20:40:00+09:00",
+   "news_checked": "2026-11-01T20:40:00+09:00"
   },
   "斎藤宏介": {
    "state": "ok",
@@ -11363,8 +11886,8 @@
   },
   "BUMP OF CHICKEN": {
    "state": "ok",
-   "checked": "2026-10-30T20:40:00+09:00",
-   "news_checked": "2026-10-30T20:40:00+09:00"
+   "checked": "2026-11-01T20:40:00+09:00",
+   "news_checked": "2026-11-01T20:40:00+09:00"
   },
   "ブランデー戦記": {
    "state": "ok",
@@ -11378,13 +11901,13 @@
   },
   "久石譲": {
    "state": "ok",
-   "checked": "2026-10-30T20:40:00+09:00",
-   "news_checked": "2026-10-30T20:40:00+09:00"
+   "checked": "2026-11-01T20:40:00+09:00",
+   "news_checked": "2026-11-01T20:40:00+09:00"
   },
   "福山雅治": {
    "state": "ok",
-   "checked": "2026-10-30T20:40:00+09:00",
-   "news_checked": "2026-10-30T20:40:00+09:00"
+   "checked": "2026-11-01T20:40:00+09:00",
+   "news_checked": "2026-11-01T20:40:00+09:00"
   },
   "竹内まりや": {
    "state": "no_events",
@@ -11393,18 +11916,18 @@
   },
   "Novelbright": {
    "state": "ok",
-   "checked": "2026-10-30T20:40:00+09:00",
-   "news_checked": "2026-10-30T20:40:00+09:00"
+   "checked": "2026-11-01T20:40:00+09:00",
+   "news_checked": "2026-11-01T20:40:00+09:00"
   },
   "THE ALFEE": {
    "state": "ok",
-   "checked": "2026-10-30T20:40:00+09:00",
-   "news_checked": "2026-10-30T20:40:00+09:00"
+   "checked": "2026-11-01T20:40:00+09:00",
+   "news_checked": "2026-11-01T20:40:00+09:00"
   },
   "バブルガム・ブラザーズ": {
    "state": "no_events",
-   "checked": "2026-11-01T07:50:00+09:00",
-   "news_checked": "2026-10-29T20:30:00+09:00"
+   "checked": "2026-11-01T20:40:00+09:00",
+   "news_checked": "2026-11-01T20:40:00+09:00"
   },
   "Bro.KORN": {
    "state": "ok",
@@ -11418,8 +11941,8 @@
   },
   "Aimer": {
    "state": "ok",
-   "checked": "2026-11-01T07:50:00+09:00",
-   "news_checked": "2026-10-30T07:06:00+09:00"
+   "checked": "2026-11-01T20:40:00+09:00",
+   "news_checked": "2026-11-01T20:40:00+09:00"
   }
  }
 }
