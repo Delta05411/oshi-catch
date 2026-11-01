@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T20:40:00+09:00",
+ "updated": "2026-11-02T07:40:00+09:00",
  "artists": [
   "04 Limited Sazabys",
   "ELLEGARDEN",
@@ -7371,6 +7371,19 @@
    "confidence": "high"
   },
   {
+   "artist": "[Alexandros]",
+   "date": "2027-06-22",
+   "title": "[Alexandros] DEAR ENEMIES TOUR 2027",
+   "kind": "ワンマン",
+   "venue": "Zepp Fukuoka（福岡）",
+   "source_url": "https://alexandros.jp/contents/1124116",
+   "confidence": "high",
+   "sale_info": "詳細・チケットは後日発表",
+   "ticket_url": "https://alexandros.jp/contents/1124116",
+   "ticket_name": "公式",
+   "with": "ゲスト有（未発表）"
+  },
+  {
    "artist": "あいみょん",
    "date": "2027-06-23",
    "title": "AIMYON TOUR 2027",
@@ -7378,6 +7391,19 @@
    "venue": "GLION ARENA KOBE（兵庫）",
    "source_url": "https://realsound.jp/2026/07/post-2462631.html",
    "confidence": "high"
+  },
+  {
+   "artist": "[Alexandros]",
+   "date": "2027-06-23",
+   "title": "[Alexandros] DEAR ENEMIES TOUR 2027",
+   "kind": "ワンマン",
+   "venue": "Zepp Fukuoka（福岡）",
+   "source_url": "https://alexandros.jp/contents/1124116",
+   "confidence": "high",
+   "sale_info": "詳細・チケットは後日発表",
+   "ticket_url": "https://alexandros.jp/contents/1124116",
+   "ticket_name": "公式",
+   "with": "ゲスト有（未発表）"
   },
   {
    "artist": "Novelbright",
@@ -7417,6 +7443,32 @@
    "venue": "広島グリーンアリーナ（広島）",
    "source_url": "https://realsound.jp/2026/07/post-2462631.html",
    "confidence": "high"
+  },
+  {
+   "artist": "[Alexandros]",
+   "date": "2027-06-30",
+   "title": "[Alexandros] DEAR ENEMIES TOUR 2027",
+   "kind": "ワンマン",
+   "venue": "Zepp Nagoya（愛知）",
+   "source_url": "https://alexandros.jp/contents/1124116",
+   "confidence": "high",
+   "sale_info": "詳細・チケットは後日発表",
+   "ticket_url": "https://alexandros.jp/contents/1124116",
+   "ticket_name": "公式",
+   "with": "ゲスト有（未発表）"
+  },
+  {
+   "artist": "[Alexandros]",
+   "date": "2027-07-01",
+   "title": "[Alexandros] DEAR ENEMIES TOUR 2027",
+   "kind": "ワンマン",
+   "venue": "Zepp Nagoya（愛知）",
+   "source_url": "https://alexandros.jp/contents/1124116",
+   "confidence": "high",
+   "sale_info": "詳細・チケットは後日発表",
+   "ticket_url": "https://alexandros.jp/contents/1124116",
+   "ticket_name": "公式",
+   "with": "ゲスト有（未発表）"
   },
   {
    "artist": "10-FEET",
@@ -7472,6 +7524,19 @@
    "venue": "マリンメッセ福岡A館（福岡）",
    "source_url": "https://realsound.jp/2026/07/post-2462631.html",
    "confidence": "high"
+  },
+  {
+   "artist": "[Alexandros]",
+   "date": "2027-07-09",
+   "title": "[Alexandros] DEAR ENEMIES TOUR 2027",
+   "kind": "ワンマン",
+   "venue": "Zepp Sapporo（北海道）",
+   "source_url": "https://alexandros.jp/contents/1124116",
+   "confidence": "high",
+   "sale_info": "詳細・チケットは後日発表",
+   "ticket_url": "https://alexandros.jp/contents/1124116",
+   "ticket_name": "公式",
+   "with": "ゲスト有（未発表）"
   },
   {
    "artist": "10-FEET",
@@ -7547,6 +7612,58 @@
    "venue": "沖縄サントリーアリーナ（沖縄）",
    "source_url": "https://realsound.jp/2026/07/post-2462631.html",
    "confidence": "high"
+  },
+  {
+   "artist": "[Alexandros]",
+   "date": "2027-07-14",
+   "title": "[Alexandros] DEAR ENEMIES TOUR 2027",
+   "kind": "ワンマン",
+   "venue": "Zepp Osaka Bayside（大阪）",
+   "source_url": "https://alexandros.jp/contents/1124116",
+   "confidence": "high",
+   "sale_info": "詳細・チケットは後日発表",
+   "ticket_url": "https://alexandros.jp/contents/1124116",
+   "ticket_name": "公式",
+   "with": "ゲスト有（未発表）"
+  },
+  {
+   "artist": "[Alexandros]",
+   "date": "2027-07-15",
+   "title": "[Alexandros] DEAR ENEMIES TOUR 2027",
+   "kind": "ワンマン",
+   "venue": "Zepp Osaka Bayside（大阪）",
+   "source_url": "https://alexandros.jp/contents/1124116",
+   "confidence": "high",
+   "sale_info": "詳細・チケットは後日発表",
+   "ticket_url": "https://alexandros.jp/contents/1124116",
+   "ticket_name": "公式",
+   "with": "ゲスト有（未発表）"
+  },
+  {
+   "artist": "[Alexandros]",
+   "date": "2027-07-21",
+   "title": "[Alexandros] DEAR ENEMIES TOUR 2027",
+   "kind": "ワンマン",
+   "venue": "Zepp Haneda（東京）",
+   "source_url": "https://alexandros.jp/contents/1124116",
+   "confidence": "high",
+   "sale_info": "詳細・チケットは後日発表",
+   "ticket_url": "https://alexandros.jp/contents/1124116",
+   "ticket_name": "公式",
+   "with": "ゲスト有（未発表）"
+  },
+  {
+   "artist": "[Alexandros]",
+   "date": "2027-07-22",
+   "title": "[Alexandros] DEAR ENEMIES TOUR 2027",
+   "kind": "ワンマン",
+   "venue": "Zepp Haneda（東京）",
+   "source_url": "https://alexandros.jp/contents/1124116",
+   "confidence": "high",
+   "sale_info": "詳細・チケットは後日発表",
+   "ticket_url": "https://alexandros.jp/contents/1124116",
+   "ticket_name": "公式",
+   "with": "ゲスト有（未発表）"
   },
   {
    "artist": "Novelbright",
@@ -7645,6 +7762,19 @@
    "confidence": "high"
   },
   {
+   "artist": "[Alexandros]",
+   "date": "2027-09-04",
+   "title": "[Alexandros] VIP PARTY TOUR",
+   "kind": "ワンマン",
+   "venue": "有明アリーナ（東京）",
+   "source_url": "https://alexandros.jp/contents/1124117",
+   "confidence": "high",
+   "sale_info": "詳細・チケットは後日発表",
+   "ticket_url": "https://alexandros.jp/contents/1124117",
+   "ticket_name": "公式",
+   "with": ""
+  },
+  {
    "artist": "Novelbright",
    "date": "2027-09-05",
    "title": "Novelbright ARENA TOUR 2027",
@@ -7653,6 +7783,19 @@
    "sale_info": "チケット情報は後日発表",
    "source_url": "https://novelbright.jp/news/detail/2501",
    "confidence": "high"
+  },
+  {
+   "artist": "[Alexandros]",
+   "date": "2027-09-05",
+   "title": "[Alexandros] VIP PARTY TOUR",
+   "kind": "ワンマン",
+   "venue": "有明アリーナ（東京）",
+   "source_url": "https://alexandros.jp/contents/1124117",
+   "confidence": "high",
+   "sale_info": "詳細・チケットは後日発表",
+   "ticket_url": "https://alexandros.jp/contents/1124117",
+   "ticket_name": "公式",
+   "with": ""
   },
   {
    "artist": "back number",
@@ -7677,6 +7820,19 @@
    "sale_info": "FC（one room gold key）会員限定・抽選。チケット詳細は2026年11月中旬発表予定",
    "ticket_name": "one room gold key 抽選",
    "ticket_url": "https://backnumber.info/news/detail/400314"
+  },
+  {
+   "artist": "[Alexandros]",
+   "date": "2027-09-12",
+   "title": "[Alexandros] VIP PARTY TOUR",
+   "kind": "ワンマン",
+   "venue": "大阪城ホール（大阪）",
+   "source_url": "https://alexandros.jp/contents/1124117",
+   "confidence": "high",
+   "sale_info": "詳細・チケットは後日発表",
+   "ticket_url": "https://alexandros.jp/contents/1124117",
+   "ticket_name": "公式",
+   "with": ""
   },
   {
    "artist": "back number",
@@ -11764,19 +11920,19 @@
   },
   "04 Limited Sazabys": {
    "state": "ok",
-   "checked": "2026-10-31T20:30:00+09:00",
-   "news_checked": "2026-10-31T20:30:00+09:00"
+   "checked": "2026-11-02T07:40:00+09:00",
+   "news_checked": "2026-11-02T07:40:00+09:00"
   },
   "ELLEGARDEN": {
    "state": "ok",
-   "checked": "2026-11-01T20:40:00+09:00",
+   "checked": "2026-11-02T07:40:00+09:00",
    "note": "10/23名古屋は延期（振替日程は調整中・未発表）",
-   "news_checked": "2026-10-31T07:40:00+09:00"
+   "news_checked": "2026-11-02T07:40:00+09:00"
   },
   "ヤバイTシャツ屋さん": {
    "state": "ok",
-   "checked": "2026-10-31T20:30:00+09:00",
-   "news_checked": "2026-10-31T20:30:00+09:00"
+   "checked": "2026-11-02T07:40:00+09:00",
+   "news_checked": "2026-11-02T07:40:00+09:00"
   },
   "ORAL CIGARETTES": {
    "state": "ok",
@@ -11785,18 +11941,18 @@
   },
   "HEY-SMITH": {
    "state": "ok",
-   "checked": "2026-11-01T20:40:00+09:00",
-   "news_checked": "2026-10-31T07:40:00+09:00"
+   "checked": "2026-11-02T07:40:00+09:00",
+   "news_checked": "2026-11-02T07:40:00+09:00"
   },
   "マキシマム ザ ホルモン": {
    "state": "ok",
-   "checked": "2026-11-01T20:40:00+09:00",
-   "news_checked": "2026-10-29T20:30:00+09:00"
+   "checked": "2026-11-02T07:40:00+09:00",
+   "news_checked": "2026-11-02T07:40:00+09:00"
   },
   "サンボマスター": {
    "state": "ok",
-   "checked": "2026-10-31T20:30:00+09:00",
-   "news_checked": "2026-10-31T20:30:00+09:00"
+   "checked": "2026-11-02T07:40:00+09:00",
+   "news_checked": "2026-11-02T07:40:00+09:00"
   },
   "あいみょん": {
    "state": "ok",
@@ -11805,28 +11961,28 @@
   },
   "10-FEET": {
    "state": "ok",
-   "checked": "2026-10-29T20:30:00+09:00",
-   "news_checked": "2026-10-31T07:40:00+09:00"
+   "checked": "2026-11-02T07:40:00+09:00",
+   "news_checked": "2026-11-02T07:40:00+09:00"
   },
   "SHANK": {
    "state": "ok",
-   "checked": "2026-10-29T20:30:00+09:00",
-   "news_checked": "2026-10-31T07:40:00+09:00"
+   "checked": "2026-11-02T07:40:00+09:00",
+   "news_checked": "2026-11-02T07:40:00+09:00"
   },
   "ROTTENGRAFFTY": {
    "state": "ok",
-   "checked": "2026-10-29T20:30:00+09:00",
-   "news_checked": "2026-10-31T07:40:00+09:00"
+   "checked": "2026-11-02T07:40:00+09:00",
+   "news_checked": "2026-11-02T07:40:00+09:00"
   },
   "SiM": {
    "state": "ok",
-   "checked": "2026-10-29T20:30:00+09:00",
-   "news_checked": "2026-10-31T07:40:00+09:00"
+   "checked": "2026-11-02T07:40:00+09:00",
+   "news_checked": "2026-11-02T07:40:00+09:00"
   },
   "[Alexandros]": {
    "state": "ok",
-   "checked": "2026-10-29T20:30:00+09:00",
-   "news_checked": "2026-10-31T07:40:00+09:00"
+   "checked": "2026-11-02T07:40:00+09:00",
+   "news_checked": "2026-11-02T07:40:00+09:00"
   },
   "RADWIMPS": {
    "state": "ok",
@@ -11845,8 +12001,8 @@
   },
   "coldrain": {
    "state": "ok",
-   "checked": "2026-11-01T20:40:00+09:00",
-   "news_checked": "2026-10-29T07:40:00+09:00"
+   "checked": "2026-11-02T07:40:00+09:00",
+   "news_checked": "2026-11-02T07:40:00+09:00"
   },
   "TenTwenty": {
    "state": "ok",
@@ -11865,9 +12021,9 @@
   },
   "UNISON SQUARE GARDEN": {
    "state": "no_events",
-   "checked": "2026-11-01T20:40:00+09:00",
+   "checked": "2026-11-02T07:40:00+09:00",
    "note": "2026-04-27に活動休止を発表。最終公演は2026-07-15。再開の発表なし",
-   "news_checked": "2026-10-28T20:40:00+09:00"
+   "news_checked": "2026-11-02T07:40:00+09:00"
   },
   "Fear, and Loathing in Las Vegas": {
    "state": "ok",
@@ -11891,8 +12047,8 @@
   },
   "ブランデー戦記": {
    "state": "ok",
-   "checked": "2026-10-29T20:30:00+09:00",
-   "news_checked": "2026-10-31T07:40:00+09:00"
+   "checked": "2026-11-02T07:40:00+09:00",
+   "news_checked": "2026-11-02T07:40:00+09:00"
   },
   "muque": {
    "state": "ok",
