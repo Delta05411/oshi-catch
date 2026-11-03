@@ -1,8 +1,10 @@
 {
- "updated": "2026-11-02T20:45:00+09:00",
+ "updated": "2026-11-03T20:15:00+09:00",
  "artists": {
   "Saucy Dog": {
-   "aliases": [],
+   "aliases": [
+    "サウシー"
+   ],
    "events": [
     {
      "date": "2026-11-06",
@@ -51,6 +53,30 @@
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://xhl-music.com/feature/hypelikeit",
      "confidence": "high"
+    },
+    {
+     "date": "2026-11-06",
+     "title": "BUZZ RHYTHM LIVE（11/6）",
+     "kind": "フェス",
+     "venue": "横浜アリーナ（神奈川県）",
+     "source_url": "https://buzzrhythm.live/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-19",
+     "title": "MERRY ROCK PARADE 2026（12/19）",
+     "kind": "フェス",
+     "venue": "ポートメッセなごや（愛知県）",
+     "source_url": "https://www.merryrockparade.jp/artist.html",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "RADIO CRAZY（12/27）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://radiocrazy.fm/",
+     "confidence": "high"
     }
    ]
   },
@@ -88,6 +114,30 @@
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
      "confidence": "high"
+    },
+    {
+     "date": "2026-11-08",
+     "title": "BUZZ RHYTHM LIVE（11/8）",
+     "kind": "フェス",
+     "venue": "横浜アリーナ（神奈川県）",
+     "source_url": "https://buzzrhythm.live/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-19",
+     "title": "MERRY ROCK PARADE 2026（12/19）",
+     "kind": "フェス",
+     "venue": "ポートメッセなごや（愛知県）",
+     "source_url": "https://www.merryrockparade.jp/artist.html",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "RADIO CRAZY（12/27）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://radiocrazy.fm/",
+     "confidence": "high"
     }
    ]
   },
@@ -116,6 +166,38 @@
      "kind": "フェス",
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-11-06",
+     "title": "BUZZ RHYTHM LIVE（11/6）",
+     "kind": "フェス",
+     "venue": "横浜アリーナ（神奈川県）",
+     "source_url": "https://buzzrhythm.live/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-11-21",
+     "title": "テレビ朝日ドリームフェスティバル2026（11/21〜11/23のいずれか）",
+     "kind": "フェス",
+     "venue": "Kアリーナ横浜（神奈川県）",
+     "source_url": "https://dreamfestival.jp/",
+     "confidence": "low"
+    },
+    {
+     "date": "2026-12-19",
+     "title": "MERRY ROCK PARADE 2026（12/19）",
+     "kind": "フェス",
+     "venue": "ポートメッセなごや（愛知県）",
+     "source_url": "https://www.merryrockparade.jp/artist.html",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-26",
+     "title": "RADIO CRAZY（12/26）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://radiocrazy.fm/",
      "confidence": "high"
     }
    ]
@@ -146,6 +228,22 @@
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://xhl-music.com/feature/hypelikeit",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-19",
+     "title": "MERRY ROCK PARADE 2026（12/19）",
+     "kind": "フェス",
+     "venue": "ポートメッセなごや（愛知県）",
+     "source_url": "https://www.merryrockparade.jp/artist.html",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "RADIO CRAZY（12/27）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://radiocrazy.fm/",
+     "confidence": "high"
     }
    ]
   },
@@ -166,6 +264,14 @@
      "kind": "フェス",
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "RADIO CRAZY（12/27）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://radiocrazy.fm/",
      "confidence": "high"
     }
    ]
@@ -246,6 +352,14 @@
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
      "confidence": "high"
+    },
+    {
+     "date": "2026-11-07",
+     "title": "BUZZ RHYTHM LIVE（11/7）",
+     "kind": "フェス",
+     "venue": "横浜アリーナ（神奈川県）",
+     "source_url": "https://buzzrhythm.live/",
+     "confidence": "high"
     }
    ]
   },
@@ -324,6 +438,22 @@
      "kind": "フェス",
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-20",
+     "title": "MERRY ROCK PARADE 2026（12/20）",
+     "kind": "フェス",
+     "venue": "ポートメッセなごや（愛知県）",
+     "source_url": "https://www.merryrockparade.jp/artist.html",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "RADIO CRAZY（12/27）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://radiocrazy.fm/",
      "confidence": "high"
     }
    ]
@@ -409,6 +539,14 @@
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
     }
    ]
   },
@@ -430,6 +568,14 @@
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
      "confidence": "high"
+    },
+    {
+     "date": "2026-11-21",
+     "title": "テレビ朝日ドリームフェスティバル2026（11/21〜11/23のいずれか）",
+     "kind": "フェス",
+     "venue": "Kアリーナ横浜（神奈川県）",
+     "source_url": "https://dreamfestival.jp/",
+     "confidence": "low"
     }
    ]
   },
@@ -447,7 +593,9 @@
    ]
   },
   "MAN WITH A MISSION": {
-   "aliases": [],
+   "aliases": [
+    "マンウィズ"
+   ],
    "events": [
     {
      "date": "2026-11-07",
@@ -488,6 +636,14 @@
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
      "confidence": "high"
+    },
+    {
+     "date": "2026-11-07",
+     "title": "AIR JAM（11/7）",
+     "kind": "フェス",
+     "venue": "ZOZOマリンスタジアム（千葉県）",
+     "source_url": "https://airjam.jp/artists",
+     "confidence": "high"
     }
    ]
   },
@@ -500,6 +656,14 @@
      "kind": "フェス",
      "venue": "ZOZOマリンスタジアム（千葉）",
      "source_url": "https://www.thefirsttimes.jp/?p=820987",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-11-07",
+     "title": "AIR JAM（11/7）",
+     "kind": "フェス",
+     "venue": "ZOZOマリンスタジアム（千葉県）",
+     "source_url": "https://airjam.jp/artists",
      "confidence": "high"
     }
    ]
@@ -538,6 +702,46 @@
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://xhl-music.com/feature/hypelikeit",
      "confidence": "high"
+    },
+    {
+     "date": "2026-11-07",
+     "title": "AIR JAM（11/7）",
+     "kind": "フェス",
+     "venue": "ZOZOマリンスタジアム（千葉県）",
+     "source_url": "https://airjam.jp/artists",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-13",
+     "title": "響都超特急（12/13）",
+     "kind": "フェス",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-20",
+     "title": "MERRY ROCK PARADE 2026（12/20）",
+     "kind": "フェス",
+     "venue": "ポートメッセなごや（愛知県）",
+     "source_url": "https://www.merryrockparade.jp/artist.html",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-28",
+     "title": "RADIO CRAZY（12/28）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://radiocrazy.fm/",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-03-20",
+     "title": "MEGA VEGAS 2027（3/20〜3/21のいずれか）",
+     "kind": "フェス",
+     "venue": "神戸ワールド記念ホール（兵庫県）",
+     "source_url": "https://lasvegas-jp.com/live/9288",
+     "confidence": "low"
     }
    ]
   },
@@ -550,6 +754,14 @@
      "kind": "フェス",
      "venue": "ZOZOマリンスタジアム（千葉）",
      "source_url": "https://www.thefirsttimes.jp/?p=820987",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-11-07",
+     "title": "AIR JAM（11/7）",
+     "kind": "フェス",
+     "venue": "ZOZOマリンスタジアム（千葉県）",
+     "source_url": "https://airjam.jp/artists",
      "confidence": "high"
     }
    ]
@@ -579,6 +791,14 @@
      "kind": "フェス",
      "venue": "TOYOTA ARENA TOKYO（東京）",
      "source_url": "https://eplus.jp/new-horizon-fest/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-11-07",
+     "title": "AIR JAM（11/7）",
+     "kind": "フェス",
+     "venue": "ZOZOマリンスタジアム（千葉県）",
+     "source_url": "https://airjam.jp/artists",
      "confidence": "high"
     }
    ]
@@ -625,6 +845,46 @@
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://xhl-music.com/feature/hypelikeit",
      "confidence": "high"
+    },
+    {
+     "date": "2026-11-07",
+     "title": "AIR JAM（11/7）",
+     "kind": "フェス",
+     "venue": "ZOZOマリンスタジアム（千葉県）",
+     "source_url": "https://airjam.jp/artists",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-12",
+     "title": "響都超特急（12/12）",
+     "kind": "フェス",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-20",
+     "title": "MERRY ROCK PARADE 2026（12/20）",
+     "kind": "フェス",
+     "venue": "ポートメッセなごや（愛知県）",
+     "source_url": "https://www.merryrockparade.jp/artist.html",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-28",
+     "title": "RADIO CRAZY（12/28）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://radiocrazy.fm/",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-10-23",
+     "title": "OSAKA HAZIKETEMAZARE FESTIVAL 2027（ハジマザ）（10/23〜10/24のいずれか）",
+     "kind": "フェス",
+     "venue": "泉大津フェニックス（大阪府）",
+     "source_url": "https://natalie.mu/music/news/695216",
+     "confidence": "low"
     }
    ]
   },
@@ -637,6 +897,14 @@
      "kind": "フェス",
      "venue": "ZOZOマリンスタジアム（千葉）",
      "source_url": "https://www.thefirsttimes.jp/?p=820987",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-11-07",
+     "title": "AIR JAM（11/7）",
+     "kind": "フェス",
+     "venue": "ZOZOマリンスタジアム（千葉県）",
+     "source_url": "https://airjam.jp/artists",
      "confidence": "high"
     }
    ]
@@ -675,6 +943,14 @@
      "venue": "豊洲PIT（東京）",
      "source_url": "https://kotori-band.com/news/607273ae-b510-4524-8d84-85fc900cc09e",
      "confidence": "high"
+    },
+    {
+     "date": "2026-11-07",
+     "title": "AIR JAM（11/7）",
+     "kind": "フェス",
+     "venue": "ZOZOマリンスタジアム（千葉県）",
+     "source_url": "https://airjam.jp/artists",
+     "confidence": "high"
     }
    ]
   },
@@ -687,6 +963,14 @@
      "kind": "フェス",
      "venue": "ZOZOマリンスタジアム（千葉）",
      "source_url": "https://www.thefirsttimes.jp/?p=820987",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-11-07",
+     "title": "AIR JAM（11/7）",
+     "kind": "フェス",
+     "venue": "ZOZOマリンスタジアム（千葉県）",
+     "source_url": "https://airjam.jp/artists",
      "confidence": "high"
     }
    ]
@@ -701,11 +985,21 @@
      "venue": "ZOZOマリンスタジアム（千葉）",
      "source_url": "https://www.thefirsttimes.jp/?p=820987",
      "confidence": "high"
+    },
+    {
+     "date": "2026-11-07",
+     "title": "AIR JAM（11/7）",
+     "kind": "フェス",
+     "venue": "ZOZOマリンスタジアム（千葉県）",
+     "source_url": "https://airjam.jp/artists",
+     "confidence": "high"
     }
    ]
   },
   "マキシマム ザ ホルモン": {
-   "aliases": [],
+   "aliases": [
+    "ホルモン"
+   ],
    "events": [
     {
      "date": "2026-11-07",
@@ -729,6 +1023,38 @@
      "kind": "フェス",
      "venue": "INTEX OSAKA（大阪府）",
      "source_url": "https://en.skream.jp/news/2026/09/fm802_radio_crazy_2026_1st_lineup.php",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-11-07",
+     "title": "AIR JAM（11/7）",
+     "kind": "フェス",
+     "venue": "ZOZOマリンスタジアム（千葉県）",
+     "source_url": "https://airjam.jp/artists",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-11-22",
+     "title": "TRUE NORTH FESTIVAL（11/22）",
+     "kind": "フェス",
+     "venue": "豊洲PIT（東京）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-13",
+     "title": "響都超特急（12/13）",
+     "kind": "フェス",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-28",
+     "title": "RADIO CRAZY（12/28）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://radiocrazy.fm/",
      "confidence": "high"
     }
    ]
@@ -775,6 +1101,14 @@
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://xhl-music.com/feature/hypelikeit",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-28",
+     "title": "RADIO CRAZY（12/28）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://radiocrazy.fm/",
+     "confidence": "high"
     }
    ]
   },
@@ -803,6 +1137,22 @@
      "kind": "フェス",
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://xhl-music.com/feature/hypelikeit",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-20",
+     "title": "MERRY ROCK PARADE 2026（12/20）",
+     "kind": "フェス",
+     "venue": "ポートメッセなごや（愛知県）",
+     "source_url": "https://www.merryrockparade.jp/artist.html",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-28",
+     "title": "RADIO CRAZY（12/28）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://radiocrazy.fm/",
      "confidence": "high"
     }
    ]
@@ -841,6 +1191,14 @@
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://xhl-music.com/feature/hypelikeit",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-20",
+     "title": "MERRY ROCK PARADE 2026（12/20）",
+     "kind": "フェス",
+     "venue": "ポートメッセなごや（愛知県）",
+     "source_url": "https://www.merryrockparade.jp/artist.html",
+     "confidence": "high"
     }
    ]
   },
@@ -877,6 +1235,22 @@
      "kind": "フェス",
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://xhl-music.com/feature/hypelikeit",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-11-06",
+     "title": "BUZZ RHYTHM LIVE（11/6）",
+     "kind": "フェス",
+     "venue": "横浜アリーナ（神奈川県）",
+     "source_url": "https://buzzrhythm.live/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-28",
+     "title": "RADIO CRAZY（12/28）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://radiocrazy.fm/",
      "confidence": "high"
     }
    ]
@@ -989,6 +1363,22 @@
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://xhl-music.com/feature/hypelikeit",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-12",
+     "title": "響都超特急（12/12）",
+     "kind": "フェス",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-20",
+     "title": "MERRY ROCK PARADE 2026（12/20）",
+     "kind": "フェス",
+     "venue": "ポートメッセなごや（愛知県）",
+     "source_url": "https://www.merryrockparade.jp/artist.html",
+     "confidence": "high"
     }
    ]
   },
@@ -1009,6 +1399,14 @@
      "kind": "フェス",
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://xhl-music.com/feature/hypelikeit",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-19",
+     "title": "MERRY ROCK PARADE 2026（12/19）",
+     "kind": "フェス",
+     "venue": "ポートメッセなごや（愛知県）",
+     "source_url": "https://www.merryrockparade.jp/artist.html",
      "confidence": "high"
     }
    ]
@@ -1174,6 +1572,14 @@
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-20",
+     "title": "MERRY ROCK PARADE 2026（12/20）",
+     "kind": "フェス",
+     "venue": "ポートメッセなごや（愛知県）",
+     "source_url": "https://www.merryrockparade.jp/artist.html",
+     "confidence": "high"
     }
    ]
   },
@@ -1195,6 +1601,14 @@
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
      "confidence": "high"
+    },
+    {
+     "date": "2027-03-19",
+     "title": "HY SKY Fes 2027 & 前夜祭（3/19〜3/21のいずれか）",
+     "kind": "フェス",
+     "venue": "沖縄県総合運動公園 多目的広場（沖縄県）",
+     "source_url": "https://skyfes.net/",
+     "confidence": "low"
     }
    ]
   },
@@ -1228,6 +1642,14 @@
      "kind": "フェス",
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
      "confidence": "high"
     }
    ]
@@ -1300,6 +1722,22 @@
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-19",
+     "title": "MERRY ROCK PARADE 2026（12/19）",
+     "kind": "フェス",
+     "venue": "ポートメッセなごや（愛知県）",
+     "source_url": "https://www.merryrockparade.jp/artist.html",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-26",
+     "title": "RADIO CRAZY（12/26）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://radiocrazy.fm/",
+     "confidence": "high"
     }
    ]
   },
@@ -1317,7 +1755,9 @@
    ]
   },
   "超ときめき♡宣伝部": {
-   "aliases": [],
+   "aliases": [
+    "とき宣"
+   ],
    "events": [
     {
      "date": "2026-11-08",
@@ -1346,6 +1786,14 @@
      "kind": "フェス",
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-26",
+     "title": "RADIO CRAZY（12/26）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://radiocrazy.fm/",
      "confidence": "high"
     }
    ]
@@ -1394,6 +1842,14 @@
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-26",
+     "title": "RADIO CRAZY（12/26）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://radiocrazy.fm/",
+     "confidence": "high"
     }
    ]
   },
@@ -1428,6 +1884,14 @@
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
      "confidence": "high"
+    },
+    {
+     "date": "2026-11-08",
+     "title": "BUZZ RHYTHM LIVE（11/8）",
+     "kind": "フェス",
+     "venue": "横浜アリーナ（神奈川県）",
+     "source_url": "https://buzzrhythm.live/",
+     "confidence": "high"
     }
    ]
   },
@@ -1449,6 +1913,14 @@
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-26",
+     "title": "MAGIC HOUR FESTIVAL（12/26）",
+     "kind": "フェス",
+     "venue": "豊洲PIT（東京）",
+     "source_url": "https://festival-life.com/169100",
+     "confidence": "high"
     }
    ]
   },
@@ -1469,6 +1941,22 @@
      "kind": "フェス",
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-20",
+     "title": "MERRY ROCK PARADE 2026（12/20）",
+     "kind": "フェス",
+     "venue": "ポートメッセなごや（愛知県）",
+     "source_url": "https://www.merryrockparade.jp/artist.html",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "RADIO CRAZY（12/27）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://radiocrazy.fm/",
      "confidence": "high"
     }
    ]
@@ -1542,6 +2030,14 @@
      "kind": "フェス",
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "RADIO CRAZY（12/27）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://radiocrazy.fm/",
      "confidence": "high"
     }
    ]
@@ -1624,6 +2120,14 @@
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "RADIO CRAZY（12/27）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://radiocrazy.fm/",
+     "confidence": "high"
     }
    ]
   },
@@ -1676,6 +2180,14 @@
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "RADIO CRAZY（12/27）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://radiocrazy.fm/",
+     "confidence": "high"
     }
    ]
   },
@@ -1717,6 +2229,22 @@
      "kind": "フェス",
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-11-08",
+     "title": "BUZZ RHYTHM LIVE（11/8）",
+     "kind": "フェス",
+     "venue": "横浜アリーナ（神奈川県）",
+     "source_url": "https://buzzrhythm.live/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "RADIO CRAZY（12/27）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://radiocrazy.fm/",
      "confidence": "high"
     }
    ]
@@ -1786,6 +2314,14 @@
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-28",
+     "title": "RADIO CRAZY（12/28）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://radiocrazy.fm/",
+     "confidence": "high"
     }
    ]
   },
@@ -1816,7 +2352,9 @@
    ]
   },
   "緑黄色社会": {
-   "aliases": [],
+   "aliases": [
+    "リョクシャカ"
+   ],
    "events": [
     {
      "date": "2026-12-12",
@@ -1832,6 +2370,22 @@
      "kind": "フェス",
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-20",
+     "title": "MERRY ROCK PARADE 2026（12/20）",
+     "kind": "フェス",
+     "venue": "ポートメッセなごや（愛知県）",
+     "source_url": "https://www.merryrockparade.jp/artist.html",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "RADIO CRAZY（12/27）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://radiocrazy.fm/",
      "confidence": "high"
     }
    ]
@@ -1900,6 +2454,30 @@
      "kind": "フェス",
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-13",
+     "title": "響都超特急（12/13）",
+     "kind": "フェス",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-20",
+     "title": "MERRY ROCK PARADE 2026（12/20）",
+     "kind": "フェス",
+     "venue": "ポートメッセなごや（愛知県）",
+     "source_url": "https://www.merryrockparade.jp/artist.html",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-26",
+     "title": "RADIO CRAZY（12/26）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://radiocrazy.fm/",
      "confidence": "high"
     }
    ]
@@ -1990,6 +2568,14 @@
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-19",
+     "title": "MERRY ROCK PARADE 2026（12/19）",
+     "kind": "フェス",
+     "venue": "ポートメッセなごや（愛知県）",
+     "source_url": "https://www.merryrockparade.jp/artist.html",
+     "confidence": "high"
     }
    ]
   },
@@ -2003,6 +2589,14 @@
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "RADIO CRAZY（12/27）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://radiocrazy.fm/",
+     "confidence": "high"
     }
    ]
   },
@@ -2015,6 +2609,14 @@
      "kind": "フェス",
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-26",
+     "title": "RADIO CRAZY（12/26）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://radiocrazy.fm/",
      "confidence": "high"
     }
    ]
@@ -2099,6 +2701,14 @@
      "kind": "フェス",
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-26",
+     "title": "RADIO CRAZY（12/26）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://radiocrazy.fm/",
      "confidence": "high"
     }
    ]
@@ -2231,6 +2841,14 @@
      "venue": "（東京）",
      "source_url": "https://crystallake-worldwide.com/",
      "confidence": "low"
+    },
+    {
+     "date": "2026-12-12",
+     "title": "響都超特急（12/12）",
+     "kind": "フェス",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist/",
+     "confidence": "high"
     }
    ]
   },
@@ -2244,6 +2862,14 @@
      "venue": "（東京）",
      "source_url": "https://www.ragnet.co.jp/rock-festival",
      "confidence": "low"
+    },
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
     }
    ]
   },
@@ -2295,6 +2921,14 @@
      "kind": "フェス",
      "venue": "TOYOTA ARENA TOKYO（東京）",
      "source_url": "https://eplus.jp/new-horizon-fest/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-13",
+     "title": "響都超特急（12/13）",
+     "kind": "フェス",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist/",
      "confidence": "high"
     }
    ]
@@ -2556,6 +3190,14 @@
      "venue": "（東京）",
      "source_url": "https://www.ragnet.co.jp/rock-festival",
      "confidence": "low"
+    },
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
     }
    ]
   },
@@ -2792,7 +3434,9 @@
    ]
   },
   "花冷え。": {
-   "aliases": [],
+   "aliases": [
+    "花冷え"
+   ],
    "events": [
     {
      "date": "2026-11-22",
@@ -2840,6 +3484,14 @@
      "venue": "（東京）",
      "source_url": "https://www.ragnet.co.jp/rock-festival",
      "confidence": "low"
+    },
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
     }
    ]
   },
@@ -2866,6 +3518,14 @@
      "venue": "（東京）",
      "source_url": "https://www.ragnet.co.jp/rock-festival",
      "confidence": "low"
+    },
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
     }
    ]
   },
@@ -2879,6 +3539,14 @@
      "venue": "（東京）",
      "source_url": "https://www.ragnet.co.jp/rock-festival",
      "confidence": "low"
+    },
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
     }
    ]
   },
@@ -2918,6 +3586,14 @@
      "venue": "（東京）",
      "source_url": "https://www.ragnet.co.jp/rock-festival",
      "confidence": "low"
+    },
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
     }
    ]
   },
@@ -2944,6 +3620,14 @@
      "venue": "（東京）",
      "source_url": "https://www.ragnet.co.jp/rock-festival",
      "confidence": "low"
+    },
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
     }
    ]
   },
@@ -3156,7 +3840,10 @@
    ]
   },
   "Survive Said The Prophet": {
-   "aliases": [],
+   "aliases": [
+    "サバプロ",
+    "SSTP"
+   ],
    "events": [
     {
      "date": "2026-12-26",
@@ -3202,6 +3889,14 @@
      "venue": "（東京）",
      "source_url": "https://www.ragnet.co.jp/rock-festival",
      "confidence": "low"
+    },
+    {
+     "date": "2026-12-19",
+     "title": "IWA ROCK presented by e-Broad（12/19）",
+     "kind": "フェス",
+     "venue": "Zepp DiverCity(TOKYO)（東京都）",
+     "source_url": "https://spice.eplus.jp/articles/349354",
+     "confidence": "high"
     }
    ]
   },
@@ -3496,6 +4191,14 @@
      "venue": "幕張メッセ 国際展示場4〜7ホール（千葉県）",
      "source_url": "http://www.kishidanbanpaku.com/s/kbpk/page/artist2026",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-13",
+     "title": "響都超特急（12/13）",
+     "kind": "フェス",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist/",
+     "confidence": "high"
     }
    ]
   },
@@ -3561,6 +4264,38 @@
      "venue": "TOYOTA ARENA TOKYO（東京）",
      "source_url": "https://eplus.jp/new-horizon-fest/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-11-22",
+     "title": "TRUE NORTH FESTIVAL（11/22）",
+     "kind": "フェス",
+     "venue": "豊洲PIT（東京）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-13",
+     "title": "響都超特急（12/13）",
+     "kind": "フェス",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-19",
+     "title": "MERRY ROCK PARADE 2026（12/19）",
+     "kind": "フェス",
+     "venue": "ポートメッセなごや（愛知県）",
+     "source_url": "https://www.merryrockparade.jp/artist.html",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-03-20",
+     "title": "MEGA VEGAS 2027（3/20〜3/21のいずれか）",
+     "kind": "フェス",
+     "venue": "神戸ワールド記念ホール（兵庫県）",
+     "source_url": "https://lasvegas-jp.com/live/9288",
+     "confidence": "low"
     }
    ]
   },
@@ -3574,6 +4309,38 @@
      "venue": "岐阜市文化センター（岐阜）",
      "source_url": "http://masterpiece-gifu.com/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-12",
+     "title": "響都超特急（12/12）",
+     "kind": "フェス",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-20",
+     "title": "MERRY ROCK PARADE 2026（12/20）",
+     "kind": "フェス",
+     "venue": "ポートメッセなごや（愛知県）",
+     "source_url": "https://www.merryrockparade.jp/artist.html",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-26",
+     "title": "RADIO CRAZY（12/26）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://radiocrazy.fm/",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-03-20",
+     "title": "MEGA VEGAS 2027（3/20〜3/21のいずれか）",
+     "kind": "フェス",
+     "venue": "神戸ワールド記念ホール（兵庫県）",
+     "source_url": "https://lasvegas-jp.com/live/9288",
+     "confidence": "low"
     }
    ]
   },
@@ -3587,6 +4354,14 @@
      "venue": "INTEX OSAKA（大阪府）",
      "source_url": "https://en.skream.jp/news/2026/09/fm802_radio_crazy_2026_1st_lineup.php",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "RADIO CRAZY（12/27）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://radiocrazy.fm/",
+     "confidence": "high"
     }
    ]
   },
@@ -3596,6 +4371,14 @@
     {
      "date": "2026-11-06",
      "title": "BUZZ RHYTHM LIVE 2026",
+     "kind": "フェス",
+     "venue": "横浜アリーナ（神奈川県）",
+     "source_url": "https://buzzrhythm.live/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-11-06",
+     "title": "BUZZ RHYTHM LIVE（11/6）",
      "kind": "フェス",
      "venue": "横浜アリーナ（神奈川県）",
      "source_url": "https://buzzrhythm.live/",
@@ -3613,6 +4396,14 @@
      "venue": "横浜アリーナ（神奈川県）",
      "source_url": "https://buzzrhythm.live/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-11-06",
+     "title": "BUZZ RHYTHM LIVE（11/6）",
+     "kind": "フェス",
+     "venue": "横浜アリーナ（神奈川県）",
+     "source_url": "https://buzzrhythm.live/",
+     "confidence": "high"
     }
    ]
   },
@@ -3622,6 +4413,14 @@
     {
      "date": "2026-11-06",
      "title": "BUZZ RHYTHM LIVE 2026",
+     "kind": "フェス",
+     "venue": "横浜アリーナ（神奈川県）",
+     "source_url": "https://buzzrhythm.live/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-11-06",
+     "title": "BUZZ RHYTHM LIVE（11/6）",
      "kind": "フェス",
      "venue": "横浜アリーナ（神奈川県）",
      "source_url": "https://buzzrhythm.live/",
@@ -3639,6 +4438,14 @@
      "venue": "横浜アリーナ（神奈川県）",
      "source_url": "https://buzzrhythm.live/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-11-06",
+     "title": "BUZZ RHYTHM LIVE（11/6）",
+     "kind": "フェス",
+     "venue": "横浜アリーナ（神奈川県）",
+     "source_url": "https://buzzrhythm.live/",
+     "confidence": "high"
     }
    ]
   },
@@ -3648,6 +4455,14 @@
     {
      "date": "2026-11-07",
      "title": "BUZZ RHYTHM LIVE 2026",
+     "kind": "フェス",
+     "venue": "横浜アリーナ（神奈川県）",
+     "source_url": "https://buzzrhythm.live/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-11-07",
+     "title": "BUZZ RHYTHM LIVE（11/7）",
      "kind": "フェス",
      "venue": "横浜アリーナ（神奈川県）",
      "source_url": "https://buzzrhythm.live/",
@@ -3665,6 +4480,14 @@
      "venue": "横浜アリーナ（神奈川県）",
      "source_url": "https://buzzrhythm.live/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-11-07",
+     "title": "BUZZ RHYTHM LIVE（11/7）",
+     "kind": "フェス",
+     "venue": "横浜アリーナ（神奈川県）",
+     "source_url": "https://buzzrhythm.live/",
+     "confidence": "high"
     }
    ]
   },
@@ -3674,6 +4497,14 @@
     {
      "date": "2026-11-07",
      "title": "BUZZ RHYTHM LIVE 2026",
+     "kind": "フェス",
+     "venue": "横浜アリーナ（神奈川県）",
+     "source_url": "https://buzzrhythm.live/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-11-07",
+     "title": "BUZZ RHYTHM LIVE（11/7）",
      "kind": "フェス",
      "venue": "横浜アリーナ（神奈川県）",
      "source_url": "https://buzzrhythm.live/",
@@ -3699,6 +4530,14 @@
      "venue": "幕張メッセ 国際展示場4〜7ホール（千葉県）",
      "source_url": "http://www.kishidanbanpaku.com/s/kbpk/page/artist2026",
      "confidence": "high"
+    },
+    {
+     "date": "2026-11-07",
+     "title": "BUZZ RHYTHM LIVE（11/7）",
+     "kind": "フェス",
+     "venue": "横浜アリーナ（神奈川県）",
+     "source_url": "https://buzzrhythm.live/",
+     "confidence": "high"
     }
    ]
   },
@@ -3708,6 +4547,14 @@
     {
      "date": "2026-11-07",
      "title": "BUZZ RHYTHM LIVE 2026",
+     "kind": "フェス",
+     "venue": "横浜アリーナ（神奈川県）",
+     "source_url": "https://buzzrhythm.live/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-11-07",
+     "title": "BUZZ RHYTHM LIVE（11/7）",
      "kind": "フェス",
      "venue": "横浜アリーナ（神奈川県）",
      "source_url": "https://buzzrhythm.live/",
@@ -3725,6 +4572,14 @@
      "venue": "横浜アリーナ（神奈川県）",
      "source_url": "https://buzzrhythm.live/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-11-08",
+     "title": "BUZZ RHYTHM LIVE（11/8）",
+     "kind": "フェス",
+     "venue": "横浜アリーナ（神奈川県）",
+     "source_url": "https://buzzrhythm.live/",
+     "confidence": "high"
     }
    ]
   },
@@ -3738,6 +4593,14 @@
      "venue": "横浜アリーナ（神奈川県）",
      "source_url": "https://buzzrhythm.live/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-11-08",
+     "title": "BUZZ RHYTHM LIVE（11/8）",
+     "kind": "フェス",
+     "venue": "横浜アリーナ（神奈川県）",
+     "source_url": "https://buzzrhythm.live/",
+     "confidence": "high"
     }
    ]
   },
@@ -3747,6 +4610,14 @@
     {
      "date": "2026-11-08",
      "title": "BUZZ RHYTHM LIVE 2026",
+     "kind": "フェス",
+     "venue": "横浜アリーナ（神奈川県）",
+     "source_url": "https://buzzrhythm.live/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-11-08",
+     "title": "BUZZ RHYTHM LIVE（11/8）",
      "kind": "フェス",
      "venue": "横浜アリーナ（神奈川県）",
      "source_url": "https://buzzrhythm.live/",
@@ -3777,6 +4648,14 @@
      "venue": "幕張メッセ 国際展示場4〜7ホール（千葉県）",
      "source_url": "http://www.kishidanbanpaku.com/s/kbpk/page/artist2026",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-28",
+     "title": "RADIO CRAZY（12/28）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://radiocrazy.fm/",
+     "confidence": "high"
     }
    ]
   },
@@ -3797,6 +4676,22 @@
      "kind": "フェス",
      "venue": "幕張メッセ 国際展示場4〜7ホール（千葉県）",
      "source_url": "http://www.kishidanbanpaku.com/s/kbpk/page/artist2026",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-12",
+     "title": "響都超特急（12/12）",
+     "kind": "フェス",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-19",
+     "title": "MERRY ROCK PARADE 2026（12/19）",
+     "kind": "フェス",
+     "venue": "ポートメッセなごや（愛知県）",
+     "source_url": "https://www.merryrockparade.jp/artist.html",
      "confidence": "high"
     }
    ]
@@ -3910,6 +4805,14 @@
      "venue": "幕張メッセ 国際展示場4〜7ホール（千葉県）",
      "source_url": "http://www.kishidanbanpaku.com/s/kbpk/page/artist2026",
      "confidence": "high"
+    },
+    {
+     "date": "2026-11-21",
+     "title": "テレビ朝日ドリームフェスティバル2026（11/21〜11/23のいずれか）",
+     "kind": "フェス",
+     "venue": "Kアリーナ横浜（神奈川県）",
+     "source_url": "https://dreamfestival.jp/",
+     "confidence": "low"
     }
    ]
   },
@@ -3965,6 +4868,22 @@
      "venue": "岐阜市文化センター（岐阜）",
      "source_url": "http://masterpiece-gifu.com/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-12",
+     "title": "響都超特急（12/12）",
+     "kind": "フェス",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-28",
+     "title": "RADIO CRAZY（12/28）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://radiocrazy.fm/",
+     "confidence": "high"
     }
    ]
   },
@@ -3985,6 +4904,14 @@
      "kind": "フェス",
      "venue": "INTEX OSAKA（大阪府）",
      "source_url": "https://en.skream.jp/news/2026/09/fm802_radio_crazy_2026_1st_lineup.php",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "RADIO CRAZY（12/27）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://radiocrazy.fm/",
      "confidence": "high"
     }
    ]
@@ -4016,7 +4943,9 @@
    ]
   },
   "ももいろクローバーZ": {
-   "aliases": [],
+   "aliases": [
+    "ももクロ"
+   ],
    "events": [
     {
      "date": "2026-11-08",
@@ -4025,6 +4954,14 @@
      "venue": "幕張メッセ 国際展示場4〜7ホール（千葉県）",
      "source_url": "http://www.kishidanbanpaku.com/s/kbpk/page/artist2026",
      "confidence": "high"
+    },
+    {
+     "date": "2026-11-21",
+     "title": "テレビ朝日ドリームフェスティバル2026（11/21〜11/23のいずれか）",
+     "kind": "フェス",
+     "venue": "Kアリーナ横浜（神奈川県）",
+     "source_url": "https://dreamfestival.jp/",
+     "confidence": "low"
     }
    ]
   },
@@ -4053,6 +4990,30 @@
      "kind": "フェス",
      "venue": "TOYOTA ARENA TOKYO（東京）",
      "source_url": "https://eplus.jp/new-horizon-fest/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-12",
+     "title": "響都超特急（12/12）",
+     "kind": "フェス",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-13",
+     "title": "響都超特急（12/13）",
+     "kind": "フェス",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-19",
+     "title": "IWA ROCK presented by e-Broad（12/19）",
+     "kind": "フェス",
+     "venue": "Zepp DiverCity(TOKYO)（東京都）",
+     "source_url": "https://spice.eplus.jp/articles/349354",
      "confidence": "high"
     }
    ]
@@ -4135,6 +5096,22 @@
      "venue": "宜野湾港マリーナ トロピカルビーチ特設会場（沖縄県）",
      "source_url": "https://www800.asia/2026/artist",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-13",
+     "title": "響都超特急（12/13）",
+     "kind": "フェス",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-19",
+     "title": "IWA ROCK presented by e-Broad（12/19）",
+     "kind": "フェス",
+     "venue": "Zepp DiverCity(TOKYO)（東京都）",
+     "source_url": "https://spice.eplus.jp/articles/349354",
+     "confidence": "high"
     }
    ]
   },
@@ -4174,6 +5151,14 @@
      "venue": "宜野湾港マリーナ トロピカルビーチ特設会場（沖縄県）",
      "source_url": "https://www800.asia/2026/artist",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-26",
+     "title": "RADIO CRAZY（12/26）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://radiocrazy.fm/",
+     "confidence": "high"
     }
    ]
   },
@@ -4208,6 +5193,14 @@
      "venue": "INTEX OSAKA（大阪府）",
      "source_url": "https://en.skream.jp/news/2026/09/fm802_radio_crazy_2026_1st_lineup.php",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-28",
+     "title": "RADIO CRAZY（12/28）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://radiocrazy.fm/",
+     "confidence": "high"
     }
    ]
   },
@@ -4234,6 +5227,14 @@
      "venue": "宜野湾港マリーナ トロピカルビーチ特設会場（沖縄県）",
      "source_url": "https://www800.asia/2026/artist",
      "confidence": "high"
+    },
+    {
+     "date": "2027-03-02",
+     "title": "Snow Machine Japan（3/2〜3/7のいずれか）",
+     "kind": "フェス",
+     "venue": "白馬のスキーリゾート（長野県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "low"
     }
    ]
   },
@@ -4246,6 +5247,14 @@
      "kind": "フェス",
      "venue": "宜野湾港マリーナ トロピカルビーチ特設会場（沖縄県）",
      "source_url": "https://www800.asia/2026/artist",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-12",
+     "title": "響都超特急（12/12）",
+     "kind": "フェス",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist/",
      "confidence": "high"
     }
    ]
@@ -4280,6 +5289,22 @@
      "kind": "フェス",
      "venue": "幕張メッセ（千葉県）",
      "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-19",
+     "title": "MERRY ROCK PARADE 2026（12/19）",
+     "kind": "フェス",
+     "venue": "ポートメッセなごや（愛知県）",
+     "source_url": "https://www.merryrockparade.jp/artist.html",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-28",
+     "title": "RADIO CRAZY（12/28）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://radiocrazy.fm/",
      "confidence": "high"
     }
    ]
@@ -4380,6 +5405,14 @@
      "venue": "INTEX OSAKA（大阪府）",
      "source_url": "https://en.skream.jp/news/2026/09/fm802_radio_crazy_2026_1st_lineup.php",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "RADIO CRAZY（12/27）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://radiocrazy.fm/",
+     "confidence": "high"
     }
    ]
   },
@@ -4406,6 +5439,14 @@
      "venue": "INTEX OSAKA（大阪府）",
      "source_url": "https://en.skream.jp/news/2026/09/fm802_radio_crazy_2026_1st_lineup.php",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "RADIO CRAZY（12/27）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://radiocrazy.fm/",
+     "confidence": "high"
     }
    ]
   },
@@ -4427,6 +5468,14 @@
      "venue": "INTEX OSAKA（大阪府）",
      "source_url": "https://en.skream.jp/news/2026/09/fm802_radio_crazy_2026_1st_lineup.php",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "RADIO CRAZY（12/27）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://radiocrazy.fm/",
+     "confidence": "high"
     }
    ]
   },
@@ -4439,6 +5488,14 @@
      "kind": "フェス",
      "venue": "INTEX OSAKA（大阪府）",
      "source_url": "https://en.skream.jp/news/2026/09/fm802_radio_crazy_2026_1st_lineup.php",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-28",
+     "title": "RADIO CRAZY（12/28）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://radiocrazy.fm/",
      "confidence": "high"
     }
    ]
@@ -4461,6 +5518,14 @@
      "venue": "INTEX OSAKA（大阪府）",
      "source_url": "https://en.skream.jp/news/2026/09/fm802_radio_crazy_2026_1st_lineup.php",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-28",
+     "title": "RADIO CRAZY（12/28）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://radiocrazy.fm/",
+     "confidence": "high"
     }
    ]
   },
@@ -4481,6 +5546,14 @@
      "kind": "フェス",
      "venue": "INTEX OSAKA（大阪府）",
      "source_url": "https://en.skream.jp/news/2026/09/fm802_radio_crazy_2026_1st_lineup.php",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-28",
+     "title": "RADIO CRAZY（12/28）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://radiocrazy.fm/",
      "confidence": "high"
     }
    ]
@@ -4503,6 +5576,14 @@
      "venue": "INTEX OSAKA（大阪府）",
      "source_url": "https://en.skream.jp/news/2026/09/fm802_radio_crazy_2026_1st_lineup.php",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-28",
+     "title": "RADIO CRAZY（12/28）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://radiocrazy.fm/",
+     "confidence": "high"
     }
    ]
   },
@@ -4515,6 +5596,14 @@
      "kind": "フェス",
      "venue": "INTEX OSAKA（大阪府）",
      "source_url": "https://en.skream.jp/news/2026/09/fm802_radio_crazy_2026_1st_lineup.php",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-28",
+     "title": "RADIO CRAZY（12/28）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://radiocrazy.fm/",
      "confidence": "high"
     }
    ]
@@ -4578,6 +5667,14 @@
      "kind": "フェス",
      "venue": "TOYOTA ARENA TOKYO（東京）",
      "source_url": "https://eplus.jp/new-horizon-fest/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-12",
+     "title": "響都超特急（12/12）",
+     "kind": "フェス",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist/",
      "confidence": "high"
     }
    ]
@@ -4851,6 +5948,14 @@
      "kind": "フェス",
      "venue": "渋温泉 歴史の宿 金具屋（長野県）",
      "source_url": "https://onsen-ongaku.com/onsenongaku-2026",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-11-06",
+     "title": "BUZZ RHYTHM LIVE（11/6）",
+     "kind": "フェス",
+     "venue": "横浜アリーナ（神奈川県）",
+     "source_url": "https://buzzrhythm.live/",
      "confidence": "high"
     }
    ]
@@ -5611,6 +6716,14 @@
      "kind": "フェス",
      "venue": "神戸VARIT.ほか（兵庫県）",
      "source_url": "https://eplus.jp/sf/detail/K000000646",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
      "confidence": "high"
     }
    ]
@@ -6394,6 +7507,14 @@
      "kind": "フェス",
      "venue": "神戸VARIT.ほか（兵庫県）",
      "source_url": "https://eplus.jp/sf/detail/K000000646",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
      "confidence": "high"
     }
    ]
@@ -7225,6 +8346,14 @@
      "venue": "心斎橋BIGCAT ほか7会場（大阪）",
      "source_url": "https://eplus.jp/sf/detail/3969250001",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-12",
+     "title": "響都超特急（12/12）",
+     "kind": "フェス",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist/",
+     "confidence": "high"
     }
    ]
   },
@@ -7414,6 +8543,14 @@
      "kind": "フェス",
      "venue": "心斎橋BIGCAT ほか7会場（大阪）",
      "source_url": "https://eplus.jp/sf/detail/3969250001",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-13",
+     "title": "響都超特急（12/13）",
+     "kind": "フェス",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist/",
      "confidence": "high"
     }
    ]
@@ -7677,6 +8814,14 @@
      "kind": "フェス",
      "venue": "（大阪）",
      "source_url": "https://pkshampoo.jp/psychicfes/artist.html",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
      "confidence": "high"
     }
    ]
@@ -8006,6 +9151,14 @@
      "venue": "（大阪）",
      "source_url": "https://pkshampoo.jp/psychicfes/artist.html",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
     }
    ]
   },
@@ -8031,6 +9184,14 @@
      "kind": "フェス",
      "venue": "（大阪）",
      "source_url": "https://pkshampoo.jp/psychicfes/artist.html",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
      "confidence": "high"
     }
    ]
@@ -8110,6 +9271,14 @@
      "venue": "（大阪）",
      "source_url": "https://pkshampoo.jp/psychicfes/artist.html",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
     }
    ]
   },
@@ -8122,6 +9291,14 @@
      "kind": "フェス",
      "venue": "（大阪）",
      "source_url": "https://pkshampoo.jp/psychicfes/artist.html",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
      "confidence": "high"
     }
    ]
@@ -8136,6 +9313,14 @@
      "venue": "（大阪）",
      "source_url": "https://pkshampoo.jp/psychicfes/artist.html",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
     }
    ]
   },
@@ -8148,6 +9333,14 @@
      "kind": "フェス",
      "venue": "（大阪）",
      "source_url": "https://pkshampoo.jp/psychicfes/artist.html",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
      "confidence": "high"
     }
    ]
@@ -8175,6 +9368,14 @@
      "venue": "（大阪）",
      "source_url": "https://pkshampoo.jp/psychicfes/artist.html",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
     }
    ]
   },
@@ -8200,6 +9401,14 @@
      "kind": "フェス",
      "venue": "（大阪）",
      "source_url": "https://pkshampoo.jp/psychicfes/artist.html",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
      "confidence": "high"
     }
    ]
@@ -8227,6 +9436,14 @@
      "venue": "（大阪）",
      "source_url": "https://pkshampoo.jp/psychicfes/artist.html",
      "confidence": "high"
+    },
+    {
+     "date": "2026-11-23",
+     "title": "PANA FES（11/23）",
+     "kind": "フェス",
+     "venue": "神戸 太陽と虎ほか（兵庫）",
+     "source_url": "https://eplus.jp/sf/detail/4580820001-P0030001",
+     "confidence": "high"
     }
    ]
   },
@@ -8239,6 +9456,14 @@
      "kind": "フェス",
      "venue": "（大阪）",
      "source_url": "https://pkshampoo.jp/psychicfes/artist.html",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック（11/29）",
+     "kind": "フェス",
+     "venue": "下北沢の複数ライブハウス（東京）",
+     "source_url": "https://gekirock.com/news/2026/10/kakumei2026_6th_lineup.php",
      "confidence": "high"
     }
    ]
@@ -8331,6 +9556,14 @@
      "venue": "（大阪）",
      "source_url": "https://pkshampoo.jp/psychicfes/artist.html",
      "confidence": "high"
+    },
+    {
+     "date": "2026-11-23",
+     "title": "PANA FES（11/23）",
+     "kind": "フェス",
+     "venue": "神戸 太陽と虎ほか（兵庫）",
+     "source_url": "https://eplus.jp/sf/detail/4580820001-P0030001",
+     "confidence": "high"
     }
    ]
   },
@@ -8369,6 +9602,14 @@
      "kind": "フェス",
      "venue": "（大阪）",
      "source_url": "https://pkshampoo.jp/psychicfes/artist.html",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
      "confidence": "high"
     }
    ]
@@ -8421,6 +9662,22 @@
      "kind": "フェス",
      "venue": "（大阪）",
      "source_url": "https://pkshampoo.jp/psychicfes/artist.html",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-11-23",
+     "title": "PANA FES（11/23）",
+     "kind": "フェス",
+     "venue": "神戸 太陽と虎ほか（兵庫）",
+     "source_url": "https://eplus.jp/sf/detail/4580820001-P0030001",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
      "confidence": "high"
     }
    ]
@@ -8721,6 +9978,14 @@
      "venue": "豊洲PIT（東京）",
      "source_url": "https://kotori-band.com/news/607273ae-b510-4524-8d84-85fc900cc09e",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-28",
+     "title": "RADIO CRAZY（12/28）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://radiocrazy.fm/",
+     "confidence": "high"
     }
    ]
   },
@@ -8772,6 +10037,22 @@
      "kind": "フェス",
      "venue": "豊洲PIT（東京）",
      "source_url": "https://kotori-band.com/news/607273ae-b510-4524-8d84-85fc900cc09e",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-20",
+     "title": "MERRY ROCK PARADE 2026（12/20）",
+     "kind": "フェス",
+     "venue": "ポートメッセなごや（愛知県）",
+     "source_url": "https://www.merryrockparade.jp/artist.html",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-26",
+     "title": "RADIO CRAZY（12/26）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://radiocrazy.fm/",
      "confidence": "high"
     }
    ]
@@ -8989,6 +10270,4444 @@
      "venue": "ふくやま産業交流館 ビッグ・ローズ（広島）",
      "source_url": "https://musubinoyumebanchi.jp/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-11-21",
+     "title": "テレビ朝日ドリームフェスティバル2026（11/21〜11/23のいずれか）",
+     "kind": "フェス",
+     "venue": "Kアリーナ横浜（神奈川県）",
+     "source_url": "https://dreamfestival.jp/",
+     "confidence": "low"
+    },
+    {
+     "date": "2026-12-20",
+     "title": "MERRY ROCK PARADE 2026（12/20）",
+     "kind": "フェス",
+     "venue": "ポートメッセなごや（愛知県）",
+     "source_url": "https://www.merryrockparade.jp/artist.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "PURPLE BUBBLE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-06",
+     "title": "BUZZ RHYTHM LIVE（11/6）",
+     "kind": "フェス",
+     "venue": "横浜アリーナ（神奈川県）",
+     "source_url": "https://buzzrhythm.live/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "バチカン市国に愛されたい": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-06",
+     "title": "BUZZ RHYTHM LIVE（11/6）",
+     "kind": "フェス",
+     "venue": "横浜アリーナ（神奈川県）",
+     "source_url": "https://buzzrhythm.live/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ON THE AIR": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-07",
+     "title": "BUZZ RHYTHM LIVE（11/7）",
+     "kind": "フェス",
+     "venue": "横浜アリーナ（神奈川県）",
+     "source_url": "https://buzzrhythm.live/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "かわにしなつき": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-07",
+     "title": "BUZZ RHYTHM LIVE（11/7）",
+     "kind": "フェス",
+     "venue": "横浜アリーナ（神奈川県）",
+     "source_url": "https://buzzrhythm.live/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Be-ray": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-07",
+     "title": "BUZZ RHYTHM LIVE（11/7）",
+     "kind": "フェス",
+     "venue": "横浜アリーナ（神奈川県）",
+     "source_url": "https://buzzrhythm.live/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "かのん": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-08",
+     "title": "BUZZ RHYTHM LIVE（11/8）",
+     "kind": "フェス",
+     "venue": "横浜アリーナ（神奈川県）",
+     "source_url": "https://buzzrhythm.live/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "SATOH": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-08",
+     "title": "BUZZ RHYTHM LIVE（11/8）",
+     "kind": "フェス",
+     "venue": "横浜アリーナ（神奈川県）",
+     "source_url": "https://buzzrhythm.live/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "セブンス・ベガ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-08",
+     "title": "BUZZ RHYTHM LIVE（11/8）",
+     "kind": "フェス",
+     "venue": "横浜アリーナ（神奈川県）",
+     "source_url": "https://buzzrhythm.live/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "SODA!": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-07",
+     "title": "AIR JAM（11/7）",
+     "kind": "フェス",
+     "venue": "ZOZOマリンスタジアム（千葉県）",
+     "source_url": "https://airjam.jp/artists",
+     "confidence": "high"
+    }
+   ]
+  },
+  "JACKIE & THE CEDRICS": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-07",
+     "title": "AIR JAM（11/7）",
+     "kind": "フェス",
+     "venue": "ZOZOマリンスタジアム（千葉県）",
+     "source_url": "https://airjam.jp/artists",
+     "confidence": "high"
+    }
+   ]
+  },
+  "YONA YONA WEEKENDERS": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-07",
+     "title": "LOCALGREEN FESTIVAL'26（11/7〜11/8のいずれか）",
+     "kind": "フェス",
+     "venue": "横浜赤レンガ倉庫（神奈川県）",
+     "source_url": "https://skream.jp/news/2026/09/localgreen_festival26_1st_lineup.php",
+     "confidence": "low"
+    }
+   ]
+  },
+  "NakamuraEmi": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-07",
+     "title": "LOCALGREEN FESTIVAL'26（11/7〜11/8のいずれか）",
+     "kind": "フェス",
+     "venue": "横浜赤レンガ倉庫（神奈川県）",
+     "source_url": "https://skream.jp/news/2026/09/localgreen_festival26_1st_lineup.php",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Ryu Matsuyama": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-07",
+     "title": "LOCALGREEN FESTIVAL'26（11/7〜11/8のいずれか）",
+     "kind": "フェス",
+     "venue": "横浜赤レンガ倉庫（神奈川県）",
+     "source_url": "https://skream.jp/news/2026/09/localgreen_festival26_1st_lineup.php",
+     "confidence": "low"
+    }
+   ]
+  },
+  "kiki vivi lily": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-07",
+     "title": "LOCALGREEN FESTIVAL'26（11/7〜11/8のいずれか）",
+     "kind": "フェス",
+     "venue": "横浜赤レンガ倉庫（神奈川県）",
+     "source_url": "https://skream.jp/news/2026/09/localgreen_festival26_1st_lineup.php",
+     "confidence": "low"
+    }
+   ]
+  },
+  "カメレオン・ライム・ウーピーパイ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-07",
+     "title": "LOCALGREEN FESTIVAL'26（11/7〜11/8のいずれか）",
+     "kind": "フェス",
+     "venue": "横浜赤レンガ倉庫（神奈川県）",
+     "source_url": "https://skream.jp/news/2026/09/localgreen_festival26_1st_lineup.php",
+     "confidence": "low"
+    }
+   ]
+  },
+  "KOMOREBI": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-07",
+     "title": "LOCALGREEN FESTIVAL'26（11/7〜11/8のいずれか）",
+     "kind": "フェス",
+     "venue": "横浜赤レンガ倉庫（神奈川県）",
+     "source_url": "https://skream.jp/news/2026/09/localgreen_festival26_1st_lineup.php",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Sala": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-07",
+     "title": "LOCALGREEN FESTIVAL'26（11/7〜11/8のいずれか）",
+     "kind": "フェス",
+     "venue": "横浜赤レンガ倉庫（神奈川県）",
+     "source_url": "https://skream.jp/news/2026/09/localgreen_festival26_1st_lineup.php",
+     "confidence": "low"
+    }
+   ]
+  },
+  "美少女戦士セーラームーン -Shining Theater Shinagawa Tokyo-": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-07",
+     "title": "氣志團万博（11/7）",
+     "kind": "フェス",
+     "venue": "幕張メッセ 国際展示場4〜7ホール（千葉県）",
+     "source_url": "http://www.kishidanbanpaku.com/s/kbpk/page/artist2026",
+     "confidence": "high"
+    }
+   ]
+  },
+  "cero": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-14",
+     "title": "こんがりおんがく祭（11/14）",
+     "kind": "フェス",
+     "venue": "大阪城音楽堂（大阪）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "high"
+    }
+   ]
+  },
+  "kanekoayano": {
+   "aliases": [
+    "カネコアヤノ"
+   ],
+   "events": [
+    {
+     "date": "2026-11-14",
+     "title": "こんがりおんがく祭（11/14）",
+     "kind": "フェス",
+     "venue": "大阪城音楽堂（大阪）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Summer Eye Sound Syndicate": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-14",
+     "title": "こんがりおんがく祭（11/14）",
+     "kind": "フェス",
+     "venue": "大阪城音楽堂（大阪）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Texas 3000": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-14",
+     "title": "こんがりおんがく祭（11/14）",
+     "kind": "フェス",
+     "venue": "大阪城音楽堂（大阪）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "high"
+    }
+   ]
+  },
+  "neco眠る": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-14",
+     "title": "こんがりおんがく祭（11/14）",
+     "kind": "フェス",
+     "venue": "大阪城音楽堂（大阪）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "high"
+    }
+   ]
+  },
+  "オシリペンペンズ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-14",
+     "title": "こんがりおんがく祭（11/14）",
+     "kind": "フェス",
+     "venue": "大阪城音楽堂（大阪）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "high"
+    }
+   ]
+  },
+  "DODDODO BAND": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-14",
+     "title": "こんがりおんがく祭（11/14）",
+     "kind": "フェス",
+     "venue": "大阪城音楽堂（大阪）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ナイトサパーズ(from赤犬)": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-14",
+     "title": "こんがりおんがく祭（11/14）",
+     "kind": "フェス",
+     "venue": "大阪城音楽堂（大阪）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "high"
+    }
+   ]
+  },
+  "NAKAM": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-14",
+     "title": "こんがりおんがく祭（11/14）",
+     "kind": "フェス",
+     "venue": "大阪城音楽堂（大阪）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Takashi Irie": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-14",
+     "title": "こんがりおんがく祭（11/14）",
+     "kind": "フェス",
+     "venue": "大阪城音楽堂（大阪）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "high"
+    }
+   ]
+  },
+  "JO1": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "テレビ朝日ドリームフェスティバル2026（11/21〜11/23のいずれか）",
+     "kind": "フェス",
+     "venue": "Kアリーナ横浜（神奈川県）",
+     "source_url": "https://dreamfestival.jp/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Aぇ! group": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "テレビ朝日ドリームフェスティバル2026（11/21〜11/23のいずれか）",
+     "kind": "フェス",
+     "venue": "Kアリーナ横浜（神奈川県）",
+     "source_url": "https://dreamfestival.jp/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "NCT DREAM": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "テレビ朝日ドリームフェスティバル2026（11/21〜11/23のいずれか）",
+     "kind": "フェス",
+     "venue": "Kアリーナ横浜（神奈川県）",
+     "source_url": "https://dreamfestival.jp/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "INI": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "テレビ朝日ドリームフェスティバル2026（11/21〜11/23のいずれか）",
+     "kind": "フェス",
+     "venue": "Kアリーナ横浜（神奈川県）",
+     "source_url": "https://dreamfestival.jp/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "XngHan&Xoul": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "テレビ朝日ドリームフェスティバル2026（11/21〜11/23のいずれか）",
+     "kind": "フェス",
+     "venue": "Kアリーナ横浜（神奈川県）",
+     "source_url": "https://dreamfestival.jp/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Da-iCE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "テレビ朝日ドリームフェスティバル2026（11/21〜11/23のいずれか）",
+     "kind": "フェス",
+     "venue": "Kアリーナ横浜（神奈川県）",
+     "source_url": "https://dreamfestival.jp/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "ROIROM": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "テレビ朝日ドリームフェスティバル2026（11/21〜11/23のいずれか）",
+     "kind": "フェス",
+     "venue": "Kアリーナ横浜（神奈川県）",
+     "source_url": "https://dreamfestival.jp/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "ALPHA DRIVE ONE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "テレビ朝日ドリームフェスティバル2026（11/21〜11/23のいずれか）",
+     "kind": "フェス",
+     "venue": "Kアリーナ横浜（神奈川県）",
+     "source_url": "https://dreamfestival.jp/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "izna": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "テレビ朝日ドリームフェスティバル2026（11/21〜11/23のいずれか）",
+     "kind": "フェス",
+     "venue": "Kアリーナ横浜（神奈川県）",
+     "source_url": "https://dreamfestival.jp/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "NCT WISH": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "テレビ朝日ドリームフェスティバル2026（11/21〜11/23のいずれか）",
+     "kind": "フェス",
+     "venue": "Kアリーナ横浜（神奈川県）",
+     "source_url": "https://dreamfestival.jp/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "ME:I": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "テレビ朝日ドリームフェスティバル2026（11/21〜11/23のいずれか）",
+     "kind": "フェス",
+     "venue": "Kアリーナ横浜（神奈川県）",
+     "source_url": "https://dreamfestival.jp/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "夜の本気ダンス": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-23",
+     "title": "PANA FES（11/23）",
+     "kind": "フェス",
+     "venue": "神戸 太陽と虎ほか（兵庫）",
+     "source_url": "https://eplus.jp/sf/detail/4580820001-P0030001",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "SuperBack": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-23",
+     "title": "PANA FES（11/23）",
+     "kind": "フェス",
+     "venue": "神戸 太陽と虎ほか（兵庫）",
+     "source_url": "https://eplus.jp/sf/detail/4580820001-P0030001",
+     "confidence": "high"
+    }
+   ]
+  },
+  "加速するラブズ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-23",
+     "title": "PANA FES（11/23）",
+     "kind": "フェス",
+     "venue": "神戸 太陽と虎ほか（兵庫）",
+     "source_url": "https://eplus.jp/sf/detail/4580820001-P0030001",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Voodoo V": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-23",
+     "title": "PANA FES（11/23）",
+     "kind": "フェス",
+     "venue": "神戸 太陽と虎ほか（兵庫）",
+     "source_url": "https://eplus.jp/sf/detail/4580820001-P0030001",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Ivy to Fraudulent Game": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-23",
+     "title": "PANA FES（11/23）",
+     "kind": "フェス",
+     "venue": "神戸 太陽と虎ほか（兵庫）",
+     "source_url": "https://eplus.jp/sf/detail/4580820001-P0030001",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Gill Snatch": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-23",
+     "title": "PANA FES（11/23）",
+     "kind": "フェス",
+     "venue": "神戸 太陽と虎ほか（兵庫）",
+     "source_url": "https://eplus.jp/sf/detail/4580820001-P0030001",
+     "confidence": "high"
+    }
+   ]
+  },
+  "The Cheserasera": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-23",
+     "title": "PANA FES（11/23）",
+     "kind": "フェス",
+     "venue": "神戸 太陽と虎ほか（兵庫）",
+     "source_url": "https://eplus.jp/sf/detail/4580820001-P0030001",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ジュウ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-23",
+     "title": "PANA FES（11/23）",
+     "kind": "フェス",
+     "venue": "神戸 太陽と虎ほか（兵庫）",
+     "source_url": "https://eplus.jp/sf/detail/4580820001-P0030001",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "CAT ATE HOTDOGS": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-23",
+     "title": "PANA FES（11/23）",
+     "kind": "フェス",
+     "venue": "神戸 太陽と虎ほか（兵庫）",
+     "source_url": "https://eplus.jp/sf/detail/4580820001-P0030001",
+     "confidence": "high"
+    }
+   ]
+  },
+  "DeNeel": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-23",
+     "title": "PANA FES（11/23）",
+     "kind": "フェス",
+     "venue": "神戸 太陽と虎ほか（兵庫）",
+     "source_url": "https://eplus.jp/sf/detail/4580820001-P0030001",
+     "confidence": "high"
+    }
+   ]
+  },
+  "TORO": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-23",
+     "title": "PANA FES（11/23）",
+     "kind": "フェス",
+     "venue": "神戸 太陽と虎ほか（兵庫）",
+     "source_url": "https://eplus.jp/sf/detail/4580820001-P0030001",
+     "confidence": "high"
+    }
+   ]
+  },
+  "WALTZMORE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-23",
+     "title": "PANA FES（11/23）",
+     "kind": "フェス",
+     "venue": "神戸 太陽と虎ほか（兵庫）",
+     "source_url": "https://eplus.jp/sf/detail/4580820001-P0030001",
+     "confidence": "high"
+    }
+   ]
+  },
+  "chef's": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック（11/29）",
+     "kind": "フェス",
+     "venue": "下北沢の複数ライブハウス（東京）",
+     "source_url": "https://gekirock.com/news/2026/10/kakumei2026_6th_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "GOODWARP": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック（11/29）",
+     "kind": "フェス",
+     "venue": "下北沢の複数ライブハウス（東京）",
+     "source_url": "https://gekirock.com/news/2026/10/kakumei2026_6th_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Grape Kiki": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック（11/29）",
+     "kind": "フェス",
+     "venue": "下北沢の複数ライブハウス（東京）",
+     "source_url": "https://gekirock.com/news/2026/10/kakumei2026_6th_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ONIGAWARA": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック（11/29）",
+     "kind": "フェス",
+     "venue": "下北沢の複数ライブハウス（東京）",
+     "source_url": "https://gekirock.com/news/2026/10/kakumei2026_6th_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Rabbit horn's": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック（11/29）",
+     "kind": "フェス",
+     "venue": "下北沢の複数ライブハウス（東京）",
+     "source_url": "https://gekirock.com/news/2026/10/kakumei2026_6th_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "荒木一仁": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック（11/29）",
+     "kind": "フェス",
+     "venue": "下北沢の複数ライブハウス（東京）",
+     "source_url": "https://gekirock.com/news/2026/10/kakumei2026_6th_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "あれくん": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック（11/29）",
+     "kind": "フェス",
+     "venue": "下北沢の複数ライブハウス（東京）",
+     "source_url": "https://gekirock.com/news/2026/10/kakumei2026_6th_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "イロムク": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック（11/29）",
+     "kind": "フェス",
+     "venue": "下北沢の複数ライブハウス（東京）",
+     "source_url": "https://gekirock.com/news/2026/10/kakumei2026_6th_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "カラノア": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック（11/29）",
+     "kind": "フェス",
+     "venue": "下北沢の複数ライブハウス（東京）",
+     "source_url": "https://gekirock.com/news/2026/10/kakumei2026_6th_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "小林柊矢": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック（11/29）",
+     "kind": "フェス",
+     "venue": "下北沢の複数ライブハウス（東京）",
+     "source_url": "https://gekirock.com/news/2026/10/kakumei2026_6th_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "サウルス": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック（11/29）",
+     "kind": "フェス",
+     "venue": "下北沢の複数ライブハウス（東京）",
+     "source_url": "https://gekirock.com/news/2026/10/kakumei2026_6th_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ザ・チャレンジ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック（11/29）",
+     "kind": "フェス",
+     "venue": "下北沢の複数ライブハウス（東京）",
+     "source_url": "https://gekirock.com/news/2026/10/kakumei2026_6th_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "スランプガール": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック（11/29）",
+     "kind": "フェス",
+     "venue": "下北沢の複数ライブハウス（東京）",
+     "source_url": "https://gekirock.com/news/2026/10/kakumei2026_6th_lineup.php",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "'97,Kids": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック（11/29）",
+     "kind": "フェス",
+     "venue": "下北沢の複数ライブハウス（東京）",
+     "source_url": "https://gekirock.com/news/2026/10/kakumei2026_6th_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "BLUE REGRET。": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック（11/29）",
+     "kind": "フェス",
+     "venue": "下北沢の複数ライブハウス（東京）",
+     "source_url": "https://gekirock.com/news/2026/10/kakumei2026_6th_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "CHAQLA.": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック（11/29）",
+     "kind": "フェス",
+     "venue": "下北沢の複数ライブハウス（東京）",
+     "source_url": "https://gekirock.com/news/2026/10/kakumei2026_6th_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "EMPATHY": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック（11/29）",
+     "kind": "フェス",
+     "venue": "下北沢の複数ライブハウス（東京）",
+     "source_url": "https://gekirock.com/news/2026/10/kakumei2026_6th_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "FLORERISA": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック（11/29）",
+     "kind": "フェス",
+     "venue": "下北沢の複数ライブハウス（東京）",
+     "source_url": "https://gekirock.com/news/2026/10/kakumei2026_6th_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "kice": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック（11/29）",
+     "kind": "フェス",
+     "venue": "下北沢の複数ライブハウス（東京）",
+     "source_url": "https://gekirock.com/news/2026/10/kakumei2026_6th_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "LEIWAN": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック（11/29）",
+     "kind": "フェス",
+     "venue": "下北沢の複数ライブハウス（東京）",
+     "source_url": "https://gekirock.com/news/2026/10/kakumei2026_6th_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "maleficium": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック（11/29）",
+     "kind": "フェス",
+     "venue": "下北沢の複数ライブハウス（東京）",
+     "source_url": "https://gekirock.com/news/2026/10/kakumei2026_6th_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "T.N.T": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック（11/29）",
+     "kind": "フェス",
+     "venue": "下北沢の複数ライブハウス（東京）",
+     "source_url": "https://gekirock.com/news/2026/10/kakumei2026_6th_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "YA'ABURNEE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック（11/29）",
+     "kind": "フェス",
+     "venue": "下北沢の複数ライブハウス（東京）",
+     "source_url": "https://gekirock.com/news/2026/10/kakumei2026_6th_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "兎アイズ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック（11/29）",
+     "kind": "フェス",
+     "venue": "下北沢の複数ライブハウス（東京）",
+     "source_url": "https://gekirock.com/news/2026/10/kakumei2026_6th_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ザアザア": {
+   "aliases": [
+    "XAAXAA"
+   ],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック（11/29）",
+     "kind": "フェス",
+     "venue": "下北沢の複数ライブハウス（東京）",
+     "source_url": "https://gekirock.com/news/2026/10/kakumei2026_6th_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "まみれた": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック（11/29）",
+     "kind": "フェス",
+     "venue": "下北沢の複数ライブハウス（東京）",
+     "source_url": "https://gekirock.com/news/2026/10/kakumei2026_6th_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "パピプペポは難しい": {
+   "aliases": [
+    "Papipupepo Wa Muzukashii"
+   ],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック（11/29）",
+     "kind": "フェス",
+     "venue": "下北沢の複数ライブハウス（東京）",
+     "source_url": "https://gekirock.com/news/2026/10/kakumei2026_6th_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ビバラッシュ": {
+   "aliases": [
+    "VIVARUSH"
+   ],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック（11/29）",
+     "kind": "フェス",
+     "venue": "下北沢の複数ライブハウス（東京）",
+     "source_url": "https://gekirock.com/news/2026/10/kakumei2026_6th_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "闇雲-yamikumo-": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック（11/29）",
+     "kind": "フェス",
+     "venue": "下北沢の複数ライブハウス（東京）",
+     "source_url": "https://gekirock.com/news/2026/10/kakumei2026_6th_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "IQ99": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック（11/29）",
+     "kind": "フェス",
+     "venue": "下北沢の複数ライブハウス（東京）",
+     "source_url": "https://gekirock.com/news/2026/10/kakumei2026_6th_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "U's": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック（11/29）",
+     "kind": "フェス",
+     "venue": "下北沢の複数ライブハウス（東京）",
+     "source_url": "https://gekirock.com/news/2026/10/kakumei2026_6th_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "UNDYING WORDS": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック（11/29）",
+     "kind": "フェス",
+     "venue": "下北沢の複数ライブハウス（東京）",
+     "source_url": "https://gekirock.com/news/2026/10/kakumei2026_6th_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Wisteria": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック（11/29）",
+     "kind": "フェス",
+     "venue": "下北沢の複数ライブハウス（東京）",
+     "source_url": "https://gekirock.com/news/2026/10/kakumei2026_6th_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "雨音とアプローズ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック（11/29）",
+     "kind": "フェス",
+     "venue": "下北沢の複数ライブハウス（東京）",
+     "source_url": "https://gekirock.com/news/2026/10/kakumei2026_6th_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "安月名莉子": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック（11/29）",
+     "kind": "フェス",
+     "venue": "下北沢の複数ライブハウス（東京）",
+     "source_url": "https://gekirock.com/news/2026/10/kakumei2026_6th_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "おとは": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック（11/29）",
+     "kind": "フェス",
+     "venue": "下北沢の複数ライブハウス（東京）",
+     "source_url": "https://gekirock.com/news/2026/10/kakumei2026_6th_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ガラスの靴は落とさない": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック（11/29）",
+     "kind": "フェス",
+     "venue": "下北沢の複数ライブハウス（東京）",
+     "source_url": "https://gekirock.com/news/2026/10/kakumei2026_6th_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "最果てのハイライト": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック（11/29）",
+     "kind": "フェス",
+     "venue": "下北沢の複数ライブハウス（東京）",
+     "source_url": "https://gekirock.com/news/2026/10/kakumei2026_6th_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "すごいバンド名にしたかった。": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック（11/29）",
+     "kind": "フェス",
+     "venue": "下北沢の複数ライブハウス（東京）",
+     "source_url": "https://gekirock.com/news/2026/10/kakumei2026_6th_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "帆保健太郎": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック（11/29）",
+     "kind": "フェス",
+     "venue": "下北沢の複数ライブハウス（東京）",
+     "source_url": "https://gekirock.com/news/2026/10/kakumei2026_6th_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "結芽乃": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック（11/29）",
+     "kind": "フェス",
+     "venue": "下北沢の複数ライブハウス（東京）",
+     "source_url": "https://gekirock.com/news/2026/10/kakumei2026_6th_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "琳子": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック（11/29）",
+     "kind": "フェス",
+     "venue": "下北沢の複数ライブハウス（東京）",
+     "source_url": "https://gekirock.com/news/2026/10/kakumei2026_6th_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "CHAKON": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック（11/29）",
+     "kind": "フェス",
+     "venue": "下北沢の複数ライブハウス（東京）",
+     "source_url": "https://gekirock.com/news/2026/10/kakumei2026_6th_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Homesick Humming": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック（11/29）",
+     "kind": "フェス",
+     "venue": "下北沢の複数ライブハウス（東京）",
+     "source_url": "https://gekirock.com/news/2026/10/kakumei2026_6th_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Nachika": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック（11/29）",
+     "kind": "フェス",
+     "venue": "下北沢の複数ライブハウス（東京）",
+     "source_url": "https://gekirock.com/news/2026/10/kakumei2026_6th_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "イトウセレネ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック（11/29）",
+     "kind": "フェス",
+     "venue": "下北沢の複数ライブハウス（東京）",
+     "source_url": "https://gekirock.com/news/2026/10/kakumei2026_6th_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "加藤 結": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック（11/29）",
+     "kind": "フェス",
+     "venue": "下北沢の複数ライブハウス（東京）",
+     "source_url": "https://gekirock.com/news/2026/10/kakumei2026_6th_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "さわりさ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック（11/29）",
+     "kind": "フェス",
+     "venue": "下北沢の複数ライブハウス（東京）",
+     "source_url": "https://gekirock.com/news/2026/10/kakumei2026_6th_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "すず": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック（11/29）",
+     "kind": "フェス",
+     "venue": "下北沢の複数ライブハウス（東京）",
+     "source_url": "https://gekirock.com/news/2026/10/kakumei2026_6th_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "成家ひかる": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック（11/29）",
+     "kind": "フェス",
+     "venue": "下北沢の複数ライブハウス（東京）",
+     "source_url": "https://gekirock.com/news/2026/10/kakumei2026_6th_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "水谷 駿": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック（11/29）",
+     "kind": "フェス",
+     "venue": "下北沢の複数ライブハウス（東京）",
+     "source_url": "https://gekirock.com/news/2026/10/kakumei2026_6th_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "水波月奈巳": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック（11/29）",
+     "kind": "フェス",
+     "venue": "下北沢の複数ライブハウス（東京）",
+     "source_url": "https://gekirock.com/news/2026/10/kakumei2026_6th_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "愛奈": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック（11/29）",
+     "kind": "フェス",
+     "venue": "下北沢の複数ライブハウス（東京）",
+     "source_url": "https://gekirock.com/news/2026/10/kakumei2026_6th_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "みさーもん": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック（11/29）",
+     "kind": "フェス",
+     "venue": "下北沢の複数ライブハウス（東京）",
+     "source_url": "https://gekirock.com/news/2026/10/kakumei2026_6th_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "め組": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック（11/29）",
+     "kind": "フェス",
+     "venue": "下北沢の複数ライブハウス（東京）",
+     "source_url": "https://gekirock.com/news/2026/10/kakumei2026_6th_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Earworm": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック（11/29）",
+     "kind": "フェス",
+     "venue": "下北沢の複数ライブハウス（東京）",
+     "source_url": "https://gekirock.com/news/2026/10/kakumei2026_6th_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "indoor cats.": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック（11/29）",
+     "kind": "フェス",
+     "venue": "下北沢の複数ライブハウス（東京）",
+     "source_url": "https://gekirock.com/news/2026/10/kakumei2026_6th_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Phantom Style": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック（11/29）",
+     "kind": "フェス",
+     "venue": "下北沢の複数ライブハウス（東京）",
+     "source_url": "https://gekirock.com/news/2026/10/kakumei2026_6th_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Antonio Loureiro New Trio": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "THE PIANO ERA（12/5）",
+     "kind": "フェス",
+     "venue": "めぐろパーシモンホール 大ホール（東京都）",
+     "source_url": "http://www.thepianoera.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Andrés Beeuwsaert": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "THE PIANO ERA（12/5）",
+     "kind": "フェス",
+     "venue": "めぐろパーシモンホール 大ホール（東京都）",
+     "source_url": "http://www.thepianoera.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Kaho Nakamura": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "THE PIANO ERA（12/5）",
+     "kind": "フェス",
+     "venue": "めぐろパーシモンホール 大ホール（東京都）",
+     "source_url": "http://www.thepianoera.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Sławek Jaskułke": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "THE PIANO ERA（12/6）",
+     "kind": "フェス",
+     "venue": "めぐろパーシモンホール 大ホール（東京都）",
+     "source_url": "http://www.thepianoera.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "The Vernon Spring": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "THE PIANO ERA（12/6）",
+     "kind": "フェス",
+     "venue": "めぐろパーシモンホール 大ホール（東京都）",
+     "source_url": "http://www.thepianoera.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Hideyuki Hashimoto": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "THE PIANO ERA（12/6）",
+     "kind": "フェス",
+     "venue": "めぐろパーシモンホール 大ホール（東京都）",
+     "source_url": "http://www.thepianoera.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "THEラブ人間": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ポコメッツ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "3markets[ ]": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Broken my toybox": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Hammer Head Shark": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "memetoour": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "osage": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "niina": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Pixie Monster": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "POYACORO": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ZiDol": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "アンダーグラフ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "たこやき野球連盟": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ノーボアダムズ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "プピリットパロ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ミートザホープス&ともだちたち": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ヤングオオハラ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "金子智也": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "音癒": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "叶芽フウカ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ロマンス&バカンス": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "韓流セレブレイト": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "街人": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "渡辺大知(黒猫CHELSEA)": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "桃野陽介(モノブライト)": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "藤澤信次郎（浪漫革命）": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "中野ミホ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "板歯目": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "美侑": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "MAKKURAGE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ガミガミ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ビレッジマンズストア": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ニガミ17才": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "THE BOYS&GIRLS": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "SEVENTEENAGAiN": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "せだい": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "チャラン・ポ・ランタン": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "zoo": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "wanbed": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "SYAYOS": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "amanojac": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "SleepInside": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "STANCE PUNKS": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "KOHAKU": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "イロクロニクル": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "メトロワ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "FINLANDS": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "愛しておくれ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "終活クラブ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "3tone sunburst": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "akebono": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "oh!! 真珠s": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "S級任務": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ute": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "SSHY･ザ･SSHY": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "大比良瑞希": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "o_all": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "DNA GAINZ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Day my dream": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Tattletale": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "メリクレット": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "THEティバ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ポンツクピーヤ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "パーカーズ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ジ・エンプティ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "前髪ぱっつん少年": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Tyrkouaz": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Massage Attack": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Mercy Woodpecker": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Junkie Machine": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "大森靖子": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ラナメリサ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "さとう。": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "naf": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "本棚のモヨコ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Brain Popcorn": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "さよならミオちゃん": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Shawoo": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "あっこゴリラ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "さらば帝国": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "オワリカラ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "爛漫天国": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Tsukisamu Mutton Network": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "standard sky": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "札幌某所": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "NO.18": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "お願いジョンソン聴いてくれ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ミニマムズ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "明日、照らす(特別編成)": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "でかくてまるい。": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "サポニカ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ミニマムジーク": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "マジカルチョコミントクラブ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "エルスウェア紀行": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "オートコード": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "irienchy": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "あいか：クラブ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Fallsheeps": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "teiichi": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "シベリアンハスキー": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "CULTURES!!!": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "mukeikaku": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "soyouth": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "TTUD": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Timmy": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "灰かぶり": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "茶封筒": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "UlulU": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "すなお": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Laget's Jam Stack": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "歌王子あび": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ヨルノピクニック": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Navy HERETIC": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "otona ni nattemo": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "SAIHATE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Surpass": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "少年キッズボウイ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "吸空サイダー": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "おとなりにぎんが計画": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "水平線": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Doxie": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "國": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "奔走狂走局": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "青春群像録": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "スパノヴァ特急": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "秘密兵器": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "BIG MOUSE GLORY": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Fine,Great": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Keeshond": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "kijin": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "The Docci": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ウマシカて": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "おかえり": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ハイドアウト": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "海月にさされたら": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "月追う彼方": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "三毛とアネモネ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "讃駆": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "前田琴音": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Zeebra": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "お豆音楽祭（12/6）",
+     "kind": "フェス",
+     "venue": "本別町中央公民館（北海道）",
+     "source_url": "https://honbetsu.com/infrastructure/mame-fes",
+     "confidence": "high"
+    }
+   ]
+  },
+  "韻シストBAND": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "お豆音楽祭（12/6）",
+     "kind": "フェス",
+     "venue": "本別町中央公民館（北海道）",
+     "source_url": "https://honbetsu.com/infrastructure/mame-fes",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Arche": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "お豆音楽祭（12/6）",
+     "kind": "フェス",
+     "venue": "本別町中央公民館（北海道）",
+     "source_url": "https://honbetsu.com/infrastructure/mame-fes",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Mayuri(banana moon)": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "お豆音楽祭（12/6）",
+     "kind": "フェス",
+     "venue": "本別町中央公民館（北海道）",
+     "source_url": "https://honbetsu.com/infrastructure/mame-fes",
+     "confidence": "high"
+    }
+   ]
+  },
+  "リベラル（SANABAGUN.）": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "お豆音楽祭（12/6）",
+     "kind": "フェス",
+     "venue": "本別町中央公民館（北海道）",
+     "source_url": "https://honbetsu.com/infrastructure/mame-fes",
+     "confidence": "high"
+    }
+   ]
+  },
+  "BAND by Suyama Jackson、Mizuki Sato": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "お豆音楽祭（12/6）",
+     "kind": "フェス",
+     "venue": "本別町中央公民館（北海道）",
+     "source_url": "https://honbetsu.com/infrastructure/mame-fes",
+     "confidence": "high"
+    }
+   ]
+  },
+  "RAFUU": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "お豆音楽祭（12/6）",
+     "kind": "フェス",
+     "venue": "本別町中央公民館（北海道）",
+     "source_url": "https://honbetsu.com/infrastructure/mame-fes",
+     "confidence": "high"
+    }
+   ]
+  },
+  "DIZE（本別）": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "お豆音楽祭（12/6）",
+     "kind": "フェス",
+     "venue": "本別町中央公民館（北海道）",
+     "source_url": "https://honbetsu.com/infrastructure/mame-fes",
+     "confidence": "high"
+    }
+   ]
+  },
+  "PInO(ALMA)": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "お豆音楽祭（12/6）",
+     "kind": "フェス",
+     "venue": "本別町中央公民館（北海道）",
+     "source_url": "https://honbetsu.com/infrastructure/mame-fes",
+     "confidence": "high"
+    }
+   ]
+  },
+  "KITE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "お豆音楽祭（12/6）",
+     "kind": "フェス",
+     "venue": "本別町中央公民館（北海道）",
+     "source_url": "https://honbetsu.com/infrastructure/mame-fes",
+     "confidence": "high"
+    }
+   ]
+  },
+  "KOJIMAN": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "お豆音楽祭（12/6）",
+     "kind": "フェス",
+     "venue": "本別町中央公民館（北海道）",
+     "source_url": "https://honbetsu.com/infrastructure/mame-fes",
+     "confidence": "high"
+    }
+   ]
+  },
+  "KZS": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "お豆音楽祭（12/6）",
+     "kind": "フェス",
+     "venue": "本別町中央公民館（北海道）",
+     "source_url": "https://honbetsu.com/infrastructure/mame-fes",
+     "confidence": "high"
+    }
+   ]
+  },
+  "アルカラ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "響都超特急（12/12）",
+     "kind": "フェス",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "TRACY": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "響都超特急（12/12）",
+     "kind": "フェス",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "NAGAN SERVER": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "響都超特急（12/12）",
+     "kind": "フェス",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "西川貴教": {
+   "aliases": [
+    "⻄川貴教"
+   ],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "響都超特急（12/13）",
+     "kind": "フェス",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "JUN SKY WALKER(S)": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "響都超特急（12/13）",
+     "kind": "フェス",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Knosis": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "響都超特急（12/13）",
+     "kind": "フェス",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-26",
+     "title": "MAGIC HOUR FESTIVAL（12/26）",
+     "kind": "フェス",
+     "venue": "豊洲PIT（東京）",
+     "source_url": "https://festival-life.com/169100",
+     "confidence": "high"
+    }
+   ]
+  },
+  "BEYOOOOONDS": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-19",
+     "title": "IWA ROCK presented by e-Broad（12/19）",
+     "kind": "フェス",
+     "venue": "Zepp DiverCity(TOKYO)（東京都）",
+     "source_url": "https://spice.eplus.jp/articles/349354",
+     "confidence": "high"
+    }
+   ]
+  },
+  "あいみょん": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-19",
+     "title": "MERRY ROCK PARADE 2026（12/19）",
+     "kind": "フェス",
+     "venue": "ポートメッセなごや（愛知県）",
+     "source_url": "https://www.merryrockparade.jp/artist.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "SHE'S": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-19",
+     "title": "MERRY ROCK PARADE 2026（12/19）",
+     "kind": "フェス",
+     "venue": "ポートメッセなごや（愛知県）",
+     "source_url": "https://www.merryrockparade.jp/artist.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Nothing's Carved In Stone": {
+   "aliases": [
+    "ナッシングス"
+   ],
+   "events": [
+    {
+     "date": "2026-12-19",
+     "title": "MERRY ROCK PARADE 2026（12/19）",
+     "kind": "フェス",
+     "venue": "ポートメッセなごや（愛知県）",
+     "source_url": "https://www.merryrockparade.jp/artist.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "BIGMAMA": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-19",
+     "title": "MERRY ROCK PARADE 2026（12/19）",
+     "kind": "フェス",
+     "venue": "ポートメッセなごや（愛知県）",
+     "source_url": "https://www.merryrockparade.jp/artist.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Fear, and Loathing in Las Vegas": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-19",
+     "title": "MERRY ROCK PARADE 2026（12/19）",
+     "kind": "フェス",
+     "venue": "ポートメッセなごや（愛知県）",
+     "source_url": "https://www.merryrockparade.jp/artist.html",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-03-20",
+     "title": "MEGA VEGAS 2027（3/20〜3/21のいずれか）",
+     "kind": "フェス",
+     "venue": "神戸ワールド記念ホール（兵庫県）",
+     "source_url": "https://lasvegas-jp.com/live/9288",
+     "confidence": "low"
+    }
+   ]
+  },
+  "GLIM SPANKY": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-20",
+     "title": "MERRY ROCK PARADE 2026（12/20）",
+     "kind": "フェス",
+     "venue": "ポートメッセなごや（愛知県）",
+     "source_url": "https://www.merryrockparade.jp/artist.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "超能力戦士ドリアン": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-20",
+     "title": "MERRY ROCK PARADE 2026（12/20）",
+     "kind": "フェス",
+     "venue": "ポートメッセなごや（愛知県）",
+     "source_url": "https://www.merryrockparade.jp/artist.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ReoNa": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-26",
+     "title": "MAGIC HOUR FESTIVAL（12/26）",
+     "kind": "フェス",
+     "venue": "豊洲PIT（東京）",
+     "source_url": "https://festival-life.com/169100",
+     "confidence": "high"
+    }
+   ]
+  },
+  "jo0ji": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-26",
+     "title": "RADIO CRAZY（12/26）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://radiocrazy.fm/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "SCANDAL": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-26",
+     "title": "RADIO CRAZY（12/26）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://radiocrazy.fm/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "UNICORN": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-26",
+     "title": "RADIO CRAZY（12/26）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://radiocrazy.fm/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "『802 PSY TONE RADIO』in レディクレ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-27",
+     "title": "RADIO CRAZY（12/27）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://radiocrazy.fm/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Chilli Beans.": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-27",
+     "title": "RADIO CRAZY（12/27）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://radiocrazy.fm/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "にしな": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-27",
+     "title": "RADIO CRAZY（12/27）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://radiocrazy.fm/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "YUKI": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-27",
+     "title": "RADIO CRAZY（12/27）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://radiocrazy.fm/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "稲葉浩志": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-28",
+     "title": "RADIO CRAZY（12/28）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://radiocrazy.fm/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Aimer": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-28",
+     "title": "RADIO CRAZY（12/28）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://radiocrazy.fm/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "FM802＆怒髪天 presents レディクレ歌合戦": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-28",
+     "title": "RADIO CRAZY（12/28）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://radiocrazy.fm/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "milet": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-28",
+     "title": "RADIO CRAZY（12/28）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://radiocrazy.fm/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Duke Dumont": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-02",
+     "title": "Snow Machine Japan（3/2〜3/7のいずれか）",
+     "kind": "フェス",
+     "venue": "白馬のスキーリゾート（長野県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Ben Böhmer": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-02",
+     "title": "Snow Machine Japan（3/2〜3/7のいずれか）",
+     "kind": "フェス",
+     "venue": "白馬のスキーリゾート（長野県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Deep Dish": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-02",
+     "title": "Snow Machine Japan（3/2〜3/7のいずれか）",
+     "kind": "フェス",
+     "venue": "白馬のスキーリゾート（長野県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "low"
+    }
+   ]
+  },
+  "DJ KENTARO": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-02",
+     "title": "Snow Machine Japan（3/2〜3/7のいずれか）",
+     "kind": "フェス",
+     "venue": "白馬のスキーリゾート（長野県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "low"
+    }
+   ]
+  },
+  "FELINE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-02",
+     "title": "Snow Machine Japan（3/2〜3/7のいずれか）",
+     "kind": "フェス",
+     "venue": "白馬のスキーリゾート（長野県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Arielle Free": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-02",
+     "title": "Snow Machine Japan（3/2〜3/7のいずれか）",
+     "kind": "フェス",
+     "venue": "白馬のスキーリゾート（長野県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Christian Smith": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-02",
+     "title": "Snow Machine Japan（3/2〜3/7のいずれか）",
+     "kind": "フェス",
+     "venue": "白馬のスキーリゾート（長野県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "low"
+    }
+   ]
+  },
+  "DJ Piero": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-02",
+     "title": "Snow Machine Japan（3/2〜3/7のいずれか）",
+     "kind": "フェス",
+     "venue": "白馬のスキーリゾート（長野県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Elderbrook (DJ Set)": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-02",
+     "title": "Snow Machine Japan（3/2〜3/7のいずれか）",
+     "kind": "フェス",
+     "venue": "白馬のスキーリゾート（長野県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Erika": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-02",
+     "title": "Snow Machine Japan（3/2〜3/7のいずれか）",
+     "kind": "フェス",
+     "venue": "白馬のスキーリゾート（長野県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Jarrod Costello": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-02",
+     "title": "Snow Machine Japan（3/2〜3/7のいずれか）",
+     "kind": "フェス",
+     "venue": "白馬のスキーリゾート（長野県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Justice Patterson": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-02",
+     "title": "Snow Machine Japan（3/2〜3/7のいずれか）",
+     "kind": "フェス",
+     "venue": "白馬のスキーリゾート（長野県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Kaiharubro": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-02",
+     "title": "Snow Machine Japan（3/2〜3/7のいずれか）",
+     "kind": "フェス",
+     "venue": "白馬のスキーリゾート（長野県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Kanine": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-02",
+     "title": "Snow Machine Japan（3/2〜3/7のいずれか）",
+     "kind": "フェス",
+     "venue": "白馬のスキーリゾート（長野県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Kettama": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-02",
+     "title": "Snow Machine Japan（3/2〜3/7のいずれか）",
+     "kind": "フェス",
+     "venue": "白馬のスキーリゾート（長野県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Lost Miracle": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-02",
+     "title": "Snow Machine Japan（3/2〜3/7のいずれか）",
+     "kind": "フェス",
+     "venue": "白馬のスキーリゾート（長野県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Lovebirds": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-02",
+     "title": "Snow Machine Japan（3/2〜3/7のいずれか）",
+     "kind": "フェス",
+     "venue": "白馬のスキーリゾート（長野県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Luude": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-02",
+     "title": "Snow Machine Japan（3/2〜3/7のいずれか）",
+     "kind": "フェス",
+     "venue": "白馬のスキーリゾート（長野県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Monochrome": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-02",
+     "title": "Snow Machine Japan（3/2〜3/7のいずれか）",
+     "kind": "フェス",
+     "venue": "白馬のスキーリゾート（長野県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "low"
+    }
+   ]
+  },
+  "MPH": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-02",
+     "title": "Snow Machine Japan（3/2〜3/7のいずれか）",
+     "kind": "フェス",
+     "venue": "白馬のスキーリゾート（長野県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Noy": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-02",
+     "title": "Snow Machine Japan（3/2〜3/7のいずれか）",
+     "kind": "フェス",
+     "venue": "白馬のスキーリゾート（長野県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Patrick Topping": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-02",
+     "title": "Snow Machine Japan（3/2〜3/7のいずれか）",
+     "kind": "フェス",
+     "venue": "白馬のスキーリゾート（長野県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Rebūke": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-02",
+     "title": "Snow Machine Japan（3/2〜3/7のいずれか）",
+     "kind": "フェス",
+     "venue": "白馬のスキーリゾート（長野県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Risa Taniguchi": {
+   "aliases": [
+    "谷口里紗"
+   ],
+   "events": [
+    {
+     "date": "2027-03-02",
+     "title": "Snow Machine Japan（3/2〜3/7のいずれか）",
+     "kind": "フェス",
+     "venue": "白馬のスキーリゾート（長野県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Sam Alfred": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-02",
+     "title": "Snow Machine Japan（3/2〜3/7のいずれか）",
+     "kind": "フェス",
+     "venue": "白馬のスキーリゾート（長野県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Samantha Loveridge": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-02",
+     "title": "Snow Machine Japan（3/2〜3/7のいずれか）",
+     "kind": "フェス",
+     "venue": "白馬のスキーリゾート（長野県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Sneaky Sound System": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-02",
+     "title": "Snow Machine Japan（3/2〜3/7のいずれか）",
+     "kind": "フェス",
+     "venue": "白馬のスキーリゾート（長野県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "low"
+    }
+   ]
+  },
+  "STÜM": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-02",
+     "title": "Snow Machine Japan（3/2〜3/7のいずれか）",
+     "kind": "フェス",
+     "venue": "白馬のスキーリゾート（長野県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "low"
+    }
+   ]
+  },
+  "TOKiMONSTA": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-02",
+     "title": "Snow Machine Japan（3/2〜3/7のいずれか）",
+     "kind": "フェス",
+     "venue": "白馬のスキーリゾート（長野県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Torren Foot": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-02",
+     "title": "Snow Machine Japan（3/2〜3/7のいずれか）",
+     "kind": "フェス",
+     "venue": "白馬のスキーリゾート（長野県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Wilkinson": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-02",
+     "title": "Snow Machine Japan（3/2〜3/7のいずれか）",
+     "kind": "フェス",
+     "venue": "白馬のスキーリゾート（長野県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "low"
+    }
+   ]
+  },
+  "William Kiss": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-02",
+     "title": "Snow Machine Japan（3/2〜3/7のいずれか）",
+     "kind": "フェス",
+     "venue": "白馬のスキーリゾート（長野県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Yuuki Yoshiyama": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-02",
+     "title": "Snow Machine Japan（3/2〜3/7のいずれか）",
+     "kind": "フェス",
+     "venue": "白馬のスキーリゾート（長野県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "low"
+    }
+   ]
+  },
+  "YUVIE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-02",
+     "title": "Snow Machine Japan（3/2〜3/7のいずれか）",
+     "kind": "フェス",
+     "venue": "白馬のスキーリゾート（長野県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Zedena": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-02",
+     "title": "Snow Machine Japan（3/2〜3/7のいずれか）",
+     "kind": "フェス",
+     "venue": "白馬のスキーリゾート（長野県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "low"
+    }
+   ]
+  },
+  "ano": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-19",
+     "title": "HY SKY Fes 2027 & 前夜祭（3/19〜3/21のいずれか）",
+     "kind": "フェス",
+     "venue": "沖縄県総合運動公園 多目的広場（沖縄県）",
+     "source_url": "https://skyfes.net/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "ゴスペラーズ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-19",
+     "title": "HY SKY Fes 2027 & 前夜祭（3/19〜3/21のいずれか）",
+     "kind": "フェス",
+     "venue": "沖縄県総合運動公園 多目的広場（沖縄県）",
+     "source_url": "https://skyfes.net/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "肝高の阿麻和利": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-19",
+     "title": "HY SKY Fes 2027 & 前夜祭（3/19〜3/21のいずれか）",
+     "kind": "フェス",
+     "venue": "沖縄県総合運動公園 多目的広場（沖縄県）",
+     "source_url": "https://skyfes.net/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "GADORO": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-19",
+     "title": "HY SKY Fes 2027 & 前夜祭（3/19〜3/21のいずれか）",
+     "kind": "フェス",
+     "venue": "沖縄県総合運動公園 多目的広場（沖縄県）",
+     "source_url": "https://skyfes.net/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "キタニタツヤ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-19",
+     "title": "HY SKY Fes 2027 & 前夜祭（3/19〜3/21のいずれか）",
+     "kind": "フェス",
+     "venue": "沖縄県総合運動公園 多目的広場（沖縄県）",
+     "source_url": "https://skyfes.net/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "女王蜂": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-19",
+     "title": "HY SKY Fes 2027 & 前夜祭（3/19〜3/21のいずれか）",
+     "kind": "フェス",
+     "venue": "沖縄県総合運動公園 多目的広場（沖縄県）",
+     "source_url": "https://skyfes.net/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "チョコレートプラネット": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-19",
+     "title": "HY SKY Fes 2027 & 前夜祭（3/19〜3/21のいずれか）",
+     "kind": "フェス",
+     "venue": "沖縄県総合運動公園 多目的広場（沖縄県）",
+     "source_url": "https://skyfes.net/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "ありんくりん": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-19",
+     "title": "HY SKY Fes 2027 & 前夜祭（3/19〜3/21のいずれか）",
+     "kind": "フェス",
+     "venue": "沖縄県総合運動公園 多目的広場（沖縄県）",
+     "source_url": "https://skyfes.net/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "MASA MAGIC": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-19",
+     "title": "HY SKY Fes 2027 & 前夜祭（3/19〜3/21のいずれか）",
+     "kind": "フェス",
+     "venue": "沖縄県総合運動公園 多目的広場（沖縄県）",
+     "source_url": "https://skyfes.net/",
+     "confidence": "low"
     }
    ]
   }

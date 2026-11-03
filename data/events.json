@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T20:45:00+09:00",
+ "updated": "2026-11-03T20:15:00+09:00",
  "artists": [
   "04 Limited Sazabys",
   "ELLEGARDEN",
@@ -43,67 +43,14 @@
  ],
  "events": [
   {
-   "artist": "10-FEET",
-   "date": "2026-11-02",
-   "title": "響都超特急TOUR2026",
-   "kind": "対バン",
-   "venue": "広島CLUB QUATTRO（広島県）",
-   "source_url": "https://10-feet.kyoto/contents/1085754",
-   "confidence": "high"
-  },
-  {
-   "artist": "HEY-SMITH",
-   "date": "2026-11-02",
-   "title": "音響空調爆上げGIG",
-   "kind": "対バン",
-   "venue": "滋賀（U☆STONE）",
-   "source_url": "https://hey-smith.com/live?y=2026&m=11",
-   "confidence": "high",
-   "with": "Exes on TV, sly cat girl",
-   "sale_info": "ADV 4,400円・SOLD OUT"
-  },
-  {
-   "artist": "ROTTENGRAFFTY",
-   "date": "2026-11-02",
-   "title": "響都超特急TOUR2026",
-   "kind": "対バン",
-   "venue": "広島クラブクアトロ（広島県）",
-   "ticket_name": "イープラス",
-   "ticket_url": "https://eplus.jp/sf/detail/0069680001",
-   "sale_info": "オフィシャル一次先行 受付終了",
-   "source_url": "https://eplus.jp/sf/detail/0069680001",
-   "confidence": "high",
-   "with": "10-FEET"
-  },
-  {
-   "artist": "a flood of circle",
-   "date": "2026-11-02",
-   "title": "Drunk 54（佐々木亮介 出演）",
-   "kind": "イベント",
-   "venue": "FEVER（東京）",
-   "with": "土肥一浩, 小林祐介, 柿谷彦ほか",
-   "ticket_url": "https://eplus.jp/sf/detail/4579600001-P0030001P021001",
-   "sale_info": "開場18:15/開演19:00",
-   "sales": [
-    {
-     "label": "先着一般発売",
-     "start": "2026-08-16",
-     "end": "2026-11-01",
-     "note": "10:00〜11/1 18:00"
-    }
-   ],
-   "source_url": "https://eplus.jp/sf/word/0000038850",
-   "confidence": "high"
-  },
-  {
    "artist": "Aimer",
    "date": "2026-11-03",
    "title": "Aimer Premium Concert 2026 \"Sing like a Stray Cat\" -hiss-",
    "kind": "ワンマン",
    "venue": "横浜BUNTAI（神奈川）",
-   "sale_info": "開場16:30/開演17:30 指定席9,500円",
+   "sale_info": "開場16:30/開演17:30、指定席9,500円",
    "source_url": "https://yokohama-buntai.jp/event/aimer-premium-concert-2026-sing-like-a-stray-cat%E3%80%80-hiss/",
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "artist": "ROTTENGRAFFTY",
@@ -448,10 +395,10 @@
    "date": "2026-11-07",
    "title": "MONGOL800 ga FESTIVAL What a Wonderful World!! 26（11/7・8のどちらか）",
    "kind": "フェス",
-   "venue": "宜野湾市（沖縄）",
+   "venue": "宜野湾港マリーナ トロピカルビーチ特設会場（沖縄）",
    "ticket_name": "イープラス",
-   "sale_info": "1日券12,000円・2日券22,000円。出演日は未発表",
-   "source_url": "https://spice.eplus.jp/articles/345243",
+   "sale_info": "1日券12,000円・2日券22,000円。フェス公式でDAY1（11/7）出演が確定",
+   "source_url": "https://www800.asia/2026/artist/",
    "confidence": "high"
   },
   {
@@ -577,6 +524,15 @@
     }
    ],
    "source_url": "https://eplus.jp/sf/detail/0257350001-P0030332P021002?P1=0175",
+   "confidence": "high"
+  },
+  {
+   "artist": "Novelbright",
+   "date": "2026-11-07",
+   "title": "2026 Korea Grand Music Awards（KGMA）",
+   "kind": "イベント",
+   "venue": "高尺スカイドーム（韓国・ソウル）",
+   "source_url": "https://novelbright.jp/",
    "confidence": "high"
   },
   {
@@ -921,12 +877,13 @@
    "artist": "Fear, and Loathing in Las Vegas",
    "date": "2026-11-13",
    "title": "The Focus \"Feeling of Unity\" Vol.1",
-   "kind": "対バン",
+   "kind": "ワンマン",
    "venue": "KYOTO MUSE（京都）",
    "ticket_name": "イープラス",
    "ticket_url": "https://eplus.jp/sf/detail/0524940001",
-   "source_url": "https://eplus.jp/sf/detail/0524940001",
-   "confidence": "low"
+   "source_url": "https://lasvegas-jp.com/live/",
+   "confidence": "high",
+   "sale_info": "ONE MAN SHOW。開場/開演 18:00/19:00"
   },
   {
    "artist": "Mrs. GREEN APPLE",
@@ -1248,8 +1205,8 @@
    "date": "2026-11-16",
    "title": "GORO 還暦 PARTY（還暦＆ソロアルバム『FUZZと野良犬』リリース記念ライブ）",
    "kind": "ワンマン",
-   "venue": "会場は要確認（公式LIVEページ参照）",
-   "sale_info": "価格・販売情報は未確認",
+   "venue": "GT LIVE TOKYO（東京都）",
+   "sale_info": "GOROの還暦イベント。公式告知のゲストはBro.TOM・水夏希・川平慈英ほかで、Bro.KORNの出演は未確認。昼 開場14:30/開演15:00・夜 開場18:30/開演19:00、チャージ5,000円＋ドリンク700円",
    "sales": [],
    "source_url": "https://www.brotom.jp/live",
    "confidence": "low"
@@ -1274,7 +1231,7 @@
    "kind": "イベント",
    "venue": "GT LIVE TOKYO（東京）",
    "ticket_url": "https://gtlivetokyo.jp/",
-   "sale_info": "昼15:00/夜19:00開演 5,000円+ドリンク700円",
+   "sale_info": "昼 開場14:30/開演15:00・夜 開場18:30/開演19:00、チャージ5,000円＋ドリンク700円",
    "sales": [
     {
      "label": "予約開始",
@@ -1401,12 +1358,13 @@
    "artist": "Fear, and Loathing in Las Vegas",
    "date": "2026-11-19",
    "title": "The Focus \"Feeling of Unity\" Vol.1",
-   "kind": "対バン",
+   "kind": "ワンマン",
    "venue": "名古屋 DIAMOND HALL（愛知）",
    "ticket_name": "イープラス",
    "ticket_url": "https://eplus.jp/sf/detail/0524940001",
-   "source_url": "https://eplus.jp/sf/detail/0524940001",
-   "confidence": "low"
+   "source_url": "https://lasvegas-jp.com/live/",
+   "confidence": "high",
+   "sale_info": "ONE MAN SHOW。開場/開演 18:00/19:00"
   },
   {
    "artist": "Mrs. GREEN APPLE",
@@ -1524,7 +1482,7 @@
    "venue": "Kアリーナ横浜（神奈川）",
    "sale_info": "開演15:00予定。出演はNovelbright公式LIVE欄の掲載のみ（外部の裏取り未了）",
    "source_url": "https://novelbright.jp/",
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "artist": "[Alexandros]",
@@ -1617,12 +1575,13 @@
    "artist": "Fear, and Loathing in Las Vegas",
    "date": "2026-11-22",
    "title": "The Focus \"Feeling of Unity\" Vol.1",
-   "kind": "対バン",
+   "kind": "ワンマン",
    "venue": "NIIGATA LOTS（新潟）",
    "ticket_name": "イープラス",
    "ticket_url": "https://eplus.jp/sf/detail/0524940001",
-   "source_url": "https://eplus.jp/sf/detail/0524940001",
-   "confidence": "low"
+   "source_url": "https://lasvegas-jp.com/live/",
+   "confidence": "high",
+   "sale_info": "ONE MAN SHOW。開場/開演 17:00/18:00"
   },
   {
    "artist": "HEY-SMITH",
@@ -1870,6 +1829,18 @@
    "confidence": "high"
   },
   {
+   "artist": "ブラザートム",
+   "date": "2026-11-24",
+   "title": "ブラザートムプロデュース「おとなの遊び場」Vol.39 LIVE",
+   "kind": "イベント",
+   "venue": "六本木SOULBAR WHAT'S UP（東京都）",
+   "ticket_name": "予約（select-type）",
+   "ticket_url": "https://select-type.com/s/?s=RdA8_QdnLAQ",
+   "sale_info": "入場料10,000円＋1ドリンク別。OPEN 17:00 / SHOW START 18:10",
+   "source_url": "https://www.brotom.jp/live",
+   "confidence": "high"
+  },
+  {
    "artist": "SHANK",
    "date": "2026-11-25",
    "title": "SHANK THE TOUR 2026",
@@ -1963,12 +1934,13 @@
    "artist": "Fear, and Loathing in Las Vegas",
    "date": "2026-11-27",
    "title": "The Focus \"Feeling of Unity\" Vol.1",
-   "kind": "対バン",
+   "kind": "ワンマン",
    "venue": "Zepp Haneda(TOKYO)（東京）",
    "ticket_name": "イープラス",
    "ticket_url": "https://eplus.jp/sf/detail/0524940001",
-   "source_url": "https://eplus.jp/sf/detail/0524940001",
-   "confidence": "low"
+   "source_url": "https://lasvegas-jp.com/live/",
+   "confidence": "high",
+   "sale_info": "ONE MAN SHOW。開場/開演 18:00/19:00"
   },
   {
    "artist": "THE ALFEE",
@@ -2428,7 +2400,7 @@
    "kind": "対バン",
    "venue": "F.A.D YOKOHAMA（神奈川）",
    "with": "フルカワユタカ",
-   "sale_info": "前売4,000円（別途ドリンク600円）。e+先着は10/4 10:00〜",
+   "sale_info": "9mmとしてではなく菅原卓郎（Vo）のソロ出演（w/ フルカワユタカ）。開場18:30/開演19:00、ADV 4,000円",
    "sales": [
     {
      "label": "e+先着",
@@ -2560,12 +2532,13 @@
    "artist": "Fear, and Loathing in Las Vegas",
    "date": "2026-12-03",
    "title": "The Focus \"Feeling of Unity\" Vol.1",
-   "kind": "対バン",
+   "kind": "ワンマン",
    "venue": "DRUM LOGOS（福岡）",
    "ticket_name": "イープラス",
    "ticket_url": "https://eplus.jp/sf/detail/0524940001",
-   "source_url": "https://eplus.jp/sf/detail/0524940001",
-   "confidence": "low"
+   "source_url": "https://lasvegas-jp.com/live/",
+   "confidence": "high",
+   "sale_info": "ONE MAN SHOW。開場/開演 18:00/19:00"
   },
   {
    "artist": "Mrs. GREEN APPLE",
@@ -2650,9 +2623,9 @@
    "venue": "豊洲PIT（東京）",
    "ticket_name": "チケットぴあ",
    "ticket_url": "https://w.pia.jp/t/torirockfes2026/",
-   "sale_info": "12/4・5の2日間。出演日は未発表（日割り発表待ち）。通し13,000円／DAY1 6,500円／DAY2 7,900円",
-   "source_url": "https://barks.jp/news/1081936/",
-   "confidence": "low"
+   "sale_info": "公式スケジュールで12/4出演が確定",
+   "source_url": "https://www.04limitedsazabys.com/schedule",
+   "confidence": "high"
   },
   {
    "artist": "10-FEET",
@@ -2950,6 +2923,11 @@
      "start": "2026-10-23",
      "end": "2026-11-01",
      "url": "https://eplus.jp/sf/detail/0044950001"
+    },
+    {
+     "label": "一般発売",
+     "start": "2026-11-14",
+     "note": "先着・12:00〜"
     }
    ]
   },
@@ -2988,6 +2966,11 @@
      "start": "2026-10-23",
      "end": "2026-11-01",
      "url": "https://eplus.jp/sf/detail/0044950001"
+    },
+    {
+     "label": "一般発売",
+     "start": "2026-11-14",
+     "note": "先着・12:00〜"
     }
    ]
   },
@@ -3161,12 +3144,13 @@
    "artist": "Fear, and Loathing in Las Vegas",
    "date": "2026-12-11",
    "title": "The Focus \"Feeling of Unity\" Vol.1",
-   "kind": "対バン",
+   "kind": "ワンマン",
    "venue": "岡山CRAZYMAMA KINGDOM（岡山）",
    "ticket_name": "イープラス",
    "ticket_url": "https://eplus.jp/sf/detail/0524940001",
-   "source_url": "https://eplus.jp/sf/detail/0524940001",
-   "confidence": "low"
+   "source_url": "https://lasvegas-jp.com/live/9180",
+   "confidence": "high",
+   "sale_info": "ONE MAN SHOW。開場/開演 18:00/19:00"
   },
   {
    "artist": "SiM",
@@ -4001,8 +3985,8 @@
      "end": "2026-10-25"
     }
    ],
-   "source_url": "https://eplus.jp/sf/detail/1398280001-P0030010P021001",
-   "confidence": "low"
+   "source_url": "https://novelbright.jp/news/detail/2493",
+   "confidence": "high"
   },
   {
    "artist": "a flood of circle",
@@ -4514,8 +4498,8 @@
    "ticket_name": "イープラス",
    "ticket_url": "https://eplus.jp/sf/word/0000065361",
    "sale_info": "開催12/26〜28のうち12/28出演",
-   "source_url": "https://natalie.mu/music/news/693902",
-   "confidence": "low"
+   "source_url": "https://eplus.jp/radiocrazy2026/",
+   "confidence": "high"
   },
   {
    "kind": "フェス",
@@ -4930,17 +4914,6 @@
    "confidence": "high"
   },
   {
-   "artist": "04 Limited Sazabys",
-   "date": "2027-01-09",
-   "title": "go!go!vanillas presents「ぼくらのタイマン上等ツアー」",
-   "kind": "対バン",
-   "venue": "Zepp Nagoya（愛知）",
-   "with": "go!go!vanillas",
-   "sale_info": "2027/1/8・9の2日間のうち1/9(土)17:00開演。出演日は要確認",
-   "source_url": "https://natalie.mu/music/news/676847",
-   "confidence": "low"
-  },
-  {
    "artist": "HEY-SMITH",
    "date": "2027-01-09",
    "title": "HEY-SMITH 20th ANNIVERSARY『ALL OVER JAPAN TOUR』",
@@ -5240,9 +5213,9 @@
    "venue": "ザ・シンフォニーホール（大阪）",
    "ticket_name": "イープラス",
    "ticket_url": "https://eplus.jp/sf/detail/4535240001-P0030001P021001?P1=0175",
-   "sale_info": "開演14:00",
-   "source_url": "https://eplus.jp/hisaishi/",
-   "confidence": "low"
+   "sale_info": "指揮：久石譲、ピアノ：亀井聖矢。開場13:00/開演14:00",
+   "source_url": "https://joehisaishi.com/concert_category/2027/",
+   "confidence": "high"
   },
   {
    "artist": "HEY-SMITH",
@@ -5274,9 +5247,9 @@
    "venue": "京都コンサートホール 大ホール（京都）",
    "ticket_name": "イープラス",
    "ticket_url": "https://eplus.jp/sf/detail/4535260001-P0030001P021001?P1=0175",
-   "sale_info": "開演14:00",
-   "source_url": "https://eplus.jp/hisaishi/",
-   "confidence": "low"
+   "sale_info": "指揮：久石譲、ピアノ：亀井聖矢。開場13:00/開演14:00",
+   "source_url": "https://joehisaishi.com/concert_category/2027/",
+   "confidence": "high"
   },
   {
    "artist": "HEY-SMITH",
@@ -5407,12 +5380,13 @@
    "artist": "Fear, and Loathing in Las Vegas",
    "date": "2027-01-23",
    "title": "The Focus \"Feeling of Unity\" Vol.1",
-   "kind": "対バン",
+   "kind": "ワンマン",
    "venue": "GORILLA HALL OSAKA（大阪）",
    "ticket_name": "イープラス",
    "ticket_url": "https://eplus.jp/sf/detail/0524940001",
-   "source_url": "https://eplus.jp/sf/detail/0524940001",
-   "confidence": "low"
+   "source_url": "https://lasvegas-jp.com/live/9178",
+   "confidence": "high",
+   "sale_info": "ONE MAN SHOW。開場/開演 17:00/18:00"
   },
   {
    "artist": "04 Limited Sazabys",
@@ -5776,9 +5750,9 @@
    "title": "FUKUOKA MUSIC FES.2027 supported by Trunk（1/30・31のどちらか）",
    "kind": "フェス",
    "venue": "みずほPayPayドーム福岡（福岡）",
-   "sale_info": "1/30・31の2日間。出演日は後日発表",
-   "source_url": "https://natalie.mu/music/news/690002",
-   "confidence": "low"
+   "sale_info": "公式スケジュールで1/30出演が確定",
+   "source_url": "https://www.04limitedsazabys.com/schedule",
+   "confidence": "high"
   },
   {
    "artist": "SHANK",
@@ -6894,6 +6868,46 @@
    "confidence": "low"
   },
   {
+   "artist": "Fear, and Loathing in Las Vegas",
+   "date": "2027-03-20",
+   "title": "MEGA VEGAS 2027（3/20）",
+   "kind": "フェス",
+   "venue": "神戸ワールド記念ホール（兵庫）",
+   "with": "10-FEET、ヤバイTシャツ屋さん、coldrain ほか",
+   "ticket_name": "イープラス",
+   "ticket_url": "http://eplus.jp/falilv/",
+   "sale_info": "開場10:30／開演12:00。1DAY 11,500円、2DAY 22,000円、VIP 1DAY 28,000円（税込・自由席）",
+   "sales": [
+    {
+     "label": "VEGASTATION 抽選先行",
+     "start": "2026-09-27",
+     "end": "2026-10-04",
+     "note": "抽選"
+    },
+    {
+     "label": "OFFICIAL WEB先行 第1次（イープラス）",
+     "start": "2026-10-11",
+     "end": "2026-10-25",
+     "url": "http://eplus.jp/falilv/",
+     "note": "抽選"
+    }
+   ],
+   "source_url": "https://lasvegas-jp.com/live/9288",
+   "confidence": "high"
+  },
+  {
+   "artist": "coldrain",
+   "date": "2027-03-20",
+   "title": "MEGA VEGAS 2027（3/20・21のどちらか。出演日未発表）",
+   "kind": "フェス",
+   "venue": "神戸ワールド記念ホール（兵庫）",
+   "ticket_name": "イープラス",
+   "ticket_url": "http://eplus.jp/falilv/",
+   "sale_info": "開場10:30／開演12:00。1DAY 11,500円、2DAY 22,000円、VIP 1DAY 28,000円（税込・自由席）",
+   "source_url": "https://lasvegas-jp.com/live/9288",
+   "confidence": "low"
+  },
+  {
    "artist": "10-FEET",
    "date": "2027-03-21",
    "title": "MEGA VEGAS 2027",
@@ -6910,6 +6924,34 @@
    "kind": "ワンマン",
    "venue": "セキスイハイムスーパーアリーナ（宮城）",
    "source_url": "https://realsound.jp/2026/07/post-2462631.html",
+   "confidence": "high"
+  },
+  {
+   "artist": "Fear, and Loathing in Las Vegas",
+   "date": "2027-03-21",
+   "title": "MEGA VEGAS 2027（3/21）",
+   "kind": "フェス",
+   "venue": "神戸ワールド記念ホール（兵庫）",
+   "with": "10-FEET、ヤバイTシャツ屋さん、coldrain ほか",
+   "ticket_name": "イープラス",
+   "ticket_url": "http://eplus.jp/falilv/",
+   "sale_info": "開場10:30／開演12:00。1DAY 11,500円、2DAY 22,000円、VIP 1DAY 28,000円（税込・自由席）",
+   "sales": [
+    {
+     "label": "VEGASTATION 抽選先行",
+     "start": "2026-09-27",
+     "end": "2026-10-04",
+     "note": "抽選"
+    },
+    {
+     "label": "OFFICIAL WEB先行 第1次（イープラス）",
+     "start": "2026-10-11",
+     "end": "2026-10-25",
+     "url": "http://eplus.jp/falilv/",
+     "note": "抽選"
+    }
+   ],
+   "source_url": "https://lasvegas-jp.com/live/9290",
    "confidence": "high"
   },
   {
@@ -8512,7 +8554,7 @@
    "pref": "愛知",
    "status": "lineup",
    "source_url": "https://www.ragnet.co.jp/rock-festival",
-   "lineup_checked": "2026-10-24",
+   "lineup_checked": "2026-11-03",
    "lineup": [
     "BACK LIFT",
     "EVERLONG",
@@ -8531,7 +8573,9 @@
     "knot",
     "sanagi",
     "stain hung over"
-   ]
+   ],
+   "official_url": "https://rad.radcreation.jp/events/trust-records-presents-punk-in-autumn-2026/",
+   "venue": "名古屋・栄界隈（RAD HALL ほか）"
   },
   {
    "name": "SHUNAN Orbit",
@@ -8560,7 +8604,8 @@
     "山口憲一&ロカビリー・スペシャルズ",
     "日野勝雄",
     "浦江アキコ"
-   ]
+   ],
+   "venue": "うらり 2階展望デッキ"
   },
   {
    "name": "BUZZ RHYTHM LIVE",
@@ -8569,7 +8614,7 @@
    "pref": "神奈川県",
    "status": "lineup",
    "source_url": "https://buzzrhythm.live/",
-   "lineup_checked": "2026-10-26",
+   "lineup_checked": "2026-11-03",
    "lineup": [
     "Ayumu Imazu",
     "KOIAI",
@@ -8589,7 +8634,16 @@
     "This is LAST",
     "Vaundy",
     "FUJIBASE",
-    "My Hair is Bad"
+    "My Hair is Bad",
+    "スーパー登山部",
+    "PURPLE BUBBLE",
+    "バチカン市国に愛されたい",
+    "ON THE AIR",
+    "かわにしなつき",
+    "Be-ray",
+    "かのん",
+    "SATOH",
+    "セブンス・ベガ"
    ],
    "official_url": "https://buzzrhythm.live/",
    "ticket_name": "ぴあ",
@@ -8612,7 +8666,10 @@
      "Chevon",
      "マルシィ",
      "METALVERSE",
-     "龍宮城"
+     "龍宮城",
+     "スーパー登山部",
+     "PURPLE BUBBLE",
+     "バチカン市国に愛されたい"
     ],
     "2026-11-07": [
      "IMP.",
@@ -8620,7 +8677,10 @@
      "超特急",
      "NEXZ",
      "Lienel",
-     "ONE OR EIGHT"
+     "ONE OR EIGHT",
+     "ON THE AIR",
+     "かわにしなつき",
+     "Be-ray"
     ],
     "2026-11-08": [
      "OddRe:",
@@ -8628,7 +8688,10 @@
      "This is LAST",
      "Vaundy",
      "FUJIBASE",
-     "My Hair is Bad"
+     "My Hair is Bad",
+     "かのん",
+     "SATOH",
+     "セブンス・ベガ"
     ]
    }
   },
@@ -8652,9 +8715,11 @@
     "LAGWAGON",
     "MAN WITH A MISSION",
     "ザ・クロマニヨンズ",
-    "マキシマム ザ ホルモン"
+    "マキシマム ザ ホルモン",
+    "SODA!",
+    "JACKIE & THE CEDRICS"
    ],
-   "lineup_checked": "2026-10-26",
+   "lineup_checked": "2026-11-03",
    "image": "https://d3kbpyz231bxt9.cloudfront.net/airjam26/images/favicon_ogp/ogp.jpg",
    "ticket_name": "ぴあ",
    "ticket_url": "https://w.pia.jp/t/airjam2026/",
@@ -8665,7 +8730,24 @@
      "url": "https://w.pia.jp/t/airjam2026/",
      "note": "12:00〜。要現状確認"
     }
-   ]
+   ],
+   "lineup_days": {
+    "2026-11-07": [
+     "Hi-STANDARD",
+     "10-FEET",
+     "DANCE HALL CRASHERS",
+     "ENTH",
+     "HEY-SMITH",
+     "HUSKING BEE",
+     "KUZIRA",
+     "LAGWAGON",
+     "MAN WITH A MISSION",
+     "ザ・クロマニヨンズ",
+     "マキシマム ザ ホルモン",
+     "SODA!",
+     "JACKIE & THE CEDRICS"
+    ]
+   }
   },
   {
    "name": "MIYA SONIC",
@@ -8674,7 +8756,7 @@
    "pref": "東京",
    "status": "lineup",
    "source_url": "https://www.ragnet.co.jp/rock-festival",
-   "lineup_checked": "2026-10-24",
+   "lineup_checked": "2026-11-03",
    "lineup": [
     "DJ Funky-T",
     "DJ JIN",
@@ -8685,7 +8767,19 @@
     "鷺宮高校軽音楽部"
    ],
    "official_url": "https://miyasonic.com/",
-   "image": "https://miyasonic.com/images/og-image-261003.jpg"
+   "image": "https://miyasonic.com/images/og-image-261003.jpg",
+   "lineup_days": {
+    "2026-11-07": [
+     "HAYATO DELAROSSA",
+     "DJ TATSUTA",
+     "DJ JIN",
+     "竹本健一",
+     "DJ Funky-T",
+     "武蔵丘高校軽音楽部",
+     "鷺宮高校軽音楽部"
+    ]
+   },
+   "venue": "鷺宮八幡神社 境内および神楽殿広場"
   },
   {
    "name": "MONGOL800 ga FESTIVAL What a Wonderful World!!",
@@ -9039,7 +9133,7 @@
    "pref": "静岡",
    "status": "unknown",
    "source_url": "https://www.ragnet.co.jp/rock-festival",
-   "lineup_checked": "2026-11-02"
+   "lineup_checked": "2026-11-03"
   },
   {
    "name": "氣志團万博",
@@ -9076,7 +9170,8 @@
     "ももいろクローバーZ",
     "Lienel",
     "ROTTENGRAFFTY",
-    "WANIMA"
+    "WANIMA",
+    "美少女戦士セーラームーン -Shining Theater Shinagawa Tokyo-"
    ],
    "ticket_name": "イープラス",
    "ticket_url": "https://eplus.jp/kishidanbanpaku26/",
@@ -9089,7 +9184,7 @@
      "note": "10:00〜"
     }
    ],
-   "lineup_checked": "2026-10-26",
+   "lineup_checked": "2026-11-03",
    "image": "https://kishidanbanpaku.com/images/15/b4f/cc6d2372ede6735f3c035c0a29ece.jpg",
    "lineup_days": {
     "2026-11-07": [
@@ -9106,7 +9201,8 @@
      "バックドロップシンデレラ",
      "PUFFY",
      "日向坂46",
-     "モナキ"
+     "モナキ",
+     "美少女戦士セーラームーン -Shining Theater Shinagawa Tokyo-"
     ],
     "2026-11-08": [
      "アイナ・ジ・エンド",
@@ -9136,7 +9232,28 @@
    "pref": "石川",
    "status": "unknown",
    "source_url": "https://www.ragnet.co.jp/rock-festival",
-   "lineup_checked": "2026-11-02"
+   "lineup_checked": "2026-11-03"
+  },
+  {
+   "name": "LOCALGREEN FESTIVAL'26",
+   "start": "2026-11-07",
+   "end": "2026-11-08",
+   "pref": "神奈川県",
+   "venue": "横浜赤レンガ倉庫",
+   "official_url": "https://localgreen.jp/",
+   "lineup": [
+    "YONA YONA WEEKENDERS",
+    "NakamuraEmi",
+    "Ryu Matsuyama",
+    "kiki vivi lily",
+    "カメレオン・ライム・ウーピーパイ",
+    "KOMOREBI",
+    "Sala"
+   ],
+   "source_url": "https://skream.jp/news/2026/09/localgreen_festival26_1st_lineup.php",
+   "status": "lineup",
+   "lineup_checked": "2026-11-03",
+   "image": "https://localgreen.jp/wp-content/uploads/2025/05/OGP.jpg"
   },
   {
    "name": "おやじばんどふぇすた in YAMANASHI",
@@ -9145,7 +9262,7 @@
    "pref": "山梨",
    "status": "unknown",
    "source_url": "https://www.ragnet.co.jp/rock-festival",
-   "lineup_checked": "2026-11-02"
+   "lineup_checked": "2026-11-03"
   },
   {
    "name": "大磯ファミリーロックフェスティバル",
@@ -9154,7 +9271,7 @@
    "pref": "神奈川",
    "status": "unknown",
    "source_url": "https://www.ragnet.co.jp/rock-festival",
-   "lineup_checked": "2026-11-02"
+   "lineup_checked": "2026-11-03"
   },
   {
    "name": "こんがりおんがく祭",
@@ -9163,7 +9280,7 @@
    "pref": "大阪",
    "status": "lineup",
    "source_url": "https://www.ragnet.co.jp/rock-festival",
-   "lineup_checked": "2026-10-29",
+   "lineup_checked": "2026-11-03",
    "ticket_name": "イープラス",
    "ticket_url": "https://eplus.jp/sf/word/0000082199",
    "venue": "大阪城音楽堂",
@@ -9174,9 +9291,26 @@
     "Texas 3000",
     "neco眠る",
     "オシリペンペンズ",
-    "DODDODO BAND"
+    "DODDODO BAND",
+    "ナイトサパーズ(from赤犬)",
+    "NAKAM",
+    "Takashi Irie"
    ],
-   "note": "出演者は検索要約由来。要再確認"
+   "note": "出演者は検索要約由来。要再確認",
+   "lineup_days": {
+    "2026-11-14": [
+     "cero",
+     "kanekoayano",
+     "Summer Eye Sound Syndicate",
+     "Texas 3000",
+     "neco眠る",
+     "オシリペンペンズ",
+     "DODDODO BAND",
+     "ナイトサパーズ(from赤犬)",
+     "NAKAM",
+     "Takashi Irie"
+    ]
+   }
   },
   {
    "name": "アメ村天国",
@@ -9220,7 +9354,7 @@
    "pref": "熊本",
    "status": "unknown",
    "source_url": "https://www.ragnet.co.jp/rock-festival",
-   "lineup_checked": "2026-11-02"
+   "lineup_checked": "2026-11-03"
   },
   {
    "name": "せいか祭り 学研ミュージックストリート",
@@ -9229,7 +9363,7 @@
    "pref": "京都",
    "status": "unknown",
    "source_url": "https://www.ragnet.co.jp/rock-festival",
-   "lineup_checked": "2026-11-02",
+   "lineup_checked": "2026-11-03",
    "official_url": "https://www.town.seika.kyoto.jp/kakuka/jichi/kyodo/kankou/seikafestival/30298.html"
   },
   {
@@ -9239,7 +9373,7 @@
    "pref": "埼玉",
    "status": "unknown",
    "source_url": "https://www.ragnet.co.jp/rock-festival",
-   "lineup_checked": "2026-11-02"
+   "lineup_checked": "2026-11-03"
   },
   {
    "name": "岩手町SDGs ROCK HAND FES",
@@ -9248,8 +9382,9 @@
    "pref": "岩手",
    "status": "unknown",
    "source_url": "https://www.ragnet.co.jp/rock-festival",
-   "lineup_checked": "2026-11-02",
-   "note": "出演バンドは一般公募"
+   "lineup_checked": "2026-11-03",
+   "note": "出演バンドは一般公募",
+   "venue": "岩手広域交流センター プラザあい"
   },
   {
    "name": "Kurayoshi ROCK Festival",
@@ -9258,7 +9393,7 @@
    "pref": "鳥取",
    "status": "unknown",
    "source_url": "https://www.ragnet.co.jp/rock-festival",
-   "lineup_checked": "2026-11-02"
+   "lineup_checked": "2026-11-03"
   },
   {
    "name": "SAGAE MUSIC DAY",
@@ -9305,7 +9440,8 @@
      "ヤングスキニー"
     ]
    },
-   "note": "全席完売（当日券なし）"
+   "note": "全席完売（当日券なし）",
+   "venue": "寒河江市市民文化会館"
   },
   {
    "name": "over fest",
@@ -9345,7 +9481,7 @@
    "pref": "宮崎",
    "status": "unknown",
    "source_url": "https://www.ragnet.co.jp/rock-festival",
-   "lineup_checked": "2026-11-02"
+   "lineup_checked": "2026-11-03"
   },
   {
    "name": "千のRockYou!!",
@@ -9354,8 +9490,40 @@
    "pref": "大阪",
    "status": "unknown",
    "source_url": "https://www.ragnet.co.jp/rock-festival",
-   "lineup_checked": "2026-11-02",
+   "lineup_checked": "2026-11-03",
    "note": "参加者全員で合奏する参加型イベント（出演者の発表はない）"
+  },
+  {
+   "name": "テレビ朝日ドリームフェスティバル2026",
+   "start": "2026-11-21",
+   "end": "2026-11-23",
+   "pref": "神奈川県",
+   "venue": "Kアリーナ横浜",
+   "official_url": "https://dreamfestival.jp/",
+   "lineup": [
+    "JO1",
+    "Aぇ! group",
+    "Novelbright",
+    "マルシィ",
+    "ももいろクローバーZ",
+    "NCT DREAM",
+    "INI",
+    "XngHan&Xoul",
+    "Da-iCE",
+    "ROIROM",
+    "MAZZEL",
+    "ALPHA DRIVE ONE",
+    "izna",
+    "NCT WISH",
+    "ME:I",
+    "モナキ"
+   ],
+   "ticket_name": "チケットぴあ",
+   "ticket_url": "https://w.pia.jp/t/dreamfestival/",
+   "source_url": "https://dreamfestival.jp/",
+   "status": "lineup",
+   "lineup_checked": "2026-11-03",
+   "image": "https://dreamfestival.jp/assets/common/img/share/og.jpg"
   },
   {
    "name": "ANI-ROCK FES.",
@@ -9455,7 +9623,7 @@
    "pref": "東京",
    "status": "lineup",
    "source_url": "https://www.ragnet.co.jp/rock-festival",
-   "lineup_checked": "2026-10-24",
+   "lineup_checked": "2026-11-03",
    "lineup": [
     "Adept",
     "After the Burial",
@@ -9489,16 +9657,80 @@
    ],
    "ticket_url": "https://eplus.jp/sf/detail/2669250001-P0030004P021001",
    "ticket_name": "イープラス",
-   "image": "https://crystallake-worldwide.com/images/ogp.jpg"
+   "image": "https://crystallake-worldwide.com/images/ogp.jpg",
+   "lineup_days": {
+    "2026-11-22": [
+     "Adept",
+     "After the Burial",
+     "coldrain",
+     "Crystal Lake",
+     "C-GATE",
+     "NOISEMAKER",
+     "Prompts",
+     "SHADOWS",
+     "Super Structure",
+     "花冷え。",
+     "マキシマム ザ ホルモン",
+     "山嵐"
+    ]
+   },
+   "venue": "豊洲PIT"
   },
   {
    "name": "PANA FES",
    "start": "2026-11-23",
    "end": "2026-11-23",
    "pref": "兵庫",
-   "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival",
-   "lineup_checked": "2026-11-02"
+   "status": "lineup",
+   "source_url": "https://eplus.jp/sf/detail/4580820001-P0030001",
+   "lineup_checked": "2026-11-03",
+   "lineup": [
+    "Panorama Panama Town",
+    "夜の本気ダンス",
+    "フリージアン",
+    "愛はズボーン",
+    "SuperBack",
+    "加速するラブズ",
+    "Voodoo V",
+    "Ivy to Fraudulent Game",
+    "Gill Snatch",
+    "The Cheserasera",
+    "ジュウ",
+    "CAT ATE HOTDOGS",
+    "DeNeel",
+    "TORO",
+    "WALTZMORE"
+   ],
+   "lineup_days": {
+    "2026-11-23": [
+     "Panorama Panama Town",
+     "夜の本気ダンス",
+     "フリージアン",
+     "愛はズボーン",
+     "SuperBack",
+     "加速するラブズ",
+     "Voodoo V",
+     "Ivy to Fraudulent Game",
+     "Gill Snatch",
+     "The Cheserasera",
+     "ジュウ",
+     "CAT ATE HOTDOGS",
+     "DeNeel",
+     "TORO",
+     "WALTZMORE"
+    ]
+   },
+   "venue": "神戸 太陽と虎ほか",
+   "note": "正式名『パナフェス2026 feat. COMING KOBE』",
+   "sales": [
+    {
+     "label": "一般発売",
+     "start": "2026-09-01",
+     "end": "2026-11-22",
+     "url": "https://eplus.jp/sf/detail/4580820001-P0030001",
+     "note": "先着・18:00〜"
+    }
+   ]
   },
   {
    "name": "つばめ音楽祭（ロック＆フォークフェスタ）",
@@ -9507,7 +9739,7 @@
    "pref": "新潟",
    "status": "unknown",
    "source_url": "https://www.ragnet.co.jp/rock-festival",
-   "lineup_checked": "2026-11-02"
+   "lineup_checked": "2026-11-03"
   },
   {
    "name": "ロックアンセムEX",
@@ -9638,7 +9870,7 @@
    "pref": "沖縄",
    "status": "unknown",
    "source_url": "https://www.ragnet.co.jp/rock-festival",
-   "lineup_checked": "2026-11-02"
+   "lineup_checked": "2026-11-03"
   },
   {
    "name": "MASTERPIECE",
@@ -9889,7 +10121,7 @@
    "pref": "静岡",
    "status": "unknown",
    "source_url": "https://www.ragnet.co.jp/rock-festival",
-   "lineup_checked": "2026-11-02",
+   "lineup_checked": "2026-11-03",
    "note": "要確認：2026-10-24の調査でこの名称のイベントが確認できなかった（出典はragnetの一覧のみ）。次回以降も確認できなければ削除を検討"
   },
   {
@@ -9939,8 +10171,8 @@
    "end": "2026-11-29",
    "pref": "東京",
    "status": "lineup",
-   "source_url": "https://www.ragnet.co.jp/rock-festival",
-   "lineup_checked": "2026-10-24",
+   "source_url": "https://gekirock.com/news/2026/10/kakumei2026_6th_lineup.php",
+   "lineup_checked": "2026-11-03",
    "lineup": [
     "Adult family",
     "Aloud",
@@ -9970,8 +10202,162 @@
     "わんちゃんわんわんねこにゃんにゃん",
     "アンジーモーテル",
     "プルスタンス",
-    "ミーマイナー"
-   ]
+    "ミーマイナー",
+    "chef's",
+    "GOODWARP",
+    "Grape Kiki",
+    "ONIGAWARA",
+    "Rabbit horn's",
+    "the bercedes menz",
+    "荒木一仁",
+    "あれくん",
+    "イロムク",
+    "カラノア",
+    "小林柊矢",
+    "サウルス",
+    "ザ・チャレンジ",
+    "スランプガール",
+    "'97,Kids",
+    "BLUE REGRET。",
+    "CHAQLA.",
+    "EMPATHY",
+    "FLORERISA",
+    "kice",
+    "LEIWAN",
+    "maleficium",
+    "T.N.T",
+    "YA'ABURNEE",
+    "兎アイズ",
+    "ザアザア",
+    "まみれた",
+    "パピプペポは難しい",
+    "ビバラッシュ",
+    "闇雲-yamikumo-",
+    "IQ99",
+    "U's",
+    "UNDYING WORDS",
+    "Wisteria",
+    "雨音とアプローズ",
+    "安月名莉子",
+    "おとは",
+    "ガラスの靴は落とさない",
+    "最果てのハイライト",
+    "すごいバンド名にしたかった。",
+    "帆保健太郎",
+    "結芽乃",
+    "琳子",
+    "CHAKON",
+    "Homesick Humming",
+    "Nachika",
+    "イトウセレネ",
+    "加藤 結",
+    "さわりさ",
+    "すず",
+    "成家ひかる",
+    "水谷 駿",
+    "水波月奈巳",
+    "愛奈",
+    "みさーもん",
+    "め組",
+    "Earworm",
+    "indoor cats.",
+    "Phantom Style"
+   ],
+   "lineup_days": {
+    "2026-11-29": [
+     "Adult family",
+     "Ciely",
+     "Gum-9",
+     "HINONABE",
+     "Lala",
+     "ORCALAND",
+     "Reinore",
+     "Re:name",
+     "shallm",
+     "Viewtrade",
+     "アンジーモーテル",
+     "かたこと",
+     "プルスタンス",
+     "ミーマイナー",
+     "ゆっくりな光",
+     "Aloud",
+     "Broken By The Scream",
+     "Cait-C",
+     "Hakumay",
+     "IneedS",
+     "Koyoi",
+     "Lonesome_Blue",
+     "masa",
+     "melto",
+     "PaleNeØ",
+     "Sleepless Endorphine",
+     "TOKYO EAST TAPES CLUB",
+     "わんちゃんわんわんねこにゃんにゃん",
+     "DOPERS",
+     "chef's",
+     "GOODWARP",
+     "Grape Kiki",
+     "ONIGAWARA",
+     "Rabbit horn's",
+     "the bercedes menz",
+     "荒木一仁",
+     "あれくん",
+     "イロムク",
+     "カラノア",
+     "小林柊矢",
+     "サウルス",
+     "ザ・チャレンジ",
+     "スランプガール",
+     "'97,Kids",
+     "BLUE REGRET。",
+     "CHAQLA.",
+     "EMPATHY",
+     "FLORERISA",
+     "kice",
+     "LEIWAN",
+     "maleficium",
+     "T.N.T",
+     "YA'ABURNEE",
+     "兎アイズ",
+     "ザアザア",
+     "まみれた",
+     "パピプペポは難しい",
+     "ビバラッシュ",
+     "闇雲-yamikumo-",
+     "IQ99",
+     "U's",
+     "UNDYING WORDS",
+     "Wisteria",
+     "雨音とアプローズ",
+     "安月名莉子",
+     "おとは",
+     "ガラスの靴は落とさない",
+     "最果てのハイライト",
+     "すごいバンド名にしたかった。",
+     "帆保健太郎",
+     "結芽乃",
+     "琳子",
+     "CHAKON",
+     "Homesick Humming",
+     "Nachika",
+     "イトウセレネ",
+     "加藤 結",
+     "さわりさ",
+     "すず",
+     "成家ひかる",
+     "水谷 駿",
+     "水波月奈巳",
+     "愛奈",
+     "みさーもん",
+     "め組",
+     "Earworm",
+     "indoor cats.",
+     "Phantom Style"
+    ]
+   },
+   "official_url": "https://liveholic.jp/news/2026/07/liveholic2026-supported-by-skream-11291renamegum-9shallmorcalandhinonabe.php",
+   "venue": "下北沢の複数ライブハウス",
+   "image": "https://liveholic.jp/img/logo.png"
   },
   {
    "name": "Montreux Jazz Festival Japan -THE CLUB-",
@@ -10226,7 +10612,8 @@
    "pref": "栃木",
    "status": "unknown",
    "source_url": "https://www.ragnet.co.jp/rock-festival",
-   "lineup_checked": "2026-11-02"
+   "lineup_checked": "2026-11-03",
+   "note": "2026-11-03 確認：12/5-6 の開催情報を確認できず（検索では6/20-21 宇都宮開催のみ）。要確認"
   },
   {
    "name": "下北沢にて",
@@ -10239,12 +10626,340 @@
     "THEラブ人間",
     "ザ・ヒーローズ",
     "ポコメッツ",
-    "Reinore"
+    "Reinore",
+    "3markets[ ]",
+    "Broken my toybox",
+    "Hammer Head Shark",
+    "ADAM at",
+    "memetoour",
+    "osage",
+    "niina",
+    "Pixie Monster",
+    "POYACORO",
+    "ZiDol",
+    "アンダーグラフ",
+    "たこやき野球連盟",
+    "ノーボアダムズ",
+    "プピリットパロ",
+    "スランプガール",
+    "ミートザホープス&ともだちたち",
+    "ヤングオオハラ",
+    "金子智也",
+    "音癒",
+    "叶芽フウカ",
+    "ロマンス&バカンス",
+    "韓流セレブレイト",
+    "街人",
+    "渡辺大知(黒猫CHELSEA)",
+    "桃野陽介(モノブライト)",
+    "藤澤信次郎（浪漫革命）",
+    "中野ミホ",
+    "板歯目",
+    "美侑",
+    "MAKKURAGE",
+    "ガミガミ",
+    "ビレッジマンズストア",
+    "ニガミ17才",
+    "空きっ腹に酒",
+    "THE BOYS&GIRLS",
+    "SEVENTEENAGAiN",
+    "せだい",
+    "チャラン・ポ・ランタン",
+    "zoo",
+    "wanbed",
+    "SYAYOS",
+    "amanojac",
+    "Gum-9",
+    "SuiseiNoboAz",
+    "SleepInside",
+    "STANCE PUNKS",
+    "KOHAKU",
+    "イロクロニクル",
+    "grating hunny",
+    "メトロワ",
+    "FINLANDS",
+    "愛しておくれ",
+    "終活クラブ",
+    "3tone sunburst",
+    "akebono",
+    "oh!! 真珠s",
+    "S級任務",
+    "ute",
+    "SSHY･ザ･SSHY",
+    "大比良瑞希",
+    "o_all",
+    "DNA GAINZ",
+    "Cloudy",
+    "Day my dream",
+    "Tattletale",
+    "メリクレット",
+    "THEティバ",
+    "ポンツクピーヤ",
+    "パーカーズ",
+    "ジ・エンプティ",
+    "PanoramaPanamaTown",
+    "前髪ぱっつん少年",
+    "夜の本気ダンス",
+    "Tyrkouaz",
+    "Massage Attack",
+    "Mercy Woodpecker",
+    "Junkie Machine",
+    "大森靖子",
+    "ラナメリサ",
+    "さとう。",
+    "naf",
+    "本棚のモヨコ",
+    "Brain Popcorn",
+    "さよならミオちゃん",
+    "Shawoo",
+    "あっこゴリラ",
+    "KING BROTHERS",
+    "さらば帝国",
+    "オワリカラ",
+    "爛漫天国",
+    "Tsukisamu Mutton Network",
+    "standard sky",
+    "札幌某所",
+    "NO.18",
+    "お願いジョンソン聴いてくれ",
+    "ミニマムズ",
+    "自爆",
+    "明日、照らす(特別編成)",
+    "でかくてまるい。",
+    "サポニカ",
+    "ミニマムジーク",
+    "マジカルチョコミントクラブ",
+    "エルスウェア紀行",
+    "オートコード",
+    "irienchy",
+    "あいか：クラブ",
+    "プルスタンス",
+    "Fallsheeps",
+    "teiichi",
+    "シベリアンハスキー",
+    "CULTURES!!!",
+    "mukeikaku",
+    "ザ ニンクス",
+    "soyouth",
+    "TTUD",
+    "Timmy",
+    "灰かぶり",
+    "茶封筒",
+    "UlulU",
+    "すなお",
+    "ジュウ",
+    "Laget's Jam Stack",
+    "歌王子あび",
+    "ヨルノピクニック",
+    "Navy HERETIC",
+    "ORCALAND",
+    "otona ni nattemo",
+    "SAIHATE",
+    "Surpass",
+    "少年キッズボウイ",
+    "吸空サイダー",
+    "おとなりにぎんが計画",
+    "Lana",
+    "タイガーリー",
+    "水平線",
+    "Doxie",
+    "國",
+    "超☆社会的サンダル",
+    "鈴木実貴子ズ",
+    "奔走狂走局",
+    "青春群像録",
+    "Pastel Tang Club",
+    "クリトリック・リス",
+    "スパノヴァ特急",
+    "秘密兵器",
+    "BIG MOUSE GLORY",
+    "Fine,Great",
+    "Keeshond",
+    "kijin",
+    "Lala",
+    "The Docci",
+    "Viewtrade",
+    "ウマシカて",
+    "おかえり",
+    "ハイドアウト",
+    "海月にさされたら",
+    "月追う彼方",
+    "三毛とアネモネ",
+    "讃駆",
+    "前田琴音"
    ],
-   "lineup_checked": "2026-10-29",
+   "lineup_checked": "2026-11-03",
    "source_url": "https://www.ragnet.co.jp/music-festival-winter",
    "official_url": "https://www.shimonite.com/",
-   "image": "https://static.wixstatic.com/media/5ca89a_e131ba4147214be9ae053b0ac2dc8967~mv2.png/v1/fill/w_2500,h_977,al_c/5ca89a_e131ba4147214be9ae053b0ac2dc8967~mv2.png"
+   "image": "https://static.wixstatic.com/media/5ca89a_e131ba4147214be9ae053b0ac2dc8967~mv2.png/v1/fill/w_2500,h_977,al_c/5ca89a_e131ba4147214be9ae053b0ac2dc8967~mv2.png",
+   "lineup_days": {
+    "2026-12-05": [
+     "THEラブ人間",
+     "3markets[ ]",
+     "Broken my toybox",
+     "Hammer Head Shark",
+     "ADAM at",
+     "memetoour",
+     "osage",
+     "niina",
+     "Pixie Monster",
+     "POYACORO",
+     "ZiDol",
+     "アンダーグラフ",
+     "たこやき野球連盟",
+     "ノーボアダムズ",
+     "プピリットパロ",
+     "スランプガール",
+     "ミートザホープス&ともだちたち",
+     "ヤングオオハラ",
+     "金子智也",
+     "音癒",
+     "叶芽フウカ",
+     "ロマンス&バカンス",
+     "韓流セレブレイト",
+     "街人",
+     "渡辺大知(黒猫CHELSEA)",
+     "桃野陽介(モノブライト)",
+     "藤澤信次郎（浪漫革命）",
+     "中野ミホ",
+     "板歯目",
+     "美侑",
+     "MAKKURAGE",
+     "ガミガミ",
+     "ビレッジマンズストア",
+     "ニガミ17才",
+     "空きっ腹に酒",
+     "THE BOYS&GIRLS",
+     "SEVENTEENAGAiN",
+     "せだい",
+     "チャラン・ポ・ランタン",
+     "zoo",
+     "wanbed",
+     "SYAYOS",
+     "amanojac",
+     "Gum-9",
+     "SuiseiNoboAz",
+     "SleepInside",
+     "STANCE PUNKS",
+     "KOHAKU",
+     "イロクロニクル",
+     "grating hunny",
+     "メトロワ",
+     "FINLANDS",
+     "愛しておくれ",
+     "終活クラブ",
+     "3tone sunburst",
+     "akebono",
+     "oh!! 真珠s",
+     "S級任務",
+     "ute",
+     "SSHY･ザ･SSHY",
+     "大比良瑞希",
+     "o_all",
+     "DNA GAINZ",
+     "Cloudy",
+     "Day my dream",
+     "Tattletale",
+     "メリクレット",
+     "THEティバ",
+     "ポンツクピーヤ",
+     "パーカーズ",
+     "ジ・エンプティ",
+     "PanoramaPanamaTown",
+     "前髪ぱっつん少年",
+     "夜の本気ダンス",
+     "Tyrkouaz",
+     "Massage Attack",
+     "Mercy Woodpecker",
+     "Junkie Machine",
+     "大森靖子",
+     "ラナメリサ",
+     "さとう。",
+     "naf",
+     "本棚のモヨコ",
+     "Brain Popcorn",
+     "さよならミオちゃん",
+     "Shawoo",
+     "あっこゴリラ",
+     "KING BROTHERS",
+     "さらば帝国",
+     "オワリカラ",
+     "爛漫天国",
+     "Tsukisamu Mutton Network",
+     "standard sky",
+     "札幌某所",
+     "NO.18",
+     "お願いジョンソン聴いてくれ",
+     "ミニマムズ",
+     "自爆",
+     "明日、照らす(特別編成)",
+     "でかくてまるい。",
+     "サポニカ",
+     "ミニマムジーク",
+     "マジカルチョコミントクラブ",
+     "エルスウェア紀行",
+     "オートコード",
+     "irienchy",
+     "あいか：クラブ",
+     "プルスタンス",
+     "Fallsheeps",
+     "teiichi",
+     "シベリアンハスキー",
+     "CULTURES!!!",
+     "mukeikaku",
+     "ザ ニンクス",
+     "soyouth",
+     "TTUD",
+     "Timmy",
+     "灰かぶり",
+     "茶封筒",
+     "UlulU",
+     "すなお",
+     "ジュウ",
+     "Laget's Jam Stack",
+     "歌王子あび",
+     "ヨルノピクニック",
+     "Navy HERETIC",
+     "ORCALAND",
+     "otona ni nattemo",
+     "Reinore",
+     "SAIHATE",
+     "Surpass",
+     "少年キッズボウイ",
+     "吸空サイダー",
+     "おとなりにぎんが計画",
+     "Lana",
+     "タイガーリー",
+     "水平線",
+     "Doxie",
+     "國",
+     "超☆社会的サンダル",
+     "鈴木実貴子ズ",
+     "奔走狂走局",
+     "青春群像録",
+     "Pastel Tang Club",
+     "クリトリック・リス",
+     "スパノヴァ特急",
+     "秘密兵器",
+     "BIG MOUSE GLORY",
+     "Fine,Great",
+     "Keeshond",
+     "kijin",
+     "Lala",
+     "The Docci",
+     "Viewtrade",
+     "ウマシカて",
+     "おかえり",
+     "ザ・ヒーローズ",
+     "ハイドアウト",
+     "ポコメッツ",
+     "海月にさされたら",
+     "月追う彼方",
+     "三毛とアネモネ",
+     "讃駆",
+     "前田琴音"
+    ]
+   }
   },
   {
    "name": "HIROSHIMA CONTI-NeW FeS",
@@ -10309,7 +11024,7 @@
    "status": "unknown",
    "lineup": [],
    "source_url": "https://www.ragnet.co.jp/music-festival-winter",
-   "lineup_checked": "2026-11-02"
+   "lineup_checked": "2026-11-03"
   },
   {
    "name": "LIVE GINOWAN",
@@ -10319,7 +11034,7 @@
    "status": "unknown",
    "lineup": [],
    "source_url": "https://www.ragnet.co.jp/music-festival-winter",
-   "lineup_checked": "2026-11-02"
+   "lineup_checked": "2026-11-03"
   },
   {
    "name": "THE PIANO ERA",
@@ -10328,9 +11043,38 @@
    "pref": "東京都",
    "venue": "めぐろパーシモンホール 大ホール",
    "official_url": "http://www.thepianoera.com/",
-   "status": "unknown",
-   "source_url": "https://festival-life.com/169138",
-   "image": "https://www.thepianoera.com/wp/wp-content/uploads/2026/04/panel-pianoera2026logo-500.jpg"
+   "status": "lineup",
+   "source_url": "http://www.thepianoera.com/",
+   "image": "https://www.thepianoera.com/wp/wp-content/uploads/2026/04/panel-pianoera2026logo-500.jpg",
+   "lineup": [
+    "Antonio Loureiro New Trio",
+    "Andrés Beeuwsaert",
+    "Kaho Nakamura",
+    "Sławek Jaskułke",
+    "The Vernon Spring",
+    "Hideyuki Hashimoto"
+   ],
+   "lineup_days": {
+    "2026-12-05": [
+     "Antonio Loureiro New Trio",
+     "Andrés Beeuwsaert",
+     "Kaho Nakamura"
+    ],
+    "2026-12-06": [
+     "Sławek Jaskułke",
+     "The Vernon Spring",
+     "Hideyuki Hashimoto"
+    ]
+   },
+   "sales": [
+    {
+     "label": "1日券 一般発売",
+     "start": "2026-08-22",
+     "url": "http://www.thepianoera.com/",
+     "note": "10:00〜。e+／ぴあ／ローチケ／めぐろパーシモンホール"
+    }
+   ],
+   "lineup_checked": "2026-11-03"
   },
   {
    "name": "お豆音楽祭",
@@ -10342,13 +11086,36 @@
    "lineup": [
     "Zeebra",
     "韻シストBAND",
-    "SUGAR SOUL",
-    "SANABAGUN.(リベラル)",
-    "KITE"
+    "Arche",
+    "Mayuri(banana moon)",
+    "リベラル（SANABAGUN.）",
+    "BAND by Suyama Jackson、Mizuki Sato",
+    "RAFUU",
+    "DIZE（本別）",
+    "PInO(ALMA)",
+    "KITE",
+    "KOJIMAN",
+    "KZS"
    ],
-   "lineup_checked": "2026-10-29",
-   "source_url": "https://www.ragnet.co.jp/music-festival-winter",
-   "official_url": "https://honbetsu.com/infrastructure/mame-fes"
+   "lineup_checked": "2026-11-03",
+   "source_url": "https://honbetsu.com/infrastructure/mame-fes",
+   "official_url": "https://honbetsu.com/infrastructure/mame-fes",
+   "lineup_days": {
+    "2026-12-06": [
+     "Zeebra",
+     "韻シストBAND",
+     "Arche",
+     "Mayuri(banana moon)",
+     "リベラル（SANABAGUN.）",
+     "BAND by Suyama Jackson、Mizuki Sato",
+     "RAFUU",
+     "DIZE（本別）",
+     "PInO(ALMA)",
+     "KITE",
+     "KOJIMAN",
+     "KZS"
+    ]
+   }
   },
   {
    "name": "GO OUT CAMP 冬",
@@ -10358,7 +11125,8 @@
    "status": "unknown",
    "lineup": [],
    "source_url": "https://www.ragnet.co.jp/music-festival-winter",
-   "lineup_checked": "2026-11-02"
+   "lineup_checked": "2026-11-03",
+   "venue": "ふもとっぱら"
   },
   {
    "name": "カデナロックフェスティバル",
@@ -10367,7 +11135,7 @@
    "pref": "沖縄",
    "status": "unknown",
    "source_url": "https://www.ragnet.co.jp/rock-festival",
-   "lineup_checked": "2026-11-02"
+   "lineup_checked": "2026-11-03"
   },
   {
    "name": "結びの夢番地",
@@ -10424,30 +11192,30 @@
    "ticket_name": "イープラス",
    "ticket_url": "https://eplus.jp/sf/detail/2288480002",
    "lineup": [
+    "氣志團",
+    "キュウソネコカミ",
     "04 Limited Sazabys",
+    "FOMARE",
+    "HEY-SMITH",
+    "ヤバイTシャツ屋さん",
+    "ROTTENGRAFFTY",
+    "アルカラ",
+    "GUMX",
+    "The Ravens",
+    "TRACY",
+    "NAGAN SERVER",
+    "山嵐",
+    "coldrain",
     "10-FEET",
     "Dragon Ash",
-    "FOMARE",
-    "GUMX",
-    "HEY-SMITH",
-    "HIKAGE",
-    "JUN SKY WALKER(S)",
-    "Knosis",
-    "NAGAN SERVER",
-    "OVER ARM THROW",
-    "ROTTENGRAFFTY",
-    "TRACY",
-    "The Ravens",
-    "coldrain",
-    "アルカラ",
-    "キュウソネコカミ",
-    "サバシスター",
+    "西川貴教",
     "マキシマム ザ ホルモン",
-    "ヤバイTシャツ屋さん",
+    "OVER ARM THROW",
+    "サバシスター",
+    "JUN SKY WALKER(S)",
     "四星球",
-    "山嵐",
-    "氣志團",
-    "西川貴教"
+    "Knosis",
+    "HIKAGE"
    ],
    "sales": [
     {
@@ -10472,7 +11240,7 @@
      "note": "e+ 10/6 22:06〜10/18 23:59"
     }
    ],
-   "lineup_checked": "2026-10-25",
+   "lineup_checked": "2026-11-03",
    "lineup_days": {
     "2026-12-12": [
      "氣志團",
@@ -10643,7 +11411,7 @@
    "status": "unknown",
    "lineup": [],
    "source_url": "https://www.ragnet.co.jp/music-festival-winter",
-   "lineup_checked": "2026-11-02"
+   "lineup_checked": "2026-11-03"
   },
   {
    "name": "MIW FES in 小豆島",
@@ -10652,7 +11420,8 @@
    "pref": "香川県",
    "status": "unknown",
    "lineup": [],
-   "source_url": "https://www.ragnet.co.jp/music-festival-winter"
+   "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+   "lineup_checked": "2026-11-03"
   },
   {
    "name": "長田大行進曲",
@@ -10661,7 +11430,7 @@
    "pref": "兵庫",
    "status": "unknown",
    "source_url": "https://www.ragnet.co.jp/rock-festival",
-   "lineup_checked": "2026-10-19"
+   "lineup_checked": "2026-11-03"
   },
   {
    "name": "MERRY ROCK PARADE 2026",
@@ -10700,13 +11469,49 @@
     "ヤバイTシャツ屋さん",
     "緑黄色社会"
    ],
-   "lineup_checked": "2026-10-25",
+   "lineup_checked": "2026-11-03",
    "status": "lineup",
    "venue": "ポートメッセなごや",
    "official_url": "https://www.merryrockparade.jp/artist.html",
    "note": "日別割り当ては未確認。MIRAGE STAGEは後日発表",
    "source_url": "https://www.merryrockparade.jp/artist.html",
-   "image": "https://www.merryrockparade.jp/thumbnail/2026.jpg"
+   "image": "https://www.merryrockparade.jp/thumbnail/2026.jpg",
+   "lineup_days": {
+    "2026-12-19": [
+     "あいみょん",
+     "氣志團",
+     "coldrain",
+     "Saucy Dog",
+     "SHE'S",
+     "SiM",
+     "sumika",
+     "Tele",
+     "Nothing's Carved In Stone",
+     "BIGMAMA",
+     "Fear, and Loathing in Las Vegas",
+     "BLUE ENCOUNT",
+     "My Hair is Bad",
+     "マルシィ",
+     "WurtS"
+    ],
+    "2026-12-20": [
+     "Aooo",
+     "CLAN QUEEN",
+     "クリープハイプ",
+     "GLIM SPANKY",
+     "go!go!vanillas",
+     "サバシスター",
+     "超能力戦士ドリアン",
+     "10-FEET",
+     "Novelbright",
+     "ハンブレッダーズ",
+     "04 Limited Sazabys",
+     "フレデリック",
+     "HEY-SMITH",
+     "ヤバイTシャツ屋さん",
+     "緑黄色社会"
+    ]
+   }
   },
   {
    "name": "HACHINOHEなりきり音楽祭",
@@ -10721,7 +11526,7 @@
     "HITOMAZ",
     "LUCHAPY"
    ],
-   "lineup_checked": "2026-10-29",
+   "lineup_checked": "2026-11-03",
    "source_url": "https://www.ragnet.co.jp/music-festival-winter",
    "official_url": "https://hachi-kokaido.com/2026/10/post-53.html",
    "image": "https://hachi-kokaido.com/.assets/thumbnail/R08narikiri-poster-01-1200wi.png"
@@ -10736,13 +11541,40 @@
    "source_url": "https://www.ragnet.co.jp/music-festival-winter"
   },
   {
+   "name": "IWA ROCK presented by e-Broad",
+   "start": "2026-12-19",
+   "end": "2026-12-19",
+   "pref": "東京都",
+   "venue": "Zepp DiverCity(TOKYO)",
+   "official_url": "https://pulpo.jp/news/iwarock2026/",
+   "lineup": [
+    "ACIDMAN",
+    "BEYOOOOONDS",
+    "Dragon Ash",
+    "ROTTENGRAFFTY"
+   ],
+   "lineup_days": {
+    "2026-12-19": [
+     "ACIDMAN",
+     "BEYOOOOONDS",
+     "Dragon Ash",
+     "ROTTENGRAFFTY"
+    ]
+   },
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/iwarock/",
+   "source_url": "https://spice.eplus.jp/articles/349354",
+   "status": "lineup",
+   "lineup_checked": "2026-11-03"
+  },
+  {
    "name": "若者たちの音楽祭（愛川町軽音フェス）",
    "start": "2026-12-20",
    "end": "2026-12-20",
    "pref": "神奈川",
    "status": "unknown",
    "source_url": "https://www.ragnet.co.jp/rock-festival",
-   "lineup_checked": "2026-10-19"
+   "lineup_checked": "2026-11-03"
   },
   {
    "name": "TOMIROCK",
@@ -10953,7 +11785,7 @@
     "WurtS",
     "忘れらんねえよ"
    ],
-   "lineup_checked": "2026-10-31",
+   "lineup_checked": "2026-11-03",
    "sales": [
     {
      "label": "第1次抽選先行",
@@ -11170,13 +12002,28 @@
    "end": "2026-12-26",
    "pref": "東京",
    "status": "lineup",
-   "source_url": "https://www.ragnet.co.jp/rock-festival",
-   "lineup_checked": "2026-10-24",
+   "source_url": "https://festival-life.com/169100",
+   "lineup_checked": "2026-11-03",
    "lineup": [
     "ACIDMAN",
     "Survive Said The Prophet",
-    "muque"
-   ]
+    "muque",
+    "9mm Parabellum Bullet",
+    "Knosis",
+    "ReoNa"
+   ],
+   "lineup_days": {
+    "2026-12-26": [
+     "Survive Said The Prophet",
+     "ACIDMAN",
+     "muque",
+     "9mm Parabellum Bullet",
+     "Knosis",
+     "ReoNa"
+    ]
+   },
+   "official_url": "https://survivesaidtheprophet.com/tour/mh/",
+   "venue": "豊洲PIT"
   },
   {
    "name": "RADIO CRAZY",
@@ -11184,66 +12031,76 @@
    "end": "2026-12-28",
    "pref": "大阪府",
    "status": "lineup",
-   "source_url": "https://en.skream.jp/news/2026/09/fm802_radio_crazy_2026_1st_lineup.php",
+   "source_url": "https://radiocrazy.fm/",
    "venue": "INTEX OSAKA",
    "official_url": "https://radiocrazy.fm/",
    "ticket_name": "イープラス",
    "ticket_url": "https://eplus.jp/radiocrazy2026/",
    "lineup": [
-    "AiNA THE END",
+    "アイナ・ジ・エンド",
+    "ウルフルズ",
     "HY",
     "Omoinotake",
     "go!go!vanillas",
+    "サバシスター",
+    "jo0ji",
+    "SCANDAL",
+    "sumika",
     "Tele",
-    "TOKYO SKA PARADISE ORCHESTRA",
+    "東京スカパラダイスオーケストラ",
+    "ねぐせ。",
     "ハルカミライ",
     "Hump Back",
-    "Humbreaders",
+    "ハンブレッダーズ",
     "04 Limited Sazabys",
-    "MARCY",
-    "Young Skinny",
+    "マルシィ",
+    "ヤバイTシャツ屋さん",
+    "ヤングスキニー",
+    "UNICORN",
+    "indigo la End",
     "梅田サイファー",
+    "『802 PSY TONE RADIO』in レディクレ",
     "CLAN QUEEN",
+    "Creepy Nuts",
     "クリープハイプ",
     "くるり",
     "Saucy Dog",
+    "スキマスイッチ",
+    "Chilli Beans.",
     "This is LAST",
-    "Natori",
+    "なとり",
+    "にしな",
+    "PEOPLE 1",
     "plenty",
     "My Hair is Bad",
     "山内総一郎",
+    "YUKI",
+    "緑黄色社会",
     "レキシ",
     "WurtS",
+    "稲葉浩志",
+    "打首獄門同好会",
+    "Aimer",
     "KANA-BOON",
+    "キュウソネコカミ",
     "サンボマスター",
     "the paddles",
     "THE BAWDIES",
     "Chevon",
+    "SiM",
+    "w.o.d.",
     "TenTwenty",
+    "10-FEET",
+    "FM802＆怒髪天 presents レディクレ歌合戦",
     "flumpool",
     "フレデリック",
     "HEY-SMITH",
+    "マカロニえんぴつ",
     "マキシマム ザ ホルモン",
-    "Lucky Kilimanjaro",
-    "稲葉浩志",
-    "FM802＆怒髪天 presents レディクレ歌合戦",
-    "802 PSY TONE RADIO in レディクレ",
-    "YUKI",
-    "『802 PSY TONE RADIO』in レディクレ",
     "milet",
-    "indigo la End",
-    "ウルフルズ",
-    "Aimer",
-    "キュウソネコカミ",
-    "Creepy Nuts",
-    "SiM",
-    "スキマスイッチ",
-    "SCANDAL",
-    "sumika",
-    "10-FEET",
-    "打首獄門同好会"
+    "Lucky Kilimanjaro"
    ],
-   "lineup_checked": "2026-11-01",
+   "lineup_checked": "2026-11-03",
    "sales": [
     {
      "label": "オフィシャル3次抽選",
@@ -11264,6 +12121,13 @@
      "end": "2026-11-03",
      "url": "https://funky802.com/gold/",
      "note": "GOLD会員のみ"
+    },
+    {
+     "label": "オフィシャル4次受付／RADIPASS GOLD 3次受付",
+     "start": "2026-10-26",
+     "end": "2026-11-03",
+     "url": "https://radiocrazy.fm/ticket/",
+     "note": "抽選"
     }
    ],
    "note": "第1弾。表記は公式で要確認",
@@ -11293,6 +12157,7 @@
     "2026-12-27": [
      "indigo la End",
      "梅田サイファー",
+     "『802 PSY TONE RADIO』in レディクレ",
      "CLAN QUEEN",
      "Creepy Nuts",
      "クリープハイプ",
@@ -11310,10 +12175,10 @@
      "YUKI",
      "緑黄色社会",
      "レキシ",
-     "WurtS",
-     "802 PSY TONE RADIO in レディクレ"
+     "WurtS"
     ],
     "2026-12-28": [
+     "稲葉浩志",
      "打首獄門同好会",
      "Aimer",
      "KANA-BOON",
@@ -11326,15 +12191,14 @@
      "w.o.d.",
      "TenTwenty",
      "10-FEET",
+     "FM802＆怒髪天 presents レディクレ歌合戦",
      "flumpool",
      "フレデリック",
      "HEY-SMITH",
      "マカロニえんぴつ",
      "マキシマム ザ ホルモン",
      "milet",
-     "Lucky Kilimanjaro",
-     "稲葉浩志",
-     "FM802＆怒髪天 presents レディクレ歌合戦"
+     "Lucky Kilimanjaro"
     ]
    },
    "image": "https://eplus.jp/s/image/0000038921/0000038921_6.jpg"
@@ -11346,7 +12210,7 @@
    "pref": "東京",
    "status": "lineup",
    "source_url": "https://eplus.jp/new-horizon-fest/",
-   "lineup_checked": "2026-11-02",
+   "lineup_checked": "2026-11-03",
    "official_url": "https://newhorizon.sammy.co.jp/2026/nhf/",
    "lineup": [
     "04 Limited Sazabys",
@@ -11612,7 +12476,7 @@
     "Wing-Stong",
     "まなつ"
    ],
-   "lineup_checked": "2026-11-02",
+   "lineup_checked": "2026-11-03",
    "source_url": "https://eplus.jp/sf/detail/K000000646",
    "lineup_days": {
     "2027-01-09": [
@@ -11766,7 +12630,7 @@
      "Dove Ellis"
     ]
    },
-   "lineup_checked": "2026-11-01",
+   "lineup_checked": "2026-11-03",
    "note": "洋楽のみ8組発表済み。公式URL・チケットは未確認",
    "source_url": "https://realsound.jp/2026/09/post-2523918.html"
   },
@@ -11840,7 +12704,7 @@
     "BLUE ENCOUNT",
     "HEY-SMITH"
    ],
-   "lineup_checked": "2026-10-31",
+   "lineup_checked": "2026-11-03",
    "sales": [
     {
      "label": "第1弾出演者FC先行",
@@ -11897,6 +12761,12 @@
      "end": "2026-10-25",
      "url": "https://eplus.jp/hypelikeit/",
      "note": "終了"
+    },
+    {
+     "label": "イープラス最終先着先行",
+     "start": "2026-11-02",
+     "url": "https://eplus.jp/hypelikeit/",
+     "note": "先着・20:00〜。2日通し券は完売"
     }
    ],
    "note": "HOPE STAGEは未発表",
@@ -11950,7 +12820,7 @@
     "マカロニえんぴつ",
     "マルシィ"
    ],
-   "lineup_checked": "2026-11-02",
+   "lineup_checked": "2026-11-03",
    "lineup_days": {
     "2027-01-30": [
      "アイナ・ジ・エンド",
@@ -12151,10 +13021,43 @@
     "Ben Böhmer",
     "Deep Dish",
     "DJ KENTARO",
-    "FELINE"
+    "FELINE",
+    "Arielle Free",
+    "Christian Smith",
+    "DJ Piero",
+    "Elderbrook (DJ Set)",
+    "Erika",
+    "HANA",
+    "Jarrod Costello",
+    "Justice Patterson",
+    "Kaiharubro",
+    "Kanine",
+    "Kettama",
+    "Lost Miracle",
+    "Lovebirds",
+    "Luude",
+    "Monochrome",
+    "MPH",
+    "Noy",
+    "Patrick Topping",
+    "Rebūke",
+    "Risa Taniguchi",
+    "Sam Alfred",
+    "Samantha Loveridge",
+    "Sneaky Sound System",
+    "STÜM",
+    "TOKiMONSTA",
+    "Torren Foot",
+    "Wilkinson",
+    "William Kiss",
+    "Yuuki Yoshiyama",
+    "YUVIE",
+    "Zedena"
    ],
-   "lineup_checked": "2026-10-29",
-   "source_url": "https://www.ragnet.co.jp/music-festival-winter"
+   "lineup_checked": "2026-11-03",
+   "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+   "official_url": "https://hakuba.snow-machine.com/",
+   "image": "https://www.snow-machine.nz/wp-content/uploads/2023/05/SM_23_Web_ShareThumbnail_1600x900_SMJ_2.png"
   },
   {
    "name": "J-WAVE TOKYO GUITAR JAMBOREE",
@@ -12169,6 +13072,49 @@
    "note": "出演者は近日発表予定",
    "source_url": "https://www.j-wave.co.jp/special/guitarjamboree2027/",
    "image": "https://www.j-wave.co.jp/special/guitarjamboree2027/images/title.jpg"
+  },
+  {
+   "name": "HY SKY Fes 2027 & 前夜祭",
+   "start": "2027-03-19",
+   "end": "2027-03-21",
+   "pref": "沖縄県",
+   "venue": "沖縄県総合運動公園 多目的広場",
+   "official_url": "https://skyfes.net/",
+   "lineup": [
+    "HY",
+    "ano",
+    "ゴスペラーズ",
+    "肝高の阿麻和利",
+    "GADORO",
+    "キタニタツヤ",
+    "女王蜂",
+    "チョコレートプラネット",
+    "ありんくりん",
+    "MASA MAGIC"
+   ],
+   "source_url": "https://skyfes.net/",
+   "status": "lineup",
+   "lineup_checked": "2026-11-03",
+   "image": "https://skyfes.net/assets/skyfes/ogp.png"
+  },
+  {
+   "name": "MEGA VEGAS 2027",
+   "start": "2027-03-20",
+   "end": "2027-03-21",
+   "pref": "兵庫県",
+   "venue": "神戸ワールド記念ホール",
+   "official_url": "https://megavegas.jp/",
+   "lineup": [
+    "Fear, and Loathing in Las Vegas",
+    "10-FEET",
+    "ヤバイTシャツ屋さん",
+    "coldrain"
+   ],
+   "ticket_name": "イープラス",
+   "ticket_url": "http://eplus.jp/falilv/",
+   "source_url": "https://lasvegas-jp.com/live/9288",
+   "status": "lineup",
+   "lineup_checked": "2026-11-03"
   },
   {
    "name": "TOKYO GUITAR JAMBOREE 九州場所",
@@ -12252,7 +13198,7 @@
    ],
    "source_url": "https://deadpopfest.com/2026/04/05/sim-presents-dead-pop-festival-2027%E9%96%8B%E5%82%AC%E6%B1%BA%E5%AE%9A%EF%BC%81/",
    "image": "https://deadpopfest.com/wp-content/themes/deadpop/images2026/dpf27_launch.jpg",
-   "lineup_checked": "2026-10-29"
+   "lineup_checked": "2026-11-03"
   },
   {
    "name": "Rainbow Disco Club",
@@ -12320,7 +13266,8 @@
    "status": "unknown",
    "note": "出演者とチケットは12月中旬に発表予定",
    "source_url": "https://festival-life.com/168641",
-   "image": "https://japanjam.jp/2026/favicon/ogp.png?t=20260121"
+   "image": "https://japanjam.jp/2026/favicon/ogp.png?t=20260121",
+   "lineup_checked": "2026-11-03"
   },
   {
    "name": "ONE FES -imizu music festival-",
@@ -12349,10 +13296,17 @@
      "start": "2026-10-23",
      "end": "2026-11-24",
      "url": "https://eplus.jp/vivasaitama/"
+    },
+    {
+     "label": "埼玉県限定・超先行",
+     "start": "2026-10-23",
+     "end": "2026-11-24",
+     "url": "https://eplus.jp/viva15/",
+     "note": "12:00〜23:59"
     }
    ],
    "source_url": "https://realsound.jp/2026/10/post-2562487.html",
-   "lineup_checked": "2026-10-29"
+   "lineup_checked": "2026-11-03"
   },
   {
    "name": "Tank-top Festival 2027",
@@ -12421,7 +13375,8 @@
    "pref": "山形",
    "status": "unknown",
    "source_url": "https://www.ragnet.co.jp/rock-festival",
-   "lineup_checked": "2026-10-19"
+   "lineup_checked": "2026-10-19",
+   "venue": "月岡神社"
   },
   {
    "name": "YATSUI FESTIVAL!",
@@ -12445,7 +13400,7 @@
    "lineup": [
     "10-FEET"
    ],
-   "lineup_checked": "2026-11-02",
+   "lineup_checked": "2026-11-03",
    "lineup_days": {
     "2027-07-03": [
      "10-FEET"
@@ -12490,7 +13445,7 @@
    "end": "2027-07-25",
    "source_url": "https://fujirockexpress.net/26/p_5625.html",
    "image": "https://cdn.fujirockfestival.com/smash/frf/assets/images/IUoJFpTBjjZkkq0FGhvaEzAKC9hZwpvR9bR8ES4D.jpg",
-   "lineup_checked": "2026-10-29"
+   "lineup_checked": "2026-11-03"
   },
   {
    "name": "TRIANGLE（関東）",
@@ -12538,6 +13493,21 @@
    "pref": "埼玉",
    "status": "unknown",
    "source_url": "https://www.ragnet.co.jp/rock-festival"
+  },
+  {
+   "name": "OSAKA HAZIKETEMAZARE FESTIVAL 2027（ハジマザ）",
+   "start": "2027-10-23",
+   "end": "2027-10-24",
+   "pref": "大阪府",
+   "venue": "泉大津フェニックス",
+   "official_url": "https://haziketemazare.com/",
+   "lineup": [
+    "HEY-SMITH"
+   ],
+   "note": "HEY-SMITH主催",
+   "source_url": "https://natalie.mu/music/news/695216",
+   "status": "lineup",
+   "lineup_checked": "2026-11-03"
   }
  ],
  "artist_links": {
@@ -12632,7 +13602,8 @@
    "eplus": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
    "official": "https://www.bumpofchicken.com/",
    "image": "https://www.bumpofchicken.com/images/common/default/common_default_og_image.png",
-   "schedule": "https://www.bumpofchicken.com/live_information/2799"
+   "schedule": "https://www.bumpofchicken.com/live_information/2799",
+   "news": "https://www.bumpofchicken.com/"
   },
   "back number": {
    "official": "https://backnumber.info/",
@@ -12666,7 +13637,8 @@
    "official": "https://ellegarden.jp/",
    "eplus": "https://eplus.jp/ellegarden2026/",
    "news": "(公式NEWSは2022年で停止。e+・ナタリーで確認)",
-   "image": "https://ellegarden.jp/assets/img/common/ogp.jpg"
+   "image": "https://ellegarden.jp/assets/img/common/ogp.jpg",
+   "schedule": "https://ellegarden.jp/live.html"
   },
   "HEY-SMITH": {
    "official": "https://hey-smith.com/",
@@ -12746,10 +13718,11 @@
    "eplus": "https://eplus.jp/sf/word/0000000782",
    "official": "https://www.fukuyamamasaharu.com/",
    "news": "https://fmsp.amob.jp/mob/index.php?site=F&ima=0235",
-   "image": "https://www.fukuyamamasaharu.com/contents/1/F/artist_img/facebook_20260421.jpg"
+   "image": "https://www.fukuyamamasaharu.com/contents/1/F/artist_img/facebook_20260421.jpg",
+   "schedule": "https://fmsp.amob.jp/mob/news/diarKijiShw.php?site=F&ima=0255&id=309128"
   },
   "竹内まりや": {
-   "official": "https://www.mariyat.co.jp/news",
+   "official": "https://www.mariyat.co.jp/",
    "news": "https://www.mariyat.co.jp/news",
    "schedule": "https://www.mariyat.co.jp/live",
    "image": "https://www.mariyat.co.jp/images/og_icon.jpg"
@@ -12769,12 +13742,14 @@
   "Aimer": {
    "official": "https://www.aimer-web.jp/",
    "eplus": "https://eplus.jp/sf/word/0000065361",
-   "image": "https://www.sonymusic.co.jp/artist_photo/aimer/photo.jpg"
+   "image": "https://www.sonymusic.co.jp/artist_photo/aimer/photo.jpg",
+   "news": "https://www.aimer-web.jp/news/"
   },
   "バブルガム・ブラザーズ": {
    "official": "https://bubblegumbrothers.com/",
    "eplus": "https://eplus.jp/sf/word/0000035354",
-   "image": "https://storage.googleapis.com/production-os-assets/assets/3ecfbc3b-d401-4c46-ad66-09f61f885721"
+   "image": "https://storage.googleapis.com/production-os-assets/assets/3ecfbc3b-d401-4c46-ad66-09f61f885721",
+   "pia": "http://t.pia.jp/pia/artist/artists.do?artistsCd=11011726"
   },
   "ブラザートム": {
    "official": "https://www.brotom.jp/",
@@ -12989,12 +13964,12 @@
   },
   "04 Limited Sazabys": {
    "state": "ok",
-   "checked": "2026-11-02T07:40:00+09:00",
-   "news_checked": "2026-11-02T07:40:00+09:00"
+   "checked": "2026-11-03T20:08:00+09:00",
+   "news_checked": "2026-11-03T20:08:00+09:00"
   },
   "ELLEGARDEN": {
    "state": "ok",
-   "checked": "2026-11-02T07:40:00+09:00",
+   "checked": "2026-11-03T20:08:00+09:00",
    "note": "10/23名古屋は延期（振替日程は調整中・未発表）",
    "news_checked": "2026-11-02T07:40:00+09:00"
   },
@@ -13096,13 +14071,13 @@
   },
   "Fear, and Loathing in Las Vegas": {
    "state": "ok",
-   "checked": "2026-11-01T20:40:00+09:00",
-   "news_checked": "2026-11-01T20:40:00+09:00"
+   "checked": "2026-11-03T20:08:00+09:00",
+   "news_checked": "2026-11-03T20:08:00+09:00"
   },
   "9mm Parabellum Bullet": {
    "state": "ok",
-   "checked": "2026-11-01T20:40:00+09:00",
-   "news_checked": "2026-11-01T20:40:00+09:00"
+   "checked": "2026-11-03T20:08:00+09:00",
+   "news_checked": "2026-11-03T20:08:00+09:00"
   },
   "斎藤宏介": {
    "state": "ok",
@@ -13111,8 +14086,8 @@
   },
   "BUMP OF CHICKEN": {
    "state": "ok",
-   "checked": "2026-11-01T20:40:00+09:00",
-   "news_checked": "2026-11-01T20:40:00+09:00"
+   "checked": "2026-11-03T20:08:00+09:00",
+   "news_checked": "2026-11-03T20:08:00+09:00"
   },
   "ブランデー戦記": {
    "state": "ok",
@@ -13126,23 +14101,23 @@
   },
   "久石譲": {
    "state": "ok",
-   "checked": "2026-11-01T20:40:00+09:00",
-   "news_checked": "2026-11-01T20:40:00+09:00"
+   "checked": "2026-11-03T20:08:00+09:00",
+   "news_checked": "2026-11-03T20:08:00+09:00"
   },
   "福山雅治": {
    "state": "ok",
-   "checked": "2026-11-01T20:40:00+09:00",
-   "news_checked": "2026-11-01T20:40:00+09:00"
+   "checked": "2026-11-03T20:08:00+09:00",
+   "news_checked": "2026-11-03T20:08:00+09:00"
   },
   "竹内まりや": {
    "state": "no_events",
-   "checked": "2026-11-01T07:50:00+09:00",
-   "news_checked": "2026-11-01T07:50:00+09:00"
+   "checked": "2026-11-03T20:08:00+09:00",
+   "news_checked": "2026-11-03T20:08:00+09:00"
   },
   "Novelbright": {
    "state": "ok",
-   "checked": "2026-11-01T20:40:00+09:00",
-   "news_checked": "2026-11-01T20:40:00+09:00"
+   "checked": "2026-11-03T20:08:00+09:00",
+   "news_checked": "2026-11-03T20:08:00+09:00"
   },
   "THE ALFEE": {
    "state": "ok",
@@ -13150,24 +14125,24 @@
    "news_checked": "2026-11-01T20:40:00+09:00"
   },
   "バブルガム・ブラザーズ": {
-   "state": "no_events",
-   "checked": "2026-11-01T20:40:00+09:00",
-   "news_checked": "2026-11-01T20:40:00+09:00"
+   "state": "ok",
+   "checked": "2026-11-03T20:08:00+09:00",
+   "news_checked": "2026-11-03T20:08:00+09:00"
   },
   "Bro.KORN": {
    "state": "ok",
-   "checked": "2026-11-02T20:45:00+09:00",
-   "news_checked": "2026-10-31T20:30:00+09:00"
+   "checked": "2026-11-03T20:08:00+09:00",
+   "news_checked": "2026-11-03T20:08:00+09:00"
   },
   "ブラザートム": {
    "state": "ok",
-   "checked": "2026-11-01T07:50:00+09:00",
-   "news_checked": "2026-11-01T07:50:00+09:00"
+   "checked": "2026-11-03T20:08:00+09:00",
+   "news_checked": "2026-11-03T20:08:00+09:00"
   },
   "Aimer": {
    "state": "ok",
-   "checked": "2026-11-01T20:40:00+09:00",
-   "news_checked": "2026-11-01T20:40:00+09:00"
+   "checked": "2026-11-03T20:08:00+09:00",
+   "news_checked": "2026-11-03T20:08:00+09:00"
   }
  }
 }
