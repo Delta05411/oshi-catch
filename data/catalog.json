@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T20:15:00+09:00",
+ "updated": "2026-11-04T07:30:00+09:00",
  "artists": {
   "Saucy Dog": {
    "aliases": [
@@ -14708,6 +14708,214 @@
      "venue": "沖縄県総合運動公園 多目的広場（沖縄県）",
      "source_url": "https://skyfes.net/",
      "confidence": "low"
+    }
+   ]
+  },
+  "月ノ美兎": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-19",
+     "title": "にじさんじ Girls Idol Festival",
+     "kind": "フェス",
+     "venue": "インテックス大阪（大阪府）",
+     "source_url": "https://prtimes.jp/main/html/rd/p/000001504.000030865.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "夜見れな": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-19",
+     "title": "にじさんじ Girls Idol Festival",
+     "kind": "フェス",
+     "venue": "インテックス大阪（大阪府）",
+     "source_url": "https://prtimes.jp/main/html/rd/p/000001504.000030865.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ラトナ・プティ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-19",
+     "title": "にじさんじ Girls Idol Festival",
+     "kind": "フェス",
+     "venue": "インテックス大阪（大阪府）",
+     "source_url": "https://prtimes.jp/main/html/rd/p/000001504.000030865.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "山神カルタ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-19",
+     "title": "にじさんじ Girls Idol Festival",
+     "kind": "フェス",
+     "venue": "インテックス大阪（大阪府）",
+     "source_url": "https://prtimes.jp/main/html/rd/p/000001504.000030865.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "石神のぞみ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-19",
+     "title": "にじさんじ Girls Idol Festival",
+     "kind": "フェス",
+     "venue": "インテックス大阪（大阪府）",
+     "source_url": "https://prtimes.jp/main/html/rd/p/000001504.000030865.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "倉持めると": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-19",
+     "title": "にじさんじ Girls Idol Festival",
+     "kind": "フェス",
+     "venue": "インテックス大阪（大阪府）",
+     "source_url": "https://prtimes.jp/main/html/rd/p/000001504.000030865.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "栞葉るり": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-19",
+     "title": "にじさんじ Girls Idol Festival",
+     "kind": "フェス",
+     "venue": "インテックス大阪（大阪府）",
+     "source_url": "https://prtimes.jp/main/html/rd/p/000001504.000030865.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "立伝都々": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-19",
+     "title": "にじさんじ Girls Idol Festival",
+     "kind": "フェス",
+     "venue": "インテックス大阪（大阪府）",
+     "source_url": "https://prtimes.jp/main/html/rd/p/000001504.000030865.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "リゼ・ヘルエスタ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-20",
+     "title": "にじさんじ Girls Idol Festival",
+     "kind": "フェス",
+     "venue": "インテックス大阪（大阪府）",
+     "source_url": "https://prtimes.jp/main/html/rd/p/000001504.000030865.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "鈴原るる": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-20",
+     "title": "にじさんじ Girls Idol Festival",
+     "kind": "フェス",
+     "venue": "インテックス大阪（大阪府）",
+     "source_url": "https://prtimes.jp/main/html/rd/p/000001504.000030865.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "天宮こころ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-20",
+     "title": "にじさんじ Girls Idol Festival",
+     "kind": "フェス",
+     "venue": "インテックス大阪（大阪府）",
+     "source_url": "https://prtimes.jp/main/html/rd/p/000001504.000030865.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "五十嵐梨花": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-20",
+     "title": "にじさんじ Girls Idol Festival",
+     "kind": "フェス",
+     "venue": "インテックス大阪（大阪府）",
+     "source_url": "https://prtimes.jp/main/html/rd/p/000001504.000030865.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "司賀りこ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-20",
+     "title": "にじさんじ Girls Idol Festival",
+     "kind": "フェス",
+     "venue": "インテックス大阪（大阪府）",
+     "source_url": "https://prtimes.jp/main/html/rd/p/000001504.000030865.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "雲母たまこ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-20",
+     "title": "にじさんじ Girls Idol Festival",
+     "kind": "フェス",
+     "venue": "インテックス大阪（大阪府）",
+     "source_url": "https://prtimes.jp/main/html/rd/p/000001504.000030865.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "早乙女ベリー": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-20",
+     "title": "にじさんじ Girls Idol Festival",
+     "kind": "フェス",
+     "venue": "インテックス大阪（大阪府）",
+     "source_url": "https://prtimes.jp/main/html/rd/p/000001504.000030865.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "七瀬すず菜": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-20",
+     "title": "にじさんじ Girls Idol Festival",
+     "kind": "フェス",
+     "venue": "インテックス大阪（大阪府）",
+     "source_url": "https://prtimes.jp/main/html/rd/p/000001504.000030865.html",
+     "confidence": "high"
     }
    ]
   }
