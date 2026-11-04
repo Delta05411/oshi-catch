@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T07:30:00+09:00",
+ "updated": "2026-11-04T20:17:00+09:00",
  "artists": {
   "Saucy Dog": {
    "aliases": [
@@ -322,6 +322,14 @@
      "kind": "フェス",
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-11-27",
+     "title": "GIFT ～Girls Idol Festival Tokyo～",
+     "kind": "フェス",
+     "venue": "SGC Hall Ariake・TOYOTA ARENA TOKYO（東京都）",
+     "source_url": "https://gift-idol.jp/",
      "confidence": "high"
     }
    ]
@@ -742,6 +750,14 @@
      "venue": "神戸ワールド記念ホール（兵庫県）",
      "source_url": "https://lasvegas-jp.com/live/9288",
      "confidence": "low"
+    },
+    {
+     "date": "2026-12-06",
+     "title": "BLAZE UP NAGASAKI",
+     "kind": "フェス",
+     "venue": "出島メッセ長崎（長崎県）",
+     "source_url": "https://barks.jp/news/1091706/",
+     "confidence": "high"
     }
    ]
   },
@@ -799,6 +815,14 @@
      "kind": "フェス",
      "venue": "ZOZOマリンスタジアム（千葉県）",
      "source_url": "https://airjam.jp/artists",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-05",
+     "title": "BLAZE UP NAGASAKI",
+     "kind": "フェス",
+     "venue": "出島メッセ長崎（長崎県）",
+     "source_url": "https://barks.jp/news/1091706/",
      "confidence": "high"
     }
    ]
@@ -885,6 +909,14 @@
      "venue": "泉大津フェニックス（大阪府）",
      "source_url": "https://natalie.mu/music/news/695216",
      "confidence": "low"
+    },
+    {
+     "date": "2026-12-06",
+     "title": "BLAZE UP NAGASAKI",
+     "kind": "フェス",
+     "venue": "出島メッセ長崎（長崎県）",
+     "source_url": "https://barks.jp/news/1091706/",
+     "confidence": "high"
     }
    ]
   },
@@ -950,6 +982,14 @@
      "kind": "フェス",
      "venue": "ZOZOマリンスタジアム（千葉県）",
      "source_url": "https://airjam.jp/artists",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-06",
+     "title": "BLAZE UP NAGASAKI",
+     "kind": "フェス",
+     "venue": "出島メッセ長崎（長崎県）",
+     "source_url": "https://barks.jp/news/1091706/",
      "confidence": "high"
     }
    ]
@@ -1199,6 +1239,14 @@
      "venue": "ポートメッセなごや（愛知県）",
      "source_url": "https://www.merryrockparade.jp/artist.html",
      "confidence": "high"
+    },
+    {
+     "date": "2027-05-22",
+     "title": "電撃BEPPU",
+     "kind": "フェス",
+     "venue": "別府ビーコンプラザ（大分県）",
+     "source_url": "https://www.billboard-japan.com/d_news/detail/166666/2",
+     "confidence": "high"
     }
    ]
   },
@@ -1265,6 +1313,14 @@
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://xhl-music.com/feature/hypelikeit",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-06",
+     "title": "BLAZE UP NAGASAKI",
+     "kind": "フェス",
+     "venue": "出島メッセ長崎（長崎県）",
+     "source_url": "https://barks.jp/news/1091706/",
+     "confidence": "high"
     }
    ]
   },
@@ -1301,6 +1357,22 @@
      "kind": "フェス",
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://xhl-music.com/feature/hypelikeit",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-05-22",
+     "title": "電撃BEPPU",
+     "kind": "フェス",
+     "venue": "別府ビーコンプラザ（大分県）",
+     "source_url": "https://www.billboard-japan.com/d_news/detail/166666/2",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-05",
+     "title": "BLAZE UP NAGASAKI",
+     "kind": "フェス",
+     "venue": "出島メッセ長崎（長崎県）",
+     "source_url": "https://barks.jp/news/1091706/",
      "confidence": "high"
     }
    ]
@@ -1379,6 +1451,14 @@
      "venue": "ポートメッセなごや（愛知県）",
      "source_url": "https://www.merryrockparade.jp/artist.html",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-06",
+     "title": "BLAZE UP NAGASAKI",
+     "kind": "フェス",
+     "venue": "出島メッセ長崎（長崎県）",
+     "source_url": "https://barks.jp/news/1091706/",
+     "confidence": "high"
     }
    ]
   },
@@ -1420,6 +1500,14 @@
      "kind": "フェス",
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-11-29",
+     "title": "GIFT ～Girls Idol Festival Tokyo～",
+     "kind": "フェス",
+     "venue": "SGC Hall Ariake・TOYOTA ARENA TOKYO（東京都）",
+     "source_url": "https://gift-idol.jp/",
      "confidence": "high"
     }
    ]
@@ -1480,6 +1568,22 @@
      "kind": "フェス",
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-11-27",
+     "title": "GIFT ～Girls Idol Festival Tokyo～",
+     "kind": "フェス",
+     "venue": "SGC Hall Ariake・TOYOTA ARENA TOKYO（東京都）",
+     "source_url": "https://gift-idol.jp/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-11-29",
+     "title": "GIFT ～Girls Idol Festival Tokyo～",
+     "kind": "フェス",
+     "venue": "SGC Hall Ariake・TOYOTA ARENA TOKYO（東京都）",
+     "source_url": "https://gift-idol.jp/",
      "confidence": "high"
     }
    ]
@@ -1773,6 +1877,22 @@
      "kind": "フェス",
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-11-27",
+     "title": "GIFT ～Girls Idol Festival Tokyo～",
+     "kind": "フェス",
+     "venue": "SGC Hall Ariake・TOYOTA ARENA TOKYO（東京都）",
+     "source_url": "https://gift-idol.jp/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-11-28",
+     "title": "GIFT ～Girls Idol Festival Tokyo～",
+     "kind": "フェス",
+     "venue": "SGC Hall Ariake・TOYOTA ARENA TOKYO（東京都）",
+     "source_url": "https://gift-idol.jp/",
      "confidence": "high"
     }
    ]
@@ -2107,6 +2227,14 @@
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
      "confidence": "high"
+    },
+    {
+     "date": "2026-11-29",
+     "title": "GIFT ～Girls Idol Festival Tokyo～",
+     "kind": "フェス",
+     "venue": "SGC Hall Ariake・TOYOTA ARENA TOKYO（東京都）",
+     "source_url": "https://gift-idol.jp/",
+     "confidence": "high"
     }
    ]
   },
@@ -2140,6 +2268,14 @@
      "kind": "フェス",
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-13",
+     "title": "MUSIC BANK GLOBAL FESTIVAL IN JAPAN",
+     "kind": "フェス",
+     "venue": "MUFGスタジアム（国立競技場）（東京都）",
+     "source_url": "https://www.soompi.com/article/1880199wpp/2026-music-bank-global-festival-in-japan-announces-additional-lineup",
      "confidence": "high"
     }
    ]
@@ -2639,6 +2775,14 @@
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-05",
+     "title": "BLAZE UP NAGASAKI",
+     "kind": "フェス",
+     "venue": "出島メッセ長崎（長崎県）",
+     "source_url": "https://barks.jp/news/1091706/",
+     "confidence": "high"
     }
    ]
   },
@@ -2828,6 +2972,14 @@
      "venue": "TOYOTA ARENA TOKYO（東京）",
      "source_url": "https://eplus.jp/new-horizon-fest/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-06",
+     "title": "BLAZE UP NAGASAKI",
+     "kind": "フェス",
+     "venue": "出島メッセ長崎（長崎県）",
+     "source_url": "https://barks.jp/news/1091706/",
+     "confidence": "high"
     }
    ]
   },
@@ -2933,19 +3085,6 @@
     }
    ]
   },
-  "HONEST": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-03",
-     "title": "PUNK IN AUTUMN",
-     "kind": "フェス",
-     "venue": "（愛知）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "low"
-    }
-   ]
-  },
   "May Forth": {
    "aliases": [],
    "events": [
@@ -2969,123 +3108,6 @@
      "venue": "（大阪）",
      "source_url": "https://pkshampoo.jp/psychicfes/artist.html",
      "confidence": "high"
-    }
-   ]
-  },
-  "ビリー&ザ・ムーンライツ": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-03",
-     "title": "三浦ロカビリーまつり",
-     "kind": "フェス",
-     "venue": "（神奈川）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "low"
-    }
-   ]
-  },
-  "山口憲一&ロカビリー・スペシャルズ": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-03",
-     "title": "三浦ロカビリーまつり",
-     "kind": "フェス",
-     "venue": "（神奈川）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "low"
-    }
-   ]
-  },
-  "キャメルクラッチ": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-03",
-     "title": "三浦ロカビリーまつり",
-     "kind": "フェス",
-     "venue": "（神奈川）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "low"
-    }
-   ]
-  },
-  "HOT DOG BUDDY BUDDY": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-03",
-     "title": "三浦ロカビリーまつり",
-     "kind": "フェス",
-     "venue": "（神奈川）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "low"
-    }
-   ]
-  },
-  "ガレージバンド": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-03",
-     "title": "三浦ロカビリーまつり",
-     "kind": "フェス",
-     "venue": "（神奈川）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "low"
-    }
-   ]
-  },
-  "シツレイ・キャッツ": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-03",
-     "title": "三浦ロカビリーまつり",
-     "kind": "フェス",
-     "venue": "（神奈川）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "low"
-    }
-   ]
-  },
-  "浦江アキコ": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-03",
-     "title": "三浦ロカビリーまつり",
-     "kind": "フェス",
-     "venue": "（神奈川）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "low"
-    }
-   ]
-  },
-  "日野勝雄": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-03",
-     "title": "三浦ロカビリーまつり",
-     "kind": "フェス",
-     "venue": "（神奈川）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "low"
-    }
-   ]
-  },
-  "トニー斉藤": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-03",
-     "title": "三浦ロカビリーまつり",
-     "kind": "フェス",
-     "venue": "（神奈川）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "low"
     }
    ]
   },
@@ -3706,6 +3728,14 @@
      "venue": "（東京）",
      "source_url": "https://www.ragnet.co.jp/rock-festival",
      "confidence": "low"
+    },
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
     }
    ]
   },
@@ -3900,30 +3930,9 @@
     }
    ]
   },
-  "BACK LIFT": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-03",
-     "title": "PUNK IN AUTUMN",
-     "kind": "フェス",
-     "venue": "（愛知）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "low"
-    }
-   ]
-  },
   "EVERLONG": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-11-03",
-     "title": "PUNK IN AUTUMN",
-     "kind": "フェス",
-     "venue": "（愛知）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "low"
-    },
     {
      "date": "2026-11-29",
      "title": "MASTERPIECE（11/29）",
@@ -3934,185 +3943,16 @@
     }
    ]
   },
-  "Greedy": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-03",
-     "title": "PUNK IN AUTUMN",
-     "kind": "フェス",
-     "venue": "（愛知）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "low"
-    }
-   ]
-  },
-  "THE JAPANESE PRIDE": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-03",
-     "title": "PUNK IN AUTUMN",
-     "kind": "フェス",
-     "venue": "（愛知）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "low"
-    }
-   ]
-  },
-  "knot": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-03",
-     "title": "PUNK IN AUTUMN",
-     "kind": "フェス",
-     "venue": "（愛知）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "low"
-    }
-   ]
-  },
-  "LABRET": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-03",
-     "title": "PUNK IN AUTUMN",
-     "kind": "フェス",
-     "venue": "（愛知）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "low"
-    }
-   ]
-  },
-  "MACVES": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-03",
-     "title": "PUNK IN AUTUMN",
-     "kind": "フェス",
-     "venue": "（愛知）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "low"
-    }
-   ]
-  },
-  "MORGIC": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-03",
-     "title": "PUNK IN AUTUMN",
-     "kind": "フェス",
-     "venue": "（愛知）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "low"
-    }
-   ]
-  },
-  "Odd Lazy": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-03",
-     "title": "PUNK IN AUTUMN",
-     "kind": "フェス",
-     "venue": "（愛知）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "low"
-    }
-   ]
-  },
-  "RAINCOVER": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-03",
-     "title": "PUNK IN AUTUMN",
-     "kind": "フェス",
-     "venue": "（愛知）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "low"
-    }
-   ]
-  },
-  "sanagi": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-03",
-     "title": "PUNK IN AUTUMN",
-     "kind": "フェス",
-     "venue": "（愛知）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "low"
-    }
-   ]
-  },
-  "SLACK": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-03",
-     "title": "PUNK IN AUTUMN",
-     "kind": "フェス",
-     "venue": "（愛知）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "low"
-    }
-   ]
-  },
-  "stain hung over": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-03",
-     "title": "PUNK IN AUTUMN",
-     "kind": "フェス",
-     "venue": "（愛知）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "low"
-    }
-   ]
-  },
-  "Trase Rush": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-03",
-     "title": "PUNK IN AUTUMN",
-     "kind": "フェス",
-     "venue": "（愛知）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "low"
-    }
-   ]
-  },
   "VII DAYS REASON": {
    "aliases": [],
    "events": [
     {
-     "date": "2026-11-03",
-     "title": "PUNK IN AUTUMN",
+     "date": "2026-11-21",
+     "title": "over fest",
      "kind": "フェス",
-     "venue": "（愛知）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "low"
-    }
-   ]
-  },
-  "Wind shift": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-03",
-     "title": "PUNK IN AUTUMN",
-     "kind": "フェス",
-     "venue": "（愛知）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "low"
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
     }
    ]
   },
@@ -4198,6 +4038,14 @@
      "kind": "フェス",
      "venue": "京都パルスプラザ（京都）",
      "source_url": "https://kue.rotten-g.com/26/artist/",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-05-22",
+     "title": "電撃BEPPU",
+     "kind": "フェス",
+     "venue": "別府ビーコンプラザ（大分県）",
+     "source_url": "https://www.billboard-japan.com/d_news/detail/166666/2",
      "confidence": "high"
     }
    ]
@@ -4296,6 +4144,14 @@
      "venue": "神戸ワールド記念ホール（兵庫県）",
      "source_url": "https://lasvegas-jp.com/live/9288",
      "confidence": "low"
+    },
+    {
+     "date": "2026-12-05",
+     "title": "BLAZE UP NAGASAKI",
+     "kind": "フェス",
+     "venue": "出島メッセ長崎（長崎県）",
+     "source_url": "https://barks.jp/news/1091706/",
+     "confidence": "high"
     }
    ]
   },
@@ -4508,6 +4364,14 @@
      "kind": "フェス",
      "venue": "横浜アリーナ（神奈川県）",
      "source_url": "https://buzzrhythm.live/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-13",
+     "title": "MUSIC BANK GLOBAL FESTIVAL IN JAPAN",
+     "kind": "フェス",
+     "venue": "MUFGスタジアム（国立競技場）（東京都）",
+     "source_url": "https://www.soompi.com/article/1880199wpp/2026-music-bank-global-festival-in-japan-announces-additional-lineup",
      "confidence": "high"
     }
    ]
@@ -4792,6 +4656,14 @@
      "venue": "幕張メッセ 国際展示場4〜7ホール（千葉県）",
      "source_url": "http://www.kishidanbanpaku.com/s/kbpk/page/artist2026",
      "confidence": "high"
+    },
+    {
+     "date": "2026-11-28",
+     "title": "GIFT ～Girls Idol Festival Tokyo～",
+     "kind": "フェス",
+     "venue": "SGC Hall Ariake・TOYOTA ARENA TOKYO（東京都）",
+     "source_url": "https://gift-idol.jp/",
+     "confidence": "high"
     }
    ]
   },
@@ -5014,6 +4886,14 @@
      "kind": "フェス",
      "venue": "Zepp DiverCity(TOKYO)（東京都）",
      "source_url": "https://spice.eplus.jp/articles/349354",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-05-22",
+     "title": "電撃BEPPU",
+     "kind": "フェス",
+     "venue": "別府ビーコンプラザ（大分県）",
+     "source_url": "https://www.billboard-japan.com/d_news/detail/166666/2",
      "confidence": "high"
     }
    ]
@@ -5305,6 +5185,14 @@
      "kind": "フェス",
      "venue": "INTEX OSAKA（大阪府）",
      "source_url": "https://radiocrazy.fm/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-05",
+     "title": "BLAZE UP NAGASAKI",
+     "kind": "フェス",
+     "venue": "出島メッセ長崎（長崎県）",
+     "source_url": "https://barks.jp/news/1091706/",
      "confidence": "high"
     }
    ]
@@ -5618,6 +5506,14 @@
      "venue": "TOYOTA ARENA TOKYO（東京）",
      "source_url": "https://eplus.jp/new-horizon-fest/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-06",
+     "title": "BLAZE UP NAGASAKI",
+     "kind": "フェス",
+     "venue": "出島メッセ長崎（長崎県）",
+     "source_url": "https://barks.jp/news/1091706/",
+     "confidence": "high"
     }
    ]
   },
@@ -5676,6 +5572,14 @@
      "venue": "京都パルスプラザ（京都）",
      "source_url": "https://kue.rotten-g.com/26/artist/",
      "confidence": "high"
+    },
+    {
+     "date": "2027-05-23",
+     "title": "電撃BEPPU",
+     "kind": "フェス",
+     "venue": "別府ビーコンプラザ（大分県）",
+     "source_url": "https://www.billboard-japan.com/d_news/detail/166666/2",
+     "confidence": "high"
     }
    ]
   },
@@ -5715,6 +5619,22 @@
      "venue": "TOYOTA ARENA TOKYO（東京）",
      "source_url": "https://eplus.jp/new-horizon-fest/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-05",
+     "title": "BLAZE UP NAGASAKI",
+     "kind": "フェス",
+     "venue": "出島メッセ長崎（長崎県）",
+     "source_url": "https://barks.jp/news/1091706/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-06",
+     "title": "BLAZE UP NAGASAKI",
+     "kind": "フェス",
+     "venue": "出島メッセ長崎（長崎県）",
+     "source_url": "https://barks.jp/news/1091706/",
+     "confidence": "high"
     }
    ]
   },
@@ -5727,6 +5647,14 @@
      "kind": "フェス",
      "venue": "TOYOTA ARENA TOKYO（東京）",
      "source_url": "https://eplus.jp/new-horizon-fest/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-05",
+     "title": "BLAZE UP NAGASAKI",
+     "kind": "フェス",
+     "venue": "出島メッセ長崎（長崎県）",
+     "source_url": "https://barks.jp/news/1091706/",
      "confidence": "high"
     }
    ]
@@ -5956,6 +5884,14 @@
      "kind": "フェス",
      "venue": "横浜アリーナ（神奈川県）",
      "source_url": "https://buzzrhythm.live/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-05",
+     "title": "J-WAVE presents INSPIRE TOKYO",
+     "kind": "フェス",
+     "venue": "LINE CUBE SHIBUYA / 代々木公園イベント広場（東京都）",
+     "source_url": "https://www.j-wave.co.jp/special/inspiretokyo/",
      "confidence": "high"
     }
    ]
@@ -6724,6 +6660,14 @@
      "kind": "フェス",
      "venue": "下北沢界隈(複数ライブハウス)（東京都）",
      "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-11-14",
+     "title": "アメ村天国",
+     "kind": "フェス",
+     "venue": "アメリカ村 SUNHALLほか（大阪府）",
+     "source_url": "https://iwzbn.com/live/?id=d20261114",
      "confidence": "high"
     }
    ]
@@ -7542,6 +7486,14 @@
      "venue": "神戸VARIT.ほか（兵庫県）",
      "source_url": "https://eplus.jp/sf/detail/K000000646",
      "confidence": "high"
+    },
+    {
+     "date": "2026-11-14",
+     "title": "アメ村天国",
+     "kind": "フェス",
+     "venue": "アメリカ村 SUNHALLほか（大阪府）",
+     "source_url": "https://iwzbn.com/live/?id=d20261114",
+     "confidence": "high"
     }
    ]
   },
@@ -8268,6 +8220,14 @@
      "venue": "岐阜市文化センター（岐阜）",
      "source_url": "http://masterpiece-gifu.com/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-06",
+     "title": "BLAZE UP NAGASAKI",
+     "kind": "フェス",
+     "venue": "出島メッセ長崎（長崎県）",
+     "source_url": "https://barks.jp/news/1091706/",
+     "confidence": "high"
     }
    ]
   },
@@ -8781,6 +8741,14 @@
      "venue": "心斎橋BIGCAT ほか7会場（大阪）",
      "source_url": "https://eplus.jp/sf/detail/3969250001",
      "confidence": "high"
+    },
+    {
+     "date": "2026-11-14",
+     "title": "アメ村天国",
+     "kind": "フェス",
+     "venue": "アメリカ村 SUNHALLほか（大阪府）",
+     "source_url": "https://iwzbn.com/live/?id=d20261114",
+     "confidence": "high"
     }
    ]
   },
@@ -8822,6 +8790,14 @@
      "kind": "フェス",
      "venue": "下北沢界隈(複数ライブハウス)（東京都）",
      "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-11-14",
+     "title": "アメ村天国",
+     "kind": "フェス",
+     "venue": "アメリカ村 SUNHALLほか（大阪府）",
+     "source_url": "https://iwzbn.com/live/?id=d20261114",
      "confidence": "high"
     }
    ]
@@ -9008,6 +8984,14 @@
      "venue": "岐阜市文化センター（岐阜）",
      "source_url": "http://masterpiece-gifu.com/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-05",
+     "title": "BLAZE UP NAGASAKI",
+     "kind": "フェス",
+     "venue": "出島メッセ長崎（長崎県）",
+     "source_url": "https://barks.jp/news/1091706/",
+     "confidence": "high"
     }
    ]
   },
@@ -9086,6 +9070,14 @@
      "venue": "（大阪）",
      "source_url": "https://pkshampoo.jp/psychicfes/artist.html",
      "confidence": "high"
+    },
+    {
+     "date": "2026-11-14",
+     "title": "アメ村天国",
+     "kind": "フェス",
+     "venue": "アメリカ村 SUNHALLほか（大阪府）",
+     "source_url": "https://iwzbn.com/live/?id=d20261114",
+     "confidence": "high"
     }
    ]
   },
@@ -9138,6 +9130,14 @@
      "venue": "（大阪）",
      "source_url": "https://pkshampoo.jp/psychicfes/artist.html",
      "confidence": "high"
+    },
+    {
+     "date": "2026-11-14",
+     "title": "アメ村天国",
+     "kind": "フェス",
+     "venue": "アメリカ村 SUNHALLほか（大阪府）",
+     "source_url": "https://iwzbn.com/live/?id=d20261114",
+     "confidence": "high"
     }
    ]
   },
@@ -9158,6 +9158,14 @@
      "kind": "フェス",
      "venue": "下北沢界隈(複数ライブハウス)（東京都）",
      "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-11-14",
+     "title": "アメ村天国",
+     "kind": "フェス",
+     "venue": "アメリカ村 SUNHALLほか（大阪府）",
+     "source_url": "https://iwzbn.com/live/?id=d20261114",
      "confidence": "high"
     }
    ]
@@ -9192,6 +9200,14 @@
      "kind": "フェス",
      "venue": "下北沢界隈(複数ライブハウス)（東京都）",
      "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-11-14",
+     "title": "アメ村天国",
+     "kind": "フェス",
+     "venue": "アメリカ村 SUNHALLほか（大阪府）",
+     "source_url": "https://iwzbn.com/live/?id=d20261114",
      "confidence": "high"
     }
    ]
@@ -9258,6 +9274,14 @@
      "venue": "（大阪）",
      "source_url": "https://pkshampoo.jp/psychicfes/artist.html",
      "confidence": "high"
+    },
+    {
+     "date": "2026-11-14",
+     "title": "アメ村天国",
+     "kind": "フェス",
+     "venue": "アメリカ村 SUNHALLほか（大阪府）",
+     "source_url": "https://iwzbn.com/live/?id=d20261114",
+     "confidence": "high"
     }
    ]
   },
@@ -9299,6 +9323,14 @@
      "kind": "フェス",
      "venue": "下北沢界隈(複数ライブハウス)（東京都）",
      "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-11-14",
+     "title": "アメ村天国",
+     "kind": "フェス",
+     "venue": "アメリカ村 SUNHALLほか（大阪府）",
+     "source_url": "https://iwzbn.com/live/?id=d20261114",
      "confidence": "high"
     }
    ]
@@ -9355,6 +9387,14 @@
      "venue": "（大阪）",
      "source_url": "https://pkshampoo.jp/psychicfes/artist.html",
      "confidence": "high"
+    },
+    {
+     "date": "2026-11-14",
+     "title": "アメ村天国",
+     "kind": "フェス",
+     "venue": "アメリカ村 SUNHALLほか（大阪府）",
+     "source_url": "https://iwzbn.com/live/?id=d20261114",
+     "confidence": "high"
     }
    ]
   },
@@ -9375,6 +9415,14 @@
      "kind": "フェス",
      "venue": "下北沢界隈(複数ライブハウス)（東京都）",
      "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-11-14",
+     "title": "アメ村天国",
+     "kind": "フェス",
+     "venue": "アメリカ村 SUNHALLほか（大阪府）",
+     "source_url": "https://iwzbn.com/live/?id=d20261114",
      "confidence": "high"
     }
    ]
@@ -9444,6 +9492,14 @@
      "venue": "神戸 太陽と虎ほか（兵庫）",
      "source_url": "https://eplus.jp/sf/detail/4580820001-P0030001",
      "confidence": "high"
+    },
+    {
+     "date": "2026-11-14",
+     "title": "アメ村天国",
+     "kind": "フェス",
+     "venue": "アメリカ村 SUNHALLほか（大阪府）",
+     "source_url": "https://iwzbn.com/live/?id=d20261114",
+     "confidence": "high"
     }
    ]
   },
@@ -9490,6 +9546,14 @@
      "kind": "フェス",
      "venue": "（大阪）",
      "source_url": "https://pkshampoo.jp/psychicfes/artist.html",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-11-14",
+     "title": "アメ村天国",
+     "kind": "フェス",
+     "venue": "アメリカ村 SUNHALLほか（大阪府）",
+     "source_url": "https://iwzbn.com/live/?id=d20261114",
      "confidence": "high"
     }
    ]
@@ -9564,6 +9628,14 @@
      "venue": "神戸 太陽と虎ほか（兵庫）",
      "source_url": "https://eplus.jp/sf/detail/4580820001-P0030001",
      "confidence": "high"
+    },
+    {
+     "date": "2026-11-14",
+     "title": "アメ村天国",
+     "kind": "フェス",
+     "venue": "アメリカ村 SUNHALLほか（大阪府）",
+     "source_url": "https://iwzbn.com/live/?id=d20261114",
+     "confidence": "high"
     }
    ]
   },
@@ -9637,6 +9709,14 @@
      "venue": "（大阪）",
      "source_url": "https://pkshampoo.jp/psychicfes/artist.html",
      "confidence": "high"
+    },
+    {
+     "date": "2026-11-14",
+     "title": "アメ村天国",
+     "kind": "フェス",
+     "venue": "アメリカ村 SUNHALLほか（大阪府）",
+     "source_url": "https://iwzbn.com/live/?id=d20261114",
+     "confidence": "high"
     }
    ]
   },
@@ -9649,6 +9729,14 @@
      "kind": "フェス",
      "venue": "（大阪）",
      "source_url": "https://pkshampoo.jp/psychicfes/artist.html",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-11-14",
+     "title": "アメ村天国",
+     "kind": "フェス",
+     "venue": "アメリカ村 SUNHALLほか（大阪府）",
+     "source_url": "https://iwzbn.com/live/?id=d20261114",
      "confidence": "high"
     }
    ]
@@ -9795,6 +9883,14 @@
      "kind": "フェス",
      "venue": "新宿LOFT（東京）",
      "source_url": "https://www.edowave.com/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
      "confidence": "high"
     }
    ]
@@ -10704,6 +10800,14 @@
      "venue": "Kアリーナ横浜（神奈川県）",
      "source_url": "https://dreamfestival.jp/",
      "confidence": "low"
+    },
+    {
+     "date": "2026-12-12",
+     "title": "MUSIC BANK GLOBAL FESTIVAL IN JAPAN",
+     "kind": "フェス",
+     "venue": "MUFGスタジアム（国立競技場）（東京都）",
+     "source_url": "https://www.soompi.com/article/1880199wpp/2026-music-bank-global-festival-in-japan-announces-additional-lineup",
+     "confidence": "high"
     }
    ]
   },
@@ -10756,6 +10860,14 @@
      "venue": "Kアリーナ横浜（神奈川県）",
      "source_url": "https://dreamfestival.jp/",
      "confidence": "low"
+    },
+    {
+     "date": "2026-12-12",
+     "title": "MUSIC BANK GLOBAL FESTIVAL IN JAPAN",
+     "kind": "フェス",
+     "venue": "MUFGスタジアム（国立競技場）（東京都）",
+     "source_url": "https://www.soompi.com/article/1880199wpp/2026-music-bank-global-festival-in-japan-announces-additional-lineup",
+     "confidence": "high"
     }
    ]
   },
@@ -10782,6 +10894,14 @@
      "venue": "Kアリーナ横浜（神奈川県）",
      "source_url": "https://dreamfestival.jp/",
      "confidence": "low"
+    },
+    {
+     "date": "2026-12-12",
+     "title": "MUSIC BANK GLOBAL FESTIVAL IN JAPAN",
+     "kind": "フェス",
+     "venue": "MUFGスタジアム（国立競技場）（東京都）",
+     "source_url": "https://www.soompi.com/article/1880199wpp/2026-music-bank-global-festival-in-japan-announces-additional-lineup",
+     "confidence": "high"
     }
    ]
   },
@@ -10815,6 +10935,14 @@
      "kind": "フェス",
      "venue": "下北沢界隈(複数ライブハウス)（東京都）",
      "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-11-14",
+     "title": "アメ村天国",
+     "kind": "フェス",
+     "venue": "アメリカ村 SUNHALLほか（大阪府）",
+     "source_url": "https://iwzbn.com/live/?id=d20261114",
      "confidence": "high"
     }
    ]
@@ -11183,6 +11311,14 @@
      "venue": "下北沢の複数ライブハウス（東京）",
      "source_url": "https://gekirock.com/news/2026/10/kakumei2026_6th_lineup.php",
      "confidence": "high"
+    },
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
     }
    ]
   },
@@ -11329,6 +11465,14 @@
      "kind": "フェス",
      "venue": "下北沢の複数ライブハウス（東京）",
      "source_url": "https://gekirock.com/news/2026/10/kakumei2026_6th_lineup.php",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
      "confidence": "high"
     }
    ]
@@ -12229,6 +12373,14 @@
      "venue": "下北沢界隈(複数ライブハウス)（東京都）",
      "source_url": "https://www.ragnet.co.jp/music-festival-winter",
      "confidence": "high"
+    },
+    {
+     "date": "2026-11-14",
+     "title": "アメ村天国",
+     "kind": "フェス",
+     "venue": "アメリカ村 SUNHALLほか（大阪府）",
+     "source_url": "https://iwzbn.com/live/?id=d20261114",
+     "confidence": "high"
     }
    ]
   },
@@ -12684,6 +12836,14 @@
      "venue": "下北沢界隈(複数ライブハウス)（東京都）",
      "source_url": "https://www.ragnet.co.jp/music-festival-winter",
      "confidence": "high"
+    },
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
     }
    ]
   },
@@ -12852,6 +13012,14 @@
      "kind": "フェス",
      "venue": "下北沢界隈(複数ライブハウス)（東京都）",
      "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-11-14",
+     "title": "アメ村天国",
+     "kind": "フェス",
+     "venue": "アメリカ村 SUNHALLほか（大阪府）",
+     "source_url": "https://iwzbn.com/live/?id=d20261114",
      "confidence": "high"
     }
    ]
@@ -13843,6 +14011,22 @@
      "venue": "京都パルスプラザ（京都）",
      "source_url": "https://kue.rotten-g.com/26/artist/",
      "confidence": "high"
+    },
+    {
+     "date": "2027-05-22",
+     "title": "電撃BEPPU",
+     "kind": "フェス",
+     "venue": "別府ビーコンプラザ（大分県）",
+     "source_url": "https://www.billboard-japan.com/d_news/detail/166666/2",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-05-23",
+     "title": "電撃BEPPU",
+     "kind": "フェス",
+     "venue": "別府ビーコンプラザ（大分県）",
+     "source_url": "https://www.billboard-japan.com/d_news/detail/166666/2",
+     "confidence": "high"
     }
    ]
   },
@@ -13952,6 +14136,14 @@
      "venue": "神戸ワールド記念ホール（兵庫県）",
      "source_url": "https://lasvegas-jp.com/live/9288",
      "confidence": "low"
+    },
+    {
+     "date": "2026-12-05",
+     "title": "BLAZE UP NAGASAKI",
+     "kind": "フェス",
+     "venue": "出島メッセ長崎（長崎県）",
+     "source_url": "https://barks.jp/news/1091706/",
+     "confidence": "high"
     }
    ]
   },
@@ -14708,6 +14900,22 @@
      "venue": "沖縄県総合運動公園 多目的広場（沖縄県）",
      "source_url": "https://skyfes.net/",
      "confidence": "low"
+    },
+    {
+     "date": "2026-11-07",
+     "title": "MONGOL800 ga FESTIVAL What a Wonderful World!!",
+     "kind": "フェス",
+     "venue": "宜野湾港マリーナ トロピカルビーチ特設会場（沖縄県）",
+     "source_url": "https://www800.asia/2026/day1",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-11-08",
+     "title": "MONGOL800 ga FESTIVAL What a Wonderful World!!",
+     "kind": "フェス",
+     "venue": "宜野湾港マリーナ トロピカルビーチ特設会場（沖縄県）",
+     "source_url": "https://www800.asia/2026/day1",
+     "confidence": "high"
     }
    ]
   },
@@ -14915,6 +15123,2027 @@
      "kind": "フェス",
      "venue": "インテックス大阪（大阪府）",
      "source_url": "https://prtimes.jp/main/html/rd/p/000001504.000030865.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "純烈": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-05-23",
+     "title": "電撃BEPPU",
+     "kind": "フェス",
+     "venue": "別府ビーコンプラザ（大分県）",
+     "source_url": "https://www.billboard-japan.com/d_news/detail/166666/2",
+     "confidence": "high"
+    }
+   ]
+  },
+  "アイアムアイ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-14",
+     "title": "アメ村天国",
+     "kind": "フェス",
+     "venue": "アメリカ村 SUNHALLほか（大阪府）",
+     "source_url": "https://iwzbn.com/live/?id=d20261114",
+     "confidence": "high"
+    }
+   ]
+  },
+  "アフターアワーズ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-14",
+     "title": "アメ村天国",
+     "kind": "フェス",
+     "venue": "アメリカ村 SUNHALLほか（大阪府）",
+     "source_url": "https://iwzbn.com/live/?id=d20261114",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Alaska Jam": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-14",
+     "title": "アメ村天国",
+     "kind": "フェス",
+     "venue": "アメリカ村 SUNHALLほか（大阪府）",
+     "source_url": "https://iwzbn.com/live/?id=d20261114",
+     "confidence": "high"
+    }
+   ]
+  },
+  "THE KING OF ROOKIE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-14",
+     "title": "アメ村天国",
+     "kind": "フェス",
+     "venue": "アメリカ村 SUNHALLほか（大阪府）",
+     "source_url": "https://iwzbn.com/live/?id=d20261114",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ここで生きてるず": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-14",
+     "title": "アメ村天国",
+     "kind": "フェス",
+     "venue": "アメリカ村 SUNHALLほか（大阪府）",
+     "source_url": "https://iwzbn.com/live/?id=d20261114",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Giallo": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-14",
+     "title": "アメ村天国",
+     "kind": "フェス",
+     "venue": "アメリカ村 SUNHALLほか（大阪府）",
+     "source_url": "https://iwzbn.com/live/?id=d20261114",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ドラマチックアラスカ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-14",
+     "title": "アメ村天国",
+     "kind": "フェス",
+     "venue": "アメリカ村 SUNHALLほか（大阪府）",
+     "source_url": "https://iwzbn.com/live/?id=d20261114",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Nikoん": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-14",
+     "title": "アメ村天国",
+     "kind": "フェス",
+     "venue": "アメリカ村 SUNHALLほか（大阪府）",
+     "source_url": "https://iwzbn.com/live/?id=d20261114",
+     "confidence": "high"
+    }
+   ]
+  },
+  "H.U.G": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-14",
+     "title": "アメ村天国",
+     "kind": "フェス",
+     "venue": "アメリカ村 SUNHALLほか（大阪府）",
+     "source_url": "https://iwzbn.com/live/?id=d20261114",
+     "confidence": "high"
+    }
+   ]
+  },
+  "FATE BOX": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-14",
+     "title": "アメ村天国",
+     "kind": "フェス",
+     "venue": "アメリカ村 SUNHALLほか（大阪府）",
+     "source_url": "https://iwzbn.com/live/?id=d20261114",
+     "confidence": "high"
+    }
+   ]
+  },
+  "僕たちはどう生きるか(おしっこ)": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-14",
+     "title": "アメ村天国",
+     "kind": "フェス",
+     "venue": "アメリカ村 SUNHALLほか（大阪府）",
+     "source_url": "https://iwzbn.com/live/?id=d20261114",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Mikity(PISTOL)": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-14",
+     "title": "アメ村天国",
+     "kind": "フェス",
+     "venue": "アメリカ村 SUNHALLほか（大阪府）",
+     "source_url": "https://iwzbn.com/live/?id=d20261114",
+     "confidence": "high"
+    }
+   ]
+  },
+  "mogari": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-14",
+     "title": "アメ村天国",
+     "kind": "フェス",
+     "venue": "アメリカ村 SUNHALLほか（大阪府）",
+     "source_url": "https://iwzbn.com/live/?id=d20261114",
+     "confidence": "high"
+    }
+   ]
+  },
+  "別所哲也": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-04",
+     "title": "J-WAVE presents INSPIRE TOKYO",
+     "kind": "フェス",
+     "venue": "LINE CUBE SHIBUYA / 代々木公園イベント広場（東京都）",
+     "source_url": "https://www.j-wave.co.jp/special/inspiretokyo/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "加藤和樹": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-04",
+     "title": "J-WAVE presents INSPIRE TOKYO",
+     "kind": "フェス",
+     "venue": "LINE CUBE SHIBUYA / 代々木公園イベント広場（東京都）",
+     "source_url": "https://www.j-wave.co.jp/special/inspiretokyo/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "杉本ラララ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-04",
+     "title": "J-WAVE presents INSPIRE TOKYO",
+     "kind": "フェス",
+     "venue": "LINE CUBE SHIBUYA / 代々木公園イベント広場（東京都）",
+     "source_url": "https://www.j-wave.co.jp/special/inspiretokyo/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "五条院凌": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-04",
+     "title": "J-WAVE presents INSPIRE TOKYO",
+     "kind": "フェス",
+     "venue": "LINE CUBE SHIBUYA / 代々木公園イベント広場（東京都）",
+     "source_url": "https://www.j-wave.co.jp/special/inspiretokyo/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "石川紅奈(soraya)": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-04",
+     "title": "J-WAVE presents INSPIRE TOKYO",
+     "kind": "フェス",
+     "venue": "LINE CUBE SHIBUYA / 代々木公園イベント広場（東京都）",
+     "source_url": "https://www.j-wave.co.jp/special/inspiretokyo/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "高木大丈夫": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-04",
+     "title": "J-WAVE presents INSPIRE TOKYO",
+     "kind": "フェス",
+     "venue": "LINE CUBE SHIBUYA / 代々木公園イベント広場（東京都）",
+     "source_url": "https://www.j-wave.co.jp/special/inspiretokyo/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "長澤樹": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-04",
+     "title": "J-WAVE presents INSPIRE TOKYO",
+     "kind": "フェス",
+     "venue": "LINE CUBE SHIBUYA / 代々木公園イベント広場（東京都）",
+     "source_url": "https://www.j-wave.co.jp/special/inspiretokyo/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "綾戸智恵": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-04",
+     "title": "J-WAVE presents INSPIRE TOKYO",
+     "kind": "フェス",
+     "venue": "LINE CUBE SHIBUYA / 代々木公園イベント広場（東京都）",
+     "source_url": "https://www.j-wave.co.jp/special/inspiretokyo/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "大貫妙子": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "J-WAVE presents INSPIRE TOKYO",
+     "kind": "フェス",
+     "venue": "LINE CUBE SHIBUYA / 代々木公園イベント広場（東京都）",
+     "source_url": "https://www.j-wave.co.jp/special/inspiretokyo/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "大橋トリオ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "J-WAVE presents INSPIRE TOKYO",
+     "kind": "フェス",
+     "venue": "LINE CUBE SHIBUYA / 代々木公園イベント広場（東京都）",
+     "source_url": "https://www.j-wave.co.jp/special/inspiretokyo/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "luvis": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "J-WAVE presents INSPIRE TOKYO",
+     "kind": "フェス",
+     "venue": "LINE CUBE SHIBUYA / 代々木公園イベント広場（東京都）",
+     "source_url": "https://www.j-wave.co.jp/special/inspiretokyo/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "さらさ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "J-WAVE presents INSPIRE TOKYO",
+     "kind": "フェス",
+     "venue": "LINE CUBE SHIBUYA / 代々木公園イベント広場（東京都）",
+     "source_url": "https://www.j-wave.co.jp/special/inspiretokyo/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Rol3ert": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "J-WAVE presents INSPIRE TOKYO",
+     "kind": "フェス",
+     "venue": "LINE CUBE SHIBUYA / 代々木公園イベント広場（東京都）",
+     "source_url": "https://www.j-wave.co.jp/special/inspiretokyo/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "the Po": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "J-WAVE presents INSPIRE TOKYO",
+     "kind": "フェス",
+     "venue": "LINE CUBE SHIBUYA / 代々木公園イベント広場（東京都）",
+     "source_url": "https://www.j-wave.co.jp/special/inspiretokyo/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "天々高々": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "J-WAVE presents INSPIRE TOKYO",
+     "kind": "フェス",
+     "venue": "LINE CUBE SHIBUYA / 代々木公園イベント広場（東京都）",
+     "source_url": "https://www.j-wave.co.jp/special/inspiretokyo/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "道ジュネー｜園田青年会": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-07",
+     "title": "MONGOL800 ga FESTIVAL What a Wonderful World!!",
+     "kind": "フェス",
+     "venue": "宜野湾港マリーナ トロピカルビーチ特設会場（沖縄県）",
+     "source_url": "https://www800.asia/2026/day1",
+     "confidence": "high"
+    }
+   ]
+  },
+  "琉球舞踊家・赤嶺姉妹": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-07",
+     "title": "MONGOL800 ga FESTIVAL What a Wonderful World!!",
+     "kind": "フェス",
+     "venue": "宜野湾港マリーナ トロピカルビーチ特設会場（沖縄県）",
+     "source_url": "https://www800.asia/2026/day1",
+     "confidence": "high"
+    }
+   ]
+  },
+  "大工哲弘+島袋優 presents 〜Yaeyama moon〜": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-08",
+     "title": "MONGOL800 ga FESTIVAL What a Wonderful World!!",
+     "kind": "フェス",
+     "venue": "宜野湾港マリーナ トロピカルビーチ特設会場（沖縄県）",
+     "source_url": "https://www800.asia/2026/day1",
+     "confidence": "high"
+    }
+   ]
+  },
+  "道ジュネー｜栄口青年会": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-08",
+     "title": "MONGOL800 ga FESTIVAL What a Wonderful World!!",
+     "kind": "フェス",
+     "venue": "宜野湾港マリーナ トロピカルビーチ特設会場（沖縄県）",
+     "source_url": "https://www800.asia/2026/day1",
+     "confidence": "high"
+    }
+   ]
+  },
+  "011": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ACEQUAD": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "AKARA": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ALL iN FAZE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "AS I AM": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ASH FRAST": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "AYUKA": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Aftertalk": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "BACKDAV": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "BRIDEAR": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "BabyFaith": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Bad Childhood Habits": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "BlooMoon": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Clone of Vengeance": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Comme des familia": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Crows of Scenery": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "DIVE TO THE 2ND": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "DON VOLG": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Davis Bark": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Disconnect Cendrillon": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Finally": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "GANGDEMIC": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "HEART RATE QUEEN": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "HIBIKI": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "JAWEYE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "KINJI": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "KIRA:MINA": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "LADYBABY": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "AIBECK": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "LOT SPiRiTS": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "MAGMAZ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "MANATY": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "MOMN": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "N.R.R": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "OFELIA": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Qtwins": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "RED-i": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Reptile": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "S-project": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "SILHOUETTE FROM THE SKYLIT": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "SINRI": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "SOMOSOMO": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "STRAWDAY": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "THE WASTED": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "THIS VERY DAY": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Vertical Climb Roll": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "WONT": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Wolf in Car": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "aemira": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "anclet.": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "cig out": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "クレフィー": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "シュレーディンガーの犬": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ゼゼ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "トラケミスト": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "レッスントゥミー": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "久遠": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "仮面女子": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "安城夢那": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "尖club": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "微熱ノアト": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "田中聖a.k.a.JOKER": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "零9世代": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "魔訶不思議変革者-デスデス-": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Alpha999": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Are Square": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "FALLING ASLEEP": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Lost Back'Point": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "MIGHTY HOPE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "SLAYCELL": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "太田家": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "over fest",
+     "kind": "フェス",
+     "venue": "下北沢ライブハウス9店舗（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "＝LOVE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-27",
+     "title": "GIFT ～Girls Idol Festival Tokyo～",
+     "kind": "フェス",
+     "venue": "SGC Hall Ariake・TOYOTA ARENA TOKYO（東京都）",
+     "source_url": "https://gift-idol.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "モーニング娘。'26": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-27",
+     "title": "GIFT ～Girls Idol Festival Tokyo～",
+     "kind": "フェス",
+     "venue": "SGC Hall Ariake・TOYOTA ARENA TOKYO（東京都）",
+     "source_url": "https://gift-idol.jp/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-11-28",
+     "title": "GIFT ～Girls Idol Festival Tokyo～",
+     "kind": "フェス",
+     "venue": "SGC Hall Ariake・TOYOTA ARENA TOKYO（東京都）",
+     "source_url": "https://gift-idol.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "AKB48": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-28",
+     "title": "GIFT ～Girls Idol Festival Tokyo～",
+     "kind": "フェス",
+     "venue": "SGC Hall Ariake・TOYOTA ARENA TOKYO（東京都）",
+     "source_url": "https://gift-idol.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "OCHA NORMA": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-28",
+     "title": "GIFT ～Girls Idol Festival Tokyo～",
+     "kind": "フェス",
+     "venue": "SGC Hall Ariake・TOYOTA ARENA TOKYO（東京都）",
+     "source_url": "https://gift-idol.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "CANDY TUNE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-28",
+     "title": "GIFT ～Girls Idol Festival Tokyo～",
+     "kind": "フェス",
+     "venue": "SGC Hall Ariake・TOYOTA ARENA TOKYO（東京都）",
+     "source_url": "https://gift-idol.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "きゅるりんってしてみて": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-28",
+     "title": "GIFT ～Girls Idol Festival Tokyo～",
+     "kind": "フェス",
+     "venue": "SGC Hall Ariake・TOYOTA ARENA TOKYO（東京都）",
+     "source_url": "https://gift-idol.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "MORE STAR": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-28",
+     "title": "GIFT ～Girls Idol Festival Tokyo～",
+     "kind": "フェス",
+     "venue": "SGC Hall Ariake・TOYOTA ARENA TOKYO（東京都）",
+     "source_url": "https://gift-idol.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Rain Tree": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-28",
+     "title": "GIFT ～Girls Idol Festival Tokyo～",
+     "kind": "フェス",
+     "venue": "SGC Hall Ariake・TOYOTA ARENA TOKYO（東京都）",
+     "source_url": "https://gift-idol.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "いぎなり東北産": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "GIFT ～Girls Idol Festival Tokyo～",
+     "kind": "フェス",
+     "venue": "SGC Hall Ariake・TOYOTA ARENA TOKYO（東京都）",
+     "source_url": "https://gift-idol.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "私立恵比寿中学": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "GIFT ～Girls Idol Festival Tokyo～",
+     "kind": "フェス",
+     "venue": "SGC Hall Ariake・TOYOTA ARENA TOKYO（東京都）",
+     "source_url": "https://gift-idol.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "SWEET STEADY": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "GIFT ～Girls Idol Festival Tokyo～",
+     "kind": "フェス",
+     "venue": "SGC Hall Ariake・TOYOTA ARENA TOKYO（東京都）",
+     "source_url": "https://gift-idol.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "乃木坂46": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "GIFT ～Girls Idol Festival Tokyo～",
+     "kind": "フェス",
+     "venue": "SGC Hall Ariake・TOYOTA ARENA TOKYO（東京都）",
+     "source_url": "https://gift-idol.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "WHITE SCORPION": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "GIFT ～Girls Idol Festival Tokyo～",
+     "kind": "フェス",
+     "venue": "SGC Hall Ariake・TOYOTA ARENA TOKYO（東京都）",
+     "source_url": "https://gift-idol.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "わーすた": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "GIFT ～Girls Idol Festival Tokyo～",
+     "kind": "フェス",
+     "venue": "SGC Hall Ariake・TOYOTA ARENA TOKYO（東京都）",
+     "source_url": "https://gift-idol.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "aespa": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "MUSIC BANK GLOBAL FESTIVAL IN JAPAN",
+     "kind": "フェス",
+     "venue": "MUFGスタジアム（国立競技場）（東京都）",
+     "source_url": "https://www.soompi.com/article/1880199wpp/2026-music-bank-global-festival-in-japan-announces-additional-lineup",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ATEEZ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "MUSIC BANK GLOBAL FESTIVAL IN JAPAN",
+     "kind": "フェス",
+     "venue": "MUFGスタジアム（国立競技場）（東京都）",
+     "source_url": "https://www.soompi.com/article/1880199wpp/2026-music-bank-global-festival-in-japan-announces-additional-lineup",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Hearts2Hearts": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "MUSIC BANK GLOBAL FESTIVAL IN JAPAN",
+     "kind": "フェス",
+     "venue": "MUFGスタジアム（国立競技場）（東京都）",
+     "source_url": "https://www.soompi.com/article/1880199wpp/2026-music-bank-global-festival-in-japan-announces-additional-lineup",
+     "confidence": "high"
+    }
+   ]
+  },
+  "KickFlip": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "MUSIC BANK GLOBAL FESTIVAL IN JAPAN",
+     "kind": "フェス",
+     "venue": "MUFGスタジアム（国立競技場）（東京都）",
+     "source_url": "https://www.soompi.com/article/1880199wpp/2026-music-bank-global-festival-in-japan-announces-additional-lineup",
+     "confidence": "high"
+    }
+   ]
+  },
+  "MISAMO": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "MUSIC BANK GLOBAL FESTIVAL IN JAPAN",
+     "kind": "フェス",
+     "venue": "MUFGスタジアム（国立競技場）（東京都）",
+     "source_url": "https://www.soompi.com/article/1880199wpp/2026-music-bank-global-festival-in-japan-announces-additional-lineup",
+     "confidence": "high"
+    }
+   ]
+  },
+  "NAYEON (TWICE)": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "MUSIC BANK GLOBAL FESTIVAL IN JAPAN",
+     "kind": "フェス",
+     "venue": "MUFGスタジアム（国立競技場）（東京都）",
+     "source_url": "https://www.soompi.com/article/1880199wpp/2026-music-bank-global-festival-in-japan-announces-additional-lineup",
+     "confidence": "high"
+    }
+   ]
+  },
+  "NiziU": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "MUSIC BANK GLOBAL FESTIVAL IN JAPAN",
+     "kind": "フェス",
+     "venue": "MUFGスタジアム（国立競技場）（東京都）",
+     "source_url": "https://www.soompi.com/article/1880199wpp/2026-music-bank-global-festival-in-japan-announces-additional-lineup",
+     "confidence": "high"
+    }
+   ]
+  },
+  "RIIZE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "MUSIC BANK GLOBAL FESTIVAL IN JAPAN",
+     "kind": "フェス",
+     "venue": "MUFGスタジアム（国立競技場）（東京都）",
+     "source_url": "https://www.soompi.com/article/1880199wpp/2026-music-bank-global-festival-in-japan-announces-additional-lineup",
+     "confidence": "high"
+    }
+   ]
+  },
+  "TWS": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "MUSIC BANK GLOBAL FESTIVAL IN JAPAN",
+     "kind": "フェス",
+     "venue": "MUFGスタジアム（国立競技場）（東京都）",
+     "source_url": "https://www.soompi.com/article/1880199wpp/2026-music-bank-global-festival-in-japan-announces-additional-lineup",
+     "confidence": "high"
+    }
+   ]
+  },
+  "BOYNEXTDOOR": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "MUSIC BANK GLOBAL FESTIVAL IN JAPAN",
+     "kind": "フェス",
+     "venue": "MUFGスタジアム（国立競技場）（東京都）",
+     "source_url": "https://www.soompi.com/article/1880199wpp/2026-music-bank-global-festival-in-japan-announces-additional-lineup",
+     "confidence": "high"
+    }
+   ]
+  },
+  "CORTIS": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "MUSIC BANK GLOBAL FESTIVAL IN JAPAN",
+     "kind": "フェス",
+     "venue": "MUFGスタジアム（国立競技場）（東京都）",
+     "source_url": "https://www.soompi.com/article/1880199wpp/2026-music-bank-global-festival-in-japan-announces-additional-lineup",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ITZY": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "MUSIC BANK GLOBAL FESTIVAL IN JAPAN",
+     "kind": "フェス",
+     "venue": "MUFGスタジアム（国立競技場）（東京都）",
+     "source_url": "https://www.soompi.com/article/1880199wpp/2026-music-bank-global-festival-in-japan-announces-additional-lineup",
+     "confidence": "high"
+    }
+   ]
+  },
+  "IVE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "MUSIC BANK GLOBAL FESTIVAL IN JAPAN",
+     "kind": "フェス",
+     "venue": "MUFGスタジアム（国立競技場）（東京都）",
+     "source_url": "https://www.soompi.com/article/1880199wpp/2026-music-bank-global-festival-in-japan-announces-additional-lineup",
+     "confidence": "high"
+    }
+   ]
+  },
+  "LE SSERAFIM": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "MUSIC BANK GLOBAL FESTIVAL IN JAPAN",
+     "kind": "フェス",
+     "venue": "MUFGスタジアム（国立競技場）（東京都）",
+     "source_url": "https://www.soompi.com/article/1880199wpp/2026-music-bank-global-festival-in-japan-announces-additional-lineup",
+     "confidence": "high"
+    }
+   ]
+  },
+  "RESCENE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "MUSIC BANK GLOBAL FESTIVAL IN JAPAN",
+     "kind": "フェス",
+     "venue": "MUFGスタジアム（国立競技場）（東京都）",
+     "source_url": "https://www.soompi.com/article/1880199wpp/2026-music-bank-global-festival-in-japan-announces-additional-lineup",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Stray Kids": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "MUSIC BANK GLOBAL FESTIVAL IN JAPAN",
+     "kind": "フェス",
+     "venue": "MUFGスタジアム（国立競技場）（東京都）",
+     "source_url": "https://www.soompi.com/article/1880199wpp/2026-music-bank-global-festival-in-japan-announces-additional-lineup",
+     "confidence": "high"
+    }
+   ]
+  },
+  "&TEAM": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "MUSIC BANK GLOBAL FESTIVAL IN JAPAN",
+     "kind": "フェス",
+     "venue": "MUFGスタジアム（国立競技場）（東京都）",
+     "source_url": "https://www.soompi.com/article/1880199wpp/2026-music-bank-global-festival-in-japan-announces-additional-lineup",
+     "confidence": "high"
+    }
+   ]
+  },
+  "TUIDE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "MUSIC BANK GLOBAL FESTIVAL IN JAPAN",
+     "kind": "フェス",
+     "venue": "MUFGスタジアム（国立競技場）（東京都）",
+     "source_url": "https://www.soompi.com/article/1880199wpp/2026-music-bank-global-festival-in-japan-announces-additional-lineup",
+     "confidence": "high"
+    }
+   ]
+  },
+  "xikers": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "MUSIC BANK GLOBAL FESTIVAL IN JAPAN",
+     "kind": "フェス",
+     "venue": "MUFGスタジアム（国立競技場）（東京都）",
+     "source_url": "https://www.soompi.com/article/1880199wpp/2026-music-bank-global-festival-in-japan-announces-additional-lineup",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ZEROBASEONE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "MUSIC BANK GLOBAL FESTIVAL IN JAPAN",
+     "kind": "フェス",
+     "venue": "MUFGスタジアム（国立競技場）（東京都）",
+     "source_url": "https://www.soompi.com/article/1880199wpp/2026-music-bank-global-festival-in-japan-announces-additional-lineup",
+     "confidence": "high"
+    }
+   ]
+  },
+  "INGRY'S(前島正義・永島浩之)": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-29",
+     "title": "5時SAT ROCKWAVE",
+     "kind": "フェス",
+     "venue": "COMTEC PORTBASE（愛知県）",
+     "source_url": "https://www.ctv.co.jp/rockwave2026/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-30",
+     "title": "5時SAT ROCKWAVE",
+     "kind": "フェス",
+     "venue": "COMTEC PORTBASE（愛知県）",
+     "source_url": "https://www.ctv.co.jp/rockwave2026/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "AURA": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-29",
+     "title": "5時SAT ROCKWAVE",
+     "kind": "フェス",
+     "venue": "COMTEC PORTBASE（愛知県）",
+     "source_url": "https://www.ctv.co.jp/rockwave2026/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "KUSU KUSU": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-29",
+     "title": "5時SAT ROCKWAVE",
+     "kind": "フェス",
+     "venue": "COMTEC PORTBASE（愛知県）",
+     "source_url": "https://www.ctv.co.jp/rockwave2026/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "永井真理子": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-29",
+     "title": "5時SAT ROCKWAVE",
+     "kind": "フェス",
+     "venue": "COMTEC PORTBASE（愛知県）",
+     "source_url": "https://www.ctv.co.jp/rockwave2026/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "MAGUMI(LÄ-PPISCH)": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-29",
+     "title": "5時SAT ROCKWAVE",
+     "kind": "フェス",
+     "venue": "COMTEC PORTBASE（愛知県）",
+     "source_url": "https://www.ctv.co.jp/rockwave2026/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "松岡英明": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-29",
+     "title": "5時SAT ROCKWAVE",
+     "kind": "フェス",
+     "venue": "COMTEC PORTBASE（愛知県）",
+     "source_url": "https://www.ctv.co.jp/rockwave2026/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-30",
+     "title": "5時SAT ROCKWAVE",
+     "kind": "フェス",
+     "venue": "COMTEC PORTBASE（愛知県）",
+     "source_url": "https://www.ctv.co.jp/rockwave2026/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ラフィンノーズ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-29",
+     "title": "5時SAT ROCKWAVE",
+     "kind": "フェス",
+     "venue": "COMTEC PORTBASE（愛知県）",
+     "source_url": "https://www.ctv.co.jp/rockwave2026/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "青木さやか(ファン代表)": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-29",
+     "title": "5時SAT ROCKWAVE",
+     "kind": "フェス",
+     "venue": "COMTEC PORTBASE（愛知県）",
+     "source_url": "https://www.ctv.co.jp/rockwave2026/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-30",
+     "title": "5時SAT ROCKWAVE",
+     "kind": "フェス",
+     "venue": "COMTEC PORTBASE（愛知県）",
+     "source_url": "https://www.ctv.co.jp/rockwave2026/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "嘉門タツオ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-30",
+     "title": "5時SAT ROCKWAVE",
+     "kind": "フェス",
+     "venue": "COMTEC PORTBASE（愛知県）",
+     "source_url": "https://www.ctv.co.jp/rockwave2026/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ダイアモンド☆ユカイ(RED WARRIORS)": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-30",
+     "title": "5時SAT ROCKWAVE",
+     "kind": "フェス",
+     "venue": "COMTEC PORTBASE（愛知県）",
+     "source_url": "https://www.ctv.co.jp/rockwave2026/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "田村直美": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-30",
+     "title": "5時SAT ROCKWAVE",
+     "kind": "フェス",
+     "venue": "COMTEC PORTBASE（愛知県）",
+     "source_url": "https://www.ctv.co.jp/rockwave2026/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "爆風スランプ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-30",
+     "title": "5時SAT ROCKWAVE",
+     "kind": "フェス",
+     "venue": "COMTEC PORTBASE（愛知県）",
+     "source_url": "https://www.ctv.co.jp/rockwave2026/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "モダンチョキチョキズ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-30",
+     "title": "5時SAT ROCKWAVE",
+     "kind": "フェス",
+     "venue": "COMTEC PORTBASE（愛知県）",
+     "source_url": "https://www.ctv.co.jp/rockwave2026/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "YOSHIYAxxx(RADIOTS,ØUROBROS)": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-07",
+     "title": "STORMY DUDES FESTA",
+     "kind": "フェス",
+     "venue": "アメリカ村 BIGCATほか（大阪府）",
+     "source_url": "https://sunhall.jp/events/event/razors-edge-presents%E3%80%8Cstormy-dudes-festa-2026%E3%80%8D/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "TOM SAIKI (STOMPIN' BIRD)": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-07",
+     "title": "STORMY DUDES FESTA",
+     "kind": "フェス",
+     "venue": "アメリカ村 BIGCATほか（大阪府）",
+     "source_url": "https://sunhall.jp/events/event/razors-edge-presents%E3%80%8Cstormy-dudes-festa-2026%E3%80%8D/",
      "confidence": "high"
     }
    ]

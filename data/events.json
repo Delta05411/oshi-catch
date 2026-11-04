@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T07:30:00+09:00",
+ "updated": "2026-11-04T20:17:00+09:00",
  "artists": [
   "04 Limited Sazabys",
   "ELLEGARDEN",
@@ -625,6 +625,18 @@
      "end": "2026-11-04",
      "url": "https://radwimps.jp/yurinchi/",
      "note": "開始13:00・締切12:00"
+    },
+    {
+     "label": "ボクンチ会員限定受付（抽選）",
+     "start": "2026-07-24",
+     "end": "2026-08-03",
+     "url": "https://radwimps.jp/yurinchi/"
+    },
+    {
+     "label": "ボクンチ会員限定2次受付（抽選）",
+     "start": "2026-08-21",
+     "end": "2026-08-27",
+     "url": "https://radwimps.jp/yurinchi/"
     }
    ],
    "source_url": "https://radwimps.jp/news/16474/",
@@ -730,6 +742,18 @@
      "end": "2026-11-04",
      "url": "https://radwimps.jp/yurinchi/",
      "note": "開始13:00・締切12:00"
+    },
+    {
+     "label": "ボクンチ会員限定受付（抽選）",
+     "start": "2026-07-24",
+     "end": "2026-08-03",
+     "url": "https://radwimps.jp/yurinchi/"
+    },
+    {
+     "label": "ボクンチ会員限定2次受付（抽選）",
+     "start": "2026-08-21",
+     "end": "2026-08-27",
+     "url": "https://radwimps.jp/yurinchi/"
     }
    ],
    "source_url": "https://radwimps.jp/news/16474/",
@@ -801,7 +825,16 @@
    "venue": "サンドーム福井（福井）",
    "sale_info": "ファンクラブ先行あり。一般発売は公式で要確認",
    "source_url": "https://mrsgreenapple.com/feature/ringojamtour_shadows",
-   "confidence": "high"
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "公式チケットトレード（抽選）",
+     "start": "2026-11-03",
+     "end": "2026-11-10",
+     "url": "https://mrsgreenapple.com/news/detail/23319",
+     "note": "11/3 18:00〜11/10 11:59"
+    }
+   ]
   },
   {
    "artist": "SHANK",
@@ -889,7 +922,16 @@
    "venue": "サンドーム福井（福井）",
    "sale_info": "ファンクラブ先行あり。一般発売は公式で要確認",
    "source_url": "https://mrsgreenapple.com/feature/ringojamtour_shadows",
-   "confidence": "high"
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "公式チケットトレード（抽選）",
+     "start": "2026-11-03",
+     "end": "2026-11-11",
+     "url": "https://mrsgreenapple.com/news/detail/23319",
+     "note": "11/3 18:00〜11/11 11:59"
+    }
+   ]
   },
   {
    "artist": "THE ALFEE",
@@ -1408,9 +1450,9 @@
    "artist": "a flood of circle",
    "date": "2026-11-21",
    "title": "a flood of circle TOUR 革命未遂の蝶が見る夢",
-   "kind": "ワンマン",
+   "kind": "対バン",
    "venue": "高知X-pt.（高知県）",
-   "source_url": "https://realsound.jp/2026/05/post-2386759.html",
+   "source_url": "https://afloodofcircle.com/live_information/detail/43686",
    "confidence": "high",
    "sales": [
     {
@@ -1419,7 +1461,9 @@
      "url": "https://afloodofcircle.com/live_information/detail/43686",
      "note": "開始10:00・X-pt. 20th Anniversary Live、THE BACK HORNと共演"
     }
-   ]
+   ],
+   "with": "THE BACK HORN",
+   "sale_info": "X-pt. 20th Anniversary Live \"SPECIAL THANKS\" Vol.1（高知X-pt.主催の共同企画）。開場17:00／開演17:30、前売¥4,500／当日¥5,000（D代別）"
   },
   {
    "artist": "muque",
@@ -2836,6 +2880,24 @@
      "label": "一般発売",
      "start": "2026-11-14",
      "note": "先着・12:00〜"
+    },
+    {
+     "label": "1次先行（抽選）",
+     "start": "2026-10-02",
+     "end": "2026-10-12",
+     "url": "https://eplus.jp/ellegarden2026/"
+    },
+    {
+     "label": "2次先行（抽選）",
+     "start": "2026-10-23",
+     "end": "2026-11-01",
+     "url": "https://eplus.jp/ellegarden2026/"
+    },
+    {
+     "label": "一般発売（先着）",
+     "start": "2026-11-14",
+     "url": "https://eplus.jp/ellegarden2026/",
+     "note": "11/14 12:00〜"
     }
    ]
   },
@@ -2879,6 +2941,24 @@
      "label": "一般発売",
      "start": "2026-11-14",
      "note": "先着・12:00〜"
+    },
+    {
+     "label": "1次先行（抽選）",
+     "start": "2026-10-02",
+     "end": "2026-10-12",
+     "url": "https://eplus.jp/ellegarden2026/"
+    },
+    {
+     "label": "2次先行（抽選）",
+     "start": "2026-10-23",
+     "end": "2026-11-01",
+     "url": "https://eplus.jp/ellegarden2026/"
+    },
+    {
+     "label": "一般発売（先着）",
+     "start": "2026-11-14",
+     "url": "https://eplus.jp/ellegarden2026/",
+     "note": "11/14 12:00〜"
     }
    ]
   },
@@ -3387,6 +3467,13 @@
      "end": "2026-11-11",
      "url": "https://mrsgreenapple.com/feature/ringojamtour_shadows#ticket",
      "note": "開始12:00・締切05:00"
+    },
+    {
+     "label": "Ringo Jam 全会員先行（宮城・神奈川）",
+     "start": "2026-11-02",
+     "end": "2026-11-11",
+     "url": "https://mrsgreenapple.com/feature/ringojamtour_shadows#ticket",
+     "note": "11/2 12:00〜11/11 5:00"
     }
    ]
   },
@@ -3448,6 +3535,13 @@
      "end": "2026-11-11",
      "url": "https://mrsgreenapple.com/feature/ringojamtour_shadows#ticket",
      "note": "開始12:00・締切05:00"
+    },
+    {
+     "label": "Ringo Jam 全会員先行（宮城・神奈川）",
+     "start": "2026-11-02",
+     "end": "2026-11-11",
+     "url": "https://mrsgreenapple.com/feature/ringojamtour_shadows#ticket",
+     "note": "11/2 12:00〜11/11 5:00"
     }
    ]
   },
@@ -3702,6 +3796,13 @@
      "end": "2026-11-11",
      "url": "https://mrsgreenapple.com/feature/ringojamtour_shadows#ticket",
      "note": "開始12:00・締切05:00"
+    },
+    {
+     "label": "Ringo Jam 全会員先行（宮城・神奈川）",
+     "start": "2026-11-02",
+     "end": "2026-11-11",
+     "url": "https://mrsgreenapple.com/feature/ringojamtour_shadows#ticket",
+     "note": "11/2 12:00〜11/11 5:00"
     }
    ]
   },
@@ -3794,6 +3895,13 @@
      "start": "2026-11-07",
      "url": "https://afloodofcircle.com/news/detail/94439",
      "note": "開始10:00"
+    },
+    {
+     "label": "先行",
+     "start": "2026-10-30",
+     "end": "2026-11-05",
+     "url": "https://w.pia.jp/t/ryosukesasaki-hs/",
+     "note": "11/5 23:59締切"
     }
    ],
    "source_url": "https://afloodofcircle.com/news/detail/94439",
@@ -3911,6 +4019,13 @@
      "end": "2026-11-11",
      "url": "https://mrsgreenapple.com/feature/ringojamtour_shadows#ticket",
      "note": "開始12:00・締切05:00"
+    },
+    {
+     "label": "Ringo Jam 全会員先行（宮城・神奈川）",
+     "start": "2026-11-02",
+     "end": "2026-11-11",
+     "url": "https://mrsgreenapple.com/feature/ringojamtour_shadows#ticket",
+     "note": "11/2 12:00〜11/11 5:00"
     }
    ]
   },
@@ -4468,6 +4583,13 @@
      "start": "2026-10-15",
      "end": "2026-10-25",
      "note": "21:00開始〜23:59締切"
+    },
+    {
+     "label": "オフィシャル5次受付（抽選）",
+     "start": "2026-11-06",
+     "end": "2026-11-15",
+     "url": "https://eplus.jp/radiocrazy2026/",
+     "note": "スマチケ受取限定・同行者登録が必要"
     }
    ],
    "source_url": "https://eplus.jp/radiocrazy2026/",
@@ -4606,6 +4728,13 @@
      "start": "2026-10-15",
      "end": "2026-10-25",
      "note": "21:00開始〜23:59締切"
+    },
+    {
+     "label": "オフィシャル5次受付（抽選）",
+     "start": "2026-11-06",
+     "end": "2026-11-15",
+     "url": "https://eplus.jp/radiocrazy2026/",
+     "note": "スマチケ受取限定・同行者登録が必要"
     }
    ],
    "source_url": "https://eplus.jp/radiocrazy2026/",
@@ -5031,6 +5160,12 @@
      "end": "2026-11-04",
      "url": "https://eplus.jp/sf/detail/4617080001-P0030001P021001?P1=0175",
      "note": "開始12:00・締切18:00・抽選"
+    },
+    {
+     "label": "オフィシャル先行（e+プレオーダー・抽選）",
+     "end": "2026-10-20",
+     "url": "https://eplus.jp/LIQUIDROOM0112_thekebabs/",
+     "note": "10/20 23:59締切"
     }
    ],
    "source_url": "https://kebabsband.com/live/93540/",
@@ -6086,6 +6221,18 @@
    "confidence": "high"
   },
   {
+   "artist": "a flood of circle",
+   "date": "2027-02-11",
+   "title": "ブクロック!フェスティバル（幕張）",
+   "kind": "フェス",
+   "venue": "幕張メッセ国際展示場1〜3ホール（千葉県）",
+   "with": "バックドロップシンデレラ ほか",
+   "ticket_url": "https://ldandk.com/bukurock/",
+   "sale_info": "前売¥11,000／U-22 ¥9,500",
+   "source_url": "https://afloodofcircle.com/live_information/detail/46985",
+   "confidence": "high"
+  },
+  {
    "artist": "ハルカミライ",
    "date": "2027-02-11",
    "title": "ブクロック!フェスティバル2027幕張",
@@ -6221,6 +6368,13 @@
      "end": "2026-11-05",
      "url": "https://mrsgreenapple.com/feature/harmony_2#ticket",
      "note": "開始20:00・締切23:59・『POPS』のHarmony CODEが必要"
+    },
+    {
+     "label": "Ringo Jam 全会員＋CD購入者限定先行",
+     "start": "2026-10-27",
+     "end": "2026-11-05",
+     "url": "https://mrsgreenapple.com/feature/harmony_2#ticket",
+     "note": "10/27 20:00〜11/5 23:59"
     }
    ]
   },
@@ -6250,6 +6404,13 @@
      "end": "2026-11-05",
      "url": "https://mrsgreenapple.com/feature/harmony_2#ticket",
      "note": "開始20:00・締切23:59・『POPS』のHarmony CODEが必要"
+    },
+    {
+     "label": "Ringo Jam 全会員＋CD購入者限定先行",
+     "start": "2026-10-27",
+     "end": "2026-11-05",
+     "url": "https://mrsgreenapple.com/feature/harmony_2#ticket",
+     "note": "10/27 20:00〜11/5 23:59"
     }
    ]
   },
@@ -6365,6 +6526,13 @@
      "end": "2026-11-05",
      "url": "https://mrsgreenapple.com/feature/harmony_2#ticket",
      "note": "開始20:00・締切23:59・『POPS』のHarmony CODEが必要"
+    },
+    {
+     "label": "Ringo Jam 全会員＋CD購入者限定先行",
+     "start": "2026-10-27",
+     "end": "2026-11-05",
+     "url": "https://mrsgreenapple.com/feature/harmony_2#ticket",
+     "note": "10/27 20:00〜11/5 23:59"
     }
    ]
   },
@@ -6417,6 +6585,13 @@
      "end": "2026-11-05",
      "url": "https://mrsgreenapple.com/feature/harmony_2#ticket",
      "note": "開始20:00・締切23:59・『POPS』のHarmony CODEが必要"
+    },
+    {
+     "label": "Ringo Jam 全会員＋CD購入者限定先行",
+     "start": "2026-10-27",
+     "end": "2026-11-05",
+     "url": "https://mrsgreenapple.com/feature/harmony_2#ticket",
+     "note": "10/27 20:00〜11/5 23:59"
     }
    ]
   },
@@ -6532,6 +6707,13 @@
      "end": "2026-11-05",
      "url": "https://mrsgreenapple.com/feature/harmony_2#ticket",
      "note": "開始20:00・締切23:59・『POPS』のHarmony CODEが必要"
+    },
+    {
+     "label": "Ringo Jam 全会員＋CD購入者限定先行",
+     "start": "2026-10-27",
+     "end": "2026-11-05",
+     "url": "https://mrsgreenapple.com/feature/harmony_2#ticket",
+     "note": "10/27 20:00〜11/5 23:59"
     }
    ]
   },
@@ -6585,6 +6767,13 @@
      "end": "2026-11-05",
      "url": "https://mrsgreenapple.com/feature/harmony_2#ticket",
      "note": "開始20:00・締切23:59・『POPS』のHarmony CODEが必要"
+    },
+    {
+     "label": "Ringo Jam 全会員＋CD購入者限定先行",
+     "start": "2026-10-27",
+     "end": "2026-11-05",
+     "url": "https://mrsgreenapple.com/feature/harmony_2#ticket",
+     "note": "10/27 20:00〜11/5 23:59"
     }
    ]
   },
@@ -6625,6 +6814,13 @@
      "end": "2026-11-05",
      "url": "https://mrsgreenapple.com/feature/harmony_2#ticket",
      "note": "開始20:00・締切23:59・『POPS』のHarmony CODEが必要"
+    },
+    {
+     "label": "Ringo Jam 全会員＋CD購入者限定先行",
+     "start": "2026-10-27",
+     "end": "2026-11-05",
+     "url": "https://mrsgreenapple.com/feature/harmony_2#ticket",
+     "note": "10/27 20:00〜11/5 23:59"
     }
    ]
   },
@@ -6657,6 +6853,13 @@
      "end": "2026-11-05",
      "url": "https://mrsgreenapple.com/feature/harmony_2#ticket",
      "note": "開始20:00・締切23:59・『POPS』のHarmony CODEが必要"
+    },
+    {
+     "label": "Ringo Jam 全会員＋CD購入者限定先行",
+     "start": "2026-10-27",
+     "end": "2026-11-05",
+     "url": "https://mrsgreenapple.com/feature/harmony_2#ticket",
+     "note": "10/27 20:00〜11/5 23:59"
     }
    ]
   },
@@ -6764,6 +6967,13 @@
      "end": "2026-11-05",
      "url": "https://mrsgreenapple.com/feature/harmony_2#ticket",
      "note": "開始20:00・締切23:59・『POPS』のHarmony CODEが必要"
+    },
+    {
+     "label": "Ringo Jam 全会員＋CD購入者限定先行",
+     "start": "2026-10-27",
+     "end": "2026-11-05",
+     "url": "https://mrsgreenapple.com/feature/harmony_2#ticket",
+     "note": "10/27 20:00〜11/5 23:59"
     }
    ]
   },
@@ -6783,6 +6993,13 @@
      "end": "2026-11-05",
      "url": "https://mrsgreenapple.com/feature/harmony_2#ticket",
      "note": "開始20:00・締切23:59・『POPS』のHarmony CODEが必要"
+    },
+    {
+     "label": "Ringo Jam 全会員＋CD購入者限定先行",
+     "start": "2026-10-27",
+     "end": "2026-11-05",
+     "url": "https://mrsgreenapple.com/feature/harmony_2#ticket",
+     "note": "10/27 20:00〜11/5 23:59"
     }
    ]
   },
@@ -7124,6 +7341,13 @@
      "end": "2026-11-05",
      "url": "https://mrsgreenapple.com/feature/harmony_2#ticket",
      "note": "開始20:00・締切23:59・『POPS』のHarmony CODEが必要"
+    },
+    {
+     "label": "Ringo Jam 全会員＋CD購入者限定先行",
+     "start": "2026-10-27",
+     "end": "2026-11-05",
+     "url": "https://mrsgreenapple.com/feature/harmony_2#ticket",
+     "note": "10/27 20:00〜11/5 23:59"
     }
    ]
   },
@@ -7153,6 +7377,13 @@
      "end": "2026-11-05",
      "url": "https://mrsgreenapple.com/feature/harmony_2#ticket",
      "note": "開始20:00・締切23:59・『POPS』のHarmony CODEが必要"
+    },
+    {
+     "label": "Ringo Jam 全会員＋CD購入者限定先行",
+     "start": "2026-10-27",
+     "end": "2026-11-05",
+     "url": "https://mrsgreenapple.com/feature/harmony_2#ticket",
+     "note": "10/27 20:00〜11/5 23:59"
     }
    ]
   },
@@ -7406,7 +7637,23 @@
    "venue": "K-Arena Yokohama（神奈川）",
    "sale_info": "5/2・3の2日間。全国14都市36公演。先行はベストアルバム封入カードのQRから",
    "source_url": "https://realsound.jp/2026/07/post-2462631.html",
-   "confidence": "high"
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "後半公演 AIM会員最速先行",
+     "start": "2027-01-08",
+     "end": "2027-01-18",
+     "url": "https://www.aimyong.net/feature/cosmic_percent",
+     "note": "12:00〜23:59"
+    },
+    {
+     "label": "後半公演 BEST ALBUM『唇を追え！』封入先行",
+     "start": "2027-01-21",
+     "end": "2027-01-29",
+     "url": "https://www.aimyong.net/feature/cosmic_percent",
+     "note": "12:00〜23:59。CDのシリアルコードが必要"
+    }
+   ]
   },
   {
    "artist": "あいみょん",
@@ -7415,7 +7662,23 @@
    "kind": "ワンマン",
    "venue": "K-Arena Yokohama（神奈川）",
    "source_url": "https://realsound.jp/2026/07/post-2462631.html",
-   "confidence": "high"
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "後半公演 AIM会員最速先行",
+     "start": "2027-01-08",
+     "end": "2027-01-18",
+     "url": "https://www.aimyong.net/feature/cosmic_percent",
+     "note": "12:00〜23:59"
+    },
+    {
+     "label": "後半公演 BEST ALBUM『唇を追え！』封入先行",
+     "start": "2027-01-21",
+     "end": "2027-01-29",
+     "url": "https://www.aimyong.net/feature/cosmic_percent",
+     "note": "12:00〜23:59。CDのシリアルコードが必要"
+    }
+   ]
   },
   {
    "artist": "[Alexandros]",
@@ -7500,6 +7763,13 @@
      "end": "2026-11-05",
      "url": "https://mrsgreenapple.com/feature/harmony_2#ticket",
      "note": "開始20:00・締切23:59・『POPS』のHarmony CODEが必要"
+    },
+    {
+     "label": "Ringo Jam 全会員＋CD購入者限定先行",
+     "start": "2026-10-27",
+     "end": "2026-11-05",
+     "url": "https://mrsgreenapple.com/feature/harmony_2#ticket",
+     "note": "10/27 20:00〜11/5 23:59"
     }
    ]
   },
@@ -7568,6 +7838,13 @@
      "end": "2026-11-05",
      "url": "https://mrsgreenapple.com/feature/harmony_2#ticket",
      "note": "開始20:00・締切23:59・『POPS』のHarmony CODEが必要"
+    },
+    {
+     "label": "Ringo Jam 全会員＋CD購入者限定先行",
+     "start": "2026-10-27",
+     "end": "2026-11-05",
+     "url": "https://mrsgreenapple.com/feature/harmony_2#ticket",
+     "note": "10/27 20:00〜11/5 23:59"
     }
    ]
   },
@@ -7621,6 +7898,13 @@
      "end": "2026-11-05",
      "url": "https://mrsgreenapple.com/feature/harmony_2#ticket",
      "note": "開始20:00・締切23:59・『POPS』のHarmony CODEが必要"
+    },
+    {
+     "label": "Ringo Jam 全会員＋CD購入者限定先行",
+     "start": "2026-10-27",
+     "end": "2026-11-05",
+     "url": "https://mrsgreenapple.com/feature/harmony_2#ticket",
+     "note": "10/27 20:00〜11/5 23:59"
     }
    ]
   },
@@ -7660,7 +7944,23 @@
    "venue": "大阪城ホール（大阪）",
    "sale_info": "5/12・13の2日間。全国14都市36公演。先行はベストアルバム封入カードのQRから",
    "source_url": "https://realsound.jp/2026/07/post-2462631.html",
-   "confidence": "high"
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "後半公演 AIM会員最速先行",
+     "start": "2027-01-08",
+     "end": "2027-01-18",
+     "url": "https://www.aimyong.net/feature/cosmic_percent",
+     "note": "12:00〜23:59"
+    },
+    {
+     "label": "後半公演 BEST ALBUM『唇を追え！』封入先行",
+     "start": "2027-01-21",
+     "end": "2027-01-29",
+     "url": "https://www.aimyong.net/feature/cosmic_percent",
+     "note": "12:00〜23:59。CDのシリアルコードが必要"
+    }
+   ]
   },
   {
    "artist": "Mrs. GREEN APPLE",
@@ -7678,6 +7978,13 @@
      "end": "2026-11-05",
      "url": "https://mrsgreenapple.com/feature/harmony_2#ticket",
      "note": "開始20:00・締切23:59・『POPS』のHarmony CODEが必要"
+    },
+    {
+     "label": "Ringo Jam 全会員＋CD購入者限定先行",
+     "start": "2026-10-27",
+     "end": "2026-11-05",
+     "url": "https://mrsgreenapple.com/feature/harmony_2#ticket",
+     "note": "10/27 20:00〜11/5 23:59"
     }
    ]
   },
@@ -7688,7 +7995,23 @@
    "kind": "ワンマン",
    "venue": "大阪城ホール（大阪）",
    "source_url": "https://realsound.jp/2026/07/post-2462631.html",
-   "confidence": "high"
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "後半公演 AIM会員最速先行",
+     "start": "2027-01-08",
+     "end": "2027-01-18",
+     "url": "https://www.aimyong.net/feature/cosmic_percent",
+     "note": "12:00〜23:59"
+    },
+    {
+     "label": "後半公演 BEST ALBUM『唇を追え！』封入先行",
+     "start": "2027-01-21",
+     "end": "2027-01-29",
+     "url": "https://www.aimyong.net/feature/cosmic_percent",
+     "note": "12:00〜23:59。CDのシリアルコードが必要"
+    }
+   ]
   },
   {
    "artist": "[Alexandros]",
@@ -7734,6 +8057,13 @@
      "end": "2026-11-05",
      "url": "https://mrsgreenapple.com/feature/harmony_2#ticket",
      "note": "開始20:00・締切23:59・『POPS』のHarmony CODEが必要"
+    },
+    {
+     "label": "Ringo Jam 全会員＋CD購入者限定先行",
+     "start": "2026-10-27",
+     "end": "2026-11-05",
+     "url": "https://mrsgreenapple.com/feature/harmony_2#ticket",
+     "note": "10/27 20:00〜11/5 23:59"
     }
    ]
   },
@@ -7781,6 +8111,13 @@
      "end": "2026-11-05",
      "url": "https://mrsgreenapple.com/feature/harmony_2#ticket",
      "note": "開始20:00・締切23:59・『POPS』のHarmony CODEが必要"
+    },
+    {
+     "label": "Ringo Jam 全会員＋CD購入者限定先行",
+     "start": "2026-10-27",
+     "end": "2026-11-05",
+     "url": "https://mrsgreenapple.com/feature/harmony_2#ticket",
+     "note": "10/27 20:00〜11/5 23:59"
     }
    ]
   },
@@ -7790,9 +8127,19 @@
    "title": "電撃BEPPU",
    "kind": "フェス",
    "venue": "別府ビーコンプラザ（大分県）",
-   "sale_info": "5/22・23の2日間開催。出演日は未確認（第1弾発表で出演決定）",
+   "sale_info": "5/22・23の2日間開催。出演日は5/22と発表（第1弾発表で出演決定）",
+   "source_url": "https://www.billboard-japan.com/d_news/detail/166666/2",
+   "confidence": "high"
+  },
+  {
+   "artist": "ハルカミライ",
+   "date": "2027-05-22",
+   "title": "電撃BEPPU",
+   "kind": "フェス",
+   "venue": "別府ビーコンプラザ（大分県）",
    "source_url": "https://news.livedoor.com/article/detail/31333276/",
-   "confidence": "low"
+   "confidence": "low",
+   "sale_info": "05-22〜05-23開催。出演日は未発表"
   },
   {
    "artist": "Novelbright",
@@ -7812,7 +8159,23 @@
    "venue": "あなぶきアリーナ香川（香川）",
    "sale_info": "5/29・30の2日間。全国14都市36公演。先行はベストアルバム封入カードのQRから",
    "source_url": "https://realsound.jp/2026/07/post-2462631.html",
-   "confidence": "high"
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "後半公演 AIM会員最速先行",
+     "start": "2027-01-08",
+     "end": "2027-01-18",
+     "url": "https://www.aimyong.net/feature/cosmic_percent",
+     "note": "12:00〜23:59"
+    },
+    {
+     "label": "後半公演 BEST ALBUM『唇を追え！』封入先行",
+     "start": "2027-01-21",
+     "end": "2027-01-29",
+     "url": "https://www.aimyong.net/feature/cosmic_percent",
+     "note": "12:00〜23:59。CDのシリアルコードが必要"
+    }
+   ]
   },
   {
    "artist": "Novelbright",
@@ -7831,7 +8194,23 @@
    "kind": "ワンマン",
    "venue": "あなぶきアリーナ香川（香川）",
    "source_url": "https://realsound.jp/2026/07/post-2462631.html",
-   "confidence": "high"
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "後半公演 AIM会員最速先行",
+     "start": "2027-01-08",
+     "end": "2027-01-18",
+     "url": "https://www.aimyong.net/feature/cosmic_percent",
+     "note": "12:00〜23:59"
+    },
+    {
+     "label": "後半公演 BEST ALBUM『唇を追え！』封入先行",
+     "start": "2027-01-21",
+     "end": "2027-01-29",
+     "url": "https://www.aimyong.net/feature/cosmic_percent",
+     "note": "12:00〜23:59。CDのシリアルコードが必要"
+    }
+   ]
   },
   {
    "artist": "Mrs. GREEN APPLE",
@@ -7849,6 +8228,13 @@
      "end": "2026-11-05",
      "url": "https://mrsgreenapple.com/feature/harmony_2#ticket",
      "note": "開始20:00・締切23:59・『POPS』のHarmony CODEが必要"
+    },
+    {
+     "label": "Ringo Jam 全会員＋CD購入者限定先行",
+     "start": "2026-10-27",
+     "end": "2026-11-05",
+     "url": "https://mrsgreenapple.com/feature/harmony_2#ticket",
+     "note": "10/27 20:00〜11/5 23:59"
     }
    ]
   },
@@ -7868,6 +8254,13 @@
      "end": "2026-11-05",
      "url": "https://mrsgreenapple.com/feature/harmony_2#ticket",
      "note": "開始20:00・締切23:59・『POPS』のHarmony CODEが必要"
+    },
+    {
+     "label": "Ringo Jam 全会員＋CD購入者限定先行",
+     "start": "2026-10-27",
+     "end": "2026-11-05",
+     "url": "https://mrsgreenapple.com/feature/harmony_2#ticket",
+     "note": "10/27 20:00〜11/5 23:59"
     }
    ]
   },
@@ -7911,7 +8304,23 @@
    "venue": "クロコくんホール（愛知）",
    "sale_info": "6/5・6の2日間。全国14都市36公演。先行はベストアルバム封入カードのQRから",
    "source_url": "https://realsound.jp/2026/07/post-2462631.html",
-   "confidence": "high"
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "後半公演 AIM会員最速先行",
+     "start": "2027-01-08",
+     "end": "2027-01-18",
+     "url": "https://www.aimyong.net/feature/cosmic_percent",
+     "note": "12:00〜23:59"
+    },
+    {
+     "label": "後半公演 BEST ALBUM『唇を追え！』封入先行",
+     "start": "2027-01-21",
+     "end": "2027-01-29",
+     "url": "https://www.aimyong.net/feature/cosmic_percent",
+     "note": "12:00〜23:59。CDのシリアルコードが必要"
+    }
+   ]
   },
   {
    "artist": "久石譲",
@@ -7941,7 +8350,23 @@
    "kind": "ワンマン",
    "venue": "クロコくんホール（愛知）",
    "source_url": "https://realsound.jp/2026/07/post-2462631.html",
-   "confidence": "high"
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "後半公演 AIM会員最速先行",
+     "start": "2027-01-08",
+     "end": "2027-01-18",
+     "url": "https://www.aimyong.net/feature/cosmic_percent",
+     "note": "12:00〜23:59"
+    },
+    {
+     "label": "後半公演 BEST ALBUM『唇を追え！』封入先行",
+     "start": "2027-01-21",
+     "end": "2027-01-29",
+     "url": "https://www.aimyong.net/feature/cosmic_percent",
+     "note": "12:00〜23:59。CDのシリアルコードが必要"
+    }
+   ]
   },
   {
    "artist": "久石譲",
@@ -7973,7 +8398,23 @@
    "venue": "真駒内セキスイハイムアイスアリーナ（北海道）",
    "sale_info": "6/12・13の2日間。全国14都市36公演。先行はベストアルバム封入カードのQRから",
    "source_url": "https://realsound.jp/2026/07/post-2462631.html",
-   "confidence": "high"
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "後半公演 AIM会員最速先行",
+     "start": "2027-01-08",
+     "end": "2027-01-18",
+     "url": "https://www.aimyong.net/feature/cosmic_percent",
+     "note": "12:00〜23:59"
+    },
+    {
+     "label": "後半公演 BEST ALBUM『唇を追え！』封入先行",
+     "start": "2027-01-21",
+     "end": "2027-01-29",
+     "url": "https://www.aimyong.net/feature/cosmic_percent",
+     "note": "12:00〜23:59。CDのシリアルコードが必要"
+    }
+   ]
   },
   {
    "artist": "あいみょん",
@@ -7982,7 +8423,23 @@
    "kind": "ワンマン",
    "venue": "真駒内セキスイハイムアイスアリーナ（北海道）",
    "source_url": "https://realsound.jp/2026/07/post-2462631.html",
-   "confidence": "high"
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "後半公演 AIM会員最速先行",
+     "start": "2027-01-08",
+     "end": "2027-01-18",
+     "url": "https://www.aimyong.net/feature/cosmic_percent",
+     "note": "12:00〜23:59"
+    },
+    {
+     "label": "後半公演 BEST ALBUM『唇を追え！』封入先行",
+     "start": "2027-01-21",
+     "end": "2027-01-29",
+     "url": "https://www.aimyong.net/feature/cosmic_percent",
+     "note": "12:00〜23:59。CDのシリアルコードが必要"
+    }
+   ]
   },
   {
    "artist": "Mrs. GREEN APPLE",
@@ -8025,7 +8482,23 @@
    "venue": "GLION ARENA KOBE（兵庫）",
    "sale_info": "6/22・23の2日間。全国14都市36公演。先行はベストアルバム封入カードのQRから",
    "source_url": "https://realsound.jp/2026/07/post-2462631.html",
-   "confidence": "high"
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "後半公演 AIM会員最速先行",
+     "start": "2027-01-08",
+     "end": "2027-01-18",
+     "url": "https://www.aimyong.net/feature/cosmic_percent",
+     "note": "12:00〜23:59"
+    },
+    {
+     "label": "後半公演 BEST ALBUM『唇を追え！』封入先行",
+     "start": "2027-01-21",
+     "end": "2027-01-29",
+     "url": "https://www.aimyong.net/feature/cosmic_percent",
+     "note": "12:00〜23:59。CDのシリアルコードが必要"
+    }
+   ]
   },
   {
    "artist": "[Alexandros]",
@@ -8047,7 +8520,23 @@
    "kind": "ワンマン",
    "venue": "GLION ARENA KOBE（兵庫）",
    "source_url": "https://realsound.jp/2026/07/post-2462631.html",
-   "confidence": "high"
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "後半公演 AIM会員最速先行",
+     "start": "2027-01-08",
+     "end": "2027-01-18",
+     "url": "https://www.aimyong.net/feature/cosmic_percent",
+     "note": "12:00〜23:59"
+    },
+    {
+     "label": "後半公演 BEST ALBUM『唇を追え！』封入先行",
+     "start": "2027-01-21",
+     "end": "2027-01-29",
+     "url": "https://www.aimyong.net/feature/cosmic_percent",
+     "note": "12:00〜23:59。CDのシリアルコードが必要"
+    }
+   ]
   },
   {
    "artist": "Novelbright",
@@ -8067,7 +8556,23 @@
    "venue": "広島グリーンアリーナ（広島）",
    "sale_info": "6/26・27の2日間。全国14都市36公演。先行はベストアルバム封入カードのQRから",
    "source_url": "https://realsound.jp/2026/07/post-2462631.html",
-   "confidence": "high"
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "後半公演 AIM会員最速先行",
+     "start": "2027-01-08",
+     "end": "2027-01-18",
+     "url": "https://www.aimyong.net/feature/cosmic_percent",
+     "note": "12:00〜23:59"
+    },
+    {
+     "label": "後半公演 BEST ALBUM『唇を追え！』封入先行",
+     "start": "2027-01-21",
+     "end": "2027-01-29",
+     "url": "https://www.aimyong.net/feature/cosmic_percent",
+     "note": "12:00〜23:59。CDのシリアルコードが必要"
+    }
+   ]
   },
   {
    "artist": "Novelbright",
@@ -8086,7 +8591,23 @@
    "kind": "ワンマン",
    "venue": "広島グリーンアリーナ（広島）",
    "source_url": "https://realsound.jp/2026/07/post-2462631.html",
-   "confidence": "high"
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "後半公演 AIM会員最速先行",
+     "start": "2027-01-08",
+     "end": "2027-01-18",
+     "url": "https://www.aimyong.net/feature/cosmic_percent",
+     "note": "12:00〜23:59"
+    },
+    {
+     "label": "後半公演 BEST ALBUM『唇を追え！』封入先行",
+     "start": "2027-01-21",
+     "end": "2027-01-29",
+     "url": "https://www.aimyong.net/feature/cosmic_percent",
+     "note": "12:00〜23:59。CDのシリアルコードが必要"
+    }
+   ]
   },
   {
    "artist": "[Alexandros]",
@@ -8140,7 +8661,23 @@
    "venue": "マリンメッセ福岡A館（福岡）",
    "sale_info": "7/3・4の2日間。全国14都市36公演。先行はベストアルバム封入カードのQRから",
    "source_url": "https://realsound.jp/2026/07/post-2462631.html",
-   "confidence": "high"
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "後半公演 AIM会員最速先行",
+     "start": "2027-01-08",
+     "end": "2027-01-18",
+     "url": "https://www.aimyong.net/feature/cosmic_percent",
+     "note": "12:00〜23:59"
+    },
+    {
+     "label": "後半公演 BEST ALBUM『唇を追え！』封入先行",
+     "start": "2027-01-21",
+     "end": "2027-01-29",
+     "url": "https://www.aimyong.net/feature/cosmic_percent",
+     "note": "12:00〜23:59。CDのシリアルコードが必要"
+    }
+   ]
   },
   {
    "artist": "10-FEET",
@@ -8167,7 +8704,23 @@
    "kind": "ワンマン",
    "venue": "マリンメッセ福岡A館（福岡）",
    "source_url": "https://realsound.jp/2026/07/post-2462631.html",
-   "confidence": "high"
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "後半公演 AIM会員最速先行",
+     "start": "2027-01-08",
+     "end": "2027-01-18",
+     "url": "https://www.aimyong.net/feature/cosmic_percent",
+     "note": "12:00〜23:59"
+    },
+    {
+     "label": "後半公演 BEST ALBUM『唇を追え！』封入先行",
+     "start": "2027-01-21",
+     "end": "2027-01-29",
+     "url": "https://www.aimyong.net/feature/cosmic_percent",
+     "note": "12:00〜23:59。CDのシリアルコードが必要"
+    }
+   ]
   },
   {
    "artist": "[Alexandros]",
@@ -8218,7 +8771,23 @@
    "venue": "沖縄サントリーアリーナ（沖縄）",
    "sale_info": "7/10・11の2日間。全国14都市36公演。先行はベストアルバム封入カードのQRから",
    "source_url": "https://realsound.jp/2026/07/post-2462631.html",
-   "confidence": "high"
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "後半公演 AIM会員最速先行",
+     "start": "2027-01-08",
+     "end": "2027-01-18",
+     "url": "https://www.aimyong.net/feature/cosmic_percent",
+     "note": "12:00〜23:59"
+    },
+    {
+     "label": "後半公演 BEST ALBUM『唇を追え！』封入先行",
+     "start": "2027-01-21",
+     "end": "2027-01-29",
+     "url": "https://www.aimyong.net/feature/cosmic_percent",
+     "note": "12:00〜23:59。CDのシリアルコードが必要"
+    }
+   ]
   },
   {
    "artist": "10-FEET",
@@ -8255,7 +8824,23 @@
    "kind": "ワンマン",
    "venue": "沖縄サントリーアリーナ（沖縄）",
    "source_url": "https://realsound.jp/2026/07/post-2462631.html",
-   "confidence": "high"
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "後半公演 AIM会員最速先行",
+     "start": "2027-01-08",
+     "end": "2027-01-18",
+     "url": "https://www.aimyong.net/feature/cosmic_percent",
+     "note": "12:00〜23:59"
+    },
+    {
+     "label": "後半公演 BEST ALBUM『唇を追え！』封入先行",
+     "start": "2027-01-21",
+     "end": "2027-01-29",
+     "url": "https://www.aimyong.net/feature/cosmic_percent",
+     "note": "12:00〜23:59。CDのシリアルコードが必要"
+    }
+   ]
   },
   {
    "artist": "[Alexandros]",
@@ -8956,18 +9541,22 @@
     "かりゆし58",
     "竹原ピストル",
     "Dragon Ash",
-    "BRAHMAN",
     "Rasen Okinawa",
     "WANIMA",
     "HoRookies",
+    "道ジュネー｜園田青年会",
+    "琉球舞踊家・赤嶺姉妹",
+    "MASA MAGIC",
     "ウルフルズ",
     "黒夢",
     "サンボマスター",
     "渋谷すばる",
+    "大工哲弘+島袋優 presents 〜Yaeyama moon〜",
     "HANA",
     "MAN WITH A MISSION",
     "The Ravens",
-    "ふみの"
+    "ふみの",
+    "道ジュネー｜栄口青年会"
    ],
    "ticket_name": "イープラス",
    "ticket_url": "https://www800.asia/2026/ticket/",
@@ -8980,7 +9569,7 @@
      "note": "終了"
     }
    ],
-   "lineup_checked": "2026-11-01",
+   "lineup_checked": "2026-11-04",
    "venue": "宜野湾港マリーナ トロピカルビーチ特設会場",
    "official_url": "https://www800.asia/2026/",
    "lineup_days": {
@@ -8992,10 +9581,12 @@
      "かりゆし58",
      "竹原ピストル",
      "Dragon Ash",
-     "BRAHMAN",
      "Rasen Okinawa",
      "WANIMA",
-     "HoRookies"
+     "HoRookies",
+     "道ジュネー｜園田青年会",
+     "琉球舞踊家・赤嶺姉妹",
+     "MASA MAGIC"
     ],
     "2026-11-08": [
      "MONGOL800",
@@ -9003,10 +9594,13 @@
      "黒夢",
      "サンボマスター",
      "渋谷すばる",
+     "大工哲弘+島袋優 presents 〜Yaeyama moon〜",
      "HANA",
      "MAN WITH A MISSION",
      "The Ravens",
-     "ふみの"
+     "ふみの",
+     "道ジュネー｜栄口青年会",
+     "MASA MAGIC"
     ]
    },
    "note": "BRAHMANは出演キャンセル（Dragon Ashが交代と報道）。公式出演者ページの更新待ち",
@@ -9068,7 +9662,7 @@
     "9991",
     "ai"
    ],
-   "lineup_checked": "2026-11-02",
+   "lineup_checked": "2026-11-04",
    "lineup_days": {
     "2026-11-07": [
      "DONT TURN AWAY",
@@ -9178,7 +9772,6 @@
     "PALM",
     "PAN",
     "RUDE BONES",
-    "JAGGER THE SKIPPERS",
     "STEP LIGHTLY",
     "SPREAD",
     "STAB 4 REASON",
@@ -9200,7 +9793,10 @@
     "ガガガSP",
     "クリトリック・リス",
     "サンキュー",
-    "よさこいマン"
+    "よさこいマン",
+    "JAGGER THE SKIPPERS",
+    "YOSHIYAxxx(RADIOTS,ØUROBROS)",
+    "TOM SAIKI (STOMPIN' BIRD)"
    ],
    "ticket_name": "イープラス",
    "ticket_url": "https://eplus.jp/sf/detail/3969250001",
@@ -9220,7 +9816,7 @@
      "note": "開始10:00・締切23:59"
     }
    ],
-   "lineup_checked": "2026-11-02",
+   "lineup_checked": "2026-11-04",
    "lineup_days": {
     "2026-11-07": [
      "RAZORS EDGE",
@@ -9259,7 +9855,6 @@
      "PALM",
      "PAN",
      "RUDE BONES",
-     "JAGGER THE SKIPPERS",
      "STEP LIGHTLY",
      "SPREAD",
      "STAB 4 REASON",
@@ -9281,7 +9876,10 @@
      "ガガガSP",
      "クリトリック・リス",
      "サンキュー",
-     "よさこいマン"
+     "よさこいマン",
+     "JAGGER THE SKIPPERS",
+     "YOSHIYAxxx(RADIOTS,ØUROBROS)",
+     "TOM SAIKI (STOMPIN' BIRD)"
     ]
    },
    "venue": "心斎橋BIGCAT ほか7会場"
@@ -9479,7 +10077,7 @@
    "pref": "大阪",
    "status": "lineup",
    "source_url": "https://www.ragnet.co.jp/rock-festival",
-   "lineup_checked": "2026-10-31",
+   "lineup_checked": "2026-11-04",
    "lineup": [
     "愛はズボーン",
     "アイアムアイ",
@@ -9495,7 +10093,25 @@
     "フリージアン",
     "mogari",
     "夜の本気ダンス",
-    "Alaska Jam"
+    "Alaska Jam",
+    "きのホ。",
+    "THE KING OF ROOKIE",
+    "KING BROTHERS",
+    "クリトリック・リス",
+    "grating hunny",
+    "ここで生きてるず",
+    "Giallo",
+    "ザ・シスターズハイ",
+    "DENIMS",
+    "ドラマチックアラスカ",
+    "ナードマグネット",
+    "Nikoん",
+    "H.U.G",
+    "ザ・ヒーローズ",
+    "僕たちはどう生きるか(おしっこ)",
+    "まなつ",
+    "Mikity(PISTOL)",
+    "muk"
    ],
    "official_url": "https://iwzbn.com/",
    "sales": [
@@ -9505,7 +10121,44 @@
      "url": "https://eplus.jp/sf/word/0000159089",
      "note": "締切は記載なし"
     }
-   ]
+   ],
+   "lineup_days": {
+    "2026-11-14": [
+     "愛はズボーン",
+     "アイアムアイ",
+     "アフターアワーズ",
+     "アフターソウル",
+     "炙りなタウン",
+     "Alaska Jam",
+     "きのホ。",
+     "THE KING OF ROOKIE",
+     "KING BROTHERS",
+     "クリトリック・リス",
+     "grating hunny",
+     "ここで生きてるず",
+     "さらば帝国",
+     "Giallo",
+     "ザ・シスターズハイ",
+     "空きっ腹に酒",
+     "DENIMS",
+     "ドラマチックアラスカ",
+     "ナードマグネット",
+     "Nikoん",
+     "ザ ニンクス",
+     "H.U.G",
+     "ハダカエフダ",
+     "ザ・ヒーローズ",
+     "ビレッジマンズストア",
+     "FATE BOX",
+     "フリージアン",
+     "僕たちはどう生きるか(おしっこ)",
+     "まなつ",
+     "Mikity(PISTOL)",
+     "muk",
+     "mogari",
+     "夜の本気ダンス"
+    ]
+   }
   },
   {
    "name": "宇土ROCKフェスティバル",
@@ -9593,7 +10246,7 @@
      "note": "10:00〜 イープラス ※9/11完売"
     }
    ],
-   "lineup_checked": "2026-11-02",
+   "lineup_checked": "2026-11-04",
    "lineup_days": {
     "2026-11-21": [
      "ハルカミライ",
@@ -9610,7 +10263,7 @@
    "pref": "東京",
    "status": "lineup",
    "source_url": "https://www.ragnet.co.jp/rock-festival",
-   "lineup_checked": "2026-11-01",
+   "lineup_checked": "2026-11-04",
    "lineup": [
     "ADAM at",
     "AIR SWELL",
@@ -9630,9 +10283,169 @@
     "AS I AM",
     "魔訶不思議変革者 -デスデス-",
     "トラケミスト",
-    "RED-i"
+    "RED-i",
+    "ACEQUAD",
+    "AKARA",
+    "ALL iN FAZE",
+    "ASH FRAST",
+    "AYUKA",
+    "Aftertalk",
+    "BACKDAV",
+    "BRIDEAR",
+    "BabyFaith",
+    "Bad Childhood Habits",
+    "BlooMoon",
+    "Clone of Vengeance",
+    "Comme des familia",
+    "Crows of Scenery",
+    "DIVE TO THE 2ND",
+    "DON VOLG",
+    "Davis Bark",
+    "Disconnect Cendrillon",
+    "Finally",
+    "GANGDEMIC",
+    "HEART RATE QUEEN",
+    "HIBIKI",
+    "JAWEYE",
+    "KINJI",
+    "KIRA:MINA",
+    "LADYBABY",
+    "AIBECK",
+    "LOT SPiRiTS",
+    "MAGMAZ",
+    "MANATY",
+    "MOMN",
+    "N.R.R",
+    "Native Broadcast",
+    "OFELIA",
+    "Qtwins",
+    "Reptile",
+    "S-project",
+    "SILHOUETTE FROM THE SKYLIT",
+    "SINRI",
+    "SOMOSOMO",
+    "STRAWDAY",
+    "THE WASTED",
+    "THIS VERY DAY",
+    "VII DAYS REASON",
+    "Vertical Climb Roll",
+    "WONT",
+    "Wolf in Car",
+    "aemira",
+    "anclet.",
+    "cig out",
+    "クレフィー",
+    "シュレーディンガーの犬",
+    "レッスントゥミー",
+    "仮面女子",
+    "安城夢那",
+    "尖club",
+    "微熱ノアト",
+    "零9世代",
+    "Alpha999",
+    "Are Square",
+    "CHAQLA.",
+    "DOPERS",
+    "FALLING ASLEEP",
+    "Lost Back'Point",
+    "MIGHTY HOPE",
+    "SLAYCELL",
+    "Tyrkouaz",
+    "パピプペポは難しい",
+    "太田家"
    ],
-   "note": "第2弾で66組追加（一部のみ反映。全員は gekirock の記事参照）"
+   "note": "第2弾で66組追加（一部のみ反映。全員は gekirock の記事参照）",
+   "lineup_days": {
+    "2026-11-21": [
+     "ADAM at",
+     "AIR SWELL",
+     "AIRFLIP",
+     "BRADIO",
+     "CROWN HEAD",
+     "FABLED NUMBER",
+     "KNOCK OUT MONKEY",
+     "LUMiRiSE",
+     "マザリ",
+     "魔法少女になり隊",
+     "011",
+     "ACEQUAD",
+     "AKARA",
+     "ALL iN FAZE",
+     "AS I AM",
+     "ASH FRAST",
+     "AYUKA",
+     "Aftertalk",
+     "BACKDAV",
+     "BRIDEAR",
+     "BabyFaith",
+     "Bad Childhood Habits",
+     "BlooMoon",
+     "Clone of Vengeance",
+     "Comme des familia",
+     "Crows of Scenery",
+     "DIVE TO THE 2ND",
+     "DON VOLG",
+     "Davis Bark",
+     "Disconnect Cendrillon",
+     "Finally",
+     "GANGDEMIC",
+     "HEART RATE QUEEN",
+     "HIBIKI",
+     "JAWEYE",
+     "KINJI",
+     "KIRA:MINA",
+     "LADYBABY",
+     "AIBECK",
+     "LOT SPiRiTS",
+     "MAGMAZ",
+     "MANATY",
+     "MOMN",
+     "N.R.R",
+     "Native Broadcast",
+     "OFELIA",
+     "Qtwins",
+     "RED-i",
+     "Reptile",
+     "S-project",
+     "SILHOUETTE FROM THE SKYLIT",
+     "SINRI",
+     "SOMOSOMO",
+     "STRAWDAY",
+     "THE WASTED",
+     "THIS VERY DAY",
+     "VII DAYS REASON",
+     "Vertical Climb Roll",
+     "WONT",
+     "Wolf in Car",
+     "aemira",
+     "anclet.",
+     "cig out",
+     "クレフィー",
+     "シュレーディンガーの犬",
+     "ゼゼ",
+     "トラケミスト",
+     "レッスントゥミー",
+     "久遠",
+     "仮面女子",
+     "安城夢那",
+     "尖club",
+     "微熱ノアト",
+     "田中聖a.k.a.JOKER",
+     "零9世代",
+     "魔訶不思議変革者-デスデス-",
+     "Alpha999",
+     "Are Square",
+     "CHAQLA.",
+     "DOPERS",
+     "FALLING ASLEEP",
+     "Lost Back'Point",
+     "MIGHTY HOPE",
+     "SLAYCELL",
+     "Tyrkouaz",
+     "パピプペポは難しい",
+     "太田家"
+    ]
+   }
   },
   {
    "name": "サブライムロックふぇふてぃばる",
@@ -9718,7 +10531,7 @@
      "note": "開始10:00・締切23:59・全席種完売"
     }
    ],
-   "lineup_checked": "2026-11-02",
+   "lineup_checked": "2026-11-04",
    "lineup_days": {
     "2026-11-22": [
      "Omoinotake",
@@ -9760,7 +10573,7 @@
      "note": "20:00〜 締切は未確認"
     }
    ],
-   "lineup_checked": "2026-11-02",
+   "lineup_checked": "2026-11-04",
    "lineup_days": {
     "2026-11-22": [
      "Maki",
@@ -9936,7 +10749,7 @@
      "note": "開始18:00・締切23:59・各日SOLD OUT表示"
     }
    ],
-   "lineup_checked": "2026-11-02",
+   "lineup_checked": "2026-11-04",
    "image": "https://rock-anthem.jp/wp-content/uploads/2026/02/ff.jpg",
    "lineup_days": {
     "2026-11-27": [
@@ -10002,11 +10815,11 @@
      "OCHA NORMA",
      "CANDY TUNE",
      "きゅるりんってしてみて",
+     "超ときめき♡宣伝部",
      "日向坂46",
      "MORE STAR",
-     "Rain Tree",
-     "超ときめき♡宣伝部",
-     "モーニング娘。'26"
+     "モーニング娘。'26",
+     "Rain Tree"
     ],
     "2026-11-29": [
      "iLiFE!",
@@ -10020,7 +10833,7 @@
      "わーすた"
     ]
    },
-   "lineup_checked": "2026-11-01",
+   "lineup_checked": "2026-11-04",
    "image": "https://gift-idol.jp/ogp.jpg"
   },
   {
@@ -10623,7 +11436,7 @@
     "the Po",
     "Rol3ert"
    ],
-   "lineup_checked": "2026-10-31",
+   "lineup_checked": "2026-11-04",
    "source_url": "https://www.ragnet.co.jp/music-festival-winter",
    "official_url": "https://www.j-wave.co.jp/special/inspiretokyo/",
    "lineup_days": {
@@ -10645,9 +11458,9 @@
      "スーパー登山部"
     ],
     "2026-12-06": [
-     "天々高々",
+     "Rol3ert",
      "the Po",
-     "Rol3ert"
+     "天々高々"
     ]
    },
    "image": "https://www.j-wave.co.jp/special/inspiretokyo/img/it2026w_ogp.webp"
@@ -10679,7 +11492,7 @@
     "THE ORAL CIGARETTES",
     "KUZIRA"
    ],
-   "lineup_checked": "2026-10-23",
+   "lineup_checked": "2026-11-04",
    "lineup_days": {
     "2026-12-05": [
      "SHANK",
@@ -10699,9 +11512,9 @@
      "Age Factory",
      "dustbox",
      "HEY-SMITH",
+     "KUZIRA",
      "SHADOWS",
-     "THE ORAL CIGARETTES",
-     "KUZIRA"
+     "THE ORAL CIGARETTES"
     ]
    },
    "sales": [
@@ -11445,32 +12258,63 @@
    "venue": "MUFGスタジアム",
    "status": "lineup",
    "lineup": [
-    "MISAMO",
+    "aespa",
     "ATEEZ",
-    "Stray Kids",
-    "IVE",
-    "RIIZE",
-    "Hearts2Hearts",
     "ALPHA DRIVE ONE",
+    "Hearts2Hearts",
+    "INI",
+    "KickFlip",
+    "MISAMO",
+    "NAYEON (TWICE)",
+    "NCT WISH",
+    "NiziU",
+    "RIIZE",
+    "TWS",
+    "AEN",
+    "BOYNEXTDOOR",
+    "CORTIS",
     "ITZY",
+    "IVE",
     "LE SSERAFIM",
+    "NEXZ",
+    "RESCENE",
+    "Stray Kids",
     "&TEAM",
-    "RESCENE"
+    "TUIDE",
+    "xikers",
+    "ZEROBASEONE"
    ],
-   "lineup_checked": "2026-11-01",
+   "lineup_checked": "2026-11-04",
    "source_url": "https://www.ragnet.co.jp/music-festival-winter",
    "lineup_days": {
     "2026-12-12": [
+     "aespa",
      "ATEEZ",
-     "RIIZE",
+     "ALPHA DRIVE ONE",
      "Hearts2Hearts",
-     "ALPHA DRIVE ONE"
+     "INI",
+     "KickFlip",
+     "MISAMO",
+     "NAYEON (TWICE)",
+     "NCT WISH",
+     "NiziU",
+     "RIIZE",
+     "TWS"
     ],
     "2026-12-13": [
+     "AEN",
+     "BOYNEXTDOOR",
+     "CORTIS",
      "ITZY",
+     "IVE",
      "LE SSERAFIM",
+     "NEXZ",
+     "RESCENE",
+     "Stray Kids",
      "&TEAM",
-     "RESCENE"
+     "TUIDE",
+     "xikers",
+     "ZEROBASEONE"
     ]
    },
    "sales": [
@@ -12488,22 +13332,22 @@
    "pref": "愛知",
    "status": "lineup",
    "source_url": "https://www.ragnet.co.jp/rock-festival",
-   "lineup_checked": "2026-11-01",
+   "lineup_checked": "2026-11-04",
    "official_url": "https://www.ctv.co.jp/rockwave2026/",
    "lineup": [
-    "INGRY'S",
+    "INGRY'S(前島正義・永島浩之)",
     "AURA",
     "KUSU KUSU",
     "永井真理子",
-    "MAGUMI",
+    "MAGUMI(LÄ-PPISCH)",
     "松岡英明",
     "ラフィンノーズ",
+    "青木さやか(ファン代表)",
     "嘉門タツオ",
     "ダイアモンド☆ユカイ(RED WARRIORS)",
     "田村直美",
     "爆風スランプ",
-    "モダンチョキチョキズ",
-    "青木さやか"
+    "モダンチョキチョキズ"
    ],
    "ticket_name": "チケットぴあ",
    "ticket_url": "https://w.pia.jp/t/gojisat-rockwave2026/",
@@ -12532,24 +13376,24 @@
    "image": "https://www.ctv.co.jp/rockwave2026/assets/img/ogp-20261008.png",
    "lineup_days": {
     "2026-12-29": [
-     "INGRY'S",
+     "INGRY'S(前島正義・永島浩之)",
      "AURA",
      "KUSU KUSU",
      "永井真理子",
      "MAGUMI(LÄ-PPISCH)",
      "松岡英明",
      "ラフィンノーズ",
-     "青木さやか"
+     "青木さやか(ファン代表)"
     ],
     "2026-12-30": [
-     "INGRY'S",
+     "INGRY'S(前島正義・永島浩之)",
      "嘉門タツオ",
      "ダイアモンド☆ユカイ(RED WARRIORS)",
      "田村直美",
      "爆風スランプ",
      "松岡英明",
      "モダンチョキチョキズ",
-     "青木さやか"
+     "青木さやか(ファン代表)"
     ]
    }
   },
@@ -13108,9 +13952,13 @@
    "start": "2027-02-11",
    "end": "2027-02-11",
    "pref": "千葉",
-   "status": "unknown",
+   "status": "lineup",
    "source_url": "https://www.ragnet.co.jp/rock-festival",
-   "lineup_checked": "2026-10-19"
+   "lineup_checked": "2026-11-04",
+   "lineup": [
+    "a flood of circle",
+    "バックドロップシンデレラ"
+   ]
   },
   {
    "name": "TOKYO SPACESHIP",
@@ -13531,14 +14379,30 @@
    "status": "lineup",
    "note": "第1弾発表：ROTTENGRAFFTYほか",
    "source_url": "https://news.livedoor.com/article/detail/31333276/",
-   "lineup_checked": "2026-10-19",
+   "lineup_checked": "2026-11-04",
    "lineup": [
     "JUN SKY WALKER(S)",
     "純烈",
     "ハルカミライ",
     "ROTTENGRAFFTY",
-    "四星球"
-   ]
+    "四星球",
+    "go!go!vanillas",
+    "FOMARE"
+   ],
+   "lineup_days": {
+    "2027-05-22": [
+     "JUN SKY WALKER(S)",
+     "ROTTENGRAFFTY",
+     "四星球",
+     "go!go!vanillas",
+     "ハルカミライ"
+    ],
+    "2027-05-23": [
+     "JUN SKY WALKER(S)",
+     "純烈",
+     "FOMARE"
+    ]
+   }
   },
   {
    "name": "GREENROOM FESTIVAL（横浜）",
@@ -13709,6 +14573,34 @@
    "source_url": "https://natalie.mu/music/news/695216",
    "status": "lineup",
    "lineup_checked": "2026-11-03"
+  },
+  {
+   "name": "Brewin' Groove Festival",
+   "start": "2027-04-04",
+   "end": "2027-04-04",
+   "pref": "東京都",
+   "venue": "立川ステージガーデン",
+   "official_url": "https://brewingroove.com",
+   "status": "lineup",
+   "lineup": [
+    "奇妙礼太郎BAND",
+    "Penthouse",
+    "luv",
+    "天々高々",
+    "リュックと添い寝ごはん"
+   ],
+   "lineup_checked": "2026-11-04",
+   "source_url": "https://realsound.jp/2026/10/post-2562535.html",
+   "image": "https://brewingroove.com/assets/images/common/ogp_20261023.jpg"
+  },
+  {
+   "name": "カノフェス2027（サンドウィッチマン×狩野英孝×MUSIC）",
+   "start": "2027-02-20",
+   "end": "2027-02-21",
+   "pref": "宮城県",
+   "venue": "ゼビオアリーナ仙台",
+   "status": "unknown",
+   "source_url": "https://natalie.mu/music/news/695124"
   }
  ],
  "artist_links": {
@@ -13884,7 +14776,9 @@
    "official": "https://www.unison-s-g.com/",
    "image": "https://unison-s-g.com/usg_ogp.gif",
    "schedule": "https://www.unison-s-g.com/live/",
-   "news": "(公式NEWSはJS描画で取得不可。natalie等で確認)"
+   "news": "(公式NEWSはJS描画で取得不可。natalie等で確認)",
+   "eplus": "https://eplus.jp/sf/word/0000016186",
+   "pia": "https://t.pia.jp/pia/artist/artists.do?artistsCd=56220073"
   },
   "斎藤宏介": {
    "eplus": "https://eplus.jp/sf/word/0000062761"
@@ -14152,18 +15046,18 @@
  "artist_status": {
   "Hi-STANDARD": {
    "state": "ok",
-   "checked": "2026-11-02T20:45:00+09:00",
-   "news_checked": "2026-11-02T20:45:00+09:00"
+   "checked": "2026-11-04T20:17:00+09:00",
+   "news_checked": "2026-11-04T20:17:00+09:00"
   },
   "Mrs. GREEN APPLE": {
    "state": "ok",
-   "checked": "2026-11-02T20:45:00+09:00",
-   "news_checked": "2026-11-02T20:45:00+09:00"
+   "checked": "2026-11-04T20:17:00+09:00",
+   "news_checked": "2026-11-04T20:17:00+09:00"
   },
   "back number": {
    "state": "ok",
-   "checked": "2026-11-02T20:45:00+09:00",
-   "news_checked": "2026-11-02T20:45:00+09:00"
+   "checked": "2026-11-04T20:17:00+09:00",
+   "news_checked": "2026-11-04T20:17:00+09:00"
   },
   "04 Limited Sazabys": {
    "state": "ok",
@@ -14172,9 +15066,9 @@
   },
   "ELLEGARDEN": {
    "state": "ok",
-   "checked": "2026-11-04T07:30:00+09:00",
+   "checked": "2026-11-04T20:17:00+09:00",
    "note": "10/23名古屋は延期（振替日程は調整中・未発表）",
-   "news_checked": "2026-11-02T07:40:00+09:00"
+   "news_checked": "2026-11-04T20:17:00+09:00"
   },
   "ヤバイTシャツ屋さん": {
    "state": "ok",
@@ -14183,18 +15077,18 @@
   },
   "ORAL CIGARETTES": {
    "state": "ok",
-   "checked": "2026-11-02T20:45:00+09:00",
-   "news_checked": "2026-11-02T20:45:00+09:00"
+   "checked": "2026-11-04T20:17:00+09:00",
+   "news_checked": "2026-11-04T20:17:00+09:00"
   },
   "HEY-SMITH": {
    "state": "ok",
-   "checked": "2026-11-04T07:30:00+09:00",
-   "news_checked": "2026-11-02T07:40:00+09:00"
+   "checked": "2026-11-04T20:17:00+09:00",
+   "news_checked": "2026-11-04T20:17:00+09:00"
   },
   "マキシマム ザ ホルモン": {
    "state": "ok",
-   "checked": "2026-11-04T07:30:00+09:00",
-   "news_checked": "2026-11-02T07:40:00+09:00"
+   "checked": "2026-11-04T20:17:00+09:00",
+   "news_checked": "2026-11-04T20:17:00+09:00"
   },
   "サンボマスター": {
    "state": "ok",
@@ -14203,8 +15097,8 @@
   },
   "あいみょん": {
    "state": "ok",
-   "checked": "2026-11-02T20:45:00+09:00",
-   "news_checked": "2026-11-02T20:45:00+09:00"
+   "checked": "2026-11-04T20:17:00+09:00",
+   "news_checked": "2026-11-04T20:17:00+09:00"
   },
   "10-FEET": {
    "state": "ok",
@@ -14233,28 +15127,28 @@
   },
   "RADWIMPS": {
    "state": "ok",
-   "checked": "2026-11-02T20:45:00+09:00",
-   "news_checked": "2026-11-02T20:45:00+09:00"
+   "checked": "2026-11-04T20:17:00+09:00",
+   "news_checked": "2026-11-04T20:17:00+09:00"
   },
   "a flood of circle": {
    "state": "ok",
-   "checked": "2026-11-02T20:45:00+09:00",
-   "news_checked": "2026-11-02T20:45:00+09:00"
+   "checked": "2026-11-04T20:17:00+09:00",
+   "news_checked": "2026-11-04T20:17:00+09:00"
   },
   "THE KEBABS": {
    "state": "ok",
-   "checked": "2026-11-02T20:45:00+09:00",
-   "news_checked": "2026-11-02T20:45:00+09:00"
+   "checked": "2026-11-04T20:17:00+09:00",
+   "news_checked": "2026-11-04T20:17:00+09:00"
   },
   "coldrain": {
    "state": "ok",
-   "checked": "2026-11-04T07:30:00+09:00",
-   "news_checked": "2026-11-02T07:40:00+09:00"
+   "checked": "2026-11-04T20:17:00+09:00",
+   "news_checked": "2026-11-04T20:17:00+09:00"
   },
   "TenTwenty": {
    "state": "ok",
-   "checked": "2026-11-02T20:45:00+09:00",
-   "news_checked": "2026-11-02T20:45:00+09:00"
+   "checked": "2026-11-04T20:17:00+09:00",
+   "news_checked": "2026-11-04T20:17:00+09:00"
   },
   "Wienners": {
    "state": "ok",
@@ -14268,9 +15162,9 @@
   },
   "UNISON SQUARE GARDEN": {
    "state": "no_events",
-   "checked": "2026-11-04T07:30:00+09:00",
+   "checked": "2026-11-04T20:17:00+09:00",
    "note": "2026-04-27に活動休止を発表。最終公演は2026-07-15。再開の発表なし",
-   "news_checked": "2026-11-02T07:40:00+09:00"
+   "news_checked": "2026-11-04T20:17:00+09:00"
   },
   "Fear, and Loathing in Las Vegas": {
    "state": "ok",
