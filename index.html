@@ -122,6 +122,8 @@ ol.sl li{counter-increment:s;font-size:13px;line-height:1.75;word-break:break-wo
 ol.sl li::before{content:counter(s) ".";display:inline-block;width:2em;color:var(--sub);font-size:11.5px}
 ol.sl li.encl{counter-increment:none;color:var(--w);font-size:11px;letter-spacing:.12em;margin-top:6px}
 ol.sl li.encl::before{content:""}
+ol.sl li.intr{counter-increment:none;color:var(--sub);font-size:11.5px;margin:4px 0}
+ol.sl li.intr::before{content:""}
 ol.sl .m{font-size:11.5px}
 details.lu{margin-top:8px;font-size:12.5px}
 details.lu summary{cursor:pointer;color:var(--fg);padding:2px 0;list-style:none}
@@ -328,7 +330,7 @@ function loadCat(){
   return fetch('data/catalog.json?t='+Date.now(),{cache:'no-store'}).then(r=>r.ok?r.json():null).then(j=>{if(j&&j.artists){CAT=j;buildIdx();fillSug();render()}}).catch(()=>{});
 }
 // セトリ（ソノダマンさんの投稿まとめ。月ごとのファイル）
-let SL=[],SLSRC=null;
+let SL=[],SLSRC=null,SLN=60;
 function loadSet(){
   return fetch('data/setlists/index.json?t='+Date.now(),{cache:'no-store'}).then(r=>r.ok?r.json():null).then(ix=>{
     if(!ix||!ix.months)return;
@@ -337,26 +339,31 @@ function loadSet(){
       SL.sort((x,y)=>y.date.localeCompare(x.date)||x.artist.localeCompare(y.artist)||(x.day||'').localeCompare(y.day||''));render()})
   }).catch(()=>{});
 }
-const slFor=(a,d)=>SL.some(e=>e.date===d&&(e.artist===a||(e.name_in_source||'')===a));
+const slFor=(a,d)=>SL.some(e=>e.date<=d&&d<=(e.date_end||e.date)&&(e.artist===a||(e.name_in_source||'')===a));
 function slCard(e,i){
   const F=e.kind==='フェス'?(DB.festivals||[]).find(f=>fesHit(nzT(f.name),nzT(e.event))):null;
   const img=(F&&F.image)||artImg(e.artist),href=(F&&F.official_url)||artSite(e.artist);
-  const enc=e.songs.findIndex(x=>x.e);
-  const li=e.songs.map((x,k)=>(k===enc?'<li class="encl">ENCORE</li>':'')+`<li>${esc(x.t)}${x.w?` <span class="m">w/ ${esc(x.w)}</span>`:''}</li>`).join('');
-  return `<article class="ev" style="animation-delay:${Math.min(i,10)*25}ms">${dateBlock(e.date,'',img,e.kind==='フェス'?e.event:dn(e.artist),href)}
-  <div><div class="tags"><span>${esc(e.kind||'')}</span><span class="who" style="--h:${hue(e.artist)}"><i class="dot"></i>${esc(dn(e.artist))}</span>${e.day?`<span class="pill">${esc(e.day.toUpperCase())}</span>`:''}${e.oshi?'<span class="pill solid">推し</span>':''}</div>
-  <div class="t">${esc(e.event)}</div>${e.venue?`<div class="m">${esc(e.venue)}</div>`:''}
-  <details class="lu"><summary>セットリスト ${e.songs.length}曲</summary><ol class="sl">${li}</ol>${e.rehearsal&&e.rehearsal.length?`<div class="m" style="margin-top:6px">リハ：${esc(e.rehearsal.join('、'))}</div>`:''}${e.note?`<div class="m" style="margin-top:6px">※ ${esc(e.note)}</div>`:''}</details></div></article>`}
+  let pe=0;
+  const li=e.songs.map(x=>{if(x.i)return `<li class="intr">${esc(x.i)}</li>`;
+    const c=x.e||0,hd=c!==pe?`<li class="encl">ENCORE${c>1?' '+c:''}</li>`:'';pe=c;
+    return hd+`<li>${esc(x.t)}${x.w?` <span class="m">w/ ${esc(x.w)}</span>`:''}</li>`}).join('');
+  const nSongs=e.songs.filter(x=>x.t).length;
+  return `<article class="ev" style="animation-delay:${Math.min(i,10)*25}ms">${dateBlock(e.date,e.date_end||'',img,e.kind==='フェス'?(e.event||dn(e.artist)):dn(e.artist),href)}
+  <div><div class="tags"><span>${esc(e.kind||'')}</span><span class="who" style="--h:${hue(e.artist)}"><i class="dot"></i>${esc(dn(e.artist))}</span>${e.day?`<span class="pill">${esc(e.day.toUpperCase())}</span>`:''}${e.part?`<span class="pill">${esc(e.part)}</span>`:''}${e.oshi?'<span class="pill solid">推し</span>':''}</div>
+  <div class="t">${esc(e.event||e.venue||'ライブ')}</div>${e.event&&e.venue?`<div class="m">${esc(e.venue)}</div>`:''}
+  <details class="lu"><summary>セットリスト ${nSongs}曲</summary><ol class="sl">${li}</ol>${e.rehearsal&&e.rehearsal.length?`<div class="m" style="margin-top:6px">リハ：${esc(e.rehearsal.join('、'))}</div>`:''}${e.note?`<div class="m" style="margin-top:6px">※ ${esc(e.note)}</div>`:''}</details></div></article>`}
 function renderSet(){
   const q=$('#q').value.trim().toLowerCase();
-  const L=SL.filter(e=>(!sel.size||sel.has(e.artist))&&(!q||(e.artist+' '+(e.name_in_source||'')+' '+dn(e.artist)+' '+e.event+' '+(e.venue||'')+' '+e.songs.map(x=>x.t).join(' ')).toLowerCase().includes(q)));
+  const L=SL.filter(e=>(!sel.size||sel.has(e.artist))&&(!q||(e.artist+' '+(e.name_in_source||'')+' '+dn(e.artist)+' '+e.event+' '+(e.tag_src||'')+' '+(e.venue||'')+' '+e.songs.map(x=>x.t||'').join(' ')).toLowerCase().includes(q)));
   let h='',cur='',i=0;
-  for(const e of L){const mk=e.date.slice(0,7);if(mk!==cur){cur=mk;h+=monHead(mk)}h+=slCard(e,i++)}
-  const ms=[...new Set(L.map(e=>e.date.slice(0,7)))];
+  const shown=L.slice(0,SLN);
+  for(const e of shown){const mk=e.date.slice(0,7);if(mk!==cur){cur=mk;h+=monHead(mk)}h+=slCard(e,i++)}
+  if(L.length>shown.length)h+=`<div class="links" style="margin:22px 0"><button type="button" class="btn" id="slmore">さらに表示（あと${L.length-shown.length}件）</button></div>`;
+  const ms=[...new Set(shown.map(e=>e.date.slice(0,7)))];
   const mnav=ms.length>1?`<div id="mnav">${ms.map((k,j)=>`<button data-mj="${k}">${+k.slice(5)}月${j===0||k.slice(0,4)!==ms[j-1].slice(0,4)?`<small>${k.slice(2,4)}</small>`:''}</button>`).join('')}</div>`:'';
   const none=!SL.length?'<div class="empty"><div class="bb">LOADING</div><p>セットリストを読み込んでいます…</p></div>'
     :`<div class="empty"><div class="bb">NO RESULT</div><p>${q?`検索「${esc($('#q').value.trim())}」に合うセットリストはありません。`:'選んだ推しのセットリストは、まだありません。'}</p><p><button type="button" class="btn" data-reset="1">検索と推しの絞り込みを解除</button></p></div>`;
-  out.innerHTML=mnav+(L.length?`<div class="count">${L.length}件　新しい順。「セットリスト」をおすと曲順が開きます</div>${h}`:none)
+  out.innerHTML=mnav+(L.length?`<div class="count">${L.length}件　新しい順。「セットリスト」をおすと曲順が開きます${L.length>shown.length?`（いまは新しい${shown.length}件を表示）`:''}</div>${h}`:none)
     +foot(SLSRC?`セットリストは、${esc(SLSRC.name)}をもとに掲載しています。曲順や表記に間違いがあるかもしれません`:'');
 }
 const LATE=24*3600*1000; // 24時間たっても反映されない場合は注意を出す
@@ -579,7 +586,7 @@ function renderHelp(){
   ${st('ALL','推しのライブと、推しが出るフェスをまとめて見る')}
   ${st('LIVE','推しのライブだけ見る。載っていない単独ライブ（ワンマン・ツアーなど）は、「+ ADD」の LIVE から、アーティスト名と日付・公演名を入れて追加できます（1〜3分）')}
   ${st('FES','フェスを全部見る（複数日のフェスは、1日ずつ出ます）。「+ ADD」の FES から、載っていないフェスも追加できます')}
-  ${st('SETLIST','行ったライブ・フェスのセットリストが、新しい順に並びます。「セットリスト」をおすと曲順が開きます。上の推しボタンで絞り込めて、検索欄にバンド名・曲名・イベント名を入れても探せます。MY CAL の過去の記録から、同じ日のセットリストに飛べることもあります。セットリストは、ソノダマンさんの投稿をもとに載せています')}
+  ${st('SETLIST','行ったライブ・フェスのセットリストが、新しい順に並びます。「セットリスト」をおすと曲順が開きます。上の推しボタンで絞り込めて、検索欄にバンド名・曲名・イベント名を入れても探せます。MY CAL の過去の記録から、同じ日のセットリストに飛べることもあります。セットリストは、ソノダマンさんの投稿をもとに、2025年10月ぶんから載せています。複数日のフェスで、どの日か分からないものは「10/25〜26」のように日付がならびます')}
   ${st('MY LIST','申込状況を記録したものだけが集まります。終わった分は「PAST」に残ります')}
   ${st('MY CAL','記録したものが、カレンダーで見られます。「Googleカレンダーに追加」や、まとめて書き出すこともできます。載っていない公演や、昔に行ったライブは「＋ 行ったライブを自分で記録する」から日付と公演名を入れて足せます（消すときは、カードの申込状況を「未記録」に）')}
   <h3 class="bb">GOOD TO KNOW</h3>
@@ -729,6 +736,7 @@ out.addEventListener('click',e=>{
   const sl=e.target.closest('[data-sl]');if(sl){go('set');$('#q').value=sl.dataset.sl;render();return}
   const cd=e.target.closest('[data-cd]');if(cd){CALD=cd.dataset.cd;renderCal();return}
   const cm=e.target.closest('[data-cm]');if(cm){const [y,m]=CALM.split('-').map(Number),n=new Date(Date.UTC(y,m-1+Number(cm.dataset.cm),1));CALM=n.toISOString().slice(0,7);CALD='';renderCal();return}
+  if(e.target.closest('#slmore')){SLN+=80;renderSet();return}
   if(e.target.closest('#icsbtn')){icsAll();return}
   if(e.target.closest('#recopen')){openRec(true);return}
   if(e.target.closest('#bkmake')){$('#bkout').value=bkMake();return}
@@ -741,7 +749,7 @@ out.addEventListener('change',e=>{const s=e.target.closest('select.st');if(!s)re
   const k=s.dataset.k,v=s.value;if(v)MY[k]=v;else delete MY[k];saveMy();if(v)refreshSnap();else{delete SNAP[k];saveSnap()}
   s.className='st'+(v?' has s'+ST.indexOf(v):'');
   render();toast(v?`「${v}」で記録しました（この端末に保存）`:'記録を消しました')});
-function go(t){if(t!==TAB)$('#q').value='';TAB=t;try{localStorage.tab2=t}catch{}render();scrollTo({top:0})} // 検索ワードは、タブを移ったら消す（残ると「該当なし」に見えるため）
+function go(t){SLN=60;if(t!==TAB)$('#q').value='';TAB=t;try{localStorage.tab2=t}catch{}render();scrollTo({top:0})} // 検索ワードは、タブを移ったら消す（残ると「該当なし」に見えるため）
 $('#chips').onclick=e=>{const b=e.target.closest('button');if(!b)return;const d=b.dataset;
   if(d.p!==undefined){const p=pend.find(x=>x.n===d.p);if(p&&(Date.now()-p.t>LATE||isRejected(p.n))&&confirm(`「${p.n}」を一覧から消しますか？（もう一度追加できます）`)){pend=pend.filter(x=>x!==p);savePend();render()}return}
   const ed=e.target.closest('.ed');
