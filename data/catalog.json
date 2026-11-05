@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T20:11:03+09:00",
+ "updated": "2026-11-06T07:07:00+09:00",
  "artists": {
   "Saucy Dog": {
    "aliases": [
@@ -16181,6 +16181,14 @@
      "venue": "LINE CUBE SHIBUYA / 代々木公園イベント広場（東京都）",
      "source_url": "https://www.j-wave.co.jp/special/inspiretokyo/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-11-15",
+     "title": "overhead fes'2026",
+     "kind": "フェス",
+     "venue": "信州スカイパーク アイネットやまびこドーム（長野）",
+     "source_url": "https://overheadfes.com/",
+     "confidence": "high"
     }
    ]
   },
@@ -18861,6 +18869,214 @@
      "kind": "フェス",
      "venue": "BLUE NOTE PLACE（恵比寿ガーデンプレイス）（東京都）",
      "source_url": "https://montreuxjazzfestival.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "サニーデイ・サービス": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-14",
+     "title": "overhead fes'2026",
+     "kind": "フェス",
+     "venue": "信州スカイパーク アイネットやまびこドーム（長野）",
+     "source_url": "https://overheadfes.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ACO": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-14",
+     "title": "overhead fes'2026",
+     "kind": "フェス",
+     "venue": "信州スカイパーク アイネットやまびこドーム（長野）",
+     "source_url": "https://overheadfes.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "奇妙礼太郎": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-14",
+     "title": "overhead fes'2026",
+     "kind": "フェス",
+     "venue": "信州スカイパーク アイネットやまびこドーム（長野）",
+     "source_url": "https://overheadfes.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "石崎ひゅーい": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-14",
+     "title": "overhead fes'2026",
+     "kind": "フェス",
+     "venue": "信州スカイパーク アイネットやまびこドーム（長野）",
+     "source_url": "https://overheadfes.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ETSU & CHIHARU from TRF": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-14",
+     "title": "overhead fes'2026",
+     "kind": "フェス",
+     "venue": "信州スカイパーク アイネットやまびこドーム（長野）",
+     "source_url": "https://overheadfes.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "MOS": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-14",
+     "title": "overhead fes'2026",
+     "kind": "フェス",
+     "venue": "信州スカイパーク アイネットやまびこドーム（長野）",
+     "source_url": "https://overheadfes.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "どぶろっく": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-14",
+     "title": "overhead fes'2026",
+     "kind": "フェス",
+     "venue": "信州スカイパーク アイネットやまびこドーム（長野）",
+     "source_url": "https://overheadfes.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ニッチロー": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-14",
+     "title": "overhead fes'2026",
+     "kind": "フェス",
+     "venue": "信州スカイパーク アイネットやまびこドーム（長野）",
+     "source_url": "https://overheadfes.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "大橋トリオ with 菊池剛 (Bialystocks)": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-15",
+     "title": "overhead fes'2026",
+     "kind": "フェス",
+     "venue": "信州スカイパーク アイネットやまびこドーム（長野）",
+     "source_url": "https://overheadfes.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Salyu": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-15",
+     "title": "overhead fes'2026",
+     "kind": "フェス",
+     "venue": "信州スカイパーク アイネットやまびこドーム（長野）",
+     "source_url": "https://overheadfes.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "アフロ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-15",
+     "title": "overhead fes'2026",
+     "kind": "フェス",
+     "venue": "信州スカイパーク アイネットやまびこドーム（長野）",
+     "source_url": "https://overheadfes.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ヒグチアイ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-15",
+     "title": "overhead fes'2026",
+     "kind": "フェス",
+     "venue": "信州スカイパーク アイネットやまびこドーム（長野）",
+     "source_url": "https://overheadfes.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "早瀬直久": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-15",
+     "title": "overhead fes'2026",
+     "kind": "フェス",
+     "venue": "信州スカイパーク アイネットやまびこドーム（長野）",
+     "source_url": "https://overheadfes.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Pasmal": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-15",
+     "title": "overhead fes'2026",
+     "kind": "フェス",
+     "venue": "信州スカイパーク アイネットやまびこドーム（長野）",
+     "source_url": "https://overheadfes.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Disappear Sound": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-15",
+     "title": "overhead fes'2026",
+     "kind": "フェス",
+     "venue": "信州スカイパーク アイネットやまびこドーム（長野）",
+     "source_url": "https://overheadfes.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "松本山雅FC": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-15",
+     "title": "overhead fes'2026",
+     "kind": "フェス",
+     "venue": "信州スカイパーク アイネットやまびこドーム（長野）",
+     "source_url": "https://overheadfes.com/",
      "confidence": "high"
     }
    ]
