@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T20:17:00+09:00",
+ "updated": "2026-11-05T20:11:03+09:00",
  "artists": {
   "Saucy Dog": {
    "aliases": [
@@ -9,6 +9,14 @@
     {
      "date": "2026-11-06",
      "title": "BUZZ RHYTHM LIVE 2026",
+     "kind": "フェス",
+     "venue": "横浜アリーナ（神奈川県）",
+     "source_url": "https://buzzrhythm.live/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-11-06",
+     "title": "BUZZ RHYTHM LIVE（11/6）",
      "kind": "フェス",
      "venue": "横浜アリーナ（神奈川県）",
      "source_url": "https://buzzrhythm.live/",
@@ -31,11 +39,27 @@
      "confidence": "high"
     },
     {
+     "date": "2026-12-19",
+     "title": "MERRY ROCK PARADE 2026（12/19）",
+     "kind": "フェス",
+     "venue": "ポートメッセなごや（愛知県）",
+     "source_url": "https://www.merryrockparade.jp/artist.html",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-26",
      "title": "RADIO CRAZY",
      "kind": "フェス",
      "venue": "INTEX OSAKA（大阪府）",
      "source_url": "https://en.skream.jp/news/2026/09/fm802_radio_crazy_2026_1st_lineup.php",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "RADIO CRAZY（12/27）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://radiocrazy.fm/",
      "confidence": "high"
     },
     {
@@ -55,27 +79,11 @@
      "confidence": "high"
     },
     {
-     "date": "2026-11-06",
-     "title": "BUZZ RHYTHM LIVE（11/6）",
+     "date": "2027-01-31",
+     "title": "FUKUOKA MUSIC FES.2027 supported by Trunk（1/31）",
      "kind": "フェス",
-     "venue": "横浜アリーナ（神奈川県）",
-     "source_url": "https://buzzrhythm.live/",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-12-19",
-     "title": "MERRY ROCK PARADE 2026（12/19）",
-     "kind": "フェス",
-     "venue": "ポートメッセなごや（愛知県）",
-     "source_url": "https://www.merryrockparade.jp/artist.html",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-12-27",
-     "title": "RADIO CRAZY（12/27）",
-     "kind": "フェス",
-     "venue": "INTEX OSAKA（大阪府）",
-     "source_url": "https://radiocrazy.fm/",
+     "venue": "みずほPayPayドーム福岡（福岡県）",
+     "source_url": "https://fukuokamusic-fes.com/2027/index.html",
      "confidence": "high"
     }
    ]
@@ -92,35 +100,19 @@
      "confidence": "high"
     },
     {
-     "date": "2026-12-13",
-     "title": "結びの夢番地（12/13）",
-     "kind": "フェス",
-     "venue": "ふくやま産業交流館 ビッグ・ローズ（広島）",
-     "source_url": "https://musubinoyumebanchi.jp/",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-12-26",
-     "title": "RADIO CRAZY",
-     "kind": "フェス",
-     "venue": "INTEX OSAKA（大阪府）",
-     "source_url": "https://en.skream.jp/news/2026/09/fm802_radio_crazy_2026_1st_lineup.php",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-12-31",
-     "title": "COUNTDOWN JAPAN 26/27（12/31）",
-     "kind": "フェス",
-     "venue": "幕張メッセ（千葉）",
-     "source_url": "https://festival-life.com/168983",
-     "confidence": "high"
-    },
-    {
      "date": "2026-11-08",
      "title": "BUZZ RHYTHM LIVE（11/8）",
      "kind": "フェス",
      "venue": "横浜アリーナ（神奈川県）",
      "source_url": "https://buzzrhythm.live/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-13",
+     "title": "結びの夢番地（12/13）",
+     "kind": "フェス",
+     "venue": "ふくやま産業交流館 ビッグ・ローズ（広島）",
+     "source_url": "https://musubinoyumebanchi.jp/",
      "confidence": "high"
     },
     {
@@ -132,11 +124,35 @@
      "confidence": "high"
     },
     {
+     "date": "2026-12-26",
+     "title": "RADIO CRAZY",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://en.skream.jp/news/2026/09/fm802_radio_crazy_2026_1st_lineup.php",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-27",
      "title": "RADIO CRAZY（12/27）",
      "kind": "フェス",
      "venue": "INTEX OSAKA（大阪府）",
      "source_url": "https://radiocrazy.fm/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-31",
+     "title": "COUNTDOWN JAPAN 26/27（12/31）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-01-31",
+     "title": "FUKUOKA MUSIC FES.2027 supported by Trunk（1/31）",
+     "kind": "フェス",
+     "venue": "みずほPayPayドーム福岡（福岡県）",
+     "source_url": "https://fukuokamusic-fes.com/2027/index.html",
      "confidence": "high"
     }
    ]
@@ -150,22 +166,6 @@
      "kind": "フェス",
      "venue": "横浜アリーナ（神奈川県）",
      "source_url": "https://buzzrhythm.live/",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-12-12",
-     "title": "結びの夢番地（12/12）",
-     "kind": "フェス",
-     "venue": "ふくやま産業交流館 ビッグ・ローズ（広島）",
-     "source_url": "https://musubinoyumebanchi.jp/",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-12-30",
-     "title": "COUNTDOWN JAPAN 26/27（12/30）",
-     "kind": "フェス",
-     "venue": "幕張メッセ（千葉）",
-     "source_url": "https://festival-life.com/168983",
      "confidence": "high"
     },
     {
@@ -185,6 +185,14 @@
      "confidence": "low"
     },
     {
+     "date": "2026-12-12",
+     "title": "結びの夢番地（12/12）",
+     "kind": "フェス",
+     "venue": "ふくやま産業交流館 ビッグ・ローズ（広島）",
+     "source_url": "https://musubinoyumebanchi.jp/",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-19",
      "title": "MERRY ROCK PARADE 2026（12/19）",
      "kind": "フェス",
@@ -199,6 +207,22 @@
      "venue": "INTEX OSAKA（大阪府）",
      "source_url": "https://radiocrazy.fm/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-30",
+     "title": "COUNTDOWN JAPAN 26/27（12/30）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-01-31",
+     "title": "FUKUOKA MUSIC FES.2027 supported by Trunk（1/31）",
+     "kind": "フェス",
+     "venue": "みずほPayPayドーム福岡（福岡県）",
+     "source_url": "https://fukuokamusic-fes.com/2027/index.html",
+     "confidence": "high"
     }
    ]
   },
@@ -206,11 +230,27 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-12-19",
+     "title": "MERRY ROCK PARADE 2026（12/19）",
+     "kind": "フェス",
+     "venue": "ポートメッセなごや（愛知県）",
+     "source_url": "https://www.merryrockparade.jp/artist.html",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-26",
      "title": "RADIO CRAZY",
      "kind": "フェス",
      "venue": "INTEX OSAKA（大阪府）",
      "source_url": "https://en.skream.jp/news/2026/09/fm802_radio_crazy_2026_1st_lineup.php",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "RADIO CRAZY（12/27）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://radiocrazy.fm/",
      "confidence": "high"
     },
     {
@@ -230,19 +270,11 @@
      "confidence": "high"
     },
     {
-     "date": "2026-12-19",
-     "title": "MERRY ROCK PARADE 2026（12/19）",
+     "date": "2027-01-30",
+     "title": "FUKUOKA MUSIC FES.2027 supported by Trunk（1/30）",
      "kind": "フェス",
-     "venue": "ポートメッセなごや（愛知県）",
-     "source_url": "https://www.merryrockparade.jp/artist.html",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-12-27",
-     "title": "RADIO CRAZY（12/27）",
-     "kind": "フェス",
-     "venue": "INTEX OSAKA（大阪府）",
-     "source_url": "https://radiocrazy.fm/",
+     "venue": "みずほPayPayドーム福岡（福岡県）",
+     "source_url": "https://fukuokamusic-fes.com/2027/index.html",
      "confidence": "high"
     }
    ]
@@ -301,6 +333,14 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-11-27",
+     "title": "GIFT ～Girls Idol Festival Tokyo～",
+     "kind": "フェス",
+     "venue": "SGC Hall Ariake・TOYOTA ARENA TOKYO（東京都）",
+     "source_url": "https://gift-idol.jp/",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-05",
      "title": "HIROSHIMA CONTI-NeW FeS（12/5）",
      "kind": "フェス",
@@ -323,14 +363,6 @@
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
      "confidence": "high"
-    },
-    {
-     "date": "2026-11-27",
-     "title": "GIFT ～Girls Idol Festival Tokyo～",
-     "kind": "フェス",
-     "venue": "SGC Hall Ariake・TOYOTA ARENA TOKYO（東京都）",
-     "source_url": "https://gift-idol.jp/",
-     "confidence": "high"
     }
    ]
   },
@@ -340,6 +372,14 @@
     {
      "date": "2026-11-07",
      "title": "BUZZ RHYTHM LIVE 2026",
+     "kind": "フェス",
+     "venue": "横浜アリーナ（神奈川県）",
+     "source_url": "https://buzzrhythm.live/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-11-07",
+     "title": "BUZZ RHYTHM LIVE（11/7）",
      "kind": "フェス",
      "venue": "横浜アリーナ（神奈川県）",
      "source_url": "https://buzzrhythm.live/",
@@ -359,14 +399,6 @@
      "kind": "フェス",
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-11-07",
-     "title": "BUZZ RHYTHM LIVE（11/7）",
-     "kind": "フェス",
-     "venue": "横浜アリーナ（神奈川県）",
-     "source_url": "https://buzzrhythm.live/",
      "confidence": "high"
     }
    ]
@@ -425,6 +457,14 @@
      "confidence": "high"
     },
     {
+     "date": "2026-12-20",
+     "title": "MERRY ROCK PARADE 2026（12/20）",
+     "kind": "フェス",
+     "venue": "ポートメッセなごや（愛知県）",
+     "source_url": "https://www.merryrockparade.jp/artist.html",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-26",
      "title": "COUNTDOWN JAPAN 26/27（12/26・27・29・30・31のいずれか）",
      "kind": "フェス",
@@ -441,27 +481,19 @@
      "confidence": "high"
     },
     {
-     "date": "2026-12-31",
-     "title": "COUNTDOWN JAPAN 26/27（12/31）",
-     "kind": "フェス",
-     "venue": "幕張メッセ（千葉）",
-     "source_url": "https://festival-life.com/168983",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-12-20",
-     "title": "MERRY ROCK PARADE 2026（12/20）",
-     "kind": "フェス",
-     "venue": "ポートメッセなごや（愛知県）",
-     "source_url": "https://www.merryrockparade.jp/artist.html",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-27",
      "title": "RADIO CRAZY（12/27）",
      "kind": "フェス",
      "venue": "INTEX OSAKA（大阪府）",
      "source_url": "https://radiocrazy.fm/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-31",
+     "title": "COUNTDOWN JAPAN 26/27（12/31）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
      "confidence": "high"
     }
    ]
@@ -533,6 +565,14 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-26",
      "title": "COUNTDOWN JAPAN 26/27（12/26・27・29・30・31のいずれか）",
      "kind": "フェス",
@@ -547,20 +587,20 @@
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
      "confidence": "high"
-    },
-    {
-     "date": "2026-12-05",
-     "title": "下北沢にて（12/5）",
-     "kind": "フェス",
-     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
-     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
-     "confidence": "high"
     }
    ]
   },
   "MAZZEL": {
    "aliases": [],
    "events": [
+    {
+     "date": "2026-11-21",
+     "title": "テレビ朝日ドリームフェスティバル2026（11/21〜11/23のいずれか）",
+     "kind": "フェス",
+     "venue": "Kアリーナ横浜（神奈川県）",
+     "source_url": "https://dreamfestival.jp/",
+     "confidence": "low"
+    },
     {
      "date": "2026-12-26",
      "title": "COUNTDOWN JAPAN 26/27（12/26・27・29・30・31のいずれか）",
@@ -578,12 +618,12 @@
      "confidence": "high"
     },
     {
-     "date": "2026-11-21",
-     "title": "テレビ朝日ドリームフェスティバル2026（11/21〜11/23のいずれか）",
+     "date": "2027-01-30",
+     "title": "FUKUOKA MUSIC FES.2027 supported by Trunk（1/30）",
      "kind": "フェス",
-     "venue": "Kアリーナ横浜（神奈川県）",
-     "source_url": "https://dreamfestival.jp/",
-     "confidence": "low"
+     "venue": "みずほPayPayドーム福岡（福岡県）",
+     "source_url": "https://fukuokamusic-fes.com/2027/index.html",
+     "confidence": "high"
     }
    ]
   },
@@ -622,6 +662,14 @@
      "confidence": "high"
     },
     {
+     "date": "2026-11-07",
+     "title": "AIR JAM（11/7）",
+     "kind": "フェス",
+     "venue": "ZOZOマリンスタジアム（千葉県）",
+     "source_url": "https://airjam.jp/artists",
+     "confidence": "high"
+    },
+    {
      "date": "2026-11-08",
      "title": "MONGOL800 ga FESTIVAL What a Wonderful World!!",
      "kind": "フェス",
@@ -643,14 +691,6 @@
      "kind": "フェス",
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-11-07",
-     "title": "AIR JAM（11/7）",
-     "kind": "フェス",
-     "venue": "ZOZOマリンスタジアム（千葉県）",
-     "source_url": "https://airjam.jp/artists",
      "confidence": "high"
     }
    ]
@@ -688,6 +728,14 @@
      "confidence": "high"
     },
     {
+     "date": "2026-11-07",
+     "title": "AIR JAM（11/7）",
+     "kind": "フェス",
+     "venue": "ZOZOマリンスタジアム（千葉県）",
+     "source_url": "https://airjam.jp/artists",
+     "confidence": "high"
+    },
+    {
      "date": "2026-11-08",
      "title": "氣志團万博",
      "kind": "フェス",
@@ -696,27 +744,11 @@
      "confidence": "high"
     },
     {
-     "date": "2026-12-26",
-     "title": "COUNTDOWN JAPAN 26/27",
+     "date": "2026-12-06",
+     "title": "BLAZE UP NAGASAKI",
      "kind": "フェス",
-     "venue": "幕張メッセ（千葉県）",
-     "source_url": "https://countdownjapan.jp/",
-     "confidence": "high"
-    },
-    {
-     "date": "2027-01-24",
-     "title": "HYPE LIKE IT!",
-     "kind": "フェス",
-     "venue": "幕張メッセ（千葉）",
-     "source_url": "https://xhl-music.com/feature/hypelikeit",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-11-07",
-     "title": "AIR JAM（11/7）",
-     "kind": "フェス",
-     "venue": "ZOZOマリンスタジアム（千葉県）",
-     "source_url": "https://airjam.jp/artists",
+     "venue": "出島メッセ長崎（長崎県）",
+     "source_url": "https://barks.jp/news/1091706/",
      "confidence": "high"
     },
     {
@@ -736,11 +768,35 @@
      "confidence": "high"
     },
     {
+     "date": "2026-12-26",
+     "title": "COUNTDOWN JAPAN 26/27",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-28",
      "title": "RADIO CRAZY（12/28）",
      "kind": "フェス",
      "venue": "INTEX OSAKA（大阪府）",
      "source_url": "https://radiocrazy.fm/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-31",
+     "title": "COUNTDOWN JAPAN 26/27（12/31）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-01-24",
+     "title": "HYPE LIKE IT!",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://xhl-music.com/feature/hypelikeit",
      "confidence": "high"
     },
     {
@@ -752,11 +808,35 @@
      "confidence": "low"
     },
     {
-     "date": "2026-12-06",
-     "title": "BLAZE UP NAGASAKI",
+     "date": "2027-07-03",
+     "title": "京都大作戦2027（7/3）",
      "kind": "フェス",
-     "venue": "出島メッセ長崎（長崎県）",
-     "source_url": "https://barks.jp/news/1091706/",
+     "venue": "京都府立山城総合運動公園 太陽が丘特設野外ステージ（京都府）",
+     "source_url": "https://kyoto-daisakusen.kyoto/27/",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-07-04",
+     "title": "京都大作戦2027（7/4）",
+     "kind": "フェス",
+     "venue": "京都府立山城総合運動公園 太陽が丘特設野外ステージ（京都府）",
+     "source_url": "https://kyoto-daisakusen.kyoto/27/",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-07-10",
+     "title": "京都大作戦2027（7/10）",
+     "kind": "フェス",
+     "venue": "京都府立山城総合運動公園 太陽が丘特設野外ステージ（京都府）",
+     "source_url": "https://kyoto-daisakusen.kyoto/27/",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-07-11",
+     "title": "京都大作戦2027（7/11）",
+     "kind": "フェス",
+     "venue": "京都府立山城総合運動公園 太陽が丘特設野外ステージ（京都府）",
+     "source_url": "https://kyoto-daisakusen.kyoto/27/",
      "confidence": "high"
     }
    ]
@@ -794,22 +874,6 @@
      "confidence": "high"
     },
     {
-     "date": "2026-11-29",
-     "title": "MASTERPIECE（11/29）",
-     "kind": "フェス",
-     "venue": "岐阜市文化センター（岐阜）",
-     "source_url": "http://masterpiece-gifu.com/",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-12-28",
-     "title": "NEW HORIZON FEST",
-     "kind": "フェス",
-     "venue": "TOYOTA ARENA TOKYO（東京）",
-     "source_url": "https://eplus.jp/new-horizon-fest/",
-     "confidence": "high"
-    },
-    {
      "date": "2026-11-07",
      "title": "AIR JAM（11/7）",
      "kind": "フェス",
@@ -818,11 +882,27 @@
      "confidence": "high"
     },
     {
+     "date": "2026-11-29",
+     "title": "MASTERPIECE（11/29）",
+     "kind": "フェス",
+     "venue": "岐阜市文化センター（岐阜）",
+     "source_url": "http://masterpiece-gifu.com/",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-05",
      "title": "BLAZE UP NAGASAKI",
      "kind": "フェス",
      "venue": "出島メッセ長崎（長崎県）",
      "source_url": "https://barks.jp/news/1091706/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-28",
+     "title": "NEW HORIZON FEST",
+     "kind": "フェス",
+     "venue": "TOYOTA ARENA TOKYO（東京）",
+     "source_url": "https://eplus.jp/new-horizon-fest/",
      "confidence": "high"
     }
    ]
@@ -839,6 +919,14 @@
      "confidence": "high"
     },
     {
+     "date": "2026-11-07",
+     "title": "AIR JAM（11/7）",
+     "kind": "フェス",
+     "venue": "ZOZOマリンスタジアム（千葉県）",
+     "source_url": "https://airjam.jp/artists",
+     "confidence": "high"
+    },
+    {
      "date": "2026-11-22",
      "title": "MUSIC FESTIVAL「天和」",
      "kind": "フェス",
@@ -847,35 +935,11 @@
      "confidence": "high"
     },
     {
-     "date": "2026-12-26",
-     "title": "COUNTDOWN JAPAN 26/27",
+     "date": "2026-12-06",
+     "title": "BLAZE UP NAGASAKI",
      "kind": "フェス",
-     "venue": "幕張メッセ（千葉県）",
-     "source_url": "https://countdownjapan.jp/",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-12-26",
-     "title": "RADIO CRAZY",
-     "kind": "フェス",
-     "venue": "INTEX OSAKA（大阪府）",
-     "source_url": "https://en.skream.jp/news/2026/09/fm802_radio_crazy_2026_1st_lineup.php",
-     "confidence": "high"
-    },
-    {
-     "date": "2027-01-24",
-     "title": "HYPE LIKE IT!",
-     "kind": "フェス",
-     "venue": "幕張メッセ（千葉）",
-     "source_url": "https://xhl-music.com/feature/hypelikeit",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-11-07",
-     "title": "AIR JAM（11/7）",
-     "kind": "フェス",
-     "venue": "ZOZOマリンスタジアム（千葉県）",
-     "source_url": "https://airjam.jp/artists",
+     "venue": "出島メッセ長崎（長崎県）",
+     "source_url": "https://barks.jp/news/1091706/",
      "confidence": "high"
     },
     {
@@ -895,11 +959,43 @@
      "confidence": "high"
     },
     {
+     "date": "2026-12-26",
+     "title": "COUNTDOWN JAPAN 26/27",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-26",
+     "title": "RADIO CRAZY",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://en.skream.jp/news/2026/09/fm802_radio_crazy_2026_1st_lineup.php",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-28",
      "title": "RADIO CRAZY（12/28）",
      "kind": "フェス",
      "venue": "INTEX OSAKA（大阪府）",
      "source_url": "https://radiocrazy.fm/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-31",
+     "title": "COUNTDOWN JAPAN 26/27（12/31）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-01-24",
+     "title": "HYPE LIKE IT!",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://xhl-music.com/feature/hypelikeit",
      "confidence": "high"
     },
     {
@@ -909,14 +1005,6 @@
      "venue": "泉大津フェニックス（大阪府）",
      "source_url": "https://natalie.mu/music/news/695216",
      "confidence": "low"
-    },
-    {
-     "date": "2026-12-06",
-     "title": "BLAZE UP NAGASAKI",
-     "kind": "フェス",
-     "venue": "出島メッセ長崎（長崎県）",
-     "source_url": "https://barks.jp/news/1091706/",
-     "confidence": "high"
     }
    ]
   },
@@ -953,6 +1041,14 @@
      "confidence": "high"
     },
     {
+     "date": "2026-11-07",
+     "title": "AIR JAM（11/7）",
+     "kind": "フェス",
+     "venue": "ZOZOマリンスタジアム（千葉県）",
+     "source_url": "https://airjam.jp/artists",
+     "confidence": "high"
+    },
+    {
      "date": "2026-11-22",
      "title": "MUSIC FESTIVAL「天和」",
      "kind": "フェス",
@@ -977,19 +1073,19 @@
      "confidence": "high"
     },
     {
-     "date": "2026-11-07",
-     "title": "AIR JAM（11/7）",
-     "kind": "フェス",
-     "venue": "ZOZOマリンスタジアム（千葉県）",
-     "source_url": "https://airjam.jp/artists",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-06",
      "title": "BLAZE UP NAGASAKI",
      "kind": "フェス",
      "venue": "出島メッセ長崎（長崎県）",
      "source_url": "https://barks.jp/news/1091706/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-29",
+     "title": "COUNTDOWN JAPAN 26/27（12/29）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
      "confidence": "high"
     }
    ]
@@ -1050,22 +1146,6 @@
      "confidence": "high"
     },
     {
-     "date": "2026-12-26",
-     "title": "COUNTDOWN JAPAN 26/27",
-     "kind": "フェス",
-     "venue": "幕張メッセ（千葉県）",
-     "source_url": "https://countdownjapan.jp/",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-12-26",
-     "title": "RADIO CRAZY",
-     "kind": "フェス",
-     "venue": "INTEX OSAKA（大阪府）",
-     "source_url": "https://en.skream.jp/news/2026/09/fm802_radio_crazy_2026_1st_lineup.php",
-     "confidence": "high"
-    },
-    {
      "date": "2026-11-07",
      "title": "AIR JAM（11/7）",
      "kind": "フェス",
@@ -1090,11 +1170,35 @@
      "confidence": "high"
     },
     {
+     "date": "2026-12-26",
+     "title": "COUNTDOWN JAPAN 26/27",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-26",
+     "title": "RADIO CRAZY",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://en.skream.jp/news/2026/09/fm802_radio_crazy_2026_1st_lineup.php",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-28",
      "title": "RADIO CRAZY（12/28）",
      "kind": "フェス",
      "venue": "INTEX OSAKA（大阪府）",
      "source_url": "https://radiocrazy.fm/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-29",
+     "title": "COUNTDOWN JAPAN 26/27（12/29）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
      "confidence": "high"
     }
    ]
@@ -1135,19 +1239,19 @@
      "confidence": "high"
     },
     {
-     "date": "2027-01-23",
-     "title": "HYPE LIKE IT!",
-     "kind": "フェス",
-     "venue": "幕張メッセ（千葉）",
-     "source_url": "https://xhl-music.com/feature/hypelikeit",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-28",
      "title": "RADIO CRAZY（12/28）",
      "kind": "フェス",
      "venue": "INTEX OSAKA（大阪府）",
      "source_url": "https://radiocrazy.fm/",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-01-23",
+     "title": "HYPE LIKE IT!",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://xhl-music.com/feature/hypelikeit",
      "confidence": "high"
     }
    ]
@@ -1155,6 +1259,14 @@
   "フレデリック": {
    "aliases": [],
    "events": [
+    {
+     "date": "2026-12-20",
+     "title": "MERRY ROCK PARADE 2026（12/20）",
+     "kind": "フェス",
+     "venue": "ポートメッセなごや（愛知県）",
+     "source_url": "https://www.merryrockparade.jp/artist.html",
+     "confidence": "high"
+    },
     {
      "date": "2026-12-26",
      "title": "COUNTDOWN JAPAN 26/27（12/26）",
@@ -1172,27 +1284,19 @@
      "confidence": "high"
     },
     {
-     "date": "2027-01-23",
-     "title": "HYPE LIKE IT!",
-     "kind": "フェス",
-     "venue": "幕張メッセ（千葉）",
-     "source_url": "https://xhl-music.com/feature/hypelikeit",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-12-20",
-     "title": "MERRY ROCK PARADE 2026（12/20）",
-     "kind": "フェス",
-     "venue": "ポートメッセなごや（愛知県）",
-     "source_url": "https://www.merryrockparade.jp/artist.html",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-28",
      "title": "RADIO CRAZY（12/28）",
      "kind": "フェス",
      "venue": "INTEX OSAKA（大阪府）",
      "source_url": "https://radiocrazy.fm/",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-01-23",
+     "title": "HYPE LIKE IT!",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://xhl-music.com/feature/hypelikeit",
      "confidence": "high"
     }
    ]
@@ -1206,6 +1310,14 @@
      "kind": "フェス",
      "venue": "幕張メッセ 国際展示場4〜7ホール（千葉県）",
      "source_url": "http://www.kishidanbanpaku.com/s/kbpk/page/artist2026",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-20",
+     "title": "MERRY ROCK PARADE 2026（12/20）",
+     "kind": "フェス",
+     "venue": "ポートメッセなごや（愛知県）",
+     "source_url": "https://www.merryrockparade.jp/artist.html",
      "confidence": "high"
     },
     {
@@ -1233,14 +1345,6 @@
      "confidence": "high"
     },
     {
-     "date": "2026-12-20",
-     "title": "MERRY ROCK PARADE 2026（12/20）",
-     "kind": "フェス",
-     "venue": "ポートメッセなごや（愛知県）",
-     "source_url": "https://www.merryrockparade.jp/artist.html",
-     "confidence": "high"
-    },
-    {
      "date": "2027-05-22",
      "title": "電撃BEPPU",
      "kind": "フェス",
@@ -1262,11 +1366,27 @@
      "confidence": "high"
     },
     {
+     "date": "2026-11-06",
+     "title": "BUZZ RHYTHM LIVE（11/6）",
+     "kind": "フェス",
+     "venue": "横浜アリーナ（神奈川県）",
+     "source_url": "https://buzzrhythm.live/",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-26",
      "title": "RADIO CRAZY",
      "kind": "フェス",
      "venue": "INTEX OSAKA（大阪府）",
      "source_url": "https://en.skream.jp/news/2026/09/fm802_radio_crazy_2026_1st_lineup.php",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-28",
+     "title": "RADIO CRAZY（12/28）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://radiocrazy.fm/",
      "confidence": "high"
     },
     {
@@ -1286,19 +1406,11 @@
      "confidence": "high"
     },
     {
-     "date": "2026-11-06",
-     "title": "BUZZ RHYTHM LIVE（11/6）",
+     "date": "2027-01-30",
+     "title": "FUKUOKA MUSIC FES.2027 supported by Trunk（1/30）",
      "kind": "フェス",
-     "venue": "横浜アリーナ（神奈川県）",
-     "source_url": "https://buzzrhythm.live/",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-12-28",
-     "title": "RADIO CRAZY（12/28）",
-     "kind": "フェス",
-     "venue": "INTEX OSAKA（大阪府）",
-     "source_url": "https://radiocrazy.fm/",
+     "venue": "みずほPayPayドーム福岡（福岡県）",
+     "source_url": "https://fukuokamusic-fes.com/2027/index.html",
      "confidence": "high"
     }
    ]
@@ -1307,19 +1419,19 @@
    "aliases": [],
    "events": [
     {
-     "date": "2027-01-24",
-     "title": "HYPE LIKE IT!",
-     "kind": "フェス",
-     "venue": "幕張メッセ（千葉）",
-     "source_url": "https://xhl-music.com/feature/hypelikeit",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-06",
      "title": "BLAZE UP NAGASAKI",
      "kind": "フェス",
      "venue": "出島メッセ長崎（長崎県）",
      "source_url": "https://barks.jp/news/1091706/",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-01-24",
+     "title": "HYPE LIKE IT!",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://xhl-music.com/feature/hypelikeit",
      "confidence": "high"
     }
    ]
@@ -1333,6 +1445,14 @@
      "kind": "フェス",
      "venue": "（山形）",
      "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-05",
+     "title": "BLAZE UP NAGASAKI",
+     "kind": "フェス",
+     "venue": "出島メッセ長崎（長崎県）",
+     "source_url": "https://barks.jp/news/1091706/",
      "confidence": "high"
     },
     {
@@ -1352,6 +1472,14 @@
      "confidence": "high"
     },
     {
+     "date": "2026-12-27",
+     "title": "COUNTDOWN JAPAN 26/27（12/27）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
+    },
+    {
      "date": "2027-01-24",
      "title": "HYPE LIKE IT!",
      "kind": "フェス",
@@ -1365,14 +1493,6 @@
      "kind": "フェス",
      "venue": "別府ビーコンプラザ（大分県）",
      "source_url": "https://www.billboard-japan.com/d_news/detail/166666/2",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-12-05",
-     "title": "BLAZE UP NAGASAKI",
-     "kind": "フェス",
-     "venue": "出島メッセ長崎（長崎県）",
-     "source_url": "https://barks.jp/news/1091706/",
      "confidence": "high"
     }
    ]
@@ -1397,11 +1517,35 @@
      "confidence": "high"
     },
     {
+     "date": "2026-12-06",
+     "title": "BLAZE UP NAGASAKI",
+     "kind": "フェス",
+     "venue": "出島メッセ長崎（長崎県）",
+     "source_url": "https://barks.jp/news/1091706/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-12",
+     "title": "響都超特急（12/12）",
+     "kind": "フェス",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist/",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-13",
      "title": "結びの夢番地（12/13）",
      "kind": "フェス",
      "venue": "ふくやま産業交流館 ビッグ・ローズ（広島）",
      "source_url": "https://musubinoyumebanchi.jp/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-20",
+     "title": "MERRY ROCK PARADE 2026（12/20）",
+     "kind": "フェス",
+     "venue": "ポートメッセなごや（愛知県）",
+     "source_url": "https://www.merryrockparade.jp/artist.html",
      "confidence": "high"
     },
     {
@@ -1429,6 +1573,14 @@
      "confidence": "high"
     },
     {
+     "date": "2026-12-31",
+     "title": "COUNTDOWN JAPAN 26/27（12/31）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
+    },
+    {
      "date": "2027-01-24",
      "title": "HYPE LIKE IT!",
      "kind": "フェス",
@@ -1437,27 +1589,11 @@
      "confidence": "high"
     },
     {
-     "date": "2026-12-12",
-     "title": "響都超特急（12/12）",
+     "date": "2027-01-30",
+     "title": "FUKUOKA MUSIC FES.2027 supported by Trunk（1/30）",
      "kind": "フェス",
-     "venue": "京都パルスプラザ（京都）",
-     "source_url": "https://kue.rotten-g.com/26/artist/",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-12-20",
-     "title": "MERRY ROCK PARADE 2026（12/20）",
-     "kind": "フェス",
-     "venue": "ポートメッセなごや（愛知県）",
-     "source_url": "https://www.merryrockparade.jp/artist.html",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-12-06",
-     "title": "BLAZE UP NAGASAKI",
-     "kind": "フェス",
-     "venue": "出島メッセ長崎（長崎県）",
-     "source_url": "https://barks.jp/news/1091706/",
+     "venue": "みずほPayPayドーム福岡（福岡県）",
+     "source_url": "https://fukuokamusic-fes.com/2027/index.html",
      "confidence": "high"
     }
    ]
@@ -1474,6 +1610,22 @@
      "confidence": "high"
     },
     {
+     "date": "2026-12-19",
+     "title": "MERRY ROCK PARADE 2026（12/19）",
+     "kind": "フェス",
+     "venue": "ポートメッセなごや（愛知県）",
+     "source_url": "https://www.merryrockparade.jp/artist.html",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-31",
+     "title": "COUNTDOWN JAPAN 26/27（12/31）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
+    },
+    {
      "date": "2027-01-24",
      "title": "HYPE LIKE IT!",
      "kind": "フェス",
@@ -1482,11 +1634,19 @@
      "confidence": "high"
     },
     {
-     "date": "2026-12-19",
-     "title": "MERRY ROCK PARADE 2026（12/19）",
+     "date": "2027-01-30",
+     "title": "FUKUOKA MUSIC FES.2027 supported by Trunk（1/30）",
      "kind": "フェス",
-     "venue": "ポートメッセなごや（愛知県）",
-     "source_url": "https://www.merryrockparade.jp/artist.html",
+     "venue": "みずほPayPayドーム福岡（福岡県）",
+     "source_url": "https://fukuokamusic-fes.com/2027/index.html",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-03-14",
+     "title": "ANISAMA FUKUOKA 2027（3/14）",
+     "kind": "フェス",
+     "venue": "みずほPayPayドーム福岡（福岡県）",
+     "source_url": "https://anisama.tv/2027/fukuoka/",
      "confidence": "high"
     }
    ]
@@ -1495,19 +1655,19 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-12-26",
-     "title": "COUNTDOWN JAPAN 26/27（12/26）",
-     "kind": "フェス",
-     "venue": "幕張メッセ（千葉）",
-     "source_url": "https://festival-life.com/168983",
-     "confidence": "high"
-    },
-    {
      "date": "2026-11-29",
      "title": "GIFT ～Girls Idol Festival Tokyo～",
      "kind": "フェス",
      "venue": "SGC Hall Ariake・TOYOTA ARENA TOKYO（東京都）",
      "source_url": "https://gift-idol.jp/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-26",
+     "title": "COUNTDOWN JAPAN 26/27（12/26）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
      "confidence": "high"
     }
    ]
@@ -1555,22 +1715,6 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-12-05",
-     "title": "HIROSHIMA CONTI-NeW FeS（12/5）",
-     "kind": "フェス",
-     "venue": "広島グリーンアリーナ 大アリーナ（広島県）",
-     "source_url": "https://eplus.jp/hiroshima-continew/",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-12-26",
-     "title": "COUNTDOWN JAPAN 26/27（12/26）",
-     "kind": "フェス",
-     "venue": "幕張メッセ（千葉）",
-     "source_url": "https://festival-life.com/168983",
-     "confidence": "high"
-    },
-    {
      "date": "2026-11-27",
      "title": "GIFT ～Girls Idol Festival Tokyo～",
      "kind": "フェス",
@@ -1585,6 +1729,22 @@
      "venue": "SGC Hall Ariake・TOYOTA ARENA TOKYO（東京都）",
      "source_url": "https://gift-idol.jp/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-05",
+     "title": "HIROSHIMA CONTI-NeW FeS（12/5）",
+     "kind": "フェス",
+     "venue": "広島グリーンアリーナ 大アリーナ（広島県）",
+     "source_url": "https://eplus.jp/hiroshima-continew/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-26",
+     "title": "COUNTDOWN JAPAN 26/27（12/26）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
     }
    ]
   },
@@ -1597,6 +1757,14 @@
      "kind": "フェス",
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-03-14",
+     "title": "ANISAMA FUKUOKA 2027（3/14）",
+     "kind": "フェス",
+     "venue": "みずほPayPayドーム福岡（福岡県）",
+     "source_url": "https://anisama.tv/2027/fukuoka/",
      "confidence": "high"
     }
    ]
@@ -1670,6 +1838,14 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-12-20",
+     "title": "MERRY ROCK PARADE 2026（12/20）",
+     "kind": "フェス",
+     "venue": "ポートメッセなごや（愛知県）",
+     "source_url": "https://www.merryrockparade.jp/artist.html",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-27",
      "title": "COUNTDOWN JAPAN 26/27（12/27）",
      "kind": "フェス",
@@ -1678,11 +1854,11 @@
      "confidence": "high"
     },
     {
-     "date": "2026-12-20",
-     "title": "MERRY ROCK PARADE 2026（12/20）",
+     "date": "2027-01-31",
+     "title": "FUKUOKA MUSIC FES.2027 supported by Trunk（1/31）",
      "kind": "フェス",
-     "venue": "ポートメッセなごや（愛知県）",
-     "source_url": "https://www.merryrockparade.jp/artist.html",
+     "venue": "みずほPayPayドーム福岡（福岡県）",
+     "source_url": "https://fukuokamusic-fes.com/2027/index.html",
      "confidence": "high"
     }
    ]
@@ -1741,19 +1917,19 @@
      "confidence": "high"
     },
     {
-     "date": "2026-12-27",
-     "title": "COUNTDOWN JAPAN 26/27（12/27）",
-     "kind": "フェス",
-     "venue": "幕張メッセ（千葉）",
-     "source_url": "https://festival-life.com/168983",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-05",
      "title": "下北沢にて（12/5）",
      "kind": "フェス",
      "venue": "下北沢界隈(複数ライブハウス)（東京都）",
      "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "COUNTDOWN JAPAN 26/27（12/27）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
      "confidence": "high"
     }
    ]
@@ -1820,14 +1996,6 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-12-27",
-     "title": "COUNTDOWN JAPAN 26/27（12/27）",
-     "kind": "フェス",
-     "venue": "幕張メッセ（千葉）",
-     "source_url": "https://festival-life.com/168983",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-19",
      "title": "MERRY ROCK PARADE 2026（12/19）",
      "kind": "フェス",
@@ -1841,6 +2009,14 @@
      "kind": "フェス",
      "venue": "INTEX OSAKA（大阪府）",
      "source_url": "https://radiocrazy.fm/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "COUNTDOWN JAPAN 26/27（12/27）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
      "confidence": "high"
     }
    ]
@@ -1872,14 +2048,6 @@
      "confidence": "high"
     },
     {
-     "date": "2026-12-27",
-     "title": "COUNTDOWN JAPAN 26/27（12/27）",
-     "kind": "フェス",
-     "venue": "幕張メッセ（千葉）",
-     "source_url": "https://festival-life.com/168983",
-     "confidence": "high"
-    },
-    {
      "date": "2026-11-27",
      "title": "GIFT ～Girls Idol Festival Tokyo～",
      "kind": "フェス",
@@ -1894,12 +2062,7 @@
      "venue": "SGC Hall Ariake・TOYOTA ARENA TOKYO（東京都）",
      "source_url": "https://gift-idol.jp/",
      "confidence": "high"
-    }
-   ]
-  },
-  "東京スカパラダイスオーケストラ": {
-   "aliases": [],
-   "events": [
+    },
     {
      "date": "2026-12-27",
      "title": "COUNTDOWN JAPAN 26/27（12/27）",
@@ -1907,13 +2070,26 @@
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
      "confidence": "high"
-    },
+    }
+   ]
+  },
+  "東京スカパラダイスオーケストラ": {
+   "aliases": [],
+   "events": [
     {
      "date": "2026-12-26",
      "title": "RADIO CRAZY（12/26）",
      "kind": "フェス",
      "venue": "INTEX OSAKA（大阪府）",
      "source_url": "https://radiocrazy.fm/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "COUNTDOWN JAPAN 26/27（12/27）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
      "confidence": "high"
     }
    ]
@@ -1956,6 +2132,14 @@
      "confidence": "high"
     },
     {
+     "date": "2026-12-26",
+     "title": "RADIO CRAZY（12/26）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://radiocrazy.fm/",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-29",
      "title": "COUNTDOWN JAPAN 26/27（12/29）",
      "kind": "フェス",
@@ -1964,11 +2148,11 @@
      "confidence": "high"
     },
     {
-     "date": "2026-12-26",
-     "title": "RADIO CRAZY（12/26）",
+     "date": "2027-01-30",
+     "title": "FUKUOKA MUSIC FES.2027 supported by Trunk（1/30）",
      "kind": "フェス",
-     "venue": "INTEX OSAKA（大阪府）",
-     "source_url": "https://radiocrazy.fm/",
+     "venue": "みずほPayPayドーム福岡（福岡県）",
+     "source_url": "https://fukuokamusic-fes.com/2027/index.html",
      "confidence": "high"
     }
    ]
@@ -1998,19 +2182,19 @@
      "confidence": "high"
     },
     {
-     "date": "2026-12-29",
-     "title": "COUNTDOWN JAPAN 26/27（12/29）",
-     "kind": "フェス",
-     "venue": "幕張メッセ（千葉）",
-     "source_url": "https://festival-life.com/168983",
-     "confidence": "high"
-    },
-    {
      "date": "2026-11-08",
      "title": "BUZZ RHYTHM LIVE（11/8）",
      "kind": "フェス",
      "venue": "横浜アリーナ（神奈川県）",
      "source_url": "https://buzzrhythm.live/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-29",
+     "title": "COUNTDOWN JAPAN 26/27（12/29）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
      "confidence": "high"
     }
    ]
@@ -2027,19 +2211,19 @@
      "confidence": "high"
     },
     {
-     "date": "2026-12-29",
-     "title": "COUNTDOWN JAPAN 26/27（12/29）",
-     "kind": "フェス",
-     "venue": "幕張メッセ（千葉）",
-     "source_url": "https://festival-life.com/168983",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-26",
      "title": "MAGIC HOUR FESTIVAL（12/26）",
      "kind": "フェス",
      "venue": "豊洲PIT（東京）",
      "source_url": "https://festival-life.com/169100",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-29",
+     "title": "COUNTDOWN JAPAN 26/27（12/29）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
      "confidence": "high"
     }
    ]
@@ -2047,22 +2231,6 @@
   "CLAN QUEEN": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-12-26",
-     "title": "RADIO CRAZY",
-     "kind": "フェス",
-     "venue": "INTEX OSAKA（大阪府）",
-     "source_url": "https://en.skream.jp/news/2026/09/fm802_radio_crazy_2026_1st_lineup.php",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-12-29",
-     "title": "COUNTDOWN JAPAN 26/27（12/29）",
-     "kind": "フェス",
-     "venue": "幕張メッセ（千葉）",
-     "source_url": "https://festival-life.com/168983",
-     "confidence": "high"
-    },
     {
      "date": "2026-12-20",
      "title": "MERRY ROCK PARADE 2026（12/20）",
@@ -2072,11 +2240,27 @@
      "confidence": "high"
     },
     {
+     "date": "2026-12-26",
+     "title": "RADIO CRAZY",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://en.skream.jp/news/2026/09/fm802_radio_crazy_2026_1st_lineup.php",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-27",
      "title": "RADIO CRAZY（12/27）",
      "kind": "フェス",
      "venue": "INTEX OSAKA（大阪府）",
      "source_url": "https://radiocrazy.fm/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-29",
+     "title": "COUNTDOWN JAPAN 26/27（12/29）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
      "confidence": "high"
     }
    ]
@@ -2145,19 +2329,19 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-12-29",
-     "title": "COUNTDOWN JAPAN 26/27（12/29）",
-     "kind": "フェス",
-     "venue": "幕張メッセ（千葉）",
-     "source_url": "https://festival-life.com/168983",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-27",
      "title": "RADIO CRAZY（12/27）",
      "kind": "フェス",
      "venue": "INTEX OSAKA（大阪府）",
      "source_url": "https://radiocrazy.fm/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-29",
+     "title": "COUNTDOWN JAPAN 26/27（12/29）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
      "confidence": "high"
     }
    ]
@@ -2221,19 +2405,19 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-12-30",
-     "title": "COUNTDOWN JAPAN 26/27（12/30）",
-     "kind": "フェス",
-     "venue": "幕張メッセ（千葉）",
-     "source_url": "https://festival-life.com/168983",
-     "confidence": "high"
-    },
-    {
      "date": "2026-11-29",
      "title": "GIFT ～Girls Idol Festival Tokyo～",
      "kind": "フェス",
      "venue": "SGC Hall Ariake・TOYOTA ARENA TOKYO（東京都）",
      "source_url": "https://gift-idol.jp/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-30",
+     "title": "COUNTDOWN JAPAN 26/27（12/30）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
      "confidence": "high"
     }
    ]
@@ -2242,6 +2426,14 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-12-27",
+     "title": "RADIO CRAZY（12/27）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://radiocrazy.fm/",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-30",
      "title": "COUNTDOWN JAPAN 26/27（12/30）",
      "kind": "フェス",
@@ -2250,11 +2442,11 @@
      "confidence": "high"
     },
     {
-     "date": "2026-12-27",
-     "title": "RADIO CRAZY（12/27）",
+     "date": "2027-01-31",
+     "title": "FUKUOKA MUSIC FES.2027 supported by Trunk（1/31）",
      "kind": "フェス",
-     "venue": "INTEX OSAKA（大阪府）",
-     "source_url": "https://radiocrazy.fm/",
+     "venue": "みずほPayPayドーム福岡（福岡県）",
+     "source_url": "https://fukuokamusic-fes.com/2027/index.html",
      "confidence": "high"
     }
    ]
@@ -2263,19 +2455,19 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-12-30",
-     "title": "COUNTDOWN JAPAN 26/27（12/30）",
-     "kind": "フェス",
-     "venue": "幕張メッセ（千葉）",
-     "source_url": "https://festival-life.com/168983",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-13",
      "title": "MUSIC BANK GLOBAL FESTIVAL IN JAPAN",
      "kind": "フェス",
      "venue": "MUFGスタジアム（国立競技場）（東京都）",
      "source_url": "https://www.soompi.com/article/1880199wpp/2026-music-bank-global-festival-in-japan-announces-additional-lineup",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-30",
+     "title": "COUNTDOWN JAPAN 26/27（12/30）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
      "confidence": "high"
     }
    ]
@@ -2310,19 +2502,19 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-12-30",
-     "title": "COUNTDOWN JAPAN 26/27（12/30）",
-     "kind": "フェス",
-     "venue": "幕張メッセ（千葉）",
-     "source_url": "https://festival-life.com/168983",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-27",
      "title": "RADIO CRAZY（12/27）",
      "kind": "フェス",
      "venue": "INTEX OSAKA（大阪府）",
      "source_url": "https://radiocrazy.fm/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-30",
+     "title": "COUNTDOWN JAPAN 26/27（12/30）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
      "confidence": "high"
     }
    ]
@@ -2352,22 +2544,6 @@
      "confidence": "high"
     },
     {
-     "date": "2026-12-26",
-     "title": "RADIO CRAZY",
-     "kind": "フェス",
-     "venue": "INTEX OSAKA（大阪府）",
-     "source_url": "https://en.skream.jp/news/2026/09/fm802_radio_crazy_2026_1st_lineup.php",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-12-30",
-     "title": "COUNTDOWN JAPAN 26/27（12/30）",
-     "kind": "フェス",
-     "venue": "幕張メッセ（千葉）",
-     "source_url": "https://festival-life.com/168983",
-     "confidence": "high"
-    },
-    {
      "date": "2026-11-08",
      "title": "BUZZ RHYTHM LIVE（11/8）",
      "kind": "フェス",
@@ -2376,11 +2552,27 @@
      "confidence": "high"
     },
     {
+     "date": "2026-12-26",
+     "title": "RADIO CRAZY",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://en.skream.jp/news/2026/09/fm802_radio_crazy_2026_1st_lineup.php",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-27",
      "title": "RADIO CRAZY（12/27）",
      "kind": "フェス",
      "venue": "INTEX OSAKA（大阪府）",
      "source_url": "https://radiocrazy.fm/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-30",
+     "title": "COUNTDOWN JAPAN 26/27（12/30）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
      "confidence": "high"
     }
    ]
@@ -2444,6 +2636,14 @@
      "confidence": "high"
     },
     {
+     "date": "2026-12-28",
+     "title": "RADIO CRAZY（12/28）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://radiocrazy.fm/",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-30",
      "title": "COUNTDOWN JAPAN 26/27（12/30）",
      "kind": "フェス",
@@ -2452,11 +2652,11 @@
      "confidence": "high"
     },
     {
-     "date": "2026-12-28",
-     "title": "RADIO CRAZY（12/28）",
+     "date": "2027-01-31",
+     "title": "FUKUOKA MUSIC FES.2027 supported by Trunk（1/31）",
      "kind": "フェス",
-     "venue": "INTEX OSAKA（大阪府）",
-     "source_url": "https://radiocrazy.fm/",
+     "venue": "みずほPayPayドーム福岡（福岡県）",
+     "source_url": "https://fukuokamusic-fes.com/2027/index.html",
      "confidence": "high"
     }
    ]
@@ -2501,14 +2701,6 @@
      "confidence": "high"
     },
     {
-     "date": "2026-12-30",
-     "title": "COUNTDOWN JAPAN 26/27（12/30）",
-     "kind": "フェス",
-     "venue": "幕張メッセ（千葉）",
-     "source_url": "https://festival-life.com/168983",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-20",
      "title": "MERRY ROCK PARADE 2026（12/20）",
      "kind": "フェス",
@@ -2522,6 +2714,14 @@
      "kind": "フェス",
      "venue": "INTEX OSAKA（大阪府）",
      "source_url": "https://radiocrazy.fm/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-30",
+     "title": "COUNTDOWN JAPAN 26/27（12/30）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
      "confidence": "high"
     }
    ]
@@ -2585,14 +2785,6 @@
      "confidence": "high"
     },
     {
-     "date": "2026-12-31",
-     "title": "COUNTDOWN JAPAN 26/27（12/31）",
-     "kind": "フェス",
-     "venue": "幕張メッセ（千葉）",
-     "source_url": "https://festival-life.com/168983",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-13",
      "title": "響都超特急（12/13）",
      "kind": "フェス",
@@ -2615,6 +2807,14 @@
      "venue": "INTEX OSAKA（大阪府）",
      "source_url": "https://radiocrazy.fm/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-31",
+     "title": "COUNTDOWN JAPAN 26/27（12/31）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
     }
    ]
   },
@@ -2635,6 +2835,14 @@
      "kind": "フェス",
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-01-30",
+     "title": "FUKUOKA MUSIC FES.2027 supported by Trunk（1/30）",
+     "kind": "フェス",
+     "venue": "みずほPayPayドーム福岡（福岡県）",
+     "source_url": "https://fukuokamusic-fes.com/2027/index.html",
      "confidence": "high"
     }
    ]
@@ -2690,6 +2898,14 @@
      "confidence": "high"
     },
     {
+     "date": "2026-12-19",
+     "title": "MERRY ROCK PARADE 2026（12/19）",
+     "kind": "フェス",
+     "venue": "ポートメッセなごや（愛知県）",
+     "source_url": "https://www.merryrockparade.jp/artist.html",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-26",
      "title": "RADIO CRAZY",
      "kind": "フェス",
@@ -2703,14 +2919,6 @@
      "kind": "フェス",
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-12-19",
-     "title": "MERRY ROCK PARADE 2026（12/19）",
-     "kind": "フェス",
-     "venue": "ポートメッセなごや（愛知県）",
-     "source_url": "https://www.merryrockparade.jp/artist.html",
      "confidence": "high"
     }
    ]
@@ -2719,19 +2927,19 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-12-31",
-     "title": "COUNTDOWN JAPAN 26/27（12/31）",
-     "kind": "フェス",
-     "venue": "幕張メッセ（千葉）",
-     "source_url": "https://festival-life.com/168983",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-27",
      "title": "RADIO CRAZY（12/27）",
      "kind": "フェス",
      "venue": "INTEX OSAKA（大阪府）",
      "source_url": "https://radiocrazy.fm/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-31",
+     "title": "COUNTDOWN JAPAN 26/27（12/31）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
      "confidence": "high"
     }
    ]
@@ -2740,6 +2948,14 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-12-26",
+     "title": "RADIO CRAZY（12/26）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://radiocrazy.fm/",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-31",
      "title": "COUNTDOWN JAPAN 26/27（12/31）",
      "kind": "フェス",
@@ -2748,11 +2964,11 @@
      "confidence": "high"
     },
     {
-     "date": "2026-12-26",
-     "title": "RADIO CRAZY（12/26）",
+     "date": "2027-01-31",
+     "title": "FUKUOKA MUSIC FES.2027 supported by Trunk（1/31）",
      "kind": "フェス",
-     "venue": "INTEX OSAKA（大阪府）",
-     "source_url": "https://radiocrazy.fm/",
+     "venue": "みずほPayPayドーム福岡（福岡県）",
+     "source_url": "https://fukuokamusic-fes.com/2027/index.html",
      "confidence": "high"
     }
    ]
@@ -2760,6 +2976,14 @@
   "Hump Back": {
    "aliases": [],
    "events": [
+    {
+     "date": "2026-12-05",
+     "title": "BLAZE UP NAGASAKI",
+     "kind": "フェス",
+     "venue": "出島メッセ長崎（長崎県）",
+     "source_url": "https://barks.jp/news/1091706/",
+     "confidence": "high"
+    },
     {
      "date": "2026-12-26",
      "title": "RADIO CRAZY",
@@ -2774,14 +2998,6 @@
      "kind": "フェス",
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-12-05",
-     "title": "BLAZE UP NAGASAKI",
-     "kind": "フェス",
-     "venue": "出島メッセ長崎（長崎県）",
-     "source_url": "https://barks.jp/news/1091706/",
      "confidence": "high"
     }
    ]
@@ -2840,19 +3056,19 @@
      "confidence": "high"
     },
     {
-     "date": "2026-12-31",
-     "title": "COUNTDOWN JAPAN 26/27（12/31）",
-     "kind": "フェス",
-     "venue": "幕張メッセ（千葉）",
-     "source_url": "https://festival-life.com/168983",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-26",
      "title": "RADIO CRAZY（12/26）",
      "kind": "フェス",
      "venue": "INTEX OSAKA（大阪府）",
      "source_url": "https://radiocrazy.fm/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-31",
+     "title": "COUNTDOWN JAPAN 26/27（12/31）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
      "confidence": "high"
     }
    ]
@@ -2966,19 +3182,19 @@
      "confidence": "low"
     },
     {
-     "date": "2026-12-28",
-     "title": "NEW HORIZON FEST",
-     "kind": "フェス",
-     "venue": "TOYOTA ARENA TOKYO（東京）",
-     "source_url": "https://eplus.jp/new-horizon-fest/",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-06",
      "title": "BLAZE UP NAGASAKI",
      "kind": "フェス",
      "venue": "出島メッセ長崎（長崎県）",
      "source_url": "https://barks.jp/news/1091706/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-28",
+     "title": "NEW HORIZON FEST",
+     "kind": "フェス",
+     "venue": "TOYOTA ARENA TOKYO（東京）",
+     "source_url": "https://eplus.jp/new-horizon-fest/",
      "confidence": "high"
     }
    ]
@@ -3068,19 +3284,19 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-12-28",
-     "title": "NEW HORIZON FEST",
-     "kind": "フェス",
-     "venue": "TOYOTA ARENA TOKYO（東京）",
-     "source_url": "https://eplus.jp/new-horizon-fest/",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-13",
      "title": "響都超特急（12/13）",
      "kind": "フェス",
      "venue": "京都パルスプラザ（京都）",
      "source_url": "https://kue.rotten-g.com/26/artist/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-28",
+     "title": "NEW HORIZON FEST",
+     "kind": "フェス",
+     "venue": "TOYOTA ARENA TOKYO（東京）",
+     "source_url": "https://eplus.jp/new-horizon-fest/",
      "confidence": "high"
     }
    ]
@@ -3467,6 +3683,14 @@
      "venue": "（東京）",
      "source_url": "https://crystallake-worldwide.com/",
      "confidence": "low"
+    },
+    {
+     "date": "2026-12-29",
+     "title": "COUNTDOWN JAPAN 26/27（12/29）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
     }
    ]
   },
@@ -3722,20 +3946,20 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-11-29",
-     "title": "革命ロジック",
-     "kind": "フェス",
-     "venue": "（東京）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "low"
-    },
-    {
      "date": "2026-11-21",
      "title": "over fest",
      "kind": "フェス",
      "venue": "下北沢ライブハウス9店舗（東京都）",
      "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
      "confidence": "high"
+    },
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
     }
    ]
   },
@@ -3913,20 +4137,20 @@
      "confidence": "high"
     },
     {
-     "date": "2026-12-26",
-     "title": "MAGIC HOUR FESTIVAL",
-     "kind": "フェス",
-     "venue": "（東京）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "low"
-    },
-    {
      "date": "2026-12-19",
      "title": "IWA ROCK presented by e-Broad（12/19）",
      "kind": "フェス",
      "venue": "Zepp DiverCity(TOKYO)（東京都）",
      "source_url": "https://spice.eplus.jp/articles/349354",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-26",
+     "title": "MAGIC HOUR FESTIVAL",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
     }
    ]
   },
@@ -4018,6 +4242,14 @@
      "venue": "幕張メッセ 国際展示場4〜7ホール（千葉県）",
      "source_url": "http://www.kishidanbanpaku.com/s/kbpk/page/artist2026",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-31",
+     "title": "COUNTDOWN JAPAN 26/27（12/31）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
     }
    ]
   },
@@ -4038,6 +4270,14 @@
      "kind": "フェス",
      "venue": "京都パルスプラザ（京都）",
      "source_url": "https://kue.rotten-g.com/26/artist/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "COUNTDOWN JAPAN 26/27（12/27）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
      "confidence": "high"
     },
     {
@@ -4099,6 +4339,14 @@
      "venue": "（大阪）",
      "source_url": "https://pkshampoo.jp/psychicfes/artist.html",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "COUNTDOWN JAPAN 26/27（12/27）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
     }
    ]
   },
@@ -4106,19 +4354,19 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-12-28",
-     "title": "NEW HORIZON FEST",
-     "kind": "フェス",
-     "venue": "TOYOTA ARENA TOKYO（東京）",
-     "source_url": "https://eplus.jp/new-horizon-fest/",
-     "confidence": "high"
-    },
-    {
      "date": "2026-11-22",
      "title": "TRUE NORTH FESTIVAL（11/22）",
      "kind": "フェス",
      "venue": "豊洲PIT（東京）",
      "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-05",
+     "title": "BLAZE UP NAGASAKI",
+     "kind": "フェス",
+     "venue": "出島メッセ長崎（長崎県）",
+     "source_url": "https://barks.jp/news/1091706/",
      "confidence": "high"
     },
     {
@@ -4138,20 +4386,20 @@
      "confidence": "high"
     },
     {
+     "date": "2026-12-28",
+     "title": "NEW HORIZON FEST",
+     "kind": "フェス",
+     "venue": "TOYOTA ARENA TOKYO（東京）",
+     "source_url": "https://eplus.jp/new-horizon-fest/",
+     "confidence": "high"
+    },
+    {
      "date": "2027-03-20",
      "title": "MEGA VEGAS 2027（3/20〜3/21のいずれか）",
      "kind": "フェス",
      "venue": "神戸ワールド記念ホール（兵庫県）",
      "source_url": "https://lasvegas-jp.com/live/9288",
      "confidence": "low"
-    },
-    {
-     "date": "2026-12-05",
-     "title": "BLAZE UP NAGASAKI",
-     "kind": "フェス",
-     "venue": "出島メッセ長崎（長崎県）",
-     "source_url": "https://barks.jp/news/1091706/",
-     "confidence": "high"
     }
    ]
   },
@@ -4188,6 +4436,22 @@
      "kind": "フェス",
      "venue": "INTEX OSAKA（大阪府）",
      "source_url": "https://radiocrazy.fm/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "COUNTDOWN JAPAN 26/27（12/27）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-03-13",
+     "title": "ANISAMA FUKUOKA 2027（3/13）",
+     "kind": "フェス",
+     "venue": "みずほPayPayドーム福岡（福岡県）",
+     "source_url": "https://anisama.tv/2027/fukuoka/",
      "confidence": "high"
     },
     {
@@ -4238,6 +4502,14 @@
      "kind": "フェス",
      "venue": "横浜アリーナ（神奈川県）",
      "source_url": "https://buzzrhythm.live/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-30",
+     "title": "COUNTDOWN JAPAN 26/27（12/30）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
      "confidence": "high"
     }
    ]
@@ -4323,6 +4595,14 @@
      "venue": "横浜アリーナ（神奈川県）",
      "source_url": "https://buzzrhythm.live/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-31",
+     "title": "COUNTDOWN JAPAN 26/27（12/31）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
     }
    ]
   },
@@ -4373,6 +4653,14 @@
      "venue": "MUFGスタジアム（国立競技場）（東京都）",
      "source_url": "https://www.soompi.com/article/1880199wpp/2026-music-bank-global-festival-in-japan-announces-additional-lineup",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "COUNTDOWN JAPAN 26/27（12/27）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
     }
    ]
   },
@@ -4388,19 +4676,19 @@
      "confidence": "high"
     },
     {
-     "date": "2026-11-08",
-     "title": "氣志團万博",
-     "kind": "フェス",
-     "venue": "幕張メッセ 国際展示場4〜7ホール（千葉県）",
-     "source_url": "http://www.kishidanbanpaku.com/s/kbpk/page/artist2026",
-     "confidence": "high"
-    },
-    {
      "date": "2026-11-07",
      "title": "BUZZ RHYTHM LIVE（11/7）",
      "kind": "フェス",
      "venue": "横浜アリーナ（神奈川県）",
      "source_url": "https://buzzrhythm.live/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-11-08",
+     "title": "氣志團万博",
+     "kind": "フェス",
+     "venue": "幕張メッセ 国際展示場4〜7ホール（千葉県）",
+     "source_url": "http://www.kishidanbanpaku.com/s/kbpk/page/artist2026",
      "confidence": "high"
     }
    ]
@@ -4443,6 +4731,14 @@
      "kind": "フェス",
      "venue": "横浜アリーナ（神奈川県）",
      "source_url": "https://buzzrhythm.live/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-31",
+     "title": "COUNTDOWN JAPAN 26/27（12/31）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
      "confidence": "high"
     }
    ]
@@ -4519,6 +4815,14 @@
      "kind": "フェス",
      "venue": "INTEX OSAKA（大阪府）",
      "source_url": "https://radiocrazy.fm/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-31",
+     "title": "COUNTDOWN JAPAN 26/27（12/31）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
      "confidence": "high"
     }
    ]
@@ -4685,6 +4989,14 @@
      "venue": "Kアリーナ横浜（神奈川県）",
      "source_url": "https://dreamfestival.jp/",
      "confidence": "low"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "COUNTDOWN JAPAN 26/27（12/27）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
     }
    ]
   },
@@ -4755,6 +5067,14 @@
      "kind": "フェス",
      "venue": "INTEX OSAKA（大阪府）",
      "source_url": "https://radiocrazy.fm/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-31",
+     "title": "COUNTDOWN JAPAN 26/27（12/31）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
      "confidence": "high"
     }
    ]
@@ -4857,14 +5177,6 @@
      "confidence": "high"
     },
     {
-     "date": "2026-12-28",
-     "title": "NEW HORIZON FEST",
-     "kind": "フェス",
-     "venue": "TOYOTA ARENA TOKYO（東京）",
-     "source_url": "https://eplus.jp/new-horizon-fest/",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-12",
      "title": "響都超特急（12/12）",
      "kind": "フェス",
@@ -4886,6 +5198,14 @@
      "kind": "フェス",
      "venue": "Zepp DiverCity(TOKYO)（東京都）",
      "source_url": "https://spice.eplus.jp/articles/349354",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-28",
+     "title": "NEW HORIZON FEST",
+     "kind": "フェス",
+     "venue": "TOYOTA ARENA TOKYO（東京）",
+     "source_url": "https://eplus.jp/new-horizon-fest/",
      "confidence": "high"
     },
     {
@@ -5075,6 +5395,14 @@
      "confidence": "high"
     },
     {
+     "date": "2026-12-27",
+     "title": "COUNTDOWN JAPAN 26/27（12/27）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-28",
      "title": "RADIO CRAZY（12/28）",
      "kind": "フェス",
@@ -5149,6 +5477,14 @@
      "venue": "宜野湾港マリーナ トロピカルビーチ特設会場（沖縄県）",
      "source_url": "https://www800.asia/2026/artist",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-26",
+     "title": "COUNTDOWN JAPAN 26/27（12/26）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
     }
    ]
   },
@@ -5156,19 +5492,19 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-12-05",
+     "title": "BLAZE UP NAGASAKI",
+     "kind": "フェス",
+     "venue": "出島メッセ長崎（長崎県）",
+     "source_url": "https://barks.jp/news/1091706/",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-13",
      "title": "結びの夢番地（12/13）",
      "kind": "フェス",
      "venue": "ふくやま産業交流館 ビッグ・ローズ（広島）",
      "source_url": "https://musubinoyumebanchi.jp/",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-12-26",
-     "title": "COUNTDOWN JAPAN 26/27",
-     "kind": "フェス",
-     "venue": "幕張メッセ（千葉県）",
-     "source_url": "https://countdownjapan.jp/",
      "confidence": "high"
     },
     {
@@ -5180,6 +5516,14 @@
      "confidence": "high"
     },
     {
+     "date": "2026-12-26",
+     "title": "COUNTDOWN JAPAN 26/27",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-28",
      "title": "RADIO CRAZY（12/28）",
      "kind": "フェス",
@@ -5188,11 +5532,11 @@
      "confidence": "high"
     },
     {
-     "date": "2026-12-05",
-     "title": "BLAZE UP NAGASAKI",
+     "date": "2026-12-29",
+     "title": "COUNTDOWN JAPAN 26/27（12/29）",
      "kind": "フェス",
-     "venue": "出島メッセ長崎（長崎県）",
-     "source_url": "https://barks.jp/news/1091706/",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
      "confidence": "high"
     }
    ]
@@ -5329,6 +5673,14 @@
      "confidence": "high"
     },
     {
+     "date": "2026-12-26",
+     "title": "COUNTDOWN JAPAN 26/27（12/26）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-27",
      "title": "RADIO CRAZY（12/27）",
      "kind": "フェス",
@@ -5443,6 +5795,14 @@
      "venue": "INTEX OSAKA（大阪府）",
      "source_url": "https://radiocrazy.fm/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-31",
+     "title": "COUNTDOWN JAPAN 26/27（12/31）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
     }
    ]
   },
@@ -5493,6 +5853,14 @@
      "venue": "INTEX OSAKA（大阪府）",
      "source_url": "https://radiocrazy.fm/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-31",
+     "title": "COUNTDOWN JAPAN 26/27（12/31）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
     }
    ]
   },
@@ -5500,19 +5868,27 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-12-28",
-     "title": "NEW HORIZON FEST",
-     "kind": "フェス",
-     "venue": "TOYOTA ARENA TOKYO（東京）",
-     "source_url": "https://eplus.jp/new-horizon-fest/",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-06",
      "title": "BLAZE UP NAGASAKI",
      "kind": "フェス",
      "venue": "出島メッセ長崎（長崎県）",
      "source_url": "https://barks.jp/news/1091706/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "COUNTDOWN JAPAN 26/27（12/27）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-28",
+     "title": "NEW HORIZON FEST",
+     "kind": "フェス",
+     "venue": "TOYOTA ARENA TOKYO（東京）",
+     "source_url": "https://eplus.jp/new-horizon-fest/",
      "confidence": "high"
     }
    ]
@@ -5558,19 +5934,19 @@
      "confidence": "high"
     },
     {
-     "date": "2026-12-28",
-     "title": "NEW HORIZON FEST",
-     "kind": "フェス",
-     "venue": "TOYOTA ARENA TOKYO（東京）",
-     "source_url": "https://eplus.jp/new-horizon-fest/",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-12",
      "title": "響都超特急（12/12）",
      "kind": "フェス",
      "venue": "京都パルスプラザ（京都）",
      "source_url": "https://kue.rotten-g.com/26/artist/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-28",
+     "title": "NEW HORIZON FEST",
+     "kind": "フェス",
+     "venue": "TOYOTA ARENA TOKYO（東京）",
+     "source_url": "https://eplus.jp/new-horizon-fest/",
      "confidence": "high"
     },
     {
@@ -5613,14 +5989,6 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-12-28",
-     "title": "NEW HORIZON FEST",
-     "kind": "フェス",
-     "venue": "TOYOTA ARENA TOKYO（東京）",
-     "source_url": "https://eplus.jp/new-horizon-fest/",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-05",
      "title": "BLAZE UP NAGASAKI",
      "kind": "フェス",
@@ -5635,12 +6003,7 @@
      "venue": "出島メッセ長崎（長崎県）",
      "source_url": "https://barks.jp/news/1091706/",
      "confidence": "high"
-    }
-   ]
-  },
-  "The BONEZ": {
-   "aliases": [],
-   "events": [
+    },
     {
      "date": "2026-12-28",
      "title": "NEW HORIZON FEST",
@@ -5650,11 +6013,32 @@
      "confidence": "high"
     },
     {
+     "date": "2026-12-31",
+     "title": "COUNTDOWN JAPAN 26/27（12/31）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "The BONEZ": {
+   "aliases": [],
+   "events": [
+    {
      "date": "2026-12-05",
      "title": "BLAZE UP NAGASAKI",
      "kind": "フェス",
      "venue": "出島メッセ長崎（長崎県）",
      "source_url": "https://barks.jp/news/1091706/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-28",
+     "title": "NEW HORIZON FEST",
+     "kind": "フェス",
+     "venue": "TOYOTA ARENA TOKYO（東京）",
+     "source_url": "https://eplus.jp/new-horizon-fest/",
      "confidence": "high"
     }
    ]
@@ -5734,6 +6118,14 @@
      "venue": "広島グリーンアリーナ 大アリーナ（広島県）",
      "source_url": "https://eplus.jp/hiroshima-continew/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "COUNTDOWN JAPAN 26/27（12/27）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
     }
    ]
   },
@@ -5746,6 +6138,22 @@
      "kind": "フェス",
      "venue": "広島グリーンアリーナ 大アリーナ（広島県）",
      "source_url": "https://eplus.jp/hiroshima-continew/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-26",
+     "title": "COUNTDOWN JAPAN 26/27（12/26）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-03-13",
+     "title": "ANISAMA FUKUOKA 2027（3/13）",
+     "kind": "フェス",
+     "venue": "みずほPayPayドーム福岡（福岡県）",
+     "source_url": "https://anisama.tv/2027/fukuoka/",
      "confidence": "high"
     }
    ]
@@ -5871,14 +6279,6 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-12-12",
-     "title": "音泉温楽（12/12）",
-     "kind": "フェス",
-     "venue": "渋温泉 歴史の宿 金具屋（長野県）",
-     "source_url": "https://onsen-ongaku.com/onsenongaku-2026",
-     "confidence": "high"
-    },
-    {
      "date": "2026-11-06",
      "title": "BUZZ RHYTHM LIVE（11/6）",
      "kind": "フェス",
@@ -5892,6 +6292,14 @@
      "kind": "フェス",
      "venue": "LINE CUBE SHIBUYA / 代々木公園イベント広場（東京都）",
      "source_url": "https://www.j-wave.co.jp/special/inspiretokyo/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-12",
+     "title": "音泉温楽（12/12）",
+     "kind": "フェス",
+     "venue": "渋温泉 歴史の宿 金具屋（長野県）",
+     "source_url": "https://onsen-ongaku.com/onsenongaku-2026",
      "confidence": "high"
     }
    ]
@@ -6647,11 +7055,11 @@
    "aliases": [],
    "events": [
     {
-     "date": "2027-01-09",
-     "title": "ロックンロールサーカス（1/9）",
+     "date": "2026-11-14",
+     "title": "アメ村天国",
      "kind": "フェス",
-     "venue": "神戸VARIT.ほか（兵庫県）",
-     "source_url": "https://eplus.jp/sf/detail/K000000646",
+     "venue": "アメリカ村 SUNHALLほか（大阪府）",
+     "source_url": "https://iwzbn.com/live/?id=d20261114",
      "confidence": "high"
     },
     {
@@ -6663,11 +7071,11 @@
      "confidence": "high"
     },
     {
-     "date": "2026-11-14",
-     "title": "アメ村天国",
+     "date": "2027-01-09",
+     "title": "ロックンロールサーカス（1/9）",
      "kind": "フェス",
-     "venue": "アメリカ村 SUNHALLほか（大阪府）",
-     "source_url": "https://iwzbn.com/live/?id=d20261114",
+     "venue": "神戸VARIT.ほか（兵庫県）",
+     "source_url": "https://eplus.jp/sf/detail/K000000646",
      "confidence": "high"
     }
    ]
@@ -6733,6 +7141,14 @@
     {
      "date": "2027-01-09",
      "title": "ロックンロールサーカス（1/9）",
+     "kind": "フェス",
+     "venue": "神戸VARIT.ほか（兵庫県）",
+     "source_url": "https://eplus.jp/sf/detail/K000000646",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-01-10",
+     "title": "ロックンロールサーカス（1/10）",
      "kind": "フェス",
      "venue": "神戸VARIT.ほか（兵庫県）",
      "source_url": "https://eplus.jp/sf/detail/K000000646",
@@ -6991,6 +7407,14 @@
    "aliases": [],
    "events": [
     {
+     "date": "2027-01-09",
+     "title": "ロックンロールサーカス（01/09〜01/10のいずれか）",
+     "kind": "フェス",
+     "venue": "神戸VARIT.ほか（兵庫県）",
+     "source_url": "https://eplus.jp/sf/detail/K000000646",
+     "confidence": "high"
+    },
+    {
      "date": "2027-01-10",
      "title": "ロックンロールサーカス（1/10）",
      "kind": "フェス",
@@ -7055,6 +7479,14 @@
   "THETAROS": {
    "aliases": [],
    "events": [
+    {
+     "date": "2027-01-09",
+     "title": "ロックンロールサーカス（01/09〜01/10のいずれか）",
+     "kind": "フェス",
+     "venue": "神戸VARIT.ほか（兵庫県）",
+     "source_url": "https://eplus.jp/sf/detail/K000000646",
+     "confidence": "high"
+    },
     {
      "date": "2027-01-10",
      "title": "ロックンロールサーカス（1/10）",
@@ -7133,6 +7565,14 @@
   "タバタヒナ&V-JUG": {
    "aliases": [],
    "events": [
+    {
+     "date": "2027-01-09",
+     "title": "ロックンロールサーカス（01/09〜01/10のいずれか）",
+     "kind": "フェス",
+     "venue": "神戸VARIT.ほか（兵庫県）",
+     "source_url": "https://eplus.jp/sf/detail/K000000646",
+     "confidence": "high"
+    },
     {
      "date": "2027-01-10",
      "title": "ロックンロールサーカス（1/10）",
@@ -7316,6 +7756,14 @@
    "aliases": [],
    "events": [
     {
+     "date": "2027-01-09",
+     "title": "ロックンロールサーカス（01/09〜01/10のいずれか）",
+     "kind": "フェス",
+     "venue": "神戸VARIT.ほか（兵庫県）",
+     "source_url": "https://eplus.jp/sf/detail/K000000646",
+     "confidence": "high"
+    },
+    {
      "date": "2027-01-10",
      "title": "ロックンロールサーカス（1/10）",
      "kind": "フェス",
@@ -7328,6 +7776,14 @@
   "古山菜の花と、もののけ音楽団": {
    "aliases": [],
    "events": [
+    {
+     "date": "2027-01-09",
+     "title": "ロックンロールサーカス（1/9）",
+     "kind": "フェス",
+     "venue": "神戸VARIT.ほか（兵庫県）",
+     "source_url": "https://eplus.jp/sf/detail/K000000646",
+     "confidence": "high"
+    },
     {
      "date": "2027-01-10",
      "title": "ロックンロールサーカス（1/10）",
@@ -7407,6 +7863,14 @@
    "aliases": [],
    "events": [
     {
+     "date": "2027-01-09",
+     "title": "ロックンロールサーカス（01/09〜01/10のいずれか）",
+     "kind": "フェス",
+     "venue": "神戸VARIT.ほか（兵庫県）",
+     "source_url": "https://eplus.jp/sf/detail/K000000646",
+     "confidence": "high"
+    },
+    {
      "date": "2027-01-10",
      "title": "ロックンロールサーカス（1/10）",
      "kind": "フェス",
@@ -7446,19 +7910,19 @@
    "aliases": [],
    "events": [
     {
-     "date": "2027-01-10",
-     "title": "ロックンロールサーカス（1/10）",
-     "kind": "フェス",
-     "venue": "神戸VARIT.ほか（兵庫県）",
-     "source_url": "https://eplus.jp/sf/detail/K000000646",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-05",
      "title": "下北沢にて（12/5）",
      "kind": "フェス",
      "venue": "下北沢界隈(複数ライブハウス)（東京都）",
      "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-01-10",
+     "title": "ロックンロールサーカス（1/10）",
+     "kind": "フェス",
+     "venue": "神戸VARIT.ほか（兵庫県）",
+     "source_url": "https://eplus.jp/sf/detail/K000000646",
      "confidence": "high"
     }
    ]
@@ -7480,19 +7944,19 @@
    "aliases": [],
    "events": [
     {
-     "date": "2027-01-10",
-     "title": "ロックンロールサーカス（1/10）",
-     "kind": "フェス",
-     "venue": "神戸VARIT.ほか（兵庫県）",
-     "source_url": "https://eplus.jp/sf/detail/K000000646",
-     "confidence": "high"
-    },
-    {
      "date": "2026-11-14",
      "title": "アメ村天国",
      "kind": "フェス",
      "venue": "アメリカ村 SUNHALLほか（大阪府）",
      "source_url": "https://iwzbn.com/live/?id=d20261114",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-01-10",
+     "title": "ロックンロールサーカス（1/10）",
+     "kind": "フェス",
+     "venue": "神戸VARIT.ほか（兵庫県）",
+     "source_url": "https://eplus.jp/sf/detail/K000000646",
      "confidence": "high"
     }
    ]
@@ -7831,6 +8295,14 @@
      "kind": "フェス",
      "venue": "高円寺 HIGH / SHOWBOAT / CLUB ROOTS ほか（東京）",
      "source_url": "https://punkrockconnection.com/artist.php",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-01-09",
+     "title": "ロックンロールサーカス（1/9）",
+     "kind": "フェス",
+     "venue": "神戸VARIT.ほか（兵庫県）",
+     "source_url": "https://eplus.jp/sf/detail/K000000646",
      "confidence": "high"
     }
    ]
@@ -8198,6 +8670,14 @@
      "kind": "フェス",
      "venue": "岐阜市文化センター（岐阜）",
      "source_url": "http://masterpiece-gifu.com/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-29",
+     "title": "COUNTDOWN JAPAN 26/27（12/29）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
      "confidence": "high"
     }
    ]
@@ -8777,6 +9257,14 @@
      "confidence": "high"
     },
     {
+     "date": "2026-11-14",
+     "title": "アメ村天国",
+     "kind": "フェス",
+     "venue": "アメリカ村 SUNHALLほか（大阪府）",
+     "source_url": "https://iwzbn.com/live/?id=d20261114",
+     "confidence": "high"
+    },
+    {
      "date": "2026-11-28",
      "title": "PSYCHIC FES",
      "kind": "フェス",
@@ -8790,14 +9278,6 @@
      "kind": "フェス",
      "venue": "下北沢界隈(複数ライブハウス)（東京都）",
      "source_url": "https://www.ragnet.co.jp/music-festival-winter",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-11-14",
-     "title": "アメ村天国",
-     "kind": "フェス",
-     "venue": "アメリカ村 SUNHALLほか（大阪府）",
-     "source_url": "https://iwzbn.com/live/?id=d20261114",
      "confidence": "high"
     }
    ]
@@ -8867,6 +9347,14 @@
      "venue": "国立代々木競技場 第一体育館（東京）",
      "source_url": "https://anirockfes.jp/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-29",
+     "title": "COUNTDOWN JAPAN 26/27（12/29）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
     }
    ]
   },
@@ -8880,6 +9368,14 @@
      "venue": "国立代々木競技場 第一体育館（東京）",
      "source_url": "https://anirockfes.jp/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-29",
+     "title": "COUNTDOWN JAPAN 26/27（12/29）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
     }
    ]
   },
@@ -8892,6 +9388,14 @@
      "kind": "フェス",
      "venue": "国立代々木競技場 第一体育館（東京）",
      "source_url": "https://anirockfes.jp/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-30",
+     "title": "COUNTDOWN JAPAN 26/27（12/30）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
      "confidence": "high"
     }
    ]
@@ -9044,6 +9548,14 @@
      "venue": "岐阜市文化センター（岐阜）",
      "source_url": "http://masterpiece-gifu.com/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-30",
+     "title": "COUNTDOWN JAPAN 26/27（12/30）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
     }
    ]
   },
@@ -9064,19 +9576,19 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-11-28",
-     "title": "PSYCHIC FES",
-     "kind": "フェス",
-     "venue": "（大阪）",
-     "source_url": "https://pkshampoo.jp/psychicfes/artist.html",
-     "confidence": "high"
-    },
-    {
      "date": "2026-11-14",
      "title": "アメ村天国",
      "kind": "フェス",
      "venue": "アメリカ村 SUNHALLほか（大阪府）",
      "source_url": "https://iwzbn.com/live/?id=d20261114",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-11-28",
+     "title": "PSYCHIC FES",
+     "kind": "フェス",
+     "venue": "（大阪）",
+     "source_url": "https://pkshampoo.jp/psychicfes/artist.html",
      "confidence": "high"
     }
    ]
@@ -9124,19 +9636,19 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-11-28",
-     "title": "PSYCHIC FES",
-     "kind": "フェス",
-     "venue": "（大阪）",
-     "source_url": "https://pkshampoo.jp/psychicfes/artist.html",
-     "confidence": "high"
-    },
-    {
      "date": "2026-11-14",
      "title": "アメ村天国",
      "kind": "フェス",
      "venue": "アメリカ村 SUNHALLほか（大阪府）",
      "source_url": "https://iwzbn.com/live/?id=d20261114",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-11-28",
+     "title": "PSYCHIC FES",
+     "kind": "フェス",
+     "venue": "（大阪）",
+     "source_url": "https://pkshampoo.jp/psychicfes/artist.html",
      "confidence": "high"
     }
    ]
@@ -9144,6 +9656,14 @@
   "KING BROTHERS": {
    "aliases": [],
    "events": [
+    {
+     "date": "2026-11-14",
+     "title": "アメ村天国",
+     "kind": "フェス",
+     "venue": "アメリカ村 SUNHALLほか（大阪府）",
+     "source_url": "https://iwzbn.com/live/?id=d20261114",
+     "confidence": "high"
+    },
     {
      "date": "2026-11-28",
      "title": "PSYCHIC FES",
@@ -9161,11 +9681,11 @@
      "confidence": "high"
     },
     {
-     "date": "2026-11-14",
-     "title": "アメ村天国",
+     "date": "2027-01-10",
+     "title": "ロックンロールサーカス（1/10）",
      "kind": "フェス",
-     "venue": "アメリカ村 SUNHALLほか（大阪府）",
-     "source_url": "https://iwzbn.com/live/?id=d20261114",
+     "venue": "神戸VARIT.ほか（兵庫県）",
+     "source_url": "https://eplus.jp/sf/detail/K000000646",
      "confidence": "high"
     }
    ]
@@ -9187,6 +9707,14 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-11-14",
+     "title": "アメ村天国",
+     "kind": "フェス",
+     "venue": "アメリカ村 SUNHALLほか（大阪府）",
+     "source_url": "https://iwzbn.com/live/?id=d20261114",
+     "confidence": "high"
+    },
+    {
      "date": "2026-11-28",
      "title": "PSYCHIC FES",
      "kind": "フェス",
@@ -9200,14 +9728,6 @@
      "kind": "フェス",
      "venue": "下北沢界隈(複数ライブハウス)（東京都）",
      "source_url": "https://www.ragnet.co.jp/music-festival-winter",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-11-14",
-     "title": "アメ村天国",
-     "kind": "フェス",
-     "venue": "アメリカ村 SUNHALLほか（大阪府）",
-     "source_url": "https://iwzbn.com/live/?id=d20261114",
      "confidence": "high"
     }
    ]
@@ -9268,19 +9788,19 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-11-28",
-     "title": "PSYCHIC FES",
-     "kind": "フェス",
-     "venue": "（大阪）",
-     "source_url": "https://pkshampoo.jp/psychicfes/artist.html",
-     "confidence": "high"
-    },
-    {
      "date": "2026-11-14",
      "title": "アメ村天国",
      "kind": "フェス",
      "venue": "アメリカ村 SUNHALLほか（大阪府）",
      "source_url": "https://iwzbn.com/live/?id=d20261114",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-11-28",
+     "title": "PSYCHIC FES",
+     "kind": "フェス",
+     "venue": "（大阪）",
+     "source_url": "https://pkshampoo.jp/psychicfes/artist.html",
      "confidence": "high"
     }
    ]
@@ -9310,6 +9830,14 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-11-14",
+     "title": "アメ村天国",
+     "kind": "フェス",
+     "venue": "アメリカ村 SUNHALLほか（大阪府）",
+     "source_url": "https://iwzbn.com/live/?id=d20261114",
+     "confidence": "high"
+    },
+    {
      "date": "2026-11-28",
      "title": "PSYCHIC FES",
      "kind": "フェス",
@@ -9323,14 +9851,6 @@
      "kind": "フェス",
      "venue": "下北沢界隈(複数ライブハウス)（東京都）",
      "source_url": "https://www.ragnet.co.jp/music-festival-winter",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-11-14",
-     "title": "アメ村天国",
-     "kind": "フェス",
-     "venue": "アメリカ村 SUNHALLほか（大阪府）",
-     "source_url": "https://iwzbn.com/live/?id=d20261114",
      "confidence": "high"
     }
    ]
@@ -9381,19 +9901,19 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-11-28",
-     "title": "PSYCHIC FES",
-     "kind": "フェス",
-     "venue": "（大阪）",
-     "source_url": "https://pkshampoo.jp/psychicfes/artist.html",
-     "confidence": "high"
-    },
-    {
      "date": "2026-11-14",
      "title": "アメ村天国",
      "kind": "フェス",
      "venue": "アメリカ村 SUNHALLほか（大阪府）",
      "source_url": "https://iwzbn.com/live/?id=d20261114",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-11-28",
+     "title": "PSYCHIC FES",
+     "kind": "フェス",
+     "venue": "（大阪）",
+     "source_url": "https://pkshampoo.jp/psychicfes/artist.html",
      "confidence": "high"
     }
    ]
@@ -9401,6 +9921,14 @@
   "ザ ニンクス": {
    "aliases": [],
    "events": [
+    {
+     "date": "2026-11-14",
+     "title": "アメ村天国",
+     "kind": "フェス",
+     "venue": "アメリカ村 SUNHALLほか（大阪府）",
+     "source_url": "https://iwzbn.com/live/?id=d20261114",
+     "confidence": "high"
+    },
     {
      "date": "2026-11-28",
      "title": "PSYCHIC FES",
@@ -9415,14 +9943,6 @@
      "kind": "フェス",
      "venue": "下北沢界隈(複数ライブハウス)（東京都）",
      "source_url": "https://www.ragnet.co.jp/music-festival-winter",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-11-14",
-     "title": "アメ村天国",
-     "kind": "フェス",
-     "venue": "アメリカ村 SUNHALLほか（大阪府）",
-     "source_url": "https://iwzbn.com/live/?id=d20261114",
      "confidence": "high"
     }
    ]
@@ -9478,11 +9998,11 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-11-28",
-     "title": "PSYCHIC FES",
+     "date": "2026-11-14",
+     "title": "アメ村天国",
      "kind": "フェス",
-     "venue": "（大阪）",
-     "source_url": "https://pkshampoo.jp/psychicfes/artist.html",
+     "venue": "アメリカ村 SUNHALLほか（大阪府）",
+     "source_url": "https://iwzbn.com/live/?id=d20261114",
      "confidence": "high"
     },
     {
@@ -9494,11 +10014,11 @@
      "confidence": "high"
     },
     {
-     "date": "2026-11-14",
-     "title": "アメ村天国",
+     "date": "2026-11-28",
+     "title": "PSYCHIC FES",
      "kind": "フェス",
-     "venue": "アメリカ村 SUNHALLほか（大阪府）",
-     "source_url": "https://iwzbn.com/live/?id=d20261114",
+     "venue": "（大阪）",
+     "source_url": "https://pkshampoo.jp/psychicfes/artist.html",
      "confidence": "high"
     }
    ]
@@ -9541,19 +10061,19 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-11-28",
-     "title": "PSYCHIC FES",
-     "kind": "フェス",
-     "venue": "（大阪）",
-     "source_url": "https://pkshampoo.jp/psychicfes/artist.html",
-     "confidence": "high"
-    },
-    {
      "date": "2026-11-14",
      "title": "アメ村天国",
      "kind": "フェス",
      "venue": "アメリカ村 SUNHALLほか（大阪府）",
      "source_url": "https://iwzbn.com/live/?id=d20261114",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-11-28",
+     "title": "PSYCHIC FES",
+     "kind": "フェス",
+     "venue": "（大阪）",
+     "source_url": "https://pkshampoo.jp/psychicfes/artist.html",
      "confidence": "high"
     }
    ]
@@ -9614,11 +10134,11 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-11-28",
-     "title": "PSYCHIC FES",
+     "date": "2026-11-14",
+     "title": "アメ村天国",
      "kind": "フェス",
-     "venue": "（大阪）",
-     "source_url": "https://pkshampoo.jp/psychicfes/artist.html",
+     "venue": "アメリカ村 SUNHALLほか（大阪府）",
+     "source_url": "https://iwzbn.com/live/?id=d20261114",
      "confidence": "high"
     },
     {
@@ -9630,11 +10150,11 @@
      "confidence": "high"
     },
     {
-     "date": "2026-11-14",
-     "title": "アメ村天国",
+     "date": "2026-11-28",
+     "title": "PSYCHIC FES",
      "kind": "フェス",
-     "venue": "アメリカ村 SUNHALLほか（大阪府）",
-     "source_url": "https://iwzbn.com/live/?id=d20261114",
+     "venue": "（大阪）",
+     "source_url": "https://pkshampoo.jp/psychicfes/artist.html",
      "confidence": "high"
     }
    ]
@@ -9703,19 +10223,19 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-11-28",
-     "title": "PSYCHIC FES",
-     "kind": "フェス",
-     "venue": "（大阪）",
-     "source_url": "https://pkshampoo.jp/psychicfes/artist.html",
-     "confidence": "high"
-    },
-    {
      "date": "2026-11-14",
      "title": "アメ村天国",
      "kind": "フェス",
      "venue": "アメリカ村 SUNHALLほか（大阪府）",
      "source_url": "https://iwzbn.com/live/?id=d20261114",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-11-28",
+     "title": "PSYCHIC FES",
+     "kind": "フェス",
+     "venue": "（大阪）",
+     "source_url": "https://pkshampoo.jp/psychicfes/artist.html",
      "confidence": "high"
     }
    ]
@@ -9724,19 +10244,19 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-11-28",
-     "title": "PSYCHIC FES",
-     "kind": "フェス",
-     "venue": "（大阪）",
-     "source_url": "https://pkshampoo.jp/psychicfes/artist.html",
-     "confidence": "high"
-    },
-    {
      "date": "2026-11-14",
      "title": "アメ村天国",
      "kind": "フェス",
      "venue": "アメリカ村 SUNHALLほか（大阪府）",
      "source_url": "https://iwzbn.com/live/?id=d20261114",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-11-28",
+     "title": "PSYCHIC FES",
+     "kind": "フェス",
+     "venue": "（大阪）",
+     "source_url": "https://pkshampoo.jp/psychicfes/artist.html",
      "confidence": "high"
     }
    ]
@@ -9745,19 +10265,19 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-11-28",
-     "title": "PSYCHIC FES",
-     "kind": "フェス",
-     "venue": "（大阪）",
-     "source_url": "https://pkshampoo.jp/psychicfes/artist.html",
-     "confidence": "high"
-    },
-    {
      "date": "2026-11-23",
      "title": "PANA FES（11/23）",
      "kind": "フェス",
      "venue": "神戸 太陽と虎ほか（兵庫）",
      "source_url": "https://eplus.jp/sf/detail/4580820001-P0030001",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-11-28",
+     "title": "PSYCHIC FES",
+     "kind": "フェス",
+     "venue": "（大阪）",
+     "source_url": "https://pkshampoo.jp/psychicfes/artist.html",
      "confidence": "high"
     },
     {
@@ -9878,19 +10398,19 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-11-29",
-     "title": "EDO WAVE",
-     "kind": "フェス",
-     "venue": "新宿LOFT（東京）",
-     "source_url": "https://www.edowave.com/",
-     "confidence": "high"
-    },
-    {
      "date": "2026-11-21",
      "title": "over fest",
      "kind": "フェス",
      "venue": "下北沢ライブハウス9店舗（東京都）",
      "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-11-29",
+     "title": "EDO WAVE",
+     "kind": "フェス",
+     "venue": "新宿LOFT（東京）",
+     "source_url": "https://www.edowave.com/",
      "confidence": "high"
     }
    ]
@@ -10082,6 +10602,14 @@
      "venue": "INTEX OSAKA（大阪府）",
      "source_url": "https://radiocrazy.fm/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-29",
+     "title": "COUNTDOWN JAPAN 26/27（12/29）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
     }
    ]
   },
@@ -10149,6 +10677,14 @@
      "kind": "フェス",
      "venue": "INTEX OSAKA（大阪府）",
      "source_url": "https://radiocrazy.fm/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-31",
+     "title": "COUNTDOWN JAPAN 26/27（12/31）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
      "confidence": "high"
     }
    ]
@@ -10360,14 +10896,6 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-12-12",
-     "title": "結びの夢番地（12/12）",
-     "kind": "フェス",
-     "venue": "ふくやま産業交流館 ビッグ・ローズ（広島）",
-     "source_url": "https://musubinoyumebanchi.jp/",
-     "confidence": "high"
-    },
-    {
      "date": "2026-11-21",
      "title": "テレビ朝日ドリームフェスティバル2026（11/21〜11/23のいずれか）",
      "kind": "フェス",
@@ -10376,11 +10904,27 @@
      "confidence": "low"
     },
     {
+     "date": "2026-12-12",
+     "title": "結びの夢番地（12/12）",
+     "kind": "フェス",
+     "venue": "ふくやま産業交流館 ビッグ・ローズ（広島）",
+     "source_url": "https://musubinoyumebanchi.jp/",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-20",
      "title": "MERRY ROCK PARADE 2026（12/20）",
      "kind": "フェス",
      "venue": "ポートメッセなごや（愛知県）",
      "source_url": "https://www.merryrockparade.jp/artist.html",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-26",
+     "title": "COUNTDOWN JAPAN 26/27（12/26）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
      "confidence": "high"
     }
    ]
@@ -10407,6 +10951,14 @@
      "kind": "フェス",
      "venue": "横浜アリーナ（神奈川県）",
      "source_url": "https://buzzrhythm.live/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "COUNTDOWN JAPAN 26/27（12/27）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
      "confidence": "high"
     }
    ]
@@ -10834,6 +11386,14 @@
      "venue": "Kアリーナ横浜（神奈川県）",
      "source_url": "https://dreamfestival.jp/",
      "confidence": "low"
+    },
+    {
+     "date": "2026-12-26",
+     "title": "COUNTDOWN JAPAN 26/27（12/26）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
     }
    ]
   },
@@ -10915,12 +11475,28 @@
      "venue": "Kアリーナ横浜（神奈川県）",
      "source_url": "https://dreamfestival.jp/",
      "confidence": "low"
+    },
+    {
+     "date": "2026-12-30",
+     "title": "COUNTDOWN JAPAN 26/27（12/30）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
     }
    ]
   },
   "夜の本気ダンス": {
    "aliases": [],
    "events": [
+    {
+     "date": "2026-11-14",
+     "title": "アメ村天国",
+     "kind": "フェス",
+     "venue": "アメリカ村 SUNHALLほか（大阪府）",
+     "source_url": "https://iwzbn.com/live/?id=d20261114",
+     "confidence": "high"
+    },
     {
      "date": "2026-11-23",
      "title": "PANA FES（11/23）",
@@ -10935,14 +11511,6 @@
      "kind": "フェス",
      "venue": "下北沢界隈(複数ライブハウス)（東京都）",
      "source_url": "https://www.ragnet.co.jp/music-festival-winter",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-11-14",
-     "title": "アメ村天国",
-     "kind": "フェス",
-     "venue": "アメリカ村 SUNHALLほか（大阪府）",
-     "source_url": "https://iwzbn.com/live/?id=d20261114",
      "confidence": "high"
     }
    ]
@@ -11305,19 +11873,19 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-11-29",
-     "title": "革命ロジック（11/29）",
-     "kind": "フェス",
-     "venue": "下北沢の複数ライブハウス（東京）",
-     "source_url": "https://gekirock.com/news/2026/10/kakumei2026_6th_lineup.php",
-     "confidence": "high"
-    },
-    {
      "date": "2026-11-21",
      "title": "over fest",
      "kind": "フェス",
      "venue": "下北沢ライブハウス9店舗（東京都）",
      "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック（11/29）",
+     "kind": "フェス",
+     "venue": "下北沢の複数ライブハウス（東京）",
+     "source_url": "https://gekirock.com/news/2026/10/kakumei2026_6th_lineup.php",
      "confidence": "high"
     }
    ]
@@ -11460,19 +12028,19 @@
    ],
    "events": [
     {
-     "date": "2026-11-29",
-     "title": "革命ロジック（11/29）",
-     "kind": "フェス",
-     "venue": "下北沢の複数ライブハウス（東京）",
-     "source_url": "https://gekirock.com/news/2026/10/kakumei2026_6th_lineup.php",
-     "confidence": "high"
-    },
-    {
      "date": "2026-11-21",
      "title": "over fest",
      "kind": "フェス",
      "venue": "下北沢ライブハウス9店舗（東京都）",
      "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-11-29",
+     "title": "革命ロジック（11/29）",
+     "kind": "フェス",
+     "venue": "下北沢の複数ライブハウス（東京）",
+     "source_url": "https://gekirock.com/news/2026/10/kakumei2026_6th_lineup.php",
      "confidence": "high"
     }
    ]
@@ -11996,6 +12564,14 @@
      "venue": "下北沢界隈(複数ライブハウス)（東京都）",
      "source_url": "https://www.ragnet.co.jp/music-festival-winter",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-31",
+     "title": "COUNTDOWN JAPAN 26/27（12/31）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
     }
    ]
   },
@@ -12367,19 +12943,19 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-12-05",
-     "title": "下北沢にて（12/5）",
-     "kind": "フェス",
-     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
-     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
-     "confidence": "high"
-    },
-    {
      "date": "2026-11-14",
      "title": "アメ村天国",
      "kind": "フェス",
      "venue": "アメリカ村 SUNHALLほか（大阪府）",
      "source_url": "https://iwzbn.com/live/?id=d20261114",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
      "confidence": "high"
     }
    ]
@@ -12524,6 +13100,14 @@
      "venue": "下北沢界隈(複数ライブハウス)（東京都）",
      "source_url": "https://www.ragnet.co.jp/music-festival-winter",
      "confidence": "high"
+    },
+    {
+     "date": "2027-01-09",
+     "title": "ロックンロールサーカス（1/9）",
+     "kind": "フェス",
+     "venue": "神戸VARIT.ほか（兵庫県）",
+     "source_url": "https://eplus.jp/sf/detail/K000000646",
+     "confidence": "high"
     }
    ]
   },
@@ -12601,6 +13185,14 @@
      "kind": "フェス",
      "venue": "下北沢界隈(複数ライブハウス)（東京都）",
      "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-26",
+     "title": "COUNTDOWN JAPAN 26/27（12/26）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
      "confidence": "high"
     }
    ]
@@ -12830,19 +13422,19 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-12-05",
-     "title": "下北沢にて（12/5）",
-     "kind": "フェス",
-     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
-     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
-     "confidence": "high"
-    },
-    {
      "date": "2026-11-21",
      "title": "over fest",
      "kind": "フェス",
      "venue": "下北沢ライブハウス9店舗（東京都）",
      "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
      "confidence": "high"
     }
    ]
@@ -13007,19 +13599,19 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-12-05",
-     "title": "下北沢にて（12/5）",
-     "kind": "フェス",
-     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
-     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
-     "confidence": "high"
-    },
-    {
      "date": "2026-11-14",
      "title": "アメ村天国",
      "kind": "フェス",
      "venue": "アメリカ村 SUNHALLほか（大阪府）",
      "source_url": "https://iwzbn.com/live/?id=d20261114",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
      "confidence": "high"
     }
    ]
@@ -14122,6 +14714,14 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-12-05",
+     "title": "BLAZE UP NAGASAKI",
+     "kind": "フェス",
+     "venue": "出島メッセ長崎（長崎県）",
+     "source_url": "https://barks.jp/news/1091706/",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-19",
      "title": "MERRY ROCK PARADE 2026（12/19）",
      "kind": "フェス",
@@ -14136,14 +14736,6 @@
      "venue": "神戸ワールド記念ホール（兵庫県）",
      "source_url": "https://lasvegas-jp.com/live/9288",
      "confidence": "low"
-    },
-    {
-     "date": "2026-12-05",
-     "title": "BLAZE UP NAGASAKI",
-     "kind": "フェス",
-     "venue": "出島メッセ長崎（長崎県）",
-     "source_url": "https://barks.jp/news/1091706/",
-     "confidence": "high"
     }
    ]
   },
@@ -14170,6 +14762,14 @@
      "venue": "ポートメッセなごや（愛知県）",
      "source_url": "https://www.merryrockparade.jp/artist.html",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-31",
+     "title": "COUNTDOWN JAPAN 26/27（12/31）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
     }
    ]
   },
@@ -14183,6 +14783,14 @@
      "venue": "豊洲PIT（東京）",
      "source_url": "https://festival-life.com/169100",
      "confidence": "high"
+    },
+    {
+     "date": "2027-03-13",
+     "title": "ANISAMA FUKUOKA 2027（3/13）",
+     "kind": "フェス",
+     "venue": "みずほPayPayドーム福岡（福岡県）",
+     "source_url": "https://anisama.tv/2027/fukuoka/",
+     "confidence": "high"
     }
    ]
   },
@@ -14195,6 +14803,14 @@
      "kind": "フェス",
      "venue": "INTEX OSAKA（大阪府）",
      "source_url": "https://radiocrazy.fm/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-31",
+     "title": "COUNTDOWN JAPAN 26/27（12/31）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
      "confidence": "high"
     }
    ]
@@ -14248,6 +14864,14 @@
      "venue": "INTEX OSAKA（大阪府）",
      "source_url": "https://radiocrazy.fm/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-31",
+     "title": "COUNTDOWN JAPAN 26/27（12/31）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
     }
    ]
   },
@@ -14260,6 +14884,14 @@
      "kind": "フェス",
      "venue": "INTEX OSAKA（大阪府）",
      "source_url": "https://radiocrazy.fm/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-30",
+     "title": "COUNTDOWN JAPAN 26/27（12/30）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
      "confidence": "high"
     }
    ]
@@ -14287,6 +14919,14 @@
      "venue": "INTEX OSAKA（大阪府）",
      "source_url": "https://radiocrazy.fm/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-29",
+     "title": "COUNTDOWN JAPAN 26/27（12/29）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
     }
    ]
   },
@@ -14299,6 +14939,14 @@
      "kind": "フェス",
      "venue": "INTEX OSAKA（大阪府）",
      "source_url": "https://radiocrazy.fm/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-31",
+     "title": "COUNTDOWN JAPAN 26/27（12/31）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
      "confidence": "high"
     }
    ]
@@ -14790,6 +15438,14 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-12-30",
+     "title": "COUNTDOWN JAPAN 26/27（12/30）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
+    },
+    {
      "date": "2027-03-19",
      "title": "HY SKY Fes 2027 & 前夜祭（3/19〜3/21のいずれか）",
      "kind": "フェス",
@@ -14855,6 +15511,14 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-12-31",
+     "title": "COUNTDOWN JAPAN 26/27（12/31）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
+    },
+    {
      "date": "2027-03-19",
      "title": "HY SKY Fes 2027 & 前夜祭（3/19〜3/21のいずれか）",
      "kind": "フェス",
@@ -14894,14 +15558,6 @@
    "aliases": [],
    "events": [
     {
-     "date": "2027-03-19",
-     "title": "HY SKY Fes 2027 & 前夜祭（3/19〜3/21のいずれか）",
-     "kind": "フェス",
-     "venue": "沖縄県総合運動公園 多目的広場（沖縄県）",
-     "source_url": "https://skyfes.net/",
-     "confidence": "low"
-    },
-    {
      "date": "2026-11-07",
      "title": "MONGOL800 ga FESTIVAL What a Wonderful World!!",
      "kind": "フェス",
@@ -14916,6 +15572,14 @@
      "venue": "宜野湾港マリーナ トロピカルビーチ特設会場（沖縄県）",
      "source_url": "https://www800.asia/2026/day1",
      "confidence": "high"
+    },
+    {
+     "date": "2027-03-19",
+     "title": "HY SKY Fes 2027 & 前夜祭（3/19〜3/21のいずれか）",
+     "kind": "フェス",
+     "venue": "沖縄県総合運動公園 多目的広場（沖縄県）",
+     "source_url": "https://skyfes.net/",
+     "confidence": "low"
     }
    ]
   },
@@ -15162,6 +15826,14 @@
      "kind": "フェス",
      "venue": "アメリカ村 SUNHALLほか（大阪府）",
      "source_url": "https://iwzbn.com/live/?id=d20261114",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-01-10",
+     "title": "ロックンロールサーカス（1/10）",
+     "kind": "フェス",
+     "venue": "神戸VARIT.ほか（兵庫県）",
+     "source_url": "https://eplus.jp/sf/detail/K000000646",
      "confidence": "high"
     }
    ]
@@ -15474,6 +16146,14 @@
      "kind": "フェス",
      "venue": "LINE CUBE SHIBUYA / 代々木公園イベント広場（東京都）",
      "source_url": "https://www.j-wave.co.jp/special/inspiretokyo/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-26",
+     "title": "COUNTDOWN JAPAN 26/27（12/26）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
      "confidence": "high"
     }
    ]
@@ -16549,6 +17229,14 @@
      "venue": "SGC Hall Ariake・TOYOTA ARENA TOKYO（東京都）",
      "source_url": "https://gift-idol.jp/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-26",
+     "title": "COUNTDOWN JAPAN 26/27（12/26）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
     }
    ]
   },
@@ -16848,6 +17536,14 @@
      "venue": "MUFGスタジアム（国立競技場）（東京都）",
      "source_url": "https://www.soompi.com/article/1880199wpp/2026-music-bank-global-festival-in-japan-announces-additional-lineup",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-26",
+     "title": "COUNTDOWN JAPAN 26/27（12/26）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
     }
    ]
   },
@@ -17144,6 +17840,1027 @@
      "kind": "フェス",
      "venue": "アメリカ村 BIGCATほか（大阪府）",
      "source_url": "https://sunhall.jp/events/event/razors-edge-presents%E3%80%8Cstormy-dudes-festa-2026%E3%80%8D/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ASIAN KUNG-FU GENERATION": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-26",
+     "title": "COUNTDOWN JAPAN 26/27（12/26）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "UNFAIR RULE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-26",
+     "title": "COUNTDOWN JAPAN 26/27（12/26）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "櫻坂46": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-26",
+     "title": "COUNTDOWN JAPAN 26/27（12/26）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-01-31",
+     "title": "FUKUOKA MUSIC FES.2027 supported by Trunk（1/31）",
+     "kind": "フェス",
+     "venue": "みずほPayPayドーム福岡（福岡県）",
+     "source_url": "https://fukuokamusic-fes.com/2027/index.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ナナヲアカリ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-26",
+     "title": "COUNTDOWN JAPAN 26/27（12/26）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ブランデー戦記": {
+   "aliases": [
+    "BRANDY SENKI"
+   ],
+   "events": [
+    {
+     "date": "2026-12-26",
+     "title": "COUNTDOWN JAPAN 26/27（12/26）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ヨルシカ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-26",
+     "title": "COUNTDOWN JAPAN 26/27（12/26）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Leina": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-26",
+     "title": "COUNTDOWN JAPAN 26/27（12/26）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "幾田りら": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-27",
+     "title": "COUNTDOWN JAPAN 26/27（12/27）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ZICO": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-27",
+     "title": "COUNTDOWN JAPAN 26/27（12/27）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "SUPER BEAVER": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-27",
+     "title": "COUNTDOWN JAPAN 26/27（12/27）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "菅原圭": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-27",
+     "title": "COUNTDOWN JAPAN 26/27（12/27）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "なきごと": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-27",
+     "title": "COUNTDOWN JAPAN 26/27（12/27）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "西野カナ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-27",
+     "title": "COUNTDOWN JAPAN 26/27（12/27）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ファントムシータ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-27",
+     "title": "COUNTDOWN JAPAN 26/27（12/27）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "berry meet": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-27",
+     "title": "COUNTDOWN JAPAN 26/27（12/27）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "moon drop": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-27",
+     "title": "COUNTDOWN JAPAN 26/27（12/27）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "かいりきベア": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-29",
+     "title": "COUNTDOWN JAPAN 26/27（12/29）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Suchmos": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-29",
+     "title": "COUNTDOWN JAPAN 26/27（12/29）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "須田景凪": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-29",
+     "title": "COUNTDOWN JAPAN 26/27（12/29）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "すりぃ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-29",
+     "title": "COUNTDOWN JAPAN 26/27（12/29）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Dannie May": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-29",
+     "title": "COUNTDOWN JAPAN 26/27（12/29）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "初音ミク": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-29",
+     "title": "COUNTDOWN JAPAN 26/27（12/29）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ヒトリエ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-29",
+     "title": "COUNTDOWN JAPAN 26/27（12/29）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "めいちゃん": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-29",
+     "title": "COUNTDOWN JAPAN 26/27（12/29）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "SILENT SIREN": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-30",
+     "title": "COUNTDOWN JAPAN 26/27（12/30）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "中島健人": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-30",
+     "title": "COUNTDOWN JAPAN 26/27（12/30）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "≒JOY": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-30",
+     "title": "COUNTDOWN JAPAN 26/27（12/30）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "BURNOUT SYNDROMES": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-30",
+     "title": "COUNTDOWN JAPAN 26/27（12/30）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "紫 今": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-30",
+     "title": "COUNTDOWN JAPAN 26/27（12/30）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "『ユイカ』": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-30",
+     "title": "COUNTDOWN JAPAN 26/27（12/30）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "浪漫派マシュマロ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-30",
+     "title": "COUNTDOWN JAPAN 26/27（12/30）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "AKASAKI": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-31",
+     "title": "COUNTDOWN JAPAN 26/27（12/31）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "汐れいら": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-31",
+     "title": "COUNTDOWN JAPAN 26/27（12/31）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Kroi": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-31",
+     "title": "COUNTDOWN JAPAN 26/27（12/31）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "NEE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-31",
+     "title": "COUNTDOWN JAPAN 26/27（12/31）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "MUCC": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-31",
+     "title": "COUNTDOWN JAPAN 26/27（12/31）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Lavt": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-31",
+     "title": "COUNTDOWN JAPAN 26/27（12/31）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "リーガルリリー": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-31",
+     "title": "COUNTDOWN JAPAN 26/27（12/31）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "少年ナイフ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-09",
+     "title": "ロックンロールサーカス（1/9）",
+     "kind": "フェス",
+     "venue": "神戸VARIT.ほか（兵庫県）",
+     "source_url": "https://eplus.jp/sf/detail/K000000646",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ボタン": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-09",
+     "title": "ロックンロールサーカス（1/9）",
+     "kind": "フェス",
+     "venue": "神戸VARIT.ほか（兵庫県）",
+     "source_url": "https://eplus.jp/sf/detail/K000000646",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Dirty Rogues": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-09",
+     "title": "ロックンロールサーカス（1/9）",
+     "kind": "フェス",
+     "venue": "神戸VARIT.ほか（兵庫県）",
+     "source_url": "https://eplus.jp/sf/detail/K000000646",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ギターウルフ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-09",
+     "title": "ロックンロールサーカス（1/9）",
+     "kind": "フェス",
+     "venue": "神戸VARIT.ほか（兵庫県）",
+     "source_url": "https://eplus.jp/sf/detail/K000000646",
+     "confidence": "high"
+    }
+   ]
+  },
+  "暴動クラブ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-10",
+     "title": "ロックンロールサーカス（1/10）",
+     "kind": "フェス",
+     "venue": "神戸VARIT.ほか（兵庫県）",
+     "source_url": "https://eplus.jp/sf/detail/K000000646",
+     "confidence": "high"
+    }
+   ]
+  },
+  "タバタヒナ with V-JUG": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-10",
+     "title": "ロックンロールサーカス（1/10）",
+     "kind": "フェス",
+     "venue": "神戸VARIT.ほか（兵庫県）",
+     "source_url": "https://eplus.jp/sf/detail/K000000646",
+     "confidence": "high"
+    }
+   ]
+  },
+  "B.I.B.S.": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-10",
+     "title": "ロックンロールサーカス（1/10）",
+     "kind": "フェス",
+     "venue": "神戸VARIT.ほか（兵庫県）",
+     "source_url": "https://eplus.jp/sf/detail/K000000646",
+     "confidence": "high"
+    }
+   ]
+  },
+  "THE LET'S GO's": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-10",
+     "title": "ロックンロールサーカス（1/10）",
+     "kind": "フェス",
+     "venue": "神戸VARIT.ほか（兵庫県）",
+     "source_url": "https://eplus.jp/sf/detail/K000000646",
+     "confidence": "high"
+    }
+   ]
+  },
+  "セックスマシーン!!": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-10",
+     "title": "ロックンロールサーカス（1/10）",
+     "kind": "フェス",
+     "venue": "神戸VARIT.ほか（兵庫県）",
+     "source_url": "https://eplus.jp/sf/detail/K000000646",
+     "confidence": "high"
+    }
+   ]
+  },
+  "SCOOBIE DO": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-10",
+     "title": "ロックンロールサーカス（1/10）",
+     "kind": "フェス",
+     "venue": "神戸VARIT.ほか（兵庫県）",
+     "source_url": "https://eplus.jp/sf/detail/K000000646",
+     "confidence": "high"
+    }
+   ]
+  },
+  "フラワーカンパニーズ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-10",
+     "title": "ロックンロールサーカス（1/10）",
+     "kind": "フェス",
+     "venue": "神戸VARIT.ほか（兵庫県）",
+     "source_url": "https://eplus.jp/sf/detail/K000000646",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ザ･ビートモーターズ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-10",
+     "title": "ロックンロールサーカス（1/10）",
+     "kind": "フェス",
+     "venue": "神戸VARIT.ほか（兵庫県）",
+     "source_url": "https://eplus.jp/sf/detail/K000000646",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Bloc Party": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-09",
+     "title": "rockin'on sonic 2027（1/9）",
+     "kind": "フェス",
+     "venue": "SGCホール有明（東京）",
+     "source_url": "https://realsound.jp/2026/09/post-2523918.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Dinosaur Jr.": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-09",
+     "title": "rockin'on sonic 2027（1/9）",
+     "kind": "フェス",
+     "venue": "SGCホール有明（東京）",
+     "source_url": "https://realsound.jp/2026/09/post-2523918.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Kim Gordon": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-09",
+     "title": "rockin'on sonic 2027（1/9）",
+     "kind": "フェス",
+     "venue": "SGCホール有明（東京）",
+     "source_url": "https://realsound.jp/2026/09/post-2523918.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Violet Grohl": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-09",
+     "title": "rockin'on sonic 2027（1/9）",
+     "kind": "フェス",
+     "venue": "SGCホール有明（東京）",
+     "source_url": "https://realsound.jp/2026/09/post-2523918.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Suede": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-10",
+     "title": "rockin'on sonic 2027（1/10）",
+     "kind": "フェス",
+     "venue": "SGCホール有明（東京）",
+     "source_url": "https://realsound.jp/2026/09/post-2523918.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Pale Waves": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-10",
+     "title": "rockin'on sonic 2027（1/10）",
+     "kind": "フェス",
+     "venue": "SGCホール有明（東京）",
+     "source_url": "https://realsound.jp/2026/09/post-2523918.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Kula Shaker": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-10",
+     "title": "rockin'on sonic 2027（1/10）",
+     "kind": "フェス",
+     "venue": "SGCホール有明（東京）",
+     "source_url": "https://realsound.jp/2026/09/post-2523918.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Dove Ellis": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-10",
+     "title": "rockin'on sonic 2027（1/10）",
+     "kind": "フェス",
+     "venue": "SGCホール有明（東京）",
+     "source_url": "https://realsound.jp/2026/09/post-2523918.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ORAL CIGARETTES": {
+   "aliases": [
+    "オーラル",
+    "オーラルシガレッツ",
+    "THE ORAL CIGARETTES",
+    "ジオーラルシガレッツ"
+   ],
+   "events": [
+    {
+     "date": "2027-01-23",
+     "title": "HYPE LIKE IT!（01/23〜01/24のいずれか）",
+     "kind": "フェス",
+     "venue": "幕張メッセ国際展示場1・2・3ホール（千葉県）",
+     "source_url": "https://xhl-music.com/feature/hypelikeit",
+     "confidence": "high"
+    }
+   ]
+  },
+  "[Alexandros]": {
+   "aliases": [
+    "アレキサンドロス",
+    "アレキ",
+    "Alexandros",
+    "ALEXANDROS"
+   ],
+   "events": [
+    {
+     "date": "2027-01-30",
+     "title": "FUKUOKA MUSIC FES.2027 supported by Trunk（1/30）",
+     "kind": "フェス",
+     "venue": "みずほPayPayドーム福岡（福岡県）",
+     "source_url": "https://fukuokamusic-fes.com/2027/index.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "i☆Ris": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-13",
+     "title": "ANISAMA FUKUOKA 2027（3/13）",
+     "kind": "フェス",
+     "venue": "みずほPayPayドーム福岡（福岡県）",
+     "source_url": "https://anisama.tv/2027/fukuoka/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "JAM Project": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-13",
+     "title": "ANISAMA FUKUOKA 2027（3/13）",
+     "kind": "フェス",
+     "venue": "みずほPayPayドーム福岡（福岡県）",
+     "source_url": "https://anisama.tv/2027/fukuoka/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "鈴木このみ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-13",
+     "title": "ANISAMA FUKUOKA 2027（3/13）",
+     "kind": "フェス",
+     "venue": "みずほPayPayドーム福岡（福岡県）",
+     "source_url": "https://anisama.tv/2027/fukuoka/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "茅原実里": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-13",
+     "title": "ANISAMA FUKUOKA 2027（3/13）",
+     "kind": "フェス",
+     "venue": "みずほPayPayドーム福岡（福岡県）",
+     "source_url": "https://anisama.tv/2027/fukuoka/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "氷川きよし＋KIINA.": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-13",
+     "title": "ANISAMA FUKUOKA 2027（3/13）",
+     "kind": "フェス",
+     "venue": "みずほPayPayドーム福岡（福岡県）",
+     "source_url": "https://anisama.tv/2027/fukuoka/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "MyGO!!!!!": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-13",
+     "title": "ANISAMA FUKUOKA 2027（3/13）",
+     "kind": "フェス",
+     "venue": "みずほPayPayドーム福岡（福岡県）",
+     "source_url": "https://anisama.tv/2027/fukuoka/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "May'n": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-13",
+     "title": "ANISAMA FUKUOKA 2027（3/13）",
+     "kind": "フェス",
+     "venue": "みずほPayPayドーム福岡（福岡県）",
+     "source_url": "https://anisama.tv/2027/fukuoka/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Ave Mujica": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-14",
+     "title": "ANISAMA FUKUOKA 2027（3/14）",
+     "kind": "フェス",
+     "venue": "みずほPayPayドーム福岡（福岡県）",
+     "source_url": "https://anisama.tv/2027/fukuoka/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "angela": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-14",
+     "title": "ANISAMA FUKUOKA 2027（3/14）",
+     "kind": "フェス",
+     "venue": "みずほPayPayドーム福岡（福岡県）",
+     "source_url": "https://anisama.tv/2027/fukuoka/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "上坂すみれ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-14",
+     "title": "ANISAMA FUKUOKA 2027（3/14）",
+     "kind": "フェス",
+     "venue": "みずほPayPayドーム福岡（福岡県）",
+     "source_url": "https://anisama.tv/2027/fukuoka/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "奥井雅美": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-14",
+     "title": "ANISAMA FUKUOKA 2027（3/14）",
+     "kind": "フェス",
+     "venue": "みずほPayPayドーム福岡（福岡県）",
+     "source_url": "https://anisama.tv/2027/fukuoka/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "小倉唯": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-14",
+     "title": "ANISAMA FUKUOKA 2027（3/14）",
+     "kind": "フェス",
+     "venue": "みずほPayPayドーム福岡（福岡県）",
+     "source_url": "https://anisama.tv/2027/fukuoka/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "きただにひろし": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-14",
+     "title": "ANISAMA FUKUOKA 2027（3/14）",
+     "kind": "フェス",
+     "venue": "みずほPayPayドーム福岡（福岡県）",
+     "source_url": "https://anisama.tv/2027/fukuoka/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "TrySail": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-14",
+     "title": "ANISAMA FUKUOKA 2027（3/14）",
+     "kind": "フェス",
+     "venue": "みずほPayPayドーム福岡（福岡県）",
+     "source_url": "https://anisama.tv/2027/fukuoka/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "プリキュアシンガーズ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-14",
+     "title": "ANISAMA FUKUOKA 2027（3/14）",
+     "kind": "フェス",
+     "venue": "みずほPayPayドーム福岡（福岡県）",
+     "source_url": "https://anisama.tv/2027/fukuoka/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Gary Bartz": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-03",
+     "title": "Montreux Jazz Festival Japan -THE CLUB-（12/03〜12/04のいずれか）",
+     "kind": "フェス",
+     "venue": "BLUE NOTE PLACE（恵比寿ガーデンプレイス）（東京都）",
+     "source_url": "https://montreuxjazzfestival.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "かつしかトリオ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-03",
+     "title": "Montreux Jazz Festival Japan -THE CLUB-（12/03〜12/04のいずれか）",
+     "kind": "フェス",
+     "venue": "BLUE NOTE PLACE（恵比寿ガーデンプレイス）（東京都）",
+     "source_url": "https://montreuxjazzfestival.jp/",
      "confidence": "high"
     }
    ]
