@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T07:07:00+09:00",
+ "updated": "2026-11-06T20:10:00+09:00",
  "artists": {
   "Saucy Dog": {
    "aliases": [
@@ -1648,6 +1648,14 @@
      "venue": "みずほPayPayドーム福岡（福岡県）",
      "source_url": "https://anisama.tv/2027/fukuoka/",
      "confidence": "high"
+    },
+    {
+     "date": "2027-02-20",
+     "title": "LISANI! TOKYO（2/20）",
+     "kind": "フェス",
+     "venue": "TOYOTA ARENA TOKYO（東京都）",
+     "source_url": "https://www.lisani.jp/live/",
+     "confidence": "high"
     }
    ]
   },
@@ -2031,6 +2039,14 @@
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
      "confidence": "high"
+    },
+    {
+     "date": "2027-02-21",
+     "title": "LISANI! TOKYO（2/21）",
+     "kind": "フェス",
+     "venue": "TOYOTA ARENA TOKYO（東京都）",
+     "source_url": "https://www.lisani.jp/live/",
+     "confidence": "high"
     }
    ]
   },
@@ -2296,6 +2312,14 @@
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
      "confidence": "high"
+    },
+    {
+     "date": "2027-01-24",
+     "title": "HYPE LIKE IT!（1/24）",
+     "kind": "フェス",
+     "venue": "幕張メッセ国際展示場1・2・3ホール（千葉県）",
+     "source_url": "https://xhl-music.com/feature/hypelikeit",
+     "confidence": "high"
     }
    ]
   },
@@ -2418,6 +2442,14 @@
      "kind": "フェス",
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-03-20",
+     "title": "MEGA VEGAS 2027（3/20〜3/21のいずれか。出演日未発表）",
+     "kind": "フェス",
+     "venue": "神戸ワールド記念ホール（兵庫県）",
+     "source_url": "https://megavegas.jp/",
      "confidence": "high"
     }
    ]
@@ -4346,6 +4378,14 @@
      "kind": "フェス",
      "venue": "幕張メッセ（千葉県）",
      "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-01-24",
+     "title": "HYPE LIKE IT!（1/24）",
+     "kind": "フェス",
+     "venue": "幕張メッセ国際展示場1・2・3ホール（千葉県）",
+     "source_url": "https://xhl-music.com/feature/hypelikeit",
      "confidence": "high"
     }
    ]
@@ -9512,19 +9552,6 @@
     }
    ]
   },
-  "SA": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-28",
-     "title": "MASTERPIECE（11/28）",
-     "kind": "フェス",
-     "venue": "岐阜市文化センター（岐阜）",
-     "source_url": "http://masterpiece-gifu.com/",
-     "confidence": "high"
-    }
-   ]
-  },
   "STAB 4 REASON AND THE STYLES": {
    "aliases": [],
    "events": [
@@ -10236,6 +10263,14 @@
      "kind": "フェス",
      "venue": "（大阪）",
      "source_url": "https://pkshampoo.jp/psychicfes/artist.html",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-01-24",
+     "title": "HYPE LIKE IT!（1/24）",
+     "kind": "フェス",
+     "venue": "幕張メッセ国際展示場1・2・3ホール（千葉県）",
+     "source_url": "https://xhl-music.com/feature/hypelikeit",
      "confidence": "high"
     }
    ]
@@ -12897,6 +12932,14 @@
      "venue": "下北沢界隈(複数ライブハウス)（東京都）",
      "source_url": "https://www.ragnet.co.jp/music-festival-winter",
      "confidence": "high"
+    },
+    {
+     "date": "2027-01-22",
+     "title": "Music Lane Festival Okinawa（1/22〜1/24のいずれか。出演日未発表）",
+     "kind": "フェス",
+     "venue": "沖縄市 コザ ミュージックタウンほか（沖縄県）",
+     "source_url": "https://www.musiclanefestival.com/",
+     "confidence": "high"
     }
    ]
   },
@@ -14791,6 +14834,14 @@
      "venue": "みずほPayPayドーム福岡（福岡県）",
      "source_url": "https://anisama.tv/2027/fukuoka/",
      "confidence": "high"
+    },
+    {
+     "date": "2027-02-20",
+     "title": "LISANI! TOKYO（2/20）",
+     "kind": "フェス",
+     "venue": "TOYOTA ARENA TOKYO（東京都）",
+     "source_url": "https://www.lisani.jp/live/",
+     "confidence": "high"
     }
    ]
   },
@@ -16107,6 +16158,14 @@
      "kind": "フェス",
      "venue": "LINE CUBE SHIBUYA / 代々木公園イベント広場（東京都）",
      "source_url": "https://www.j-wave.co.jp/special/inspiretokyo/",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-03-22",
+     "title": "TOKYO GUITAR JAMBOREE 九州場所（3/22）",
+     "kind": "フェス",
+     "venue": "福岡国際センター（福岡県）",
+     "source_url": "https://fmfukuoka.co.jp/lp/fukuokaguitarjamboree/",
      "confidence": "high"
     }
    ]
@@ -18093,6 +18152,14 @@
      "venue": "幕張メッセ（千葉県）",
      "source_url": "https://countdownjapan.jp/",
      "confidence": "high"
+    },
+    {
+     "date": "2027-02-06",
+     "title": "BE FES!!（BEAMS 50th ANNIVERSARY FES.）（2/6）",
+     "kind": "フェス",
+     "venue": "国立代々木競技場 第一体育館（東京都）",
+     "source_url": "https://festival-life.com/169315",
+     "confidence": "high"
     }
    ]
   },
@@ -18688,6 +18755,14 @@
      "venue": "みずほPayPayドーム福岡（福岡県）",
      "source_url": "https://anisama.tv/2027/fukuoka/",
      "confidence": "high"
+    },
+    {
+     "date": "2027-02-20",
+     "title": "LISANI! TOKYO（2/20）",
+     "kind": "フェス",
+     "venue": "TOYOTA ARENA TOKYO（東京都）",
+     "source_url": "https://www.lisani.jp/live/",
+     "confidence": "high"
     }
    ]
   },
@@ -19077,6 +19152,981 @@
      "kind": "フェス",
      "venue": "信州スカイパーク アイネットやまびこドーム（長野）",
      "source_url": "https://overheadfes.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Amina": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-22",
+     "title": "Music Lane Festival Okinawa（1/22〜1/24のいずれか。出演日未発表）",
+     "kind": "フェス",
+     "venue": "沖縄市 コザ ミュージックタウンほか（沖縄県）",
+     "source_url": "https://www.musiclanefestival.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Buddhadatta": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-22",
+     "title": "Music Lane Festival Okinawa（1/22〜1/24のいずれか。出演日未発表）",
+     "kind": "フェス",
+     "venue": "沖縄市 コザ ミュージックタウンほか（沖縄県）",
+     "source_url": "https://www.musiclanefestival.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Destiny Hope Tiara": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-22",
+     "title": "Music Lane Festival Okinawa（1/22〜1/24のいずれか。出演日未発表）",
+     "kind": "フェス",
+     "venue": "沖縄市 コザ ミュージックタウンほか（沖縄県）",
+     "source_url": "https://www.musiclanefestival.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Fried Banana Shop": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-22",
+     "title": "Music Lane Festival Okinawa（1/22〜1/24のいずれか。出演日未発表）",
+     "kind": "フェス",
+     "venue": "沖縄市 コザ ミュージックタウンほか（沖縄県）",
+     "source_url": "https://www.musiclanefestival.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "HARIKUYAMAKU": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-22",
+     "title": "Music Lane Festival Okinawa（1/22〜1/24のいずれか。出演日未発表）",
+     "kind": "フェス",
+     "venue": "沖縄市 コザ ミュージックタウンほか（沖縄県）",
+     "source_url": "https://www.musiclanefestival.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "IRIS MONDO": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-22",
+     "title": "Music Lane Festival Okinawa（1/22〜1/24のいずれか。出演日未発表）",
+     "kind": "フェス",
+     "venue": "沖縄市 コザ ミュージックタウンほか（沖縄県）",
+     "source_url": "https://www.musiclanefestival.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "かわらかの": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-22",
+     "title": "Music Lane Festival Okinawa（1/22〜1/24のいずれか。出演日未発表）",
+     "kind": "フェス",
+     "venue": "沖縄市 コザ ミュージックタウンほか（沖縄県）",
+     "source_url": "https://www.musiclanefestival.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "keigo": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-22",
+     "title": "Music Lane Festival Okinawa（1/22〜1/24のいずれか。出演日未発表）",
+     "kind": "フェス",
+     "venue": "沖縄市 コザ ミュージックタウンほか（沖縄県）",
+     "source_url": "https://www.musiclanefestival.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "kill me Elk": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-22",
+     "title": "Music Lane Festival Okinawa（1/22〜1/24のいずれか。出演日未発表）",
+     "kind": "フェス",
+     "venue": "沖縄市 コザ ミュージックタウンほか（沖縄県）",
+     "source_url": "https://www.musiclanefestival.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "石川紅奈": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-22",
+     "title": "Music Lane Festival Okinawa（1/22〜1/24のいずれか。出演日未発表）",
+     "kind": "フェス",
+     "venue": "沖縄市 コザ ミュージックタウンほか（沖縄県）",
+     "source_url": "https://www.musiclanefestival.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "nork？": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-22",
+     "title": "Music Lane Festival Okinawa（1/22〜1/24のいずれか。出演日未発表）",
+     "kind": "フェス",
+     "venue": "沖縄市 コザ ミュージックタウンほか（沖縄県）",
+     "source_url": "https://www.musiclanefestival.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "nufehtin": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-22",
+     "title": "Music Lane Festival Okinawa（1/22〜1/24のいずれか。出演日未発表）",
+     "kind": "フェス",
+     "venue": "沖縄市 コザ ミュージックタウンほか（沖縄県）",
+     "source_url": "https://www.musiclanefestival.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "パノラマとラボラトリー": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-22",
+     "title": "Music Lane Festival Okinawa（1/22〜1/24のいずれか。出演日未発表）",
+     "kind": "フェス",
+     "venue": "沖縄市 コザ ミュージックタウンほか（沖縄県）",
+     "source_url": "https://www.musiclanefestival.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "pige": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-22",
+     "title": "Music Lane Festival Okinawa（1/22〜1/24のいずれか。出演日未発表）",
+     "kind": "フェス",
+     "venue": "沖縄市 コザ ミュージックタウンほか（沖縄県）",
+     "source_url": "https://www.musiclanefestival.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "redraw": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-22",
+     "title": "Music Lane Festival Okinawa（1/22〜1/24のいずれか。出演日未発表）",
+     "kind": "フェス",
+     "venue": "沖縄市 コザ ミュージックタウンほか（沖縄県）",
+     "source_url": "https://www.musiclanefestival.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "REJAY": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-22",
+     "title": "Music Lane Festival Okinawa（1/22〜1/24のいずれか。出演日未発表）",
+     "kind": "フェス",
+     "venue": "沖縄市 コザ ミュージックタウンほか（沖縄県）",
+     "source_url": "https://www.musiclanefestival.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "SAISA": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-22",
+     "title": "Music Lane Festival Okinawa（1/22〜1/24のいずれか。出演日未発表）",
+     "kind": "フェス",
+     "venue": "沖縄市 コザ ミュージックタウンほか（沖縄県）",
+     "source_url": "https://www.musiclanefestival.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Shohey Uemura × yuhei miura": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-22",
+     "title": "Music Lane Festival Okinawa（1/22〜1/24のいずれか。出演日未発表）",
+     "kind": "フェス",
+     "venue": "沖縄市 コザ ミュージックタウンほか（沖縄県）",
+     "source_url": "https://www.musiclanefestival.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "STAP Sigh Boys": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-22",
+     "title": "Music Lane Festival Okinawa（1/22〜1/24のいずれか。出演日未発表）",
+     "kind": "フェス",
+     "venue": "沖縄市 コザ ミュージックタウンほか（沖縄県）",
+     "source_url": "https://www.musiclanefestival.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "TECHNOBOYS PULCRAFT GREEN-FUND": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-22",
+     "title": "Music Lane Festival Okinawa（1/22〜1/24のいずれか。出演日未発表）",
+     "kind": "フェス",
+     "venue": "沖縄市 コザ ミュージックタウンほか（沖縄県）",
+     "source_url": "https://www.musiclanefestival.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "THREE1989": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-22",
+     "title": "Music Lane Festival Okinawa（1/22〜1/24のいずれか。出演日未発表）",
+     "kind": "フェス",
+     "venue": "沖縄市 コザ ミュージックタウンほか（沖縄県）",
+     "source_url": "https://www.musiclanefestival.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "融解建築": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-22",
+     "title": "Music Lane Festival Okinawa（1/22〜1/24のいずれか。出演日未発表）",
+     "kind": "フェス",
+     "venue": "沖縄市 コザ ミュージックタウンほか（沖縄県）",
+     "source_url": "https://www.musiclanefestival.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Grrrl Gang": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-22",
+     "title": "Music Lane Festival Okinawa（1/22〜1/24のいずれか。出演日未発表）",
+     "kind": "フェス",
+     "venue": "沖縄市 コザ ミュージックタウンほか（沖縄県）",
+     "source_url": "https://www.musiclanefestival.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Shye": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-22",
+     "title": "Music Lane Festival Okinawa（1/22〜1/24のいずれか。出演日未発表）",
+     "kind": "フェス",
+     "venue": "沖縄市 コザ ミュージックタウンほか（沖縄県）",
+     "source_url": "https://www.musiclanefestival.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Tompuvan": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-22",
+     "title": "Music Lane Festival Okinawa（1/22〜1/24のいずれか。出演日未発表）",
+     "kind": "フェス",
+     "venue": "沖縄市 コザ ミュージックタウンほか（沖縄県）",
+     "source_url": "https://www.musiclanefestival.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "starrducc": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-22",
+     "title": "Music Lane Festival Okinawa（1/22〜1/24のいずれか。出演日未発表）",
+     "kind": "フェス",
+     "venue": "沖縄市 コザ ミュージックタウンほか（沖縄県）",
+     "source_url": "https://www.musiclanefestival.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "GIFU": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-22",
+     "title": "Music Lane Festival Okinawa（1/22〜1/24のいずれか。出演日未発表）",
+     "kind": "フェス",
+     "venue": "沖縄市 コザ ミュージックタウンほか（沖縄県）",
+     "source_url": "https://www.musiclanefestival.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Stiques x The Wxve": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-22",
+     "title": "Music Lane Festival Okinawa（1/22〜1/24のいずれか。出演日未発表）",
+     "kind": "フェス",
+     "venue": "沖縄市 コザ ミュージックタウンほか（沖縄県）",
+     "source_url": "https://www.musiclanefestival.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "RINNI": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-22",
+     "title": "Music Lane Festival Okinawa（1/22〜1/24のいずれか。出演日未発表）",
+     "kind": "フェス",
+     "venue": "沖縄市 コザ ミュージックタウンほか（沖縄県）",
+     "source_url": "https://www.musiclanefestival.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Yunsae": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-22",
+     "title": "Music Lane Festival Okinawa（1/22〜1/24のいずれか。出演日未発表）",
+     "kind": "フェス",
+     "venue": "沖縄市 コザ ミュージックタウンほか（沖縄県）",
+     "source_url": "https://www.musiclanefestival.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "槇原敬之": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-02-06",
+     "title": "BE FES!!（BEAMS 50th ANNIVERSARY FES.）（2/6）",
+     "kind": "フェス",
+     "venue": "国立代々木競技場 第一体育館（東京都）",
+     "source_url": "https://festival-life.com/169315",
+     "confidence": "high"
+    }
+   ]
+  },
+  "スピッツ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-02-06",
+     "title": "BE FES!!（BEAMS 50th ANNIVERSARY FES.）（2/6）",
+     "kind": "フェス",
+     "venue": "国立代々木競技場 第一体育館（東京都）",
+     "source_url": "https://festival-life.com/169315",
+     "confidence": "high"
+    }
+   ]
+  },
+  "小泉今日子": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-02-06",
+     "title": "BE FES!!（BEAMS 50th ANNIVERSARY FES.）（2/6）",
+     "kind": "フェス",
+     "venue": "国立代々木競技場 第一体育館（東京都）",
+     "source_url": "https://festival-life.com/169315",
+     "confidence": "high"
+    }
+   ]
+  },
+  "STUTS": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-02-06",
+     "title": "BE FES!!（BEAMS 50th ANNIVERSARY FES.）（2/6）",
+     "kind": "フェス",
+     "venue": "国立代々木競技場 第一体育館（東京都）",
+     "source_url": "https://festival-life.com/169315",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Cornelius": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-02-06",
+     "title": "BE FES!!（BEAMS 50th ANNIVERSARY FES.）（2/6）",
+     "kind": "フェス",
+     "venue": "国立代々木競技場 第一体育館（東京都）",
+     "source_url": "https://festival-life.com/169315",
+     "confidence": "high"
+    }
+   ]
+  },
+  "HYUKOH": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-02-06",
+     "title": "BE FES!!（BEAMS 50th ANNIVERSARY FES.）（2/6）",
+     "kind": "フェス",
+     "venue": "国立代々木競技場 第一体育館（東京都）",
+     "source_url": "https://festival-life.com/169315",
+     "confidence": "high"
+    }
+   ]
+  },
+  "七人のカリスマ声優": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-02-20",
+     "title": "LISANI! TOKYO（2/20）",
+     "kind": "フェス",
+     "venue": "TOYOTA ARENA TOKYO（東京都）",
+     "source_url": "https://www.lisani.jp/live/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "高橋李依": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-02-20",
+     "title": "LISANI! TOKYO（2/20）",
+     "kind": "フェス",
+     "venue": "TOYOTA ARENA TOKYO（東京都）",
+     "source_url": "https://www.lisani.jp/live/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "夏川椎菜": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-02-20",
+     "title": "LISANI! TOKYO（2/20）",
+     "kind": "フェス",
+     "venue": "TOYOTA ARENA TOKYO（東京都）",
+     "source_url": "https://www.lisani.jp/live/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "millsage": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-02-20",
+     "title": "LISANI! TOKYO（2/20）",
+     "kind": "フェス",
+     "venue": "TOYOTA ARENA TOKYO（東京都）",
+     "source_url": "https://www.lisani.jp/live/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "一家Dumb Rock!": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-02-20",
+     "title": "LISANI! TOKYO（2/20）",
+     "kind": "フェス",
+     "venue": "TOYOTA ARENA TOKYO（東京都）",
+     "source_url": "https://www.lisani.jp/live/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "アイドルマスター シャイニーカラーズ【ストレイライト】": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-02-21",
+     "title": "LISANI! TOKYO（2/21）",
+     "kind": "フェス",
+     "venue": "TOYOTA ARENA TOKYO（東京都）",
+     "source_url": "https://www.lisani.jp/live/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "青木陽菜": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-02-21",
+     "title": "LISANI! TOKYO（2/21）",
+     "kind": "フェス",
+     "venue": "TOYOTA ARENA TOKYO（東京都）",
+     "source_url": "https://www.lisani.jp/live/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "いきづらい部！": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-02-21",
+     "title": "LISANI! TOKYO（2/21）",
+     "kind": "フェス",
+     "venue": "TOYOTA ARENA TOKYO（東京都）",
+     "source_url": "https://www.lisani.jp/live/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "PENGUIN RESEARCH": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-02-21",
+     "title": "LISANI! TOKYO（2/21）",
+     "kind": "フェス",
+     "venue": "TOYOTA ARENA TOKYO（東京都）",
+     "source_url": "https://www.lisani.jp/live/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Poppin'Party": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-02-21",
+     "title": "LISANI! TOKYO（2/21）",
+     "kind": "フェス",
+     "venue": "TOYOTA ARENA TOKYO（東京都）",
+     "source_url": "https://www.lisani.jp/live/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "UNiTiUM": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-02-21",
+     "title": "LISANI! TOKYO（2/21）",
+     "kind": "フェス",
+     "venue": "TOYOTA ARENA TOKYO（東京都）",
+     "source_url": "https://www.lisani.jp/live/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "奥田民生": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-22",
+     "title": "TOKYO GUITAR JAMBOREE 九州場所（3/22）",
+     "kind": "フェス",
+     "venue": "福岡国際センター（福岡県）",
+     "source_url": "https://fmfukuoka.co.jp/lp/fukuokaguitarjamboree/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "トータス松本": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-22",
+     "title": "TOKYO GUITAR JAMBOREE 九州場所（3/22）",
+     "kind": "フェス",
+     "venue": "福岡国際センター（福岡県）",
+     "source_url": "https://fmfukuoka.co.jp/lp/fukuokaguitarjamboree/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "スガ シカオ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-22",
+     "title": "TOKYO GUITAR JAMBOREE 九州場所（3/22）",
+     "kind": "フェス",
+     "venue": "福岡国際センター（福岡県）",
+     "source_url": "https://fmfukuoka.co.jp/lp/fukuokaguitarjamboree/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "森山直太朗": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-22",
+     "title": "TOKYO GUITAR JAMBOREE 九州場所（3/22）",
+     "kind": "フェス",
+     "venue": "福岡国際センター（福岡県）",
+     "source_url": "https://fmfukuoka.co.jp/lp/fukuokaguitarjamboree/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "はっとり": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-22",
+     "title": "TOKYO GUITAR JAMBOREE 九州場所（3/22）",
+     "kind": "フェス",
+     "venue": "福岡国際センター（福岡県）",
+     "source_url": "https://fmfukuoka.co.jp/lp/fukuokaguitarjamboree/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "竹内アンナ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-22",
+     "title": "TOKYO GUITAR JAMBOREE 九州場所（3/22）",
+     "kind": "フェス",
+     "venue": "福岡国際センター（福岡県）",
+     "source_url": "https://fmfukuoka.co.jp/lp/fukuokaguitarjamboree/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Antal": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-04-16",
+     "title": "Rainbow Disco Club（4/16〜4/18のいずれか。出演日未発表）",
+     "kind": "フェス",
+     "venue": "東伊豆クロスカントリーコース特設ステージ（静岡県）",
+     "source_url": "https://www.rainbowdiscoclub.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Ben UFO": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-04-16",
+     "title": "Rainbow Disco Club（4/16〜4/18のいずれか。出演日未発表）",
+     "kind": "フェス",
+     "venue": "東伊豆クロスカントリーコース特設ステージ（静岡県）",
+     "source_url": "https://www.rainbowdiscoclub.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Chaos In The CBD": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-04-16",
+     "title": "Rainbow Disco Club（4/16〜4/18のいずれか。出演日未発表）",
+     "kind": "フェス",
+     "venue": "東伊豆クロスカントリーコース特設ステージ（静岡県）",
+     "source_url": "https://www.rainbowdiscoclub.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Craig Richards": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-04-16",
+     "title": "Rainbow Disco Club（4/16〜4/18のいずれか。出演日未発表）",
+     "kind": "フェス",
+     "venue": "東伊豆クロスカントリーコース特設ステージ（静岡県）",
+     "source_url": "https://www.rainbowdiscoclub.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Danilo Plessow (MCDE)": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-04-16",
+     "title": "Rainbow Disco Club（4/16〜4/18のいずれか。出演日未発表）",
+     "kind": "フェス",
+     "venue": "東伊豆クロスカントリーコース特設ステージ（静岡県）",
+     "source_url": "https://www.rainbowdiscoclub.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "DJ Masda": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-04-16",
+     "title": "Rainbow Disco Club（4/16〜4/18のいずれか。出演日未発表）",
+     "kind": "フェス",
+     "venue": "東伊豆クロスカントリーコース特設ステージ（静岡県）",
+     "source_url": "https://www.rainbowdiscoclub.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "DJ Nobu": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-04-16",
+     "title": "Rainbow Disco Club（4/16〜4/18のいずれか。出演日未発表）",
+     "kind": "フェス",
+     "venue": "東伊豆クロスカントリーコース特設ステージ（静岡県）",
+     "source_url": "https://www.rainbowdiscoclub.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Jeff Mills": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-04-16",
+     "title": "Rainbow Disco Club（4/16〜4/18のいずれか。出演日未発表）",
+     "kind": "フェス",
+     "venue": "東伊豆クロスカントリーコース特設ステージ（静岡県）",
+     "source_url": "https://www.rainbowdiscoclub.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Jyoty": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-04-16",
+     "title": "Rainbow Disco Club（4/16〜4/18のいずれか。出演日未発表）",
+     "kind": "フェス",
+     "venue": "東伊豆クロスカントリーコース特設ステージ（静岡県）",
+     "source_url": "https://www.rainbowdiscoclub.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Palms Trax": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-04-16",
+     "title": "Rainbow Disco Club（4/16〜4/18のいずれか。出演日未発表）",
+     "kind": "フェス",
+     "venue": "東伊豆クロスカントリーコース特設ステージ（静岡県）",
+     "source_url": "https://www.rainbowdiscoclub.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Sofia Kourtesis": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-04-16",
+     "title": "Rainbow Disco Club（4/16〜4/18のいずれか。出演日未発表）",
+     "kind": "フェス",
+     "venue": "東伊豆クロスカントリーコース特設ステージ（静岡県）",
+     "source_url": "https://www.rainbowdiscoclub.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "庵'z": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-19",
+     "title": "HACHINOHEなりきり音楽祭（12/19〜12/20のいずれか。出演日未発表）",
+     "kind": "フェス",
+     "venue": "SG GROUPホールはちのへ 八戸市公民館ホール（青森県）",
+     "source_url": "https://hachi-kokaido.com/2026/10/post-53.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "井上用水路": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-19",
+     "title": "HACHINOHEなりきり音楽祭（12/19〜12/20のいずれか。出演日未発表）",
+     "kind": "フェス",
+     "venue": "SG GROUPホールはちのへ 八戸市公民館ホール（青森県）",
+     "source_url": "https://hachi-kokaido.com/2026/10/post-53.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "HITOMAZ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-19",
+     "title": "HACHINOHEなりきり音楽祭（12/19〜12/20のいずれか。出演日未発表）",
+     "kind": "フェス",
+     "venue": "SG GROUPホールはちのへ 八戸市公民館ホール（青森県）",
+     "source_url": "https://hachi-kokaido.com/2026/10/post-53.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "LUCHAPY": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-19",
+     "title": "HACHINOHEなりきり音楽祭（12/19〜12/20のいずれか。出演日未発表）",
+     "kind": "フェス",
+     "venue": "SG GROUPホールはちのへ 八戸市公民館ホール（青森県）",
+     "source_url": "https://hachi-kokaido.com/2026/10/post-53.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Enfants": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-23",
+     "title": "HYPE LIKE IT!（1/23）",
+     "kind": "フェス",
+     "venue": "幕張メッセ国際展示場1・2・3ホール（千葉県）",
+     "source_url": "https://xhl-music.com/feature/hypelikeit",
+     "confidence": "high"
+    }
+   ]
+  },
+  "DURDN": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-23",
+     "title": "HYPE LIKE IT!（1/23）",
+     "kind": "フェス",
+     "venue": "幕張メッセ国際展示場1・2・3ホール（千葉県）",
+     "source_url": "https://xhl-music.com/feature/hypelikeit",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Laura day romance": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-23",
+     "title": "HYPE LIKE IT!（1/23）",
+     "kind": "フェス",
+     "venue": "幕張メッセ国際展示場1・2・3ホール（千葉県）",
+     "source_url": "https://xhl-music.com/feature/hypelikeit",
+     "confidence": "high"
+    }
+   ]
+  },
+  "TENSAIBAND BEYOND": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-23",
+     "title": "HYPE LIKE IT!（1/23）",
+     "kind": "フェス",
+     "venue": "幕張メッセ国際展示場1・2・3ホール（千葉県）",
+     "source_url": "https://xhl-music.com/feature/hypelikeit",
+     "confidence": "high"
+    }
+   ]
+  },
+  "TENDOUJI": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-23",
+     "title": "HYPE LIKE IT!（1/23）",
+     "kind": "フェス",
+     "venue": "幕張メッセ国際展示場1・2・3ホール（千葉県）",
+     "source_url": "https://xhl-music.com/feature/hypelikeit",
+     "confidence": "high"
+    }
+   ]
+  },
+  "古舘佑太郎（BAND SET）": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-24",
+     "title": "HYPE LIKE IT!（1/24）",
+     "kind": "フェス",
+     "venue": "幕張メッセ国際展示場1・2・3ホール（千葉県）",
+     "source_url": "https://xhl-music.com/feature/hypelikeit",
+     "confidence": "high"
+    }
+   ]
+  },
+  "LITE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-24",
+     "title": "HYPE LIKE IT!（1/24）",
+     "kind": "フェス",
+     "venue": "幕張メッセ国際展示場1・2・3ホール（千葉県）",
+     "source_url": "https://xhl-music.com/feature/hypelikeit",
      "confidence": "high"
     }
    ]

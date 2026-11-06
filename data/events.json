@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T07:07:00+09:00",
+ "updated": "2026-11-06T20:10:00+09:00",
  "artists": [
   "04 Limited Sazabys",
   "ELLEGARDEN",
@@ -499,11 +499,11 @@
    "artist": "Wienners",
    "date": "2026-11-10",
    "title": "Wienners 振替公演",
-   "kind": "ワンマン",
+   "kind": "対バン",
    "venue": "仙台LIVE HOUSE enn 2nd（宮城）",
    "ticket_name": "イープラス",
-   "ticket_url": "https://eplus.jp/sf/word/0000033997",
-   "sale_info": "10/4から振替。開場18:30/開演19:00。既存チケット有効、払戻は10/11〜10/18。新規販売は10/19 10:00から（ぴあ・e+・ローチケ）",
+   "ticket_url": "https://eplus.jp/sf/detail/1033790001-P0030166P021001?P1=0175",
+   "sale_info": "10/4から振替。開場18:30/開演19:00。既存チケット有効、払戻は10/11〜10/18。新規販売は10/19 10:00から（ぴあ・e+・ローチケ）。前売4,500円（ドリンク代別）。GUEST 忘れらんねえよ",
    "source_url": "https://wienners.net/news/a7f439a2-6d04-4f64-ad42-d403a20060ed",
    "confidence": "high",
    "sales": [
@@ -806,7 +806,7 @@
    "with": "ハルカミライ",
    "ticket_name": "イープラス",
    "ticket_url": "https://eplus.jp/heysmith_AOJ47tour/",
-   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）",
+   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）。公式にSOLD OUT表示（2026-11-06確認）",
    "source_url": "https://spice.eplus.jp/articles/344241",
    "confidence": "high"
   },
@@ -913,7 +913,7 @@
    "with": "ハルカミライ",
    "ticket_name": "イープラス",
    "ticket_url": "https://eplus.jp/heysmith_AOJ47tour/",
-   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）",
+   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）。公式にSOLD OUT表示（2026-11-06確認）",
    "source_url": "https://spice.eplus.jp/articles/344241",
    "confidence": "high"
   },
@@ -1057,7 +1057,7 @@
    "title": "ONE MAN TOUR 2026 横浜（10/2延期の振替公演）",
    "kind": "ワンマン",
    "venue": "KT Zepp Yokohama（神奈川）",
-   "sale_info": "10/2(金)公演の振替。開場18:00 開演19:00。払い戻しをしないチケットはそのまま有効（払い戻し受付は10/19で終了）",
+   "sale_info": "¥6,600（ドリンク別）。10/2(金)公演の振替。開場18:00 開演19:00。払い戻しをしないチケットはそのまま有効（払い戻し受付は10/19で終了）",
    "ticket_name": "チケプラ",
    "source_url": "https://www.04limitedsazabys.com/news/detail/2446",
    "confidence": "high",
@@ -1237,10 +1237,11 @@
    "kind": "対バン",
    "venue": "名古屋クラブクアトロ（愛知）",
    "ticket_name": "イープラス",
-   "ticket_url": "https://eplus.jp/sf/word/0000033997",
-   "sale_info": "開場18:00/開演19:00",
+   "ticket_url": "https://eplus.jp/sf/detail/1033790001-P0030158P021001?P1=0175",
+   "sale_info": "開場18:00/開演19:00 前売5,000円（ドリンク代別）",
    "source_url": "https://eplus.jp/sf/word/0000033997",
-   "confidence": "high"
+   "confidence": "high",
+   "with": "ヤバイTシャツ屋さん"
   },
   {
    "artist": "ハルカミライ",
@@ -1453,7 +1454,15 @@
    "ticket_url": "https://t.pia.jp/pia/event/event.do?eventCd=2638145",
    "sale_info": "開場13:00／開演14:00",
    "source_url": "https://muque.jp/live/live-1674/",
-   "confidence": "low"
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "一般発売",
+     "end": "2026-11-20",
+     "url": "https://t.pia.jp/pia/event/event.do?eventCd=2638145",
+     "note": "販売中・11/20 23:59まで（開始日はページに記載なし）"
+    }
+   ]
   },
   {
    "artist": "ハルカミライ",
@@ -1717,7 +1726,7 @@
     }
    ],
    "source_url": "https://muque.jp/live/live-1678/",
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "artist": "久石譲",
@@ -1737,9 +1746,12 @@
    "title": "Wienners OVER THE TOP TOUR 2026 ファイナル",
    "kind": "対バン",
    "venue": "LIQUIDROOM（東京）",
-   "sale_info": "Wienners対バンツアーの最終日。ゲスト：粗品、ヤバイTシャツ屋さん、04 Limited Sazabys",
+   "sale_info": "Wienners対バンツアーの最終日。ゲスト：粗品、ヤバイTシャツ屋さん、04 Limited Sazabys。¥5,000。ぴあ https://w.pia.jp/t/wienners-tour2026",
    "source_url": "https://natalie.mu/music/news/686462",
-   "confidence": "high"
+   "confidence": "high",
+   "with": "Wienners",
+   "ticket_name": "イープラス/チケットぴあ",
+   "ticket_url": "https://eplus.jp/wienners-tour2026"
   },
   {
    "artist": "Bro.KORN",
@@ -1768,11 +1780,11 @@
    "artist": "Wienners",
    "date": "2026-11-24",
    "title": "OVER THE TOP TOUR 2026 ファイナル",
-   "kind": "ワンマン",
+   "kind": "対バン",
    "venue": "恵比寿 LIQUIDROOM（東京）",
    "ticket_name": "イープラス",
-   "ticket_url": "https://eplus.jp/sf/word/0000033997",
-   "sale_info": "開場18:00/開演19:00",
+   "ticket_url": "https://eplus.jp/sf/detail/1033790001-P0030165P021001?P1=0175",
+   "sale_info": "開場18:00/開演19:00 前売5,000円（ドリンク代別）",
    "source_url": "https://eplus.jp/sf/word/0000033997",
    "confidence": "high",
    "with": "04 Limited Sazabys"
@@ -1820,7 +1832,7 @@
    "kind": "対バン",
    "venue": "静岡UMBER（静岡）",
    "ticket_name": "イープラス",
-   "ticket_url": "https://eplus.jp/sf/word/0000069733",
+   "ticket_url": "https://eplus.jp/sf/detail/2403140001-P0030277P021001?P1=0175",
    "sale_info": "開場18:00/開演19:00 オールスタンディング5,500円",
    "source_url": "https://www.harukamirai.com/schedule/detail/1351",
    "confidence": "high"
@@ -1866,7 +1878,7 @@
    "with": "dustbox",
    "ticket_name": "イープラス",
    "ticket_url": "https://eplus.jp/heysmith_AOJ47tour/",
-   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）",
+   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）。公式にSOLD OUT表示（2026-11-06確認）",
    "source_url": "https://spice.eplus.jp/articles/344241",
    "confidence": "high"
   },
@@ -1964,7 +1976,7 @@
    "ticket_url": "https://eplus.jp/sf/detail/3987700001",
    "source_url": "https://eplus.jp/sf/detail/3987700001",
    "confidence": "high",
-   "sale_info": "開場18:00／開演19:00。予定枚数終了",
+   "sale_info": "開場18:00／開演19:00。オールスタンディング前売5,000円（税込、ドリンク別）。予定枚数終了",
    "sales": [
     {
      "label": "イープラス受付",
@@ -1995,7 +2007,7 @@
    "kind": "対バン",
    "venue": "伊那GRAMHOUSE（長野）",
    "ticket_name": "イープラス",
-   "ticket_url": "https://eplus.jp/sf/word/0000069733",
+   "ticket_url": "https://eplus.jp/sf/detail/2403140001-P0030278P021001?P1=0175",
    "sale_info": "開場18:00/開演19:00 スタンディング5,500円",
    "source_url": "https://www.harukamirai.com/schedule/detail/1352",
    "confidence": "high",
@@ -2071,7 +2083,7 @@
    "venue": "佐賀GEILS（佐賀）",
    "ticket_name": "イープラス",
    "ticket_url": "https://eplus.jp/heysmith_AOJ47tour/",
-   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）",
+   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）。公式にSOLD OUT表示（2026-11-06確認）",
    "source_url": "https://spice.eplus.jp/articles/344241",
    "confidence": "high",
    "with": "THE ORAL CIGARETTES"
@@ -2193,7 +2205,8 @@
    "ticket_url": "https://www.alegria.de/alg/veranstaltungen/joe-hisaishis-world-dream-tour",
    "source_url": "https://joehisaishi.com/concert_category/2026/page/5/",
    "confidence": "high",
-   "ticket_name": "alegria"
+   "ticket_name": "alegria",
+   "with": "Royal Philharmonic Orchestra"
   },
   {
    "artist": "04 Limited Sazabys",
@@ -2255,7 +2268,7 @@
    "venue": "Zepp Fukuoka（福岡）",
    "ticket_name": "イープラス",
    "ticket_url": "https://eplus.jp/heysmith_AOJ47tour/",
-   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）",
+   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）。公式にSOLD OUT表示（2026-11-06確認）",
    "source_url": "https://spice.eplus.jp/articles/344241",
    "confidence": "high",
    "with": "THE ORAL CIGARETTES"
@@ -2371,7 +2384,8 @@
    "ticket_url": "https://www.alegria.de/alg/veranstaltungen/joe-hisaishis-world-dream-tour",
    "source_url": "https://joehisaishi.com/concert_category/2026/page/5/",
    "confidence": "high",
-   "ticket_name": "alegria"
+   "ticket_name": "alegria",
+   "with": "Royal Philharmonic Orchestra"
   },
   {
    "artist": "9mm Parabellum Bullet",
@@ -2389,7 +2403,9 @@
     }
    ],
    "source_url": "https://9mm.jp/live.php",
-   "confidence": "high"
+   "confidence": "high",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/4596780001-P0030001"
   },
   {
    "artist": "coldrain",
@@ -2512,7 +2528,8 @@
    "ticket_url": "https://www.proarte.de/de/konzerte/joe-hisaishis-world-dream-tour/1688",
    "source_url": "https://joehisaishi.com/concert_category/2026/page/5/",
    "confidence": "high",
-   "ticket_name": "ProArte"
+   "ticket_name": "ProArte",
+   "with": "Royal Philharmonic Orchestra"
   },
   {
    "artist": "Fear, and Loathing in Las Vegas",
@@ -2720,8 +2737,11 @@
    "title": "BLAZE UP NAGASAKI 2026（12/5・6のうち12/5）",
    "kind": "フェス",
    "venue": "出島メッセ長崎（長崎）",
-   "source_url": "https://spice.eplus.jp/articles/342587",
-   "confidence": "high"
+   "source_url": "https://barks.jp/news/1091706/",
+   "confidence": "high",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/blazeupnagasaki/",
+   "sale_info": "開場9:00／開演11:00。1日券10,800円（中高生3,000円）、2日通し21,000円（中高生5,500円）"
   },
   {
    "artist": "ROTTENGRAFFTY",
@@ -2784,9 +2804,9 @@
    "kind": "フェス",
    "venue": "出島メッセ長崎（長崎）",
    "ticket_name": "イープラス",
-   "ticket_url": "https://eplus.jp/sf/word/0000038382",
-   "sale_info": "12/5・6の2日間。e+のSiMページに掲載（抽選）。出演者の公式発表は未確認",
-   "source_url": "https://barks.jp/news/1091706/",
+   "ticket_url": "https://eplus.jp/blazeupnagasaki/",
+   "sale_info": "開場9:00／開演11:00。1日券10,800円（中高生3,000円）、2日通し21,000円（中高生5,500円）",
+   "source_url": "https://www.harukamirai.com/schedule/detail/1337",
    "confidence": "high",
    "date": "2026-12-05"
   },
@@ -2906,6 +2926,13 @@
      "end": "2026-10-04",
      "url": "https://eplus.jp/sf/detail/0117080001-P0030280P021001",
      "note": "10/1 20:00〜10/4 23:59"
+    },
+    {
+     "label": "トレード抽選",
+     "start": "2026-11-23",
+     "end": "2026-11-24",
+     "url": "https://eplus.jp/thehormonea-trade",
+     "note": "11/23 12:00〜11/24 23:59"
     }
    ]
   },
@@ -3208,7 +3235,16 @@
    "ticket_url": "https://l-tike.com/st1/glimspanky_muque",
    "sale_info": "開場18:00／開演19:00。オールスタンディング6,500円・学生4,000円（ドリンク別）",
    "source_url": "https://muque.jp/live/live-1652/",
-   "confidence": "high"
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "受付",
+     "start": "2026-08-08",
+     "end": "2026-08-30",
+     "url": "https://l-tike.com/st1/glimspanky_muque",
+     "note": "8/8 21:00〜8/30 23:59（muque公式の記載）"
+    }
+   ]
   },
   {
    "artist": "Fear, and Loathing in Las Vegas",
@@ -3535,8 +3571,16 @@
    "venue": "愛知（名古屋COMTEC PORTBASE）",
    "source_url": "https://hey-smith.com/live?y=2026&m=12",
    "confidence": "high",
-   "with": "東京スカパラダイスオーケストラ 他",
-   "sale_info": "1F 6,000円／2F 6,500円"
+   "with": "東京スカパラダイスオーケストラ, Mad Caddies, カライドスコープ",
+   "sale_info": "1F 6,000円／2F 6,500円",
+   "ticket_name": "イープラス",
+   "sales": [
+    {
+     "label": "一般発売",
+     "start": "2026-11-01",
+     "note": "e+"
+    }
+   ]
   },
   {
    "artist": "HEY-SMITH",
@@ -3546,8 +3590,16 @@
    "venue": "大阪（GORILLA HALL OSAKA）",
    "source_url": "https://hey-smith.com/live?y=2026&m=12",
    "confidence": "high",
-   "with": "東京スカパラダイスオーケストラ 他",
-   "sale_info": "6,000円"
+   "with": "東京スカパラダイスオーケストラ, Mad Caddies, GELUGUGU",
+   "sale_info": "6,000円",
+   "ticket_name": "イープラス",
+   "sales": [
+    {
+     "label": "一般発売",
+     "start": "2026-11-01",
+     "note": "e+"
+    }
+   ]
   },
   {
    "artist": "Mrs. GREEN APPLE",
@@ -3628,7 +3680,9 @@
     }
    ],
    "source_url": "https://9mm.jp/live.php",
-   "confidence": "high"
+   "confidence": "high",
+   "ticket_name": "チケットぴあ",
+   "ticket_url": "https://w.pia.jp/t/shinjuku-loft50th/"
   },
   {
    "artist": "Mrs. GREEN APPLE",
@@ -3765,8 +3819,16 @@
    "venue": "神奈川（KT Zepp Yokohama）",
    "source_url": "https://hey-smith.com/live?y=2026&m=12",
    "confidence": "high",
-   "with": "東京スカパラダイスオーケストラ 他",
-   "sale_info": "1F 6,000円／2F 6,500円"
+   "with": "東京スカパラダイスオーケストラ, Mad Caddies, カライドスコープ",
+   "sale_info": "1F 6,000円／2F 6,500円",
+   "ticket_name": "イープラス",
+   "sales": [
+    {
+     "label": "一般発売",
+     "start": "2026-11-01",
+     "note": "e+"
+    }
+   ]
   },
   {
    "artist": "[Alexandros]",
@@ -3866,6 +3928,13 @@
      "end": "2026-10-04",
      "url": "https://eplus.jp/sf/detail/0117080001-P0030281P021001",
      "note": "10/1 20:00〜10/4 23:59"
+    },
+    {
+     "label": "トレード抽選",
+     "start": "2026-12-06",
+     "end": "2026-12-07",
+     "url": "https://eplus.jp/thehormonea-trade",
+     "note": "12/6 12:00〜12/7 23:59"
     }
    ]
   },
@@ -4329,7 +4398,7 @@
    "venue": "秩父ladderladder（埼玉）",
    "source_url": "https://www.harukamirai.com/news/detail/1358",
    "confidence": "high",
-   "ticket_url": "https://eplus.jp/hrm-ofas/",
+   "ticket_url": "https://eplus.jp/sf/detail/2403140001-P0030280P021001?P1=0175",
    "sale_info": "開場18:00/開演19:00 前売5,500円",
    "sales": [
     {
@@ -4422,7 +4491,15 @@
    "source_url": "https://hey-smith.com/live?y=2026&m=12",
    "confidence": "high",
    "with": "Northern19",
-   "sale_info": "ADV 4,800円"
+   "sale_info": "ADV 4,800円",
+   "ticket_name": "イープラス",
+   "sales": [
+    {
+     "label": "一般発売",
+     "start": "2026-11-01",
+     "note": "e+"
+    }
+   ]
   },
   {
    "artist": "[Alexandros]",
@@ -4460,9 +4537,24 @@
    "venue": "フェスティバルホール（大阪）",
    "ticket_name": "イープラス",
    "ticket_url": "https://eplus.jp/sf/detail/4391890001-P0030003P021002?P1=0175",
-   "sale_info": "開演19:00",
+   "sale_info": "開場18:00／開演19:00。指揮・ピアノ：久石譲",
    "source_url": "https://eplus.jp/hisaishi/",
-   "confidence": "high"
+   "confidence": "high",
+   "with": "日本センチュリー交響楽団",
+   "sales": [
+    {
+     "label": "先着座席選択先行",
+     "start": "2026-09-20",
+     "end": "2026-10-01",
+     "note": "12:00〜18:00・受付終了"
+    },
+    {
+     "label": "先着一般発売",
+     "start": "2026-10-03",
+     "end": "2026-12-22",
+     "note": "開始10:00・締切18:00"
+    }
+   ]
   },
   {
    "kind": "フェス",
@@ -4476,6 +4568,13 @@
      "start": "2026-10-15",
      "end": "2026-10-25",
      "note": "21:00開始〜23:59締切"
+    },
+    {
+     "label": "オフィシャル5次受付（抽選）",
+     "start": "2026-11-06",
+     "end": "2026-11-15",
+     "url": "https://eplus.jp/radiocrazy2026/",
+     "note": "スマチケ受取限定・同行者登録が必要"
     }
    ],
    "source_url": "https://eplus.jp/radiocrazy2026/",
@@ -4554,7 +4653,16 @@
    "with": "Survive Said The Prophet / ACIDMAN / 9mm Parabellum Bullet / knosis / ReoNa",
    "ticket_name": "イープラス",
    "ticket_url": "https://eplus.jp/sstp/",
-   "sale_info": "開場14:00／開演15:00"
+   "sale_info": "開場14:00／開演15:00。通常（スタンディング）9,000円・U-22 7,000円（税込）",
+   "sales": [
+    {
+     "label": "オフィシャル5次先行（先着）",
+     "start": "2026-10-16",
+     "end": "2026-11-29",
+     "url": "https://eplus.jp/sstp/",
+     "note": "10/16 18:00〜11/29 23:59"
+    }
+   ]
   },
   {
    "artist": "ハルカミライ",
@@ -4636,9 +4744,24 @@
    "venue": "フェスティバルホール（大阪）",
    "ticket_name": "イープラス",
    "ticket_url": "https://eplus.jp/sf/detail/4391890001-P0030003P021001?P1=0175",
-   "sale_info": "開演14:00",
+   "sale_info": "開場13:00／開演14:00。指揮・ピアノ：久石譲",
    "source_url": "https://eplus.jp/hisaishi/",
-   "confidence": "high"
+   "confidence": "high",
+   "with": "日本センチュリー交響楽団",
+   "sales": [
+    {
+     "label": "先着座席選択先行",
+     "start": "2026-09-20",
+     "end": "2026-10-01",
+     "note": "12:00〜18:00・受付終了"
+    },
+    {
+     "label": "先着一般発売",
+     "start": "2026-10-03",
+     "end": "2026-12-23",
+     "note": "開始10:00・締切18:00"
+    }
+   ]
   },
   {
    "artist": "福山雅治",
@@ -4646,7 +4769,7 @@
    "title": "福山☆冬の大感謝祭 其の二十四（12/26）",
    "kind": "ワンマン",
    "venue": "Kアリーナ横浜（神奈川）",
-   "sale_info": "開演16:00。アリーナ15,500円／スタンド12,500円。FC最速先行は9/16終了。一般発売日は未確認",
+   "sale_info": "開場14:30／開演16:00（変更の可能性あり）。アリーナ15,500円／スタンド12,500円（18歳以下キャッシュバック8,500円はスタンドのみ）。FC最速先行は9/16終了。一般発売日は未確認",
    "source_url": "https://fmsp.amob.jp/mob/news/diarKijiShw.php?site=F&ima=0255&id=309128",
    "confidence": "high",
    "sales": [
@@ -4756,7 +4879,7 @@
    "title": "福山☆冬の大感謝祭 其の二十四（12/27）",
    "kind": "ワンマン",
    "venue": "Kアリーナ横浜（神奈川）",
-   "sale_info": "開演16:00。アリーナ15,500円／スタンド12,500円。FC最速先行は9/16終了。一般発売日は未確認",
+   "sale_info": "開場14:30／開演16:00（変更の可能性あり）。アリーナ15,500円／スタンド12,500円（18歳以下キャッシュバック8,500円はスタンドのみ）。FC最速先行は9/16終了。一般発売日は未確認",
    "source_url": "https://fmsp.amob.jp/mob/news/diarKijiShw.php?site=F&ima=0255&id=309128",
    "confidence": "high",
    "sales": [
@@ -4993,7 +5116,8 @@
    "kind": "フェス",
    "venue": "幕張メッセ国際展示場 イベントホール（千葉）",
    "source_url": "https://en.gekirock.com/news/2026/10/countdown_japan_2627_1st_lineup.php",
-   "confidence": "high"
+   "confidence": "high",
+   "ticket_url": "https://jfes.go.link/aLwaS"
   },
   {
    "artist": "SiM",
@@ -5066,7 +5190,7 @@
    "title": "COUNTDOWN JAPAN 26/27（12/29）",
    "kind": "フェス",
    "venue": "幕張メッセ（千葉）",
-   "source_url": "https://festival-life.com/168983",
+   "source_url": "https://muque.jp/live/live-1713/",
    "confidence": "high"
   },
   {
@@ -5093,7 +5217,7 @@
    "title": "福山☆冬の大感謝祭 其の二十四（12/29）",
    "kind": "ワンマン",
    "venue": "Kアリーナ横浜（神奈川）",
-   "sale_info": "開演16:00。アリーナ15,500円／スタンド12,500円。FC最速先行は9/16終了。一般発売日は未確認",
+   "sale_info": "開場14:30／開演16:00（変更の可能性あり）。アリーナ15,500円／スタンド12,500円（18歳以下キャッシュバック8,500円はスタンドのみ）。FC最速先行は9/16終了。一般発売日は未確認",
    "source_url": "https://fmsp.amob.jp/mob/news/diarKijiShw.php?site=F&ima=0255&id=309128",
    "confidence": "high",
    "sales": [
@@ -5243,7 +5367,7 @@
    "title": "福山☆冬の大感謝祭 其の二十四（12/31）",
    "kind": "ワンマン",
    "venue": "Kアリーナ横浜（神奈川）",
-   "sale_info": "開演16:00。アリーナ15,500円／スタンド12,500円。FC最速先行は9/16終了。一般発売日は未確認",
+   "sale_info": "開場14:30／開演16:00（変更の可能性あり）。アリーナ15,500円／スタンド12,500円（18歳以下キャッシュバック8,500円はスタンドのみ）。FC最速先行は9/16終了。一般発売日は未確認",
    "source_url": "https://fmsp.amob.jp/mob/news/diarKijiShw.php?site=F&ima=0255&id=309128",
    "confidence": "high",
    "sales": [
@@ -5281,7 +5405,7 @@
    "venue": "高松オリーブホール（香川）",
    "ticket_name": "イープラス",
    "ticket_url": "https://eplus.jp/heysmith_AOJ47tour/",
-   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）",
+   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）。公式にSOLD OUT表示（2026-11-06確認）",
    "source_url": "https://spice.eplus.jp/articles/344241",
    "confidence": "high",
    "with": "SiM"
@@ -5347,7 +5471,7 @@
    "venue": "徳島 アスティとくしま アクア・チッタ（徳島）",
    "ticket_name": "イープラス",
    "ticket_url": "https://eplus.jp/heysmith_AOJ47tour/",
-   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）",
+   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）。公式にSOLD OUT表示（2026-11-06確認）",
    "source_url": "https://spice.eplus.jp/articles/344241",
    "confidence": "high",
    "with": "SiM"
@@ -5371,7 +5495,8 @@
    "kind": "イベント",
    "venue": "心斎橋5会場（大阪）",
    "source_url": "https://wienners.net/live?page=2",
-   "confidence": "high"
+   "confidence": "low",
+   "sale_info": "公式LIVE一覧（2026-11-06時点）に掲載なし。中止の告知も確認できず、要確認"
   },
   {
    "artist": "9mm Parabellum Bullet",
@@ -5381,7 +5506,7 @@
    "venue": "恵比寿LIQUIDROOM（東京）",
    "with": "THE KEBABS",
    "ticket_name": "イープラス",
-   "ticket_url": "https://eplus.jp/LIQUIDROOM0112_thekebabs/",
+   "ticket_url": "https://eplus.jp/LIQUIDROOM0112_9mm/",
    "sale_info": "開場18:00/開演19:00 5,900円(+ドリンク代)",
    "sales": [
     {
@@ -5397,7 +5522,7 @@
      "url": "https://eplus.jp/sf/detail/4617080001"
     }
    ],
-   "source_url": "https://kebabsband.com/live/93540/",
+   "source_url": "https://9mm.jp/live.php",
    "confidence": "high"
   },
   {
@@ -5408,7 +5533,7 @@
    "venue": "松江AZTiC canova（島根）",
    "ticket_name": "イープラス",
    "ticket_url": "https://eplus.jp/heysmith_AOJ47tour/",
-   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）",
+   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）。公式にSOLD OUT表示（2026-11-06確認）",
    "source_url": "https://spice.eplus.jp/articles/344241",
    "confidence": "high",
    "with": "FOMARE"
@@ -5461,7 +5586,7 @@
    "venue": "米子AZTiC laughs（鳥取）",
    "ticket_name": "イープラス",
    "ticket_url": "https://eplus.jp/heysmith_AOJ47tour/",
-   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）",
+   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）。公式にSOLD OUT表示（2026-11-06確認）",
    "source_url": "https://spice.eplus.jp/articles/344241",
    "confidence": "high",
    "with": "FOMARE"
@@ -5517,6 +5642,48 @@
    "confidence": "high"
   },
   {
+   "artist": "04 Limited Sazabys",
+   "date": "2027-01-15",
+   "title": "YON TOWN 町内新年会",
+   "kind": "ワンマン",
+   "venue": "名古屋DIAMOND HALL（愛知）",
+   "ticket_name": "チケプラ",
+   "ticket_url": "https://tixplus.jp/feature/04limitedsazabys/yontown-live2701/fc-1mh4g/",
+   "sale_info": "YON TOWN会員限定（1人2枚まで）。開場18:00 開演19:00。5,555円（税込・ドリンク別・お年玉付き）",
+   "sales": [
+    {
+     "label": "長期会員先行",
+     "start": "2026-11-05",
+     "end": "2026-11-15",
+     "url": "https://tixplus.jp/feature/04limitedsazabys/yontown-live2701/fc-1mh4g/",
+     "note": "11/5 21:00〜11/15 23:59。2022/11/4までの入会者が対象。当落11/19 18:00、入金11/23 23:59まで"
+    }
+   ],
+   "source_url": "https://www.04limitedsazabys.com/news/detail/2462",
+   "confidence": "high"
+  },
+  {
+   "artist": "ELLEGARDEN",
+   "date": "2027-01-15",
+   "title": "Bad For Education Tour II (2026) 名古屋（10/23延期の振替公演）",
+   "kind": "ワンマン",
+   "venue": "COMTEC PORTBASE（愛知）",
+   "ticket_name": "e+",
+   "ticket_url": "https://eplus.jp/ellegarden2026/",
+   "sale_info": "2026/10/23公演の振替。開場18:00 開演19:00。お持ちのチケットは振替公演に有効",
+   "sales": [
+    {
+     "label": "払い戻し受付（e+）",
+     "start": "2026-11-05",
+     "end": "2026-11-15",
+     "url": "https://www.sundayfolk.com/sundy/2026/11/post_27176.html",
+     "note": "11/5 10:00〜11/15 23:59。期間外は不可"
+    }
+   ],
+   "source_url": "https://www.sundayfolk.com/sundy/2026/11/post_27176.html",
+   "confidence": "low"
+  },
+  {
    "artist": "SHANK",
    "date": "2027-01-15",
    "title": "SHANK THE TOUR 2026 FINAL STAGE",
@@ -5559,7 +5726,7 @@
    "with": "Maki",
    "ticket_name": "イープラス",
    "ticket_url": "https://eplus.jp/heysmith_AOJ47tour/",
-   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）",
+   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）。公式にSOLD OUT表示（2026-11-06確認）",
    "source_url": "https://spice.eplus.jp/articles/344241",
    "confidence": "high"
   },
@@ -5594,7 +5761,15 @@
    "ticket_url": "https://eplus.jp/sf/detail/4535240001-P0030001P021001?P1=0175",
    "sale_info": "指揮：久石譲、ピアノ：亀井聖矢。開場13:00/開演14:00",
    "source_url": "https://joehisaishi.com/concert_category/2027/",
-   "confidence": "high"
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "先着一般発売",
+     "start": "2026-09-10",
+     "end": "2027-01-12",
+     "note": "開始10:00・締切18:00（座席選択）"
+    }
+   ]
   },
   {
    "artist": "HEY-SMITH",
@@ -5605,7 +5780,7 @@
    "with": "Maki",
    "ticket_name": "イープラス",
    "ticket_url": "https://eplus.jp/heysmith_AOJ47tour/",
-   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）",
+   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）。公式にSOLD OUT表示（2026-11-06確認）",
    "source_url": "https://spice.eplus.jp/articles/344241",
    "confidence": "high"
   },
@@ -5628,7 +5803,15 @@
    "ticket_url": "https://eplus.jp/sf/detail/4535260001-P0030001P021001?P1=0175",
    "sale_info": "指揮：久石譲、ピアノ：亀井聖矢。開場13:00/開演14:00",
    "source_url": "https://joehisaishi.com/concert_category/2027/",
-   "confidence": "high"
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "先着一般発売",
+     "start": "2026-09-10",
+     "end": "2027-01-13",
+     "note": "開始10:00・締切18:00（座席選択）"
+    }
+   ]
   },
   {
    "artist": "HEY-SMITH",
@@ -5639,7 +5822,7 @@
    "with": "The Suicide Machines",
    "ticket_name": "イープラス",
    "ticket_url": "https://eplus.jp/heysmith_AOJ47tour/",
-   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）",
+   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）。公式にSOLD OUT表示（2026-11-06確認）",
    "source_url": "https://spice.eplus.jp/articles/344241",
    "confidence": "high"
   },
@@ -5652,7 +5835,7 @@
    "with": "The Suicide Machines",
    "ticket_name": "イープラス",
    "ticket_url": "https://eplus.jp/heysmith_AOJ47tour/",
-   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）",
+   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）。公式にSOLD OUT表示（2026-11-06確認）",
    "source_url": "https://spice.eplus.jp/articles/344241",
    "confidence": "high"
   },
@@ -5710,7 +5893,7 @@
    "with": "My Hair is Bad",
    "ticket_name": "イープラス",
    "ticket_url": "https://eplus.jp/heysmith_AOJ47tour/",
-   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）",
+   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）。公式にSOLD OUT表示（2026-11-06確認）",
    "source_url": "https://spice.eplus.jp/articles/344241",
    "confidence": "high"
   },
@@ -5754,7 +5937,7 @@
    "venue": "京セラドーム大阪（大阪）",
    "ticket_name": "イープラス",
    "ticket_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
-   "sale_info": "1/23・24の2日間。追加プレオーダーは8/28〜9/6で受付終了",
+   "sale_info": "1/23・24の2日間。最終プレオーダー（10/26〜11/1）も受付終了。一般発売の情報は未確認",
    "sales": [
     {
      "label": "追加プレオーダー",
@@ -5928,7 +6111,7 @@
    "venue": "京セラドーム大阪（大阪）",
    "ticket_name": "イープラス",
    "ticket_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
-   "sale_info": "1/23・24の2日間。追加プレオーダーは8/28〜9/6で受付終了",
+   "sale_info": "1/23・24の2日間。最終プレオーダー（10/26〜11/1）も受付終了。一般発売の情報は未確認",
    "sales": [
     {
      "label": "追加プレオーダー",
@@ -6073,6 +6256,63 @@
    "confidence": "high"
   },
   {
+   "artist": "Wienners",
+   "date": "2027-01-24",
+   "title": "HYPE LIKE IT!（1/24 HOPE STAGE）",
+   "kind": "フェス",
+   "venue": "幕張メッセ 国際展示場1-3ホール（千葉）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/4569750001-P0030001?P6=001&P1=0402&P59=1",
+   "sale_info": "開場9:00／開演11:00。1日券11,000円。2026-11-06 出演発表",
+   "sales": [
+    {
+     "label": "オフィシャル先行",
+     "start": "2026-07-29",
+     "end": "2026-08-03",
+     "note": "抽選"
+    },
+    {
+     "label": "オフィシャル2次先行",
+     "start": "2026-08-07",
+     "end": "2026-08-16",
+     "note": "抽選"
+    },
+    {
+     "label": "ファミリーマート先行",
+     "start": "2026-08-18",
+     "end": "2026-08-24",
+     "note": "抽選"
+    },
+    {
+     "label": "先着1次先行",
+     "start": "2026-08-28",
+     "end": "2026-09-27",
+     "note": "先着"
+    },
+    {
+     "label": "イープラスプレオーダー（1回目）",
+     "start": "2026-10-02",
+     "end": "2026-10-12",
+     "note": "抽選"
+    },
+    {
+     "label": "イープラスプレオーダー（2回目）",
+     "start": "2026-10-16",
+     "end": "2026-10-25",
+     "note": "抽選"
+    },
+    {
+     "label": "最終先着先行",
+     "start": "2026-11-02",
+     "end": "2026-11-18",
+     "url": "https://eplus.jp/sf/detail/4569750001",
+     "note": "先着。20:00開始、23:59締切"
+    }
+   ],
+   "source_url": "https://wienners.net/live/e4bafa2e-f0f8-4632-a27c-a80aa4fc45a9",
+   "confidence": "high"
+  },
+  {
    "artist": "a flood of circle",
    "date": "2027-01-24",
    "title": "a flood of circle TOUR 革命未遂の蝶が見る夢",
@@ -6086,7 +6326,7 @@
    "date": "2027-01-24",
    "title": "HYPE LIKE IT!（1/24）",
    "kind": "フェス",
-   "venue": "幕張メッセ（千葉）",
+   "venue": "幕張メッセ 国際展示場1-3ホール（千葉）",
    "sale_info": "1日券11,000円",
    "sales": [
     {
@@ -6132,10 +6372,19 @@
      "start": "2026-10-16",
      "end": "2026-10-25",
      "note": "18:00〜23:59"
+    },
+    {
+     "label": "最終先着先行",
+     "start": "2026-11-02",
+     "end": "2026-11-18",
+     "url": "https://eplus.jp/sf/detail/4569750001",
+     "note": "先着。20:00開始、23:59締切"
     }
    ],
    "source_url": "https://eplus.jp/sf/detail/4569750001",
-   "confidence": "high"
+   "confidence": "high",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/4569750001-P0030001?P6=001&P1=0402&P59=1"
   },
   {
    "artist": "TenTwenty",
@@ -6188,7 +6437,7 @@
    "venue": "愛知 ElectricLadyLand（愛知）",
    "ticket_name": "チケットぴあ",
    "ticket_url": "https://w.pia.jp/t/wienners-official/",
-   "sale_info": "4,500円(税込)＋ドリンク代。新体制2回目のワンマンツアー",
+   "sale_info": "4,500円(税込)＋ドリンク代。新体制2回目のワンマンツアー。開場17:15/開演18:00",
    "sales": [
     {
      "label": "オフィシャル最速先行(抽選)",
@@ -6281,6 +6530,32 @@
    "confidence": "high"
   },
   {
+   "artist": "THE KEBABS",
+   "date": "2027-02-04",
+   "title": "THE KEBABS寄集",
+   "kind": "ワンマン",
+   "venue": "名古屋CLUB QUATTRO（愛知）",
+   "ticket_name": "チケットぴあ",
+   "ticket_url": "https://w.pia.jp/s/thekebabs27oss/",
+   "sale_info": "5,500円（+1ドリンク）開場18:15/開演19:00",
+   "sales": [
+    {
+     "label": "オフィシャル先行",
+     "start": "2026-11-05",
+     "end": "2026-11-11",
+     "url": "https://w.pia.jp/s/thekebabs27oss/",
+     "note": "11/5 18:00〜11/11 23:59"
+    },
+    {
+     "label": "一般発売",
+     "start": "2027-01-09",
+     "note": "10:00〜"
+    }
+   ],
+   "source_url": "https://kebabsband.com/live/93549/",
+   "confidence": "high"
+  },
+  {
    "artist": "ハルカミライ",
    "date": "2027-02-04",
    "title": "MY FLAGMENT",
@@ -6321,32 +6596,6 @@
    "confidence": "high"
   },
   {
-   "artist": "THE KEBABS",
-   "date": "2027-02-04",
-   "title": "THE KEBABS寄集",
-   "kind": "ワンマン",
-   "venue": "名古屋CLUB QUATTRO（愛知）",
-   "ticket_name": "チケットぴあ",
-   "ticket_url": "https://w.pia.jp/s/thekebabs27oss/",
-   "sale_info": "5,500円（+1ドリンク）開場18:15/開演19:00",
-   "sales": [
-    {
-     "label": "オフィシャル先行",
-     "start": "2026-11-05",
-     "end": "2026-11-11",
-     "url": "https://w.pia.jp/s/thekebabs27oss/",
-     "note": "11/5 18:00〜11/11 23:59"
-    },
-    {
-     "label": "一般発売",
-     "start": "2027-01-09",
-     "note": "10:00〜"
-    }
-   ],
-   "source_url": "https://kebabsband.com/live/93549/",
-   "confidence": "high"
-  },
-  {
    "artist": "muque",
    "date": "2027-02-05",
    "title": "muque 5th anniversary kick off live \"SAVE POINT\"",
@@ -6356,13 +6605,14 @@
    "ticket_url": "https://eplus.jp/sf/detail/3987700001",
    "source_url": "https://eplus.jp/sf/detail/3987700001",
    "confidence": "high",
-   "sale_info": "開場18:00／開演19:00",
+   "sale_info": "開場18:00／開演19:00。1Fスタンディング5,500円・2F指定6,000円（税込、ドリンク別）。一般発売日は未記載",
    "sales": [
     {
-     "label": "イープラス受付",
-     "start": "2026-10-22",
-     "end": "2026-10-28",
-     "note": "12:00〜23:59"
+     "label": "FC最速先行（抽選）",
+     "start": "2026-10-09",
+     "end": "2026-10-18",
+     "url": "https://muque-fc.com/news/XawGFM5qw3kW2H5q6vgFhb",
+     "note": "10/9 18:00〜10/18 23:59・受付終了"
     },
     {
      "label": "オフィシャル先行（抽選）",
@@ -6377,20 +6627,6 @@
      "end": "2026-11-08",
      "url": "https://eplus.jp/muque/",
      "note": "開始12:00・締切23:59"
-    },
-    {
-     "label": "オフィシャル先行",
-     "start": "2026-10-22",
-     "end": "2026-10-28",
-     "url": "https://eplus.jp/sf/detail/3987700001",
-     "note": "抽選"
-    },
-    {
-     "label": "イープラス先行",
-     "start": "2026-10-31",
-     "end": "2026-11-08",
-     "url": "https://eplus.jp/sf/detail/3987700001",
-     "note": "抽選・12:00〜23:59"
     }
    ]
   },
@@ -6415,7 +6651,7 @@
    "venue": "東京ドーム（東京）",
    "ticket_name": "イープラス",
    "ticket_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
-   "sale_info": "2/6・7の2日間。追加プレオーダーは8/28〜9/6で受付終了",
+   "sale_info": "2/6・7の2日間。最終プレオーダー（10/26〜11/1）も受付終了。一般発売の情報は未確認",
    "sales": [
     {
      "label": "追加プレオーダー",
@@ -6444,7 +6680,7 @@
    "with": "KUZIRA",
    "ticket_name": "イープラス",
    "ticket_url": "https://eplus.jp/heysmith_AOJ47tour/",
-   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）",
+   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）。公式にSOLD OUT表示（2026-11-06確認）",
    "source_url": "https://spice.eplus.jp/articles/344241",
    "confidence": "high"
   },
@@ -6456,7 +6692,7 @@
    "venue": "大阪 Yogibo META VALLEY（大阪）",
    "ticket_name": "チケットぴあ",
    "ticket_url": "https://w.pia.jp/t/wienners-official/",
-   "sale_info": "4,500円(税込)＋ドリンク代。新体制2回目のワンマンツアー",
+   "sale_info": "4,500円(税込)＋ドリンク代。新体制2回目のワンマンツアー。開場17:15/開演18:00",
    "sales": [
     {
      "label": "オフィシャル最速先行(抽選)",
@@ -6492,7 +6728,7 @@
    "venue": "東京ドーム（東京）",
    "ticket_name": "イープラス",
    "ticket_url": "https://eplus.jp/sf/web/live/irg/boc2026/ep",
-   "sale_info": "2/6・7の2日間。追加プレオーダーは8/28〜9/6で受付終了",
+   "sale_info": "2/6・7の2日間。最終プレオーダー（10/26〜11/1）も受付終了。一般発売の情報は未確認",
    "sales": [
     {
      "label": "追加プレオーダー",
@@ -6521,7 +6757,7 @@
    "with": "KUZIRA",
    "ticket_name": "イープラス",
    "ticket_url": "https://eplus.jp/heysmith_AOJ47tour/",
-   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）",
+   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）。公式にSOLD OUT表示（2026-11-06確認）",
    "source_url": "https://spice.eplus.jp/articles/344241",
    "confidence": "high"
   },
@@ -6543,7 +6779,7 @@
    "with": "KUZIRA",
    "ticket_name": "イープラス",
    "ticket_url": "https://eplus.jp/heysmith_AOJ47tour/",
-   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）",
+   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）。公式にSOLD OUT表示（2026-11-06確認）",
    "source_url": "https://spice.eplus.jp/articles/344241",
    "confidence": "high"
   },
@@ -6564,7 +6800,7 @@
    "venue": "大分DRUM Be-0（大分）",
    "ticket_name": "イープラス",
    "ticket_url": "https://eplus.jp/heysmith_AOJ47tour/",
-   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）",
+   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）。公式にSOLD OUT表示（2026-11-06確認）",
    "source_url": "https://spice.eplus.jp/articles/344241",
    "confidence": "high",
    "with": "ヤバイTシャツ屋さん"
@@ -6648,7 +6884,7 @@
    "venue": "鹿児島CAPARVO HALL（鹿児島）",
    "ticket_name": "イープラス",
    "ticket_url": "https://eplus.jp/heysmith_AOJ47tour/",
-   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）",
+   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）。公式にSOLD OUT表示（2026-11-06確認）",
    "source_url": "https://spice.eplus.jp/articles/344241",
    "confidence": "high",
    "with": "ヤバイTシャツ屋さん"
@@ -6690,7 +6926,7 @@
    "venue": "熊本B.9 V1（熊本）",
    "ticket_name": "イープラス",
    "ticket_url": "https://eplus.jp/heysmith_AOJ47tour/",
-   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）",
+   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）。公式にSOLD OUT表示（2026-11-06確認）",
    "source_url": "https://spice.eplus.jp/articles/344241",
    "confidence": "high",
    "with": "ヤバイTシャツ屋さん"
@@ -6731,7 +6967,7 @@
    "with": "Dizzy Sunfist",
    "ticket_name": "イープラス",
    "ticket_url": "https://eplus.jp/heysmith_AOJ47tour/",
-   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）",
+   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）。公式にSOLD OUT表示（2026-11-06確認）",
    "source_url": "https://spice.eplus.jp/articles/344241",
    "confidence": "high"
   },
@@ -6753,7 +6989,7 @@
    "with": "Dizzy Sunfist",
    "ticket_name": "イープラス",
    "ticket_url": "https://eplus.jp/heysmith_AOJ47tour/",
-   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）",
+   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）。公式にSOLD OUT表示（2026-11-06確認）",
    "source_url": "https://spice.eplus.jp/articles/344241",
    "confidence": "high"
   },
@@ -6877,6 +7113,15 @@
    "confidence": "high"
   },
   {
+   "artist": "THE KEBABS",
+   "date": "2027-02-22",
+   "title": "THE KEBABS寄集",
+   "kind": "ワンマン",
+   "venue": "福岡BEAT STATION（福岡）",
+   "source_url": "https://kebabsband.com/live/",
+   "confidence": "high"
+  },
+  {
    "artist": "Wienners",
    "date": "2027-02-22",
    "title": "Wienners ONEMAN TOUR「来光TOUR 2027」",
@@ -6884,7 +7129,7 @@
    "venue": "東京 Zepp Shinjuku（東京）",
    "ticket_name": "チケットぴあ",
    "ticket_url": "https://w.pia.jp/t/wienners-official/",
-   "sale_info": "4,500円(税込)＋ドリンク代。新体制2回目のワンマンツアー",
+   "sale_info": "4,500円(税込)＋ドリンク代。新体制2回目のワンマンツアー。開場18:00/開演19:00",
    "sales": [
     {
      "label": "オフィシャル最速先行(抽選)",
@@ -6900,15 +7145,6 @@
     }
    ],
    "source_url": "https://wienners.net/news/a4789d67-5a78-42fd-9cbf-7828222c76c7",
-   "confidence": "high"
-  },
-  {
-   "artist": "THE KEBABS",
-   "date": "2027-02-22",
-   "title": "THE KEBABS寄集",
-   "kind": "ワンマン",
-   "venue": "福岡BEAT STATION（福岡）",
-   "source_url": "https://kebabsband.com/live/",
    "confidence": "high"
   },
   {
@@ -7058,7 +7294,7 @@
    "with": "JUNKY58%",
    "ticket_name": "イープラス",
    "ticket_url": "https://eplus.jp/heysmith_AOJ47tour/",
-   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）",
+   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）。公式にSOLD OUT表示（2026-11-06確認）",
    "source_url": "https://spice.eplus.jp/articles/344241",
    "confidence": "high"
   },
@@ -7115,7 +7351,7 @@
    "with": "ROTTENGRAFFTY",
    "ticket_name": "イープラス",
    "ticket_url": "https://eplus.jp/heysmith_AOJ47tour/",
-   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）",
+   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）。公式にSOLD OUT表示（2026-11-06確認）",
    "source_url": "https://spice.eplus.jp/articles/344241",
    "confidence": "high"
   },
@@ -7175,7 +7411,7 @@
    "with": "ROTTENGRAFFTY",
    "ticket_name": "イープラス",
    "ticket_url": "https://eplus.jp/heysmith_AOJ47tour/",
-   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）",
+   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）。公式にSOLD OUT表示（2026-11-06確認）",
    "source_url": "https://spice.eplus.jp/articles/344241",
    "confidence": "high"
   },
@@ -7261,7 +7497,7 @@
    "with": "SHADOWS",
    "ticket_name": "イープラス",
    "ticket_url": "https://eplus.jp/heysmith_AOJ47tour/",
-   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）",
+   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）。公式にSOLD OUT表示（2026-11-06確認）",
    "source_url": "https://spice.eplus.jp/articles/344241",
    "confidence": "high"
   },
@@ -7310,7 +7546,7 @@
    "with": "SHADOWS",
    "ticket_name": "イープラス",
    "ticket_url": "https://eplus.jp/heysmith_AOJ47tour/",
-   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）",
+   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）。公式にSOLD OUT表示（2026-11-06確認）",
    "source_url": "https://spice.eplus.jp/articles/344241",
    "confidence": "high"
   },
@@ -7384,7 +7620,7 @@
    "with": "SHADOWS",
    "ticket_name": "イープラス",
    "ticket_url": "https://eplus.jp/heysmith_AOJ47tour/",
-   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）",
+   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）。公式にSOLD OUT表示（2026-11-06確認）",
    "source_url": "https://spice.eplus.jp/articles/344241",
    "confidence": "high"
   },
@@ -7416,7 +7652,7 @@
    "with": "SHADOWS",
    "ticket_name": "イープラス",
    "ticket_url": "https://eplus.jp/heysmith_AOJ47tour/",
-   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）",
+   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）。公式にSOLD OUT表示（2026-11-06確認）",
    "source_url": "https://spice.eplus.jp/articles/344241",
    "confidence": "high"
   },
@@ -7488,7 +7724,7 @@
    "title": "MEGA VEGAS 2027（3/20）",
    "kind": "フェス",
    "venue": "神戸ワールド記念ホール（兵庫）",
-   "with": "10-FEET、ヤバイTシャツ屋さん、coldrain ほか",
+   "with": "10-FEET、ヤバイTシャツ屋さん、coldrain、iLiFE! ほか",
    "ticket_name": "イープラス",
    "ticket_url": "http://eplus.jp/falilv/",
    "sale_info": "開場10:30／開演12:00。1DAY 11,500円、2DAY 22,000円、VIP 1DAY 28,000円（税込・自由席）",
@@ -7505,6 +7741,13 @@
      "end": "2026-10-25",
      "url": "http://eplus.jp/falilv/",
      "note": "抽選"
+    },
+    {
+     "label": "オフィシャル2次先行",
+     "start": "2026-11-05",
+     "end": "2026-11-15",
+     "url": "https://eplus.jp/megavegas/",
+     "note": "22:00開始、23:59締切"
     }
    ],
    "source_url": "https://lasvegas-jp.com/live/9288",
@@ -7575,7 +7818,7 @@
    "title": "MEGA VEGAS 2027（3/21）",
    "kind": "フェス",
    "venue": "神戸ワールド記念ホール（兵庫）",
-   "with": "10-FEET、ヤバイTシャツ屋さん、coldrain ほか",
+   "with": "10-FEET、ヤバイTシャツ屋さん、coldrain、iLiFE! ほか",
    "ticket_name": "イープラス",
    "ticket_url": "http://eplus.jp/falilv/",
    "sale_info": "開場10:30／開演12:00。1DAY 11,500円、2DAY 22,000円、VIP 1DAY 28,000円（税込・自由席）",
@@ -7592,6 +7835,13 @@
      "end": "2026-10-25",
      "url": "http://eplus.jp/falilv/",
      "note": "抽選"
+    },
+    {
+     "label": "オフィシャル2次先行",
+     "start": "2026-11-05",
+     "end": "2026-11-15",
+     "url": "https://eplus.jp/megavegas/",
+     "note": "22:00開始、23:59締切"
     }
    ],
    "source_url": "https://lasvegas-jp.com/live/9290",
@@ -7632,7 +7882,7 @@
    "with": "山嵐",
    "ticket_name": "イープラス",
    "ticket_url": "https://eplus.jp/heysmith_AOJ47tour/",
-   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）",
+   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）。公式にSOLD OUT表示（2026-11-06確認）",
    "source_url": "https://spice.eplus.jp/articles/344241",
    "confidence": "high"
   },
@@ -7658,7 +7908,7 @@
    "with": "EGG BRAIN",
    "ticket_name": "イープラス",
    "ticket_url": "https://eplus.jp/heysmith_AOJ47tour/",
-   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）",
+   "sale_info": "1F立見/2F指定 4,600円（ドリンク別）。公式にSOLD OUT表示（2026-11-06確認）",
    "source_url": "https://spice.eplus.jp/articles/344241",
    "confidence": "high"
   },
@@ -7702,7 +7952,37 @@
    "ticket_url": "https://eplus.jp/heysmith_AOJ47tour/",
    "sale_info": "アリーナ立見8,500円／スタンドA7,500円／スタンドB7,000円",
    "source_url": "https://spice.eplus.jp/articles/344241",
-   "confidence": "high"
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "オフィシャル先行（抽選）",
+     "start": "2026-01-12",
+     "end": "2026-01-25",
+     "url": "https://eplus.jp/heysmith_AOJ47tour/",
+     "note": "19:00〜23:59"
+    },
+    {
+     "label": "オフィシャル2次先行（抽選）",
+     "start": "2026-02-20",
+     "end": "2026-03-01",
+     "url": "https://eplus.jp/heysmith_AOJ47tour/",
+     "note": "19:00〜23:59"
+    },
+    {
+     "label": "オフィシャル3次先行（先着）",
+     "start": "2026-04-03",
+     "end": "2026-04-12",
+     "url": "https://eplus.jp/heysmith_AOJ47tour/",
+     "note": "19:00〜23:59"
+    },
+    {
+     "label": "一般発売（先着）",
+     "start": "2026-05-01",
+     "end": "2027-04-02",
+     "url": "https://eplus.jp/heysmith_AOJ47tour/",
+     "note": "5/1 19:00〜4/2 23:59。e+で受付中"
+    }
+   ]
   },
   {
    "artist": "SiM",
@@ -11418,7 +11698,6 @@
     "Maki",
     "MARIO2BLOCK",
     "May Forth",
-    "SA",
     "STAB 4 REASON AND THE STYLES",
     "かずき山盛り",
     "ヤバイTシャツ屋さん",
@@ -11437,7 +11716,7 @@
     "サバシスター"
    ],
    "official_url": "http://masterpiece-gifu.com/",
-   "lineup_checked": "2026-11-02",
+   "lineup_checked": "2026-11-06",
    "lineup_days": {
     "2026-11-28": [
      "04 Limited Sazabys",
@@ -11448,7 +11727,6 @@
      "Maki",
      "MARIO2BLOCK",
      "May Forth",
-     "SA",
      "STAB 4 REASON AND THE STYLES",
      "かずき山盛り",
      "ヤバイTシャツ屋さん"
@@ -11623,7 +11901,7 @@
    "official_url": "https://www.edowave.com/",
    "ticket_name": "イープラス（前売3,300円）",
    "ticket_url": "https://eplus.jp/sf/detail/4580500001-P0030001P021001?P1=1221",
-   "lineup_checked": "2026-11-02",
+   "lineup_checked": "2026-11-06",
    "image": "https://static.wixstatic.com/media/29719f_39661f5d05f24f59b7c2cc24ca7adff1%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/29719f_39661f5d05f24f59b7c2cc24ca7adff1%7Emv2.jpg",
    "lineup_days": {
     "2026-11-29": [
@@ -11902,7 +12180,7 @@
     "かつしかトリオ"
    ],
    "source_url": "https://festival-life.com/169140",
-   "lineup_checked": "2026-11-02",
+   "lineup_checked": "2026-11-06",
    "image": "https://montreuxjazzfestival.jp/assets/ogp.jpg"
   },
   {
@@ -12318,7 +12596,7 @@
     "讃駆",
     "前田琴音"
    ],
-   "lineup_checked": "2026-11-03",
+   "lineup_checked": "2026-11-06",
    "source_url": "https://www.ragnet.co.jp/music-festival-winter",
    "official_url": "https://www.shimonite.com/",
    "image": "https://static.wixstatic.com/media/5ca89a_e131ba4147214be9ae053b0ac2dc8967~mv2.png/v1/fill/w_2500,h_977,al_c/5ca89a_e131ba4147214be9ae053b0ac2dc8967~mv2.png",
@@ -12604,7 +12882,7 @@
      "note": "10:00〜。e+／ぴあ／ローチケ／めぐろパーシモンホール"
     }
    ],
-   "lineup_checked": "2026-11-03"
+   "lineup_checked": "2026-11-06"
   },
   {
    "name": "お豆音楽祭",
@@ -12674,7 +12952,7 @@
    "pref": "広島",
    "status": "lineup",
    "source_url": "https://musubinoyumebanchi.jp/",
-   "lineup_checked": "2026-11-02",
+   "lineup_checked": "2026-11-06",
    "lineup": [
     "KANA-BOON",
     "Tele",
@@ -12932,7 +13210,7 @@
      "Masashi Kikuchi"
     ]
    },
-   "lineup_checked": "2026-11-02",
+   "lineup_checked": "2026-11-06",
    "venue": "神田明神文化交流館",
    "official_url": "https://www.nippachifactory.jp/events/nippachifest2026",
    "ticket_url": "https://www.nippachifactory.jp/events/nippachifest2026",
@@ -12958,7 +13236,7 @@
     "ゆけむりDJs"
    ],
    "source_url": "https://onsen-ongaku.com/onsenongaku-2026",
-   "lineup_checked": "2026-11-02",
+   "lineup_checked": "2026-11-06",
    "venue": "渋温泉 歴史の宿 金具屋",
    "official_url": "https://onsen-ongaku.com/onsenongaku-2026",
    "ticket_name": "Peatix（2日通し券13,900円）",
@@ -14360,9 +14638,19 @@
     "10-FEET",
     "04 Limited Sazabys",
     "BLUE ENCOUNT",
-    "HEY-SMITH"
+    "HEY-SMITH",
+    "Enfants",
+    "DURDN",
+    "Laura day romance",
+    "TENSAIBAND BEYOND",
+    "TENDOUJI",
+    "SPARK!!SOUND!!SHOW!!",
+    "Wienners",
+    "DENIMS",
+    "古舘佑太郎（BAND SET）",
+    "LITE"
    ],
-   "lineup_checked": "2026-11-05",
+   "lineup_checked": "2026-11-06",
    "sales": [
     {
      "label": "第1弾出演者FC先行",
@@ -14436,7 +14724,12 @@
      "フレデリック",
      "go!go!vanillas",
      "Chevon",
-     "WurtS"
+     "WurtS",
+     "Enfants",
+     "DURDN",
+     "Laura day romance",
+     "TENSAIBAND BEYOND",
+     "TENDOUJI"
     ],
     "2027-01-24": [
      "THE ORAL CIGARETTES",
@@ -14444,7 +14737,12 @@
      "10-FEET",
      "04 Limited Sazabys",
      "BLUE ENCOUNT",
-     "HEY-SMITH"
+     "HEY-SMITH",
+     "SPARK!!SOUND!!SHOW!!",
+     "Wienners",
+     "DENIMS",
+     "古舘佑太郎（BAND SET）",
+     "LITE"
     ]
    },
    "image": "https://xhl-music.com/static/fcopen/fanplakit/artist/xHL_s9DuihC8/feature/specialsite_fes_2026/img/ogp_kD8TJVi4.jpg",
@@ -14668,7 +14966,7 @@
     }
    ],
    "source_url": "https://www.thefirsttimes.jp/news/0000909966/",
-   "lineup_checked": "2026-11-02"
+   "lineup_checked": "2026-11-06"
   },
   {
    "name": "RAWFREQ（ローフリーク）",
@@ -14782,13 +15080,14 @@
     "Fear, and Loathing in Las Vegas",
     "10-FEET",
     "ヤバイTシャツ屋さん",
-    "coldrain"
+    "coldrain",
+    "iLiFE!"
    ],
    "ticket_name": "イープラス",
    "ticket_url": "http://eplus.jp/falilv/",
    "source_url": "https://lasvegas-jp.com/live/9288",
    "status": "lineup",
-   "lineup_checked": "2026-11-05"
+   "lineup_checked": "2026-11-06"
   },
   {
    "name": "TOKYO GUITAR JAMBOREE 九州場所",
@@ -14810,7 +15109,7 @@
    "ticket_url": "https://fmfukuoka.co.jp/lp/fukuokaguitarjamboree/ticket/",
    "note": "開場12:30／開演14:00",
    "source_url": "https://fmfukuoka.co.jp/lp/fukuokaguitarjamboree/",
-   "lineup_checked": "2026-11-02",
+   "lineup_checked": "2026-11-06",
    "lineup_days": {
     "2027-03-22": [
      "奥田民生",
@@ -14840,7 +15139,7 @@
    "pref": "東京",
    "status": "unknown",
    "source_url": "https://synchronicity.tv/festival/news/260413/",
-   "lineup_checked": "2026-10-19",
+   "lineup_checked": "2026-11-06",
    "official_url": "https://synchronicity.tv/festival/",
    "note": "前日4/9にショーケース＆カンファレンス「CUEW」。出演者・チケットは未発表",
    "venue": "渋谷エリア",
@@ -14899,7 +15198,7 @@
    "ticket_url": "https://rainbowdiscoclub.zaiko.io/ja/e/rdc2027",
    "note": "第1弾発表（and more）",
    "source_url": "https://festival-life.com/169284",
-   "lineup_checked": "2026-11-02",
+   "lineup_checked": "2026-11-06",
    "image": "https://www.rainbowdiscoclub.com/ogp.jpg"
   },
   {
@@ -14919,7 +15218,8 @@
     }
    ],
    "source_url": "https://triangle-official.jp/",
-   "image": "https://triangle-official.jp/assets/images/common/ogp.jpg"
+   "image": "https://triangle-official.jp/assets/images/common/ogp.jpg",
+   "lineup_checked": "2026-11-06"
   },
   {
    "name": "渋谷メタル会フェス",
@@ -14950,7 +15250,7 @@
    "pref": "富山",
    "status": "unknown",
    "source_url": "https://www.ragnet.co.jp/rock-festival",
-   "lineup_checked": "2026-10-19",
+   "lineup_checked": "2026-11-06",
    "official_url": "https://one-fes.jp/"
   },
   {
@@ -15044,7 +15344,8 @@
    "venue": "横浜赤レンガ倉庫",
    "official_url": "https://greenroom.jp",
    "status": "unknown",
-   "source_url": "https://greenroom.jp"
+   "source_url": "https://greenroom.jp",
+   "lineup_checked": "2026-11-06"
   },
   {
    "name": "CAMPASS",
@@ -15063,7 +15364,8 @@
    "venue": "神戸メリケンパーク",
    "official_url": "https://greenroom.jp",
    "status": "unknown",
-   "source_url": "https://greenroom.jp"
+   "source_url": "https://greenroom.jp",
+   "lineup_checked": "2026-11-06"
   },
   {
    "name": "かみのやまデスフェスト",
@@ -15084,7 +15386,8 @@
    "status": "unknown",
    "note": "会場は未発表（2026年は渋谷のライブハウス）",
    "source_url": "https://spice.eplus.jp/articles/347047",
-   "image": "https://yatsui-fes.com/images/ogp.png?261218"
+   "image": "https://yatsui-fes.com/images/ogp.png?261218",
+   "lineup_checked": "2026-11-06"
   },
   {
    "name": "京都大作戦2027",
@@ -15161,7 +15464,8 @@
     }
    ],
    "source_url": "https://festival-life.com/168990",
-   "image": "https://triangle-official.jp/assets/images/common/ogp.jpg"
+   "image": "https://triangle-official.jp/assets/images/common/ogp.jpg",
+   "lineup_checked": "2026-11-06"
   },
   {
    "name": "INSPIRATION OKINAWA",
@@ -15181,7 +15485,8 @@
    "status": "unknown",
    "note": "G-FREAK FACTORY主宰。初の完全野外",
    "source_url": "https://realsound.jp/2026/09/post-2524361.html",
-   "image": "https://yamabito-ongakusai.com/2027/ogp.png"
+   "image": "https://yamabito-ongakusai.com/2027/ogp.png",
+   "lineup_checked": "2026-11-06"
   },
   {
    "name": "鶴フェス",
@@ -15520,7 +15825,7 @@
    "official": "https://hey-smith.com/",
    "schedule": "https://hey-smith.com/live",
    "news": "(公式NEWSは2020年で停止。公演カレンダー https://hey-smith.com/ と e+・ナタリーで確認)",
-   "eplus": "https://eplus.jp/heysmith/"
+   "eplus": "https://eplus.jp/sf/word/0000035772"
   },
   "サンボマスター": {
    "official": "https://www.sambomaster.com/",
@@ -15605,7 +15910,9 @@
    "official": "https://www.mariyat.co.jp/",
    "news": "https://www.mariyat.co.jp/news",
    "schedule": "https://www.mariyat.co.jp/live",
-   "image": "https://www.mariyat.co.jp/images/og_icon.jpg"
+   "image": "https://www.mariyat.co.jp/images/og_icon.jpg",
+   "eplus": "https://eplus.jp/sf/word/0000000694",
+   "pia": "https://t.pia.jp/pia/artist/artists.do?artistsCd=11011289"
   },
   "THE ALFEE": {
    "official": "https://www.alfee.com/",
@@ -15847,12 +16154,12 @@
   },
   "04 Limited Sazabys": {
    "state": "ok",
-   "checked": "2026-11-05T07:18:00+09:00",
-   "news_checked": "2026-11-05T07:18:00+09:00"
+   "checked": "2026-11-06T20:10:00+09:00",
+   "news_checked": "2026-11-06T20:10:00+09:00"
   },
   "ELLEGARDEN": {
    "state": "ok",
-   "checked": "2026-11-06T07:07:00+09:00",
+   "checked": "2026-11-06T20:10:00+09:00",
    "note": "10/23名古屋は延期（振替日程は調整中・未発表）",
    "news_checked": "2026-11-04T20:17:00+09:00"
   },
@@ -15868,12 +16175,12 @@
   },
   "HEY-SMITH": {
    "state": "ok",
-   "checked": "2026-11-06T07:07:00+09:00",
+   "checked": "2026-11-06T20:10:00+09:00",
    "news_checked": "2026-11-04T20:17:00+09:00"
   },
   "マキシマム ザ ホルモン": {
    "state": "ok",
-   "checked": "2026-11-06T07:07:00+09:00",
+   "checked": "2026-11-06T20:10:00+09:00",
    "news_checked": "2026-11-04T20:17:00+09:00"
   },
   "サンボマスター": {
@@ -15938,29 +16245,29 @@
   },
   "Wienners": {
    "state": "ok",
-   "checked": "2026-11-05T07:18:00+09:00",
-   "news_checked": "2026-11-05T07:18:00+09:00"
+   "checked": "2026-11-06T20:10:00+09:00",
+   "news_checked": "2026-11-06T20:10:00+09:00"
   },
   "ハルカミライ": {
    "state": "ok",
-   "checked": "2026-11-05T07:18:00+09:00",
-   "news_checked": "2026-11-05T07:18:00+09:00"
+   "checked": "2026-11-06T20:10:00+09:00",
+   "news_checked": "2026-11-06T20:10:00+09:00"
   },
   "UNISON SQUARE GARDEN": {
    "state": "no_events",
-   "checked": "2026-11-06T07:07:00+09:00",
+   "checked": "2026-11-06T20:10:00+09:00",
    "note": "2026-04-27に活動休止を発表。最終公演は2026-07-15。再開の発表なし",
    "news_checked": "2026-11-04T20:17:00+09:00"
   },
   "Fear, and Loathing in Las Vegas": {
    "state": "ok",
-   "checked": "2026-11-05T07:18:00+09:00",
-   "news_checked": "2026-11-05T07:18:00+09:00"
+   "checked": "2026-11-06T20:10:00+09:00",
+   "news_checked": "2026-11-06T20:10:00+09:00"
   },
   "9mm Parabellum Bullet": {
    "state": "ok",
-   "checked": "2026-11-05T07:18:00+09:00",
-   "news_checked": "2026-11-05T07:18:00+09:00"
+   "checked": "2026-11-06T20:10:00+09:00",
+   "news_checked": "2026-11-06T20:10:00+09:00"
   },
   "斎藤宏介": {
    "state": "ok",
@@ -15969,8 +16276,8 @@
   },
   "BUMP OF CHICKEN": {
    "state": "ok",
-   "checked": "2026-11-05T07:18:00+09:00",
-   "news_checked": "2026-11-05T07:18:00+09:00"
+   "checked": "2026-11-06T20:10:00+09:00",
+   "news_checked": "2026-11-06T20:10:00+09:00"
   },
   "ブランデー戦記": {
    "state": "ok",
@@ -15979,23 +16286,23 @@
   },
   "muque": {
    "state": "ok",
-   "checked": "2026-11-05T07:18:00+09:00",
-   "news_checked": "2026-11-05T07:18:00+09:00"
+   "checked": "2026-11-06T20:10:00+09:00",
+   "news_checked": "2026-11-06T20:10:00+09:00"
   },
   "久石譲": {
    "state": "ok",
-   "checked": "2026-11-05T07:18:00+09:00",
-   "news_checked": "2026-11-05T07:18:00+09:00"
+   "checked": "2026-11-06T20:10:00+09:00",
+   "news_checked": "2026-11-06T20:10:00+09:00"
   },
   "福山雅治": {
    "state": "ok",
-   "checked": "2026-11-05T07:18:00+09:00",
-   "news_checked": "2026-11-05T07:18:00+09:00"
+   "checked": "2026-11-06T20:10:00+09:00",
+   "news_checked": "2026-11-06T20:10:00+09:00"
   },
   "竹内まりや": {
    "state": "no_events",
-   "checked": "2026-11-05T07:18:00+09:00",
-   "news_checked": "2026-11-05T07:18:00+09:00"
+   "checked": "2026-11-06T20:10:00+09:00",
+   "news_checked": "2026-11-06T20:10:00+09:00"
   },
   "Novelbright": {
    "state": "ok",
