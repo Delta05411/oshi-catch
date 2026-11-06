@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T20:10:00+09:00",
+ "updated": "2026-11-07T07:06:00+09:00",
  "artists": {
   "Saucy Dog": {
    "aliases": [
@@ -10960,6 +10960,14 @@
      "kind": "フェス",
      "venue": "幕張メッセ（千葉県）",
      "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "RADIO CRAZY（12/27）",
+     "kind": "フェス",
+     "venue": "INTEX大阪（大阪）",
+     "source_url": "https://novelbright.jp/news/detail/2536",
      "confidence": "high"
     }
    ]
