@@ -184,6 +184,7 @@ details.lu i{font-style:normal;color:var(--line2);margin:0 6px}
 #mnav::-webkit-scrollbar{display:none}
 #mnav button{flex:none;font-family:"Bebas Neue",sans-serif;font-size:19px;letter-spacing:.06em;color:var(--sub);white-space:nowrap}
 #mnav button:active,#mnav button:hover{color:var(--w)}
+#mnav button.on{color:var(--w);border-bottom:2px solid var(--w)}
 #mnav small{font-size:10px;margin-left:3px;color:var(--sub);vertical-align:top}
 .mon{scroll-margin-top:112px}
 .strow{display:flex;flex-wrap:wrap;align-items:center;gap:8px 16px}
@@ -444,6 +445,20 @@ function saveMySet(){if(!MYCUR)return;const d=MYCUR.d,raw=MYCUR.a||$('#myart').v
   const a=MYCUR.a||findArtist(raw)||raw,p=$('#myp').value.trim(),v=$('#mya').value.trim(),k=myKey(a,d);
   if(!p&&!v){toast('予想か実際のセトリを書いてください');return}
   const f=MYCUR.f||(MYSL[k]&&MYSL[k].f)||'';MYSL[k]={p,a:v,t:Date.now()};if(f)MYSL[k].f=f;saveMYSL();OPENMY.add(k);openMy(false);render();toast('保存しました（この端末に保存）')}
+// 終わった公演・フェス（archive_past.py が変更履歴から作る）
+let PE=null,PASTV=false;
+function loadPast(){return fetch('data/past_events.json?t='+Date.now(),{cache:'no-store'}).then(r=>r.ok?r.json():null).then(j=>{if(j&&j.events){PE=j;refreshSnap();if(PASTV)render()}}).catch(()=>{})}
+function buildPast(tab,q,today){
+  const P=PE||{events:[],festivals:[]},hit=o=>!q||JSON.stringify(o).toLowerCase().includes(q);
+  const evs=P.events.filter(e=>e.date<today&&MYART&&MYART.has(e.artist)),seen=new Set(),res=[],absorbed=new Set();
+  const fl=[...P.festivals,...(DB.festivals||[])].filter(f=>{if(!f.start||f.start>=today)return false;const k=f.name+'|'+f.start;if(seen.has(k))return false;seen.add(k);return true});
+  if(tab!=='live')for(const f of fl){const m=evs.filter(e=>e.kind==='フェス'&&e.date>=f.start&&e.date<=(f.end||f.start)&&fesHit(nzT(f.name),nzT(e.title)));
+    if(tab==='all'&&!m.some(e=>!sel.size||sel.has(e.artist)))continue;
+    if(!hit(f)&&!hit(m))continue;
+    m.forEach(e=>absorbed.add(e));
+    for(const d of fesDays(f))if(d&&d<today)res.push({f,m,day:d,d})}
+  if(tab!=='fes')for(const e of evs){if(absorbed.has(e)||(sel.size&&!sel.has(e.artist))||!hit(e))continue;res.push({e,d:e.date})}
+  return res.sort((a,b)=>b.d.localeCompare(a.d))}
 const LATE=24*3600*1000; // 24時間たっても反映されない場合は注意を出す
 // 推しの一覧：幅に合わせて折り返し、全員が見えるようにする
 const chipEl=(a,extra='')=>`<button class="chip ${sel.has(a)&&!EDIT?'on':''} ${extra}" data-a="${esc(a)}" style="--h:${hue(a)}"><i class="dot"></i>${esc(dn(a))}${EDIT?'<b class="ed" data-e="'+esc(a)+'">✎</b><b class="rm">×</b>':''}</button>`;
@@ -590,7 +605,7 @@ const dayKey=(f,d)=>fesDays(f).length>1?fesKey(f)+'@'+d:fesKey(f);
 const fesMarked=f=>MY[fesKey(f)]||fesDays(f).some(d=>MY[dayKey(f,d)]);
 const stSel=key=>{const v=MY[key]||'';return `<select class="st ${v?'has s'+ST.indexOf(v):''}" data-k="${esc(key)}" aria-label="申込状況"><option value="">申込状況：未記録</option>${ST.map(s=>`<option ${s===v?'selected':''}>${s}</option>`).join('')}</select>`};
 const festFor=e=>{if(e.kind!=='フェス')return null;const en=nzT(e.title);
-  return (DB.festivals||[]).find(f=>f.start&&(e.date||'')>=f.start&&(e.date||'')<=(f.end||f.start)&&fesHit(nzT(f.name),en))||null};
+  return [...(DB.festivals||[]),...(PE?PE.festivals:[])].find(f=>f.start&&(e.date||'')>=f.start&&(e.date||'')<=(f.end||f.start)&&fesHit(nzT(f.name),en))||null};
 const keyOf=e=>{const f=festFor(e);return f?dayKey(f,e.date):evKey(e)};
 const snapE=e=>({d:e.date,t:e.title,a:e.artist,v:e.venue||'',k:e.kind||'',u:safe(e.ticket_url)||safe(e.source_url)||''});
 const snapF=(f,d)=>{const n=fesDays(f);return {d,t:f.name+(n.length>1?`（DAY ${n.indexOf(d)+1}/${n.length}）`:''),v:[f.pref,f.venue].filter(Boolean).join(' '),k:'フェス',u:safe(f.ticket_url)||safe(f.official_url)||''}};
@@ -598,6 +613,7 @@ function refreshSnap(){ // 記録したものの控えを、最新データで�
   let ch=false;const put=(k,v)=>{if(MY[k]&&JSON.stringify(SNAP[k])!==JSON.stringify(v)){SNAP[k]=v;ch=true}};
   for(const e of allEv())if(e.date&&!festFor(e))put(evKey(e),snapE(e));
   for(const f of DB.festivals||[])if(f.start)for(const d of fesDays(f))put(dayKey(f,d),snapF(f,d));
+  if(PE){for(const e of PE.events)if(e.date&&!festFor(e))put(evKey(e),snapE(e));for(const f of PE.festivals)if(f.start)for(const d of fesDays(f))put(dayKey(f,d),snapF(f,d));for(const e of PE.events){const f=festFor(e);if(f&&MY[dayKey(f,e.date)]&&!SNAP[dayKey(f,e.date)])put(dayKey(f,e.date),snapF(f,e.date))}}
   for(const e of allEv()){const f=festFor(e);if(f&&MY[dayKey(f,e.date)]&&!SNAP[dayKey(f,e.date)])put(dayKey(f,e.date),snapF(f,e.date))}
   if(ch)saveSnap()}
 const marked=()=>Object.keys(MY).filter(k=>SNAP[k]&&SNAP[k].d).map(k=>({k,s:SNAP[k],st:MY[k]})).sort((a,b)=>a.s.d.localeCompare(b.s.d));
@@ -673,6 +689,7 @@ function renderHelp(){
   ${st('間違いがあるかも','予定はAIが自動で集めているので、間違いや、載っていないものがあります。チケットを買う前に、かならず公式サイトで たしかめてね。')}
   ${st('うまく表示されないとき','画面が空になったり、おかしくなったときは、一度アプリ（ブラウザ）を閉じて、開き直してください。たいていは直ります。それでも直らないときは、検索欄や推しの絞り込みを解除してみてください。')}
   ${st('日付の下の小さな画像','日付の下に出る画像は、アーティストやフェスの公式サイトが公開している画像を、そのまま表示しています。ロゴのことも、写真のこともあります。画像が出ないものもあります。画像をおすと、公式サイトが新しい画面で開きます。')}
+  ${st('終わった公演・フェスを見る','ALL・LIVE・FES の月ボタンの先頭にある「PAST」をおすと、終わった公演・フェスが新しい順に出ます。もう一度おすと、今後の予定に戻ります。2026年10月14日より前の分はありません。')}
   ${st('セトリの予想と答え合わせ','公演カードの「セトリ・予想」から、予想セトリを1行1曲で書けます。終わったあとは「セトリ・答え合わせ」で、当たった曲数が見られます。答えは、自分で書いた実際のセトリか、ソノダマンさんのセトリです。略し方や書き方が違うと、別の曲として数えます。ここから setlist.fm や LiveFans で探すこともできます（別のサイトが開きます）。')}
   ${st('日程未定のフェス','来年の開催がまだ発表されていないフェスは「日程未定」で出ます。発表されると、自動で日にちが入ります。')}
   <h3 class="bb warnh">IMPORTANT</h3>
@@ -794,25 +811,27 @@ function render(){
   if(TAB==='set'&&LOADED)return renderSet();
   if(!LOADED){out.innerHTML='<div class="empty"><div class="bb">LOADING</div><p>データを読み込んでいます…</p></div>';return}
   const today=todayJ(),q=$('#q').value.trim().toLowerCase();
-  const list=build(TAB,q,today);
+  const canPast=TAB==='all'||TAB==='live'||TAB==='fes',isPast=canPast&&PASTV;
+  const list=isPast?buildPast(TAB,q,today):build(TAB,q,today);
   let h='',cur='',i=0;
   for(const x of list){const mo=(x.d||'').slice(0,7);const mk=/^\d{4}-\d\d$/.test(mo)?mo:'';
     if(mk!==cur){cur=mk;h+=mk?monHead(mk):'<div class="mon"><span class="j">日付未定</span></div>'}
     h+=x.f?fesCard(x.f,x.m,i++,x.day):card(x.e,i++)}
-  const none=(!mineA().length&&!pend.length)?`<div class="empty"><div class="bb">ADD YOUR OSHI</div><p>右上の「+ ADD」から推しを追加してください。名前を入れると、ライブ・フェスの予定がここに並びます。</p><p><button type="button" class="btn" onclick="openAdd(true)">+ ADD ARTIST</button></p></div>`:TAB==='mine'?`<div class="empty"><div class="bb">NOTHING YET</div><p>各公演・フェスの「申込状況」から、検討中・申込済・当選などを記録すると、ここに集まります。</p></div>`
+  const none=isPast?`<div class="empty"><div class="bb">NO PAST</div><p>${q?`検索「${esc($('#q').value.trim())}」に合う過去の公演はありません。`:TAB==='fes'?'過去のフェスはまだありません。':'いま追加している推しの、過去の公演はまだありません。'}</p><p class="m">残っているのは 2026年10月14日以降の分です。</p></div>`:(!mineA().length&&!pend.length)?`<div class="empty"><div class="bb">ADD YOUR OSHI</div><p>右上の「+ ADD」から推しを追加してください。名前を入れると、ライブ・フェスの予定がここに並びます。</p><p><button type="button" class="btn" onclick="openAdd(true)">+ ADD ARTIST</button></p></div>`:TAB==='mine'?`<div class="empty"><div class="bb">NOTHING YET</div><p>各公演・フェスの「申込状況」から、検討中・申込済・当選などを記録すると、ここに集まります。</p></div>`
     :(sel.size&&!q)?`<div class="empty"><div class="bb">NO SCHEDULE</div><p>${esc([...sel].join('、'))} の予定は、まだ見つかっていません。公式サイトで発表されると、自動で追加されます（毎日確認しています）。</p></div>`
     :q||sel.size?`<div class="empty"><div class="bb">NO RESULT</div><p>${q?`検索「${esc($('#q').value.trim())}」に合うものはありません。`:'選んだ推しの予定はありません。'}</p><p><button type="button" class="btn" data-reset="1">検索と推しの絞り込みを解除</button></p></div>`
     :`<div class="empty"><div class="bb">NO SCHEDULE</div><p>いま追加している推しの、今後の予定は見つかっていません。公式サイトで発表されると自動で追加されます（毎日確認しています）。FES では、開催予定のフェスを全部見られます。</p></div>`;
-  const cnt=TAB==='fes'?`開催予定のフェス（日ごとに表示） ${list.length}件　推しが出る日は「推しが出演」と表示されます`
+  const cnt=isPast?`終わった公演・フェス ${list.length}件　新しい順（2026年10月14日以降の分。上の PAST をもう一度おすと今後の予定に戻ります）`:TAB==='fes'?`開催予定のフェス（日ごとに表示） ${list.length}件　推しが出る日は「推しが出演」と表示されます`
     :TAB==='all'?`${list.length}件　フェスは、推しが出演するものと申込状況を記録したものを表示（全部は FES で）`:`${list.length}件`;
   const ms=[...new Set(list.map(x=>(x.d||'').slice(0,7)).filter(k=>/^\d{4}-\d\d$/.test(k)))];
-  const mnav=ms.length>1?`<div id="mnav">${ms.map((k,i)=>`<button data-mj="${k}">${+k.slice(5)}月${i===0||k.slice(0,4)!==ms[i-1].slice(0,4)?`<small>${k.slice(2,4)}</small>`:''}</button>`).join('')}</div>`:'';
+  const mnav=(ms.length>1||canPast)?`<div id="mnav">${canPast?`<button data-past class="${isPast?'on':''}">PAST</button>`:''}${(ms.length>1?ms:[]).map((k,i)=>`<button data-mj="${k}">${+k.slice(5)}月${i===0||k.slice(0,4)!==ms[i-1].slice(0,4)?`<small>${k.slice(2,4)}</small>`:''}</button>`).join('')}</div>`:'';
   const past=TAB==='mine'?pastHtml():'';
-  out.innerHTML=mnav+(list.length?`${TAB==='mine'?'':dueNote()}<div class="count">${cnt}</div>${h}`:(TAB==='mine'&&past?'':dueNote()+none))+past+fesNote()+liveNote()+(TAB==='fes'?'':pendNote())+
+  out.innerHTML=mnav+(list.length?`${TAB==='mine'||isPast?'':dueNote()}<div class="count">${cnt}</div>${h}`:(TAB==='mine'&&past?'':(isPast?'':dueNote())+none))+past+(isPast?'':fesNote()+liveNote()+(TAB==='fes'?'':pendNote()))+
     foot(TAB==='fes'?'情報は自動収集です。最新の発表は公式サイトでご確認ください':'AIによる自動収集です。受付期間・購入前に、必ず公式の情報をご確認ください');
 }
 out.addEventListener('click',e=>{
   const mj=e.target.closest('[data-mj]');if(mj){if(TAB==='set'){let n=0;SLL.forEach((x,i)=>{if(x.date.slice(0,7)===mj.dataset.mj)n=i+1});if(n>SLN){SLN=n;renderSet()}}const el=document.getElementById('m-'+mj.dataset.mj);if(el)el.scrollIntoView({behavior:TAB==='set'?'instant':'smooth',block:'start'});return}
+  if(e.target.closest('[data-past]')){PASTV=!PASTV;if(PASTV&&!PE)toast('読み込んでいます…');render();const n=$('#mnav');if(n)n.scrollIntoView({behavior:'instant',block:'nearest'});return}
   const my=e.target.closest('[data-my]');if(my){openMy(true,my.dataset.my,my.dataset.d,my.dataset.f);return}
   const sl=e.target.closest('[data-sl]');if(sl){go('set');$('#q').value=sl.dataset.sl;render();return}
   const cd=e.target.closest('[data-cd]');if(cd){CALD=cd.dataset.cd;renderCal();return}
@@ -830,7 +849,7 @@ out.addEventListener('change',e=>{const s=e.target.closest('select.st');if(!s)re
   const k=s.dataset.k,v=s.value;if(v)MY[k]=v;else delete MY[k];saveMy();if(v)refreshSnap();else{delete SNAP[k];saveSnap()}
   s.className='st'+(v?' has s'+ST.indexOf(v):'');
   render();toast(v?`「${v}」で記録しました（この端末に保存）`:'記録を消しました')});
-function go(t){SLN=60;if(t!==TAB)$('#q').value='';TAB=t;try{localStorage.tab2=t}catch{}render();scrollTo({top:0})} // 検索ワードは、タブを移ったら消す（残ると「該当なし」に見えるため）
+function go(t){SLN=60;if(t!==TAB){$('#q').value='';PASTV=false}TAB=t;try{localStorage.tab2=t}catch{}render();scrollTo({top:0})} // 検索ワードは、タブを移ったら消す（残ると「該当なし」に見えるため）
 $('#chips').onclick=e=>{const b=e.target.closest('button');if(!b)return;const d=b.dataset;
   if(d.p!==undefined){const p=pend.find(x=>x.n===d.p);if(p&&(Date.now()-p.t>LATE||isRejected(p.n))&&confirm(`「${p.n}」を一覧から消しますか？（もう一度追加できます）`)){pend=pend.filter(x=>x!==p);savePend();render()}return}
   const ed=e.target.closest('.ed');
@@ -883,7 +902,7 @@ function load(first){
     render();
   }).catch(()=>{if(first)out.innerHTML='<div class="empty"><div class="bb">OFFLINE</div><p>データを読み込めませんでした。通信を確認して、もう一度開いてください。</p></div>'});
 }
-load(true).then(loadCat).then(loadSet);
+load(true).then(loadCat).then(loadSet).then(loadPast);
 // 調べている推しがあるうちは15秒ごと、ないときは5分ごとに最新へ
 (function tick(){setTimeout(()=>{if(!document.hidden)load(false);tick()},pend.concat(FP,LV).some(p=>Date.now()-p.t<=LATE)?15*1000:5*60*1000)})();
 document.addEventListener('visibilitychange',()=>{if(!document.hidden)load(false)}); // 戻ってきたときも最新へ
