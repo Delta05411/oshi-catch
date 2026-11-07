@@ -1,27 +1,11 @@
 {
- "updated": "2026-11-07T07:06:00+09:00",
+ "updated": "2026-11-07T20:30:00+09:00",
  "artists": {
   "Saucy Dog": {
    "aliases": [
     "サウシー"
    ],
    "events": [
-    {
-     "date": "2026-11-06",
-     "title": "BUZZ RHYTHM LIVE 2026",
-     "kind": "フェス",
-     "venue": "横浜アリーナ（神奈川県）",
-     "source_url": "https://buzzrhythm.live/",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-11-06",
-     "title": "BUZZ RHYTHM LIVE（11/6）",
-     "kind": "フェス",
-     "venue": "横浜アリーナ（神奈川県）",
-     "source_url": "https://buzzrhythm.live/",
-     "confidence": "high"
-    },
     {
      "date": "2026-11-07",
      "title": "氣志團万博",
@@ -160,22 +144,6 @@
   "マルシィ": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-11-06",
-     "title": "BUZZ RHYTHM LIVE 2026",
-     "kind": "フェス",
-     "venue": "横浜アリーナ（神奈川県）",
-     "source_url": "https://buzzrhythm.live/",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-11-06",
-     "title": "BUZZ RHYTHM LIVE（11/6）",
-     "kind": "フェス",
-     "venue": "横浜アリーナ（神奈川県）",
-     "source_url": "https://buzzrhythm.live/",
-     "confidence": "high"
-    },
     {
      "date": "2026-11-21",
      "title": "テレビ朝日ドリームフェスティバル2026（11/21〜11/23のいずれか）",
@@ -1358,22 +1326,6 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-11-06",
-     "title": "BUZZ RHYTHM LIVE 2026",
-     "kind": "フェス",
-     "venue": "横浜アリーナ（神奈川県）",
-     "source_url": "https://buzzrhythm.live/",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-11-06",
-     "title": "BUZZ RHYTHM LIVE（11/6）",
-     "kind": "フェス",
-     "venue": "横浜アリーナ（神奈川県）",
-     "source_url": "https://buzzrhythm.live/",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-26",
      "title": "RADIO CRAZY",
      "kind": "フェス",
@@ -1618,6 +1570,14 @@
      "confidence": "high"
     },
     {
+     "date": "2026-12-28",
+     "title": "RADIO CRAZY（12/28）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://eplus.jp/radiocrazy2026/",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-31",
      "title": "COUNTDOWN JAPAN 26/27（12/31）",
      "kind": "フェス",
@@ -1642,19 +1602,19 @@
      "confidence": "high"
     },
     {
-     "date": "2027-03-14",
-     "title": "ANISAMA FUKUOKA 2027（3/14）",
-     "kind": "フェス",
-     "venue": "みずほPayPayドーム福岡（福岡県）",
-     "source_url": "https://anisama.tv/2027/fukuoka/",
-     "confidence": "high"
-    },
-    {
      "date": "2027-02-20",
      "title": "LISANI! TOKYO（2/20）",
      "kind": "フェス",
      "venue": "TOYOTA ARENA TOKYO（東京都）",
      "source_url": "https://www.lisani.jp/live/",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-03-14",
+     "title": "ANISAMA FUKUOKA 2027（3/14）",
+     "kind": "フェス",
+     "venue": "みずほPayPayドーム福岡（福岡県）",
+     "source_url": "https://anisama.tv/2027/fukuoka/",
      "confidence": "high"
     }
    ]
@@ -1689,6 +1649,14 @@
      "kind": "フェス",
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "RADIO CRAZY（12/27）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://eplus.jp/radiocrazy2026/",
      "confidence": "high"
     }
    ]
@@ -1807,11 +1775,27 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-12-19",
+     "title": "MERRY ROCK PARADE 2026（12/19）",
+     "kind": "フェス",
+     "venue": "ポートメッセなごや（愛知県）",
+     "source_url": "http://www.merryrockparade.jp/artist.html",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-26",
      "title": "COUNTDOWN JAPAN 26/27（12/26）",
      "kind": "フェス",
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "RADIO CRAZY（12/27）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://eplus.jp/radiocrazy2026/",
      "confidence": "high"
     }
    ]
@@ -1933,6 +1917,14 @@
      "confidence": "high"
     },
     {
+     "date": "2026-12-19",
+     "title": "MERRY ROCK PARADE 2026（12/19）",
+     "kind": "フェス",
+     "venue": "ポートメッセなごや（愛知県）",
+     "source_url": "http://www.merryrockparade.jp/artist.html",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-27",
      "title": "COUNTDOWN JAPAN 26/27（12/27）",
      "kind": "フェス",
@@ -1983,6 +1975,14 @@
      "kind": "フェス",
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-28",
+     "title": "RADIO CRAZY（12/28）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://eplus.jp/radiocrazy2026/",
      "confidence": "high"
     }
    ]
@@ -2340,6 +2340,14 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-12-26",
+     "title": "RADIO CRAZY（12/26）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://eplus.jp/radiocrazy2026/",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-29",
      "title": "COUNTDOWN JAPAN 26/27（12/29）",
      "kind": "フェス",
@@ -2508,6 +2516,14 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-12-20",
+     "title": "MERRY ROCK PARADE 2026（12/20）",
+     "kind": "フェス",
+     "venue": "ポートメッセなごや（愛知県）",
+     "source_url": "http://www.merryrockparade.jp/artist.html",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-30",
      "title": "COUNTDOWN JAPAN 26/27（12/30）",
      "kind": "フェス",
@@ -2633,6 +2649,14 @@
   "TRACK15": {
    "aliases": [],
    "events": [
+    {
+     "date": "2026-12-26",
+     "title": "RADIO CRAZY（12/26）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://eplus.jp/radiocrazy2026/",
+     "confidence": "high"
+    },
     {
      "date": "2026-12-30",
      "title": "COUNTDOWN JAPAN 26/27（12/30）",
@@ -2862,6 +2886,14 @@
      "confidence": "high"
     },
     {
+     "date": "2026-12-28",
+     "title": "RADIO CRAZY（12/28）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://eplus.jp/radiocrazy2026/",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-31",
      "title": "COUNTDOWN JAPAN 26/27（12/31）",
      "kind": "フェス",
@@ -2882,6 +2914,14 @@
   "シンガーズハイ": {
    "aliases": [],
    "events": [
+    {
+     "date": "2026-12-20",
+     "title": "MERRY ROCK PARADE 2026（12/20）",
+     "kind": "フェス",
+     "venue": "ポートメッセなごや（愛知県）",
+     "source_url": "http://www.merryrockparade.jp/artist.html",
+     "confidence": "high"
+    },
     {
      "date": "2026-12-31",
      "title": "COUNTDOWN JAPAN 26/27（12/31）",
@@ -3046,6 +3086,22 @@
      "confidence": "high"
     },
     {
+     "date": "2026-12-20",
+     "title": "MERRY ROCK PARADE 2026（12/20）",
+     "kind": "フェス",
+     "venue": "ポートメッセなごや（愛知県）",
+     "source_url": "http://www.merryrockparade.jp/artist.html",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-28",
+     "title": "RADIO CRAZY（12/28）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://eplus.jp/radiocrazy2026/",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-31",
      "title": "COUNTDOWN JAPAN 26/27（12/31）",
      "kind": "フェス",
@@ -3177,6 +3233,14 @@
      "kind": "フェス",
      "venue": "豊洲PIT（東京）",
      "source_url": "https://kotori-band.com/news/607273ae-b510-4524-8d84-85fc900cc09e",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-26",
+     "title": "RADIO CRAZY（12/26）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://eplus.jp/radiocrazy2026/",
      "confidence": "high"
     }
    ]
@@ -4305,6 +4369,14 @@
      "confidence": "high"
     },
     {
+     "date": "2026-12-20",
+     "title": "MERRY ROCK PARADE 2026（12/20）",
+     "kind": "フェス",
+     "venue": "ポートメッセなごや（愛知県）",
+     "source_url": "http://www.merryrockparade.jp/artist.html",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-27",
      "title": "COUNTDOWN JAPAN 26/27（12/27）",
      "kind": "フェス",
@@ -4529,19 +4601,11 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-11-06",
-     "title": "BUZZ RHYTHM LIVE 2026",
+     "date": "2026-12-27",
+     "title": "RADIO CRAZY（12/27）",
      "kind": "フェス",
-     "venue": "横浜アリーナ（神奈川県）",
-     "source_url": "https://buzzrhythm.live/",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-11-06",
-     "title": "BUZZ RHYTHM LIVE（11/6）",
-     "kind": "フェス",
-     "venue": "横浜アリーナ（神奈川県）",
-     "source_url": "https://buzzrhythm.live/",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://eplus.jp/radiocrazy2026/",
      "confidence": "high"
     },
     {
@@ -4550,69 +4614,6 @@
      "kind": "フェス",
      "venue": "幕張メッセ（千葉県）",
      "source_url": "https://countdownjapan.jp/",
-     "confidence": "high"
-    }
-   ]
-  },
-  "KOIAI": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-06",
-     "title": "BUZZ RHYTHM LIVE 2026",
-     "kind": "フェス",
-     "venue": "横浜アリーナ（神奈川県）",
-     "source_url": "https://buzzrhythm.live/",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-11-06",
-     "title": "BUZZ RHYTHM LIVE（11/6）",
-     "kind": "フェス",
-     "venue": "横浜アリーナ（神奈川県）",
-     "source_url": "https://buzzrhythm.live/",
-     "confidence": "high"
-    }
-   ]
-  },
-  "METALVERSE": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-06",
-     "title": "BUZZ RHYTHM LIVE 2026",
-     "kind": "フェス",
-     "venue": "横浜アリーナ（神奈川県）",
-     "source_url": "https://buzzrhythm.live/",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-11-06",
-     "title": "BUZZ RHYTHM LIVE（11/6）",
-     "kind": "フェス",
-     "venue": "横浜アリーナ（神奈川県）",
-     "source_url": "https://buzzrhythm.live/",
-     "confidence": "high"
-    }
-   ]
-  },
-  "龍宮城": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-06",
-     "title": "BUZZ RHYTHM LIVE 2026",
-     "kind": "フェス",
-     "venue": "横浜アリーナ（神奈川県）",
-     "source_url": "https://buzzrhythm.live/",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-11-06",
-     "title": "BUZZ RHYTHM LIVE（11/6）",
-     "kind": "フェス",
-     "venue": "横浜アリーナ（神奈川県）",
-     "source_url": "https://buzzrhythm.live/",
      "confidence": "high"
     }
    ]
@@ -4986,6 +4987,14 @@
      "kind": "フェス",
      "venue": "幕張メッセ 国際展示場4〜7ホール（千葉県）",
      "source_url": "http://www.kishidanbanpaku.com/s/kbpk/page/artist2026",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-26",
+     "title": "RADIO CRAZY（12/26）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://eplus.jp/radiocrazy2026/",
      "confidence": "high"
     }
    ]
@@ -5705,6 +5714,14 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-12-19",
+     "title": "MERRY ROCK PARADE 2026（12/19）",
+     "kind": "フェス",
+     "venue": "ポートメッセなごや（愛知県）",
+     "source_url": "http://www.merryrockparade.jp/artist.html",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-26",
      "title": "RADIO CRAZY",
      "kind": "フェス",
@@ -6319,14 +6336,6 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-11-06",
-     "title": "BUZZ RHYTHM LIVE（11/6）",
-     "kind": "フェス",
-     "venue": "横浜アリーナ（神奈川県）",
-     "source_url": "https://buzzrhythm.live/",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-05",
      "title": "J-WAVE presents INSPIRE TOKYO",
      "kind": "フェス",
@@ -6340,6 +6349,14 @@
      "kind": "フェス",
      "venue": "渋温泉 歴史の宿 金具屋（長野県）",
      "source_url": "https://onsen-ongaku.com/onsenongaku-2026",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-26",
+     "title": "RADIO CRAZY（12/26）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://eplus.jp/radiocrazy2026/",
      "confidence": "high"
     }
    ]
@@ -9389,6 +9406,14 @@
      "confidence": "high"
     },
     {
+     "date": "2026-12-28",
+     "title": "RADIO CRAZY（12/28）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://eplus.jp/radiocrazy2026/",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-29",
      "title": "COUNTDOWN JAPAN 26/27（12/29）",
      "kind": "フェス",
@@ -9450,6 +9475,14 @@
      "venue": "EX THEATER ROPPONGI（東京）",
      "source_url": "https://rock-anthem.jp/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-28",
+     "title": "RADIO CRAZY（12/28）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://eplus.jp/radiocrazy2026/",
+     "confidence": "high"
     }
    ]
   },
@@ -9475,6 +9508,14 @@
      "kind": "フェス",
      "venue": "EX THEATER ROPPONGI（東京）",
      "source_url": "https://rock-anthem.jp/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-28",
+     "title": "RADIO CRAZY（12/28）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://eplus.jp/radiocrazy2026/",
      "confidence": "high"
     }
    ]
@@ -9536,6 +9577,14 @@
      "venue": "出島メッセ長崎（長崎県）",
      "source_url": "https://barks.jp/news/1091706/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-13",
+     "title": "響都超特急（12/13）",
+     "kind": "フェス",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist/",
+     "confidence": "high"
     }
    ]
   },
@@ -9574,6 +9623,14 @@
      "kind": "フェス",
      "venue": "岐阜市文化センター（岐阜）",
      "source_url": "http://masterpiece-gifu.com/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "RADIO CRAZY（12/27）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://eplus.jp/radiocrazy2026/",
      "confidence": "high"
     },
     {
@@ -10631,6 +10688,14 @@
      "confidence": "high"
     },
     {
+     "date": "2026-12-20",
+     "title": "MERRY ROCK PARADE 2026（12/20）",
+     "kind": "フェス",
+     "venue": "ポートメッセなごや（愛知県）",
+     "source_url": "http://www.merryrockparade.jp/artist.html",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-28",
      "title": "RADIO CRAZY（12/28）",
      "kind": "フェス",
@@ -10972,28 +11037,15 @@
     }
    ]
   },
-  "PURPLE BUBBLE": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-06",
-     "title": "BUZZ RHYTHM LIVE（11/6）",
-     "kind": "フェス",
-     "venue": "横浜アリーナ（神奈川県）",
-     "source_url": "https://buzzrhythm.live/",
-     "confidence": "high"
-    }
-   ]
-  },
   "バチカン市国に愛されたい": {
    "aliases": [],
    "events": [
     {
-     "date": "2026-11-06",
-     "title": "BUZZ RHYTHM LIVE（11/6）",
+     "date": "2026-12-20",
+     "title": "MERRY ROCK PARADE 2026（12/20）",
      "kind": "フェス",
-     "venue": "横浜アリーナ（神奈川県）",
-     "source_url": "https://buzzrhythm.live/",
+     "venue": "ポートメッセなごや（愛知県）",
+     "source_url": "http://www.merryrockparade.jp/artist.html",
      "confidence": "high"
     },
     {
@@ -11002,6 +11054,14 @@
      "kind": "フェス",
      "venue": "幕張メッセ（千葉県）",
      "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-28",
+     "title": "RADIO CRAZY（12/28）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://eplus.jp/radiocrazy2026/",
      "confidence": "high"
     }
    ]
@@ -12628,6 +12688,14 @@
      "venue": "下北沢界隈(複数ライブハウス)（東京都）",
      "source_url": "https://www.ragnet.co.jp/music-festival-winter",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-19",
+     "title": "MERRY ROCK PARADE 2026（12/19）",
+     "kind": "フェス",
+     "venue": "ポートメッセなごや（愛知県）",
+     "source_url": "http://www.merryrockparade.jp/artist.html",
+     "confidence": "high"
     }
    ]
   },
@@ -14171,6 +14239,14 @@
      "venue": "下北沢界隈(複数ライブハウス)（東京都）",
      "source_url": "https://www.ragnet.co.jp/music-festival-winter",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-19",
+     "title": "MERRY ROCK PARADE 2026（12/19）",
+     "kind": "フェス",
+     "venue": "ポートメッセなごや（愛知県）",
+     "source_url": "http://www.merryrockparade.jp/artist.html",
+     "confidence": "high"
     }
    ]
   },
@@ -14730,6 +14806,14 @@
      "venue": "ポートメッセなごや（愛知県）",
      "source_url": "https://www.merryrockparade.jp/artist.html",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "RADIO CRAZY（12/27）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://eplus.jp/radiocrazy2026/",
+     "confidence": "high"
     }
    ]
   },
@@ -14757,6 +14841,14 @@
      "kind": "フェス",
      "venue": "ポートメッセなごや（愛知県）",
      "source_url": "https://www.merryrockparade.jp/artist.html",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-26",
+     "title": "RADIO CRAZY（12/26）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://eplus.jp/radiocrazy2026/",
      "confidence": "high"
     }
    ]
@@ -14836,19 +14928,19 @@
      "confidence": "high"
     },
     {
-     "date": "2027-03-13",
-     "title": "ANISAMA FUKUOKA 2027（3/13）",
-     "kind": "フェス",
-     "venue": "みずほPayPayドーム福岡（福岡県）",
-     "source_url": "https://anisama.tv/2027/fukuoka/",
-     "confidence": "high"
-    },
-    {
      "date": "2027-02-20",
      "title": "LISANI! TOKYO（2/20）",
      "kind": "フェス",
      "venue": "TOYOTA ARENA TOKYO（東京都）",
      "source_url": "https://www.lisani.jp/live/",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-03-13",
+     "title": "ANISAMA FUKUOKA 2027（3/13）",
+     "kind": "フェス",
+     "venue": "みずほPayPayドーム福岡（福岡県）",
+     "source_url": "https://anisama.tv/2027/fukuoka/",
      "confidence": "high"
     }
    ]
@@ -14937,6 +15029,14 @@
   "にしな": {
    "aliases": [],
    "events": [
+    {
+     "date": "2026-12-19",
+     "title": "MERRY ROCK PARADE 2026（12/19）",
+     "kind": "フェス",
+     "venue": "ポートメッセなごや（愛知県）",
+     "source_url": "http://www.merryrockparade.jp/artist.html",
+     "confidence": "high"
+    },
     {
      "date": "2026-12-27",
      "title": "RADIO CRAZY（12/27）",
@@ -16222,6 +16322,14 @@
      "venue": "幕張メッセ（千葉県）",
      "source_url": "https://countdownjapan.jp/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "RADIO CRAZY（12/27）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://eplus.jp/radiocrazy2026/",
+     "confidence": "high"
     }
    ]
   },
@@ -16242,19 +16350,19 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-12-06",
-     "title": "J-WAVE presents INSPIRE TOKYO",
-     "kind": "フェス",
-     "venue": "LINE CUBE SHIBUYA / 代々木公園イベント広場（東京都）",
-     "source_url": "https://www.j-wave.co.jp/special/inspiretokyo/",
-     "confidence": "high"
-    },
-    {
      "date": "2026-11-15",
      "title": "overhead fes'2026",
      "kind": "フェス",
      "venue": "信州スカイパーク アイネットやまびこドーム（長野）",
      "source_url": "https://overheadfes.com/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-06",
+     "title": "J-WAVE presents INSPIRE TOKYO",
+     "kind": "フェス",
+     "venue": "LINE CUBE SHIBUYA / 代々木公園イベント広場（東京都）",
+     "source_url": "https://www.j-wave.co.jp/special/inspiretokyo/",
      "confidence": "high"
     }
    ]
@@ -17936,11 +18044,27 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-12-19",
+     "title": "MERRY ROCK PARADE 2026（12/19）",
+     "kind": "フェス",
+     "venue": "ポートメッセなごや（愛知県）",
+     "source_url": "http://www.merryrockparade.jp/artist.html",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-26",
      "title": "COUNTDOWN JAPAN 26/27（12/26）",
      "kind": "フェス",
      "venue": "幕張メッセ（千葉県）",
      "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-28",
+     "title": "RADIO CRAZY（12/28）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://eplus.jp/radiocrazy2026/",
      "confidence": "high"
     }
    ]
@@ -18201,6 +18325,14 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-12-26",
+     "title": "RADIO CRAZY（12/26）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://eplus.jp/radiocrazy2026/",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-29",
      "title": "COUNTDOWN JAPAN 26/27（12/29）",
      "kind": "フェス",
@@ -18292,6 +18424,22 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-12-20",
+     "title": "MERRY ROCK PARADE 2026（12/20）",
+     "kind": "フェス",
+     "venue": "ポートメッセなごや（愛知県）",
+     "source_url": "http://www.merryrockparade.jp/artist.html",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-26",
+     "title": "RADIO CRAZY（12/26）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://eplus.jp/radiocrazy2026/",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-30",
      "title": "COUNTDOWN JAPAN 26/27（12/30）",
      "kind": "フェス",
@@ -18317,6 +18465,14 @@
   "『ユイカ』": {
    "aliases": [],
    "events": [
+    {
+     "date": "2026-12-20",
+     "title": "MERRY ROCK PARADE 2026（12/20）",
+     "kind": "フェス",
+     "venue": "ポートメッセなごや（愛知県）",
+     "source_url": "http://www.merryrockparade.jp/artist.html",
+     "confidence": "high"
+    },
     {
      "date": "2026-12-30",
      "title": "COUNTDOWN JAPAN 26/27（12/30）",
@@ -18370,6 +18526,14 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-12-26",
+     "title": "RADIO CRAZY（12/26）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://eplus.jp/radiocrazy2026/",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-31",
      "title": "COUNTDOWN JAPAN 26/27（12/31）",
      "kind": "フェス",
@@ -18409,6 +18573,22 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-12-19",
+     "title": "MERRY ROCK PARADE 2026（12/19）",
+     "kind": "フェス",
+     "venue": "ポートメッセなごや（愛知県）",
+     "source_url": "http://www.merryrockparade.jp/artist.html",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-28",
+     "title": "RADIO CRAZY（12/28）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://eplus.jp/radiocrazy2026/",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-31",
      "title": "COUNTDOWN JAPAN 26/27（12/31）",
      "kind": "フェス",
@@ -18421,6 +18601,14 @@
   "リーガルリリー": {
    "aliases": [],
    "events": [
+    {
+     "date": "2026-12-27",
+     "title": "RADIO CRAZY（12/27）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://eplus.jp/radiocrazy2026/",
+     "confidence": "high"
+    },
     {
      "date": "2026-12-31",
      "title": "COUNTDOWN JAPAN 26/27（12/31）",
@@ -18757,19 +18945,19 @@
    "aliases": [],
    "events": [
     {
-     "date": "2027-03-13",
-     "title": "ANISAMA FUKUOKA 2027（3/13）",
-     "kind": "フェス",
-     "venue": "みずほPayPayドーム福岡（福岡県）",
-     "source_url": "https://anisama.tv/2027/fukuoka/",
-     "confidence": "high"
-    },
-    {
      "date": "2027-02-20",
      "title": "LISANI! TOKYO（2/20）",
      "kind": "フェス",
      "venue": "TOYOTA ARENA TOKYO（東京都）",
      "source_url": "https://www.lisani.jp/live/",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-03-13",
+     "title": "ANISAMA FUKUOKA 2027（3/13）",
+     "kind": "フェス",
+     "venue": "みずほPayPayドーム福岡（福岡県）",
+     "source_url": "https://anisama.tv/2027/fukuoka/",
      "confidence": "high"
     }
    ]
@@ -20135,6 +20323,295 @@
      "kind": "フェス",
      "venue": "幕張メッセ国際展示場1・2・3ホール（千葉県）",
      "source_url": "https://xhl-music.com/feature/hypelikeit",
+     "confidence": "high"
+    }
+   ]
+  },
+  "中山功太": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "響都超特急（12/12）",
+     "kind": "フェス",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ニッポンの社長": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "響都超特急（12/12）",
+     "kind": "フェス",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "吉本新喜劇": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "響都超特急（12/12）",
+     "kind": "フェス",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-13",
+     "title": "響都超特急（12/13）",
+     "kind": "フェス",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "金属バット": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "響都超特急（12/13）",
+     "kind": "フェス",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "チャンス大城": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "響都超特急（12/13）",
+     "kind": "フェス",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Arakezuri": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-19",
+     "title": "MERRY ROCK PARADE 2026（12/19）",
+     "kind": "フェス",
+     "venue": "ポートメッセなごや（愛知県）",
+     "source_url": "http://www.merryrockparade.jp/artist.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "BILLY BOO": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-19",
+     "title": "MERRY ROCK PARADE 2026（12/19）",
+     "kind": "フェス",
+     "venue": "ポートメッセなごや（愛知県）",
+     "source_url": "http://www.merryrockparade.jp/artist.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "WHITE ASH": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-19",
+     "title": "MERRY ROCK PARADE 2026（12/19）",
+     "kind": "フェス",
+     "venue": "ポートメッセなごや（愛知県）",
+     "source_url": "http://www.merryrockparade.jp/artist.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "yutori": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-19",
+     "title": "MERRY ROCK PARADE 2026（12/19）",
+     "kind": "フェス",
+     "venue": "ポートメッセなごや（愛知県）",
+     "source_url": "http://www.merryrockparade.jp/artist.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Sundae May Club": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-20",
+     "title": "MERRY ROCK PARADE 2026（12/20）",
+     "kind": "フェス",
+     "venue": "ポートメッセなごや（愛知県）",
+     "source_url": "http://www.merryrockparade.jp/artist.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "至福ぽんちょ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-20",
+     "title": "MERRY ROCK PARADE 2026（12/20）",
+     "kind": "フェス",
+     "venue": "ポートメッセなごや（愛知県）",
+     "source_url": "http://www.merryrockparade.jp/artist.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "名誉伝説": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-20",
+     "title": "MERRY ROCK PARADE 2026（12/20）",
+     "kind": "フェス",
+     "venue": "ポートメッセなごや（愛知県）",
+     "source_url": "http://www.merryrockparade.jp/artist.html",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-28",
+     "title": "RADIO CRAZY（12/28）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://eplus.jp/radiocrazy2026/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Laughing Hick": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-20",
+     "title": "MERRY ROCK PARADE 2026（12/20）",
+     "kind": "フェス",
+     "venue": "ポートメッセなごや（愛知県）",
+     "source_url": "http://www.merryrockparade.jp/artist.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "猫背のネイビーセゾン": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-26",
+     "title": "RADIO CRAZY（12/26）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://eplus.jp/radiocrazy2026/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "多次元制御機構よだか": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-27",
+     "title": "RADIO CRAZY（12/27）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://eplus.jp/radiocrazy2026/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Furui Riho": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-27",
+     "title": "RADIO CRAZY（12/27）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://eplus.jp/radiocrazy2026/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "PompadollS": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-27",
+     "title": "RADIO CRAZY（12/27）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://eplus.jp/radiocrazy2026/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "内澤崇仁(androp)": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-27",
+     "title": "RADIO CRAZY（12/27）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://eplus.jp/radiocrazy2026/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "サイトウタクヤ(w.o.d.)": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-27",
+     "title": "RADIO CRAZY（12/27）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://eplus.jp/radiocrazy2026/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Hedigan's": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-28",
+     "title": "RADIO CRAZY（12/28）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://eplus.jp/radiocrazy2026/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "映秀。": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-28",
+     "title": "RADIO CRAZY（12/28）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://eplus.jp/radiocrazy2026/",
      "confidence": "high"
     }
    ]

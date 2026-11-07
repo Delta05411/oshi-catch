@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T07:06:00+09:00",
+ "updated": "2026-11-07T20:30:00+09:00",
  "artists": [
   "04 Limited Sazabys",
   "ELLEGARDEN",
@@ -123,7 +123,16 @@
    "with": "10-FEET、HEY-SMITH、マキシマム ザ ホルモン、ザ・クロマニヨンズ ほか",
    "sale_info": "Hi-STANDARD主催・ヘッドライナー。公式サイトにSOLDOUT表示あり",
    "source_url": "https://airjam.jp/",
-   "confidence": "high"
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "PIT PRESS会員 抽選先行",
+     "start": "2026-06-03",
+     "end": "2026-06-14",
+     "url": "https://hi-standard.jp/news",
+     "note": "公式NEWS 2026/6/3。一般発売日は公式で未確認 開始18:00 締切23:59"
+    }
+   ]
   },
   {
    "artist": "Novelbright",
@@ -1034,7 +1043,13 @@
    "kind": "ワンマン",
    "venue": "GT LIVE TOKYO（東京都）",
    "sale_info": "GOROの還暦イベント。公式告知のゲストはBro.TOM・水夏希・川平慈英ほかで、Bro.KORNの出演は未確認。昼 開場14:30/開演15:00・夜 開場18:30/開演19:00、チャージ5,000円＋ドリンク700円",
-   "sales": [],
+   "sales": [
+    {
+     "label": "予約（GT LIVE TOKYO）",
+     "start": "2026-09-10",
+     "note": "会場公式サイトで予約。昼15:00/夜19:00の2回。5,000円+ドリンク700円"
+    }
+   ],
    "source_url": "https://www.brotom.jp/live",
    "confidence": "low"
   },
@@ -1068,6 +1083,11 @@
      "label": "予約受付（GT LIVE TOKYO）",
      "start": "2026-09-10",
      "note": "昼 開場14:30/開演15:00、夜 開場18:30/開演19:00"
+    },
+    {
+     "label": "予約（GT LIVE TOKYO）",
+     "start": "2026-09-10",
+     "note": "昼15:00/夜19:00の2回。5,000円+ドリンク700円"
     }
    ],
    "source_url": "https://www.brotom.jp/live",
@@ -2029,7 +2049,15 @@
    "venue": "Seoul YES24 LIVE HALL（韓国）",
    "sale_info": "11/28・29の2日間",
    "source_url": "https://realsound.jp/2026/08/post-2487674.html",
-   "confidence": "high"
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "一般発売（先着）",
+     "start": "2026-09-01",
+     "url": "https://eplus.tickets/ellegarden2026/",
+     "note": "ソウル。YES24。88,000ウォン。11/29も同様 開始19:00"
+    }
+   ]
   },
   {
    "artist": "HEY-SMITH",
@@ -2060,6 +2088,13 @@
      "end": "2026-10-27",
      "url": "https://mrsgreenapple.com/feature/ringojamtour_shadows#ticket",
      "note": "10/20 12:00〜10/27 05:00。当落・入金 11/7 14:00〜11/10 23:59。15,000円"
+    },
+    {
+     "label": "全会員先行(千葉11月・兵庫・福岡)",
+     "start": "2026-10-20",
+     "end": "2026-10-27",
+     "url": "https://mrsgreenapple.com/feature/ringojamtour_shadows",
+     "note": "当選発表・入金 11/7 14:00〜11/10 23:59。千葉11/28-29・兵庫12/2-3・福岡12/9-10共通。FC会員のみ 開始12:00 締切05:00"
     }
    ]
   },
@@ -2214,7 +2249,15 @@
    "kind": "ワンマン",
    "venue": "Seoul YES24 LIVE HALL（韓国）",
    "source_url": "https://realsound.jp/2026/08/post-2487674.html",
-   "confidence": "high"
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "一般発売（先着）",
+     "start": "2026-09-01",
+     "url": "https://eplus.tickets/ellegarden2026/",
+     "note": "ソウル。YES24。88,000ウォン。11/29も同様 開始19:00"
+    }
+   ]
   },
   {
    "artist": "HEY-SMITH",
@@ -2245,6 +2288,13 @@
      "end": "2026-10-27",
      "url": "https://mrsgreenapple.com/feature/ringojamtour_shadows#ticket",
      "note": "10/20 12:00〜10/27 05:00。当落・入金 11/7 14:00〜11/10 23:59。15,000円"
+    },
+    {
+     "label": "全会員先行(千葉11月・兵庫・福岡)",
+     "start": "2026-10-20",
+     "end": "2026-10-27",
+     "url": "https://mrsgreenapple.com/feature/ringojamtour_shadows",
+     "note": "当選発表・入金 11/7 14:00〜11/10 23:59。千葉11/28-29・兵庫12/2-3・福岡12/9-10共通。FC会員のみ 開始12:00 締切05:00"
     }
    ]
   },
@@ -2329,7 +2379,36 @@
    "venue": "日本武道館（東京）",
    "sale_info": "11/30・12/1の2日間。12,000円（税込）。バンド編成で初の武道館",
    "source_url": "https://realsound.jp/2026/07/post-2462631.html",
-   "confidence": "high"
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "AIM会員先行 1次(抽選・指定席)",
+     "start": "2026-07-18",
+     "end": "2026-08-03",
+     "url": "https://www.aimyong.net/feature/tententen_budokan",
+     "note": "開始12:00 締切23:59"
+    },
+    {
+     "label": "AIM会員先行 2次(抽選・サイド/バック席)",
+     "start": "2026-08-08",
+     "end": "2026-08-17",
+     "url": "https://www.aimyong.net/feature/tententen_budokan",
+     "note": "開始12:00 締切23:59"
+    },
+    {
+     "label": "ローチケ先行",
+     "start": "2026-08-21",
+     "end": "2026-08-31",
+     "url": "https://www.aimyong.net/feature/tententen_budokan",
+     "note": "開始12:00 締切23:59"
+    },
+    {
+     "label": "一般発売",
+     "start": "2026-10-03",
+     "url": "https://www.aimyong.net/feature/tententen_budokan",
+     "note": "終了日の記載なし。11/30・12/1共通 開始10:00"
+    }
+   ]
   },
   {
    "artist": "久石譲",
@@ -2391,7 +2470,36 @@
    "kind": "ワンマン",
    "venue": "日本武道館（東京）",
    "source_url": "https://realsound.jp/2026/07/post-2462631.html",
-   "confidence": "high"
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "AIM会員先行 1次(抽選・指定席)",
+     "start": "2026-07-18",
+     "end": "2026-08-03",
+     "url": "https://www.aimyong.net/feature/tententen_budokan",
+     "note": "開始12:00 締切23:59"
+    },
+    {
+     "label": "AIM会員先行 2次(抽選・サイド/バック席)",
+     "start": "2026-08-08",
+     "end": "2026-08-17",
+     "url": "https://www.aimyong.net/feature/tententen_budokan",
+     "note": "開始12:00 締切23:59"
+    },
+    {
+     "label": "ローチケ先行",
+     "start": "2026-08-21",
+     "end": "2026-08-31",
+     "url": "https://www.aimyong.net/feature/tententen_budokan",
+     "note": "開始12:00 締切23:59"
+    },
+    {
+     "label": "一般発売",
+     "start": "2026-10-03",
+     "url": "https://www.aimyong.net/feature/tententen_budokan",
+     "note": "終了日の記載なし。11/30・12/1共通 開始10:00"
+    }
+   ]
   },
   {
    "artist": "ハルカミライ",
@@ -2440,6 +2548,13 @@
      "end": "2026-10-27",
      "url": "https://mrsgreenapple.com/feature/ringojamtour_shadows#ticket",
      "note": "10/20 12:00〜10/27 05:00。当落・入金 11/7 14:00〜11/10 23:59。15,000円"
+    },
+    {
+     "label": "全会員先行(千葉11月・兵庫・福岡)",
+     "start": "2026-10-20",
+     "end": "2026-10-27",
+     "url": "https://mrsgreenapple.com/feature/ringojamtour_shadows",
+     "note": "当選発表・入金 11/7 14:00〜11/10 23:59。千葉11/28-29・兵庫12/2-3・福岡12/9-10共通。FC会員のみ 開始12:00 締切05:00"
     }
    ]
   },
@@ -2524,6 +2639,13 @@
      "end": "2026-10-27",
      "url": "https://mrsgreenapple.com/feature/ringojamtour_shadows#ticket",
      "note": "10/20 12:00〜10/27 05:00。当落・入金 11/7 14:00〜11/10 23:59。15,000円"
+    },
+    {
+     "label": "全会員先行(千葉11月・兵庫・福岡)",
+     "start": "2026-10-20",
+     "end": "2026-10-27",
+     "url": "https://mrsgreenapple.com/feature/ringojamtour_shadows",
+     "note": "当選発表・入金 11/7 14:00〜11/10 23:59。千葉11/28-29・兵庫12/2-3・福岡12/9-10共通。FC会員のみ 開始12:00 締切05:00"
     }
    ]
   },
@@ -2953,6 +3075,13 @@
      "start": "2026-11-14",
      "url": "https://eplus.jp/ellegarden2026/",
      "note": "11/14 12:00〜"
+    },
+    {
+     "label": "トレード（抽選）",
+     "start": "2026-11-22",
+     "end": "2026-11-24",
+     "url": "https://eplus.jp/ellegarden2026/trade/",
+     "note": "結果確認 11/28 13:00-18:00 開始18:00 締切23:59"
     }
    ]
   },
@@ -3016,6 +3145,13 @@
      "start": "2026-11-14",
      "url": "https://eplus.jp/ellegarden2026/",
      "note": "11/14 12:00〜"
+    },
+    {
+     "label": "トレード（抽選）",
+     "start": "2026-11-22",
+     "end": "2026-11-24",
+     "url": "https://eplus.jp/ellegarden2026/trade/",
+     "note": "結果確認 11/28 13:00-18:00 開始18:00 締切23:59"
     }
    ]
   },
@@ -3035,6 +3171,13 @@
      "end": "2026-10-27",
      "url": "https://mrsgreenapple.com/feature/ringojamtour_shadows#ticket",
      "note": "10/20 12:00〜10/27 05:00。当落・入金 11/7 14:00〜11/10 23:59。15,000円"
+    },
+    {
+     "label": "全会員先行(千葉11月・兵庫・福岡)",
+     "start": "2026-10-20",
+     "end": "2026-10-27",
+     "url": "https://mrsgreenapple.com/feature/ringojamtour_shadows",
+     "note": "当選発表・入金 11/7 14:00〜11/10 23:59。千葉11/28-29・兵庫12/2-3・福岡12/9-10共通。FC会員のみ 開始12:00 締切05:00"
     }
    ]
   },
@@ -3127,6 +3270,13 @@
      "end": "2026-10-27",
      "url": "https://mrsgreenapple.com/feature/ringojamtour_shadows#ticket",
      "note": "10/20 12:00〜10/27 05:00。当落・入金 11/7 14:00〜11/10 23:59。15,000円"
+    },
+    {
+     "label": "全会員先行(千葉11月・兵庫・福岡)",
+     "start": "2026-10-20",
+     "end": "2026-10-27",
+     "url": "https://mrsgreenapple.com/feature/ringojamtour_shadows",
+     "note": "当選発表・入金 11/7 14:00〜11/10 23:59。千葉11/28-29・兵庫12/2-3・福岡12/9-10共通。FC会員のみ 開始12:00 締切05:00"
     }
    ]
   },
@@ -3587,6 +3737,13 @@
      "end": "2026-11-11",
      "url": "https://mrsgreenapple.com/feature/ringojamtour_shadows",
      "note": "12:00開始〜5:00締切"
+    },
+    {
+     "label": "全会員先行(宮城・神奈川)",
+     "start": "2026-11-02",
+     "end": "2026-11-11",
+     "url": "https://mrsgreenapple.com/feature/ringojamtour_shadows",
+     "note": "当選発表・入金 11/21 14:00〜11/25 23:59。宮城12/15-16・神奈川12/19-20共通。FC会員のみ 開始12:00 締切05:00"
     }
    ]
   },
@@ -3603,6 +3760,20 @@
      "start": "2026-10-22",
      "end": "2026-10-28",
      "note": "12:00〜23:59"
+    },
+    {
+     "label": "抽選プレオーダー（e+）",
+     "start": "2026-10-22",
+     "end": "2026-10-28",
+     "url": "https://eplus.jp/sf/detail/4611840001-P0030001",
+     "note": "受付終了 開始12:00 締切23:59"
+    },
+    {
+     "label": "先着一般発売（e+）",
+     "start": "2026-11-07",
+     "end": "2026-12-14",
+     "url": "https://eplus.jp/sf/detail/4611840001-P0030001",
+     "note": "e+表示は予定枚数終了。開場18:00/開演19:00 開始10:00 締切18:00"
     }
    ],
    "source_url": "https://theoralcigarettes.com/news/list/4",
@@ -3670,6 +3841,13 @@
      "end": "2026-11-11",
      "url": "https://mrsgreenapple.com/feature/ringojamtour_shadows",
      "note": "12:00開始〜5:00締切"
+    },
+    {
+     "label": "全会員先行(宮城・神奈川)",
+     "start": "2026-11-02",
+     "end": "2026-11-11",
+     "url": "https://mrsgreenapple.com/feature/ringojamtour_shadows",
+     "note": "当選発表・入金 11/21 14:00〜11/25 23:59。宮城12/15-16・神奈川12/19-20共通。FC会員のみ 開始12:00 締切05:00"
     }
    ]
   },
@@ -3954,6 +4132,13 @@
      "end": "2026-11-11",
      "url": "https://mrsgreenapple.com/feature/ringojamtour_shadows",
      "note": "12:00開始〜5:00締切"
+    },
+    {
+     "label": "全会員先行(宮城・神奈川)",
+     "start": "2026-11-02",
+     "end": "2026-11-11",
+     "url": "https://mrsgreenapple.com/feature/ringojamtour_shadows",
+     "note": "当選発表・入金 11/21 14:00〜11/25 23:59。宮城12/15-16・神奈川12/19-20共通。FC会員のみ 開始12:00 締切05:00"
     }
    ]
   },
@@ -4193,6 +4378,13 @@
      "end": "2026-11-11",
      "url": "https://mrsgreenapple.com/feature/ringojamtour_shadows",
      "note": "12:00開始〜5:00締切"
+    },
+    {
+     "label": "全会員先行(宮城・神奈川)",
+     "start": "2026-11-02",
+     "end": "2026-11-11",
+     "url": "https://mrsgreenapple.com/feature/ringojamtour_shadows",
+     "note": "当選発表・入金 11/21 14:00〜11/25 23:59。宮城12/15-16・神奈川12/19-20共通。FC会員のみ 開始12:00 締切05:00"
     }
    ]
   },
@@ -4242,7 +4434,7 @@
    "venue": "BLUES ALLEY JAPAN（東京）",
    "ticket_name": "イープラス",
    "ticket_url": "https://eplus.jp/sf/detail/4593520001-P0030001P021001?P1=0175",
-   "sale_info": "開場14:30 開演15:30。一般発売(先着)",
+   "sale_info": "開場14:30 開演15:30。一般発売(先着)／1st 開場14:30/開演15:30／テーブル席10,000円",
    "source_url": "https://eplus.jp/sf/word/0000035354",
    "confidence": "high",
    "sales": [
@@ -4257,6 +4449,19 @@
      "label": "BAJ CLUB先行",
      "start": "2026-09-15",
      "note": "12:00〜。終了"
+    },
+    {
+     "label": "BAJ CLUB先行（1st/2nd共通）",
+     "start": "2026-09-15",
+     "url": "https://www.bluesalley.co.jp",
+     "note": "終了日は記載なし。開始日はbrotom.jp記載 開始12:00"
+    },
+    {
+     "label": "一般発売（先着・e+）1st 15:30",
+     "start": "2026-09-25",
+     "end": "2026-12-15",
+     "url": "https://eplus.jp/sf/detail/4593520001-P0030001P021001?P1=0175",
+     "note": "e+表示は受付中。開場14:30 開始14:00 締切18:00"
     }
    ]
   },
@@ -4268,7 +4473,7 @@
    "venue": "BLUES ALLEY JAPAN（東京）",
    "ticket_name": "イープラス",
    "ticket_url": "https://eplus.jp/sf/detail/4593520001-P0030001P021002?P1=0175",
-   "sale_info": "開場18:00 開演19:00。一般発売(先着)",
+   "sale_info": "開場18:00 開演19:00。一般発売(先着)／2nd 開場18:00/開演19:00／テーブル席10,000円",
    "source_url": "https://eplus.jp/sf/word/0000035354",
    "confidence": "high",
    "sales": [
@@ -4276,6 +4481,19 @@
      "label": "BAJ CLUB先行",
      "start": "2026-09-15",
      "note": "12:00〜。終了"
+    },
+    {
+     "label": "BAJ CLUB先行（1st/2nd共通）",
+     "start": "2026-09-15",
+     "url": "https://www.bluesalley.co.jp",
+     "note": "終了日は記載なし 開始12:00"
+    },
+    {
+     "label": "一般発売（先着・e+）2nd 19:00",
+     "start": "2026-09-25",
+     "end": "2026-12-15",
+     "url": "https://eplus.jp/sf/detail/4593520001-P0030001P021002?P1=0175",
+     "note": "e+表示は受付中。開場18:00 開始14:00 締切18:00"
     }
    ]
   },
@@ -4970,7 +5188,8 @@
      "url": "https://eplus.jp/sf/detail/1082030009",
      "note": "開始12:00・締切23:59・受付終了"
     }
-   ]
+   ],
+   "sale_info": "開場18:00/開演19:00。8/16の券が有効。チケット詳細は後日案内"
   },
   {
    "artist": "ROTTENGRAFFTY",
@@ -6993,6 +7212,13 @@
      "end": "2026-11-05",
      "url": "https://mrsgreenapple.com/feature/harmony_2#ticket",
      "note": "10/27 20:00〜11/5 23:59"
+    },
+    {
+     "label": "Ringo Jam年会員+CD購入者 最速先行",
+     "start": "2026-09-30",
+     "end": "2026-10-13",
+     "url": "https://mrsgreenapple.com/feature/harmony_2",
+     "note": "終了。当選・入金 10/29 20:00〜11/2 23:59 開始22:00 締切23:59"
     }
    ]
   },
@@ -7029,6 +7255,13 @@
      "end": "2026-11-05",
      "url": "https://mrsgreenapple.com/feature/harmony_2#ticket",
      "note": "10/27 20:00〜11/5 23:59"
+    },
+    {
+     "label": "Ringo Jam年会員+CD購入者 最速先行",
+     "start": "2026-09-30",
+     "end": "2026-10-13",
+     "url": "https://mrsgreenapple.com/feature/harmony_2",
+     "note": "終了。当選・入金 10/29 20:00〜11/2 23:59 開始22:00 締切23:59"
     }
    ]
   },
@@ -7167,6 +7400,13 @@
      "end": "2026-11-05",
      "url": "https://mrsgreenapple.com/feature/harmony_2#ticket",
      "note": "10/27 20:00〜11/5 23:59"
+    },
+    {
+     "label": "Ringo Jam年会員+CD購入者 最速先行",
+     "start": "2026-09-30",
+     "end": "2026-10-13",
+     "url": "https://mrsgreenapple.com/feature/harmony_2",
+     "note": "終了。当選・入金 10/29 20:00〜11/2 23:59 開始22:00 締切23:59"
     }
    ]
   },
@@ -7179,7 +7419,14 @@
    "with": "KANA-BOON",
    "sale_info": "1Fスタンディング5,800円/指定6,300円(税込・ドリンク別)。公式LIVE一覧で確認",
    "source_url": "https://theoralcigarettes.com/news/list/4",
-   "confidence": "high"
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "KANA-BOON MATE FC二次先行",
+     "start": "2026-10-28",
+     "note": "終了日・一般発売日は記載なし。立見5,800円/指定6,300円（税込・ドリンク別）。2/28も同様 開始18:00"
+    }
+   ]
   },
   {
    "artist": "ROTTENGRAFFTY",
@@ -7226,6 +7473,13 @@
      "end": "2026-11-05",
      "url": "https://mrsgreenapple.com/feature/harmony_2#ticket",
      "note": "10/27 20:00〜11/5 23:59"
+    },
+    {
+     "label": "Ringo Jam年会員+CD購入者 最速先行",
+     "start": "2026-09-30",
+     "end": "2026-10-13",
+     "url": "https://mrsgreenapple.com/feature/harmony_2",
+     "note": "終了。当選・入金 10/29 20:00〜11/2 23:59 開始22:00 締切23:59"
     }
    ]
   },
@@ -7238,7 +7492,14 @@
    "with": "KANA-BOON",
    "sale_info": "1Fスタンディング5,800円/指定6,300円(税込・ドリンク別)。公式LIVE一覧で確認",
    "source_url": "https://theoralcigarettes.com/news/list/4",
-   "confidence": "high"
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "KANA-BOON MATE FC二次先行",
+     "start": "2026-10-28",
+     "note": "終了日・一般発売日は記載なし。立見5,800円/指定6,300円（税込・ドリンク別）。2/28も同様 開始18:00"
+    }
+   ]
   },
   {
    "artist": "ROTTENGRAFFTY",
@@ -7355,6 +7616,13 @@
      "end": "2026-11-05",
      "url": "https://mrsgreenapple.com/feature/harmony_2#ticket",
      "note": "10/27 20:00〜11/5 23:59"
+    },
+    {
+     "label": "Ringo Jam年会員+CD購入者 最速先行",
+     "start": "2026-09-30",
+     "end": "2026-10-13",
+     "url": "https://mrsgreenapple.com/feature/harmony_2",
+     "note": "終了。当選・入金 10/29 20:00〜11/2 23:59 開始22:00 締切23:59"
     }
    ]
   },
@@ -7415,6 +7683,13 @@
      "end": "2026-11-05",
      "url": "https://mrsgreenapple.com/feature/harmony_2#ticket",
      "note": "10/27 20:00〜11/5 23:59"
+    },
+    {
+     "label": "Ringo Jam年会員+CD購入者 最速先行",
+     "start": "2026-09-30",
+     "end": "2026-10-13",
+     "url": "https://mrsgreenapple.com/feature/harmony_2",
+     "note": "終了。当選・入金 10/29 20:00〜11/2 23:59 開始22:00 締切23:59"
     }
    ]
   },
@@ -7462,6 +7737,13 @@
      "end": "2026-11-05",
      "url": "https://mrsgreenapple.com/feature/harmony_2#ticket",
      "note": "10/27 20:00〜11/5 23:59"
+    },
+    {
+     "label": "Ringo Jam年会員+CD購入者 最速先行",
+     "start": "2026-09-30",
+     "end": "2026-10-13",
+     "url": "https://mrsgreenapple.com/feature/harmony_2",
+     "note": "終了。当選・入金 10/29 20:00〜11/2 23:59 開始22:00 締切23:59"
     }
    ]
   },
@@ -7501,6 +7783,13 @@
      "end": "2026-11-05",
      "url": "https://mrsgreenapple.com/feature/harmony_2#ticket",
      "note": "10/27 20:00〜11/5 23:59"
+    },
+    {
+     "label": "Ringo Jam年会員+CD購入者 最速先行",
+     "start": "2026-09-30",
+     "end": "2026-10-13",
+     "url": "https://mrsgreenapple.com/feature/harmony_2",
+     "note": "終了。当選・入金 10/29 20:00〜11/2 23:59 開始22:00 締切23:59"
     }
    ]
   },
@@ -7656,6 +7945,13 @@
      "end": "2026-11-05",
      "url": "https://mrsgreenapple.com/feature/harmony_2#ticket",
      "note": "10/27 20:00〜11/5 23:59"
+    },
+    {
+     "label": "Ringo Jam年会員+CD購入者 最速先行",
+     "start": "2026-09-30",
+     "end": "2026-10-13",
+     "url": "https://mrsgreenapple.com/feature/harmony_2",
+     "note": "終了。当選・入金 10/29 20:00〜11/2 23:59 開始22:00 締切23:59"
     }
    ]
   },
@@ -7682,6 +7978,13 @@
      "end": "2026-11-05",
      "url": "https://mrsgreenapple.com/feature/harmony_2#ticket",
      "note": "10/27 20:00〜11/5 23:59"
+    },
+    {
+     "label": "Ringo Jam年会員+CD購入者 最速先行",
+     "start": "2026-09-30",
+     "end": "2026-10-13",
+     "url": "https://mrsgreenapple.com/feature/harmony_2",
+     "note": "終了。当選・入金 10/29 20:00〜11/2 23:59 開始22:00 締切23:59"
     }
    ]
   },
@@ -8087,6 +8390,13 @@
      "end": "2026-11-05",
      "url": "https://mrsgreenapple.com/feature/harmony_2#ticket",
      "note": "10/27 20:00〜11/5 23:59"
+    },
+    {
+     "label": "Ringo Jam年会員+CD購入者 最速先行",
+     "start": "2026-09-30",
+     "end": "2026-10-13",
+     "url": "https://mrsgreenapple.com/feature/harmony_2",
+     "note": "終了。当選・入金 10/29 20:00〜11/2 23:59 開始22:00 締切23:59"
     }
    ]
   },
@@ -8123,6 +8433,13 @@
      "end": "2026-11-05",
      "url": "https://mrsgreenapple.com/feature/harmony_2#ticket",
      "note": "10/27 20:00〜11/5 23:59"
+    },
+    {
+     "label": "Ringo Jam年会員+CD購入者 最速先行",
+     "start": "2026-09-30",
+     "end": "2026-10-13",
+     "url": "https://mrsgreenapple.com/feature/harmony_2",
+     "note": "終了。当選・入金 10/29 20:00〜11/2 23:59 開始22:00 締切23:59"
     }
    ]
   },
@@ -8523,6 +8840,13 @@
      "end": "2026-11-05",
      "url": "https://mrsgreenapple.com/feature/harmony_2#ticket",
      "note": "10/27 20:00〜11/5 23:59"
+    },
+    {
+     "label": "Ringo Jam年会員+CD購入者 最速先行",
+     "start": "2026-09-30",
+     "end": "2026-10-13",
+     "url": "https://mrsgreenapple.com/feature/harmony_2",
+     "note": "終了。当選・入金 10/29 20:00〜11/2 23:59 開始22:00 締切23:59"
     }
    ]
   },
@@ -8593,6 +8917,13 @@
      "end": "2026-11-05",
      "url": "https://mrsgreenapple.com/feature/harmony_2#ticket",
      "note": "10/27 20:00〜11/5 23:59"
+    },
+    {
+     "label": "Ringo Jam年会員+CD購入者 最速先行",
+     "start": "2026-09-30",
+     "end": "2026-10-13",
+     "url": "https://mrsgreenapple.com/feature/harmony_2",
+     "note": "終了。当選・入金 10/29 20:00〜11/2 23:59 開始22:00 締切23:59"
     }
    ]
   },
@@ -8650,6 +8981,13 @@
      "end": "2026-11-05",
      "url": "https://mrsgreenapple.com/feature/harmony_2#ticket",
      "note": "10/27 20:00〜11/5 23:59"
+    },
+    {
+     "label": "Ringo Jam年会員+CD購入者 最速先行",
+     "start": "2026-09-30",
+     "end": "2026-10-13",
+     "url": "https://mrsgreenapple.com/feature/harmony_2",
+     "note": "終了。当選・入金 10/29 20:00〜11/2 23:59 開始22:00 締切23:59"
     }
    ]
   },
@@ -8730,6 +9068,13 @@
      "end": "2026-11-05",
      "url": "https://mrsgreenapple.com/feature/harmony_2#ticket",
      "note": "10/27 20:00〜11/5 23:59"
+    },
+    {
+     "label": "Ringo Jam年会員+CD購入者 最速先行",
+     "start": "2026-09-30",
+     "end": "2026-10-13",
+     "url": "https://mrsgreenapple.com/feature/harmony_2",
+     "note": "終了。当選・入金 10/29 20:00〜11/2 23:59 開始22:00 締切23:59"
     }
    ]
   },
@@ -8809,6 +9154,13 @@
      "end": "2026-11-05",
      "url": "https://mrsgreenapple.com/feature/harmony_2#ticket",
      "note": "10/27 20:00〜11/5 23:59"
+    },
+    {
+     "label": "Ringo Jam年会員+CD購入者 最速先行",
+     "start": "2026-09-30",
+     "end": "2026-10-13",
+     "url": "https://mrsgreenapple.com/feature/harmony_2",
+     "note": "終了。当選・入金 10/29 20:00〜11/2 23:59 開始22:00 締切23:59"
     }
    ]
   },
@@ -8863,6 +9215,13 @@
      "end": "2026-11-05",
      "url": "https://mrsgreenapple.com/feature/harmony_2#ticket",
      "note": "10/27 20:00〜11/5 23:59"
+    },
+    {
+     "label": "Ringo Jam年会員+CD購入者 最速先行",
+     "start": "2026-09-30",
+     "end": "2026-10-13",
+     "url": "https://mrsgreenapple.com/feature/harmony_2",
+     "note": "終了。当選・入金 10/29 20:00〜11/2 23:59 開始22:00 締切23:59"
     }
    ]
   },
@@ -8980,6 +9339,13 @@
      "end": "2026-11-05",
      "url": "https://mrsgreenapple.com/feature/harmony_2#ticket",
      "note": "10/27 20:00〜11/5 23:59"
+    },
+    {
+     "label": "Ringo Jam年会員+CD購入者 最速先行",
+     "start": "2026-09-30",
+     "end": "2026-10-13",
+     "url": "https://mrsgreenapple.com/feature/harmony_2",
+     "note": "終了。当選・入金 10/29 20:00〜11/2 23:59 開始22:00 締切23:59"
     }
    ]
   },
@@ -9006,6 +9372,13 @@
      "end": "2026-11-05",
      "url": "https://mrsgreenapple.com/feature/harmony_2#ticket",
      "note": "10/27 20:00〜11/5 23:59"
+    },
+    {
+     "label": "Ringo Jam年会員+CD購入者 最速先行",
+     "start": "2026-09-30",
+     "end": "2026-10-13",
+     "url": "https://mrsgreenapple.com/feature/harmony_2",
+     "note": "終了。当選・入金 10/29 20:00〜11/2 23:59 開始22:00 締切23:59"
     }
    ]
   },
@@ -9705,7 +10078,7 @@
    "artist": "back number",
    "date": "2027-09-02",
    "title": "FCツアー one room party vol.8",
-   "kind": "ツアー",
+   "kind": "ワンマン",
    "venue": "豊洲PIT（東京）",
    "source_url": "https://backnumber.info/news/detail/400314",
    "confidence": "high",
@@ -9717,7 +10090,7 @@
    "artist": "back number",
    "date": "2027-09-03",
    "title": "FCツアー one room party vol.8",
-   "kind": "ツアー",
+   "kind": "ワンマン",
    "venue": "豊洲PIT（東京）",
    "source_url": "https://backnumber.info/news/detail/400314",
    "confidence": "high",
@@ -9775,7 +10148,7 @@
    "artist": "back number",
    "date": "2027-09-10",
    "title": "FCツアー one room party vol.8",
-   "kind": "ツアー",
+   "kind": "ワンマン",
    "venue": "Zepp Sapporo（北海道）",
    "source_url": "https://backnumber.info/news/detail/400314",
    "confidence": "high",
@@ -9787,7 +10160,7 @@
    "artist": "back number",
    "date": "2027-09-11",
    "title": "FCツアー one room party vol.8",
-   "kind": "ツアー",
+   "kind": "ワンマン",
    "venue": "Zepp Sapporo（北海道）",
    "source_url": "https://backnumber.info/news/detail/400314",
    "confidence": "high",
@@ -9812,7 +10185,7 @@
    "artist": "back number",
    "date": "2027-09-24",
    "title": "FCツアー one room party vol.8",
-   "kind": "ツアー",
+   "kind": "ワンマン",
    "venue": "Zepp Osaka Bayside（大阪）",
    "source_url": "https://backnumber.info/news/detail/400314",
    "confidence": "high",
@@ -9824,7 +10197,7 @@
    "artist": "back number",
    "date": "2027-09-25",
    "title": "FCツアー one room party vol.8",
-   "kind": "ツアー",
+   "kind": "ワンマン",
    "venue": "Zepp Osaka Bayside（大阪）",
    "source_url": "https://backnumber.info/news/detail/400314",
    "confidence": "high",
@@ -9836,7 +10209,7 @@
    "artist": "back number",
    "date": "2027-10-09",
    "title": "FCツアー one room party vol.8",
-   "kind": "ツアー",
+   "kind": "ワンマン",
    "venue": "やまぎん県民ホール（山形）",
    "source_url": "https://backnumber.info/news/detail/400314",
    "confidence": "high",
@@ -9848,7 +10221,7 @@
    "artist": "back number",
    "date": "2027-10-10",
    "title": "FCツアー one room party vol.8",
-   "kind": "ツアー",
+   "kind": "ワンマン",
    "venue": "やまぎん県民ホール（山形）",
    "source_url": "https://backnumber.info/news/detail/400314",
    "confidence": "high",
@@ -9870,7 +10243,7 @@
    "artist": "back number",
    "date": "2027-10-16",
    "title": "FCツアー one room party vol.8",
-   "kind": "ツアー",
+   "kind": "ワンマン",
    "venue": "本多の森 北電ホール（石川）",
    "source_url": "https://backnumber.info/news/detail/400314",
    "confidence": "high",
@@ -9892,7 +10265,7 @@
    "artist": "back number",
    "date": "2027-10-17",
    "title": "FCツアー one room party vol.8",
-   "kind": "ツアー",
+   "kind": "ワンマン",
    "venue": "本多の森 北電ホール（石川）",
    "source_url": "https://backnumber.info/news/detail/400314",
    "confidence": "high",
@@ -9925,7 +10298,7 @@
    "artist": "back number",
    "date": "2027-10-30",
    "title": "FCツアー one room party vol.8",
-   "kind": "ツアー",
+   "kind": "ワンマン",
    "venue": "KDDI維新ホール（山口）",
    "source_url": "https://backnumber.info/news/detail/400314",
    "confidence": "high",
@@ -9937,7 +10310,7 @@
    "artist": "back number",
    "date": "2027-10-31",
    "title": "FCツアー one room party vol.8",
-   "kind": "ツアー",
+   "kind": "ワンマン",
    "venue": "KDDI維新ホール（山口）",
    "source_url": "https://backnumber.info/news/detail/400314",
    "confidence": "high",
@@ -9949,7 +10322,7 @@
    "artist": "back number",
    "date": "2027-11-13",
    "title": "FCツアー one room party vol.8",
-   "kind": "ツアー",
+   "kind": "ワンマン",
    "venue": "LaLa arena TOKYO-BAY（千葉）",
    "source_url": "https://backnumber.info/news/detail/400314",
    "confidence": "high",
@@ -9961,7 +10334,7 @@
    "artist": "back number",
    "date": "2027-11-14",
    "title": "FCツアー one room party vol.8",
-   "kind": "ツアー",
+   "kind": "ワンマン",
    "venue": "LaLa arena TOKYO-BAY（千葉）",
    "source_url": "https://backnumber.info/news/detail/400314",
    "confidence": "high",
@@ -9973,7 +10346,7 @@
    "artist": "back number",
    "date": "2027-11-25",
    "title": "FCツアー one room party vol.8",
-   "kind": "ツアー",
+   "kind": "ワンマン",
    "venue": "クロコくんホール（愛知）",
    "source_url": "https://backnumber.info/news/detail/400314",
    "confidence": "high",
@@ -9985,7 +10358,7 @@
    "artist": "back number",
    "date": "2027-11-26",
    "title": "FCツアー one room party vol.8",
-   "kind": "ツアー",
+   "kind": "ワンマン",
    "venue": "クロコくんホール（愛知）",
    "source_url": "https://backnumber.info/news/detail/400314",
    "confidence": "high",
@@ -9997,7 +10370,7 @@
    "artist": "back number",
    "date": "2027-12-04",
    "title": "FCツアー one room party vol.8",
-   "kind": "ツアー",
+   "kind": "ワンマン",
    "venue": "マリンメッセ福岡A館（福岡）",
    "source_url": "https://backnumber.info/news/detail/400314",
    "confidence": "high",
@@ -10009,7 +10382,7 @@
    "artist": "back number",
    "date": "2027-12-05",
    "title": "FCツアー one room party vol.8",
-   "kind": "ツアー",
+   "kind": "ワンマン",
    "venue": "マリンメッセ福岡A館（福岡）",
    "source_url": "https://backnumber.info/news/detail/400314",
    "confidence": "high",
@@ -10021,7 +10394,7 @@
    "artist": "back number",
    "date": "2027-12-11",
    "title": "FCツアー one room party vol.8",
-   "kind": "ツアー",
+   "kind": "ワンマン",
    "venue": "あなぶきアリーナ香川（香川）",
    "source_url": "https://backnumber.info/news/detail/400314",
    "confidence": "high",
@@ -10033,7 +10406,7 @@
    "artist": "back number",
    "date": "2027-12-12",
    "title": "FCツアー one room party vol.8",
-   "kind": "ツアー",
+   "kind": "ワンマン",
    "venue": "あなぶきアリーナ香川（香川）",
    "source_url": "https://backnumber.info/news/detail/400314",
    "confidence": "high",
@@ -10045,7 +10418,7 @@
    "artist": "back number",
    "date": "2027-12-25",
    "title": "FCツアー one room party vol.8",
-   "kind": "ツアー",
+   "kind": "ワンマン",
    "venue": "G-Messe Gunma（群馬）",
    "source_url": "https://backnumber.info/news/detail/400314",
    "confidence": "high",
@@ -10057,7 +10430,7 @@
    "artist": "back number",
    "date": "2027-12-26",
    "title": "FCツアー one room party vol.8",
-   "kind": "ツアー",
+   "kind": "ワンマン",
    "venue": "G-Messe Gunma（群馬）",
    "source_url": "https://backnumber.info/news/detail/400314",
    "confidence": "high",
@@ -10687,7 +11060,7 @@
      "note": "10:00〜"
     }
    ],
-   "lineup_checked": "2026-11-03",
+   "lineup_checked": "2026-11-07",
    "image": "https://kishidanbanpaku.com/images/15/b4f/cc6d2372ede6735f3c035c0a29ece.jpg",
    "lineup_days": {
     "2026-11-07": [
@@ -10703,9 +11076,9 @@
      "NEWS",
      "バックドロップシンデレラ",
      "PUFFY",
+     "美少女戦士セーラームーン -Shining Theater Shinagawa Tokyo-",
      "日向坂46",
-     "モナキ",
-     "美少女戦士セーラームーン -Shining Theater Shinagawa Tokyo-"
+     "モナキ"
     ],
     "2026-11-08": [
      "アイナ・ジ・エンド",
@@ -10774,7 +11147,10 @@
    "pref": "神奈川",
    "status": "unknown",
    "source_url": "https://www.ragnet.co.jp/rock-festival",
-   "lineup_checked": "2026-11-07"
+   "lineup_checked": "2026-11-07",
+   "venue": "大磯港 芝生広場",
+   "official_url": "https://www.town.oiso.kanagawa.jp/soshiki/kyoiku/shogaigakushu/tanto/syogai_gakusyu/bunkageijutusai/24646.html",
+   "image": "https://www.town.oiso.kanagawa.jp/material/images/group/30/oisoartandculturefestival2026.jpg"
   },
   {
    "name": "こんがりおんがく祭",
@@ -10932,7 +11308,10 @@
    "pref": "埼玉",
    "status": "unknown",
    "source_url": "https://www.ragnet.co.jp/rock-festival",
-   "lineup_checked": "2026-11-07"
+   "lineup_checked": "2026-11-07",
+   "venue": "早川農場693倉庫",
+   "official_url": "https://camp-fire.jp/projects/852612/view",
+   "image": "https://static.camp-fire.jp/uploads/project_version/image/1448834/be578ab4-a1f8-4dae-bb60-a5aa11126b1d.jpeg?auto=format&fit=fill&ref=projects_overview&w=1200&h=675&fill=blur"
   },
   {
    "name": "岩手町SDGs ROCK HAND FES",
@@ -12206,9 +12585,13 @@
      "start": "2026-10-22",
      "url": "https://w.pia.jp/t/torirockfes2026/",
      "note": "開始12:00"
+    },
+    {
+     "name": "一般発売(ぴあ・e+)",
+     "start": "2026-10-22"
     }
    ],
-   "lineup_checked": "2026-11-02",
+   "lineup_checked": "2026-11-07",
    "ticket_name": "チケットぴあ・イープラス",
    "ticket_url": "https://w.pia.jp/t/torirockfes2026/",
    "venue": "豊洲PIT",
@@ -13011,7 +13394,13 @@
     "JUN SKY WALKER(S)",
     "四星球",
     "Knosis",
-    "HIKAGE"
+    "HIKAGE",
+    "中山功太",
+    "ニッポンの社長",
+    "吉本新喜劇",
+    "G-FREAK FACTORY",
+    "金属バット",
+    "チャンス大城"
    ],
    "sales": [
     {
@@ -13036,7 +13425,7 @@
      "note": "e+ 10/6 22:06〜10/18 23:59"
     }
    ],
-   "lineup_checked": "2026-11-03",
+   "lineup_checked": "2026-11-07",
    "lineup_days": {
     "2026-12-12": [
      "氣志團",
@@ -13051,10 +13440,14 @@
      "The Ravens",
      "TRACY",
      "NAGAN SERVER",
-     "山嵐"
+     "山嵐",
+     "中山功太",
+     "ニッポンの社長",
+     "吉本新喜劇"
     ],
     "2026-12-13": [
      "coldrain",
+     "G-FREAK FACTORY",
      "10-FEET",
      "Dragon Ash",
      "西川貴教",
@@ -13065,7 +13458,10 @@
      "JUN SKY WALKER(S)",
      "四星球",
      "Knosis",
-     "HIKAGE"
+     "HIKAGE",
+     "金属バット",
+     "チャンス大城",
+     "吉本新喜劇"
     ]
    },
    "venue": "京都パルスプラザ",
@@ -13294,9 +13690,33 @@
     "フレデリック",
     "HEY-SMITH",
     "ヤバイTシャツ屋さん",
-    "緑黄色社会"
+    "緑黄色社会",
+    "Arakezuri",
+    "UNFAIR RULE",
+    "おとなりにぎんが計画",
+    "Cloudy",
+    "にしな",
+    "BILLY BOO",
+    "plenty",
+    "Broken my toybox",
+    "WHITE ASH",
+    "yutori",
+    "Lavt",
+    "レトロリロン",
+    "クレイジーウォウウォ!!",
+    "Sundae May Club",
+    "至福ぽんちょ",
+    "シンガーズハイ",
+    "四星球",
+    "w.o.d.",
+    "BURNOUT SYNDROMES",
+    "バチカン市国に愛されたい",
+    "Blue Mash",
+    "名誉伝説",
+    "『ユイカ』",
+    "Laughing Hick"
    ],
-   "lineup_checked": "2026-11-05",
+   "lineup_checked": "2026-11-07",
    "status": "lineup",
    "venue": "ポートメッセなごや",
    "official_url": "https://www.merryrockparade.jp/artist.html",
@@ -13319,7 +13739,19 @@
      "BLUE ENCOUNT",
      "My Hair is Bad",
      "マルシィ",
-     "WurtS"
+     "WurtS",
+     "Arakezuri",
+     "UNFAIR RULE",
+     "おとなりにぎんが計画",
+     "Cloudy",
+     "にしな",
+     "BILLY BOO",
+     "plenty",
+     "Broken my toybox",
+     "WHITE ASH",
+     "yutori",
+     "Lavt",
+     "レトロリロン"
     ],
     "2026-12-20": [
      "Aooo",
@@ -13336,9 +13768,29 @@
      "フレデリック",
      "HEY-SMITH",
      "ヤバイTシャツ屋さん",
-     "緑黄色社会"
+     "緑黄色社会",
+     "クレイジーウォウウォ!!",
+     "Sundae May Club",
+     "至福ぽんちょ",
+     "シンガーズハイ",
+     "四星球",
+     "w.o.d.",
+     "BURNOUT SYNDROMES",
+     "バチカン市国に愛されたい",
+     "Blue Mash",
+     "名誉伝説",
+     "『ユイカ』",
+     "Laughing Hick"
     ]
-   }
+   },
+   "sales": [
+    {
+     "name": "一般発売(抽選)",
+     "start": "2026-11-07",
+     "end": "2026-11-07",
+     "note": "10:00-23:59"
+    }
+   ]
   },
   {
    "name": "HACHINOHEなりきり音楽祭",
@@ -13432,7 +13884,13 @@
    "ticket_url": "https://eplus.jp/iwarock/",
    "source_url": "https://spice.eplus.jp/articles/349354",
    "status": "lineup",
-   "lineup_checked": "2026-11-03"
+   "lineup_checked": "2026-11-07",
+   "sales": [
+    {
+     "name": "先行",
+     "start": "2026-09-30"
+    }
+   ]
   },
   {
    "name": "若者たちの音楽祭（愛川町軽音フェス）",
@@ -13872,7 +14330,7 @@
    "pref": "東京",
    "status": "lineup",
    "source_url": "https://festival-life.com/169100",
-   "lineup_checked": "2026-11-03",
+   "lineup_checked": "2026-11-07",
    "lineup": [
     "ACIDMAN",
     "Survive Said The Prophet",
@@ -13968,7 +14426,42 @@
     "マキシマム ザ ホルモン",
     "milet",
     "Lucky Kilimanjaro",
-    "Novelbright"
+    "Novelbright",
+    "Kroi",
+    "tuki.",
+    "TRACK15",
+    "BURNOUT SYNDROMES",
+    "PUFFY",
+    "BIGMAMA",
+    "スーパー登山部",
+    "Dannie May",
+    "猫背のネイビーセゾン",
+    "Maki",
+    "Ayumu Imazu",
+    "カネヨリマサル",
+    "SHE'S",
+    "リーガルリリー",
+    "レトロリロン",
+    "多次元制御機構よだか",
+    "NELKE",
+    "Furui Riho",
+    "PompadollS",
+    "Rol3ert",
+    "内澤崇仁(androp)",
+    "サイトウタクヤ(w.o.d.)",
+    "秋山黄色",
+    "OKAMOTO'S",
+    "SIX LOUNGE",
+    "ストレイテナー",
+    "BLUE ENCOUNT",
+    "Blue Mash",
+    "UNFAIR RULE",
+    "KOTORI",
+    "バチカン市国に愛されたい",
+    "Hedigan's",
+    "名誉伝説",
+    "Lavt",
+    "映秀。"
    ],
    "lineup_checked": "2026-11-07",
    "sales": [
@@ -14011,6 +14504,11 @@
      "start": "2026-10-26",
      "url": "https://radiocrazy.fm/",
      "note": "締切は公式に記載なし"
+    },
+    {
+     "name": "e+ オフィシャル5次受付(抽選)",
+     "start": "2026-11-06",
+     "end": "2026-11-15"
     }
    ],
    "note": "第1弾。表記は公式で要確認 / LIVE HOUSE Antenna ステージの出演者は11/6 0:00にFM802で発表予定",
@@ -14020,69 +14518,102 @@
      "ウルフルズ",
      "HY",
      "Omoinotake",
+     "Kroi",
      "go!go!vanillas",
      "サバシスター",
      "jo0ji",
      "SCANDAL",
      "sumika",
+     "tuki.",
      "Tele",
      "東京スカパラダイスオーケストラ",
+     "TRACK15",
      "ねぐせ。",
      "ハルカミライ",
      "Hump Back",
      "ハンブレッダーズ",
+     "BURNOUT SYNDROMES",
+     "PUFFY",
+     "BIGMAMA",
      "04 Limited Sazabys",
      "マルシィ",
      "ヤバイTシャツ屋さん",
      "ヤングスキニー",
-     "UNICORN"
+     "UNICORN",
+     "スーパー登山部",
+     "Dannie May",
+     "猫背のネイビーセゾン",
+     "Maki"
     ],
     "2026-12-27": [
+     "Ayumu Imazu",
      "indigo la End",
      "梅田サイファー",
-     "『802 PSY TONE RADIO』in レディクレ",
+     "カネヨリマサル",
      "CLAN QUEEN",
      "Creepy Nuts",
      "クリープハイプ",
      "くるり",
      "Saucy Dog",
+     "SHE'S",
      "スキマスイッチ",
      "Chilli Beans.",
      "This is LAST",
      "なとり",
      "にしな",
+     "Novelbright",
      "PEOPLE 1",
      "plenty",
      "My Hair is Bad",
      "山内総一郎",
      "YUKI",
+     "リーガルリリー",
      "緑黄色社会",
      "レキシ",
+     "レトロリロン",
      "WurtS",
-     "Novelbright"
+     "多次元制御機構よだか",
+     "NELKE",
+     "Furui Riho",
+     "PompadollS",
+     "Rol3ert",
+     "内澤崇仁(androp)",
+     "サイトウタクヤ(w.o.d.)"
     ],
     "2026-12-28": [
+     "秋山黄色",
      "稲葉浩志",
      "打首獄門同好会",
      "Aimer",
+     "OKAMOTO'S",
      "KANA-BOON",
      "キュウソネコカミ",
      "サンボマスター",
      "the paddles",
      "THE BAWDIES",
      "Chevon",
+     "SIX LOUNGE",
      "SiM",
+     "ストレイテナー",
      "w.o.d.",
      "TenTwenty",
      "10-FEET",
-     "FM802＆怒髪天 presents レディクレ歌合戦",
      "flumpool",
+     "BLUE ENCOUNT",
      "フレデリック",
      "HEY-SMITH",
      "マカロニえんぴつ",
      "マキシマム ザ ホルモン",
      "milet",
-     "Lucky Kilimanjaro"
+     "Lucky Kilimanjaro",
+     "Blue Mash",
+     "UNFAIR RULE",
+     "KOTORI",
+     "バチカン市国に愛されたい",
+     "Hedigan's",
+     "名誉伝説",
+     "Lavt",
+     "映秀。"
     ]
    },
    "image": "https://eplus.jp/s/image/0000038921/0000038921_6.jpg"
@@ -15675,6 +16206,24 @@
    "note": "2日通し券12,000円。開場11:00/開演12:00",
    "source_url": "https://overheadfes.com/",
    "image": "https://overheadfes.com/wp-content/uploads/2026/06/OHF2026_banner_1080_1080_C.jpg"
+  },
+  {
+   "name": "ロックアンセム -BY ROCK LOVERS , FOR ROCK LOVERS-",
+   "start": "2026-11-27",
+   "end": "2026-11-29",
+   "pref": "東京",
+   "status": "unknown",
+   "source_url": "https://www.ragnet.co.jp/rock-festival/2",
+   "lineup_checked": "2026-11-07"
+  },
+  {
+   "name": "SYNCHRONICITY' Wonder Vision",
+   "start": "2027-04-10",
+   "end": "2027-04-11",
+   "pref": "東京",
+   "status": "unknown",
+   "source_url": "https://www.ragnet.co.jp/rock-festival/2",
+   "lineup_checked": "2026-11-07"
   }
  ],
  "artist_links": {
@@ -15929,7 +16478,9 @@
    "official": "https://bubblegumbrothers.com/",
    "eplus": "https://eplus.jp/sf/word/0000035354",
    "image": "https://storage.googleapis.com/production-os-assets/assets/3ecfbc3b-d401-4c46-ad66-09f61f885721",
-   "pia": "http://t.pia.jp/pia/artist/artists.do?artistsCd=11011726"
+   "pia": "http://t.pia.jp/pia/artist/artists.do?artistsCd=11011726",
+   "schedule": "https://www.brotom.jp/live",
+   "news": "https://www.brotom.jp/news"
   },
   "ブラザートム": {
    "official": "https://www.brotom.jp/",
@@ -15942,7 +16493,8 @@
    "official": "https://www.brotom.jp/",
    "schedule": "https://www.brotom.jp/live",
    "eplus": "https://eplus.jp/sf/word/0000039568",
-   "image": "https://static.wixstatic.com/media/9a2e3a_ef5e7c046c40479680fc68094c119372~mv2.jpg/v1/fill/w_2500,h_1714,al_c/9a2e3a_ef5e7c046c40479680fc68094c119372~mv2.jpg"
+   "image": "https://static.wixstatic.com/media/9a2e3a_ef5e7c046c40479680fc68094c119372~mv2.jpg/v1/fill/w_2500,h_1714,al_c/9a2e3a_ef5e7c046c40479680fc68094c119372~mv2.jpg",
+   "news": "https://www.brotom.jp/news"
   }
  },
  "aliases": {
@@ -16129,18 +16681,18 @@
  "artist_status": {
   "Hi-STANDARD": {
    "state": "ok",
-   "checked": "2026-11-06T07:07:00+09:00",
-   "news_checked": "2026-11-06T07:07:00+09:00"
+   "checked": "2026-11-07T20:30:00+09:00",
+   "news_checked": "2026-11-07T20:30:00+09:00"
   },
   "Mrs. GREEN APPLE": {
    "state": "ok",
-   "checked": "2026-11-06T07:07:00+09:00",
-   "news_checked": "2026-11-06T07:07:00+09:00"
+   "checked": "2026-11-07T20:30:00+09:00",
+   "news_checked": "2026-11-07T20:30:00+09:00"
   },
   "back number": {
    "state": "ok",
-   "checked": "2026-11-06T07:07:00+09:00",
-   "news_checked": "2026-11-06T07:07:00+09:00"
+   "checked": "2026-11-07T20:30:00+09:00",
+   "news_checked": "2026-11-07T20:30:00+09:00"
   },
   "04 Limited Sazabys": {
    "state": "ok",
@@ -16149,7 +16701,7 @@
   },
   "ELLEGARDEN": {
    "state": "ok",
-   "checked": "2026-11-07T07:06:00+09:00",
+   "checked": "2026-11-07T20:30:00+09:00",
    "note": "10/23名古屋は延期（振替日程は調整中・未発表）",
    "news_checked": "2026-11-04T20:17:00+09:00"
   },
@@ -16160,17 +16712,17 @@
   },
   "ORAL CIGARETTES": {
    "state": "ok",
-   "checked": "2026-11-06T07:07:00+09:00",
-   "news_checked": "2026-11-06T07:07:00+09:00"
+   "checked": "2026-11-07T20:30:00+09:00",
+   "news_checked": "2026-11-07T20:30:00+09:00"
   },
   "HEY-SMITH": {
    "state": "ok",
-   "checked": "2026-11-07T07:06:00+09:00",
+   "checked": "2026-11-07T20:30:00+09:00",
    "news_checked": "2026-11-04T20:17:00+09:00"
   },
   "マキシマム ザ ホルモン": {
    "state": "ok",
-   "checked": "2026-11-07T07:06:00+09:00",
+   "checked": "2026-11-07T20:30:00+09:00",
    "news_checked": "2026-11-04T20:17:00+09:00"
   },
   "サンボマスター": {
@@ -16180,8 +16732,8 @@
   },
   "あいみょん": {
    "state": "ok",
-   "checked": "2026-11-06T07:07:00+09:00",
-   "news_checked": "2026-11-06T07:07:00+09:00"
+   "checked": "2026-11-07T20:30:00+09:00",
+   "news_checked": "2026-11-07T20:30:00+09:00"
   },
   "10-FEET": {
    "state": "ok",
@@ -16245,7 +16797,7 @@
   },
   "UNISON SQUARE GARDEN": {
    "state": "no_events",
-   "checked": "2026-11-07T07:06:00+09:00",
+   "checked": "2026-11-07T20:30:00+09:00",
    "note": "2026-04-27に活動休止を発表。最終公演は2026-07-15。再開の発表なし",
    "news_checked": "2026-11-04T20:17:00+09:00"
   },
@@ -16301,28 +16853,28 @@
   },
   "THE ALFEE": {
    "state": "ok",
-   "checked": "2026-11-05T20:11:03+09:00",
-   "news_checked": "2026-11-05T20:11:03+09:00"
+   "checked": "2026-11-07T20:30:00+09:00",
+   "news_checked": "2026-11-07T20:30:00+09:00"
   },
   "バブルガム・ブラザーズ": {
    "state": "ok",
-   "checked": "2026-11-05T20:11:03+09:00",
-   "news_checked": "2026-11-05T20:11:03+09:00"
+   "checked": "2026-11-07T20:30:00+09:00",
+   "news_checked": "2026-11-07T20:30:00+09:00"
   },
   "Bro.KORN": {
    "state": "ok",
-   "checked": "2026-11-05T20:11:03+09:00",
-   "news_checked": "2026-11-05T20:11:03+09:00"
+   "checked": "2026-11-07T20:30:00+09:00",
+   "news_checked": "2026-11-07T20:30:00+09:00"
   },
   "ブラザートム": {
    "state": "ok",
-   "checked": "2026-11-05T20:11:03+09:00",
-   "news_checked": "2026-11-05T20:11:03+09:00"
+   "checked": "2026-11-07T20:30:00+09:00",
+   "news_checked": "2026-11-07T20:30:00+09:00"
   },
   "Aimer": {
    "state": "ok",
-   "checked": "2026-11-05T20:11:03+09:00",
-   "news_checked": "2026-11-05T20:11:03+09:00"
+   "checked": "2026-11-07T20:30:00+09:00",
+   "news_checked": "2026-11-07T20:30:00+09:00"
   }
  }
 }
