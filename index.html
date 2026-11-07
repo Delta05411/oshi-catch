@@ -114,6 +114,10 @@ main{padding-bottom:70px}
 .sale{display:flex;gap:8px;align-items:baseline;flex-wrap:wrap;font-size:12.5px;color:var(--fg);margin-top:6px}
 .sale a{color:var(--fg);text-underline-offset:3px}
 select.st{display:block;margin-top:12px;font:inherit;font-size:12px;color:var(--sub);background:transparent;border:1px solid var(--line2);border-radius:2px;padding:4px 8px;max-width:100%}
+.ev.went{border-left:3px solid #6fb3ff;padding-left:10px}
+.ev.go{border-left:3px solid #7ddf7d;padding-left:10px}
+.pill.went{background:#6fb3ff;border-color:#6fb3ff;color:#0b0b0b;font-weight:700}
+.pill.go{background:#7ddf7d;border-color:#7ddf7d;color:#0b0b0b;font-weight:700}
 select.st.has{color:var(--bg);background:var(--w);border-color:var(--w);font-weight:700}
 select.st.s3{background:transparent;color:var(--sub);border-color:var(--line2);text-decoration:line-through}
 select.st option{color:#000;background:#fff}
@@ -379,8 +383,9 @@ function slCard(e,i){
     const c=x.e||0,hd=c!==pe?`<li class="encl">ENCORE${c>1?' '+c:''}</li>`:'';pe=c;
     return hd+`<li>${esc(x.t)}${x.w?` <span class="m">w/ ${esc(x.w)}</span>`:''}</li>`}).join('');
   const nSongs=e.songs.filter(x=>x.t).length;
-  return `<article class="ev" style="animation-delay:${Math.min(i,10)*25}ms">${dateBlock(e.date,e.date_end||'',img,e.kind==='フェス'?(e.event||dn(e.artist)):dn(e.artist),href)}
-  <div><div class="tags"><span>${esc(e.kind||'')}</span><span class="who" style="--h:${hue(e.artist)}"><i class="dot"></i>${esc(dn(e.artist))}</span>${e.day?`<span class="pill">${esc(e.day.toUpperCase())}</span>`:''}${e.part?`<span class="pill">${esc(e.part)}</span>`:''}${e.oshi?'<span class="pill solid">推し</span>':''}</div>
+  const g=slGo(e);
+  return `<article class="ev${g?" "+g:""}" style="animation-delay:${Math.min(i,10)*25}ms">${dateBlock(e.date,e.date_end||'',img,e.kind==='フェス'?(e.event||dn(e.artist)):dn(e.artist),href)}
+  <div><div class="tags">${goMark(g)}<span>${esc(e.kind||'')}</span><span class="who" style="--h:${hue(e.artist)}"><i class="dot"></i>${esc(dn(e.artist))}</span>${e.day?`<span class="pill">${esc(e.day.toUpperCase())}</span>`:''}${e.part?`<span class="pill">${esc(e.part)}</span>`:''}${e.oshi?'<span class="pill solid">推し</span>':''}</div>
   <div class="t">${esc(e.event||e.venue||'ライブ')}</div>${e.event&&e.venue?`<div class="m">${esc(e.venue)}</div>`:''}
   <details class="lu"><summary>セットリスト ${nSongs}曲</summary><ol class="sl">${li}</ol>${e.rehearsal&&e.rehearsal.length?`<div class="m" style="margin-top:6px">リハ：${esc(e.rehearsal.join('、'))}</div>`:''}${e.note?`<div class="m" style="margin-top:6px">※ ${esc(e.note)}</div>`:''}</details>${myBlock(e.artist,e.date)}</div></article>`}
 function renderSet(){
@@ -590,6 +595,11 @@ const links=(o)=>{const t=safe(o.ticket_url),s=safe(o.source_url||o.official_url
   return `<div class="links">${t?`<a class="btn" href="${t}" target="_blank" rel="noopener">${esc(o.ticket_name||'チケット')}　→</a>`:o.ticket_name?`<span class="m">${esc(o.ticket_name)}</span>`:''}${s?`<a class="lnk" href="${s}" target="_blank" rel="noopener">${o.official_url?'公式サイト':'情報元'}</a>`:''}</div>`};
 // 申込状況（自分用のメモ。この端末にだけ保存される）
 const ST=['検討中','申込済','当選','落選','購入済','参加済'];
+// 行った公演・行く公演の見分け（参加済は行った。当選・購入済は、日が過ぎたら行った扱い）
+const goState=(st,d)=>st==='参加済'?'went':(st==='当選'||st==='購入済')?(d<todayJ()?'went':'go'):'';
+const goMark=g=>g==='went'?'<span class="pill went">✓ 行った</span>':g==='go'?'<span class="pill go">行く</span>':'';
+const slGo=e=>{for(const x of marked()){const n=x.s;if(n.d<e.date||n.d>(e.date_end||e.date))continue;
+  if(n.a===e.artist||(n.k==='フェス'&&fesHit(nzT(String(n.t).replace(/（DAY.*$/,'')),nzT(e.event)))){const g=goState(x.st,n.d);if(g)return g}}return ''};
 // 記録した公演・フェスの控え（データから消えた後も、MY LIST / MY CAL に残す。この端末だけに保存）
 let SNAP={};try{SNAP=JSON.parse(localStorage.snap||'{}')}catch{}
 const saveSnap=()=>{try{localStorage.snap=JSON.stringify(SNAP)}catch{}};
@@ -632,7 +642,8 @@ function icsAll(){
   const b=new Blob([L.join('\r\n')],{type:'text/calendar;charset=utf-8'}),a=document.createElement('a');
   a.href=URL.createObjectURL(b);a.download='oshicatch-my-calendar.ics';document.body.appendChild(a);a.click();setTimeout(()=>{URL.revokeObjectURL(a.href);a.remove()},1500)}
 function miniCard(x){const s=x.s,k=KIND[s.k]||s.k||'';
-  return `<article class="ev">${dateBlock(s.d)}<div><div class="tags">${k?`<span>${esc(k)}</span>`:''}${s.a?`<span class="who" style="--h:${hue(s.a)}"><i class="dot"></i>${esc(dn(s.a))}</span>`:''}${soonBadge(s.d)}</div>
+  const g=goState(x.st,s.d);
+  return `<article class="ev${g?" "+g:""}">${dateBlock(s.d)}<div><div class="tags">${goMark(g)}${k?`<span>${esc(k)}</span>`:''}${s.a?`<span class="who" style="--h:${hue(s.a)}"><i class="dot"></i>${esc(dn(s.a))}</span>`:''}${soonBadge(s.d)}</div>
   <div class="t">${esc(s.t)}</div>${s.v?`<div class="m">${esc(s.v)}</div>`:''}${s.u?`<div class="links"><a class="lnk" href="${s.u}" target="_blank" rel="noopener">情報元</a></div>`:''}${s.a?myBlock(s.a,s.d):fesBlock(s.d,null,s.t)}${stRow(x.k,s)}</div></article>`}
 // MY CAL（月のカレンダー。記録した公演・フェスを表示。過去の分も残る）
 let CALM=todayJ().slice(0,7),CALD='';
@@ -689,6 +700,7 @@ function renderHelp(){
   ${st('間違いがあるかも','予定はAIが自動で集めているので、間違いや、載っていないものがあります。チケットを買う前に、かならず公式サイトで たしかめてね。')}
   ${st('うまく表示されないとき','画面が空になったり、おかしくなったときは、一度アプリ（ブラウザ）を閉じて、開き直してください。たいていは直ります。それでも直らないときは、検索欄や推しの絞り込みを解除してみてください。')}
   ${st('日付の下の小さな画像','日付の下に出る画像は、アーティストやフェスの公式サイトが公開している画像を、そのまま表示しています。ロゴのことも、写真のこともあります。画像が出ないものもあります。画像をおすと、公式サイトが新しい画面で開きます。')}
+  ${st('行った公演の印','申込状況を「参加済」にした公演は、青い線と「✓ 行った」の印が付きます。「当選」「購入済」は、公演日までは緑の線と「行く」の印で、日が過ぎると「✓ 行った」に変わります。行かなかったときは、申込状況を変えてください。')}
   ${st('終わった公演・フェスを見る','ALL・LIVE・FES の月ボタンの先頭にある「PAST」をおすと、終わった公演・フェスが新しい順に出ます。もう一度おすと、今後の予定に戻ります。2026年10月14日より前の分はありません。')}
   ${st('セトリの予想と答え合わせ','公演カードの「セトリ・予想」から、予想セトリを1行1曲で書けます。終わったあとは「セトリ・答え合わせ」で、当たった曲数が見られます。答えは、自分で書いた実際のセトリか、ソノダマンさんのセトリです。略し方や書き方が違うと、別の曲として数えます。ここから setlist.fm や LiveFans で探すこともできます（別のサイトが開きます）。')}
   ${st('日程未定のフェス','来年の開催がまだ発表されていないフェスは「日程未定」で出ます。発表されると、自動で日にちが入ります。')}
@@ -721,8 +733,9 @@ function salesHtml(o){
 }
 function card(e,i){
   const k=KIND[e.kind]||e.kind||'';
-  return `<article class="ev" style="animation-delay:${Math.min(i,10)*25}ms">${(()=>{const F=festFor(e);return dateBlock(e.date,'',(F&&F.image)||artImg(e.artist),e.kind==='フェス'?e.title:dn(e.artist),F?F.official_url:artSite(e.artist))})()}
-  <div><div class="tags">${k?`<span>${esc(k)}</span>`:''}<span class="who" style="--h:${hue(e.artist)}"><i class="dot"></i>${esc(dn(e.artist))}</span>${soonBadge(e.date)}${e.confidence==='low'?'<span class="pill warn">要確認</span>':''}</div>
+  const g=goState(MY[keyOf(e)],e.date);
+  return `<article class="ev${g?" "+g:""}" style="animation-delay:${Math.min(i,10)*25}ms">${(()=>{const F=festFor(e);return dateBlock(e.date,'',(F&&F.image)||artImg(e.artist),e.kind==='フェス'?e.title:dn(e.artist),F?F.official_url:artSite(e.artist))})()}
+  <div><div class="tags">${goMark(g)}${k?`<span>${esc(k)}</span>`:''}<span class="who" style="--h:${hue(e.artist)}"><i class="dot"></i>${esc(dn(e.artist))}</span>${soonBadge(e.date)}${e.confidence==='low'?'<span class="pill warn">要確認</span>':''}</div>
   <div class="t">${esc(e.title)}</div>
   ${e.venue?`<div class="m">${esc(e.venue)}</div>`:''}
   ${e.with?`<div class="m">with ${esc(e.with)}</div>`:''}
@@ -750,8 +763,9 @@ function fesCard(f,m,i,day){
   const u=safe(f.official_url),tk=safe(f.ticket_url);
   const luHtml=lu.length?`<details class="lu"><summary>出演者 ${lu.length}組${perDay?'':f.lineup_checked?`（${md(f.lineup_checked.slice(0,10))}時点）`:''}</summary><div>${lu.map(n=>mine.has(n)?`<b>${esc(dn(n))}</b>`:esc(n)).join('<i>/</i>')}${dayNote?`<br><span class="m">${dayNote}</span>`:''}</div></details>`
     :`<div class="m">${f.lineup_checked?`出演者は未発表です（${md(f.lineup_checked.slice(0,10))}確認。発表され次第、自動で追加します）`:'出演者は未取得です（順次、自動で集めています）'}</div>`;
-  return `<article class="ev" style="animation-delay:${Math.min(i,10)*25}ms">${multi&&day?dateBlock(day,'',f.image,f.name,f.official_url):dateBlock(f.start,f.end,f.image,f.name,f.official_url)}
-  <div><div class="tags"><span>FES</span>${multi&&day?`<span class="pill">DAY ${days.indexOf(day)+1} / ${days.length}</span>`:''}${who.length?'<span class="pill solid">推しが出演</span>':''}${f.status==='lineup'?'<span class="pill dim">出演者発表済み</span>':''}${f.tba?'<span class="pill warn">日程未定</span>':''}${soonBadge(multi&&day?day:f.start)}</div>
+  const g=goState(MY[dayKey(f,day||f.start)]||MY[fesKey(f)],day||f.start||'9999');
+  return `<article class="ev${g?" "+g:""}" style="animation-delay:${Math.min(i,10)*25}ms">${multi&&day?dateBlock(day,'',f.image,f.name,f.official_url):dateBlock(f.start,f.end,f.image,f.name,f.official_url)}
+  <div><div class="tags">${goMark(g)}<span>FES</span>${multi&&day?`<span class="pill">DAY ${days.indexOf(day)+1} / ${days.length}</span>`:''}${who.length?'<span class="pill solid">推しが出演</span>':''}${f.status==='lineup'?'<span class="pill dim">出演者発表済み</span>':''}${f.tba?'<span class="pill warn">日程未定</span>':''}${soonBadge(multi&&day?day:f.start)}</div>
   <div class="t">${esc(f.name)}${multi?`<span class="m">　${md(f.start)}〜${md(f.end)}</span>`:''}</div>
   <div class="m">${esc([f.pref,f.venue].filter(Boolean).join('　'))}</div>
   ${who.length?`<div class="m" style="color:var(--fg)">推し：${esc(who.map(dn).join('、'))}</div>`:''}
