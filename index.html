@@ -126,6 +126,21 @@ ol.sl li.intr{counter-increment:none;color:var(--sub);font-size:11.5px;margin:4p
 ol.sl li.intr::before{content:""}
 ol.sl .m{font-size:11.5px}
 details.lu{margin-top:8px;font-size:12.5px}
+details.my{margin-top:10px}
+details.my summary{color:var(--sub)}
+.mybtns{display:flex;flex-wrap:wrap;gap:8px 12px;align-items:center;margin-top:8px}
+.myres{margin-top:8px;padding:10px 12px;border:1px solid var(--line2)}
+.myres b.big{font-size:15px;color:var(--w)}
+.myres .pills{display:flex;flex-wrap:wrap;gap:6px;margin-top:6px}
+.myres ol{margin:8px 0 0;padding:0;list-style:none;font-size:13px;line-height:1.75}
+details.lu .myres li{color:var(--w);font-weight:700}
+details.lu .myres li i{display:inline-block;width:1.6em;margin:0;font-style:normal;color:var(--w)}
+details.lu .myres li.miss{color:var(--sub);font-weight:400}
+details.lu .myres li.encl{color:var(--w);font-weight:400;font-size:11px;letter-spacing:.12em;margin-top:6px}
+#myform textarea{width:100%;box-sizing:border-box;min-height:130px;font:inherit;font-size:16px;line-height:1.5;color:var(--fg);background:transparent;border:1px solid var(--line2);border-radius:2px;padding:8px;margin-top:4px}
+#myform label{display:block;margin-top:14px;font-size:12.5px;color:var(--fg)}
+#myform .who{font-size:15px;color:var(--w);margin-top:6px}
+#mydel{margin-left:14px}
 details.lu summary{cursor:pointer;color:var(--fg);padding:2px 0;list-style:none}
 details.lu summary::before{content:"+ ";color:var(--w)}
 details.lu[open] summary::before{content:"− "}
@@ -150,15 +165,15 @@ details.lu i{font-style:normal;color:var(--line2);margin:0 6px}
 #hintrow{margin-top:6px}
 #addgo{font-family:"Bebas Neue",sans-serif;font-size:22px;letter-spacing:.08em;color:var(--bg);background:var(--w);padding:4px 24px 2px;border-radius:2px}
 #addgo:disabled{opacity:.5}
-#recbox{position:fixed;inset:0;z-index:20;display:flex;align-items:flex-end;justify-content:center}
-#recbox[hidden]{display:none}
-#recform{position:relative;width:100%;max-width:560px;max-height:92vh;overflow:auto;padding:22px 20px calc(24px + env(safe-area-inset-bottom));background:var(--bg);border:1px solid var(--line2);border-bottom:0;animation:up .25s cubic-bezier(.2,.8,.2,1)}
-#recform h2{margin:0;font-size:38px;line-height:1;color:var(--w)}
-#recform p{margin:8px 0 14px;font-size:12.5px;color:var(--sub)}
-#recform input,#recform select{flex:1;min-width:0;font:inherit;font-size:16px;color:var(--fg);background:transparent;border:0;border-bottom:1px solid var(--line2);border-radius:0;padding:10px 0;outline:none;margin-top:4px;color-scheme:dark}
+#recbox,#mybox{position:fixed;inset:0;z-index:20;display:flex;align-items:flex-end;justify-content:center}
+#recbox[hidden],#mybox[hidden]{display:none}
+#recform,#myform{position:relative;width:100%;max-width:560px;max-height:92vh;overflow:auto;padding:22px 20px calc(24px + env(safe-area-inset-bottom));background:var(--bg);border:1px solid var(--line2);border-bottom:0;animation:up .25s cubic-bezier(.2,.8,.2,1)}
+#recform h2,#myform h2{margin:0;font-size:38px;line-height:1;color:var(--w)}
+#recform p,#myform p{margin:8px 0 14px;font-size:12.5px;color:var(--sub)}
+#recform input,#recform select,#myform input{flex:1;min-width:0;font:inherit;font-size:16px;color:var(--fg);background:transparent;border:0;border-bottom:1px solid var(--line2);border-radius:0;padding:10px 0;outline:none;margin-top:4px;color-scheme:dark}
 #recform select option{color:#000;background:#fff}
-#recform input:focus,#recform select:focus{border-bottom-color:var(--w)}
-#recgo{margin-top:20px;font-family:"Bebas Neue",sans-serif;font-size:22px;letter-spacing:.08em;color:var(--bg);background:var(--w);padding:6px 28px 4px;border-radius:2px}
+#recform input:focus,#recform select:focus,#myform input:focus{border-bottom-color:var(--w)}
+#recgo,#mygo{margin-top:20px;font-family:"Bebas Neue",sans-serif;font-size:22px;letter-spacing:.08em;color:var(--bg);background:var(--w);padding:6px 28px 4px;border-radius:2px}
 #pick{margin-top:18px}
 #pick .pk{font-size:12px;color:var(--sub)}
 #pick .chips{margin:10px 0 0;max-height:150px;overflow:auto}
@@ -252,6 +267,21 @@ details.lu i{font-style:normal;color:var(--line2);margin:0 6px}
     <div class="row"><input id="recv" maxlength="40" placeholder="会場（任意）" autocomplete="off"></div>
     <div class="row"><select id="recs" aria-label="申込状況"></select></div>
     <button id="recgo" type="submit">SAVE</button>
+  </form>
+</div>
+<div id="mybox" hidden>
+  <div class="bg" data-mclose></div>
+  <form id="myform">
+    <button type="button" class="x" data-mclose aria-label="閉じる">×</button>
+    <h2 class="bb">MY SETLIST</h2>
+    <p>予想と、実際のセットリストを書けます。1行に1曲。「ENCORE」の行から下はアンコールです。この端末にだけ保存されます。</p>
+    <div class="who" id="mywho"></div>
+    <div class="row" id="myartrow"><input id="myart" maxlength="40" placeholder="アーティスト名" autocomplete="off"></div>
+    <label for="myp">予想セトリ</label>
+    <textarea id="myp" maxlength="4000" placeholder="1曲目&#10;2曲目&#10;ENCORE&#10;アンコールの曲"></textarea>
+    <label for="mya">実際のセトリ</label>
+    <textarea id="mya" maxlength="4000" placeholder="行ったあとに書く（書かなくてもOK）"></textarea>
+    <button id="mygo" type="submit">SAVE</button><button type="button" class="lnk" id="mydel">この記録を消す</button>
   </form>
 </div>
 <div id="toast" role="status"></div>
@@ -351,7 +381,7 @@ function slCard(e,i){
   return `<article class="ev" style="animation-delay:${Math.min(i,10)*25}ms">${dateBlock(e.date,e.date_end||'',img,e.kind==='フェス'?(e.event||dn(e.artist)):dn(e.artist),href)}
   <div><div class="tags"><span>${esc(e.kind||'')}</span><span class="who" style="--h:${hue(e.artist)}"><i class="dot"></i>${esc(dn(e.artist))}</span>${e.day?`<span class="pill">${esc(e.day.toUpperCase())}</span>`:''}${e.part?`<span class="pill">${esc(e.part)}</span>`:''}${e.oshi?'<span class="pill solid">推し</span>':''}</div>
   <div class="t">${esc(e.event||e.venue||'ライブ')}</div>${e.event&&e.venue?`<div class="m">${esc(e.venue)}</div>`:''}
-  <details class="lu"><summary>セットリスト ${nSongs}曲</summary><ol class="sl">${li}</ol>${e.rehearsal&&e.rehearsal.length?`<div class="m" style="margin-top:6px">リハ：${esc(e.rehearsal.join('、'))}</div>`:''}${e.note?`<div class="m" style="margin-top:6px">※ ${esc(e.note)}</div>`:''}</details></div></article>`}
+  <details class="lu"><summary>セットリスト ${nSongs}曲</summary><ol class="sl">${li}</ol>${e.rehearsal&&e.rehearsal.length?`<div class="m" style="margin-top:6px">リハ：${esc(e.rehearsal.join('、'))}</div>`:''}${e.note?`<div class="m" style="margin-top:6px">※ ${esc(e.note)}</div>`:''}</details>${myBlock(e.artist,e.date)}</div></article>`}
 function renderSet(){
   const q=$('#q').value.trim().toLowerCase();
   const L=SL.filter(e=>(!sel.size||sel.has(e.artist))&&(!q||(e.artist+' '+(e.name_in_source||'')+' '+dn(e.artist)+' '+e.event+' '+(e.tag_src||'')+' '+(e.venue||'')+' '+e.songs.map(x=>x.t||'').join(' ')).toLowerCase().includes(q)));
@@ -364,8 +394,56 @@ function renderSet(){
   const none=!SL.length?'<div class="empty"><div class="bb">LOADING</div><p>セットリストを読み込んでいます…</p></div>'
     :`<div class="empty"><div class="bb">NO RESULT</div><p>${q?`検索「${esc($('#q').value.trim())}」に合うセットリストはありません。`:'選んだ推しのセットリストは、まだありません。'}</p><p><button type="button" class="btn" data-reset="1">検索と推しの絞り込みを解除</button></p></div>`;
   out.innerHTML=mnav+(L.length?`<div class="count">${L.length}件　新しい順。「セットリスト」をおすと曲順が開きます${L.length>shown.length?`（いまは新しい${shown.length}件を表示）`:''}</div>${h}`:none)
-    +foot(SLSRC?`セットリストは、${esc(SLSRC.name)}をもとに掲載しています。曲順や表記に間違いがあるかもしれません`:'');
+    +((q||sel.size===1)?`<div class="links" style="margin-top:18px"><span class="m">ほかのサイトでも探す：</span>${extLinks($('#q').value.trim()||dn([...sel][0]))}</div>`:'')+foot(SLSRC?`セットリストは、${esc(SLSRC.name)}をもとに掲載しています。曲順や表記に間違いがあるかもしれません`:'');
 }
+// 自分で書くセトリ（予想・実際）と答え合わせ。端末内に保存
+let MYSL={};try{MYSL=JSON.parse(localStorage.slmy||'{}')}catch{}
+const saveMYSL=()=>{try{localStorage.slmy=JSON.stringify(MYSL)}catch{}};
+const OPENMY=new Set();let MYCUR=null;
+const myKey=(a,d)=>a+'|'+d;
+const nzS=t=>{const x=String(t||'').normalize('NFKC').replace(/[(（][^)）]*[)）]\s*$/,'').toLowerCase().replace(/[\s'’"「」『』【】\[\]!?・.,。、~〜_:;\/&-]/g,'');return x||String(t||'').toLowerCase()};
+function parseSet(txt){const r=[];let e=0;
+  for(let l of String(txt||'').split(/\r?\n/)){l=l.trim();if(!l)continue;
+    if(/^(encore|en|アンコール)\s*\d*$/i.test(l.normalize('NFKC'))){e++;continue}
+    l=l.replace(/^\d+\s*[.．)）:：、]\s*/,'').replace(/\s+w\/.*$/i,'').trim();
+    if(l&&!/^リハ/.test(l))r.push({t:l,e})}
+  return r}
+const slEntry=(a,d)=>SL.find(e=>e.date<=d&&d<=(e.date_end||e.date)&&(e.artist===a||(e.name_in_source||'')===a));
+function slAns(a,d){const m=MYSL[myKey(a,d)],own=m?parseSet(m.a):[];
+  if(own.length)return {src:'自分で書いたセトリ',s:own};
+  const e=slEntry(a,d);return e?{src:'ソノダマンさんのセトリ',s:e.songs.filter(x=>x.t).map(x=>({t:x.t,e:x.e||0}))}:null}
+function scoreSet(P,A){const pz=P.map(x=>nzS(x.t)),az=A.map(x=>nzS(x.t)),used=A.map(()=>0),mark=A.map(()=>0),ok=P.map(()=>0);let hit=0,pos=0;const miss=[];
+  pz.forEach((z,i)=>{if(i<az.length&&az[i]===z&&!used[i]){used[i]=1;mark[i]=2;ok[i]=1;hit++;pos++}});
+  pz.forEach((z,i)=>{if(ok[i])return;const j=az.findIndex((y,k)=>y===z&&!used[k]);if(j>=0){used[j]=1;mark[j]=1;hit++}else miss.push(P[i].t)});
+  const last=l=>{const m=l.filter(x=>!x.e);return m.length?nzS(m[m.length-1].t):''};
+  const pe=P.filter(x=>x.e).map(x=>nzS(x.t)),ae=A.filter(x=>x.e).map(x=>nzS(x.t));
+  return {hit,pos,mark,miss,first:!!pz.length&&pz[0]===az[0],last:!!last(P)&&last(P)===last(A),enc:pe.length?pe.filter(x=>ae.includes(x)).length:-1,encN:pe.length}}
+function resHtml(a,d){const m=MYSL[myKey(a,d)],P=m?parseSet(m.p):[],ans=slAns(a,d);if(!P.length||!ans||!ans.s.length)return '';
+  const r=scoreSet(P,ans.s),pill=(t,ok)=>`<span class="pill ${ok?'solid':'dim'}">${t} ${ok?'○':'×'}</span>`;let pe=0;
+  const li=ans.s.map((x,i)=>{const hd=x.e!==pe?`<li class="encl">ENCORE</li>`:'';pe=x.e;return hd+`<li class="${r.mark[i]?'':'miss'}"><i>${r.mark[i]===2?'◎':r.mark[i]===1?'○':''}</i>${esc(x.t)}</li>`}).join('');
+  return `<div class="myres"><b class="big">的中 ${r.hit} / ${P.length}曲</b><div class="m">順番まで一致 ${r.pos}曲（実際は全${ans.s.length}曲。答え：${esc(ans.src)}）</div>
+  <div class="pills">${pill('1曲目',r.first)}${pill('本編ラスト',r.last)}${r.enc>=0?pill(`アンコール ${r.enc}/${r.encN}`,r.enc>0):''}</div>
+  <ol>${li}</ol>${r.miss.length?`<div class="m" style="margin-top:8px">外れた予想：${esc(r.miss.join('、'))}</div>`:''}<div class="m" style="margin-top:6px">◎ 順番まで一致　○ 曲は的中</div></div>`}
+const extLinks=q=>`<a class="lnk" href="https://www.setlist.fm/search?query=${encodeURIComponent(q)}" target="_blank" rel="noopener">setlist.fmで探す</a><a class="lnk" href="https://www.livefans.jp/search?option=1&keyword=${encodeURIComponent(q)}" target="_blank" rel="noopener">LiveFansで探す</a>`;
+function myBlock(a,d){const k=myKey(a,d),m=MYSL[k],P=m?parseSet(m.p):[],O=m?parseSet(m.a):[],ans=slAns(a,d),past=d<=todayJ();
+  const r=P.length&&ans&&ans.s.length?scoreSet(P,ans.s):null;
+  const st=[r?`的中 ${r.hit}/${P.length}`:P.length?`予想 ${P.length}曲`:'',O.length?`実際 ${O.length}曲`:'',slEntry(a,d)&&TAB!=='set'?'セトリあり':''].filter(Boolean).join('・');
+  return `<details class="lu my" ${OPENMY.has(k)?'open':''}><summary>${past?'セトリ・答え合わせ':'セトリ・予想'}${st?`（${esc(st)}）`:''}</summary>${resHtml(a,d)}
+  <div class="mybtns"><button type="button" class="btn" data-my="${esc(a)}" data-d="${d}">${past?(O.length?'実際のセトリを直す':'実際のセトリを書く'):(P.length?'予想を直す':'予想セトリを書く')}</button>${past&&!P.length?`<button type="button" class="lnk" data-my="${esc(a)}" data-d="${d}">予想を書く</button>`:''}${slEntry(a,d)&&TAB!=='set'?`<button type="button" class="lnk" data-sl="${esc(a)}">セットリストを見る</button>`:''}</div>
+  <div class="links">${extLinks(dn(a))}</div></details>`}
+function fesBlock(d,who,name){const nm=String(name||'').replace(/（DAY.*$/,''),saved=Object.keys(MYSL).filter(k=>k.endsWith('|'+d)&&MYSL[k].f&&MYSL[k].f===nm).map(k=>k.slice(0,-(d.length+1)));
+  const as=[...new Set([...(who||[]),...saved])];
+  return as.map(a=>`<div class="m" style="margin-top:8px;color:var(--fg)">${esc(dn(a))}</div>${myBlock(a,d)}`).join('')+`<div class="links"><button type="button" class="lnk" data-my="" data-d="${d}" data-f="${esc(nm)}">＋ バンド名を入れてセトリを書く</button></div>`}
+function openMy(on,a,d,f){const b=$('#mybox');b.hidden=!on;if(!on){MYCUR=null;return}
+  MYCUR={a,d,f:f||''};const m=a?MYSL[myKey(a,d)]:null;
+  $('#mywho').textContent=(a?dn(a)+'　':'')+d.replace(/-/g,'/');$('#myartrow').style.display=a?'none':'';$('#myart').value='';
+  $('#myp').value=m?m.p||'':'';$('#mya').value=m?m.a||'':'';$('#mydel').hidden=!m;
+  setTimeout(()=>(a?$(d>todayJ()?'#myp':'#mya'):$('#myart')).focus(),80)}
+function saveMySet(){if(!MYCUR)return;const d=MYCUR.d,raw=MYCUR.a||$('#myart').value.trim().replace(/\s+/g,' ');
+  if(!raw){toast('アーティスト名を入れてください');return}
+  const a=MYCUR.a||findArtist(raw)||raw,p=$('#myp').value.trim(),v=$('#mya').value.trim(),k=myKey(a,d);
+  if(!p&&!v){toast('予想か実際のセトリを書いてください');return}
+  const f=MYCUR.f||(MYSL[k]&&MYSL[k].f)||'';MYSL[k]={p,a:v,t:Date.now()};if(f)MYSL[k].f=f;saveMYSL();OPENMY.add(k);openMy(false);render();toast('保存しました（この端末に保存）')}
 const LATE=24*3600*1000; // 24時間たっても反映されない場合は注意を出す
 // 推しの一覧：幅に合わせて折り返し、全員が見えるようにする
 const chipEl=(a,extra='')=>`<button class="chip ${sel.has(a)&&!EDIT?'on':''} ${extra}" data-a="${esc(a)}" style="--h:${hue(a)}"><i class="dot"></i>${esc(dn(a))}${EDIT?'<b class="ed" data-e="'+esc(a)+'">✎</b><b class="rm">×</b>':''}</button>`;
@@ -539,7 +617,7 @@ function icsAll(){
   a.href=URL.createObjectURL(b);a.download='oshicatch-my-calendar.ics';document.body.appendChild(a);a.click();setTimeout(()=>{URL.revokeObjectURL(a.href);a.remove()},1500)}
 function miniCard(x){const s=x.s,k=KIND[s.k]||s.k||'';
   return `<article class="ev">${dateBlock(s.d)}<div><div class="tags">${k?`<span>${esc(k)}</span>`:''}${s.a?`<span class="who" style="--h:${hue(s.a)}"><i class="dot"></i>${esc(dn(s.a))}</span>`:''}${soonBadge(s.d)}</div>
-  <div class="t">${esc(s.t)}</div>${s.v?`<div class="m">${esc(s.v)}</div>`:''}${s.u?`<div class="links"><a class="lnk" href="${s.u}" target="_blank" rel="noopener">情報元</a></div>`:''}${s.a&&slFor(s.a,s.d)?`<div class="links"><button type="button" class="lnk" data-sl="${esc(s.a)}">セットリストを見る</button></div>`:''}${stRow(x.k,s)}</div></article>`}
+  <div class="t">${esc(s.t)}</div>${s.v?`<div class="m">${esc(s.v)}</div>`:''}${s.u?`<div class="links"><a class="lnk" href="${s.u}" target="_blank" rel="noopener">情報元</a></div>`:''}${s.a?myBlock(s.a,s.d):fesBlock(s.d,null,s.t)}${stRow(x.k,s)}</div></article>`}
 // MY CAL（月のカレンダー。記録した公演・フェスを表示。過去の分も残る）
 let CALM=todayJ().slice(0,7),CALD='';
 function renderCal(){
@@ -562,7 +640,7 @@ function renderCal(){
   ${foot('記録はこの端末に保存されます')}`;
 }
 // HELP（使い方）と、引き継ぎコード
-const BKKEYS=['myart','my','snap','nm','sel'];
+const BKKEYS=['myart','my','snap','nm','sel','slmy'];
 function bkMake(){const o={};for(const k of BKKEYS){try{const v=localStorage.getItem(k);if(v)o[k]=JSON.parse(v)}catch{}}
   return 'OSHI1:'+btoa(unescape(encodeURIComponent(JSON.stringify(o))))}
 function bkLoad(code){
@@ -572,6 +650,7 @@ function bkLoad(code){
   if(o.my&&typeof o.my==='object'){MY={...MY,...o.my};saveMy()}
   if(o.snap&&typeof o.snap==='object'){SNAP={...SNAP,...o.snap};saveSnap()}
   if(o.nm&&typeof o.nm==='object'){NM={...NM,...o.nm};saveNM()}
+  if(o.slmy&&typeof o.slmy==='object'){MYSL={...MYSL,...o.slmy};saveMYSL()}
   return ''}
 function renderHelp(){
   const st=(a,b)=>`<div class="hl"><b>${a}</b><span>${b}</span></div>`;
@@ -594,9 +673,10 @@ function renderHelp(){
   ${st('間違いがあるかも','予定はAIが自動で集めているので、間違いや、載っていないものがあります。チケットを買う前に、かならず公式サイトで たしかめてね。')}
   ${st('うまく表示されないとき','画面が空になったり、おかしくなったときは、一度アプリ（ブラウザ）を閉じて、開き直してください。たいていは直ります。それでも直らないときは、検索欄や推しの絞り込みを解除してみてください。')}
   ${st('日付の下の小さな画像','日付の下に出る画像は、アーティストやフェスの公式サイトが公開している画像を、そのまま表示しています。ロゴのことも、写真のこともあります。画像が出ないものもあります。画像をおすと、公式サイトが新しい画面で開きます。')}
+  ${st('セトリの予想と答え合わせ','公演カードの「セトリ・予想」から、予想セトリを1行1曲で書けます。終わったあとは「セトリ・答え合わせ」で、当たった曲数が見られます。答えは、自分で書いた実際のセトリか、ソノダマンさんのセトリです。略し方や書き方が違うと、別の曲として数えます。ここから setlist.fm や LiveFans で探すこともできます（別のサイトが開きます）。')}
   ${st('日程未定のフェス','来年の開催がまだ発表されていないフェスは「日程未定」で出ます。発表されると、自動で日にちが入ります。')}
   <h3 class="bb warnh">IMPORTANT</h3>
-  <div class="hl warnb"><b>記録は、このスマホの中だけに入っています</b><span>推しの一覧・申込状況・MY LIST・MY CAL・名前の直しは、いま使っている<b>スマホ（ブラウザ）の中</b>に保存されます。そのため、次のときは<b>見えなくなります</b>。<br>・スマホを買いかえたとき<br>・パソコンや、べつのスマホで開いたとき<br>・ホーム画面のアプリと Safari を べつべつに使ったとき<br>・ブラウザの「サイトデータ消去」をしたとき<br>そんなときのために、下の「引き継ぎコード」を使ってください。</span></div>
+  <div class="hl warnb"><b>記録は、このスマホの中だけに入っています</b><span>推しの一覧・申込状況・MY LIST・MY CAL・名前の直し・自分で書いたセトリは、いま使っている<b>スマホ（ブラウザ）の中</b>に保存されます。そのため、次のときは<b>見えなくなります</b>。<br>・スマホを買いかえたとき<br>・パソコンや、べつのスマホで開いたとき<br>・ホーム画面のアプリと Safari を べつべつに使ったとき<br>・ブラウザの「サイトデータ消去」をしたとき<br>そんなときのために、下の「引き継ぎコード」を使ってください。</span></div>
   <h3 class="bb">BACKUP</h3>
   <p><b>① コードを作る</b>（いまの端末で）：ボタンをおして、出てきたコードをコピーして、自分にLINEなどで送っておきます。</p>
   <div class="links"><button type="button" class="btn" id="bkmake">引き継ぎコードを作る</button></div>
@@ -631,7 +711,7 @@ function card(e,i){
   ${e.with?`<div class="m">with ${esc(e.with)}</div>`:''}
   ${e.sale_info?`<div class="m">${esc(e.sale_info)}</div>`:''}
   ${salesHtml(e)}
-  ${links(e)}${stRow(keyOf(e),snapE(e))}</div></article>`}
+  ${links(e)}${myBlock(e.artist,e.date)}${stRow(keyOf(e),snapE(e))}</div></article>`}
 let TAB='all';
 try{const t=localStorage.tab2;if(['live','fes','set','mine','cal','help'].includes(t))TAB=t}catch{}
 const nzT=s=>String(s||'').toLowerCase().replace(/[\s'’"「」『』（）()【】!！?？・~〜-]/g,'');
@@ -662,7 +742,7 @@ function fesCard(f,m,i,day){
   ${f.tba?'<div class="m">次回の日程は未発表です。発表され次第、自動で日程を入れます。</div>':''}
   ${f.tba?'':luHtml}
   ${salesHtml(f)}
-  <div class="links">${tk?`<a class="btn" href="${tk}" target="_blank" rel="noopener">${esc(f.ticket_name||'チケット')}　→</a>`:''}${u?`<a class="${tk?'lnk':'btn'}" href="${u}" target="_blank" rel="noopener">${tk?'公式サイト':'公式サイト　→'}</a>`:''}</div>${stRow(dayKey(f,day||f.start),snapF(f,day||f.start))}</div></article>`}
+  <div class="links">${tk?`<a class="btn" href="${tk}" target="_blank" rel="noopener">${esc(f.ticket_name||'チケット')}　→</a>`:''}${u?`<a class="${tk?'lnk':'btn'}" href="${u}" target="_blank" rel="noopener">${tk?'公式サイト':'公式サイト　→'}</a>`:''}</div>${f.start?fesBlock(day||f.start,who,f.name):''}${stRow(dayKey(f,day||f.start),snapF(f,day||f.start))}</div></article>`}
 const upd=()=>DB.updated?new Date(DB.updated).toLocaleString('ja-JP',{month:'numeric',day:'numeric',hour:'2-digit',minute:'2-digit'}):'';
 const foot=t=>`<div class="foot">最終更新 ${esc(upd())}<br>${t}</div>`;
 const MON=['JAN','FEB','MAR','APR','MAY','JUN','JUL','AUG','SEP','OCT','NOV','DEC'];
@@ -733,6 +813,7 @@ function render(){
 }
 out.addEventListener('click',e=>{
   const mj=e.target.closest('[data-mj]');if(mj){const el=document.getElementById('m-'+mj.dataset.mj);if(el)el.scrollIntoView({behavior:'smooth',block:'start'});return}
+  const my=e.target.closest('[data-my]');if(my){openMy(true,my.dataset.my,my.dataset.d,my.dataset.f);return}
   const sl=e.target.closest('[data-sl]');if(sl){go('set');$('#q').value=sl.dataset.sl;render();return}
   const cd=e.target.closest('[data-cd]');if(cd){CALD=cd.dataset.cd;renderCal();return}
   const cm=e.target.closest('[data-cm]');if(cm){const [y,m]=CALM.split('-').map(Number),n=new Date(Date.UTC(y,m-1+Number(cm.dataset.cm),1));CALM=n.toISOString().slice(0,7);CALD='';renderCal();return}
@@ -768,10 +849,13 @@ $('#seg').onclick=e=>{const b=e.target.closest('button');if(b&&b.dataset.seg)go(
 $('#pick').onclick=e=>{const b=e.target.closest('[data-pick]');if(b)addArtist(b.dataset.pick,true)};
 $('#amode').onclick=e=>{const b=e.target.closest('button');if(b)setMode(b.dataset.m)};
 $('#addbox').onclick=e=>{if(e.target.closest('[data-close]'))openAdd(false)};
-document.addEventListener('keydown',e=>{if(e.key==='Escape'){openAdd(false);openRec(false)}});
+document.addEventListener('keydown',e=>{if(e.key==='Escape'){openAdd(false);openRec(false);openMy(false)}});
 $('#addform').onsubmit=e=>{e.preventDefault();addArtist($('#addname').value)};
 $('#recbox').onclick=e=>{if(e.target.closest('[data-rclose]'))openRec(false)};
 $('#recform').onsubmit=e=>{e.preventDefault();saveRec()};
+$('#mybox').onclick=e=>{if(e.target.closest('[data-mclose]'))openMy(false)};
+$('#myform').onsubmit=e=>{e.preventDefault();saveMySet()};
+$('#mydel').onclick=()=>{if(!MYCUR||!MYCUR.a)return;if(confirm('この記録（予想・実際のセトリ）を消しますか？')){delete MYSL[myKey(MYCUR.a,MYCUR.d)];saveMYSL();openMy(false);render();toast('消しました')}};
 function load(first){
   return fetch('data/events.json?t='+Date.now(),{cache:'no-store'}).then(r=>r.json()).then(j=>{
     DB=j;LOADED=true;fillSug();
