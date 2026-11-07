@@ -360,7 +360,7 @@ function loadCat(){
   return fetch('data/catalog.json?t='+Date.now(),{cache:'no-store'}).then(r=>r.ok?r.json():null).then(j=>{if(j&&j.artists){CAT=j;buildIdx();fillSug();render()}}).catch(()=>{});
 }
 // セトリ（ソノダマンさんの投稿まとめ。月ごとのファイル）
-let SL=[],SLSRC=null,SLN=60;
+let SL=[],SLSRC=null,SLN=60,SLL=[];
 function loadSet(){
   return fetch('data/setlists/index.json?t='+Date.now(),{cache:'no-store'}).then(r=>r.ok?r.json():null).then(ix=>{
     if(!ix||!ix.months)return;
@@ -389,11 +389,11 @@ function renderSet(){
   const shown=L.slice(0,SLN);
   for(const e of shown){const mk=e.date.slice(0,7);if(mk!==cur){cur=mk;h+=monHead(mk)}h+=slCard(e,i++)}
   if(L.length>shown.length)h+=`<div class="links" style="margin:22px 0"><button type="button" class="btn" id="slmore">さらに表示（あと${L.length-shown.length}件）</button></div>`;
-  const ms=[...new Set(shown.map(e=>e.date.slice(0,7)))];
+  SLL=L;const ms=[...new Set(L.map(e=>e.date.slice(0,7)))];
   const mnav=ms.length>1?`<div id="mnav">${ms.map((k,j)=>`<button data-mj="${k}">${+k.slice(5)}月${j===0||k.slice(0,4)!==ms[j-1].slice(0,4)?`<small>${k.slice(2,4)}</small>`:''}</button>`).join('')}</div>`:'';
   const none=!SL.length?'<div class="empty"><div class="bb">LOADING</div><p>セットリストを読み込んでいます…</p></div>'
     :`<div class="empty"><div class="bb">NO RESULT</div><p>${q?`検索「${esc($('#q').value.trim())}」に合うセットリストはありません。`:'選んだ推しのセットリストは、まだありません。'}</p><p><button type="button" class="btn" data-reset="1">検索と推しの絞り込みを解除</button></p></div>`;
-  out.innerHTML=mnav+(L.length?`<div class="count">${L.length}件　新しい順。「セットリスト」をおすと曲順が開きます${L.length>shown.length?`（いまは新しい${shown.length}件を表示）`:''}</div>${h}`:none)
+  out.innerHTML=mnav+(L.length?`<div class="count">${L.length}件　新しい順。「セットリスト」をおすと曲順が開きます${L.length>shown.length?`（いまは新しい${shown.length}件を表示。上の月ボタンか、一番下の「さらに表示」で過去の分も見られます）`:''}</div>${h}`:none)
     +((q||sel.size===1)?`<div class="links" style="margin-top:18px"><span class="m">ほかのサイトでも探す：</span>${extLinks($('#q').value.trim()||dn([...sel][0]))}</div>`:'')+foot(SLSRC?`セットリストは、${esc(SLSRC.name)}をもとに掲載しています。曲順や表記に間違いがあるかもしれません`:'');
 }
 // 自分で書くセトリ（予想・実際）と答え合わせ。端末内に保存
@@ -428,8 +428,8 @@ const extLinks=q=>`<a class="lnk" href="https://www.setlist.fm/search?query=${en
 function myBlock(a,d){const k=myKey(a,d),m=MYSL[k],P=m?parseSet(m.p):[],O=m?parseSet(m.a):[],ans=slAns(a,d),past=d<=todayJ();
   const r=P.length&&ans&&ans.s.length?scoreSet(P,ans.s):null;
   const st=[r?`的中 ${r.hit}/${P.length}`:P.length?`予想 ${P.length}曲`:'',O.length?`実際 ${O.length}曲`:'',slEntry(a,d)&&TAB!=='set'?'セトリあり':''].filter(Boolean).join('・');
-  return `<details class="lu my" ${OPENMY.has(k)?'open':''}><summary>${past?'セトリ・答え合わせ':'セトリ・予想'}${st?`（${esc(st)}）`:''}</summary>${resHtml(a,d)}
-  <div class="mybtns"><button type="button" class="btn" data-my="${esc(a)}" data-d="${d}">${past?(O.length?'実際のセトリを直す':'実際のセトリを書く'):(P.length?'予想を直す':'予想セトリを書く')}</button>${past&&!P.length?`<button type="button" class="lnk" data-my="${esc(a)}" data-d="${d}">予想を書く</button>`:''}${slEntry(a,d)&&TAB!=='set'?`<button type="button" class="lnk" data-sl="${esc(a)}">セットリストを見る</button>`:''}</div>
+  return `${slEntry(a,d)&&TAB!=='set'?`<div class="links"><button type="button" class="lnk" data-sl="${esc(a)}">セットリストを見る</button></div>`:''}<details class="lu my" ${OPENMY.has(k)?'open':''}><summary>${past?'セトリ・答え合わせ':'セトリ・予想'}${st?`（${esc(st)}）`:''}</summary>${resHtml(a,d)}
+  <div class="mybtns"><button type="button" class="btn" data-my="${esc(a)}" data-d="${d}">${past?(O.length?'実際のセトリを直す':'実際のセトリを書く'):(P.length?'予想を直す':'予想セトリを書く')}</button>${past&&!P.length?`<button type="button" class="lnk" data-my="${esc(a)}" data-d="${d}">予想を書く</button>`:''}</div>
   <div class="links">${extLinks(dn(a))}</div></details>`}
 function fesBlock(d,who,name){const nm=String(name||'').replace(/（DAY.*$/,''),saved=Object.keys(MYSL).filter(k=>k.endsWith('|'+d)&&MYSL[k].f&&MYSL[k].f===nm).map(k=>k.slice(0,-(d.length+1)));
   const as=[...new Set([...(who||[]),...saved])];
@@ -812,7 +812,7 @@ function render(){
     foot(TAB==='fes'?'情報は自動収集です。最新の発表は公式サイトでご確認ください':'AIによる自動収集です。受付期間・購入前に、必ず公式の情報をご確認ください');
 }
 out.addEventListener('click',e=>{
-  const mj=e.target.closest('[data-mj]');if(mj){const el=document.getElementById('m-'+mj.dataset.mj);if(el)el.scrollIntoView({behavior:'smooth',block:'start'});return}
+  const mj=e.target.closest('[data-mj]');if(mj){if(TAB==='set'){let n=0;SLL.forEach((x,i)=>{if(x.date.slice(0,7)===mj.dataset.mj)n=i+1});if(n>SLN){SLN=n;renderSet()}}const el=document.getElementById('m-'+mj.dataset.mj);if(el)el.scrollIntoView({behavior:'smooth',block:'start'});return}
   const my=e.target.closest('[data-my]');if(my){openMy(true,my.dataset.my,my.dataset.d,my.dataset.f);return}
   const sl=e.target.closest('[data-sl]');if(sl){go('set');$('#q').value=sl.dataset.sl;render();return}
   const cd=e.target.closest('[data-cd]');if(cd){CALD=cd.dataset.cd;renderCal();return}
