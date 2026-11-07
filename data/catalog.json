@@ -1,19 +1,11 @@
 {
- "updated": "2026-11-07T20:30:00+09:00",
+ "updated": "2026-11-08T07:07:00+09:00",
  "artists": {
   "Saucy Dog": {
    "aliases": [
     "サウシー"
    ],
    "events": [
-    {
-     "date": "2026-11-07",
-     "title": "氣志團万博",
-     "kind": "フェス",
-     "venue": "幕張メッセ 国際展示場4〜7ホール（千葉県）",
-     "source_url": "http://www.kishidanbanpaku.com/s/kbpk/page/artist2026",
-     "confidence": "high"
-    },
     {
      "date": "2026-12-13",
      "title": "結びの夢番地（12/13）",
@@ -338,22 +330,6 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-11-07",
-     "title": "BUZZ RHYTHM LIVE 2026",
-     "kind": "フェス",
-     "venue": "横浜アリーナ（神奈川県）",
-     "source_url": "https://buzzrhythm.live/",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-11-07",
-     "title": "BUZZ RHYTHM LIVE（11/7）",
-     "kind": "フェス",
-     "venue": "横浜アリーナ（神奈川県）",
-     "source_url": "https://buzzrhythm.live/",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-26",
      "title": "COUNTDOWN JAPAN 26/27（12/26・27・29・30・31のいずれか）",
      "kind": "フェス",
@@ -595,48 +571,11 @@
     }
    ]
   },
-  "BRAHMAN": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "MONGOL800 ga FESTIVAL What a Wonderful World!! 26（11/7・8のどちらか）",
-     "kind": "フェス",
-     "venue": "宜野湾市（沖縄）",
-     "source_url": "https://spice.eplus.jp/articles/345243",
-     "confidence": "high"
-    }
-   ]
-  },
   "MAN WITH A MISSION": {
    "aliases": [
     "マンウィズ"
    ],
    "events": [
-    {
-     "date": "2026-11-07",
-     "title": "MONGOL800 ga FESTIVAL What a Wonderful World!! 26（11/7・8のどちらか）",
-     "kind": "フェス",
-     "venue": "宜野湾市（沖縄）",
-     "source_url": "https://spice.eplus.jp/articles/345243",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-11-07",
-     "title": "AIR JAM 2026",
-     "kind": "フェス",
-     "venue": "ZOZOマリンスタジアム（千葉）",
-     "source_url": "https://www.thefirsttimes.jp/?p=820987",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-11-07",
-     "title": "AIR JAM（11/7）",
-     "kind": "フェス",
-     "venue": "ZOZOマリンスタジアム（千葉県）",
-     "source_url": "https://airjam.jp/artists",
-     "confidence": "high"
-    },
     {
      "date": "2026-11-08",
      "title": "MONGOL800 ga FESTIVAL What a Wonderful World!!",
@@ -663,46 +602,9 @@
     }
    ]
   },
-  "Hi-STANDARD": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "AIR JAM 2026",
-     "kind": "フェス",
-     "venue": "ZOZOマリンスタジアム（千葉）",
-     "source_url": "https://www.thefirsttimes.jp/?p=820987",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-11-07",
-     "title": "AIR JAM（11/7）",
-     "kind": "フェス",
-     "venue": "ZOZOマリンスタジアム（千葉県）",
-     "source_url": "https://airjam.jp/artists",
-     "confidence": "high"
-    }
-   ]
-  },
   "10-FEET": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-11-07",
-     "title": "AIR JAM 2026",
-     "kind": "フェス",
-     "venue": "ZOZOマリンスタジアム（千葉）",
-     "source_url": "https://www.thefirsttimes.jp/?p=820987",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-11-07",
-     "title": "AIR JAM（11/7）",
-     "kind": "フェス",
-     "venue": "ZOZOマリンスタジアム（千葉県）",
-     "source_url": "https://airjam.jp/artists",
-     "confidence": "high"
-    },
     {
      "date": "2026-11-08",
      "title": "氣志團万博",
@@ -806,26 +708,13 @@
      "venue": "京都府立山城総合運動公園 太陽が丘特設野外ステージ（京都府）",
      "source_url": "https://kyoto-daisakusen.kyoto/27/",
      "confidence": "high"
-    }
-   ]
-  },
-  "DANCE HALL CRASHERS": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "AIR JAM 2026",
-     "kind": "フェス",
-     "venue": "ZOZOマリンスタジアム（千葉）",
-     "source_url": "https://www.thefirsttimes.jp/?p=820987",
-     "confidence": "high"
     },
     {
-     "date": "2026-11-07",
-     "title": "AIR JAM（11/7）",
+     "date": "2026-12-12",
+     "title": "響都超特急",
      "kind": "フェス",
-     "venue": "ZOZOマリンスタジアム（千葉県）",
-     "source_url": "https://airjam.jp/artists",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist",
      "confidence": "high"
     }
    ]
@@ -833,22 +722,6 @@
   "ENTH": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-11-07",
-     "title": "AIR JAM 2026",
-     "kind": "フェス",
-     "venue": "ZOZOマリンスタジアム（千葉）",
-     "source_url": "https://www.thefirsttimes.jp/?p=820987",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-11-07",
-     "title": "AIR JAM（11/7）",
-     "kind": "フェス",
-     "venue": "ZOZOマリンスタジアム（千葉県）",
-     "source_url": "https://airjam.jp/artists",
-     "confidence": "high"
-    },
     {
      "date": "2026-11-29",
      "title": "MASTERPIECE（11/29）",
@@ -878,22 +751,6 @@
   "HEY-SMITH": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-11-07",
-     "title": "AIR JAM 2026",
-     "kind": "フェス",
-     "venue": "ZOZOマリンスタジアム（千葉）",
-     "source_url": "https://www.thefirsttimes.jp/?p=820987",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-11-07",
-     "title": "AIR JAM（11/7）",
-     "kind": "フェス",
-     "venue": "ZOZOマリンスタジアム（千葉県）",
-     "source_url": "https://airjam.jp/artists",
-     "confidence": "high"
-    },
     {
      "date": "2026-11-22",
      "title": "MUSIC FESTIVAL「天和」",
@@ -973,26 +830,13 @@
      "venue": "泉大津フェニックス（大阪府）",
      "source_url": "https://natalie.mu/music/news/695216",
      "confidence": "low"
-    }
-   ]
-  },
-  "HUSKING BEE": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "AIR JAM 2026",
-     "kind": "フェス",
-     "venue": "ZOZOマリンスタジアム（千葉）",
-     "source_url": "https://www.thefirsttimes.jp/?p=820987",
-     "confidence": "high"
     },
     {
-     "date": "2026-11-07",
-     "title": "AIR JAM（11/7）",
+     "date": "2026-12-12",
+     "title": "響都超特急",
      "kind": "フェス",
-     "venue": "ZOZOマリンスタジアム（千葉県）",
-     "source_url": "https://airjam.jp/artists",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist",
      "confidence": "high"
     }
    ]
@@ -1000,22 +844,6 @@
   "KUZIRA": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-11-07",
-     "title": "AIR JAM 2026",
-     "kind": "フェス",
-     "venue": "ZOZOマリンスタジアム（千葉）",
-     "source_url": "https://www.thefirsttimes.jp/?p=820987",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-11-07",
-     "title": "AIR JAM（11/7）",
-     "kind": "フェス",
-     "venue": "ZOZOマリンスタジアム（千葉県）",
-     "source_url": "https://airjam.jp/artists",
-     "confidence": "high"
-    },
     {
      "date": "2026-11-22",
      "title": "MUSIC FESTIVAL「天和」",
@@ -1058,69 +886,11 @@
     }
    ]
   },
-  "LAGWAGON": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "AIR JAM 2026",
-     "kind": "フェス",
-     "venue": "ZOZOマリンスタジアム（千葉）",
-     "source_url": "https://www.thefirsttimes.jp/?p=820987",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-11-07",
-     "title": "AIR JAM（11/7）",
-     "kind": "フェス",
-     "venue": "ZOZOマリンスタジアム（千葉県）",
-     "source_url": "https://airjam.jp/artists",
-     "confidence": "high"
-    }
-   ]
-  },
-  "ザ・クロマニヨンズ": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "AIR JAM 2026",
-     "kind": "フェス",
-     "venue": "ZOZOマリンスタジアム（千葉）",
-     "source_url": "https://www.thefirsttimes.jp/?p=820987",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-11-07",
-     "title": "AIR JAM（11/7）",
-     "kind": "フェス",
-     "venue": "ZOZOマリンスタジアム（千葉県）",
-     "source_url": "https://airjam.jp/artists",
-     "confidence": "high"
-    }
-   ]
-  },
   "マキシマム ザ ホルモン": {
    "aliases": [
     "ホルモン"
    ],
    "events": [
-    {
-     "date": "2026-11-07",
-     "title": "AIR JAM 2026",
-     "kind": "フェス",
-     "venue": "ZOZOマリンスタジアム（千葉）",
-     "source_url": "https://www.thefirsttimes.jp/?p=820987",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-11-07",
-     "title": "AIR JAM（11/7）",
-     "kind": "フェス",
-     "venue": "ZOZOマリンスタジアム（千葉県）",
-     "source_url": "https://airjam.jp/artists",
-     "confidence": "high"
-    },
     {
      "date": "2026-11-22",
      "title": "TRUE NORTH FESTIVAL（11/22）",
@@ -1167,6 +937,14 @@
      "kind": "フェス",
      "venue": "幕張メッセ（千葉県）",
      "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-12",
+     "title": "響都超特急",
+     "kind": "フェス",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist",
      "confidence": "high"
     }
    ]
@@ -1272,14 +1050,6 @@
   "go!go!vanillas": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-11-07",
-     "title": "氣志團万博",
-     "kind": "フェス",
-     "venue": "幕張メッセ 国際展示場4〜7ホール（千葉県）",
-     "source_url": "http://www.kishidanbanpaku.com/s/kbpk/page/artist2026",
-     "confidence": "high"
-    },
     {
      "date": "2026-12-20",
      "title": "MERRY ROCK PARADE 2026（12/20）",
@@ -1546,6 +1316,14 @@
      "kind": "フェス",
      "venue": "みずほPayPayドーム福岡（福岡県）",
      "source_url": "https://fukuokamusic-fes.com/2027/index.html",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-12",
+     "title": "響都超特急",
+     "kind": "フェス",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist",
      "confidence": "high"
     }
    ]
@@ -2871,6 +2649,14 @@
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-12",
+     "title": "響都超特急",
+     "kind": "フェス",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist",
+     "confidence": "high"
     }
    ]
   },
@@ -3195,19 +2981,6 @@
     }
    ]
   },
-  "locofrank": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "STORMY DUDES FESTA",
-     "kind": "フェス",
-     "venue": "心斎橋BIGCAT ほか7会場（大阪）",
-     "source_url": "https://eplus.jp/sf/detail/3969250001",
-     "confidence": "high"
-    }
-   ]
-  },
   "Maki": {
    "aliases": [],
    "events": [
@@ -3248,14 +3021,6 @@
   "MONGOL800": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-11-07",
-     "title": "MONGOL800 ga FESTIVAL What a Wonderful World!!",
-     "kind": "フェス",
-     "venue": "宜野湾港マリーナ トロピカルビーチ特設会場（沖縄県）",
-     "source_url": "https://www800.asia/2026/artist",
-     "confidence": "high"
-    },
     {
      "date": "2026-11-08",
      "title": "MONGOL800 ga FESTIVAL What a Wonderful World!!",
@@ -3312,6 +3077,14 @@
      "kind": "フェス",
      "venue": "京都パルスプラザ（京都）",
      "source_url": "https://kue.rotten-g.com/26/artist/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-12",
+     "title": "響都超特急",
+     "kind": "フェス",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist",
      "confidence": "high"
     }
    ]
@@ -3394,6 +3167,14 @@
      "venue": "TOYOTA ARENA TOKYO（東京）",
      "source_url": "https://eplus.jp/new-horizon-fest/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-12",
+     "title": "響都超特急",
+     "kind": "フェス",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist",
+     "confidence": "high"
     }
    ]
   },
@@ -3420,97 +3201,6 @@
      "venue": "（大阪）",
      "source_url": "https://pkshampoo.jp/psychicfes/artist.html",
      "confidence": "high"
-    }
-   ]
-  },
-  "HAYATO DELAROSSA": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "MIYA SONIC",
-     "kind": "フェス",
-     "venue": "（東京）",
-     "source_url": "https://miyasonic.com/",
-     "confidence": "low"
-    }
-   ]
-  },
-  "DJ TATSUTA": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "MIYA SONIC",
-     "kind": "フェス",
-     "venue": "（東京）",
-     "source_url": "https://miyasonic.com/",
-     "confidence": "low"
-    }
-   ]
-  },
-  "DJ JIN": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "MIYA SONIC",
-     "kind": "フェス",
-     "venue": "（東京）",
-     "source_url": "https://miyasonic.com/",
-     "confidence": "low"
-    }
-   ]
-  },
-  "竹本健一": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "MIYA SONIC",
-     "kind": "フェス",
-     "venue": "（東京）",
-     "source_url": "https://miyasonic.com/",
-     "confidence": "low"
-    }
-   ]
-  },
-  "DJ Funky-T": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "MIYA SONIC",
-     "kind": "フェス",
-     "venue": "（東京）",
-     "source_url": "https://miyasonic.com/",
-     "confidence": "low"
-    }
-   ]
-  },
-  "武蔵丘高校軽音楽部": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "MIYA SONIC",
-     "kind": "フェス",
-     "venue": "（東京）",
-     "source_url": "https://miyasonic.com/",
-     "confidence": "low"
-    }
-   ]
-  },
-  "鷺宮高校軽音楽部": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "MIYA SONIC",
-     "kind": "フェス",
-     "venue": "（東京）",
-     "source_url": "https://miyasonic.com/",
-     "confidence": "low"
     }
    ]
   },
@@ -4217,14 +3907,6 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-11-07",
-     "title": "MONGOL800 ga FESTIVAL What a Wonderful World!!",
-     "kind": "フェス",
-     "venue": "宜野湾港マリーナ トロピカルビーチ特設会場（沖縄県）",
-     "source_url": "https://www800.asia/2026/artist",
-     "confidence": "high"
-    },
-    {
      "date": "2026-11-28",
      "title": "ロックアンセムEX（11/28）",
      "kind": "フェス",
@@ -4247,6 +3929,14 @@
      "venue": "（東京）",
      "source_url": "https://www.ragnet.co.jp/rock-festival",
      "confidence": "low"
+    },
+    {
+     "date": "2026-11-27",
+     "title": "ロックアンセム -BY ROCK LOVERS , FOR ROCK LOVERS-",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://rock-anthem.jp/",
+     "confidence": "high"
     }
    ]
   },
@@ -4276,69 +3966,9 @@
     }
    ]
   },
-  "GOOD4NOTHING": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "STORMY DUDES FESTA",
-     "kind": "フェス",
-     "venue": "心斎橋BIGCAT ほか7会場（大阪）",
-     "source_url": "https://eplus.jp/sf/detail/3969250001",
-     "confidence": "high"
-    }
-   ]
-  },
-  "PAN": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "STORMY DUDES FESTA",
-     "kind": "フェス",
-     "venue": "心斎橋BIGCAT ほか7会場（大阪）",
-     "source_url": "https://eplus.jp/sf/detail/3969250001",
-     "confidence": "high"
-    }
-   ]
-  },
-  "TOTALFAT": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "STORMY DUDES FESTA",
-     "kind": "フェス",
-     "venue": "心斎橋BIGCAT ほか7会場（大阪）",
-     "source_url": "https://eplus.jp/sf/detail/3969250001",
-     "confidence": "high"
-    }
-   ]
-  },
-  "ガガガSP": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "STORMY DUDES FESTA",
-     "kind": "フェス",
-     "venue": "心斎橋BIGCAT ほか7会場（大阪）",
-     "source_url": "https://eplus.jp/sf/detail/3969250001",
-     "confidence": "high"
-    }
-   ]
-  },
   "バックドロップシンデレラ": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-11-07",
-     "title": "氣志團万博",
-     "kind": "フェス",
-     "venue": "幕張メッセ 国際展示場4〜7ホール（千葉県）",
-     "source_url": "http://www.kishidanbanpaku.com/s/kbpk/page/artist2026",
-     "confidence": "high"
-    },
     {
      "date": "2026-12-31",
      "title": "COUNTDOWN JAPAN 26/27（12/31）",
@@ -4391,31 +4021,13 @@
      "venue": "別府ビーコンプラザ（大分県）",
      "source_url": "https://www.billboard-japan.com/d_news/detail/166666/2",
      "confidence": "high"
-    }
-   ]
-  },
-  "竹原ピストル": {
-   "aliases": [],
-   "events": [
+    },
     {
-     "date": "2026-11-07",
-     "title": "MONGOL800 ga FESTIVAL What a Wonderful World!!",
+     "date": "2026-12-12",
+     "title": "響都超特急",
      "kind": "フェス",
-     "venue": "宜野湾港マリーナ トロピカルビーチ特設会場（沖縄県）",
-     "source_url": "https://www800.asia/2026/artist",
-     "confidence": "high"
-    }
-   ]
-  },
-  "Northern19": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "STORMY DUDES FESTA",
-     "kind": "フェス",
-     "venue": "心斎橋BIGCAT ほか7会場（大阪）",
-     "source_url": "https://eplus.jp/sf/detail/3969250001",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist",
      "confidence": "high"
     }
    ]
@@ -4512,6 +4124,14 @@
      "venue": "神戸ワールド記念ホール（兵庫県）",
      "source_url": "https://lasvegas-jp.com/live/9288",
      "confidence": "low"
+    },
+    {
+     "date": "2026-12-12",
+     "title": "響都超特急",
+     "kind": "フェス",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist",
+     "confidence": "high"
     }
    ]
   },
@@ -4573,6 +4193,14 @@
      "venue": "神戸ワールド記念ホール（兵庫県）",
      "source_url": "https://lasvegas-jp.com/live/9288",
      "confidence": "low"
+    },
+    {
+     "date": "2026-12-12",
+     "title": "響都超特急",
+     "kind": "フェス",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist",
+     "confidence": "high"
     }
    ]
   },
@@ -4622,22 +4250,6 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-11-07",
-     "title": "BUZZ RHYTHM LIVE 2026",
-     "kind": "フェス",
-     "venue": "横浜アリーナ（神奈川県）",
-     "source_url": "https://buzzrhythm.live/",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-11-07",
-     "title": "BUZZ RHYTHM LIVE（11/7）",
-     "kind": "フェス",
-     "venue": "横浜アリーナ（神奈川県）",
-     "source_url": "https://buzzrhythm.live/",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-31",
      "title": "COUNTDOWN JAPAN 26/27（12/31）",
      "kind": "フェス",
@@ -4647,46 +4259,9 @@
     }
    ]
   },
-  "TAGRIGHT": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "BUZZ RHYTHM LIVE 2026",
-     "kind": "フェス",
-     "venue": "横浜アリーナ（神奈川県）",
-     "source_url": "https://buzzrhythm.live/",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-11-07",
-     "title": "BUZZ RHYTHM LIVE（11/7）",
-     "kind": "フェス",
-     "venue": "横浜アリーナ（神奈川県）",
-     "source_url": "https://buzzrhythm.live/",
-     "confidence": "high"
-    }
-   ]
-  },
   "NEXZ": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-11-07",
-     "title": "BUZZ RHYTHM LIVE 2026",
-     "kind": "フェス",
-     "venue": "横浜アリーナ（神奈川県）",
-     "source_url": "https://buzzrhythm.live/",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-11-07",
-     "title": "BUZZ RHYTHM LIVE（11/7）",
-     "kind": "フェス",
-     "venue": "横浜アリーナ（神奈川県）",
-     "source_url": "https://buzzrhythm.live/",
-     "confidence": "high"
-    },
     {
      "date": "2026-12-13",
      "title": "MUSIC BANK GLOBAL FESTIVAL IN JAPAN",
@@ -4709,48 +4284,11 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-11-07",
-     "title": "BUZZ RHYTHM LIVE 2026",
-     "kind": "フェス",
-     "venue": "横浜アリーナ（神奈川県）",
-     "source_url": "https://buzzrhythm.live/",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-11-07",
-     "title": "BUZZ RHYTHM LIVE（11/7）",
-     "kind": "フェス",
-     "venue": "横浜アリーナ（神奈川県）",
-     "source_url": "https://buzzrhythm.live/",
-     "confidence": "high"
-    },
-    {
      "date": "2026-11-08",
      "title": "氣志團万博",
      "kind": "フェス",
      "venue": "幕張メッセ 国際展示場4〜7ホール（千葉県）",
      "source_url": "http://www.kishidanbanpaku.com/s/kbpk/page/artist2026",
-     "confidence": "high"
-    }
-   ]
-  },
-  "ONE OR EIGHT": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "BUZZ RHYTHM LIVE 2026",
-     "kind": "フェス",
-     "venue": "横浜アリーナ（神奈川県）",
-     "source_url": "https://buzzrhythm.live/",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-11-07",
-     "title": "BUZZ RHYTHM LIVE（11/7）",
-     "kind": "フェス",
-     "venue": "横浜アリーナ（神奈川県）",
-     "source_url": "https://buzzrhythm.live/",
      "confidence": "high"
     }
    ]
@@ -4826,30 +4364,9 @@
     }
    ]
   },
-  "秋山竜次（ロバート）": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "氣志團万博",
-     "kind": "フェス",
-     "venue": "幕張メッセ 国際展示場4〜7ホール（千葉県）",
-     "source_url": "http://www.kishidanbanpaku.com/s/kbpk/page/artist2026",
-     "confidence": "high"
-    }
-   ]
-  },
   "打首獄門同好会": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-11-07",
-     "title": "氣志團万博",
-     "kind": "フェス",
-     "venue": "幕張メッセ 国際展示場4〜7ホール（千葉県）",
-     "source_url": "http://www.kishidanbanpaku.com/s/kbpk/page/artist2026",
-     "confidence": "high"
-    },
     {
      "date": "2026-12-28",
      "title": "RADIO CRAZY（12/28）",
@@ -4871,14 +4388,6 @@
   "氣志團": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-11-07",
-     "title": "氣志團万博",
-     "kind": "フェス",
-     "venue": "幕張メッセ 国際展示場4〜7ホール（千葉県）",
-     "source_url": "http://www.kishidanbanpaku.com/s/kbpk/page/artist2026",
-     "confidence": "high"
-    },
     {
      "date": "2026-11-08",
      "title": "氣志團万博",
@@ -4902,20 +4411,20 @@
      "venue": "ポートメッセなごや（愛知県）",
      "source_url": "https://www.merryrockparade.jp/artist.html",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-12",
+     "title": "響都超特急",
+     "kind": "フェス",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist",
+     "confidence": "high"
     }
    ]
   },
   "ゴールデンボンバー": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-11-07",
-     "title": "氣志團万博",
-     "kind": "フェス",
-     "venue": "幕張メッセ 国際展示場4〜7ホール（千葉県）",
-     "source_url": "http://www.kishidanbanpaku.com/s/kbpk/page/artist2026",
-     "confidence": "high"
-    },
     {
      "date": "2026-12-06",
      "title": "HIROSHIMA CONTI-NeW FeS（12/6）",
@@ -4926,69 +4435,9 @@
     }
    ]
   },
-  "スチャダラパー": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "氣志團万博",
-     "kind": "フェス",
-     "venue": "幕張メッセ 国際展示場4〜7ホール（千葉県）",
-     "source_url": "http://www.kishidanbanpaku.com/s/kbpk/page/artist2026",
-     "confidence": "high"
-    }
-   ]
-  },
-  "DJ OZMA": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "氣志團万博",
-     "kind": "フェス",
-     "venue": "幕張メッセ 国際展示場4〜7ホール（千葉県）",
-     "source_url": "http://www.kishidanbanpaku.com/s/kbpk/page/artist2026",
-     "confidence": "high"
-    }
-   ]
-  },
-  "怒髪天": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "氣志團万博",
-     "kind": "フェス",
-     "venue": "幕張メッセ 国際展示場4〜7ホール（千葉県）",
-     "source_url": "http://www.kishidanbanpaku.com/s/kbpk/page/artist2026",
-     "confidence": "high"
-    }
-   ]
-  },
-  "NEWS": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "氣志團万博",
-     "kind": "フェス",
-     "venue": "幕張メッセ 国際展示場4〜7ホール（千葉県）",
-     "source_url": "http://www.kishidanbanpaku.com/s/kbpk/page/artist2026",
-     "confidence": "high"
-    }
-   ]
-  },
   "PUFFY": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-11-07",
-     "title": "氣志團万博",
-     "kind": "フェス",
-     "venue": "幕張メッセ 国際展示場4〜7ホール（千葉県）",
-     "source_url": "http://www.kishidanbanpaku.com/s/kbpk/page/artist2026",
-     "confidence": "high"
-    },
     {
      "date": "2026-12-26",
      "title": "RADIO CRAZY（12/26）",
@@ -5003,14 +4452,6 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-11-07",
-     "title": "氣志團万博",
-     "kind": "フェス",
-     "venue": "幕張メッセ 国際展示場4〜7ホール（千葉県）",
-     "source_url": "http://www.kishidanbanpaku.com/s/kbpk/page/artist2026",
-     "confidence": "high"
-    },
-    {
      "date": "2026-11-28",
      "title": "GIFT ～Girls Idol Festival Tokyo～",
      "kind": "フェス",
@@ -5023,14 +4464,6 @@
   "モナキ": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-11-07",
-     "title": "氣志團万博",
-     "kind": "フェス",
-     "venue": "幕張メッセ 国際展示場4〜7ホール（千葉県）",
-     "source_url": "http://www.kishidanbanpaku.com/s/kbpk/page/artist2026",
-     "confidence": "high"
-    },
     {
      "date": "2026-11-21",
      "title": "テレビ朝日ドリームフェスティバル2026（11/21〜11/23のいずれか）",
@@ -5124,6 +4557,14 @@
      "kind": "フェス",
      "venue": "幕張メッセ（千葉県）",
      "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-12",
+     "title": "響都超特急",
+     "kind": "フェス",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist",
      "confidence": "high"
     }
    ]
@@ -5264,20 +4705,20 @@
      "venue": "別府ビーコンプラザ（大分県）",
      "source_url": "https://www.billboard-japan.com/d_news/detail/166666/2",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-12",
+     "title": "響都超特急",
+     "kind": "フェス",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist",
+     "confidence": "high"
     }
    ]
   },
   "WANIMA": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-11-07",
-     "title": "MONGOL800 ga FESTIVAL What a Wonderful World!!",
-     "kind": "フェス",
-     "venue": "宜野湾港マリーナ トロピカルビーチ特設会場（沖縄県）",
-     "source_url": "https://www800.asia/2026/artist",
-     "confidence": "high"
-    },
     {
      "date": "2026-11-08",
      "title": "氣志團万博",
@@ -5288,64 +4729,9 @@
     }
    ]
   },
-  "AI": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "MONGOL800 ga FESTIVAL What a Wonderful World!!",
-     "kind": "フェス",
-     "venue": "宜野湾港マリーナ トロピカルビーチ特設会場（沖縄県）",
-     "source_url": "https://www800.asia/2026/artist",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-11-07",
-     "title": "PUNK ROCK CONNECTION",
-     "kind": "フェス",
-     "venue": "高円寺 HIGH / SHOWBOAT / CLUB ROOTS ほか（東京）",
-     "source_url": "https://punkrockconnection.com/artist.php",
-     "confidence": "high"
-    }
-   ]
-  },
-  "ELLEGARDEN": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "MONGOL800 ga FESTIVAL What a Wonderful World!!",
-     "kind": "フェス",
-     "venue": "宜野湾港マリーナ トロピカルビーチ特設会場（沖縄県）",
-     "source_url": "https://www800.asia/2026/artist",
-     "confidence": "high"
-    }
-   ]
-  },
-  "かりゆし58": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "MONGOL800 ga FESTIVAL What a Wonderful World!!",
-     "kind": "フェス",
-     "venue": "宜野湾港マリーナ トロピカルビーチ特設会場（沖縄県）",
-     "source_url": "https://www800.asia/2026/artist",
-     "confidence": "high"
-    }
-   ]
-  },
   "Dragon Ash": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-11-07",
-     "title": "MONGOL800 ga FESTIVAL What a Wonderful World!!",
-     "kind": "フェス",
-     "venue": "宜野湾港マリーナ トロピカルビーチ特設会場（沖縄県）",
-     "source_url": "https://www800.asia/2026/artist",
-     "confidence": "high"
-    },
     {
      "date": "2026-12-13",
      "title": "響都超特急（12/13）",
@@ -5361,31 +4747,13 @@
      "venue": "Zepp DiverCity(TOKYO)（東京都）",
      "source_url": "https://spice.eplus.jp/articles/349354",
      "confidence": "high"
-    }
-   ]
-  },
-  "Rasen Okinawa": {
-   "aliases": [],
-   "events": [
+    },
     {
-     "date": "2026-11-07",
-     "title": "MONGOL800 ga FESTIVAL What a Wonderful World!!",
+     "date": "2026-12-12",
+     "title": "響都超特急",
      "kind": "フェス",
-     "venue": "宜野湾港マリーナ トロピカルビーチ特設会場（沖縄県）",
-     "source_url": "https://www800.asia/2026/artist",
-     "confidence": "high"
-    }
-   ]
-  },
-  "HoRookies": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "MONGOL800 ga FESTIVAL What a Wonderful World!!",
-     "kind": "フェス",
-     "venue": "宜野湾港マリーナ トロピカルビーチ特設会場（沖縄県）",
-     "source_url": "https://www800.asia/2026/artist",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist",
      "confidence": "high"
     }
    ]
@@ -5512,6 +4880,14 @@
      "kind": "フェス",
      "venue": "京都パルスプラザ（京都）",
      "source_url": "https://kue.rotten-g.com/26/artist/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-12",
+     "title": "響都超特急",
+     "kind": "フェス",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist",
      "confidence": "high"
     }
    ]
@@ -5773,6 +5149,14 @@
      "venue": "INTEX OSAKA（大阪府）",
      "source_url": "https://radiocrazy.fm/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-11-27",
+     "title": "ロックアンセム -BY ROCK LOVERS , FOR ROCK LOVERS-",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://rock-anthem.jp/",
+     "confidence": "high"
     }
    ]
   },
@@ -5823,6 +5207,14 @@
      "venue": "INTEX OSAKA（大阪府）",
      "source_url": "https://radiocrazy.fm/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-11-27",
+     "title": "ロックアンセム -BY ROCK LOVERS , FOR ROCK LOVERS-",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://rock-anthem.jp/",
+     "confidence": "high"
     }
    ]
   },
@@ -5859,6 +5251,14 @@
      "kind": "フェス",
      "venue": "幕張メッセ（千葉県）",
      "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-11-27",
+     "title": "ロックアンセム -BY ROCK LOVERS , FOR ROCK LOVERS-",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://rock-anthem.jp/",
      "confidence": "high"
     }
    ]
@@ -6012,6 +5412,14 @@
      "kind": "フェス",
      "venue": "別府ビーコンプラザ（大分県）",
      "source_url": "https://www.billboard-japan.com/d_news/detail/166666/2",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-12",
+     "title": "響都超特急",
+     "kind": "フェス",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist",
      "confidence": "high"
     }
    ]
@@ -6823,14 +6231,6 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-11-07",
-     "title": "STORMY DUDES FESTA",
-     "kind": "フェス",
-     "venue": "心斎橋BIGCAT ほか7会場（大阪）",
-     "source_url": "https://eplus.jp/sf/detail/3969250001",
-     "confidence": "high"
-    },
-    {
      "date": "2027-01-09",
      "title": "ロックンロールサーカス（1/9）",
      "kind": "フェス",
@@ -7000,14 +6400,6 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-11-07",
-     "title": "STORMY DUDES FESTA",
-     "kind": "フェス",
-     "venue": "心斎橋BIGCAT ほか7会場（大阪）",
-     "source_url": "https://eplus.jp/sf/detail/3969250001",
-     "confidence": "high"
-    },
-    {
      "date": "2027-01-09",
      "title": "ロックンロールサーカス（1/9）",
      "kind": "フェス",
@@ -7154,14 +6546,6 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-11-07",
-     "title": "STORMY DUDES FESTA",
-     "kind": "フェス",
-     "venue": "心斎橋BIGCAT ほか7会場（大阪）",
-     "source_url": "https://eplus.jp/sf/detail/3969250001",
-     "confidence": "high"
-    },
-    {
      "date": "2027-01-09",
      "title": "ロックンロールサーカス（1/9）",
      "kind": "フェス",
@@ -7174,14 +6558,6 @@
   "Akabane Vulgars on Strong Bypass": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-11-07",
-     "title": "PUNK ROCK CONNECTION",
-     "kind": "フェス",
-     "venue": "高円寺 HIGH / SHOWBOAT / CLUB ROOTS ほか（東京）",
-     "source_url": "https://punkrockconnection.com/artist.php",
-     "confidence": "high"
-    },
     {
      "date": "2027-01-09",
      "title": "ロックンロールサーカス（1/9）",
@@ -8018,342 +7394,9 @@
     }
    ]
   },
-  "DONT TURN AWAY": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "PUNK ROCK CONNECTION",
-     "kind": "フェス",
-     "venue": "高円寺 HIGH / SHOWBOAT / CLUB ROOTS ほか（東京）",
-     "source_url": "https://punkrockconnection.com/artist.php",
-     "confidence": "high"
-    }
-   ]
-  },
-  "Pity fall": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "PUNK ROCK CONNECTION",
-     "kind": "フェス",
-     "venue": "高円寺 HIGH / SHOWBOAT / CLUB ROOTS ほか（東京）",
-     "source_url": "https://punkrockconnection.com/artist.php",
-     "confidence": "high"
-    }
-   ]
-  },
-  "THE PRISONER": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "PUNK ROCK CONNECTION",
-     "kind": "フェス",
-     "venue": "高円寺 HIGH / SHOWBOAT / CLUB ROOTS ほか（東京）",
-     "source_url": "https://punkrockconnection.com/artist.php",
-     "confidence": "high"
-    }
-   ]
-  },
-  "JUNIOR": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "PUNK ROCK CONNECTION",
-     "kind": "フェス",
-     "venue": "高円寺 HIGH / SHOWBOAT / CLUB ROOTS ほか（東京）",
-     "source_url": "https://punkrockconnection.com/artist.php",
-     "confidence": "high"
-    }
-   ]
-  },
-  "FUCKIN' JUNKIES": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "PUNK ROCK CONNECTION",
-     "kind": "フェス",
-     "venue": "高円寺 HIGH / SHOWBOAT / CLUB ROOTS ほか（東京）",
-     "source_url": "https://punkrockconnection.com/artist.php",
-     "confidence": "high"
-    }
-   ]
-  },
-  "30%LESS FAT": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "PUNK ROCK CONNECTION",
-     "kind": "フェス",
-     "venue": "高円寺 HIGH / SHOWBOAT / CLUB ROOTS ほか（東京）",
-     "source_url": "https://punkrockconnection.com/artist.php",
-     "confidence": "high"
-    }
-   ]
-  },
-  "SHACHI": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "PUNK ROCK CONNECTION",
-     "kind": "フェス",
-     "venue": "高円寺 HIGH / SHOWBOAT / CLUB ROOTS ほか（東京）",
-     "source_url": "https://punkrockconnection.com/artist.php",
-     "confidence": "high"
-    }
-   ]
-  },
-  "BOMB FACTORY": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "PUNK ROCK CONNECTION",
-     "kind": "フェス",
-     "venue": "高円寺 HIGH / SHOWBOAT / CLUB ROOTS ほか（東京）",
-     "source_url": "https://punkrockconnection.com/artist.php",
-     "confidence": "high"
-    }
-   ]
-  },
-  "SKINHEAD GIRL": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "PUNK ROCK CONNECTION",
-     "kind": "フェス",
-     "venue": "高円寺 HIGH / SHOWBOAT / CLUB ROOTS ほか（東京）",
-     "source_url": "https://punkrockconnection.com/artist.php",
-     "confidence": "high"
-    }
-   ]
-  },
-  "RAISE A FLAG": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "PUNK ROCK CONNECTION",
-     "kind": "フェス",
-     "venue": "高円寺 HIGH / SHOWBOAT / CLUB ROOTS ほか（東京）",
-     "source_url": "https://punkrockconnection.com/artist.php",
-     "confidence": "high"
-    }
-   ]
-  },
-  "THE BROTHELS": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "PUNK ROCK CONNECTION",
-     "kind": "フェス",
-     "venue": "高円寺 HIGH / SHOWBOAT / CLUB ROOTS ほか（東京）",
-     "source_url": "https://punkrockconnection.com/artist.php",
-     "confidence": "high"
-    }
-   ]
-  },
-  "THE JUNGLES!!!": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "PUNK ROCK CONNECTION",
-     "kind": "フェス",
-     "venue": "高円寺 HIGH / SHOWBOAT / CLUB ROOTS ほか（東京）",
-     "source_url": "https://punkrockconnection.com/artist.php",
-     "confidence": "high"
-    }
-   ]
-  },
-  "PET": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "PUNK ROCK CONNECTION",
-     "kind": "フェス",
-     "venue": "高円寺 HIGH / SHOWBOAT / CLUB ROOTS ほか（東京）",
-     "source_url": "https://punkrockconnection.com/artist.php",
-     "confidence": "high"
-    }
-   ]
-  },
-  "the arounds": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "PUNK ROCK CONNECTION",
-     "kind": "フェス",
-     "venue": "高円寺 HIGH / SHOWBOAT / CLUB ROOTS ほか（東京）",
-     "source_url": "https://punkrockconnection.com/artist.php",
-     "confidence": "high"
-    }
-   ]
-  },
-  "KISSSSAKI": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "PUNK ROCK CONNECTION",
-     "kind": "フェス",
-     "venue": "高円寺 HIGH / SHOWBOAT / CLUB ROOTS ほか（東京）",
-     "source_url": "https://punkrockconnection.com/artist.php",
-     "confidence": "high"
-    }
-   ]
-  },
-  "Dirty Old DrunX": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "PUNK ROCK CONNECTION",
-     "kind": "フェス",
-     "venue": "高円寺 HIGH / SHOWBOAT / CLUB ROOTS ほか（東京）",
-     "source_url": "https://punkrockconnection.com/artist.php",
-     "confidence": "high"
-    }
-   ]
-  },
-  "Relents": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "PUNK ROCK CONNECTION",
-     "kind": "フェス",
-     "venue": "高円寺 HIGH / SHOWBOAT / CLUB ROOTS ほか（東京）",
-     "source_url": "https://punkrockconnection.com/artist.php",
-     "confidence": "high"
-    }
-   ]
-  },
-  "SWITCHER": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "PUNK ROCK CONNECTION",
-     "kind": "フェス",
-     "venue": "高円寺 HIGH / SHOWBOAT / CLUB ROOTS ほか（東京）",
-     "source_url": "https://punkrockconnection.com/artist.php",
-     "confidence": "high"
-    }
-   ]
-  },
-  "DOING LIFE": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "PUNK ROCK CONNECTION",
-     "kind": "フェス",
-     "venue": "高円寺 HIGH / SHOWBOAT / CLUB ROOTS ほか（東京）",
-     "source_url": "https://punkrockconnection.com/artist.php",
-     "confidence": "high"
-    }
-   ]
-  },
-  "CxCxD": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "PUNK ROCK CONNECTION",
-     "kind": "フェス",
-     "venue": "高円寺 HIGH / SHOWBOAT / CLUB ROOTS ほか（東京）",
-     "source_url": "https://punkrockconnection.com/artist.php",
-     "confidence": "high"
-    }
-   ]
-  },
-  "THE PEOPLE": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "PUNK ROCK CONNECTION",
-     "kind": "フェス",
-     "venue": "高円寺 HIGH / SHOWBOAT / CLUB ROOTS ほか（東京）",
-     "source_url": "https://punkrockconnection.com/artist.php",
-     "confidence": "high"
-    }
-   ]
-  },
-  "GO→STRAIGHT": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "PUNK ROCK CONNECTION",
-     "kind": "フェス",
-     "venue": "高円寺 HIGH / SHOWBOAT / CLUB ROOTS ほか（東京）",
-     "source_url": "https://punkrockconnection.com/artist.php",
-     "confidence": "high"
-    }
-   ]
-  },
-  "DR.SNUFKIN": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "PUNK ROCK CONNECTION",
-     "kind": "フェス",
-     "venue": "高円寺 HIGH / SHOWBOAT / CLUB ROOTS ほか（東京）",
-     "source_url": "https://punkrockconnection.com/artist.php",
-     "confidence": "high"
-    }
-   ]
-  },
-  "JIMMY REVOLT": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "PUNK ROCK CONNECTION",
-     "kind": "フェス",
-     "venue": "高円寺 HIGH / SHOWBOAT / CLUB ROOTS ほか（東京）",
-     "source_url": "https://punkrockconnection.com/artist.php",
-     "confidence": "high"
-    }
-   ]
-  },
-  "THE BROKEN FLOWERS": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "PUNK ROCK CONNECTION",
-     "kind": "フェス",
-     "venue": "高円寺 HIGH / SHOWBOAT / CLUB ROOTS ほか（東京）",
-     "source_url": "https://punkrockconnection.com/artist.php",
-     "confidence": "high"
-    }
-   ]
-  },
   "流血ブリザード": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-11-07",
-     "title": "PUNK ROCK CONNECTION",
-     "kind": "フェス",
-     "venue": "高円寺 HIGH / SHOWBOAT / CLUB ROOTS ほか（東京）",
-     "source_url": "https://punkrockconnection.com/artist.php",
-     "confidence": "high"
-    },
     {
      "date": "2027-01-09",
      "title": "ロックンロールサーカス（1/9）",
@@ -8364,303 +7407,9 @@
     }
    ]
   },
-  "雷矢": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "PUNK ROCK CONNECTION",
-     "kind": "フェス",
-     "venue": "高円寺 HIGH / SHOWBOAT / CLUB ROOTS ほか（東京）",
-     "source_url": "https://punkrockconnection.com/artist.php",
-     "confidence": "high"
-    }
-   ]
-  },
-  "ゲンドウミサイル": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "PUNK ROCK CONNECTION",
-     "kind": "フェス",
-     "venue": "高円寺 HIGH / SHOWBOAT / CLUB ROOTS ほか（東京）",
-     "source_url": "https://punkrockconnection.com/artist.php",
-     "confidence": "high"
-    }
-   ]
-  },
-  "ギョ・ビリーズ！": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "PUNK ROCK CONNECTION",
-     "kind": "フェス",
-     "venue": "高円寺 HIGH / SHOWBOAT / CLUB ROOTS ほか（東京）",
-     "source_url": "https://punkrockconnection.com/artist.php",
-     "confidence": "high"
-    }
-   ]
-  },
-  "+桃尻東京テレビジョン+": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "PUNK ROCK CONNECTION",
-     "kind": "フェス",
-     "venue": "高円寺 HIGH / SHOWBOAT / CLUB ROOTS ほか（東京）",
-     "source_url": "https://punkrockconnection.com/artist.php",
-     "confidence": "high"
-    }
-   ]
-  },
-  "最鋭輝": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "PUNK ROCK CONNECTION",
-     "kind": "フェス",
-     "venue": "高円寺 HIGH / SHOWBOAT / CLUB ROOTS ほか（東京）",
-     "source_url": "https://punkrockconnection.com/artist.php",
-     "confidence": "high"
-    }
-   ]
-  },
-  "柳家睦＆THE RATBONES": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "PUNK ROCK CONNECTION",
-     "kind": "フェス",
-     "venue": "高円寺 HIGH / SHOWBOAT / CLUB ROOTS ほか（東京）",
-     "source_url": "https://punkrockconnection.com/artist.php",
-     "confidence": "high"
-    }
-   ]
-  },
-  "Slingshot Million2": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "PUNK ROCK CONNECTION",
-     "kind": "フェス",
-     "venue": "高円寺 HIGH / SHOWBOAT / CLUB ROOTS ほか（東京）",
-     "source_url": "https://punkrockconnection.com/artist.php",
-     "confidence": "high"
-    }
-   ]
-  },
-  "vortEks-15": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "PUNK ROCK CONNECTION",
-     "kind": "フェス",
-     "venue": "高円寺 HIGH / SHOWBOAT / CLUB ROOTS ほか（東京）",
-     "source_url": "https://punkrockconnection.com/artist.php",
-     "confidence": "high"
-    }
-   ]
-  },
-  "FUKUBAKE": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "PUNK ROCK CONNECTION",
-     "kind": "フェス",
-     "venue": "高円寺 HIGH / SHOWBOAT / CLUB ROOTS ほか（東京）",
-     "source_url": "https://punkrockconnection.com/artist.php",
-     "confidence": "high"
-    }
-   ]
-  },
-  "サヨナラボーイ": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "PUNK ROCK CONNECTION",
-     "kind": "フェス",
-     "venue": "高円寺 HIGH / SHOWBOAT / CLUB ROOTS ほか（東京）",
-     "source_url": "https://punkrockconnection.com/artist.php",
-     "confidence": "high"
-    }
-   ]
-  },
-  "BINJU": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "PUNK ROCK CONNECTION",
-     "kind": "フェス",
-     "venue": "高円寺 HIGH / SHOWBOAT / CLUB ROOTS ほか（東京）",
-     "source_url": "https://punkrockconnection.com/artist.php",
-     "confidence": "high"
-    }
-   ]
-  },
-  "RYO": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "PUNK ROCK CONNECTION",
-     "kind": "フェス",
-     "venue": "高円寺 HIGH / SHOWBOAT / CLUB ROOTS ほか（東京）",
-     "source_url": "https://punkrockconnection.com/artist.php",
-     "confidence": "high"
-    }
-   ]
-  },
-  "OWEAK": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "PUNK ROCK CONNECTION",
-     "kind": "フェス",
-     "venue": "高円寺 HIGH / SHOWBOAT / CLUB ROOTS ほか（東京）",
-     "source_url": "https://punkrockconnection.com/artist.php",
-     "confidence": "high"
-    }
-   ]
-  },
-  "Serenade remember": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "PUNK ROCK CONNECTION",
-     "kind": "フェス",
-     "venue": "高円寺 HIGH / SHOWBOAT / CLUB ROOTS ほか（東京）",
-     "source_url": "https://punkrockconnection.com/artist.php",
-     "confidence": "high"
-    }
-   ]
-  },
-  "straights": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "PUNK ROCK CONNECTION",
-     "kind": "フェス",
-     "venue": "高円寺 HIGH / SHOWBOAT / CLUB ROOTS ほか（東京）",
-     "source_url": "https://punkrockconnection.com/artist.php",
-     "confidence": "high"
-    }
-   ]
-  },
-  "SO-CHO PISTONS": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "PUNK ROCK CONNECTION",
-     "kind": "フェス",
-     "venue": "高円寺 HIGH / SHOWBOAT / CLUB ROOTS ほか（東京）",
-     "source_url": "https://punkrockconnection.com/artist.php",
-     "confidence": "high"
-    }
-   ]
-  },
-  "THE RAPTOLS": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "PUNK ROCK CONNECTION",
-     "kind": "フェス",
-     "venue": "高円寺 HIGH / SHOWBOAT / CLUB ROOTS ほか（東京）",
-     "source_url": "https://punkrockconnection.com/artist.php",
-     "confidence": "high"
-    }
-   ]
-  },
-  "韃靼兵談": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "PUNK ROCK CONNECTION",
-     "kind": "フェス",
-     "venue": "高円寺 HIGH / SHOWBOAT / CLUB ROOTS ほか（東京）",
-     "source_url": "https://punkrockconnection.com/artist.php",
-     "confidence": "high"
-    }
-   ]
-  },
-  "9991": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "PUNK ROCK CONNECTION",
-     "kind": "フェス",
-     "venue": "高円寺 HIGH / SHOWBOAT / CLUB ROOTS ほか（東京）",
-     "source_url": "https://punkrockconnection.com/artist.php",
-     "confidence": "high"
-    }
-   ]
-  },
-  "RAZORS EDGE": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "STORMY DUDES FESTA",
-     "kind": "フェス",
-     "venue": "心斎橋BIGCAT ほか7会場（大阪）",
-     "source_url": "https://eplus.jp/sf/detail/3969250001",
-     "confidence": "high"
-    }
-   ]
-  },
-  "All I Clacks": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "STORMY DUDES FESTA",
-     "kind": "フェス",
-     "venue": "心斎橋BIGCAT ほか7会場（大阪）",
-     "source_url": "https://eplus.jp/sf/detail/3969250001",
-     "confidence": "high"
-    }
-   ]
-  },
-  "ATATA": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "STORMY DUDES FESTA",
-     "kind": "フェス",
-     "venue": "心斎橋BIGCAT ほか7会場（大阪）",
-     "source_url": "https://eplus.jp/sf/detail/3969250001",
-     "confidence": "high"
-    }
-   ]
-  },
   "bacho": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-11-07",
-     "title": "STORMY DUDES FESTA",
-     "kind": "フェス",
-     "venue": "心斎橋BIGCAT ほか7会場（大阪）",
-     "source_url": "https://eplus.jp/sf/detail/3969250001",
-     "confidence": "high"
-    },
     {
      "date": "2026-12-05",
      "title": "TORI ROCK FESTIVAL（12/5）",
@@ -8671,56 +7420,9 @@
     }
    ]
   },
-  "BURL": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "STORMY DUDES FESTA",
-     "kind": "フェス",
-     "venue": "心斎橋BIGCAT ほか7会場（大阪）",
-     "source_url": "https://eplus.jp/sf/detail/3969250001",
-     "confidence": "high"
-    }
-   ]
-  },
-  "CROW DRAGON TEA": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "STORMY DUDES FESTA",
-     "kind": "フェス",
-     "venue": "心斎橋BIGCAT ほか7会場（大阪）",
-     "source_url": "https://eplus.jp/sf/detail/3969250001",
-     "confidence": "high"
-    }
-   ]
-  },
-  "DEEPSLAUTER": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "STORMY DUDES FESTA",
-     "kind": "フェス",
-     "venue": "心斎橋BIGCAT ほか7会場（大阪）",
-     "source_url": "https://eplus.jp/sf/detail/3969250001",
-     "confidence": "high"
-    }
-   ]
-  },
   "Dizzy Sunfist": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-11-07",
-     "title": "STORMY DUDES FESTA",
-     "kind": "フェス",
-     "venue": "心斎橋BIGCAT ほか7会場（大阪）",
-     "source_url": "https://eplus.jp/sf/detail/3969250001",
-     "confidence": "high"
-    },
     {
      "date": "2026-11-29",
      "title": "MASTERPIECE（11/29）",
@@ -8743,14 +7445,6 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-11-07",
-     "title": "STORMY DUDES FESTA",
-     "kind": "フェス",
-     "venue": "心斎橋BIGCAT ほか7会場（大阪）",
-     "source_url": "https://eplus.jp/sf/detail/3969250001",
-     "confidence": "high"
-    },
-    {
      "date": "2026-11-28",
      "title": "MASTERPIECE（11/28）",
      "kind": "フェス",
@@ -8768,82 +7462,9 @@
     }
    ]
   },
-  "DRADNATS": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "STORMY DUDES FESTA",
-     "kind": "フェス",
-     "venue": "心斎橋BIGCAT ほか7会場（大阪）",
-     "source_url": "https://eplus.jp/sf/detail/3969250001",
-     "confidence": "high"
-    }
-   ]
-  },
-  "FIRE ON FIRE": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "STORMY DUDES FESTA",
-     "kind": "フェス",
-     "venue": "心斎橋BIGCAT ほか7会場（大阪）",
-     "source_url": "https://eplus.jp/sf/detail/3969250001",
-     "confidence": "high"
-    }
-   ]
-  },
-  "FIVE NO RISK": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "STORMY DUDES FESTA",
-     "kind": "フェス",
-     "venue": "心斎橋BIGCAT ほか7会場（大阪）",
-     "source_url": "https://eplus.jp/sf/detail/3969250001",
-     "confidence": "high"
-    }
-   ]
-  },
-  "FRIDAYZ": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "STORMY DUDES FESTA",
-     "kind": "フェス",
-     "venue": "心斎橋BIGCAT ほか7会場（大阪）",
-     "source_url": "https://eplus.jp/sf/detail/3969250001",
-     "confidence": "high"
-    }
-   ]
-  },
-  "GARLICBOYS": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "STORMY DUDES FESTA",
-     "kind": "フェス",
-     "venue": "心斎橋BIGCAT ほか7会場（大阪）",
-     "source_url": "https://eplus.jp/sf/detail/3969250001",
-     "confidence": "high"
-    }
-   ]
-  },
   "GUMX": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-11-07",
-     "title": "STORMY DUDES FESTA",
-     "kind": "フェス",
-     "venue": "心斎橋BIGCAT ほか7会場（大阪）",
-     "source_url": "https://eplus.jp/sf/detail/3969250001",
-     "confidence": "high"
-    },
     {
      "date": "2026-12-12",
      "title": "響都超特急（12/12）",
@@ -8851,18 +7472,13 @@
      "venue": "京都パルスプラザ（京都）",
      "source_url": "https://kue.rotten-g.com/26/artist/",
      "confidence": "high"
-    }
-   ]
-  },
-  "HARD CORE DUDE": {
-   "aliases": [],
-   "events": [
+    },
     {
-     "date": "2026-11-07",
-     "title": "STORMY DUDES FESTA",
+     "date": "2026-12-12",
+     "title": "響都超特急",
      "kind": "フェス",
-     "venue": "心斎橋BIGCAT ほか7会場（大阪）",
-     "source_url": "https://eplus.jp/sf/detail/3969250001",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist",
      "confidence": "high"
     }
    ]
@@ -8870,14 +7486,6 @@
   "HAWAIIAN6": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-11-07",
-     "title": "STORMY DUDES FESTA",
-     "kind": "フェス",
-     "venue": "心斎橋BIGCAT ほか7会場（大阪）",
-     "source_url": "https://eplus.jp/sf/detail/3969250001",
-     "confidence": "high"
-    },
     {
      "date": "2026-11-29",
      "title": "MASTERPIECE（11/29）",
@@ -8888,160 +7496,9 @@
     }
    ]
   },
-  "HOT DOG": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "STORMY DUDES FESTA",
-     "kind": "フェス",
-     "venue": "心斎橋BIGCAT ほか7会場（大阪）",
-     "source_url": "https://eplus.jp/sf/detail/3969250001",
-     "confidence": "high"
-    }
-   ]
-  },
-  "HOTSQUALL": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "STORMY DUDES FESTA",
-     "kind": "フェス",
-     "venue": "心斎橋BIGCAT ほか7会場（大阪）",
-     "source_url": "https://eplus.jp/sf/detail/3969250001",
-     "confidence": "high"
-    }
-   ]
-  },
-  "IdolPunch": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "STORMY DUDES FESTA",
-     "kind": "フェス",
-     "venue": "心斎橋BIGCAT ほか7会場（大阪）",
-     "source_url": "https://eplus.jp/sf/detail/3969250001",
-     "confidence": "high"
-    }
-   ]
-  },
-  "kamomekamome": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "STORMY DUDES FESTA",
-     "kind": "フェス",
-     "venue": "心斎橋BIGCAT ほか7会場（大阪）",
-     "source_url": "https://eplus.jp/sf/detail/3969250001",
-     "confidence": "high"
-    }
-   ]
-  },
-  "MASTERPEACE": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "STORMY DUDES FESTA",
-     "kind": "フェス",
-     "venue": "心斎橋BIGCAT ほか7会場（大阪）",
-     "source_url": "https://eplus.jp/sf/detail/3969250001",
-     "confidence": "high"
-    }
-   ]
-  },
-  "MEXICAN AGE": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "STORMY DUDES FESTA",
-     "kind": "フェス",
-     "venue": "心斎橋BIGCAT ほか7会場（大阪）",
-     "source_url": "https://eplus.jp/sf/detail/3969250001",
-     "confidence": "high"
-    }
-   ]
-  },
-  "MINOR LEAGUE": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "STORMY DUDES FESTA",
-     "kind": "フェス",
-     "venue": "心斎橋BIGCAT ほか7会場（大阪）",
-     "source_url": "https://eplus.jp/sf/detail/3969250001",
-     "confidence": "high"
-    }
-   ]
-  },
-  "NINJA BOYZ": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "STORMY DUDES FESTA",
-     "kind": "フェス",
-     "venue": "心斎橋BIGCAT ほか7会場（大阪）",
-     "source_url": "https://eplus.jp/sf/detail/3969250001",
-     "confidence": "high"
-    }
-   ]
-  },
-  "NO HITTER": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "STORMY DUDES FESTA",
-     "kind": "フェス",
-     "venue": "心斎橋BIGCAT ほか7会場（大阪）",
-     "source_url": "https://eplus.jp/sf/detail/3969250001",
-     "confidence": "high"
-    }
-   ]
-  },
-  "NOWON": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "STORMY DUDES FESTA",
-     "kind": "フェス",
-     "venue": "心斎橋BIGCAT ほか7会場（大阪）",
-     "source_url": "https://eplus.jp/sf/detail/3969250001",
-     "confidence": "high"
-    }
-   ]
-  },
-  "NUMB": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "STORMY DUDES FESTA",
-     "kind": "フェス",
-     "venue": "心斎橋BIGCAT ほか7会場（大阪）",
-     "source_url": "https://eplus.jp/sf/detail/3969250001",
-     "confidence": "high"
-    }
-   ]
-  },
   "OVER ARM THROW": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-11-07",
-     "title": "STORMY DUDES FESTA",
-     "kind": "フェス",
-     "venue": "心斎橋BIGCAT ほか7会場（大阪）",
-     "source_url": "https://eplus.jp/sf/detail/3969250001",
-     "confidence": "high"
-    },
     {
      "date": "2026-12-13",
      "title": "響都超特急（12/13）",
@@ -9049,122 +7506,13 @@
      "venue": "京都パルスプラザ（京都）",
      "source_url": "https://kue.rotten-g.com/26/artist/",
      "confidence": "high"
-    }
-   ]
-  },
-  "PALM": {
-   "aliases": [],
-   "events": [
+    },
     {
-     "date": "2026-11-07",
-     "title": "STORMY DUDES FESTA",
+     "date": "2026-12-12",
+     "title": "響都超特急",
      "kind": "フェス",
-     "venue": "心斎橋BIGCAT ほか7会場（大阪）",
-     "source_url": "https://eplus.jp/sf/detail/3969250001",
-     "confidence": "high"
-    }
-   ]
-  },
-  "RUDE BONES": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "STORMY DUDES FESTA",
-     "kind": "フェス",
-     "venue": "心斎橋BIGCAT ほか7会場（大阪）",
-     "source_url": "https://eplus.jp/sf/detail/3969250001",
-     "confidence": "high"
-    }
-   ]
-  },
-  "JAGGER THE SKIPPERS": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "STORMY DUDES FESTA",
-     "kind": "フェス",
-     "venue": "心斎橋BIGCAT ほか7会場（大阪）",
-     "source_url": "https://eplus.jp/sf/detail/3969250001",
-     "confidence": "high"
-    }
-   ]
-  },
-  "STEP LIGHTLY": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "STORMY DUDES FESTA",
-     "kind": "フェス",
-     "venue": "心斎橋BIGCAT ほか7会場（大阪）",
-     "source_url": "https://eplus.jp/sf/detail/3969250001",
-     "confidence": "high"
-    }
-   ]
-  },
-  "SPREAD": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "STORMY DUDES FESTA",
-     "kind": "フェス",
-     "venue": "心斎橋BIGCAT ほか7会場（大阪）",
-     "source_url": "https://eplus.jp/sf/detail/3969250001",
-     "confidence": "high"
-    }
-   ]
-  },
-  "STAB 4 REASON": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "STORMY DUDES FESTA",
-     "kind": "フェス",
-     "venue": "心斎橋BIGCAT ほか7会場（大阪）",
-     "source_url": "https://eplus.jp/sf/detail/3969250001",
-     "confidence": "high"
-    }
-   ]
-  },
-  "SUNSHINE DUB": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "STORMY DUDES FESTA",
-     "kind": "フェス",
-     "venue": "心斎橋BIGCAT ほか7会場（大阪）",
-     "source_url": "https://eplus.jp/sf/detail/3969250001",
-     "confidence": "high"
-    }
-   ]
-  },
-  "THE CHINA WIFE MOTORS": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "STORMY DUDES FESTA",
-     "kind": "フェス",
-     "venue": "心斎橋BIGCAT ほか7会場（大阪）",
-     "source_url": "https://eplus.jp/sf/detail/3969250001",
-     "confidence": "high"
-    }
-   ]
-  },
-  "THE DISASTER POINTS": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "STORMY DUDES FESTA",
-     "kind": "フェス",
-     "venue": "心斎橋BIGCAT ほか7会場（大阪）",
-     "source_url": "https://eplus.jp/sf/detail/3969250001",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist",
      "confidence": "high"
     }
    ]
@@ -9172,14 +7520,6 @@
   "THE FOREVER YOUNG": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-11-07",
-     "title": "STORMY DUDES FESTA",
-     "kind": "フェス",
-     "venue": "心斎橋BIGCAT ほか7会場（大阪）",
-     "source_url": "https://eplus.jp/sf/detail/3969250001",
-     "confidence": "high"
-    },
     {
      "date": "2026-11-28",
      "title": "PSYCHIC FES",
@@ -9190,95 +7530,9 @@
     }
    ]
   },
-  "THE SENSATIONS": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "STORMY DUDES FESTA",
-     "kind": "フェス",
-     "venue": "心斎橋BIGCAT ほか7会場（大阪）",
-     "source_url": "https://eplus.jp/sf/detail/3969250001",
-     "confidence": "high"
-    }
-   ]
-  },
-  "THE STARBEMS": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "STORMY DUDES FESTA",
-     "kind": "フェス",
-     "venue": "心斎橋BIGCAT ほか7会場（大阪）",
-     "source_url": "https://eplus.jp/sf/detail/3969250001",
-     "confidence": "high"
-    }
-   ]
-  },
-  "THRH": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "STORMY DUDES FESTA",
-     "kind": "フェス",
-     "venue": "心斎橋BIGCAT ほか7会場（大阪）",
-     "source_url": "https://eplus.jp/sf/detail/3969250001",
-     "confidence": "high"
-    }
-   ]
-  },
-  "TIVE": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "STORMY DUDES FESTA",
-     "kind": "フェス",
-     "venue": "心斎橋BIGCAT ほか7会場（大阪）",
-     "source_url": "https://eplus.jp/sf/detail/3969250001",
-     "confidence": "high"
-    }
-   ]
-  },
-  "TROPICAL GORILLA": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "STORMY DUDES FESTA",
-     "kind": "フェス",
-     "venue": "心斎橋BIGCAT ほか7会場（大阪）",
-     "source_url": "https://eplus.jp/sf/detail/3969250001",
-     "confidence": "high"
-    }
-   ]
-  },
-  "waterweed": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "STORMY DUDES FESTA",
-     "kind": "フェス",
-     "venue": "心斎橋BIGCAT ほか7会場（大阪）",
-     "source_url": "https://eplus.jp/sf/detail/3969250001",
-     "confidence": "high"
-    }
-   ]
-  },
   "炙りなタウン": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-11-07",
-     "title": "STORMY DUDES FESTA",
-     "kind": "フェス",
-     "venue": "心斎橋BIGCAT ほか7会場（大阪）",
-     "source_url": "https://eplus.jp/sf/detail/3969250001",
-     "confidence": "high"
-    },
     {
      "date": "2026-11-14",
      "title": "アメ村天国",
@@ -9289,30 +7543,9 @@
     }
    ]
   },
-  "オナニ渕剛": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "STORMY DUDES FESTA",
-     "kind": "フェス",
-     "venue": "心斎橋BIGCAT ほか7会場（大阪）",
-     "source_url": "https://eplus.jp/sf/detail/3969250001",
-     "confidence": "high"
-    }
-   ]
-  },
   "クリトリック・リス": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-11-07",
-     "title": "STORMY DUDES FESTA",
-     "kind": "フェス",
-     "venue": "心斎橋BIGCAT ほか7会場（大阪）",
-     "source_url": "https://eplus.jp/sf/detail/3969250001",
-     "confidence": "high"
-    },
     {
      "date": "2026-11-14",
      "title": "アメ村天国",
@@ -9339,30 +7572,9 @@
     }
    ]
   },
-  "サンキュー": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "STORMY DUDES FESTA",
-     "kind": "フェス",
-     "venue": "心斎橋BIGCAT ほか7会場（大阪）",
-     "source_url": "https://eplus.jp/sf/detail/3969250001",
-     "confidence": "high"
-    }
-   ]
-  },
   "よさこいマン": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-11-07",
-     "title": "STORMY DUDES FESTA",
-     "kind": "フェス",
-     "venue": "心斎橋BIGCAT ほか7会場（大阪）",
-     "source_url": "https://eplus.jp/sf/detail/3969250001",
-     "confidence": "high"
-    },
     {
      "date": "2026-11-28",
      "title": "PSYCHIC FES",
@@ -9483,6 +7695,14 @@
      "venue": "INTEX OSAKA（大阪府）",
      "source_url": "https://eplus.jp/radiocrazy2026/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-11-27",
+     "title": "ロックアンセム -BY ROCK LOVERS , FOR ROCK LOVERS-",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://rock-anthem.jp/",
+     "confidence": "high"
     }
    ]
   },
@@ -9494,6 +7714,14 @@
      "title": "ロックアンセムEX（11/27）",
      "kind": "フェス",
      "venue": "EX THEATER ROPPONGI（東京）",
+     "source_url": "https://rock-anthem.jp/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-11-27",
+     "title": "ロックアンセム -BY ROCK LOVERS , FOR ROCK LOVERS-",
+     "kind": "フェス",
+     "venue": "（東京）",
      "source_url": "https://rock-anthem.jp/",
      "confidence": "high"
     }
@@ -9517,6 +7745,14 @@
      "venue": "INTEX OSAKA（大阪府）",
      "source_url": "https://eplus.jp/radiocrazy2026/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-11-27",
+     "title": "ロックアンセム -BY ROCK LOVERS , FOR ROCK LOVERS-",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://rock-anthem.jp/",
+     "confidence": "high"
     }
    ]
   },
@@ -9530,6 +7766,14 @@
      "venue": "EX THEATER ROPPONGI（東京）",
      "source_url": "https://rock-anthem.jp/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-11-27",
+     "title": "ロックアンセム -BY ROCK LOVERS , FOR ROCK LOVERS-",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://rock-anthem.jp/",
+     "confidence": "high"
     }
    ]
   },
@@ -9541,6 +7785,14 @@
      "title": "ロックアンセムEX（11/29）",
      "kind": "フェス",
      "venue": "EX THEATER ROPPONGI（東京）",
+     "source_url": "https://rock-anthem.jp/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-11-27",
+     "title": "ロックアンセム -BY ROCK LOVERS , FOR ROCK LOVERS-",
+     "kind": "フェス",
+     "venue": "（東京）",
      "source_url": "https://rock-anthem.jp/",
      "confidence": "high"
     }
@@ -9584,6 +7836,14 @@
      "kind": "フェス",
      "venue": "京都パルスプラザ（京都）",
      "source_url": "https://kue.rotten-g.com/26/artist/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-12",
+     "title": "響都超特急",
+     "kind": "フェス",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist",
      "confidence": "high"
     }
    ]
@@ -11066,45 +9326,6 @@
     }
    ]
   },
-  "ON THE AIR": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "BUZZ RHYTHM LIVE（11/7）",
-     "kind": "フェス",
-     "venue": "横浜アリーナ（神奈川県）",
-     "source_url": "https://buzzrhythm.live/",
-     "confidence": "high"
-    }
-   ]
-  },
-  "かわにしなつき": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "BUZZ RHYTHM LIVE（11/7）",
-     "kind": "フェス",
-     "venue": "横浜アリーナ（神奈川県）",
-     "source_url": "https://buzzrhythm.live/",
-     "confidence": "high"
-    }
-   ]
-  },
-  "Be-ray": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "BUZZ RHYTHM LIVE（11/7）",
-     "kind": "フェス",
-     "venue": "横浜アリーナ（神奈川県）",
-     "source_url": "https://buzzrhythm.live/",
-     "confidence": "high"
-    }
-   ]
-  },
   "かのん": {
    "aliases": [],
    "events": [
@@ -11140,136 +9361,6 @@
      "kind": "フェス",
      "venue": "横浜アリーナ（神奈川県）",
      "source_url": "https://buzzrhythm.live/",
-     "confidence": "high"
-    }
-   ]
-  },
-  "SODA!": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "AIR JAM（11/7）",
-     "kind": "フェス",
-     "venue": "ZOZOマリンスタジアム（千葉県）",
-     "source_url": "https://airjam.jp/artists",
-     "confidence": "high"
-    }
-   ]
-  },
-  "JACKIE & THE CEDRICS": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "AIR JAM（11/7）",
-     "kind": "フェス",
-     "venue": "ZOZOマリンスタジアム（千葉県）",
-     "source_url": "https://airjam.jp/artists",
-     "confidence": "high"
-    }
-   ]
-  },
-  "YONA YONA WEEKENDERS": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "LOCALGREEN FESTIVAL'26（11/7〜11/8のいずれか）",
-     "kind": "フェス",
-     "venue": "横浜赤レンガ倉庫（神奈川県）",
-     "source_url": "https://skream.jp/news/2026/09/localgreen_festival26_1st_lineup.php",
-     "confidence": "low"
-    }
-   ]
-  },
-  "NakamuraEmi": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "LOCALGREEN FESTIVAL'26（11/7〜11/8のいずれか）",
-     "kind": "フェス",
-     "venue": "横浜赤レンガ倉庫（神奈川県）",
-     "source_url": "https://skream.jp/news/2026/09/localgreen_festival26_1st_lineup.php",
-     "confidence": "low"
-    }
-   ]
-  },
-  "Ryu Matsuyama": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "LOCALGREEN FESTIVAL'26（11/7〜11/8のいずれか）",
-     "kind": "フェス",
-     "venue": "横浜赤レンガ倉庫（神奈川県）",
-     "source_url": "https://skream.jp/news/2026/09/localgreen_festival26_1st_lineup.php",
-     "confidence": "low"
-    }
-   ]
-  },
-  "kiki vivi lily": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "LOCALGREEN FESTIVAL'26（11/7〜11/8のいずれか）",
-     "kind": "フェス",
-     "venue": "横浜赤レンガ倉庫（神奈川県）",
-     "source_url": "https://skream.jp/news/2026/09/localgreen_festival26_1st_lineup.php",
-     "confidence": "low"
-    }
-   ]
-  },
-  "カメレオン・ライム・ウーピーパイ": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "LOCALGREEN FESTIVAL'26（11/7〜11/8のいずれか）",
-     "kind": "フェス",
-     "venue": "横浜赤レンガ倉庫（神奈川県）",
-     "source_url": "https://skream.jp/news/2026/09/localgreen_festival26_1st_lineup.php",
-     "confidence": "low"
-    }
-   ]
-  },
-  "KOMOREBI": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "LOCALGREEN FESTIVAL'26（11/7〜11/8のいずれか）",
-     "kind": "フェス",
-     "venue": "横浜赤レンガ倉庫（神奈川県）",
-     "source_url": "https://skream.jp/news/2026/09/localgreen_festival26_1st_lineup.php",
-     "confidence": "low"
-    }
-   ]
-  },
-  "Sala": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "LOCALGREEN FESTIVAL'26（11/7〜11/8のいずれか）",
-     "kind": "フェス",
-     "venue": "横浜赤レンガ倉庫（神奈川県）",
-     "source_url": "https://skream.jp/news/2026/09/localgreen_festival26_1st_lineup.php",
-     "confidence": "low"
-    }
-   ]
-  },
-  "美少女戦士セーラームーン -Shining Theater Shinagawa Tokyo-": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "氣志團万博（11/7）",
-     "kind": "フェス",
-     "venue": "幕張メッセ 国際展示場4〜7ホール（千葉県）",
-     "source_url": "http://www.kishidanbanpaku.com/s/kbpk/page/artist2026",
      "confidence": "high"
     }
    ]
@@ -14676,6 +12767,14 @@
      "venue": "京都パルスプラザ（京都）",
      "source_url": "https://kue.rotten-g.com/26/artist/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-12",
+     "title": "響都超特急",
+     "kind": "フェス",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist",
+     "confidence": "high"
     }
    ]
   },
@@ -14689,6 +12788,14 @@
      "venue": "京都パルスプラザ（京都）",
      "source_url": "https://kue.rotten-g.com/26/artist/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-12",
+     "title": "響都超特急",
+     "kind": "フェス",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist",
+     "confidence": "high"
     }
    ]
   },
@@ -14701,6 +12808,14 @@
      "kind": "フェス",
      "venue": "京都パルスプラザ（京都）",
      "source_url": "https://kue.rotten-g.com/26/artist/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-12",
+     "title": "響都超特急",
+     "kind": "フェス",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist",
      "confidence": "high"
     }
    ]
@@ -14716,6 +12831,14 @@
      "kind": "フェス",
      "venue": "京都パルスプラザ（京都）",
      "source_url": "https://kue.rotten-g.com/26/artist/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-12",
+     "title": "響都超特急",
+     "kind": "フェス",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist",
      "confidence": "high"
     }
    ]
@@ -14746,6 +12869,14 @@
      "venue": "別府ビーコンプラザ（大分県）",
      "source_url": "https://www.billboard-japan.com/d_news/detail/166666/2",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-12",
+     "title": "響都超特急",
+     "kind": "フェス",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist",
+     "confidence": "high"
     }
    ]
   },
@@ -14766,6 +12897,14 @@
      "kind": "フェス",
      "venue": "豊洲PIT（東京）",
      "source_url": "https://festival-life.com/169100",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-12",
+     "title": "響都超特急",
+     "kind": "フェス",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist",
      "confidence": "high"
     }
    ]
@@ -15717,14 +13856,6 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-11-07",
-     "title": "MONGOL800 ga FESTIVAL What a Wonderful World!!",
-     "kind": "フェス",
-     "venue": "宜野湾港マリーナ トロピカルビーチ特設会場（沖縄県）",
-     "source_url": "https://www800.asia/2026/day1",
-     "confidence": "high"
-    },
-    {
      "date": "2026-11-08",
      "title": "MONGOL800 ga FESTIVAL What a Wonderful World!!",
      "kind": "フェス",
@@ -16363,32 +14494,6 @@
      "kind": "フェス",
      "venue": "LINE CUBE SHIBUYA / 代々木公園イベント広場（東京都）",
      "source_url": "https://www.j-wave.co.jp/special/inspiretokyo/",
-     "confidence": "high"
-    }
-   ]
-  },
-  "道ジュネー｜園田青年会": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "MONGOL800 ga FESTIVAL What a Wonderful World!!",
-     "kind": "フェス",
-     "venue": "宜野湾港マリーナ トロピカルビーチ特設会場（沖縄県）",
-     "source_url": "https://www800.asia/2026/day1",
-     "confidence": "high"
-    }
-   ]
-  },
-  "琉球舞踊家・赤嶺姉妹": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "MONGOL800 ga FESTIVAL What a Wonderful World!!",
-     "kind": "フェス",
-     "venue": "宜野湾港マリーナ トロピカルビーチ特設会場（沖縄県）",
-     "source_url": "https://www800.asia/2026/day1",
      "confidence": "high"
     }
    ]
@@ -18001,32 +16106,6 @@
     }
    ]
   },
-  "YOSHIYAxxx(RADIOTS,ØUROBROS)": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "STORMY DUDES FESTA",
-     "kind": "フェス",
-     "venue": "アメリカ村 BIGCATほか（大阪府）",
-     "source_url": "https://sunhall.jp/events/event/razors-edge-presents%E3%80%8Cstormy-dudes-festa-2026%E3%80%8D/",
-     "confidence": "high"
-    }
-   ]
-  },
-  "TOM SAIKI (STOMPIN' BIRD)": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-07",
-     "title": "STORMY DUDES FESTA",
-     "kind": "フェス",
-     "venue": "アメリカ村 BIGCATほか（大阪府）",
-     "source_url": "https://sunhall.jp/events/event/razors-edge-presents%E3%80%8Cstormy-dudes-festa-2026%E3%80%8D/",
-     "confidence": "high"
-    }
-   ]
-  },
   "ASIAN KUNG-FU GENERATION": {
    "aliases": [],
    "events": [
@@ -18971,6 +17050,14 @@
      "kind": "フェス",
      "venue": "みずほPayPayドーム福岡（福岡県）",
      "source_url": "https://anisama.tv/2027/fukuoka/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-20",
+     "title": "AniCore",
+     "kind": "フェス",
+     "venue": "（愛知県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-aichi-2016/4",
      "confidence": "high"
     }
    ]
@@ -20612,6 +18699,58 @@
      "kind": "フェス",
      "venue": "INTEX OSAKA（大阪府）",
      "source_url": "https://eplus.jp/radiocrazy2026/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "亜咲花": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-20",
+     "title": "AniCore",
+     "kind": "フェス",
+     "venue": "（愛知県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-aichi-2016/4",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ウタヒメドリーム": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-20",
+     "title": "AniCore",
+     "kind": "フェス",
+     "venue": "（愛知県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-aichi-2016/4",
+     "confidence": "high"
+    }
+   ]
+  },
+  "花耶": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-20",
+     "title": "AniCore",
+     "kind": "フェス",
+     "venue": "（愛知県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-aichi-2016/4",
+     "confidence": "high"
+    }
+   ]
+  },
+  "愛未莉叶": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-20",
+     "title": "AniCore",
+     "kind": "フェス",
+     "venue": "（愛知県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-aichi-2016/4",
      "confidence": "high"
     }
    ]
