@@ -812,7 +812,7 @@ function render(){
     foot(TAB==='fes'?'情報は自動収集です。最新の発表は公式サイトでご確認ください':'AIによる自動収集です。受付期間・購入前に、必ず公式の情報をご確認ください');
 }
 out.addEventListener('click',e=>{
-  const mj=e.target.closest('[data-mj]');if(mj){if(TAB==='set'){let n=0;SLL.forEach((x,i)=>{if(x.date.slice(0,7)===mj.dataset.mj)n=i+1});if(n>SLN){SLN=n;renderSet()}}const el=document.getElementById('m-'+mj.dataset.mj);if(el)el.scrollIntoView({behavior:'smooth',block:'start'});return}
+  const mj=e.target.closest('[data-mj]');if(mj){if(TAB==='set'){let n=0;SLL.forEach((x,i)=>{if(x.date.slice(0,7)===mj.dataset.mj)n=i+1});if(n>SLN){SLN=n;renderSet()}}const el=document.getElementById('m-'+mj.dataset.mj);if(el)el.scrollIntoView({behavior:TAB==='set'?'instant':'smooth',block:'start'});return}
   const my=e.target.closest('[data-my]');if(my){openMy(true,my.dataset.my,my.dataset.d,my.dataset.f);return}
   const sl=e.target.closest('[data-sl]');if(sl){go('set');$('#q').value=sl.dataset.sl;render();return}
   const cd=e.target.closest('[data-cd]');if(cd){CALD=cd.dataset.cd;renderCal();return}
