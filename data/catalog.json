@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T20:06:00+09:00",
+ "updated": "2026-11-09T07:10:00+09:00",
  "artists": {
   "Saucy Dog": {
    "aliases": [
@@ -1989,6 +1989,14 @@
      "kind": "フェス",
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "FM802 ROCK FESTIVAL RADIO CRAZY 2026（12/27）",
+     "kind": "フェス",
+     "venue": "INTEX大阪（大阪）",
+     "source_url": "https://radiocrazy.fm/artist/",
      "confidence": "high"
     }
    ]
@@ -19186,6 +19194,92 @@
      "kind": "フェス",
      "venue": "渋谷9会場（CLUB QUATTRO、GARRET udagawa、CUTUP STUDIO、Shibuya PIT ZERO、TOKIO TOKYO、FOWS、DOMMUNE、QUATTRO LABO、XXI）（東京）",
      "source_url": "https://prtimes.jp/main/html/rd/p/000003985.000003639.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Fin": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "EDO WAVE",
+     "kind": "フェス",
+     "venue": "LOFT Shinjuku（東京）",
+     "source_url": "https://www.edowave.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "timothy": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "EDO WAVE",
+     "kind": "フェス",
+     "venue": "LOFT Shinjuku（東京）",
+     "source_url": "https://www.edowave.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "PONつよ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "EDO WAVE",
+     "kind": "フェス",
+     "venue": "LOFT Shinjuku（東京）",
+     "source_url": "https://www.edowave.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "The Spilt Ink": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "EDO WAVE",
+     "kind": "フェス",
+     "venue": "LOFT Shinjuku（東京）",
+     "source_url": "https://www.edowave.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "大竹まこと": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-29",
+     "title": "5時SAT ROCK WAVE 2026（12/29）",
+     "kind": "フェス",
+     "venue": "COMTEC PORTBASE（愛知）",
+     "source_url": "https://www.ctv.co.jp/rockwave2026/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "柴山一幸": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-29",
+     "title": "5時SAT ROCK WAVE 2026（12/29）",
+     "kind": "フェス",
+     "venue": "COMTEC PORTBASE（愛知）",
+     "source_url": "https://www.ctv.co.jp/rockwave2026/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-30",
+     "title": "5時SAT ROCK WAVE 2026（12/30）",
+     "kind": "フェス",
+     "venue": "COMTEC PORTBASE（愛知）",
+     "source_url": "https://www.ctv.co.jp/rockwave2026/",
      "confidence": "high"
     }
    ]
