@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T07:07:00+09:00",
+ "updated": "2026-11-08T20:06:00+09:00",
  "artists": {
   "Saucy Dog": {
    "aliases": [
@@ -622,6 +622,14 @@
      "confidence": "high"
     },
     {
+     "date": "2026-12-12",
+     "title": "響都超特急",
+     "kind": "フェス",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-13",
      "title": "響都超特急（12/13）",
      "kind": "フェス",
@@ -708,14 +716,6 @@
      "venue": "京都府立山城総合運動公園 太陽が丘特設野外ステージ（京都府）",
      "source_url": "https://kyoto-daisakusen.kyoto/27/",
      "confidence": "high"
-    },
-    {
-     "date": "2026-12-12",
-     "title": "響都超特急",
-     "kind": "フェス",
-     "venue": "京都パルスプラザ（京都）",
-     "source_url": "https://kue.rotten-g.com/26/artist",
-     "confidence": "high"
     }
    ]
   },
@@ -776,6 +776,14 @@
      "confidence": "high"
     },
     {
+     "date": "2026-12-12",
+     "title": "響都超特急",
+     "kind": "フェス",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-20",
      "title": "MERRY ROCK PARADE 2026（12/20）",
      "kind": "フェス",
@@ -830,14 +838,6 @@
      "venue": "泉大津フェニックス（大阪府）",
      "source_url": "https://natalie.mu/music/news/695216",
      "confidence": "low"
-    },
-    {
-     "date": "2026-12-12",
-     "title": "響都超特急",
-     "kind": "フェス",
-     "venue": "京都パルスプラザ（京都）",
-     "source_url": "https://kue.rotten-g.com/26/artist",
-     "confidence": "high"
     }
    ]
   },
@@ -900,6 +900,14 @@
      "confidence": "high"
     },
     {
+     "date": "2026-12-12",
+     "title": "響都超特急",
+     "kind": "フェス",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-13",
      "title": "響都超特急（12/13）",
      "kind": "フェス",
@@ -937,14 +945,6 @@
      "kind": "フェス",
      "venue": "幕張メッセ（千葉県）",
      "source_url": "https://countdownjapan.jp/",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-12-12",
-     "title": "響都超特急",
-     "kind": "フェス",
-     "venue": "京都パルスプラザ（京都）",
-     "source_url": "https://kue.rotten-g.com/26/artist",
      "confidence": "high"
     }
    ]
@@ -1255,6 +1255,14 @@
      "confidence": "high"
     },
     {
+     "date": "2026-12-12",
+     "title": "響都超特急",
+     "kind": "フェス",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-13",
      "title": "結びの夢番地（12/13）",
      "kind": "フェス",
@@ -1316,14 +1324,6 @@
      "kind": "フェス",
      "venue": "みずほPayPayドーム福岡（福岡県）",
      "source_url": "https://fukuokamusic-fes.com/2027/index.html",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-12-12",
-     "title": "響都超特急",
-     "kind": "フェス",
-     "venue": "京都パルスプラザ（京都）",
-     "source_url": "https://kue.rotten-g.com/26/artist",
      "confidence": "high"
     }
    ]
@@ -2619,6 +2619,14 @@
      "confidence": "high"
     },
     {
+     "date": "2026-12-12",
+     "title": "響都超特急",
+     "kind": "フェス",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-13",
      "title": "響都超特急（12/13）",
      "kind": "フェス",
@@ -2648,14 +2656,6 @@
      "kind": "フェス",
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-12-12",
-     "title": "響都超特急",
-     "kind": "フェス",
-     "venue": "京都パルスプラザ（京都）",
-     "source_url": "https://kue.rotten-g.com/26/artist",
      "confidence": "high"
     }
    ]
@@ -3153,6 +3153,14 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-12-12",
+     "title": "響都超特急",
+     "kind": "フェス",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-13",
      "title": "響都超特急（12/13）",
      "kind": "フェス",
@@ -3166,14 +3174,6 @@
      "kind": "フェス",
      "venue": "TOYOTA ARENA TOKYO（東京）",
      "source_url": "https://eplus.jp/new-horizon-fest/",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-12-12",
-     "title": "響都超特急",
-     "kind": "フェス",
-     "venue": "京都パルスプラザ（京都）",
-     "source_url": "https://kue.rotten-g.com/26/artist",
      "confidence": "high"
     }
    ]
@@ -3612,6 +3612,14 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-11-28",
+     "title": "PSYCHIC FES",
+     "kind": "フェス",
+     "venue": "大阪",
+     "source_url": "https://pkshampoo.jp/psychicfes/artist.html",
+     "confidence": "high"
+    },
+    {
      "date": "2026-11-29",
      "title": "革命ロジック",
      "kind": "フェス",
@@ -3907,6 +3915,14 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-11-27",
+     "title": "ロックアンセム -BY ROCK LOVERS , FOR ROCK LOVERS-",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://rock-anthem.jp/",
+     "confidence": "high"
+    },
+    {
      "date": "2026-11-28",
      "title": "ロックアンセムEX（11/28）",
      "kind": "フェス",
@@ -3929,14 +3945,6 @@
      "venue": "（東京）",
      "source_url": "https://www.ragnet.co.jp/rock-festival",
      "confidence": "low"
-    },
-    {
-     "date": "2026-11-27",
-     "title": "ロックアンセム -BY ROCK LOVERS , FOR ROCK LOVERS-",
-     "kind": "フェス",
-     "venue": "（東京）",
-     "source_url": "https://rock-anthem.jp/",
-     "confidence": "high"
     }
    ]
   },
@@ -3991,6 +3999,14 @@
      "confidence": "high"
     },
     {
+     "date": "2026-12-12",
+     "title": "響都超特急",
+     "kind": "フェス",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-13",
      "title": "響都超特急（12/13）",
      "kind": "フェス",
@@ -4020,14 +4036,6 @@
      "kind": "フェス",
      "venue": "別府ビーコンプラザ（大分県）",
      "source_url": "https://www.billboard-japan.com/d_news/detail/166666/2",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-12-12",
-     "title": "響都超特急",
-     "kind": "フェス",
-     "venue": "京都パルスプラザ（京都）",
-     "source_url": "https://kue.rotten-g.com/26/artist",
      "confidence": "high"
     }
    ]
@@ -4094,6 +4102,14 @@
      "confidence": "high"
     },
     {
+     "date": "2026-12-12",
+     "title": "響都超特急",
+     "kind": "フェス",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-13",
      "title": "響都超特急（12/13）",
      "kind": "フェス",
@@ -4124,14 +4140,6 @@
      "venue": "神戸ワールド記念ホール（兵庫県）",
      "source_url": "https://lasvegas-jp.com/live/9288",
      "confidence": "low"
-    },
-    {
-     "date": "2026-12-12",
-     "title": "響都超特急",
-     "kind": "フェス",
-     "venue": "京都パルスプラザ（京都）",
-     "source_url": "https://kue.rotten-g.com/26/artist",
-     "confidence": "high"
     }
    ]
   },
@@ -4152,6 +4160,14 @@
      "kind": "フェス",
      "venue": "京都パルスプラザ（京都）",
      "source_url": "https://kue.rotten-g.com/26/artist/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-12",
+     "title": "響都超特急",
+     "kind": "フェス",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist",
      "confidence": "high"
     },
     {
@@ -4193,14 +4209,6 @@
      "venue": "神戸ワールド記念ホール（兵庫県）",
      "source_url": "https://lasvegas-jp.com/live/9288",
      "confidence": "low"
-    },
-    {
-     "date": "2026-12-12",
-     "title": "響都超特急",
-     "kind": "フェス",
-     "venue": "京都パルスプラザ（京都）",
-     "source_url": "https://kue.rotten-g.com/26/artist",
-     "confidence": "high"
     }
    ]
   },
@@ -4405,19 +4413,19 @@
      "confidence": "high"
     },
     {
-     "date": "2026-12-19",
-     "title": "MERRY ROCK PARADE 2026（12/19）",
-     "kind": "フェス",
-     "venue": "ポートメッセなごや（愛知県）",
-     "source_url": "https://www.merryrockparade.jp/artist.html",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-12",
      "title": "響都超特急",
      "kind": "フェス",
      "venue": "京都パルスプラザ（京都）",
      "source_url": "https://kue.rotten-g.com/26/artist",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-19",
+     "title": "MERRY ROCK PARADE 2026（12/19）",
+     "kind": "フェス",
+     "venue": "ポートメッセなごや（愛知県）",
+     "source_url": "https://www.merryrockparade.jp/artist.html",
      "confidence": "high"
     }
    ]
@@ -4544,6 +4552,14 @@
      "confidence": "high"
     },
     {
+     "date": "2026-12-12",
+     "title": "響都超特急",
+     "kind": "フェス",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-28",
      "title": "RADIO CRAZY（12/28）",
      "kind": "フェス",
@@ -4557,14 +4573,6 @@
      "kind": "フェス",
      "venue": "幕張メッセ（千葉県）",
      "source_url": "https://countdownjapan.jp/",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-12-12",
-     "title": "響都超特急",
-     "kind": "フェス",
-     "venue": "京都パルスプラザ（京都）",
-     "source_url": "https://kue.rotten-g.com/26/artist",
      "confidence": "high"
     }
    ]
@@ -4675,6 +4683,14 @@
      "confidence": "high"
     },
     {
+     "date": "2026-12-12",
+     "title": "響都超特急",
+     "kind": "フェス",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-13",
      "title": "響都超特急（12/13）",
      "kind": "フェス",
@@ -4705,14 +4721,6 @@
      "venue": "別府ビーコンプラザ（大分県）",
      "source_url": "https://www.billboard-japan.com/d_news/detail/166666/2",
      "confidence": "high"
-    },
-    {
-     "date": "2026-12-12",
-     "title": "響都超特急",
-     "kind": "フェス",
-     "venue": "京都パルスプラザ（京都）",
-     "source_url": "https://kue.rotten-g.com/26/artist",
-     "confidence": "high"
     }
    ]
   },
@@ -4733,6 +4741,14 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-12-12",
+     "title": "響都超特急",
+     "kind": "フェス",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-13",
      "title": "響都超特急（12/13）",
      "kind": "フェス",
@@ -4746,14 +4762,6 @@
      "kind": "フェス",
      "venue": "Zepp DiverCity(TOKYO)（東京都）",
      "source_url": "https://spice.eplus.jp/articles/349354",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-12-12",
-     "title": "響都超特急",
-     "kind": "フェス",
-     "venue": "京都パルスプラザ（京都）",
-     "source_url": "https://kue.rotten-g.com/26/artist",
      "confidence": "high"
     }
    ]
@@ -5127,6 +5135,14 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-11-27",
+     "title": "ロックアンセム -BY ROCK LOVERS , FOR ROCK LOVERS-",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://rock-anthem.jp/",
+     "confidence": "high"
+    },
+    {
      "date": "2026-11-29",
      "title": "ロックアンセムEX（11/29）",
      "kind": "フェス",
@@ -5148,14 +5164,6 @@
      "kind": "フェス",
      "venue": "INTEX OSAKA（大阪府）",
      "source_url": "https://radiocrazy.fm/",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-11-27",
-     "title": "ロックアンセム -BY ROCK LOVERS , FOR ROCK LOVERS-",
-     "kind": "フェス",
-     "venue": "（東京）",
-     "source_url": "https://rock-anthem.jp/",
      "confidence": "high"
     }
    ]
@@ -5193,6 +5201,14 @@
      "confidence": "high"
     },
     {
+     "date": "2026-11-27",
+     "title": "ロックアンセム -BY ROCK LOVERS , FOR ROCK LOVERS-",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://rock-anthem.jp/",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-26",
      "title": "RADIO CRAZY",
      "kind": "フェス",
@@ -5207,7 +5223,12 @@
      "venue": "INTEX OSAKA（大阪府）",
      "source_url": "https://radiocrazy.fm/",
      "confidence": "high"
-    },
+    }
+   ]
+  },
+  "TenTwenty": {
+   "aliases": [],
+   "events": [
     {
      "date": "2026-11-27",
      "title": "ロックアンセム -BY ROCK LOVERS , FOR ROCK LOVERS-",
@@ -5215,12 +5236,7 @@
      "venue": "（東京）",
      "source_url": "https://rock-anthem.jp/",
      "confidence": "high"
-    }
-   ]
-  },
-  "TenTwenty": {
-   "aliases": [],
-   "events": [
+    },
     {
      "date": "2026-11-29",
      "title": "ロックアンセムEX（11/29）",
@@ -5251,14 +5267,6 @@
      "kind": "フェス",
      "venue": "幕張メッセ（千葉県）",
      "source_url": "https://countdownjapan.jp/",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-11-27",
-     "title": "ロックアンセム -BY ROCK LOVERS , FOR ROCK LOVERS-",
-     "kind": "フェス",
-     "venue": "（東京）",
-     "source_url": "https://rock-anthem.jp/",
      "confidence": "high"
     }
    ]
@@ -5399,6 +5407,14 @@
      "confidence": "high"
     },
     {
+     "date": "2026-12-12",
+     "title": "響都超特急",
+     "kind": "フェス",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-28",
      "title": "NEW HORIZON FEST",
      "kind": "フェス",
@@ -5412,14 +5428,6 @@
      "kind": "フェス",
      "venue": "別府ビーコンプラザ（大分県）",
      "source_url": "https://www.billboard-japan.com/d_news/detail/166666/2",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-12-12",
-     "title": "響都超特急",
-     "kind": "フェス",
-     "venue": "京都パルスプラザ（京都）",
-     "source_url": "https://kue.rotten-g.com/26/artist",
      "confidence": "high"
     }
    ]
@@ -7500,19 +7508,19 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-12-13",
-     "title": "響都超特急（12/13）",
-     "kind": "フェス",
-     "venue": "京都パルスプラザ（京都）",
-     "source_url": "https://kue.rotten-g.com/26/artist/",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-12",
      "title": "響都超特急",
      "kind": "フェス",
      "venue": "京都パルスプラザ（京都）",
      "source_url": "https://kue.rotten-g.com/26/artist",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-13",
+     "title": "響都超特急（12/13）",
+     "kind": "フェス",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist/",
      "confidence": "high"
     }
    ]
@@ -7689,19 +7697,19 @@
      "confidence": "high"
     },
     {
-     "date": "2026-12-28",
-     "title": "RADIO CRAZY（12/28）",
-     "kind": "フェス",
-     "venue": "INTEX OSAKA（大阪府）",
-     "source_url": "https://eplus.jp/radiocrazy2026/",
-     "confidence": "high"
-    },
-    {
      "date": "2026-11-27",
      "title": "ロックアンセム -BY ROCK LOVERS , FOR ROCK LOVERS-",
      "kind": "フェス",
      "venue": "（東京）",
      "source_url": "https://rock-anthem.jp/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-28",
+     "title": "RADIO CRAZY（12/28）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://eplus.jp/radiocrazy2026/",
      "confidence": "high"
     }
    ]
@@ -7731,6 +7739,14 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-11-27",
+     "title": "ロックアンセム -BY ROCK LOVERS , FOR ROCK LOVERS-",
+     "kind": "フェス",
+     "venue": "（東京）",
+     "source_url": "https://rock-anthem.jp/",
+     "confidence": "high"
+    },
+    {
      "date": "2026-11-28",
      "title": "ロックアンセムEX（11/28）",
      "kind": "フェス",
@@ -7745,14 +7761,6 @@
      "venue": "INTEX OSAKA（大阪府）",
      "source_url": "https://eplus.jp/radiocrazy2026/",
      "confidence": "high"
-    },
-    {
-     "date": "2026-11-27",
-     "title": "ロックアンセム -BY ROCK LOVERS , FOR ROCK LOVERS-",
-     "kind": "フェス",
-     "venue": "（東京）",
-     "source_url": "https://rock-anthem.jp/",
-     "confidence": "high"
     }
    ]
   },
@@ -7760,18 +7768,18 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-11-28",
-     "title": "ロックアンセムEX（11/28）",
-     "kind": "フェス",
-     "venue": "EX THEATER ROPPONGI（東京）",
-     "source_url": "https://rock-anthem.jp/",
-     "confidence": "high"
-    },
-    {
      "date": "2026-11-27",
      "title": "ロックアンセム -BY ROCK LOVERS , FOR ROCK LOVERS-",
      "kind": "フェス",
      "venue": "（東京）",
+     "source_url": "https://rock-anthem.jp/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-11-28",
+     "title": "ロックアンセムEX（11/28）",
+     "kind": "フェス",
+     "venue": "EX THEATER ROPPONGI（東京）",
      "source_url": "https://rock-anthem.jp/",
      "confidence": "high"
     }
@@ -7781,18 +7789,18 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-11-29",
-     "title": "ロックアンセムEX（11/29）",
-     "kind": "フェス",
-     "venue": "EX THEATER ROPPONGI（東京）",
-     "source_url": "https://rock-anthem.jp/",
-     "confidence": "high"
-    },
-    {
      "date": "2026-11-27",
      "title": "ロックアンセム -BY ROCK LOVERS , FOR ROCK LOVERS-",
      "kind": "フェス",
      "venue": "（東京）",
+     "source_url": "https://rock-anthem.jp/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-11-29",
+     "title": "ロックアンセムEX（11/29）",
+     "kind": "フェス",
+     "venue": "EX THEATER ROPPONGI（東京）",
      "source_url": "https://rock-anthem.jp/",
      "confidence": "high"
     }
@@ -7831,19 +7839,19 @@
      "confidence": "high"
     },
     {
-     "date": "2026-12-13",
-     "title": "響都超特急（12/13）",
-     "kind": "フェス",
-     "venue": "京都パルスプラザ（京都）",
-     "source_url": "https://kue.rotten-g.com/26/artist/",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-12",
      "title": "響都超特急",
      "kind": "フェス",
      "venue": "京都パルスプラザ（京都）",
      "source_url": "https://kue.rotten-g.com/26/artist",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-13",
+     "title": "響都超特急（12/13）",
+     "kind": "フェス",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist/",
      "confidence": "high"
     }
    ]
@@ -8546,19 +8554,6 @@
      "kind": "フェス",
      "venue": "下北沢界隈(複数ライブハウス)（東京都）",
      "source_url": "https://www.ragnet.co.jp/music-festival-winter",
-     "confidence": "high"
-    }
-   ]
-  },
-  "SuU": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-28",
-     "title": "PSYCHIC FES",
-     "kind": "フェス",
-     "venue": "（大阪）",
-     "source_url": "https://pkshampoo.jp/psychicfes/artist.html",
      "confidence": "high"
     }
    ]
@@ -10800,6 +10795,14 @@
      "venue": "下北沢界隈(複数ライブハウス)（東京都）",
      "source_url": "https://www.ragnet.co.jp/music-festival-winter",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-06",
+     "title": "Oaiko FES 2026 winter",
+     "kind": "フェス",
+     "venue": "渋谷9会場（CLUB QUATTRO、GARRET udagawa、CUTUP STUDIO、Shibuya PIT ZERO、TOKIO TOKYO、FOWS、DOMMUNE、QUATTRO LABO、XXI）（東京）",
+     "source_url": "https://prtimes.jp/main/html/rd/p/000003985.000003639.html",
+     "confidence": "high"
     }
    ]
   },
@@ -11296,6 +11299,14 @@
      "kind": "フェス",
      "venue": "下北沢界隈(複数ライブハウス)（東京都）",
      "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-06",
+     "title": "Oaiko FES 2026 winter",
+     "kind": "フェス",
+     "venue": "渋谷9会場（CLUB QUATTRO、GARRET udagawa、CUTUP STUDIO、Shibuya PIT ZERO、TOKIO TOKYO、FOWS、DOMMUNE、QUATTRO LABO、XXI）（東京）",
+     "source_url": "https://prtimes.jp/main/html/rd/p/000003985.000003639.html",
      "confidence": "high"
     }
    ]
@@ -12324,6 +12335,14 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-11-28",
+     "title": "PSYCHIC FES",
+     "kind": "フェス",
+     "venue": "大阪",
+     "source_url": "https://pkshampoo.jp/psychicfes/artist.html",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-05",
      "title": "下北沢にて（12/5）",
      "kind": "フェス",
@@ -12826,19 +12845,19 @@
    ],
    "events": [
     {
-     "date": "2026-12-13",
-     "title": "響都超特急（12/13）",
-     "kind": "フェス",
-     "venue": "京都パルスプラザ（京都）",
-     "source_url": "https://kue.rotten-g.com/26/artist/",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-12",
      "title": "響都超特急",
      "kind": "フェス",
      "venue": "京都パルスプラザ（京都）",
      "source_url": "https://kue.rotten-g.com/26/artist",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-13",
+     "title": "響都超特急（12/13）",
+     "kind": "フェス",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist/",
      "confidence": "high"
     }
    ]
@@ -12846,6 +12865,14 @@
   "JUN SKY WALKER(S)": {
    "aliases": [],
    "events": [
+    {
+     "date": "2026-12-12",
+     "title": "響都超特急",
+     "kind": "フェス",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist",
+     "confidence": "high"
+    },
     {
      "date": "2026-12-13",
      "title": "響都超特急（12/13）",
@@ -12869,7 +12896,12 @@
      "venue": "別府ビーコンプラザ（大分県）",
      "source_url": "https://www.billboard-japan.com/d_news/detail/166666/2",
      "confidence": "high"
-    },
+    }
+   ]
+  },
+  "Knosis": {
+   "aliases": [],
+   "events": [
     {
      "date": "2026-12-12",
      "title": "響都超特急",
@@ -12877,12 +12909,7 @@
      "venue": "京都パルスプラザ（京都）",
      "source_url": "https://kue.rotten-g.com/26/artist",
      "confidence": "high"
-    }
-   ]
-  },
-  "Knosis": {
-   "aliases": [],
-   "events": [
+    },
     {
      "date": "2026-12-13",
      "title": "響都超特急（12/13）",
@@ -12897,14 +12924,6 @@
      "kind": "フェス",
      "venue": "豊洲PIT（東京）",
      "source_url": "https://festival-life.com/169100",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-12-12",
-     "title": "響都超特急",
-     "kind": "フェス",
-     "venue": "京都パルスプラザ（京都）",
-     "source_url": "https://kue.rotten-g.com/26/artist",
      "confidence": "high"
     }
    ]
@@ -17045,19 +17064,19 @@
    "aliases": [],
    "events": [
     {
-     "date": "2027-03-13",
-     "title": "ANISAMA FUKUOKA 2027（3/13）",
-     "kind": "フェス",
-     "venue": "みずほPayPayドーム福岡（福岡県）",
-     "source_url": "https://anisama.tv/2027/fukuoka/",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-20",
      "title": "AniCore",
      "kind": "フェス",
      "venue": "（愛知県）",
      "source_url": "https://www.ragnet.co.jp/music-festival-aichi-2016/4",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-03-13",
+     "title": "ANISAMA FUKUOKA 2027（3/13）",
+     "kind": "フェス",
+     "venue": "みずほPayPayドーム福岡（福岡県）",
+     "source_url": "https://anisama.tv/2027/fukuoka/",
      "confidence": "high"
     }
    ]
@@ -18751,6 +18770,422 @@
      "kind": "フェス",
      "venue": "（愛知県）",
      "source_url": "https://www.ragnet.co.jp/music-festival-aichi-2016/4",
+     "confidence": "high"
+    }
+   ]
+  },
+  "totemぽぉる": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-28",
+     "title": "PSYCHIC FES",
+     "kind": "フェス",
+     "venue": "大阪",
+     "source_url": "https://pkshampoo.jp/psychicfes/artist.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "林直大(多次元制御機構よだか)": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-28",
+     "title": "PSYCHIC FES",
+     "kind": "フェス",
+     "venue": "大阪",
+     "source_url": "https://pkshampoo.jp/psychicfes/artist.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "オニザワマシロ(超☆社会的サンダル)": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-28",
+     "title": "PSYCHIC FES",
+     "kind": "フェス",
+     "venue": "大阪",
+     "source_url": "https://pkshampoo.jp/psychicfes/artist.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "クニタケヒロキ(THE FOREVER YOUNG)": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-28",
+     "title": "PSYCHIC FES",
+     "kind": "フェス",
+     "venue": "大阪",
+     "source_url": "https://pkshampoo.jp/psychicfes/artist.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "DJ KOGA": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-28",
+     "title": "PSYCHIC FES",
+     "kind": "フェス",
+     "venue": "大阪",
+     "source_url": "https://pkshampoo.jp/psychicfes/artist.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "dj sleeper": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-28",
+     "title": "PSYCHIC FES",
+     "kind": "フェス",
+     "venue": "大阪",
+     "source_url": "https://pkshampoo.jp/psychicfes/artist.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "田村晴信(171)": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-28",
+     "title": "PSYCHIC FES",
+     "kind": "フェス",
+     "venue": "大阪",
+     "source_url": "https://pkshampoo.jp/psychicfes/artist.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "でぶコーネリアスEX": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-28",
+     "title": "PSYCHIC FES",
+     "kind": "フェス",
+     "venue": "大阪",
+     "source_url": "https://pkshampoo.jp/psychicfes/artist.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "流田Project": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-28",
+     "title": "PSYCHIC FES",
+     "kind": "フェス",
+     "venue": "大阪",
+     "source_url": "https://pkshampoo.jp/psychicfes/artist.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "LARGE400": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-28",
+     "title": "PSYCHIC FES",
+     "kind": "フェス",
+     "venue": "大阪",
+     "source_url": "https://pkshampoo.jp/psychicfes/artist.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "渡邉九歳(ザ・シスターズハイ)": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-28",
+     "title": "PSYCHIC FES",
+     "kind": "フェス",
+     "venue": "大阪",
+     "source_url": "https://pkshampoo.jp/psychicfes/artist.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "OZworld": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-19",
+     "title": "HY SKY Fes 2027 & 前夜祭（3/19〜3/21のいずれか）",
+     "kind": "フェス",
+     "venue": "沖縄県総合運動公園 多目的広場",
+     "source_url": "https://skyfes.net/contents/topics/artist",
+     "confidence": "low"
+    }
+   ]
+  },
+  "中島美嘉": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-19",
+     "title": "HY SKY Fes 2027 & 前夜祭（3/19〜3/21のいずれか）",
+     "kind": "フェス",
+     "venue": "沖縄県総合運動公園 多目的広場",
+     "source_url": "https://skyfes.net/contents/topics/artist",
+     "confidence": "low"
+    }
+   ]
+  },
+  "D-51": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-19",
+     "title": "HY SKY Fes 2027 & 前夜祭（3/19〜3/21のいずれか）",
+     "kind": "フェス",
+     "venue": "沖縄県総合運動公園 多目的広場",
+     "source_url": "https://skyfes.net/contents/topics/artist",
+     "confidence": "low"
+    }
+   ]
+  },
+  "THE・ステレオギャング": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-19",
+     "title": "HY SKY Fes 2027 & 前夜祭（3/19〜3/21のいずれか）",
+     "kind": "フェス",
+     "venue": "沖縄県総合運動公園 多目的広場",
+     "source_url": "https://skyfes.net/contents/topics/artist",
+     "confidence": "low"
+    }
+   ]
+  },
+  "RYU": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-19",
+     "title": "HY SKY Fes 2027 & 前夜祭（3/19〜3/21のいずれか）",
+     "kind": "フェス",
+     "venue": "沖縄県総合運動公園 多目的広場",
+     "source_url": "https://skyfes.net/contents/topics/artist",
+     "confidence": "low"
+    }
+   ]
+  },
+  "sometimes": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-04",
+     "title": "BLAZE UP NAGASAKI（12/4）",
+     "kind": "フェス",
+     "venue": "出島メッセ長崎",
+     "source_url": "https://satanic.jp/contents/1114292",
+     "confidence": "high"
+    }
+   ]
+  },
+  "CODE AXE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-04",
+     "title": "BLAZE UP NAGASAKI（12/4）",
+     "kind": "フェス",
+     "venue": "出島メッセ長崎",
+     "source_url": "https://satanic.jp/contents/1114292",
+     "confidence": "high"
+    }
+   ]
+  },
+  "yeti let you notice": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "Oaiko FES 2026 winter",
+     "kind": "フェス",
+     "venue": "渋谷9会場（CLUB QUATTRO、GARRET udagawa、CUTUP STUDIO、Shibuya PIT ZERO、TOKIO TOKYO、FOWS、DOMMUNE、QUATTRO LABO、XXI）（東京）",
+     "source_url": "https://prtimes.jp/main/html/rd/p/000003985.000003639.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "kaza": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "Oaiko FES 2026 winter",
+     "kind": "フェス",
+     "venue": "渋谷9会場（CLUB QUATTRO、GARRET udagawa、CUTUP STUDIO、Shibuya PIT ZERO、TOKIO TOKYO、FOWS、DOMMUNE、QUATTRO LABO、XXI）（東京）",
+     "source_url": "https://prtimes.jp/main/html/rd/p/000003985.000003639.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "colormal": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "Oaiko FES 2026 winter",
+     "kind": "フェス",
+     "venue": "渋谷9会場（CLUB QUATTRO、GARRET udagawa、CUTUP STUDIO、Shibuya PIT ZERO、TOKIO TOKYO、FOWS、DOMMUNE、QUATTRO LABO、XXI）（東京）",
+     "source_url": "https://prtimes.jp/main/html/rd/p/000003985.000003639.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "SEE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "Oaiko FES 2026 winter",
+     "kind": "フェス",
+     "venue": "渋谷9会場（CLUB QUATTRO、GARRET udagawa、CUTUP STUDIO、Shibuya PIT ZERO、TOKIO TOKYO、FOWS、DOMMUNE、QUATTRO LABO、XXI）（東京）",
+     "source_url": "https://prtimes.jp/main/html/rd/p/000003985.000003639.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "17歳とベルリンの壁": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "Oaiko FES 2026 winter",
+     "kind": "フェス",
+     "venue": "渋谷9会場（CLUB QUATTRO、GARRET udagawa、CUTUP STUDIO、Shibuya PIT ZERO、TOKIO TOKYO、FOWS、DOMMUNE、QUATTRO LABO、XXI）（東京）",
+     "source_url": "https://prtimes.jp/main/html/rd/p/000003985.000003639.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "死んだ僕の彼女": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "Oaiko FES 2026 winter",
+     "kind": "フェス",
+     "venue": "渋谷9会場（CLUB QUATTRO、GARRET udagawa、CUTUP STUDIO、Shibuya PIT ZERO、TOKIO TOKYO、FOWS、DOMMUNE、QUATTRO LABO、XXI）（東京）",
+     "source_url": "https://prtimes.jp/main/html/rd/p/000003985.000003639.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "水中スピカ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "Oaiko FES 2026 winter",
+     "kind": "フェス",
+     "venue": "渋谷9会場（CLUB QUATTRO、GARRET udagawa、CUTUP STUDIO、Shibuya PIT ZERO、TOKIO TOKYO、FOWS、DOMMUNE、QUATTRO LABO、XXI）（東京）",
+     "source_url": "https://prtimes.jp/main/html/rd/p/000003985.000003639.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "TIDAL CLUB": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "Oaiko FES 2026 winter",
+     "kind": "フェス",
+     "venue": "渋谷9会場（CLUB QUATTRO、GARRET udagawa、CUTUP STUDIO、Shibuya PIT ZERO、TOKIO TOKYO、FOWS、DOMMUNE、QUATTRO LABO、XXI）（東京）",
+     "source_url": "https://prtimes.jp/main/html/rd/p/000003985.000003639.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "tiny yawn": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "Oaiko FES 2026 winter",
+     "kind": "フェス",
+     "venue": "渋谷9会場（CLUB QUATTRO、GARRET udagawa、CUTUP STUDIO、Shibuya PIT ZERO、TOKIO TOKYO、FOWS、DOMMUNE、QUATTRO LABO、XXI）（東京）",
+     "source_url": "https://prtimes.jp/main/html/rd/p/000003985.000003639.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "hardnuts": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "Oaiko FES 2026 winter",
+     "kind": "フェス",
+     "venue": "渋谷9会場（CLUB QUATTRO、GARRET udagawa、CUTUP STUDIO、Shibuya PIT ZERO、TOKIO TOKYO、FOWS、DOMMUNE、QUATTRO LABO、XXI）（東京）",
+     "source_url": "https://prtimes.jp/main/html/rd/p/000003985.000003639.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "pudelhunds": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "Oaiko FES 2026 winter",
+     "kind": "フェス",
+     "venue": "渋谷9会場（CLUB QUATTRO、GARRET udagawa、CUTUP STUDIO、Shibuya PIT ZERO、TOKIO TOKYO、FOWS、DOMMUNE、QUATTRO LABO、XXI）（東京）",
+     "source_url": "https://prtimes.jp/main/html/rd/p/000003985.000003639.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "fulusu": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "Oaiko FES 2026 winter",
+     "kind": "フェス",
+     "venue": "渋谷9会場（CLUB QUATTRO、GARRET udagawa、CUTUP STUDIO、Shibuya PIT ZERO、TOKIO TOKYO、FOWS、DOMMUNE、QUATTRO LABO、XXI）（東京）",
+     "source_url": "https://prtimes.jp/main/html/rd/p/000003985.000003639.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "MoritaSaki in the pool": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "Oaiko FES 2026 winter",
+     "kind": "フェス",
+     "venue": "渋谷9会場（CLUB QUATTRO、GARRET udagawa、CUTUP STUDIO、Shibuya PIT ZERO、TOKIO TOKYO、FOWS、DOMMUNE、QUATTRO LABO、XXI）（東京）",
+     "source_url": "https://prtimes.jp/main/html/rd/p/000003985.000003639.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "LOLOET": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "Oaiko FES 2026 winter",
+     "kind": "フェス",
+     "venue": "渋谷9会場（CLUB QUATTRO、GARRET udagawa、CUTUP STUDIO、Shibuya PIT ZERO、TOKIO TOKYO、FOWS、DOMMUNE、QUATTRO LABO、XXI）（東京）",
+     "source_url": "https://prtimes.jp/main/html/rd/p/000003985.000003639.html",
      "confidence": "high"
     }
    ]
