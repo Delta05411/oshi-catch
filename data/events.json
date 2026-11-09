@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T07:10:00+09:00",
+ "updated": "2026-11-09T20:07:00+09:00",
  "artists": [
   "04 Limited Sazabys",
   "ELLEGARDEN",
@@ -5492,6 +5492,16 @@
    ]
   },
   {
+   "artist": "Wienners",
+   "date": "2026-12-29",
+   "title": "ViolentPops vol.82 \"IdolPunch vs 四星球\"（玉屋2060% DJ出演）",
+   "kind": "イベント",
+   "venue": "下北沢SHELTER（東京）",
+   "with": "IdolPunch / 四星球",
+   "source_url": "https://wienners.net/live",
+   "confidence": "low"
+  },
+  {
    "artist": "ROTTENGRAFFTY",
    "date": "2026-12-30",
    "title": "J 2026「放火魔大暴年会」（2025年12/30公演の振替開催）",
@@ -8489,6 +8499,15 @@
    "confidence": "high"
   },
   {
+   "artist": "ヤバイTシャツ屋さん",
+   "date": "2027-03-13",
+   "title": "RUMBLE×JAG 2027（3/13・14のどちらか。出演日未定）",
+   "kind": "フェス",
+   "venue": "AICHI SKY EXPO（愛知）",
+   "source_url": "https://yabaitshirtsyasan.com/news/",
+   "confidence": "low"
+  },
+  {
    "artist": "HEY-SMITH",
    "date": "2027-03-14",
    "title": "HEY-SMITH 20th ANNIVERSARY『ALL OVER JAPAN TOUR』",
@@ -11463,7 +11482,7 @@
    "pref": "埼玉",
    "status": "unknown",
    "source_url": "https://www.ragnet.co.jp/rock-festival",
-   "lineup_checked": "2026-11-07",
+   "lineup_checked": "2026-11-09",
    "venue": "早川農場693倉庫",
    "official_url": "https://camp-fire.jp/projects/852612/view",
    "image": "https://static.camp-fire.jp/uploads/project_version/image/1448834/be578ab4-a1f8-4dae-bb60-a5aa11126b1d.jpeg?auto=format&fit=fill&ref=projects_overview&w=1200&h=675&fill=blur"
@@ -11475,7 +11494,7 @@
    "pref": "岩手",
    "status": "unknown",
    "source_url": "https://www.ragnet.co.jp/rock-festival",
-   "lineup_checked": "2026-11-07",
+   "lineup_checked": "2026-11-09",
    "note": "出演バンドは一般公募",
    "venue": "岩手広域交流センター プラザあい"
   },
@@ -11526,7 +11545,7 @@
      "note": "10:00〜 イープラス ※9/11完売"
     }
    ],
-   "lineup_checked": "2026-11-06",
+   "lineup_checked": "2026-11-09",
    "lineup_days": {
     "2026-11-21": [
      "ハルカミライ",
@@ -11910,7 +11929,7 @@
      "note": "20:00〜 締切は未確認"
     }
    ],
-   "lineup_checked": "2026-11-06",
+   "lineup_checked": "2026-11-09",
    "lineup_days": {
     "2026-11-22": [
      "Maki",
@@ -11933,7 +11952,7 @@
    "pref": "東京",
    "status": "lineup",
    "source_url": "https://www.ragnet.co.jp/rock-festival",
-   "lineup_checked": "2026-11-06",
+   "lineup_checked": "2026-11-09",
    "lineup": [
     "Adept",
     "After the Burial",
@@ -12235,10 +12254,13 @@
     "Sunny Girl",
     "カネヨリマサル",
     "キュウソネコカミ",
-    "サバシスター"
+    "サバシスター",
+    "The BONEZ",
+    "COKEHEAD HIPSTERS",
+    "SA"
    ],
    "official_url": "http://masterpiece-gifu.com/",
-   "lineup_checked": "2026-11-06",
+   "lineup_checked": "2026-11-09",
    "lineup_days": {
     "2026-11-28": [
      "04 Limited Sazabys",
@@ -12251,7 +12273,10 @@
      "May Forth",
      "STAB 4 REASON AND THE STYLES",
      "かずき山盛り",
-     "ヤバイTシャツ屋さん"
+     "ヤバイTシャツ屋さん",
+     "The BONEZ",
+     "COKEHEAD HIPSTERS",
+     "SA"
     ],
     "2026-11-29": [
      "Dizzy Sunfist",
@@ -13711,7 +13736,7 @@
     "xikers",
     "ZEROBASEONE"
    ],
-   "lineup_checked": "2026-11-04",
+   "lineup_checked": "2026-11-09",
    "source_url": "https://www.ragnet.co.jp/music-festival-winter",
    "lineup_days": {
     "2026-12-12": [
@@ -14342,7 +14367,7 @@
     "WurtS",
     "忘れらんねえよ"
    ],
-   "lineup_checked": "2026-11-05",
+   "lineup_checked": "2026-11-09",
    "sales": [
     {
      "label": "第1次抽選先行",
@@ -15343,7 +15368,7 @@
      "Dove Ellis"
     ]
    },
-   "lineup_checked": "2026-11-05",
+   "lineup_checked": "2026-11-09",
    "note": "洋楽のみ8組発表済み。公式URL・チケットは未確認",
    "source_url": "https://realsound.jp/2026/09/post-2523918.html",
    "ticket_name": "イープラス",
@@ -16187,7 +16212,7 @@
    "lineup": [
     "10-FEET"
    ],
-   "lineup_checked": "2026-11-05",
+   "lineup_checked": "2026-11-09",
    "lineup_days": {
     "2027-07-03": [
      "10-FEET"
@@ -16296,7 +16321,7 @@
    "note": "HEY-SMITH主催",
    "source_url": "https://natalie.mu/music/news/695216",
    "status": "lineup",
-   "lineup_checked": "2026-11-03"
+   "lineup_checked": "2026-11-09"
   },
   {
    "name": "Brewin' Groove Festival",
@@ -16313,9 +16338,17 @@
     "天々高々",
     "リュックと添い寝ごはん"
    ],
-   "lineup_checked": "2026-11-04",
+   "lineup_checked": "2026-11-09",
    "source_url": "https://realsound.jp/2026/10/post-2562535.html",
-   "image": "https://brewingroove.com/assets/images/common/ogp_20261023.jpg"
+   "image": "https://brewingroove.com/assets/images/common/ogp_20261023.jpg",
+   "sales": [
+    {
+     "label": "最速先着先行",
+     "start": "2026-10-23",
+     "end": "2026-11-15",
+     "note": "先着・10/23 19:00〜11/15 23:59"
+    }
+   ]
   },
   {
    "name": "カノフェス2027（サンドウィッチマン×狩野英孝×MUSIC）",
@@ -16397,7 +16430,7 @@
    ],
    "note": "出演者第1弾20組。開場13:30／開演15:00（両日）",
    "source_url": "https://yabaitshirtsyasan.com/news/299640/",
-   "lineup_checked": "2026-11-05",
+   "lineup_checked": "2026-11-09",
    "image": "https://anisama.tv/2027/fukuoka/assets/images/common/og_img.jpg"
   },
   {
@@ -16575,6 +16608,20 @@
    "source_url": "https://spice.eplus.jp/articles/349900",
    "note": "開催決定の報道のみ。出演者・チケット未発表。",
    "lineup_checked": "2026-11-08"
+  },
+  {
+   "name": "RUMBLE×JAG 2027",
+   "start": "2027-03-13",
+   "end": "2027-03-14",
+   "pref": "愛知県",
+   "venue": "AICHI SKY EXPO",
+   "status": "lineup",
+   "lineup": [
+    "ヤバイTシャツ屋さん"
+   ],
+   "lineup_checked": "2026-11-09",
+   "note": "公式発表が確認できた出演者のみ",
+   "source_url": "https://yabaitshirtsyasan.com/news/"
   }
  ],
  "artist_links": {
@@ -17052,14 +17099,14 @@
   },
   "ELLEGARDEN": {
    "state": "ok",
-   "checked": "2026-11-09T07:10:00+09:00",
+   "checked": "2026-11-09T20:07:00+09:00",
    "note": "10/23名古屋は延期（振替日程は調整中・未発表）",
    "news_checked": "2026-11-08T07:07:00+09:00"
   },
   "ヤバイTシャツ屋さん": {
    "state": "ok",
-   "checked": "2026-11-08T20:06:00+09:00",
-   "news_checked": "2026-11-08T20:06:00+09:00"
+   "checked": "2026-11-09T20:07:00+09:00",
+   "news_checked": "2026-11-09T20:07:00+09:00"
   },
   "ORAL CIGARETTES": {
    "state": "ok",
@@ -17068,12 +17115,12 @@
   },
   "HEY-SMITH": {
    "state": "ok",
-   "checked": "2026-11-09T07:10:00+09:00",
+   "checked": "2026-11-09T20:07:00+09:00",
    "news_checked": "2026-11-08T07:07:00+09:00"
   },
   "マキシマム ザ ホルモン": {
    "state": "ok",
-   "checked": "2026-11-07T20:30:00+09:00",
+   "checked": "2026-11-09T20:07:00+09:00",
    "news_checked": "2026-11-08T07:07:00+09:00"
   },
   "サンボマスター": {
@@ -17113,54 +17160,54 @@
   },
   "RADWIMPS": {
    "state": "ok",
-   "checked": "2026-11-06T07:07:00+09:00",
-   "news_checked": "2026-11-08T07:07:00+09:00"
+   "checked": "2026-11-09T20:07:00+09:00",
+   "news_checked": "2026-11-09T20:07:00+09:00"
   },
   "a flood of circle": {
    "state": "ok",
-   "checked": "2026-11-06T07:07:00+09:00",
-   "news_checked": "2026-11-08T07:07:00+09:00"
+   "checked": "2026-11-09T20:07:00+09:00",
+   "news_checked": "2026-11-09T20:07:00+09:00"
   },
   "THE KEBABS": {
    "state": "ok",
-   "checked": "2026-11-06T07:07:00+09:00",
-   "news_checked": "2026-11-08T07:07:00+09:00"
+   "checked": "2026-11-09T20:07:00+09:00",
+   "news_checked": "2026-11-09T20:07:00+09:00"
   },
   "coldrain": {
    "state": "ok",
-   "checked": "2026-11-06T07:07:00+09:00",
-   "news_checked": "2026-11-08T07:07:00+09:00"
+   "checked": "2026-11-09T20:07:00+09:00",
+   "news_checked": "2026-11-09T20:07:00+09:00"
   },
   "TenTwenty": {
    "state": "ok",
-   "checked": "2026-11-06T07:07:00+09:00",
-   "news_checked": "2026-11-08T07:07:00+09:00"
+   "checked": "2026-11-09T20:07:00+09:00",
+   "news_checked": "2026-11-09T20:07:00+09:00"
   },
   "Wienners": {
    "state": "ok",
-   "checked": "2026-11-06T20:10:00+09:00",
-   "news_checked": "2026-11-08T07:07:00+09:00"
+   "checked": "2026-11-09T20:07:00+09:00",
+   "news_checked": "2026-11-09T20:07:00+09:00"
   },
   "ハルカミライ": {
    "state": "ok",
-   "checked": "2026-11-06T20:10:00+09:00",
-   "news_checked": "2026-11-08T07:07:00+09:00"
+   "checked": "2026-11-09T20:07:00+09:00",
+   "news_checked": "2026-11-09T20:07:00+09:00"
   },
   "UNISON SQUARE GARDEN": {
    "state": "no_events",
-   "checked": "2026-11-07T20:30:00+09:00",
+   "checked": "2026-11-09T20:07:00+09:00",
    "note": "2026-04-27に活動休止を発表。最終公演は2026-07-15。再開の発表なし",
    "news_checked": "2026-11-08T07:07:00+09:00"
   },
   "Fear, and Loathing in Las Vegas": {
    "state": "ok",
-   "checked": "2026-11-06T20:10:00+09:00",
-   "news_checked": "2026-11-08T07:07:00+09:00"
+   "checked": "2026-11-09T20:07:00+09:00",
+   "news_checked": "2026-11-09T20:07:00+09:00"
   },
   "9mm Parabellum Bullet": {
    "state": "ok",
-   "checked": "2026-11-06T20:10:00+09:00",
-   "news_checked": "2026-11-08T07:07:00+09:00"
+   "checked": "2026-11-09T20:07:00+09:00",
+   "news_checked": "2026-11-09T20:07:00+09:00"
   },
   "斎藤宏介": {
    "state": "ok",
