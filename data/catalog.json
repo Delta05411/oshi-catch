@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T20:07:00+09:00",
+ "updated": "2026-11-10T07:12:00+09:00",
  "artists": {
   "Saucy Dog": {
    "aliases": [
@@ -1911,6 +1911,14 @@
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
      "confidence": "high"
+    },
+    {
+     "date": "2027-04-17",
+     "title": "ジゴロック大分2027 supported by ニカソー",
+     "kind": "フェス",
+     "venue": "大分スポーツ公園（大分）",
+     "source_url": "https://festival-life.com/169474",
+     "confidence": "high"
     }
    ]
   },
@@ -2952,6 +2960,14 @@
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
      "confidence": "high"
+    },
+    {
+     "date": "2027-04-17",
+     "title": "ジゴロック大分2027 supported by ニカソー",
+     "kind": "フェス",
+     "venue": "大分スポーツ公園（大分）",
+     "source_url": "https://festival-life.com/169474",
+     "confidence": "high"
     }
    ]
   },
@@ -3351,19 +3367,6 @@
    ]
   },
   "Adept": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-22",
-     "title": "TRUE NORTH FESTIVAL",
-     "kind": "フェス",
-     "venue": "（東京）",
-     "source_url": "https://crystallake-worldwide.com/",
-     "confidence": "low"
-    }
-   ]
-  },
-  "After the Burial": {
    "aliases": [],
    "events": [
     {
@@ -4406,6 +4409,14 @@
      "venue": "幕張メッセ（千葉県）",
      "source_url": "https://countdownjapan.jp/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-11-28",
+     "title": "ISHIGAKI FEST",
+     "kind": "フェス",
+     "venue": "石垣舟蔵の里（沖縄）",
+     "source_url": "https://kubihuri.com/live/live-4117/",
+     "confidence": "high"
     }
    ]
   },
@@ -4736,6 +4747,14 @@
      "kind": "フェス",
      "venue": "別府ビーコンプラザ（大分県）",
      "source_url": "https://www.billboard-japan.com/d_news/detail/166666/2",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-01-23",
+     "title": "浜松音球祭2027",
+     "kind": "フェス",
+     "venue": "Live House浜松 窓枠（静岡）",
+     "source_url": "https://rotten-g.com/live/detail/1287",
      "confidence": "high"
     }
    ]
@@ -6399,6 +6418,14 @@
      "venue": "神戸VARIT.ほか（兵庫県）",
      "source_url": "https://eplus.jp/sf/detail/K000000646",
      "confidence": "high"
+    },
+    {
+     "date": "2026-11-28",
+     "title": "ISHIGAKI FEST",
+     "kind": "フェス",
+     "venue": "石垣舟蔵の里（沖縄）",
+     "source_url": "https://kubihuri.com/live/live-4117/",
+     "confidence": "high"
     }
    ]
   },
@@ -6695,6 +6722,14 @@
      "kind": "フェス",
      "venue": "神戸VARIT.ほか（兵庫県）",
      "source_url": "https://eplus.jp/sf/detail/K000000646",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-11-23",
+     "title": "PANA FES",
+     "kind": "フェス",
+     "venue": "神戸 太陽と虎ほか（兵庫）",
+     "source_url": "https://ototoy.jp/news/132535",
      "confidence": "high"
     }
    ]
@@ -19322,6 +19357,656 @@
      "kind": "フェス",
      "venue": "岐阜市文化センター（岐阜）",
      "source_url": "http://masterpiece-gifu.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ジョージ紫": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "7th Heaven Festival",
+     "kind": "フェス",
+     "venue": "7th Heaven Koza（沖縄）",
+     "source_url": "https://ticketdive.com/event/7th-heaven-fes2026",
+     "confidence": "high"
+    }
+   ]
+  },
+  "高崎晃": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "7th Heaven Festival",
+     "kind": "フェス",
+     "venue": "7th Heaven Koza（沖縄）",
+     "source_url": "https://ticketdive.com/event/7th-heaven-fes2026",
+     "confidence": "high"
+    }
+   ]
+  },
+  "影山ヒロノブ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "7th Heaven Festival",
+     "kind": "フェス",
+     "venue": "7th Heaven Koza（沖縄）",
+     "source_url": "https://ticketdive.com/event/7th-heaven-fes2026",
+     "confidence": "high"
+    }
+   ]
+  },
+  "山下昌良": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "7th Heaven Festival",
+     "kind": "フェス",
+     "venue": "7th Heaven Koza（沖縄）",
+     "source_url": "https://ticketdive.com/event/7th-heaven-fes2026",
+     "confidence": "high"
+    }
+   ]
+  },
+  "GAO": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "7th Heaven Festival",
+     "kind": "フェス",
+     "venue": "7th Heaven Koza（沖縄）",
+     "source_url": "https://ticketdive.com/event/7th-heaven-fes2026",
+     "confidence": "high"
+    }
+   ]
+  },
+  "大賀好修": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "7th Heaven Festival",
+     "kind": "フェス",
+     "venue": "7th Heaven Koza（沖縄）",
+     "source_url": "https://ticketdive.com/event/7th-heaven-fes2026",
+     "confidence": "high"
+    }
+   ]
+  },
+  "大山まき": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "7th Heaven Festival",
+     "kind": "フェス",
+     "venue": "7th Heaven Koza（沖縄）",
+     "source_url": "https://ticketdive.com/event/7th-heaven-fes2026",
+     "confidence": "high"
+    }
+   ]
+  },
+  "RAY紫": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "7th Heaven Festival",
+     "kind": "フェス",
+     "venue": "7th Heaven Koza（沖縄）",
+     "source_url": "https://ticketdive.com/event/7th-heaven-fes2026",
+     "confidence": "high"
+    }
+   ]
+  },
+  "斉田和典": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "7th Heaven Festival",
+     "kind": "フェス",
+     "venue": "7th Heaven Koza（沖縄）",
+     "source_url": "https://ticketdive.com/event/7th-heaven-fes2026",
+     "confidence": "high"
+    }
+   ]
+  },
+  "LOUDSTORM": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "7th Heaven Festival",
+     "kind": "フェス",
+     "venue": "7th Heaven Koza（沖縄）",
+     "source_url": "https://ticketdive.com/event/7th-heaven-fes2026",
+     "confidence": "high"
+    }
+   ]
+  },
+  "森はるか": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "7th Heaven Festival",
+     "kind": "フェス",
+     "venue": "7th Heaven Koza（沖縄）",
+     "source_url": "https://ticketdive.com/event/7th-heaven-fes2026",
+     "confidence": "high"
+    }
+   ]
+  },
+  "MARI": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "7th Heaven Festival",
+     "kind": "フェス",
+     "venue": "7th Heaven Koza（沖縄）",
+     "source_url": "https://ticketdive.com/event/7th-heaven-fes2026",
+     "confidence": "high"
+    }
+   ]
+  },
+  "YUI": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "7th Heaven Festival",
+     "kind": "フェス",
+     "venue": "7th Heaven Koza（沖縄）",
+     "source_url": "https://ticketdive.com/event/7th-heaven-fes2026",
+     "confidence": "high"
+    }
+   ]
+  },
+  "SAWA": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "7th Heaven Festival",
+     "kind": "フェス",
+     "venue": "7th Heaven Koza（沖縄）",
+     "source_url": "https://ticketdive.com/event/7th-heaven-fes2026",
+     "confidence": "high"
+    }
+   ]
+  },
+  "桜花": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "7th Heaven Festival",
+     "kind": "フェス",
+     "venue": "7th Heaven Koza（沖縄）",
+     "source_url": "https://ticketdive.com/event/7th-heaven-fes2026",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Akira Takasaki & Friends DX": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "7th Heaven Festival",
+     "kind": "フェス",
+     "venue": "7th Heaven Koza（沖縄）",
+     "source_url": "https://ticketdive.com/event/7th-heaven-fes2026",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Heavy Metal Princess Academy": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "7th Heaven Festival",
+     "kind": "フェス",
+     "venue": "7th Heaven Koza（沖縄）",
+     "source_url": "https://ticketdive.com/event/7th-heaven-fes2026",
+     "confidence": "high"
+    }
+   ]
+  },
+  "7th Heaven SP Band": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "7th Heaven Festival",
+     "kind": "フェス",
+     "venue": "7th Heaven Koza（沖縄）",
+     "source_url": "https://ticketdive.com/event/7th-heaven-fes2026",
+     "confidence": "high"
+    }
+   ]
+  },
+  "F.O.D": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "7th Heaven Festival",
+     "kind": "フェス",
+     "venue": "7th Heaven Koza（沖縄）",
+     "source_url": "https://ticketdive.com/event/7th-heaven-fes2026",
+     "confidence": "high"
+    }
+   ]
+  },
+  "上条早紀": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "7th Heaven Festival",
+     "kind": "フェス",
+     "venue": "7th Heaven Koza（沖縄）",
+     "source_url": "https://ticketdive.com/event/7th-heaven-fes2026",
+     "confidence": "high"
+    }
+   ]
+  },
+  "GAO SP Unit": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "7th Heaven Festival",
+     "kind": "フェス",
+     "venue": "7th Heaven Koza（沖縄）",
+     "source_url": "https://ticketdive.com/event/7th-heaven-fes2026",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ulma sound junction": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-28",
+     "title": "ISHIGAKI FEST",
+     "kind": "フェス",
+     "venue": "石垣舟蔵の里（沖縄）",
+     "source_url": "https://kubihuri.com/live/live-4117/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "SEX MACHINEGUNS": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-28",
+     "title": "ISHIGAKI FEST",
+     "kind": "フェス",
+     "venue": "石垣舟蔵の里（沖縄）",
+     "source_url": "https://kubihuri.com/live/live-4117/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "アイリフドーパ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-28",
+     "title": "ISHIGAKI FEST",
+     "kind": "フェス",
+     "venue": "石垣舟蔵の里（沖縄）",
+     "source_url": "https://kubihuri.com/live/live-4117/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "SLOTHREAT": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-28",
+     "title": "ISHIGAKI FEST",
+     "kind": "フェス",
+     "venue": "石垣舟蔵の里（沖縄）",
+     "source_url": "https://kubihuri.com/live/live-4117/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ovEnola": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-28",
+     "title": "ISHIGAKI FEST",
+     "kind": "フェス",
+     "venue": "石垣舟蔵の里（沖縄）",
+     "source_url": "https://kubihuri.com/live/live-4117/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "discourage": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-28",
+     "title": "ISHIGAKI FEST",
+     "kind": "フェス",
+     "venue": "石垣舟蔵の里（沖縄）",
+     "source_url": "https://kubihuri.com/live/live-4117/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "AsAlliance (O.A.)": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-28",
+     "title": "ISHIGAKI FEST",
+     "kind": "フェス",
+     "venue": "石垣舟蔵の里（沖縄）",
+     "source_url": "https://kubihuri.com/live/live-4117/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "HisaoTamura": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-28",
+     "title": "ISHIGAKI FEST",
+     "kind": "フェス",
+     "venue": "石垣舟蔵の里（沖縄）",
+     "source_url": "https://kubihuri.com/live/live-4117/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "吉美四季": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-28",
+     "title": "ISHIGAKI FEST",
+     "kind": "フェス",
+     "venue": "石垣舟蔵の里（沖縄）",
+     "source_url": "https://kubihuri.com/live/live-4117/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "GOMESS": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-23",
+     "title": "PANA FES",
+     "kind": "フェス",
+     "venue": "神戸 太陽と虎ほか（兵庫）",
+     "source_url": "https://ototoy.jp/news/132535",
+     "confidence": "high"
+    }
+   ]
+  },
+  "SPOT": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-23",
+     "title": "PANA FES",
+     "kind": "フェス",
+     "venue": "神戸 太陽と虎ほか（兵庫）",
+     "source_url": "https://ototoy.jp/news/132535",
+     "confidence": "high"
+    }
+   ]
+  },
+  "vanish.": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-23",
+     "title": "PANA FES",
+     "kind": "フェス",
+     "venue": "神戸 太陽と虎ほか（兵庫）",
+     "source_url": "https://ototoy.jp/news/132535",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Bentham": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-23",
+     "title": "PANA FES",
+     "kind": "フェス",
+     "venue": "神戸 太陽と虎ほか（兵庫）",
+     "source_url": "https://ototoy.jp/news/132535",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ムノーノ=モーゼス": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-23",
+     "title": "PANA FES",
+     "kind": "フェス",
+     "venue": "神戸 太陽と虎ほか（兵庫）",
+     "source_url": "https://ototoy.jp/news/132535",
+     "confidence": "high"
+    }
+   ]
+  },
+  "宵待": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-23",
+     "title": "PANA FES",
+     "kind": "フェス",
+     "venue": "神戸 太陽と虎ほか（兵庫）",
+     "source_url": "https://ototoy.jp/news/132535",
+     "confidence": "high"
+    }
+   ]
+  },
+  "（夜と）SAMPO": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-23",
+     "title": "PANA FES",
+     "kind": "フェス",
+     "venue": "神戸 太陽と虎ほか（兵庫）",
+     "source_url": "https://ototoy.jp/news/132535",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ロイヤル嫁姑": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-23",
+     "title": "PANA FES",
+     "kind": "フェス",
+     "venue": "神戸 太陽と虎ほか（兵庫）",
+     "source_url": "https://ototoy.jp/news/132535",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Toi Toi Toi": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-28",
+     "title": "GIFT ～Girls Idol Festival Tokyo～",
+     "kind": "フェス",
+     "venue": "SGC Hall Ariake・TOYOTA ARENA TOKYO（東京）",
+     "source_url": "https://gift-idol.jp/outline.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "江戸桜": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "GIFT ～Girls Idol Festival Tokyo～",
+     "kind": "フェス",
+     "venue": "SGC Hall Ariake・TOYOTA ARENA TOKYO（東京）",
+     "source_url": "https://gift-idol.jp/outline.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ZAZEN BOYS": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-04-17",
+     "title": "ジゴロック大分2027 supported by ニカソー",
+     "kind": "フェス",
+     "venue": "大分スポーツ公園（大分）",
+     "source_url": "https://festival-life.com/169474",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Kazuki Isogai feat.???": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-04-17",
+     "title": "ジゴロック大分2027 supported by ニカソー",
+     "kind": "フェス",
+     "venue": "大分スポーツ公園（大分）",
+     "source_url": "https://festival-life.com/169474",
+     "confidence": "high"
+    }
+   ]
+  },
+  "-TK LEGENDARY WORKS- 小室哲哉": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-04-17",
+     "title": "ジゴロック大分2027 supported by ニカソー",
+     "kind": "フェス",
+     "venue": "大分スポーツ公園（大分）",
+     "source_url": "https://festival-life.com/169474",
+     "confidence": "high"
+    }
+   ]
+  },
+  "KYONO BAND": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-31",
+     "title": "54th NEW YEAR ROCK FESTIVAL 2026-2027",
+     "kind": "フェス",
+     "venue": "SHIBUYA PLEASURE PLEASURE（東京）",
+     "source_url": "https://gekirock.com/news/2026/11/54th_new_year_rock_festival_1st_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "キングギドラ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-31",
+     "title": "54th NEW YEAR ROCK FESTIVAL 2026-2027",
+     "kind": "フェス",
+     "venue": "SHIBUYA PLEASURE PLEASURE（東京）",
+     "source_url": "https://gekirock.com/news/2026/11/54th_new_year_rock_festival_1st_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Mountainman": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-31",
+     "title": "54th NEW YEAR ROCK FESTIVAL 2026-2027",
+     "kind": "フェス",
+     "venue": "SHIBUYA PLEASURE PLEASURE（東京）",
+     "source_url": "https://gekirock.com/news/2026/11/54th_new_year_rock_festival_1st_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "呂布カルマ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-31",
+     "title": "54th NEW YEAR ROCK FESTIVAL 2026-2027",
+     "kind": "フェス",
+     "venue": "SHIBUYA PLEASURE PLEASURE（東京）",
+     "source_url": "https://gekirock.com/news/2026/11/54th_new_year_rock_festival_1st_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "DECATIⓃ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-31",
+     "title": "54th NEW YEAR ROCK FESTIVAL 2026-2027",
+     "kind": "フェス",
+     "venue": "SHIBUYA PLEASURE PLEASURE（東京）",
+     "source_url": "https://gekirock.com/news/2026/11/54th_new_year_rock_festival_1st_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "武井勇輝": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-31",
+     "title": "54th NEW YEAR ROCK FESTIVAL 2026-2027",
+     "kind": "フェス",
+     "venue": "SHIBUYA PLEASURE PLEASURE（東京）",
+     "source_url": "https://gekirock.com/news/2026/11/54th_new_year_rock_festival_1st_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "湾岸の羊～Sheep living on the edge～": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-31",
+     "title": "54th NEW YEAR ROCK FESTIVAL 2026-2027",
+     "kind": "フェス",
+     "venue": "SHIBUYA PLEASURE PLEASURE（東京）",
+     "source_url": "https://gekirock.com/news/2026/11/54th_new_year_rock_festival_1st_lineup.php",
      "confidence": "high"
     }
    ]
