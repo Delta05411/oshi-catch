@@ -460,23 +460,25 @@ function slFests(){const m={};
     let d=e.date;const end=e.date_end||e.date;
     for(let n=0;n<10;n++){const k=e.event+'|'+d;(m[k]=m[k]||{name:e.event,start:d,end:d,venue:e.venue||'',status:'lineup',lineup:[],_sl:1});if(!m[k].lineup.includes(e.artist))m[k].lineup.push(e.artist);if(d>=end)break;d=nextDay(d)}}
   return Object.values(m)}
-function buildPast(tab,q,today){
+function buildPast(tab,q,today){ // 過去は推し以外も全部出す（上の推しボタンで絞り込める）
   const P=PE||{events:[],festivals:[]},hit=o=>!q||JSON.stringify(o).toLowerCase().includes(q);
-  const evs=P.events.filter(e=>e.date<today&&MYART&&MYART.has(e.artist)),seen=new Set(),res=[],absorbed=new Set();
+  const evs=P.events.filter(e=>e.date<today),seen=new Set(),res=[],absorbed=new Set();
+  const inMy=a=>MYART&&MYART.has(a),okSel=a=>!sel.size||sel.has(a);
   const fl=[...P.festivals,...(DB.festivals||[])].filter(f=>{if(!f.start||f.start>=today)return false;const k=f.name+'|'+f.start;if(seen.has(k))return false;seen.add(k);return true});
-  if(tab!=='live')for(const f of fl){const m=evs.filter(e=>e.kind==='フェス'&&e.date>=f.start&&e.date<=(f.end||f.start)&&fesHit(nzT(f.name),nzT(e.title)));
-    if(tab==='all'&&!m.some(e=>!sel.size||sel.has(e.artist)))continue;
-    if(!hit(f)&&!hit(m))continue;
-    m.forEach(e=>absorbed.add(e));
+  if(tab!=='live')for(const f of fl){const all=evs.filter(e=>e.kind==='フェス'&&e.date>=f.start&&e.date<=(f.end||f.start)&&fesHit(nzT(f.name),nzT(e.title)));
+    if(tab==='all'&&sel.size&&!all.some(e=>sel.has(e.artist)))continue;
+    if(!hit(f)&&!hit(all))continue;
+    all.forEach(e=>absorbed.add(e));
+    const m=all.filter(e=>inMy(e.artist));
     for(const d of fesDays(f))if(d&&d<today)res.push({f,m,day:d,d})}
-  const inMy=a=>MYART&&MYART.has(a),covers=(r,n,d)=>r.start<=d&&d<=(r.end||r.start)&&fesHit(nzT(r.name),nzT(n));
+  const covers=(r,n,d)=>r.start<=d&&d<=(r.end||r.start)&&fesHit(nzT(r.name),nzT(n));
   if(tab!=='live')for(const f of slFests()){if(f.start>=today||fl.some(r=>covers(r,f.name,f.start)))continue;
-    const m=f.lineup.filter(inMy).map(a=>({artist:a,date:f.start,kind:'フェス',title:f.name}));
-    if(tab==='all'&&!m.some(e=>!sel.size||sel.has(e.artist)))continue;
+    if(tab==='all'&&sel.size&&!f.lineup.some(a=>sel.has(a)))continue;
     if(!hit(f))continue;
+    const m=f.lineup.filter(inMy).map(a=>({artist:a,date:f.start,kind:'フェス',title:f.name}));
     res.push({f,m,day:f.start,d:f.start})}
-  if(tab!=='fes')for(const e of evs){if(absorbed.has(e)||(sel.size&&!sel.has(e.artist))||!hit(e))continue;res.push({e,d:e.date})}
-  if(tab!=='fes')for(const e of SL){if(e.date>=today||!inMy(e.artist)||(sel.size&&!sel.has(e.artist))||!hit(e))continue;
+  if(tab!=='fes')for(const e of evs){if(absorbed.has(e)||!okSel(e.artist)||!hit(e))continue;res.push({e,d:e.date})}
+  if(tab!=='fes')for(const e of SL){if(e.date>=today||!okSel(e.artist)||!hit(e))continue;
     if(evs.some(x=>x.artist===e.artist&&x.date>=e.date&&x.date<=(e.date_end||e.date)))continue;
     if(tab==='all'&&e.kind==='フェス'&&res.some(x=>x.f&&x.d>=e.date&&x.d<=(e.date_end||e.date)&&fesHit(nzT(x.f.name),nzT(e.event))))continue;
     res.push({sl:e,d:e.date})}
@@ -720,7 +722,7 @@ function renderHelp(){
   ${st('うまく表示されないとき','画面が空になったり、おかしくなったときは、一度アプリ（ブラウザ）を閉じて、開き直してください。たいていは直ります。それでも直らないときは、検索欄や推しの絞り込みを解除してみてください。')}
   ${st('日付の下の小さな画像','日付の下に出る画像は、アーティストやフェスの公式サイトが公開している画像を、そのまま表示しています。ロゴのことも、写真のこともあります。画像が出ないものもあります。画像をおすと、公式サイトが新しい画面で開きます。')}
   ${st('行った公演の印','申込状況を「参加済」にした公演は、青い線と「✓ 行った」の印が付きます。「当選」「購入済」は、公演日までは緑の線と「行く」の印で、日が過ぎると「✓ 行った」に変わります。行かなかったときは、申込状況を変えてください。')}
-  ${st('終わった公演・フェスを見る','ALL・LIVE・FES の月ボタンの先頭にある「PAST」をおすと、終わった公演・フェスが新しい順に出ます。もう一度おすと、今後の予定に戻ります。セトリのある公演は2025年10月から、それ以外は2026年10月14日から見られます。')}
+  ${st('終わった公演・フェスを見る','ALL・LIVE・FES の月ボタンの先頭にある「PAST」をおすと、終わった公演・フェスが、推し以外も含めて新しい順に出ます。推しのボタンで絞り込めます。一度載った公演は消えません。もう一度おすと、今後の予定に戻ります。セトリのある公演は2025年10月から、それ以外は2026年10月14日から見られます。')}
   ${st('セトリの予想と答え合わせ','公演カードの「セトリ・予想」から、予想セトリを1行1曲で書けます。終わったあとは「セトリ・答え合わせ」で、当たった曲数が見られます。答えは、自分で書いた実際のセトリか、ソノダマンさんのセトリです。略し方や書き方が違うと、別の曲として数えます。ここから setlist.fm や LiveFans で探すこともできます（別のサイトが開きます）。')}
   ${st('日程未定のフェス','来年の開催がまだ発表されていないフェスは「日程未定」で出ます。発表されると、自動で日にちが入ります。')}
   <h3 class="bb warnh">IMPORTANT</h3>
@@ -850,11 +852,11 @@ function render(){
   for(const x of list){const mo=(x.d||'').slice(0,7);const mk=/^\d{4}-\d\d$/.test(mo)?mo:'';
     if(mk!==cur){cur=mk;h+=mk?monHead(mk):'<div class="mon"><span class="j">日付未定</span></div>'}
     h+=x.sl?slCard(x.sl,i++,true):x.f?fesCard(x.f,x.m,i++,x.day):card(x.e,i++)}
-  const none=isPast?`<div class="empty"><div class="bb">NO PAST</div><p>${q?`検索「${esc($('#q').value.trim())}」に合う過去の公演はありません。`:TAB==='fes'?'過去のフェスはまだありません。':'いま追加している推しの、過去の公演はまだありません。'}</p><p class="m">セトリのある公演は2025年10月から、それ以外は2026年10月14日からです。</p></div>`:(!mineA().length&&!pend.length)?`<div class="empty"><div class="bb">ADD YOUR OSHI</div><p>右上の「+ ADD」から推しを追加してください。名前を入れると、ライブ・フェスの予定がここに並びます。</p><p><button type="button" class="btn" onclick="openAdd(true)">+ ADD ARTIST</button></p></div>`:TAB==='mine'?`<div class="empty"><div class="bb">NOTHING YET</div><p>各公演・フェスの「申込状況」から、検討中・申込済・当選などを記録すると、ここに集まります。</p></div>`
+  const none=isPast?`<div class="empty"><div class="bb">NO PAST</div><p>${q?`検索「${esc($('#q').value.trim())}」に合う過去の公演はありません。`:TAB==='fes'?'過去のフェスはまだありません。':'過去の公演はまだありません。'}</p><p class="m">セトリのある公演は2025年10月から、それ以外は2026年10月14日からです。</p></div>`:(!mineA().length&&!pend.length)?`<div class="empty"><div class="bb">ADD YOUR OSHI</div><p>右上の「+ ADD」から推しを追加してください。名前を入れると、ライブ・フェスの予定がここに並びます。</p><p><button type="button" class="btn" onclick="openAdd(true)">+ ADD ARTIST</button></p></div>`:TAB==='mine'?`<div class="empty"><div class="bb">NOTHING YET</div><p>各公演・フェスの「申込状況」から、検討中・申込済・当選などを記録すると、ここに集まります。</p></div>`
     :(sel.size&&!q)?`<div class="empty"><div class="bb">NO SCHEDULE</div><p>${esc([...sel].join('、'))} の予定は、まだ見つかっていません。公式サイトで発表されると、自動で追加されます（毎日確認しています）。</p></div>`
     :q||sel.size?`<div class="empty"><div class="bb">NO RESULT</div><p>${q?`検索「${esc($('#q').value.trim())}」に合うものはありません。`:'選んだ推しの予定はありません。'}</p><p><button type="button" class="btn" data-reset="1">検索と推しの絞り込みを解除</button></p></div>`
     :`<div class="empty"><div class="bb">NO SCHEDULE</div><p>いま追加している推しの、今後の予定は見つかっていません。公式サイトで発表されると自動で追加されます（毎日確認しています）。FES では、開催予定のフェスを全部見られます。</p></div>`;
-  const cnt=isPast?`終わった公演・フェス ${list.length}件　新しい順（セトリのある公演は2025年10月から、それ以外は2026年10月14日から。上の PAST をもう一度おすと今後の予定に戻ります）`:TAB==='fes'?`開催予定のフェス（日ごとに表示） ${list.length}件　推しが出る日は「推しが出演」と表示されます`
+  const cnt=isPast?`終わった公演・フェス ${list.length}件　推し以外も全部出ています。新しい順（セトリのある公演は2025年10月から、それ以外は2026年10月14日から。上の PAST をもう一度おすと今後の予定に戻ります）`:TAB==='fes'?`開催予定のフェス（日ごとに表示） ${list.length}件　推しが出る日は「推しが出演」と表示されます`
     :TAB==='all'?`${list.length}件　フェスは、推しが出演するものと申込状況を記録したものを表示（全部は FES で）`:`${list.length}件`;
   const ms=[...new Set(list.map(x=>(x.d||'').slice(0,7)).filter(k=>/^\d{4}-\d\d$/.test(k)))];
   const mnav=(ms.length>1||canPast)?`<div id="mnav">${canPast?`<button data-past class="${isPast?'on':''}">PAST</button>`:''}${(ms.length>1?ms:[]).map((k,i)=>`<button data-mj="${k}">${+k.slice(5)}月${i===0||k.slice(0,4)!==ms[i-1].slice(0,4)?`<small>${k.slice(2,4)}</small>`:''}</button>`).join('')}</div>`:'';
@@ -863,7 +865,7 @@ function render(){
     foot(TAB==='fes'?'情報は自動収集です。最新の発表は公式サイトでご確認ください':'AIによる自動収集です。受付期間・購入前に、必ず公式の情報をご確認ください');
 }
 out.addEventListener('click',e=>{
-  const mj=e.target.closest('[data-mj]');if(mj){if(TAB==='set'){let n=0;SLL.forEach((x,i)=>{if(x.date.slice(0,7)===mj.dataset.mj)n=i+1});if(n>SLN){SLN=n;renderSet()}}const el=document.getElementById('m-'+mj.dataset.mj);if(el)el.scrollIntoView({behavior:TAB==='set'?'instant':'smooth',block:'start'});return}
+  const mj=e.target.closest('[data-mj]');if(mj){if(TAB==='set'){let n=0;SLL.forEach((x,i)=>{if(x.date.slice(0,7)===mj.dataset.mj)n=i+1});if(n>SLN){SLN=n;renderSet()}}const el=document.getElementById('m-'+mj.dataset.mj);if(el){if(TAB==='set'||PASTV){const go=()=>{if(el.isConnected)scrollTo({top:el.getBoundingClientRect().top+scrollY-112,behavior:'instant'})};go();[200,700].forEach(t=>setTimeout(go,t))}else el.scrollIntoView({behavior:'smooth',block:'start'})}return}
   if(e.target.closest('[data-past]')){PASTV=!PASTV;if(PASTV&&!PE)toast('読み込んでいます…');render();const n=$('#mnav');if(n)n.scrollIntoView({behavior:'instant',block:'nearest'});return}
   const my=e.target.closest('[data-my]');if(my){openMy(true,my.dataset.my,my.dataset.d,my.dataset.f);return}
   const sl=e.target.closest('[data-sl]');if(sl){go('set');$('#q').value=sl.dataset.sl;render();return}
