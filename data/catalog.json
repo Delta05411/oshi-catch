@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T07:12:00+09:00",
+ "updated": "2026-11-10T20:07:00+09:00",
  "artists": {
   "Saucy Dog": {
    "aliases": [
@@ -67,22 +67,6 @@
   "My Hair is Bad": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-11-08",
-     "title": "BUZZ RHYTHM LIVE 2026",
-     "kind": "フェス",
-     "venue": "横浜アリーナ（神奈川県）",
-     "source_url": "https://buzzrhythm.live/",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-11-08",
-     "title": "BUZZ RHYTHM LIVE（11/8）",
-     "kind": "フェス",
-     "venue": "横浜アリーナ（神奈川県）",
-     "source_url": "https://buzzrhythm.live/",
-     "confidence": "high"
-    },
     {
      "date": "2026-12-13",
      "title": "結びの夢番地（12/13）",
@@ -577,14 +561,6 @@
    ],
    "events": [
     {
-     "date": "2026-11-08",
-     "title": "MONGOL800 ga FESTIVAL What a Wonderful World!!",
-     "kind": "フェス",
-     "venue": "宜野湾港マリーナ トロピカルビーチ特設会場（沖縄県）",
-     "source_url": "https://www800.asia/2026/artist",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-26",
      "title": "COUNTDOWN JAPAN 26/27",
      "kind": "フェス",
@@ -605,14 +581,6 @@
   "10-FEET": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-11-08",
-     "title": "氣志團万博",
-     "kind": "フェス",
-     "venue": "幕張メッセ 国際展示場4〜7ホール（千葉県）",
-     "source_url": "http://www.kishidanbanpaku.com/s/kbpk/page/artist2026",
-     "confidence": "high"
-    },
     {
      "date": "2026-12-06",
      "title": "BLAZE UP NAGASAKI",
@@ -1546,6 +1514,14 @@
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
      "confidence": "high"
+    },
+    {
+     "date": "2027-02-20",
+     "title": "浮現祭 EMERGE FEST 2027（出演日未発表）",
+     "kind": "フェス",
+     "venue": "台中・清水鰲峰山運動公園（台湾）",
+     "source_url": "https://natalie.mu/music/news/696450",
+     "confidence": "high"
     }
    ]
   },
@@ -1834,14 +1810,6 @@
    ],
    "events": [
     {
-     "date": "2026-11-08",
-     "title": "氣志團万博",
-     "kind": "フェス",
-     "venue": "幕張メッセ 国際展示場4〜7ホール（千葉県）",
-     "source_url": "http://www.kishidanbanpaku.com/s/kbpk/page/artist2026",
-     "confidence": "high"
-    },
-    {
      "date": "2026-11-27",
      "title": "GIFT ～Girls Idol Festival Tokyo～",
      "kind": "フェス",
@@ -1926,14 +1894,6 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-11-08",
-     "title": "氣志團万博",
-     "kind": "フェス",
-     "venue": "幕張メッセ 国際展示場4〜7ホール（千葉県）",
-     "source_url": "http://www.kishidanbanpaku.com/s/kbpk/page/artist2026",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-26",
      "title": "RADIO CRAZY（12/26）",
      "kind": "フェス",
@@ -1975,22 +1935,6 @@
   "OddRe:": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-11-08",
-     "title": "BUZZ RHYTHM LIVE 2026",
-     "kind": "フェス",
-     "venue": "横浜アリーナ（神奈川県）",
-     "source_url": "https://buzzrhythm.live/",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-11-08",
-     "title": "BUZZ RHYTHM LIVE（11/8）",
-     "kind": "フェス",
-     "venue": "横浜アリーナ（神奈川県）",
-     "source_url": "https://buzzrhythm.live/",
-     "confidence": "high"
-    },
     {
      "date": "2026-12-29",
      "title": "COUNTDOWN JAPAN 26/27（12/29）",
@@ -2378,22 +2322,6 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-11-08",
-     "title": "BUZZ RHYTHM LIVE 2026",
-     "kind": "フェス",
-     "venue": "横浜アリーナ（神奈川県）",
-     "source_url": "https://buzzrhythm.live/",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-11-08",
-     "title": "BUZZ RHYTHM LIVE（11/8）",
-     "kind": "フェス",
-     "venue": "横浜アリーナ（神奈川県）",
-     "source_url": "https://buzzrhythm.live/",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-26",
      "title": "RADIO CRAZY",
      "kind": "フェス",
@@ -2471,6 +2399,14 @@
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
      "confidence": "high"
+    },
+    {
+     "date": "2027-02-20",
+     "title": "浮現祭 EMERGE FEST 2027（出演日未発表）",
+     "kind": "フェス",
+     "venue": "台中・清水鰲峰山運動公園（台湾）",
+     "source_url": "https://natalie.mu/music/news/696450",
+     "confidence": "high"
     }
    ]
   },
@@ -2533,6 +2469,14 @@
      "kind": "フェス",
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-03-07",
+     "title": "J-WAVE TOKYO GUITAR JAMBOREE（3/7）",
+     "kind": "フェス",
+     "venue": "両国国技館（東京都）",
+     "source_url": "https://www.j-wave.co.jp/special/guitarjamboree2027/",
      "confidence": "high"
     }
    ]
@@ -2794,6 +2738,14 @@
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
      "confidence": "high"
+    },
+    {
+     "date": "2027-02-20",
+     "title": "浮現祭 EMERGE FEST 2027（出演日未発表）",
+     "kind": "フェス",
+     "venue": "台中・清水鰲峰山運動公園（台湾）",
+     "source_url": "https://natalie.mu/music/news/696450",
+     "confidence": "high"
     }
    ]
   },
@@ -3038,19 +2990,6 @@
      "kind": "フェス",
      "venue": "INTEX OSAKA（大阪府）",
      "source_url": "https://eplus.jp/radiocrazy2026/",
-     "confidence": "high"
-    }
-   ]
-  },
-  "MONGOL800": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-08",
-     "title": "MONGOL800 ga FESTIVAL What a Wonderful World!!",
-     "kind": "フェス",
-     "venue": "宜野湾港マリーナ トロピカルビーチ特設会場（沖縄県）",
-     "source_url": "https://www800.asia/2026/artist",
      "confidence": "high"
     }
    ]
@@ -3995,20 +3934,20 @@
      "venue": "幕張メッセ（千葉県）",
      "source_url": "https://countdownjapan.jp/",
      "confidence": "high"
+    },
+    {
+     "date": "2027-02-11",
+     "title": "ブクロック!フェスティバル",
+     "kind": "フェス",
+     "venue": "（千葉）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "high"
     }
    ]
   },
   "四星球": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-11-08",
-     "title": "氣志團万博",
-     "kind": "フェス",
-     "venue": "幕張メッセ 国際展示場4〜7ホール（千葉県）",
-     "source_url": "http://www.kishidanbanpaku.com/s/kbpk/page/artist2026",
-     "confidence": "high"
-    },
     {
      "date": "2026-12-12",
      "title": "響都超特急",
@@ -4307,86 +4246,15 @@
     }
    ]
   },
-  "Lienel": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-08",
-     "title": "氣志團万博",
-     "kind": "フェス",
-     "venue": "幕張メッセ 国際展示場4〜7ホール（千葉県）",
-     "source_url": "http://www.kishidanbanpaku.com/s/kbpk/page/artist2026",
-     "confidence": "high"
-    }
-   ]
-  },
   "kurayamisaka": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-11-08",
-     "title": "BUZZ RHYTHM LIVE 2026",
-     "kind": "フェス",
-     "venue": "横浜アリーナ（神奈川県）",
-     "source_url": "https://buzzrhythm.live/",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-11-08",
-     "title": "BUZZ RHYTHM LIVE（11/8）",
-     "kind": "フェス",
-     "venue": "横浜アリーナ（神奈川県）",
-     "source_url": "https://buzzrhythm.live/",
-     "confidence": "high"
-    },
     {
      "date": "2026-12-31",
      "title": "COUNTDOWN JAPAN 26/27（12/31）",
      "kind": "フェス",
      "venue": "幕張メッセ（千葉県）",
      "source_url": "https://countdownjapan.jp/",
-     "confidence": "high"
-    }
-   ]
-  },
-  "Vaundy": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-08",
-     "title": "BUZZ RHYTHM LIVE 2026",
-     "kind": "フェス",
-     "venue": "横浜アリーナ（神奈川県）",
-     "source_url": "https://buzzrhythm.live/",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-11-08",
-     "title": "BUZZ RHYTHM LIVE（11/8）",
-     "kind": "フェス",
-     "venue": "横浜アリーナ（神奈川県）",
-     "source_url": "https://buzzrhythm.live/",
-     "confidence": "high"
-    }
-   ]
-  },
-  "FUJIBASE": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-08",
-     "title": "BUZZ RHYTHM LIVE 2026",
-     "kind": "フェス",
-     "venue": "横浜アリーナ（神奈川県）",
-     "source_url": "https://buzzrhythm.live/",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-11-08",
-     "title": "BUZZ RHYTHM LIVE（11/8）",
-     "kind": "フェス",
-     "venue": "横浜アリーナ（神奈川県）",
-     "source_url": "https://buzzrhythm.live/",
      "confidence": "high"
     }
    ]
@@ -4423,14 +4291,6 @@
   "氣志團": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-11-08",
-     "title": "氣志團万博",
-     "kind": "フェス",
-     "venue": "幕張メッセ 国際展示場4〜7ホール（千葉県）",
-     "source_url": "http://www.kishidanbanpaku.com/s/kbpk/page/artist2026",
-     "confidence": "high"
-    },
     {
      "date": "2026-12-12",
      "title": "響都超特急（12/12）",
@@ -4517,43 +4377,9 @@
     }
    ]
   },
-  "海援隊": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-08",
-     "title": "氣志團万博",
-     "kind": "フェス",
-     "venue": "幕張メッセ 国際展示場4〜7ホール（千葉県）",
-     "source_url": "http://www.kishidanbanpaku.com/s/kbpk/page/artist2026",
-     "confidence": "high"
-    }
-   ]
-  },
-  "奇妙礼太郎BAND": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-08",
-     "title": "氣志團万博",
-     "kind": "フェス",
-     "venue": "幕張メッセ 国際展示場4〜7ホール（千葉県）",
-     "source_url": "http://www.kishidanbanpaku.com/s/kbpk/page/artist2026",
-     "confidence": "high"
-    }
-   ]
-  },
   "キュウソネコカミ": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-11-08",
-     "title": "氣志團万博",
-     "kind": "フェス",
-     "venue": "幕張メッセ 国際展示場4〜7ホール（千葉県）",
-     "source_url": "http://www.kishidanbanpaku.com/s/kbpk/page/artist2026",
-     "confidence": "high"
-    },
     {
      "date": "2026-11-28",
      "title": "PSYCHIC FES",
@@ -4608,14 +4434,6 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-11-08",
-     "title": "氣志團万博",
-     "kind": "フェス",
-     "venue": "幕張メッセ 国際展示場4〜7ホール（千葉県）",
-     "source_url": "http://www.kishidanbanpaku.com/s/kbpk/page/artist2026",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-26",
      "title": "RADIO CRAZY",
      "kind": "フェス",
@@ -4633,45 +4451,11 @@
     }
    ]
   },
-  "DJダイノジ": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-08",
-     "title": "氣志團万博",
-     "kind": "フェス",
-     "venue": "幕張メッセ 国際展示場4〜7ホール（千葉県）",
-     "source_url": "http://www.kishidanbanpaku.com/s/kbpk/page/artist2026",
-     "confidence": "high"
-    }
-   ]
-  },
-  "BARBEE BOYS 4PEACE": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-08",
-     "title": "氣志團万博",
-     "kind": "フェス",
-     "venue": "幕張メッセ 国際展示場4〜7ホール（千葉県）",
-     "source_url": "http://www.kishidanbanpaku.com/s/kbpk/page/artist2026",
-     "confidence": "high"
-    }
-   ]
-  },
   "ももいろクローバーZ": {
    "aliases": [
     "ももクロ"
    ],
    "events": [
-    {
-     "date": "2026-11-08",
-     "title": "氣志團万博",
-     "kind": "フェス",
-     "venue": "幕張メッセ 国際展示場4〜7ホール（千葉県）",
-     "source_url": "http://www.kishidanbanpaku.com/s/kbpk/page/artist2026",
-     "confidence": "high"
-    },
     {
      "date": "2026-11-21",
      "title": "テレビ朝日ドリームフェスティバル2026（11/21〜11/23のいずれか）",
@@ -4685,14 +4469,6 @@
   "ROTTENGRAFFTY": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-11-08",
-     "title": "氣志團万博",
-     "kind": "フェス",
-     "venue": "幕張メッセ 国際展示場4〜7ホール（千葉県）",
-     "source_url": "http://www.kishidanbanpaku.com/s/kbpk/page/artist2026",
-     "confidence": "high"
-    },
     {
      "date": "2026-11-29",
      "title": "MASTERPIECE（11/29）",
@@ -4759,19 +4535,6 @@
     }
    ]
   },
-  "WANIMA": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-08",
-     "title": "氣志團万博",
-     "kind": "フェス",
-     "venue": "幕張メッセ 国際展示場4〜7ホール（千葉県）",
-     "source_url": "http://www.kishidanbanpaku.com/s/kbpk/page/artist2026",
-     "confidence": "high"
-    }
-   ]
-  },
   "Dragon Ash": {
    "aliases": [],
    "events": [
@@ -4805,14 +4568,6 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-11-08",
-     "title": "MONGOL800 ga FESTIVAL What a Wonderful World!!",
-     "kind": "フェス",
-     "venue": "宜野湾港マリーナ トロピカルビーチ特設会場（沖縄県）",
-     "source_url": "https://www800.asia/2026/artist",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-26",
      "title": "RADIO CRAZY（12/26）",
      "kind": "フェス",
@@ -4822,30 +4577,9 @@
     }
    ]
   },
-  "黒夢": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-08",
-     "title": "MONGOL800 ga FESTIVAL What a Wonderful World!!",
-     "kind": "フェス",
-     "venue": "宜野湾港マリーナ トロピカルビーチ特設会場（沖縄県）",
-     "source_url": "https://www800.asia/2026/artist",
-     "confidence": "high"
-    }
-   ]
-  },
   "サンボマスター": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-11-08",
-     "title": "MONGOL800 ga FESTIVAL What a Wonderful World!!",
-     "kind": "フェス",
-     "venue": "宜野湾港マリーナ トロピカルビーチ特設会場（沖縄県）",
-     "source_url": "https://www800.asia/2026/artist",
-     "confidence": "high"
-    },
     {
      "date": "2026-12-26",
      "title": "RADIO CRAZY",
@@ -4872,30 +4606,9 @@
     }
    ]
   },
-  "渋谷すばる": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-08",
-     "title": "MONGOL800 ga FESTIVAL What a Wonderful World!!",
-     "kind": "フェス",
-     "venue": "宜野湾港マリーナ トロピカルビーチ特設会場（沖縄県）",
-     "source_url": "https://www800.asia/2026/artist",
-     "confidence": "high"
-    }
-   ]
-  },
   "HANA": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-11-08",
-     "title": "MONGOL800 ga FESTIVAL What a Wonderful World!!",
-     "kind": "フェス",
-     "venue": "宜野湾港マリーナ トロピカルビーチ特設会場（沖縄県）",
-     "source_url": "https://www800.asia/2026/artist",
-     "confidence": "high"
-    },
     {
      "date": "2027-03-02",
      "title": "Snow Machine Japan（3/2〜3/7のいずれか）",
@@ -4909,14 +4622,6 @@
   "The Ravens": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-11-08",
-     "title": "MONGOL800 ga FESTIVAL What a Wonderful World!!",
-     "kind": "フェス",
-     "venue": "宜野湾港マリーナ トロピカルビーチ特設会場（沖縄県）",
-     "source_url": "https://www800.asia/2026/artist",
-     "confidence": "high"
-    },
     {
      "date": "2026-12-12",
      "title": "響都超特急（12/12）",
@@ -4938,14 +4643,6 @@
   "ふみの": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-11-08",
-     "title": "MONGOL800 ga FESTIVAL What a Wonderful World!!",
-     "kind": "フェス",
-     "venue": "宜野湾港マリーナ トロピカルビーチ特設会場（沖縄県）",
-     "source_url": "https://www800.asia/2026/artist",
-     "confidence": "high"
-    },
     {
      "date": "2026-12-26",
      "title": "COUNTDOWN JAPAN 26/27（12/26）",
@@ -9376,45 +9073,6 @@
      "kind": "フェス",
      "venue": "INTEX OSAKA（大阪府）",
      "source_url": "https://eplus.jp/radiocrazy2026/",
-     "confidence": "high"
-    }
-   ]
-  },
-  "かのん": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-08",
-     "title": "BUZZ RHYTHM LIVE（11/8）",
-     "kind": "フェス",
-     "venue": "横浜アリーナ（神奈川県）",
-     "source_url": "https://buzzrhythm.live/",
-     "confidence": "high"
-    }
-   ]
-  },
-  "SATOH": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-08",
-     "title": "BUZZ RHYTHM LIVE（11/8）",
-     "kind": "フェス",
-     "venue": "横浜アリーナ（神奈川県）",
-     "source_url": "https://buzzrhythm.live/",
-     "confidence": "high"
-    }
-   ]
-  },
-  "セブンス・ベガ": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-08",
-     "title": "BUZZ RHYTHM LIVE（11/8）",
-     "kind": "フェス",
-     "venue": "横浜アリーナ（神奈川県）",
-     "source_url": "https://buzzrhythm.live/",
      "confidence": "high"
     }
    ]
@@ -13934,14 +13592,6 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-11-08",
-     "title": "MONGOL800 ga FESTIVAL What a Wonderful World!!",
-     "kind": "フェス",
-     "venue": "宜野湾港マリーナ トロピカルビーチ特設会場（沖縄県）",
-     "source_url": "https://www800.asia/2026/day1",
-     "confidence": "high"
-    },
-    {
      "date": "2027-03-19",
      "title": "HY SKY Fes 2027 & 前夜祭（3/19〜3/21のいずれか）",
      "kind": "フェス",
@@ -14572,32 +14222,6 @@
      "kind": "フェス",
      "venue": "LINE CUBE SHIBUYA / 代々木公園イベント広場（東京都）",
      "source_url": "https://www.j-wave.co.jp/special/inspiretokyo/",
-     "confidence": "high"
-    }
-   ]
-  },
-  "大工哲弘+島袋優 presents 〜Yaeyama moon〜": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-08",
-     "title": "MONGOL800 ga FESTIVAL What a Wonderful World!!",
-     "kind": "フェス",
-     "venue": "宜野湾港マリーナ トロピカルビーチ特設会場（沖縄県）",
-     "source_url": "https://www800.asia/2026/day1",
-     "confidence": "high"
-    }
-   ]
-  },
-  "道ジュネー｜栄口青年会": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-08",
-     "title": "MONGOL800 ga FESTIVAL What a Wonderful World!!",
-     "kind": "フェス",
-     "venue": "宜野湾港マリーナ トロピカルビーチ特設会場（沖縄県）",
-     "source_url": "https://www800.asia/2026/day1",
      "confidence": "high"
     }
    ]
@@ -18151,6 +17775,14 @@
      "venue": "福岡国際センター（福岡県）",
      "source_url": "https://fmfukuoka.co.jp/lp/fukuokaguitarjamboree/",
      "confidence": "high"
+    },
+    {
+     "date": "2027-03-06",
+     "title": "J-WAVE TOKYO GUITAR JAMBOREE（3/6）",
+     "kind": "フェス",
+     "venue": "両国国技館（東京都）",
+     "source_url": "https://www.j-wave.co.jp/special/guitarjamboree2027/",
+     "confidence": "high"
     }
    ]
   },
@@ -18176,6 +17808,14 @@
      "kind": "フェス",
      "venue": "福岡国際センター（福岡県）",
      "source_url": "https://fmfukuoka.co.jp/lp/fukuokaguitarjamboree/",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-03-07",
+     "title": "J-WAVE TOKYO GUITAR JAMBOREE（3/7）",
+     "kind": "フェス",
+     "venue": "両国国技館（東京都）",
+     "source_url": "https://www.j-wave.co.jp/special/guitarjamboree2027/",
      "confidence": "high"
     }
    ]
@@ -20007,6 +19647,279 @@
      "kind": "フェス",
      "venue": "SHIBUYA PLEASURE PLEASURE（東京）",
      "source_url": "https://gekirock.com/news/2026/11/54th_new_year_rock_festival_1st_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "a flood of circle": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-02-11",
+     "title": "ブクロック!フェスティバル",
+     "kind": "フェス",
+     "venue": "（千葉）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "high"
+    }
+   ]
+  },
+  "宮田和弥": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-06",
+     "title": "J-WAVE TOKYO GUITAR JAMBOREE（3/6）",
+     "kind": "フェス",
+     "venue": "両国国技館（東京都）",
+     "source_url": "https://www.j-wave.co.jp/special/guitarjamboree2027/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "竹原ピストル": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-06",
+     "title": "J-WAVE TOKYO GUITAR JAMBOREE（3/6）",
+     "kind": "フェス",
+     "venue": "両国国技館（東京都）",
+     "source_url": "https://www.j-wave.co.jp/special/guitarjamboree2027/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "KIRINJI": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-06",
+     "title": "J-WAVE TOKYO GUITAR JAMBOREE（3/6）",
+     "kind": "フェス",
+     "venue": "両国国技館（東京都）",
+     "source_url": "https://www.j-wave.co.jp/special/guitarjamboree2027/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "冨岡 愛": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-06",
+     "title": "J-WAVE TOKYO GUITAR JAMBOREE（3/6）",
+     "kind": "フェス",
+     "venue": "両国国技館（東京都）",
+     "source_url": "https://www.j-wave.co.jp/special/guitarjamboree2027/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "田島貴男": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-07",
+     "title": "J-WAVE TOKYO GUITAR JAMBOREE（3/7）",
+     "kind": "フェス",
+     "venue": "両国国技館（東京都）",
+     "source_url": "https://www.j-wave.co.jp/special/guitarjamboree2027/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ハンバート ハンバート": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-07",
+     "title": "J-WAVE TOKYO GUITAR JAMBOREE（3/7）",
+     "kind": "フェス",
+     "venue": "両国国技館（東京都）",
+     "source_url": "https://www.j-wave.co.jp/special/guitarjamboree2027/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "かりゆし58": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-07",
+     "title": "J-WAVE TOKYO GUITAR JAMBOREE（3/7）",
+     "kind": "フェス",
+     "venue": "両国国技館（東京都）",
+     "source_url": "https://www.j-wave.co.jp/special/guitarjamboree2027/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "美秀集團": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-02-20",
+     "title": "浮現祭 EMERGE FEST 2027（出演日未発表）",
+     "kind": "フェス",
+     "venue": "台中・清水鰲峰山運動公園（台湾）",
+     "source_url": "https://natalie.mu/music/news/696450",
+     "confidence": "high"
+    }
+   ]
+  },
+  "TRASH": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-02-20",
+     "title": "浮現祭 EMERGE FEST 2027（出演日未発表）",
+     "kind": "フェス",
+     "venue": "台中・清水鰲峰山運動公園（台湾）",
+     "source_url": "https://natalie.mu/music/news/696450",
+     "confidence": "high"
+    }
+   ]
+  },
+  "康士坦的變化球 KST": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-02-20",
+     "title": "浮現祭 EMERGE FEST 2027（出演日未発表）",
+     "kind": "フェス",
+     "venue": "台中・清水鰲峰山運動公園（台湾）",
+     "source_url": "https://natalie.mu/music/news/696450",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Crispy脆樂團": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-02-20",
+     "title": "浮現祭 EMERGE FEST 2027（出演日未発表）",
+     "kind": "フェス",
+     "venue": "台中・清水鰲峰山運動公園（台湾）",
+     "source_url": "https://natalie.mu/music/news/696450",
+     "confidence": "high"
+    }
+   ]
+  },
+  "溫蒂漫步 Wendy Wander": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-02-20",
+     "title": "浮現祭 EMERGE FEST 2027（出演日未発表）",
+     "kind": "フェス",
+     "venue": "台中・清水鰲峰山運動公園（台湾）",
+     "source_url": "https://natalie.mu/music/news/696450",
+     "confidence": "high"
+    }
+   ]
+  },
+  "イルカポリス 海豚刑警": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-02-20",
+     "title": "浮現祭 EMERGE FEST 2027（出演日未発表）",
+     "kind": "フェス",
+     "venue": "台中・清水鰲峰山運動公園（台湾）",
+     "source_url": "https://natalie.mu/music/news/696450",
+     "confidence": "high"
+    }
+   ]
+  },
+  "淺堤 Shallow Levée": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-02-20",
+     "title": "浮現祭 EMERGE FEST 2027（出演日未発表）",
+     "kind": "フェス",
+     "venue": "台中・清水鰲峰山運動公園（台湾）",
+     "source_url": "https://natalie.mu/music/news/696450",
+     "confidence": "high"
+    }
+   ]
+  },
+  "我是機車少女 I'mdifficult": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-02-20",
+     "title": "浮現祭 EMERGE FEST 2027（出演日未発表）",
+     "kind": "フェス",
+     "venue": "台中・清水鰲峰山運動公園（台湾）",
+     "source_url": "https://natalie.mu/music/news/696450",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Who Cares 胡凱兒": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-02-20",
+     "title": "浮現祭 EMERGE FEST 2027（出演日未発表）",
+     "kind": "フェス",
+     "venue": "台中・清水鰲峰山運動公園（台湾）",
+     "source_url": "https://natalie.mu/music/news/696450",
+     "confidence": "high"
+    }
+   ]
+  },
+  "上山": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-02-20",
+     "title": "浮現祭 EMERGE FEST 2027（出演日未発表）",
+     "kind": "フェス",
+     "venue": "台中・清水鰲峰山運動公園（台湾）",
+     "source_url": "https://natalie.mu/music/news/696450",
+     "confidence": "high"
+    }
+   ]
+  },
+  "FCO.": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-02-20",
+     "title": "浮現祭 EMERGE FEST 2027（出演日未発表）",
+     "kind": "フェス",
+     "venue": "台中・清水鰲峰山運動公園（台湾）",
+     "source_url": "https://natalie.mu/music/news/696450",
+     "confidence": "high"
+    }
+   ]
+  },
+  "NEK!": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-02-20",
+     "title": "浮現祭 EMERGE FEST 2027（出演日未発表）",
+     "kind": "フェス",
+     "venue": "台中・清水鰲峰山運動公園（台湾）",
+     "source_url": "https://natalie.mu/music/news/696450",
+     "confidence": "high"
+    }
+   ]
+  },
+  "다다다 DADADA": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-02-20",
+     "title": "浮現祭 EMERGE FEST 2027（出演日未発表）",
+     "kind": "フェス",
+     "venue": "台中・清水鰲峰山運動公園（台湾）",
+     "source_url": "https://natalie.mu/music/news/696450",
      "confidence": "high"
     }
    ]
