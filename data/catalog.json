@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T20:07:00+09:00",
+ "updated": "2026-11-11T07:10:05+09:00",
  "artists": {
   "Saucy Dog": {
    "aliases": [
@@ -19920,6 +19920,500 @@
      "kind": "フェス",
      "venue": "台中・清水鰲峰山運動公園（台湾）",
      "source_url": "https://natalie.mu/music/news/696450",
+     "confidence": "high"
+    }
+   ]
+  },
+  "銀座たけ内": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-11",
+     "title": "GO OUT CAMP 冬（12/11〜13・出演日未定）",
+     "kind": "フェス",
+     "venue": "ふもとっぱら（静岡）",
+     "source_url": "https://www.gooutcamp.jp/winter/artist/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Satoshi Miya": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-11",
+     "title": "GO OUT CAMP 冬（12/11〜13・出演日未定）",
+     "kind": "フェス",
+     "venue": "ふもとっぱら（静岡）",
+     "source_url": "https://www.gooutcamp.jp/winter/artist/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "歌声ナイトクラブ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-11",
+     "title": "GO OUT CAMP 冬（12/11〜13・出演日未定）",
+     "kind": "フェス",
+     "venue": "ふもとっぱら（静岡）",
+     "source_url": "https://www.gooutcamp.jp/winter/artist/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "THE WALTZ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "カデナロックフェスティバル（12/12・13・出演日未定）",
+     "kind": "フェス",
+     "venue": "道の駅かでな（沖縄）",
+     "source_url": "https://go-kadena.com/history/article-2622/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "The Junky JAP Dogs": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "カデナロックフェスティバル（12/12・13・出演日未定）",
+     "kind": "フェス",
+     "venue": "道の駅かでな（沖縄）",
+     "source_url": "https://go-kadena.com/history/article-2622/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Bleach": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "カデナロックフェスティバル（12/12・13・出演日未定）",
+     "kind": "フェス",
+     "venue": "道の駅かでな（沖縄）",
+     "source_url": "https://go-kadena.com/history/article-2622/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "SSD スーパースタミナドリンクス": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "カデナロックフェスティバル（12/12・13・出演日未定）",
+     "kind": "フェス",
+     "venue": "道の駅かでな（沖縄）",
+     "source_url": "https://go-kadena.com/history/article-2622/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "地獄車": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "カデナロックフェスティバル（12/12・13・出演日未定）",
+     "kind": "フェス",
+     "venue": "道の駅かでな（沖縄）",
+     "source_url": "https://go-kadena.com/history/article-2622/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "NEW TOWNER": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "カデナロックフェスティバル（12/12・13・出演日未定）",
+     "kind": "フェス",
+     "venue": "道の駅かでな（沖縄）",
+     "source_url": "https://go-kadena.com/history/article-2622/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "DUTY FREE SHOPP.": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "カデナロックフェスティバル（12/12・13・出演日未定）",
+     "kind": "フェス",
+     "venue": "道の駅かでな（沖縄）",
+     "source_url": "https://go-kadena.com/history/article-2622/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "EAST WOMAN": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "カデナロックフェスティバル（12/12・13・出演日未定）",
+     "kind": "フェス",
+     "venue": "道の駅かでな（沖縄）",
+     "source_url": "https://go-kadena.com/history/article-2622/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ナオキ屋&THE愛愛伝伝": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "カデナロックフェスティバル（12/12・13・出演日未定）",
+     "kind": "フェス",
+     "venue": "道の駅かでな（沖縄）",
+     "source_url": "https://go-kadena.com/history/article-2622/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "トリックスターグーニーズ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "カデナロックフェスティバル（12/12・13・出演日未定）",
+     "kind": "フェス",
+     "venue": "道の駅かでな（沖縄）",
+     "source_url": "https://go-kadena.com/history/article-2622/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "カクマクシャカ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "カデナロックフェスティバル（12/12・13・出演日未定）",
+     "kind": "フェス",
+     "venue": "道の駅かでな（沖縄）",
+     "source_url": "https://go-kadena.com/history/article-2622/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "THE QUESTIONS": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "カデナロックフェスティバル（12/12・13・出演日未定）",
+     "kind": "フェス",
+     "venue": "道の駅かでな（沖縄）",
+     "source_url": "https://go-kadena.com/history/article-2622/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "アルカシルカ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "カデナロックフェスティバル（12/12・13・出演日未定）",
+     "kind": "フェス",
+     "venue": "道の駅かでな（沖縄）",
+     "source_url": "https://go-kadena.com/history/article-2622/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "NEED LEAD USER": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "カデナロックフェスティバル（12/12・13・出演日未定）",
+     "kind": "フェス",
+     "venue": "道の駅かでな（沖縄）",
+     "source_url": "https://go-kadena.com/history/article-2622/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "GO BANANAS": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "カデナロックフェスティバル（12/12・13・出演日未定）",
+     "kind": "フェス",
+     "venue": "道の駅かでな（沖縄）",
+     "source_url": "https://go-kadena.com/history/article-2622/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "琉球Rudy's": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "カデナロックフェスティバル（12/12・13・出演日未定）",
+     "kind": "フェス",
+     "venue": "道の駅かでな（沖縄）",
+     "source_url": "https://go-kadena.com/history/article-2622/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ダンセイ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "カデナロックフェスティバル（12/12・13・出演日未定）",
+     "kind": "フェス",
+     "venue": "道の駅かでな（沖縄）",
+     "source_url": "https://go-kadena.com/history/article-2622/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ヨシムラタカシ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "カデナロックフェスティバル（12/12・13・出演日未定）",
+     "kind": "フェス",
+     "venue": "道の駅かでな（沖縄）",
+     "source_url": "https://go-kadena.com/history/article-2622/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "KITOKA": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "カデナロックフェスティバル（12/12・13・出演日未定）",
+     "kind": "フェス",
+     "venue": "道の駅かでな（沖縄）",
+     "source_url": "https://go-kadena.com/history/article-2622/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ヨシキカーニバル": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "カデナロックフェスティバル（12/12・13・出演日未定）",
+     "kind": "フェス",
+     "venue": "道の駅かでな（沖縄）",
+     "source_url": "https://go-kadena.com/history/article-2622/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "カイヌシゆうさく": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "カデナロックフェスティバル（12/12・13・出演日未定）",
+     "kind": "フェス",
+     "venue": "道の駅かでな（沖縄）",
+     "source_url": "https://go-kadena.com/history/article-2622/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ワンダフルワンダー": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "カデナロックフェスティバル（12/12・13・出演日未定）",
+     "kind": "フェス",
+     "venue": "道の駅かでな（沖縄）",
+     "source_url": "https://go-kadena.com/history/article-2622/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ショッキング桃色": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "カデナロックフェスティバル（12/12・13・出演日未定）",
+     "kind": "フェス",
+     "venue": "道の駅かでな（沖縄）",
+     "source_url": "https://go-kadena.com/history/article-2622/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "SLOWINGS": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-20",
+     "title": "若者たちの音楽祭（愛川町軽音フェス）",
+     "kind": "フェス",
+     "venue": "愛川町文化会館ホール（神奈川）",
+     "source_url": "https://www.town.aikawa.kanagawa.jp/sports_bunka/bunka/wkot/18902.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "マシマシ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-20",
+     "title": "若者たちの音楽祭（愛川町軽音フェス）",
+     "kind": "フェス",
+     "venue": "愛川町文化会館ホール（神奈川）",
+     "source_url": "https://www.town.aikawa.kanagawa.jp/sports_bunka/bunka/wkot/18902.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "COLORs!GLASS": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-20",
+     "title": "若者たちの音楽祭（愛川町軽音フェス）",
+     "kind": "フェス",
+     "venue": "愛川町文化会館ホール（神奈川）",
+     "source_url": "https://www.town.aikawa.kanagawa.jp/sports_bunka/bunka/wkot/18902.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "uncertrain": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-20",
+     "title": "若者たちの音楽祭（愛川町軽音フェス）",
+     "kind": "フェス",
+     "venue": "愛川町文化会館ホール（神奈川）",
+     "source_url": "https://www.town.aikawa.kanagawa.jp/sports_bunka/bunka/wkot/18902.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "unusual": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-20",
+     "title": "若者たちの音楽祭（愛川町軽音フェス）",
+     "kind": "フェス",
+     "venue": "愛川町文化会館ホール（神奈川）",
+     "source_url": "https://www.town.aikawa.kanagawa.jp/sports_bunka/bunka/wkot/18902.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Mononykus": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-20",
+     "title": "若者たちの音楽祭（愛川町軽音フェス）",
+     "kind": "フェス",
+     "venue": "愛川町文化会館ホール（神奈川）",
+     "source_url": "https://www.town.aikawa.kanagawa.jp/sports_bunka/bunka/wkot/18902.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "MAD SCIENTIST": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-20",
+     "title": "若者たちの音楽祭（愛川町軽音フェス）",
+     "kind": "フェス",
+     "venue": "愛川町文化会館ホール（神奈川）",
+     "source_url": "https://www.town.aikawa.kanagawa.jp/sports_bunka/bunka/wkot/18902.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "すこちゃんずっ！": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-20",
+     "title": "若者たちの音楽祭（愛川町軽音フェス）",
+     "kind": "フェス",
+     "venue": "愛川町文化会館ホール（神奈川）",
+     "source_url": "https://www.town.aikawa.kanagawa.jp/sports_bunka/bunka/wkot/18902.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "バルVI": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-20",
+     "title": "若者たちの音楽祭（愛川町軽音フェス）",
+     "kind": "フェス",
+     "venue": "愛川町文化会館ホール（神奈川）",
+     "source_url": "https://www.town.aikawa.kanagawa.jp/sports_bunka/bunka/wkot/18902.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "爺チャーズ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-20",
+     "title": "若者たちの音楽祭（愛川町軽音フェス）",
+     "kind": "フェス",
+     "venue": "愛川町文化会館ホール（神奈川）",
+     "source_url": "https://www.town.aikawa.kanagawa.jp/sports_bunka/bunka/wkot/18902.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "陽だまり": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-20",
+     "title": "若者たちの音楽祭（愛川町軽音フェス）",
+     "kind": "フェス",
+     "venue": "愛川町文化会館ホール（神奈川）",
+     "source_url": "https://www.town.aikawa.kanagawa.jp/sports_bunka/bunka/wkot/18902.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "THANX": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-20",
+     "title": "若者たちの音楽祭（愛川町軽音フェス）",
+     "kind": "フェス",
+     "venue": "愛川町文化会館ホール（神奈川）",
+     "source_url": "https://www.town.aikawa.kanagawa.jp/sports_bunka/bunka/wkot/18902.html",
      "confidence": "high"
     }
    ]

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T20:07:00+09:00",
+ "updated": "2026-11-11T07:10:05+09:00",
  "artists": [
   "04 Limited Sazabys",
   "ELLEGARDEN",
@@ -42,127 +42,6 @@
   "Aimer"
  ],
  "events": [
-  {
-   "artist": "RADWIMPS",
-   "date": "2026-11-10",
-   "title": "RADWIMPS Official Fan Club Tour 2026 ユーリンチー \"おかわり\" 追加公演",
-   "kind": "ワンマン",
-   "venue": "ぴあアリーナMM（神奈川）",
-   "sale_info": "11/10・11/11の2日間。ボクンチ会員限定。開場18:00 開演19:00。9,900〜12,100円。完売 両日SOLD OUT。開場18:00/開演19:00",
-   "ticket_name": "ボクンチ（会員限定）",
-   "ticket_url": "https://radwimps.jp/yurinchi/",
-   "sales": [
-    {
-     "label": "ボクンチ会員1次受付",
-     "start": "2026-07-24",
-     "end": "2026-08-03",
-     "note": "抽選 12:00〜23:59"
-    },
-    {
-     "label": "ボクンチ会員2次受付",
-     "start": "2026-08-21",
-     "end": "2026-08-27",
-     "note": "抽選 12:00〜23:59"
-    },
-    {
-     "label": "リセール（定価・抽選、ボクンチ会員）",
-     "start": "2026-11-01",
-     "end": "2026-11-04",
-     "url": "https://radwimps-ticket.jp/",
-     "note": "11/1 13:00〜11/4 12:00。公式NEWS 2026.10.23"
-    },
-    {
-     "label": "1次受付（ボクンチ会員・抽選）",
-     "start": "2026-07-24",
-     "end": "2026-08-03",
-     "url": "https://radwimps.jp/yurinchi/",
-     "note": "開始12:00・締切23:59・受付終了"
-    },
-    {
-     "label": "2次受付（ボクンチ会員・抽選）",
-     "start": "2026-08-21",
-     "end": "2026-08-27",
-     "url": "https://radwimps.jp/yurinchi/",
-     "note": "開始12:00・締切23:59・受付終了・SOLD OUT"
-    },
-    {
-     "label": "公式リセール（定価・抽選）",
-     "start": "2026-11-01",
-     "end": "2026-11-04",
-     "url": "https://radwimps.jp/yurinchi/",
-     "note": "開始13:00・締切12:00"
-    },
-    {
-     "label": "ボクンチ会員限定受付（抽選）",
-     "start": "2026-07-24",
-     "end": "2026-08-03",
-     "url": "https://radwimps.jp/yurinchi/"
-    },
-    {
-     "label": "ボクンチ会員限定2次受付（抽選）",
-     "start": "2026-08-21",
-     "end": "2026-08-27",
-     "url": "https://radwimps.jp/yurinchi/"
-    },
-    {
-     "label": "会場先行販売",
-     "start": "2026-11-10",
-     "end": "2026-11-10",
-     "url": "https://radwimps.jp/news/16650/",
-     "note": "公演日13:00〜開場前。デジタルチケット"
-    }
-   ],
-   "source_url": "https://radwimps.jp/news/16474/",
-   "confidence": "high"
-  },
-  {
-   "artist": "Wienners",
-   "date": "2026-11-10",
-   "title": "Wienners 振替公演",
-   "kind": "対バン",
-   "venue": "仙台LIVE HOUSE enn 2nd（宮城）",
-   "ticket_name": "イープラス",
-   "ticket_url": "https://eplus.jp/sf/detail/1033790001-P0030166P021001?P1=0175",
-   "sale_info": "10/4から振替。開場18:30/開演19:00。既存チケット有効、払戻は10/11〜10/18。新規販売は10/19 10:00から（ぴあ・e+・ローチケ）。前売4,500円（ドリンク代別）。GUEST 忘れらんねえよ",
-   "source_url": "https://wienners.net/news/a7f439a2-6d04-4f64-ad42-d403a20060ed",
-   "confidence": "high",
-   "sales": [
-    {
-     "label": "新規販売（振替公演）",
-     "start": "2026-10-19",
-     "note": "10:00〜 ぴあ・イープラス・ローチケ"
-    },
-    {
-     "label": "一般発売（振替公演）",
-     "start": "2026-10-19",
-     "url": "https://wienners.net/news/a7f439a2-6d04-4f64-ad42-d403a20060ed",
-     "note": "開始10:00"
-    }
-   ],
-   "with": "忘れらんねえよ"
-  },
-  {
-   "artist": "ヤバイTシャツ屋さん",
-   "date": "2026-11-10",
-   "title": "\"Magical Tank-top Parade\" ONE-MAN TOUR 2026",
-   "kind": "ワンマン",
-   "venue": "Zepp Haneda（東京）",
-   "ticket_name": "ローソンチケット",
-   "ticket_url": "https://l-tike.com/yabaitshirtsyasan/t",
-   "source_url": "https://realsound.jp/2026/05/post-2389827.html",
-   "confidence": "high",
-   "sale_info": "6,050円（税込）＋ドリンク代。開場18:00／開演19:00"
-  },
-  {
-   "artist": "SiM",
-   "date": "2026-11-10",
-   "title": "SiM HOOMAN AFTER ALL World Tour",
-   "kind": "その他",
-   "venue": "Basement East（米国・ナッシュビル）",
-   "source_url": "https://musicpressbox.antimusic.com/26/r0521sim_announces_new_album_and_world_tour.shtml",
-   "confidence": "low",
-   "sale_info": "現地日付。2026年5月発表の日程。公式一覧では未確認"
-  },
   {
    "artist": "ORAL CIGARETTES",
    "date": "2026-11-11",
@@ -5300,6 +5179,13 @@
      "start": "2026-10-15",
      "end": "2026-10-25",
      "note": "21:00開始〜23:59締切"
+    },
+    {
+     "label": "オフィシャル5次受付（抽選）",
+     "start": "2026-11-06",
+     "end": "2026-11-15",
+     "url": "https://eplus.jp/radiocrazy2026/",
+     "note": "11/6 0:00〜11/15 23:59（e+）"
     }
    ],
    "source_url": "https://eplus.jp/radiocrazy2026/",
@@ -5549,7 +5435,16 @@
    "ticket_url": "https://eplus.jp/sf/word/0000065361",
    "sale_info": "開催12/26〜28のうち12/28出演",
    "source_url": "https://eplus.jp/radiocrazy2026/",
-   "confidence": "high"
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "オフィシャル5次受付（抽選）",
+     "start": "2026-11-06",
+     "end": "2026-11-15",
+     "url": "https://eplus.jp/radiocrazy2026/",
+     "note": "11/6 0:00〜11/15 23:59（e+）"
+    }
+   ]
   },
   {
    "kind": "フェス",
@@ -6610,6 +6505,27 @@
    ]
   },
   {
+   "artist": "ELLEGARDEN",
+   "date": "2027-01-19",
+   "title": "Bad For Education Tour II (2026) 大阪（10/27延期の振替公演）",
+   "kind": "ワンマン",
+   "venue": "Zepp Osaka Bayside（大阪）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/ellegarden2026/",
+   "sale_info": "10/27公演のチケットがそのまま有効（対応する振替日のみ）。開場18:00／開演19:00。払い戻しは11/15 23:59まで",
+   "sales": [
+    {
+     "label": "払い戻し受付（e+）",
+     "start": "2026-11-05",
+     "end": "2026-11-15",
+     "url": "https://www.sogoosaka.com/live_information/detail/530",
+     "note": "11/5 10:00〜11/15 23:59。期間外は不可"
+    }
+   ],
+   "source_url": "https://www.sogoosaka.com/live_information/detail/530",
+   "confidence": "high"
+  },
+  {
    "artist": "HEY-SMITH",
    "date": "2027-01-20",
    "title": "HEY-SMITH 20th ANNIVERSARY『ALL OVER JAPAN TOUR』",
@@ -6659,6 +6575,27 @@
    "kind": "その他",
    "venue": "SWG3（英国・グラスゴー）",
    "source_url": "https://www.livenation.com/artist/K8vZ917Q067/sim-events",
+   "confidence": "high"
+  },
+  {
+   "artist": "ELLEGARDEN",
+   "date": "2027-01-20",
+   "title": "Bad For Education Tour II (2026) 大阪（10/28延期の振替公演）",
+   "kind": "ワンマン",
+   "venue": "Zepp Osaka Bayside（大阪）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/ellegarden2026/",
+   "sale_info": "10/28公演のチケットがそのまま有効（対応する振替日のみ）。開場18:00／開演19:00。払い戻しは11/15 23:59まで",
+   "sales": [
+    {
+     "label": "払い戻し受付（e+）",
+     "start": "2026-11-05",
+     "end": "2026-11-15",
+     "url": "https://www.sogoosaka.com/live_information/detail/530",
+     "note": "11/5 10:00〜11/15 23:59。期間外は不可"
+    }
+   ],
+   "source_url": "https://www.sogoosaka.com/live_information/detail/530",
    "confidence": "high"
   },
   {
@@ -7294,6 +7231,27 @@
    "confidence": "high"
   },
   {
+   "artist": "ELLEGARDEN",
+   "date": "2027-01-25",
+   "title": "Bad For Education Tour II (2026) 仙台（11/2延期の振替公演）",
+   "kind": "ワンマン",
+   "venue": "仙台GIGS（宮城）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/ellegarden2026/",
+   "sale_info": "11/2公演のチケットがそのまま有効（対応する振替日のみ）。開場18:00／開演19:00。払い戻しは11/15 23:59まで",
+   "sales": [
+    {
+     "label": "払い戻し受付（e+）",
+     "start": "2026-11-05",
+     "end": "2026-11-15",
+     "url": "https://www.gip-web.co.jp/schedule/detail/8686",
+     "note": "11/5 10:00〜11/15 23:59。期間外は不可"
+    }
+   ],
+   "source_url": "https://www.gip-web.co.jp/schedule/detail/8686",
+   "confidence": "high"
+  },
+  {
    "artist": "TenTwenty",
    "date": "2027-01-26",
    "title": "ライブナタリー \"ビッケブランカ × TenTwenty\"",
@@ -7323,6 +7281,27 @@
    "source_url": "https://musicpressbox.antimusic.com/26/r0521sim_announces_new_album_and_world_tour.shtml",
    "confidence": "low",
    "sale_info": "2026年5月発表の日程。公式一覧では未確認"
+  },
+  {
+   "artist": "ELLEGARDEN",
+   "date": "2027-01-26",
+   "title": "Bad For Education Tour II (2026) 仙台（11/3延期の振替公演）",
+   "kind": "ワンマン",
+   "venue": "仙台GIGS（宮城）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/ellegarden2026/",
+   "sale_info": "11/3公演のチケットがそのまま有効（対応する振替日のみ）。開場18:00／開演19:00。払い戻しは11/15 23:59まで",
+   "sales": [
+    {
+     "label": "払い戻し受付（e+）",
+     "start": "2026-11-05",
+     "end": "2026-11-15",
+     "url": "https://www.gip-web.co.jp/schedule/detail/8686",
+     "note": "11/5 10:00〜11/15 23:59。期間外は不可"
+    }
+   ],
+   "source_url": "https://www.gip-web.co.jp/schedule/detail/8686",
+   "confidence": "high"
   },
   {
    "artist": "SiM",
@@ -7949,7 +7928,25 @@
    "kind": "ワンマン",
    "venue": "EX THEATER ROPPONGI（東京）",
    "source_url": "https://kebabsband.com/live/",
-   "confidence": "high"
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "オフィシャル先行",
+     "start": "2026-11-05",
+     "end": "2026-11-11",
+     "url": "https://w.pia.jp/s/thekebabs27oss/",
+     "note": "11/5 18:00〜11/11 23:59"
+    },
+    {
+     "label": "一般発売",
+     "start": "2027-01-09",
+     "url": "https://kebabsband.com/live/93553/",
+     "note": "10:00〜。ぴあ・e+・ローチケ"
+    }
+   ],
+   "ticket_name": "チケットぴあ",
+   "ticket_url": "https://w.pia.jp/s/thekebabs27oss/",
+   "sale_info": "開場18:00/開演19:00、5,500円(+1drink)"
   },
   {
    "artist": "SiM",
@@ -8272,7 +8269,18 @@
    "kind": "ワンマン",
    "venue": "大阪BIGCAT（大阪）",
    "source_url": "https://kebabsband.com/live/",
-   "confidence": "high"
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "オフィシャル先行",
+     "start": "2026-11-05",
+     "end": "2026-11-11",
+     "url": "https://w.pia.jp/s/thekebabs27oss/",
+     "note": "11/5 18:00〜11/11 23:59"
+    }
+   ],
+   "ticket_name": "チケットぴあ",
+   "ticket_url": "https://w.pia.jp/s/thekebabs27oss/"
   },
   {
    "artist": "SiM",
@@ -8334,7 +8342,18 @@
    "kind": "ワンマン",
    "venue": "仙台darwin（宮城）",
    "source_url": "https://kebabsband.com/live/",
-   "confidence": "high"
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "オフィシャル先行",
+     "start": "2026-11-05",
+     "end": "2026-11-11",
+     "url": "https://w.pia.jp/s/thekebabs27oss/",
+     "note": "11/5 18:00〜11/11 23:59"
+    }
+   ],
+   "ticket_name": "チケットぴあ",
+   "ticket_url": "https://w.pia.jp/s/thekebabs27oss/"
   },
   {
    "artist": "HEY-SMITH",
@@ -8532,7 +8551,17 @@
    "kind": "対バン",
    "venue": "松山Wstudio RED（愛媛）",
    "source_url": "https://yabaitshirtsyasan.com/live/",
-   "confidence": "high"
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "先行受付",
+     "end": "2026-10-25",
+     "url": "https://eplus.jp/longman-nobrakes/",
+     "note": "10/25 23:59締切（終了）。開始日は記載なし"
+    }
+   ],
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/longman-nobrakes/"
   },
   {
    "artist": "THE KEBABS",
@@ -8541,7 +8570,18 @@
    "kind": "ワンマン",
    "venue": "福岡BEAT STATION（福岡）",
    "source_url": "https://kebabsband.com/live/",
-   "confidence": "high"
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "オフィシャル先行",
+     "start": "2026-11-05",
+     "end": "2026-11-11",
+     "url": "https://w.pia.jp/s/thekebabs27oss/",
+     "note": "11/5 18:00〜11/11 23:59"
+    }
+   ],
+   "ticket_name": "チケットぴあ",
+   "ticket_url": "https://w.pia.jp/s/thekebabs27oss/"
   },
   {
    "artist": "Wienners",
@@ -9293,7 +9333,17 @@
    "kind": "フェス",
    "venue": "AICHI SKY EXPO（愛知）",
    "source_url": "https://yabaitshirtsyasan.com/news/",
-   "confidence": "low"
+   "confidence": "low",
+   "sales": [
+    {
+     "label": "オフィシャル5次先行",
+     "end": "2026-11-23",
+     "url": "https://w.pia.jp/t/rumble-jag2027/",
+     "note": "11/23 23:59まで。開始日は記載なし"
+    }
+   ],
+   "ticket_name": "チケットぴあ",
+   "ticket_url": "https://w.pia.jp/t/rumble-jag2027/"
   },
   {
    "artist": "HEY-SMITH",
@@ -12291,7 +12341,7 @@
    "pref": "大阪",
    "status": "lineup",
    "source_url": "https://www.ragnet.co.jp/rock-festival",
-   "lineup_checked": "2026-11-10",
+   "lineup_checked": "2026-11-11",
    "lineup": [
     "愛はズボーン",
     "アイアムアイ",
@@ -12487,7 +12537,7 @@
      "note": "10:00〜 イープラス ※9/11完売"
     }
    ],
-   "lineup_checked": "2026-11-10",
+   "lineup_checked": "2026-11-11",
    "lineup_days": {
     "2026-11-21": [
      "ハルカミライ",
@@ -12754,7 +12804,7 @@
    "ticket_url": "https://w.pia.jp/t/dreamfestival/",
    "source_url": "https://dreamfestival.jp/",
    "status": "lineup",
-   "lineup_checked": "2026-11-10",
+   "lineup_checked": "2026-11-11",
    "image": "https://dreamfestival.jp/assets/common/img/share/og.jpg",
    "lineup_days": {
     "2026-11-21": [
@@ -12840,7 +12890,7 @@
      "note": "プレミア席・一般指定・U-12は両日完売"
     }
    ],
-   "lineup_checked": "2026-11-10",
+   "lineup_checked": "2026-11-11",
    "lineup_days": {
     "2026-11-22": [
      "Omoinotake",
@@ -12882,7 +12932,7 @@
      "note": "20:00〜 締切は未確認"
     }
    ],
-   "lineup_checked": "2026-11-10",
+   "lineup_checked": "2026-11-11",
    "lineup_days": {
     "2026-11-22": [
      "Maki",
@@ -12964,7 +13014,7 @@
    "pref": "兵庫",
    "status": "lineup",
    "source_url": "https://ototoy.jp/news/132535",
-   "lineup_checked": "2026-11-10",
+   "lineup_checked": "2026-11-11",
    "lineup": [
     "Panorama Panama Town",
     "夜の本気ダンス",
@@ -13389,7 +13439,7 @@
      "note": "DAY/NIGHT/DAY(U18)。ALL券は完売"
     }
    ],
-   "lineup_checked": "2026-11-10",
+   "lineup_checked": "2026-11-11",
    "image": "https://pkshampoo.jp/psychicfes/images/card_psychicfes.png",
    "lineup_days": {
     "2026-11-28": [
@@ -14589,20 +14639,72 @@
    "start": "2026-12-11",
    "end": "2026-12-13",
    "pref": "静岡県",
-   "status": "unknown",
-   "lineup": [],
-   "source_url": "https://www.ragnet.co.jp/music-festival-winter",
-   "lineup_checked": "2026-11-08",
-   "venue": "ふもとっぱら"
+   "status": "lineup",
+   "lineup": [
+    "銀座たけ内",
+    "Satoshi Miya",
+    "歌声ナイトクラブ"
+   ],
+   "source_url": "https://www.gooutcamp.jp/winter/artist/",
+   "lineup_checked": "2026-11-11",
+   "venue": "ふもとっぱら",
+   "official_url": "https://www.gooutcamp.jp/winter/",
+   "ticket_name": "ローソンチケット",
+   "ticket_url": "https://www.gooutcamp.jp/winter/ticket/",
+   "sales": [
+    {
+     "label": "特製シェラカップ付きチケット（先行販売）",
+     "start": "2026-09-30",
+     "end": "2026-11-12",
+     "url": "https://l-tike.com/event/mevent/?mid=795507",
+     "note": "9/30 12:00〜11/12 22:00"
+    },
+    {
+     "label": "一般販売",
+     "start": "2026-11-13",
+     "end": "2026-12-11",
+     "url": "https://l-tike.com/event/mevent/?mid=373294",
+     "note": "11/13 12:00〜12/11 22:00"
+    }
+   ],
+   "note": "出演者は公式掲載の3組（日別は未発表。続報あり）"
   },
   {
    "name": "カデナロックフェスティバル",
    "start": "2026-12-12",
    "end": "2026-12-13",
    "pref": "沖縄",
-   "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival",
-   "lineup_checked": "2026-11-08"
+   "status": "lineup",
+   "source_url": "https://go-kadena.com/history/article-2622/",
+   "lineup_checked": "2026-11-11",
+   "lineup": [
+    "THE WALTZ",
+    "The Junky JAP Dogs",
+    "Bleach",
+    "SSD スーパースタミナドリンクス",
+    "地獄車",
+    "NEW TOWNER",
+    "DUTY FREE SHOPP.",
+    "EAST WOMAN",
+    "ナオキ屋&THE愛愛伝伝",
+    "トリックスターグーニーズ",
+    "カクマクシャカ",
+    "THE QUESTIONS",
+    "アルカシルカ",
+    "NEED LEAD USER",
+    "GO BANANAS",
+    "琉球Rudy's",
+    "ダンセイ",
+    "ヨシムラタカシ",
+    "KITOKA",
+    "ヨシキカーニバル",
+    "カイヌシゆうさく",
+    "ワンダフルワンダー",
+    "ショッキング桃色"
+   ],
+   "venue": "道の駅かでな",
+   "official_url": "https://go-kadena.com/history/article-2622/",
+   "note": "入場無料・11:00〜20:00。日別の振り分けは未記載"
   },
   {
    "name": "結びの夢番地",
@@ -14934,8 +15036,9 @@
    "pref": "大阪府",
    "status": "unknown",
    "lineup": [],
-   "source_url": "https://www.ragnet.co.jp/music-festival-winter",
-   "lineup_checked": "2026-11-07"
+   "source_url": "https://www.ragnet.co.jp/music-festival-winter/6",
+   "lineup_checked": "2026-11-11",
+   "venue": "服部緑地野外音楽堂"
   },
   {
    "name": "MIW FES in 小豆島",
@@ -14944,8 +15047,9 @@
    "pref": "香川県",
    "status": "unknown",
    "lineup": [],
-   "source_url": "https://www.ragnet.co.jp/music-festival-winter",
-   "lineup_checked": "2026-11-08"
+   "source_url": "https://www.ragnet.co.jp/music-festival-winter/9",
+   "lineup_checked": "2026-11-11",
+   "venue": "小豆島ふるさと村"
   },
   {
    "name": "長田大行進曲",
@@ -14954,7 +15058,7 @@
    "pref": "兵庫",
    "status": "unknown",
    "source_url": "https://www.ragnet.co.jp/rock-festival",
-   "lineup_checked": "2026-11-08"
+   "lineup_checked": "2026-11-11"
   },
   {
    "name": "MERRY ROCK PARADE 2026",
@@ -15204,9 +15308,42 @@
    "start": "2026-12-20",
    "end": "2026-12-20",
    "pref": "神奈川",
-   "status": "unknown",
-   "source_url": "https://www.ragnet.co.jp/rock-festival",
-   "lineup_checked": "2026-11-08"
+   "status": "lineup",
+   "source_url": "https://www.town.aikawa.kanagawa.jp/sports_bunka/bunka/wkot/18902.html",
+   "lineup_checked": "2026-11-11",
+   "lineup": [
+    "SLOWINGS",
+    "マシマシ",
+    "COLORs!GLASS",
+    "uncertrain",
+    "unusual",
+    "Mononykus",
+    "MAD SCIENTIST",
+    "すこちゃんずっ！",
+    "バルVI",
+    "爺チャーズ",
+    "陽だまり",
+    "THANX"
+   ],
+   "lineup_days": {
+    "2026-12-20": [
+     "SLOWINGS",
+     "マシマシ",
+     "COLORs!GLASS",
+     "uncertrain",
+     "unusual",
+     "Mononykus",
+     "MAD SCIENTIST",
+     "すこちゃんずっ！",
+     "バルVI",
+     "爺チャーズ",
+     "陽だまり",
+     "THANX"
+    ]
+   },
+   "venue": "愛川町文化会館ホール",
+   "official_url": "https://www.town.aikawa.kanagawa.jp/sports_bunka/bunka/wkot/index.html",
+   "image": "https://www.town.aikawa.kanagawa.jp/theme/base/img_common/ogp_noimage.png"
   },
   {
    "name": "TOMIROCK",
@@ -15215,8 +15352,9 @@
    "pref": "埼玉県",
    "status": "unknown",
    "lineup": [],
-   "source_url": "https://www.ragnet.co.jp/music-festival-winter",
-   "lineup_checked": "2026-11-08"
+   "source_url": "https://www.ragnet.co.jp/music-festival-winter/5",
+   "lineup_checked": "2026-11-11",
+   "venue": "アメージングカレッジ"
   },
   {
    "name": "AniCore",
@@ -15791,7 +15929,7 @@
     "FM802弾き語り部 部長・サイトウタクヤ（w.o.d.）",
     "林萌々子（Hump Back）"
    ],
-   "lineup_checked": "2026-11-10",
+   "lineup_checked": "2026-11-11",
    "sales": [
     {
      "label": "オフィシャル3次抽選",
@@ -16135,8 +16273,27 @@
    "lineup": [],
    "source_url": "https://kai-you.net/article/96807",
    "venue": "有明アリーナ",
-   "note": "ヒップホップイベント（ABEMA『RAPSTAR 2026』決勝を兼ねる）。ライブ出演者は順次発表",
-   "lineup_checked": "2026-11-08"
+   "note": "ヒップホップイベント（ABEMA『RAPSTAR 2026』決勝を兼ねる）。ライブ出演者は順次発表。11/7に出演者の追加発表あり（公式は画像のみで未取得）",
+   "lineup_checked": "2026-11-11",
+   "official_url": "https://rapstar-abema.com/",
+   "ticket_name": "ローソンチケット",
+   "ticket_url": "https://l-tike.com/starz2026/",
+   "sales": [
+    {
+     "label": "最速先行（抽選）",
+     "start": "2026-10-10",
+     "end": "2026-10-19",
+     "url": "https://l-tike.com/starz2026/"
+    },
+    {
+     "label": "2次先行（抽選）",
+     "start": "2026-10-31",
+     "end": "2026-11-11",
+     "url": "https://l-tike.com/starz2026/",
+     "note": "10/31 12:00〜11/11 23:59"
+    }
+   ],
+   "image": "https://rapstar-abema.com/img_common/fbimg2026b.png"
   },
   {
    "name": "ROCK IN WINTER",
@@ -16146,8 +16303,9 @@
    "venue": "Diamond Hall ほか名古屋新栄エリア",
    "status": "unknown",
    "lineup": [],
-   "lineup_checked": "2026-11-05",
-   "source_url": "https://www.ragnet.co.jp/music-festival-winter"
+   "lineup_checked": "2026-11-11",
+   "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+   "note": "日程は公式で未確認（要再確認）"
   },
   {
    "name": "ロックンロールサーカス",
@@ -16761,13 +16919,19 @@
   },
   {
    "name": "TOKYO SPACESHIP",
-   "start": "2027-02-13",
-   "end": "2027-02-14",
    "pref": "東京都",
    "status": "unknown",
-   "lineup": [],
-   "source_url": "https://www.ragnet.co.jp/music-festival-winter",
-   "lineup_checked": "2026-11-05"
+   "lineup": [
+    "This is LAST",
+    "レトロリロン"
+   ],
+   "source_url": "https://www.event-td.com/tokyospaceship/",
+   "lineup_checked": "2026-11-11",
+   "tba": true,
+   "venue": "東京ドーム",
+   "official_url": "https://www.event-td.com/tokyospaceship/",
+   "note": "開催見合わせ（2026-09-30 主催者発表。当初 2027-02-13・14）。新しい日程は未発表",
+   "image": "https://www.event-td.com/tokyospaceship/ogp_1200x600.png?20260701"
   },
   {
    "name": "海と風とピクニック",
@@ -16777,7 +16941,8 @@
    "status": "unknown",
    "lineup": [],
    "source_url": "https://www.ragnet.co.jp/music-festival-winter",
-   "lineup_checked": "2026-11-05"
+   "lineup_checked": "2026-11-11",
+   "note": "日程は公式で未確認（要再確認）"
   },
   {
    "name": "てゲてゲハイスクールフェスティバル",
@@ -16786,8 +16951,11 @@
    "pref": "鹿児島県",
    "status": "unknown",
    "lineup": [],
-   "source_url": "https://www.ragnet.co.jp/music-festival-winter",
-   "lineup_checked": "2026-11-05"
+   "source_url": "https://www.mbc.co.jp/event/tegefes2027/",
+   "lineup_checked": "2026-11-11",
+   "venue": "アミュプラザ鹿児島 AMU広場・若き薩摩の群像前広場",
+   "official_url": "https://www.mbc.co.jp/event/tegefes2027/",
+   "image": "https://www.mbc.co.jp/event/tegefes2027/image/20261013_bana_mini.jpg"
   },
   {
    "name": "LISANI! TOKYO",
@@ -17064,7 +17232,8 @@
    "pref": "東京",
    "status": "unknown",
    "source_url": "https://www.ragnet.co.jp/rock-festival",
-   "lineup_checked": "2026-11-05"
+   "lineup_checked": "2026-11-11",
+   "note": "日程は公式で未確認（要再確認）"
   },
   {
    "name": "SYNCHRONICITY'27",
@@ -17622,7 +17791,7 @@
      "鳥井ナオキ（ヨガ）"
     ]
    },
-   "lineup_checked": "2026-11-10",
+   "lineup_checked": "2026-11-11",
    "ticket_name": "イープラス",
    "ticket_url": "https://eplus.jp/sf/detail/4564840001-P0030001",
    "sales": [
@@ -17639,6 +17808,19 @@
      "end": "2026-11-15",
      "url": "https://eplus.jp/sf/detail/4564840001-P0030001",
      "note": "大人7,000円/高校生3,000円。各公演日11:00まで"
+    },
+    {
+     "label": "早割先行通し券",
+     "start": "2026-07-29",
+     "end": "2026-08-31",
+     "url": "http://eplus.jp/sf/word/0000180070",
+     "note": "11,000円"
+    },
+    {
+     "label": "一般発売（通し券）",
+     "start": "2026-09-01",
+     "url": "http://eplus.jp/sf/word/0000180070",
+     "note": "12,000円。1日券は大人7,000円"
     }
    ],
    "note": "2日通し券12,000円。開場11:00/開演12:00",
@@ -18031,7 +18213,7 @@
   },
   "マキシマム ザ ホルモン": {
    "eplus": "https://eplus.jp/sf/word/0000003230",
-   "news": "(公式NEWSは使えない。55mth.comは2015年で停止、maximumthehormone.jpは英語版。e+・ナタリーで確認)",
+   "news": "https://www.55mth.com/pc/news/index.php?news_category_id=3",
    "pia": "https://t.pia.jp/pia/artist/artists.do?artistsCd=11014200",
    "official": "https://www.55mth.com/",
    "schedule": "https://www.55mth.com/pc/live/schedule.php"
@@ -18361,14 +18543,14 @@
   },
   "ELLEGARDEN": {
    "state": "ok",
-   "checked": "2026-11-10T20:07:00+09:00",
+   "checked": "2026-11-11T07:10:05+09:00",
    "note": "10/23名古屋は延期（振替日程は調整中・未発表）",
    "news_checked": "2026-11-08T07:07:00+09:00"
   },
   "ヤバイTシャツ屋さん": {
    "state": "ok",
-   "checked": "2026-11-09T20:07:00+09:00",
-   "news_checked": "2026-11-09T20:07:00+09:00"
+   "checked": "2026-11-11T07:10:05+09:00",
+   "news_checked": "2026-11-11T07:10:05+09:00"
   },
   "ORAL CIGARETTES": {
    "state": "ok",
@@ -18377,13 +18559,13 @@
   },
   "HEY-SMITH": {
    "state": "ok",
-   "checked": "2026-11-10T20:07:00+09:00",
+   "checked": "2026-11-11T07:10:05+09:00",
    "news_checked": "2026-11-08T07:07:00+09:00"
   },
   "マキシマム ザ ホルモン": {
    "state": "ok",
-   "checked": "2026-11-10T20:07:00+09:00",
-   "news_checked": "2026-11-08T07:07:00+09:00"
+   "checked": "2026-11-11T07:10:05+09:00",
+   "news_checked": "2026-11-11T07:10:05+09:00"
   },
   "サンボマスター": {
    "state": "ok",
@@ -18422,23 +18604,23 @@
   },
   "RADWIMPS": {
    "state": "ok",
-   "checked": "2026-11-09T20:07:00+09:00",
-   "news_checked": "2026-11-09T20:07:00+09:00"
+   "checked": "2026-11-11T07:10:05+09:00",
+   "news_checked": "2026-11-11T07:10:05+09:00"
   },
   "a flood of circle": {
    "state": "ok",
-   "checked": "2026-11-09T20:07:00+09:00",
-   "news_checked": "2026-11-09T20:07:00+09:00"
+   "checked": "2026-11-11T07:10:05+09:00",
+   "news_checked": "2026-11-11T07:10:05+09:00"
   },
   "THE KEBABS": {
    "state": "ok",
-   "checked": "2026-11-09T20:07:00+09:00",
-   "news_checked": "2026-11-09T20:07:00+09:00"
+   "checked": "2026-11-11T07:10:05+09:00",
+   "news_checked": "2026-11-11T07:10:05+09:00"
   },
   "coldrain": {
    "state": "ok",
-   "checked": "2026-11-09T20:07:00+09:00",
-   "news_checked": "2026-11-09T20:07:00+09:00"
+   "checked": "2026-11-11T07:10:05+09:00",
+   "news_checked": "2026-11-11T07:10:05+09:00"
   },
   "TenTwenty": {
    "state": "ok",
@@ -18457,7 +18639,7 @@
   },
   "UNISON SQUARE GARDEN": {
    "state": "no_events",
-   "checked": "2026-11-10T20:07:00+09:00",
+   "checked": "2026-11-11T07:10:05+09:00",
    "note": "2026-04-27に活動休止を発表。最終公演は2026-07-15。再開の発表なし",
    "news_checked": "2026-11-08T07:07:00+09:00"
   },
@@ -18513,28 +18695,28 @@
   },
   "THE ALFEE": {
    "state": "ok",
-   "checked": "2026-11-09T07:10:00+09:00",
-   "news_checked": "2026-11-09T07:10:00+09:00"
+   "checked": "2026-11-11T07:10:05+09:00",
+   "news_checked": "2026-11-11T07:10:05+09:00"
   },
   "バブルガム・ブラザーズ": {
    "state": "ok",
-   "checked": "2026-11-09T07:10:00+09:00",
-   "news_checked": "2026-11-09T07:10:00+09:00"
+   "checked": "2026-11-11T07:10:05+09:00",
+   "news_checked": "2026-11-11T07:10:05+09:00"
   },
   "Bro.KORN": {
    "state": "ok",
-   "checked": "2026-11-09T07:10:00+09:00",
-   "news_checked": "2026-11-09T07:10:00+09:00"
+   "checked": "2026-11-11T07:10:05+09:00",
+   "news_checked": "2026-11-11T07:10:05+09:00"
   },
   "ブラザートム": {
    "state": "ok",
-   "checked": "2026-11-09T07:10:00+09:00",
-   "news_checked": "2026-11-09T07:10:00+09:00"
+   "checked": "2026-11-11T07:10:05+09:00",
+   "news_checked": "2026-11-11T07:10:05+09:00"
   },
   "Aimer": {
    "state": "ok",
-   "checked": "2026-11-09T07:10:00+09:00",
-   "news_checked": "2026-11-09T07:10:00+09:00"
+   "checked": "2026-11-11T07:10:05+09:00",
+   "news_checked": "2026-11-11T07:10:05+09:00"
   }
  }
 }
