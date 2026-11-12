@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T20:12:00+09:00",
+ "updated": "2026-11-12T20:09:00+09:00",
  "artists": [
   "04 Limited Sazabys",
   "ELLEGARDEN",
@@ -43,138 +43,14 @@
  ],
  "events": [
   {
-   "artist": "ORAL CIGARETTES",
-   "date": "2026-11-11",
-   "title": "WANDER ABOUT 放浪 TOUR 2026 関東編",
-   "kind": "対バン",
-   "venue": "東京 FEVER",
-   "with": "TYOSiN",
-   "sale_info": "SOLD OUT（公式LIVE一覧）。5,500円＋ドリンク代",
-   "ticket_name": "e+",
-   "ticket_url": "https://eplus.jp/sf/word/0000044957",
-   "source_url": "https://dime.jp/company_news/detail/?pr=2664079",
-   "confidence": "high",
-   "sales": [
-    {
-     "label": "FC先行",
-     "start": "2026-08-03",
-     "end": "2026-08-07",
-     "url": "https://spice.eplus.jp/articles/348011",
-     "note": "19:00〜23:59"
-    }
-   ]
-  },
-  {
-   "artist": "RADWIMPS",
-   "date": "2026-11-11",
-   "title": "RADWIMPS Official Fan Club Tour 2026 ユーリンチー \"おかわり\" 追加公演",
-   "kind": "ワンマン",
-   "venue": "ぴあアリーナMM（神奈川）",
-   "sale_info": "11/10・11/11の2日間。ボクンチ会員限定。開場18:00 開演19:00。9,900〜12,100円。完売 両日SOLD OUT。開場18:00/開演19:00",
-   "ticket_name": "ボクンチ（会員限定）",
-   "ticket_url": "https://radwimps.jp/yurinchi/",
-   "sales": [
-    {
-     "label": "ボクンチ会員1次受付",
-     "start": "2026-07-24",
-     "end": "2026-08-03",
-     "note": "抽選 12:00〜23:59"
-    },
-    {
-     "label": "ボクンチ会員2次受付",
-     "start": "2026-08-21",
-     "end": "2026-08-27",
-     "note": "抽選 12:00〜23:59"
-    },
-    {
-     "label": "リセール（定価・抽選、ボクンチ会員）",
-     "start": "2026-11-01",
-     "end": "2026-11-04",
-     "url": "https://radwimps-ticket.jp/",
-     "note": "11/1 13:00〜11/4 12:00。公式NEWS 2026.10.23"
-    },
-    {
-     "label": "1次受付（ボクンチ会員・抽選）",
-     "start": "2026-07-24",
-     "end": "2026-08-03",
-     "url": "https://radwimps.jp/yurinchi/",
-     "note": "開始12:00・締切23:59・受付終了"
-    },
-    {
-     "label": "2次受付（ボクンチ会員・抽選）",
-     "start": "2026-08-21",
-     "end": "2026-08-27",
-     "url": "https://radwimps.jp/yurinchi/",
-     "note": "開始12:00・締切23:59・受付終了・SOLD OUT"
-    },
-    {
-     "label": "公式リセール（定価・抽選）",
-     "start": "2026-11-01",
-     "end": "2026-11-04",
-     "url": "https://radwimps.jp/yurinchi/",
-     "note": "開始13:00・締切12:00"
-    },
-    {
-     "label": "ボクンチ会員限定受付（抽選）",
-     "start": "2026-07-24",
-     "end": "2026-08-03",
-     "url": "https://radwimps.jp/yurinchi/"
-    },
-    {
-     "label": "ボクンチ会員限定2次受付（抽選）",
-     "start": "2026-08-21",
-     "end": "2026-08-27",
-     "url": "https://radwimps.jp/yurinchi/"
-    },
-    {
-     "label": "会場先行販売",
-     "start": "2026-11-11",
-     "end": "2026-11-11",
-     "url": "https://radwimps.jp/news/16650/",
-     "note": "公演日13:00〜開場前。デジタルチケット"
-    }
-   ],
-   "source_url": "https://radwimps.jp/news/16474/",
+   "artist": "Mrs. GREEN APPLE",
+   "date": "2026-11-12",
+   "title": "Mrs. GREEN APPLE×FM802「POPS」TALK SESSION in 大阪 supported by Pontaパス",
+   "kind": "イベント",
+   "venue": "あべのキューズモール（大阪）",
+   "sale_info": "18:00開始。FM802公開生放送＆トーク収録。観覧は会場CD即売会の事前抽選",
+   "source_url": "https://mrsgreenapple.com/news/detail/23356",
    "confidence": "high"
-  },
-  {
-   "artist": "ヤバイTシャツ屋さん",
-   "date": "2026-11-11",
-   "title": "\"Magical Tank-top Parade\" ONE-MAN TOUR 2026",
-   "kind": "ワンマン",
-   "venue": "Zepp Haneda（東京）",
-   "ticket_name": "ローソンチケット",
-   "ticket_url": "https://l-tike.com/yabaitshirtsyasan/t",
-   "source_url": "https://realsound.jp/2026/05/post-2389827.html",
-   "confidence": "high",
-   "sale_info": "6,050円（税込）＋ドリンク代。開場18:00／開演19:00"
-  },
-  {
-   "artist": "ELLEGARDEN",
-   "date": "2026-11-11",
-   "title": "AUDIO 20th Anniversary AUDIOLOCKS",
-   "kind": "対バン",
-   "venue": "高松festhalle（香川）",
-   "source_url": "https://eplus.jp/sf/detail/4579330001-P0030001P021001",
-   "confidence": "high",
-   "ticket_name": "イープラス",
-   "ticket_url": "https://eplus.jp/sf/detail/4579330001-P0030001P021001",
-   "sale_info": "開場17:30／開演18:30。The Birthdayと対バン",
-   "with": "The Birthday",
-   "sales": [
-    {
-     "label": "オフィシャル抽選受付",
-     "start": "2026-08-01",
-     "end": "2026-08-09",
-     "url": "https://eplus.jp/sf/detail/4579330001-P0030001P021001"
-    },
-    {
-     "label": "オフィシャル2次抽選受付",
-     "start": "2026-08-28",
-     "end": "2026-09-06",
-     "url": "https://eplus.jp/sf/detail/4579330001-P0030001P021001"
-    }
-   ]
   },
   {
    "artist": "ORAL CIGARETTES",
@@ -220,16 +96,6 @@
    "confidence": "high",
    "with": "Orchestre de Paris",
    "ticket_name": "SISTIC"
-  },
-  {
-   "artist": "Mrs. GREEN APPLE",
-   "date": "2026-11-12",
-   "title": "Mrs. GREEN APPLE×FM802「POPS」TALK SESSION in 大阪 supported by Pontaパス",
-   "kind": "イベント",
-   "venue": "あべのキューズモール（大阪）",
-   "sale_info": "18:00開始。FM802公開生放送＆トーク収録。観覧は会場CD即売会の事前抽選",
-   "source_url": "https://mrsgreenapple.com/news/detail/23356",
-   "confidence": "high"
   },
   {
    "artist": "Fear, and Loathing in Las Vegas",
@@ -403,6 +269,16 @@
    ]
   },
   {
+   "artist": "SiM",
+   "date": "2026-11-14",
+   "title": "SiM HOOMAN AFTER ALL World Tour",
+   "kind": "その他",
+   "venue": "Come and Take It Live（米国・オースティン）",
+   "source_url": "https://musicpressbox.antimusic.com/26/r0521sim_announces_new_album_and_world_tour.shtml",
+   "confidence": "low",
+   "sale_info": "現地日付。2026年5月発表の日程。公式一覧では未確認"
+  },
+  {
    "artist": "THE ALFEE",
    "date": "2026-11-14",
    "title": "THE ALFEE Autumn Celebration 2026 Moonlight Rhapsody II",
@@ -463,16 +339,6 @@
    "confidence": "high",
    "with": "Orchestre de Paris",
    "ticket_name": "SISTIC"
-  },
-  {
-   "artist": "SiM",
-   "date": "2026-11-14",
-   "title": "SiM HOOMAN AFTER ALL World Tour",
-   "kind": "その他",
-   "venue": "Come and Take It Live（米国・オースティン）",
-   "source_url": "https://musicpressbox.antimusic.com/26/r0521sim_announces_new_album_and_world_tour.shtml",
-   "confidence": "low",
-   "sale_info": "現地日付。2026年5月発表の日程。公式一覧では未確認"
   },
   {
    "artist": "9mm Parabellum Bullet",
@@ -536,6 +402,18 @@
    ]
   },
   {
+   "artist": "Novelbright",
+   "date": "2026-11-15",
+   "title": "OSM「Dr.ねぎ×若月佑美」トークイベント（ねぎ 出演）",
+   "kind": "イベント",
+   "venue": "大阪スクールオブミュージック専門学校（大阪）",
+   "with": "若月佑美",
+   "ticket_url": "https://www.osm.ac.jp/lp/festival/",
+   "sale_info": "トークショー11:00〜12:00（一般申込可）",
+   "source_url": "https://novelbright.jp/schedule/detail/2502",
+   "confidence": "high"
+  },
+  {
    "artist": "ORAL CIGARETTES",
    "date": "2026-11-15",
    "title": "WANDER ABOUT 放浪 TOUR 2026 関東編",
@@ -587,6 +465,16 @@
      "note": "12:00開始〜11/14 18:00"
     }
    ]
+  },
+  {
+   "artist": "SiM",
+   "date": "2026-11-15",
+   "title": "SiM HOOMAN AFTER ALL World Tour",
+   "kind": "その他",
+   "venue": "Warehouse Live Midtown（米国・ヒューストン）",
+   "source_url": "https://musicpressbox.antimusic.com/26/r0521sim_announces_new_album_and_world_tour.shtml",
+   "confidence": "low",
+   "sale_info": "現地日付。2026年5月発表の日程。公式一覧では未確認。別の掲載では11/21とされ一致せず"
   },
   {
    "artist": "THE ALFEE",
@@ -683,28 +571,6 @@
    ],
    "source_url": "https://yabaitshirtsyasan.com/live/294097/",
    "confidence": "high"
-  },
-  {
-   "artist": "Novelbright",
-   "date": "2026-11-15",
-   "title": "OSM「Dr.ねぎ×若月佑美」トークイベント（ねぎ 出演）",
-   "kind": "イベント",
-   "venue": "大阪スクールオブミュージック専門学校（大阪）",
-   "with": "若月佑美",
-   "ticket_url": "https://www.osm.ac.jp/lp/festival/",
-   "sale_info": "トークショー11:00〜12:00（一般申込可）",
-   "source_url": "https://novelbright.jp/schedule/detail/2502",
-   "confidence": "high"
-  },
-  {
-   "artist": "SiM",
-   "date": "2026-11-15",
-   "title": "SiM HOOMAN AFTER ALL World Tour",
-   "kind": "その他",
-   "venue": "Warehouse Live Midtown（米国・ヒューストン）",
-   "source_url": "https://musicpressbox.antimusic.com/26/r0521sim_announces_new_album_and_world_tour.shtml",
-   "confidence": "low",
-   "sale_info": "現地日付。2026年5月発表の日程。公式一覧では未確認。別の掲載では11/21とされ一致せず"
   },
   {
    "artist": "04 Limited Sazabys",
@@ -1133,6 +999,28 @@
    "confidence": "high"
   },
   {
+   "artist": "HEY-SMITH",
+   "date": "2026-11-21",
+   "title": "山嵐 ツアー\"スペースフラワー2026\" ーTOUR FINALー",
+   "kind": "対バン",
+   "venue": "恵比寿LIQUIDROOM（東京）",
+   "with": "山嵐",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/yamaarashi/",
+   "sale_info": "開場17:30／開演18:30。前売4,400円。HEY-SMITHはゲスト出演。e+では一般発売分が予定枚数終了",
+   "sales": [
+    {
+     "label": "一般発売（先着）",
+     "start": "2026-02-21",
+     "end": "2026-11-20",
+     "url": "https://eplus.jp/yamaarashi/",
+     "note": "10:00開始、最終日18:00まで。e+は予定枚数終了の表示"
+    }
+   ],
+   "source_url": "https://hey-smith.com/live?y=2026&m=11",
+   "confidence": "high"
+  },
+  {
    "artist": "Novelbright",
    "date": "2026-11-21",
    "title": "テレビ朝日ドリームフェスティバル2026",
@@ -1141,6 +1029,16 @@
    "sale_info": "開演15:00予定。出演はNovelbright公式LIVE欄の掲載のみ（外部の裏取り未了）",
    "source_url": "https://novelbright.jp/",
    "confidence": "high"
+  },
+  {
+   "artist": "SiM",
+   "date": "2026-11-21",
+   "title": "SiM HOOMAN AFTER ALL World Tour",
+   "kind": "その他",
+   "venue": "House of Blues（米国・サンディエゴ）",
+   "source_url": "https://musicpressbox.antimusic.com/26/r0521sim_announces_new_album_and_world_tour.shtml",
+   "confidence": "low",
+   "sale_info": "現地日付。2026年5月発表の日程。公式一覧では未確認"
   },
   {
    "artist": "[Alexandros]",
@@ -1207,38 +1105,6 @@
    "ticket_url": "https://saikoro7.com/",
    "sale_info": "開場16:30/開演17:30 全席指定。一般5,000円",
    "source_url": "https://www.harukamirai.com/schedule/detail/1303",
-   "confidence": "high"
-  },
-  {
-   "artist": "SiM",
-   "date": "2026-11-21",
-   "title": "SiM HOOMAN AFTER ALL World Tour",
-   "kind": "その他",
-   "venue": "House of Blues（米国・サンディエゴ）",
-   "source_url": "https://musicpressbox.antimusic.com/26/r0521sim_announces_new_album_and_world_tour.shtml",
-   "confidence": "low",
-   "sale_info": "現地日付。2026年5月発表の日程。公式一覧では未確認"
-  },
-  {
-   "artist": "HEY-SMITH",
-   "date": "2026-11-21",
-   "title": "山嵐 ツアー\"スペースフラワー2026\" ーTOUR FINALー",
-   "kind": "対バン",
-   "venue": "恵比寿LIQUIDROOM（東京）",
-   "with": "山嵐",
-   "ticket_name": "イープラス",
-   "ticket_url": "https://eplus.jp/yamaarashi/",
-   "sale_info": "開場17:30／開演18:30。前売4,400円。HEY-SMITHはゲスト出演。e+では一般発売分が予定枚数終了",
-   "sales": [
-    {
-     "label": "一般発売（先着）",
-     "start": "2026-02-21",
-     "end": "2026-11-20",
-     "url": "https://eplus.jp/yamaarashi/",
-     "note": "10:00開始、最終日18:00まで。e+は予定枚数終了の表示"
-    }
-   ],
-   "source_url": "https://hey-smith.com/live?y=2026&m=11",
    "confidence": "high"
   },
   {
@@ -1327,6 +1193,16 @@
    "confidence": "high"
   },
   {
+   "artist": "SiM",
+   "date": "2026-11-22",
+   "title": "SiM HOOMAN AFTER ALL World Tour",
+   "kind": "その他",
+   "venue": "The Belasco（米国・ロサンゼルス）",
+   "source_url": "https://musicpressbox.antimusic.com/26/r0521sim_announces_new_album_and_world_tour.shtml",
+   "confidence": "low",
+   "sale_info": "現地日付。2026年5月発表の日程。公式一覧では未確認"
+  },
+  {
    "artist": "TenTwenty",
    "date": "2026-11-22",
    "title": "SENDAI PIT 10th Anniversary × Fantastic Date fm「RAD DAY 6.5」",
@@ -1405,16 +1281,6 @@
    ],
    "source_url": "https://eplus.jp/sf/detail/2669250001-P0030004P021001",
    "confidence": "high"
-  },
-  {
-   "artist": "SiM",
-   "date": "2026-11-22",
-   "title": "SiM HOOMAN AFTER ALL World Tour",
-   "kind": "その他",
-   "venue": "The Belasco（米国・ロサンゼルス）",
-   "source_url": "https://musicpressbox.antimusic.com/26/r0521sim_announces_new_album_and_world_tour.shtml",
-   "confidence": "low",
-   "sale_info": "現地日付。2026年5月発表の日程。公式一覧では未確認"
   },
   {
    "artist": "ROTTENGRAFFTY",
@@ -1983,6 +1849,19 @@
    ]
   },
   {
+   "artist": "Novelbright",
+   "date": "2026-11-28",
+   "title": "e+ Streaming+ Ryuichi Kawamura Live2026「Home」#57（竹中雄大 出演）",
+   "kind": "その他",
+   "venue": "配信（e+ Streaming+・収録配信）",
+   "with": "河村隆一",
+   "ticket_name": "e+ Streaming+",
+   "ticket_url": "https://eplus.jp/rk20261128-yudai/st/",
+   "sale_info": "20:00開演。アーカイブは12/3 23:59まで",
+   "source_url": "https://novelbright.jp/schedule/detail/2531",
+   "confidence": "high"
+  },
+  {
    "artist": "ORAL CIGARETTES",
    "date": "2026-11-28",
    "title": "HEY-SMITH「ALL OVER JAPAN TOUR」",
@@ -2082,19 +1961,6 @@
    "confidence": "high",
    "ticket_name": "alegria",
    "with": "Royal Philharmonic Orchestra"
-  },
-  {
-   "artist": "Novelbright",
-   "date": "2026-11-28",
-   "title": "e+ Streaming+ Ryuichi Kawamura Live2026「Home」#57（竹中雄大 出演）",
-   "kind": "その他",
-   "venue": "配信（e+ Streaming+・収録配信）",
-   "with": "河村隆一",
-   "ticket_name": "e+ Streaming+",
-   "ticket_url": "https://eplus.jp/rk20261128-yudai/st/",
-   "sale_info": "20:00開演。アーカイブは12/3 23:59まで",
-   "source_url": "https://novelbright.jp/schedule/detail/2531",
-   "confidence": "high"
   },
   {
    "artist": "04 Limited Sazabys",
@@ -5695,6 +5561,16 @@
    ]
   },
   {
+   "artist": "Wienners",
+   "date": "2026-12-29",
+   "title": "ViolentPops vol.82 \"IdolPunch vs 四星球\"（玉屋2060% DJ出演）",
+   "kind": "イベント",
+   "venue": "下北沢SHELTER（東京）",
+   "with": "IdolPunch / 四星球",
+   "source_url": "https://wienners.net/live",
+   "confidence": "low"
+  },
+  {
    "artist": "a flood of circle",
    "date": "2026-12-29",
    "title": "ハートマーク刺繍してやるよ、ちょっと忘れっぽい魂に",
@@ -5770,16 +5646,6 @@
      "note": "抽選・手数料あり"
     }
    ]
-  },
-  {
-   "artist": "Wienners",
-   "date": "2026-12-29",
-   "title": "ViolentPops vol.82 \"IdolPunch vs 四星球\"（玉屋2060% DJ出演）",
-   "kind": "イベント",
-   "venue": "下北沢SHELTER（東京）",
-   "with": "IdolPunch / 四星球",
-   "source_url": "https://wienners.net/live",
-   "confidence": "low"
   },
   {
    "artist": "ROTTENGRAFFTY",
@@ -6501,6 +6367,27 @@
    ]
   },
   {
+   "artist": "ELLEGARDEN",
+   "date": "2027-01-19",
+   "title": "Bad For Education Tour II (2026) 大阪（10/27延期の振替公演）",
+   "kind": "ワンマン",
+   "venue": "Zepp Osaka Bayside（大阪）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/ellegarden2026/",
+   "sale_info": "10/27公演のチケットがそのまま有効（対応する振替日のみ）。開場18:00／開演19:00。払い戻しは11/15 23:59まで",
+   "sales": [
+    {
+     "label": "払い戻し受付（e+）",
+     "start": "2026-11-05",
+     "end": "2026-11-15",
+     "url": "https://www.sogoosaka.com/live_information/detail/530",
+     "note": "11/5 10:00〜11/15 23:59。期間外は不可"
+    }
+   ],
+   "source_url": "https://www.sogoosaka.com/live_information/detail/530",
+   "confidence": "high"
+  },
+  {
    "artist": "HEY-SMITH",
    "date": "2027-01-19",
    "title": "HEY-SMITH 20th ANNIVERSARY『ALL OVER JAPAN TOUR』",
@@ -6535,13 +6422,13 @@
   },
   {
    "artist": "ELLEGARDEN",
-   "date": "2027-01-19",
-   "title": "Bad For Education Tour II (2026) 大阪（10/27延期の振替公演）",
+   "date": "2027-01-20",
+   "title": "Bad For Education Tour II (2026) 大阪（10/28延期の振替公演）",
    "kind": "ワンマン",
    "venue": "Zepp Osaka Bayside（大阪）",
    "ticket_name": "イープラス",
    "ticket_url": "https://eplus.jp/ellegarden2026/",
-   "sale_info": "10/27公演のチケットがそのまま有効（対応する振替日のみ）。開場18:00／開演19:00。払い戻しは11/15 23:59まで",
+   "sale_info": "10/28公演のチケットがそのまま有効（対応する振替日のみ）。開場18:00／開演19:00。払い戻しは11/15 23:59まで",
    "sales": [
     {
      "label": "払い戻し受付（e+）",
@@ -6588,16 +6475,6 @@
    ]
   },
   {
-   "artist": "Wienners",
-   "date": "2027-01-20",
-   "title": "超英雄祭 2027 DAY1",
-   "kind": "イベント",
-   "venue": "横浜アリーナ（神奈川）",
-   "source_url": "https://wienners.net/news/ec5d043e-5220-463d-a3f0-d11ba9b51189",
-   "confidence": "high",
-   "sale_info": "DAY1出演"
-  },
-  {
    "artist": "SiM",
    "date": "2027-01-20",
    "title": "SiM HOOMAN AFTER ALL World Tour",
@@ -6607,25 +6484,14 @@
    "confidence": "high"
   },
   {
-   "artist": "ELLEGARDEN",
+   "artist": "Wienners",
    "date": "2027-01-20",
-   "title": "Bad For Education Tour II (2026) 大阪（10/28延期の振替公演）",
-   "kind": "ワンマン",
-   "venue": "Zepp Osaka Bayside（大阪）",
-   "ticket_name": "イープラス",
-   "ticket_url": "https://eplus.jp/ellegarden2026/",
-   "sale_info": "10/28公演のチケットがそのまま有効（対応する振替日のみ）。開場18:00／開演19:00。払い戻しは11/15 23:59まで",
-   "sales": [
-    {
-     "label": "払い戻し受付（e+）",
-     "start": "2026-11-05",
-     "end": "2026-11-15",
-     "url": "https://www.sogoosaka.com/live_information/detail/530",
-     "note": "11/5 10:00〜11/15 23:59。期間外は不可"
-    }
-   ],
-   "source_url": "https://www.sogoosaka.com/live_information/detail/530",
-   "confidence": "high"
+   "title": "超英雄祭 2027 DAY1",
+   "kind": "イベント",
+   "venue": "横浜アリーナ（神奈川）",
+   "source_url": "https://wienners.net/news/ec5d043e-5220-463d-a3f0-d11ba9b51189",
+   "confidence": "high",
+   "sale_info": "DAY1出演"
   },
   {
    "artist": "ROTTENGRAFFTY",
@@ -7251,15 +7117,6 @@
    "ticket_url": "https://eplus.jp/sf/detail/4569750001-P0030001?P6=001&P1=0402&P59=1"
   },
   {
-   "artist": "SiM",
-   "date": "2027-01-25",
-   "title": "SiM HOOMAN AFTER ALL World Tour",
-   "kind": "その他",
-   "venue": "O2 Institute2 Birmingham（英国・バーミンガム）",
-   "source_url": "https://www.livenation.com/artist/K8vZ917Q067/sim-events",
-   "confidence": "high"
-  },
-  {
    "artist": "ELLEGARDEN",
    "date": "2027-01-25",
    "title": "Bad For Education Tour II (2026) 仙台（11/2延期の振替公演）",
@@ -7281,35 +7138,13 @@
    "confidence": "high"
   },
   {
-   "artist": "TenTwenty",
-   "date": "2027-01-26",
-   "title": "ライブナタリー \"ビッケブランカ × TenTwenty\"",
-   "kind": "対バン",
-   "venue": "Kanadevia Hall（東京）",
-   "with": "ビッケブランカ",
-   "sale_info": "指定席6,900円（別途ドリンク代）",
-   "source_url": "https://tentwenty-web.com/",
-   "confidence": "high"
-  },
-  {
-   "artist": "Wienners",
-   "date": "2027-01-26",
-   "title": "THE SUN ALSO RISES vol.426",
-   "kind": "対バン",
-   "venue": "F.A.D YOKOHAMA（神奈川）",
-   "source_url": "https://wienners.net/news/f1d235cf-3f27-4afc-955b-22057d41073c",
-   "confidence": "high",
-   "with": "花冷え。"
-  },
-  {
    "artist": "SiM",
-   "date": "2027-01-26",
+   "date": "2027-01-25",
    "title": "SiM HOOMAN AFTER ALL World Tour",
    "kind": "その他",
-   "venue": "Clwb Ifor Bach（英国・カーディフ）",
-   "source_url": "https://musicpressbox.antimusic.com/26/r0521sim_announces_new_album_and_world_tour.shtml",
-   "confidence": "low",
-   "sale_info": "2026年5月発表の日程。公式一覧では未確認"
+   "venue": "O2 Institute2 Birmingham（英国・バーミンガム）",
+   "source_url": "https://www.livenation.com/artist/K8vZ917Q067/sim-events",
+   "confidence": "high"
   },
   {
    "artist": "ELLEGARDEN",
@@ -7331,6 +7166,37 @@
    ],
    "source_url": "https://www.gip-web.co.jp/schedule/detail/8686",
    "confidence": "high"
+  },
+  {
+   "artist": "SiM",
+   "date": "2027-01-26",
+   "title": "SiM HOOMAN AFTER ALL World Tour",
+   "kind": "その他",
+   "venue": "Clwb Ifor Bach（英国・カーディフ）",
+   "source_url": "https://musicpressbox.antimusic.com/26/r0521sim_announces_new_album_and_world_tour.shtml",
+   "confidence": "low",
+   "sale_info": "2026年5月発表の日程。公式一覧では未確認"
+  },
+  {
+   "artist": "TenTwenty",
+   "date": "2027-01-26",
+   "title": "ライブナタリー \"ビッケブランカ × TenTwenty\"",
+   "kind": "対バン",
+   "venue": "Kanadevia Hall（東京）",
+   "with": "ビッケブランカ",
+   "sale_info": "指定席6,900円（別途ドリンク代）",
+   "source_url": "https://tentwenty-web.com/",
+   "confidence": "high"
+  },
+  {
+   "artist": "Wienners",
+   "date": "2027-01-26",
+   "title": "THE SUN ALSO RISES vol.426",
+   "kind": "対バン",
+   "venue": "F.A.D YOKOHAMA（神奈川）",
+   "source_url": "https://wienners.net/news/f1d235cf-3f27-4afc-955b-22057d41073c",
+   "confidence": "high",
+   "with": "花冷え。"
   },
   {
    "artist": "SiM",
@@ -7384,6 +7250,15 @@
      "url": "https://eplus.jp/shank202701/"
     }
    ]
+  },
+  {
+   "artist": "SiM",
+   "date": "2027-01-30",
+   "title": "SiM HOOMAN AFTER ALL World Tour",
+   "kind": "その他",
+   "venue": "Electric Ballroom（英国・ロンドン）",
+   "source_url": "https://www.livenation.com/artist/K8vZ917Q067/sim-events",
+   "confidence": "high"
   },
   {
    "artist": "Wienners",
@@ -7444,15 +7319,6 @@
    "sale_info": "沖縄2days公演（1/30・31）"
   },
   {
-   "artist": "SiM",
-   "date": "2027-01-30",
-   "title": "SiM HOOMAN AFTER ALL World Tour",
-   "kind": "その他",
-   "venue": "Electric Ballroom（英国・ロンドン）",
-   "source_url": "https://www.livenation.com/artist/K8vZ917Q067/sim-events",
-   "confidence": "high"
-  },
-  {
    "artist": "9mm Parabellum Bullet",
    "date": "2027-01-31",
    "title": "9mm Parabellum Bullet Tour 2026-27「Raison d’être」",
@@ -7471,6 +7337,16 @@
    ],
    "source_url": "https://eplus.jp/sf/word/0000009226",
    "confidence": "high"
+  },
+  {
+   "artist": "SiM",
+   "date": "2027-01-31",
+   "title": "SiM HOOMAN AFTER ALL World Tour",
+   "kind": "その他",
+   "venue": "Patronaat（オランダ・ハールレム）",
+   "source_url": "https://musicpressbox.antimusic.com/26/r0521sim_announces_new_album_and_world_tour.shtml",
+   "confidence": "low",
+   "sale_info": "2026年5月発表の日程。公式一覧では未確認"
   },
   {
    "artist": "a flood of circle",
@@ -7496,16 +7372,6 @@
   },
   {
    "artist": "SiM",
-   "date": "2027-01-31",
-   "title": "SiM HOOMAN AFTER ALL World Tour",
-   "kind": "その他",
-   "venue": "Patronaat（オランダ・ハールレム）",
-   "source_url": "https://musicpressbox.antimusic.com/26/r0521sim_announces_new_album_and_world_tour.shtml",
-   "confidence": "low",
-   "sale_info": "2026年5月発表の日程。公式一覧では未確認"
-  },
-  {
-   "artist": "SiM",
    "date": "2027-02-01",
    "title": "SiM HOOMAN AFTER ALL World Tour",
    "kind": "その他",
@@ -7519,6 +7385,15 @@
    "title": "SiM HOOMAN AFTER ALL World Tour",
    "kind": "その他",
    "venue": "FABRIK Hamburg（ドイツ・ハンブルク）",
+   "source_url": "https://www.livenation.com/artist/K8vZ917Q067/sim-events",
+   "confidence": "high"
+  },
+  {
+   "artist": "SiM",
+   "date": "2027-02-04",
+   "title": "SiM HOOMAN AFTER ALL World Tour",
+   "kind": "その他",
+   "venue": "Metropol Berlin（ドイツ・ベルリン）",
    "source_url": "https://www.livenation.com/artist/K8vZ917Q067/sim-events",
    "confidence": "high"
   },
@@ -7589,12 +7464,30 @@
    "confidence": "high"
   },
   {
-   "artist": "SiM",
-   "date": "2027-02-04",
-   "title": "SiM HOOMAN AFTER ALL World Tour",
-   "kind": "その他",
-   "venue": "Metropol Berlin（ドイツ・ベルリン）",
-   "source_url": "https://www.livenation.com/artist/K8vZ917Q067/sim-events",
+   "artist": "Novelbright",
+   "date": "2027-02-05",
+   "title": "竹中雄大 DIVA TOUR 2027-2028（竹中雄大 ソロ）",
+   "kind": "ワンマン",
+   "venue": "福岡市民ホール 大ホール（福岡）",
+   "ticket_name": "ローソンチケット（bubble抽選先行）",
+   "ticket_url": "https://l-tike.com/st1/wq79fwd5jjn0aovnbiz5/sitetop?_normalbrowse_=1",
+   "sale_info": "開場17:30 / 開演18:30。指定席S 12,000円、指定席A 10,000円、着席指定席 10,000円（税込）。1人4枚まで",
+   "sales": [
+    {
+     "label": "bubble抽選先行",
+     "start": "2026-11-10",
+     "end": "2026-11-15",
+     "url": "https://l-tike.com/st1/wq79fwd5jjn0aovnbiz5/sitetop?_normalbrowse_=1",
+     "note": "11/10 18:00〜11/15 23:59。bubble for JAPAN 竹中雄大 の購読者が対象"
+    },
+    {
+     "label": "CD購入者抽選先行",
+     "start": "2026-11-20",
+     "end": "2026-11-27",
+     "note": "11/20 18:00〜11/27 23:59。「DIVA 2」をUNIVERSAL MUSIC STOREで予約するとシリアル付与"
+    }
+   ],
+   "source_url": "https://novelbright.jp/news/detail/2549",
    "confidence": "high"
   },
   {
@@ -7631,33 +7524,6 @@
      "note": "開始12:00・締切23:59"
     }
    ]
-  },
-  {
-   "artist": "Novelbright",
-   "date": "2027-02-05",
-   "title": "竹中雄大 DIVA TOUR 2027-2028（竹中雄大 ソロ）",
-   "kind": "ワンマン",
-   "venue": "福岡市民ホール 大ホール（福岡）",
-   "ticket_name": "ローソンチケット（bubble抽選先行）",
-   "ticket_url": "https://l-tike.com/st1/wq79fwd5jjn0aovnbiz5/sitetop?_normalbrowse_=1",
-   "sale_info": "開場17:30 / 開演18:30。指定席S 12,000円、指定席A 10,000円、着席指定席 10,000円（税込）。1人4枚まで",
-   "sales": [
-    {
-     "label": "bubble抽選先行",
-     "start": "2026-11-10",
-     "end": "2026-11-15",
-     "url": "https://l-tike.com/st1/wq79fwd5jjn0aovnbiz5/sitetop?_normalbrowse_=1",
-     "note": "11/10 18:00〜11/15 23:59。bubble for JAPAN 竹中雄大 の購読者が対象"
-    },
-    {
-     "label": "CD購入者抽選先行",
-     "start": "2026-11-20",
-     "end": "2026-11-27",
-     "note": "11/20 18:00〜11/27 23:59。「DIVA 2」をUNIVERSAL MUSIC STOREで予約するとシリアル付与"
-    }
-   ],
-   "source_url": "https://novelbright.jp/news/detail/2549",
-   "confidence": "high"
   },
   {
    "artist": "9mm Parabellum Bullet",
@@ -7734,6 +7600,16 @@
    ]
   },
   {
+   "artist": "SiM",
+   "date": "2027-02-06",
+   "title": "SiM HOOMAN AFTER ALL World Tour",
+   "kind": "その他",
+   "venue": "Rock Cafe（チェコ・プラハ）",
+   "source_url": "https://musicpressbox.antimusic.com/26/r0521sim_announces_new_album_and_world_tour.shtml",
+   "confidence": "low",
+   "sale_info": "2026年5月発表の日程。公式一覧では未確認"
+  },
+  {
    "artist": "Wienners",
    "date": "2027-02-06",
    "title": "Wienners ONEMAN TOUR「来光TOUR 2027」",
@@ -7784,16 +7660,6 @@
      "note": "12:00〜23:59。ローチケ電子チケット。CDのシリアルコードが必要"
     }
    ]
-  },
-  {
-   "artist": "SiM",
-   "date": "2027-02-06",
-   "title": "SiM HOOMAN AFTER ALL World Tour",
-   "kind": "その他",
-   "venue": "Rock Cafe（チェコ・プラハ）",
-   "source_url": "https://musicpressbox.antimusic.com/26/r0521sim_announces_new_album_and_world_tour.shtml",
-   "confidence": "low",
-   "sale_info": "2026年5月発表の日程。公式一覧では未確認"
   },
   {
    "artist": "BUMP OF CHICKEN",
@@ -7857,40 +7723,6 @@
    ]
   },
   {
-   "artist": "あいみょん",
-   "date": "2027-02-07",
-   "title": "AIMYON TOUR 2027",
-   "kind": "ワンマン",
-   "venue": "ぴあアリーナMM（神奈川）",
-   "source_url": "https://realsound.jp/2026/07/post-2462631.html",
-   "confidence": "high",
-   "sales": [
-    {
-     "label": "前半公演 AIM会員優先予約",
-     "start": "2026-10-03",
-     "end": "2026-10-19",
-     "url": "https://www.aimyong.net/feature/cosmic_percent",
-     "note": "12:00〜23:59。公式アプリ受付"
-    },
-    {
-     "label": "前半公演 BEST ALBUM『唇を追え！』CD封入先行",
-     "start": "2026-10-21",
-     "end": "2026-11-02",
-     "url": "https://www.aimyong.net/feature/cosmic_percent",
-     "note": "12:00〜23:59。ローチケ電子チケット。CDのシリアルコードが必要"
-    }
-   ]
-  },
-  {
-   "artist": "SiM",
-   "date": "2027-02-07",
-   "title": "SiM HOOMAN AFTER ALL World Tour",
-   "kind": "その他",
-   "venue": "Batschkapp（ドイツ・フランクフルト）",
-   "source_url": "https://www.livenation.com/artist/K8vZ917Q067/sim-events",
-   "confidence": "high"
-  },
-  {
    "artist": "Novelbright",
    "date": "2027-02-07",
    "title": "竹中雄大 DIVA TOUR 2027-2028（竹中雄大 ソロ）",
@@ -7916,6 +7748,40 @@
    ],
    "source_url": "https://novelbright.jp/news/detail/2549",
    "confidence": "high"
+  },
+  {
+   "artist": "SiM",
+   "date": "2027-02-07",
+   "title": "SiM HOOMAN AFTER ALL World Tour",
+   "kind": "その他",
+   "venue": "Batschkapp（ドイツ・フランクフルト）",
+   "source_url": "https://www.livenation.com/artist/K8vZ917Q067/sim-events",
+   "confidence": "high"
+  },
+  {
+   "artist": "あいみょん",
+   "date": "2027-02-07",
+   "title": "AIMYON TOUR 2027",
+   "kind": "ワンマン",
+   "venue": "ぴあアリーナMM（神奈川）",
+   "source_url": "https://realsound.jp/2026/07/post-2462631.html",
+   "confidence": "high",
+   "sales": [
+    {
+     "label": "前半公演 AIM会員優先予約",
+     "start": "2026-10-03",
+     "end": "2026-10-19",
+     "url": "https://www.aimyong.net/feature/cosmic_percent",
+     "note": "12:00〜23:59。公式アプリ受付"
+    },
+    {
+     "label": "前半公演 BEST ALBUM『唇を追え！』CD封入先行",
+     "start": "2026-10-21",
+     "end": "2026-11-02",
+     "url": "https://www.aimyong.net/feature/cosmic_percent",
+     "note": "12:00〜23:59。ローチケ電子チケット。CDのシリアルコードが必要"
+    }
+   ]
   },
   {
    "artist": "SHANK",
@@ -7969,6 +7835,15 @@
    ]
   },
   {
+   "artist": "SiM",
+   "date": "2027-02-09",
+   "title": "SiM HOOMAN AFTER ALL World Tour",
+   "kind": "その他",
+   "venue": "Technikum（ドイツ・ミュンヘン）",
+   "source_url": "https://www.livenation.com/artist/K8vZ917Q067/sim-events",
+   "confidence": "high"
+  },
+  {
    "artist": "THE KEBABS",
    "date": "2027-02-09",
    "title": "THE KEBABS寄集",
@@ -7994,24 +7869,6 @@
    "ticket_name": "チケットぴあ",
    "ticket_url": "https://w.pia.jp/s/thekebabs27oss/",
    "sale_info": "開場18:00/開演19:00、5,500円(+1drink)"
-  },
-  {
-   "artist": "SiM",
-   "date": "2027-02-09",
-   "title": "SiM HOOMAN AFTER ALL World Tour",
-   "kind": "その他",
-   "venue": "Technikum（ドイツ・ミュンヘン）",
-   "source_url": "https://www.livenation.com/artist/K8vZ917Q067/sim-events",
-   "confidence": "high"
-  },
-  {
-   "artist": "SiM",
-   "date": "2027-02-10",
-   "title": "SiM HOOMAN AFTER ALL World Tour",
-   "kind": "その他",
-   "venue": "De Casino（ベルギー・シント＝ニクラース）",
-   "source_url": "https://www.livenation.com/artist/K8vZ917Q067/sim-events",
-   "confidence": "high"
   },
   {
    "artist": "Novelbright",
@@ -8057,6 +7914,27 @@
    ],
    "source_url": "https://www.shankofficial.com/news/5b8f5c05-b171-4f8a-a64a-ff112b1affdc",
    "confidence": "high"
+  },
+  {
+   "artist": "SiM",
+   "date": "2027-02-10",
+   "title": "SiM HOOMAN AFTER ALL World Tour",
+   "kind": "その他",
+   "venue": "De Casino（ベルギー・シント＝ニクラース）",
+   "source_url": "https://www.livenation.com/artist/K8vZ917Q067/sim-events",
+   "confidence": "high"
+  },
+  {
+   "artist": "10-FEET",
+   "date": "2027-02-11",
+   "title": "ブクロック!フェスティバル2027幕張",
+   "kind": "フェス",
+   "venue": "幕張メッセ 国際展示場1〜3ホール（千葉）",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/3604630001-P0030019P021001?P1=0175",
+   "sale_info": "イープラスの出演者欄で確認（公式LIVE一覧には未掲載）",
+   "source_url": "https://eplus.jp/sf/detail/3604630001-P0030019P021001?P1=0175",
+   "confidence": "low"
   },
   {
    "artist": "HEY-SMITH",
@@ -8163,18 +8041,6 @@
    "confidence": "high"
   },
   {
-   "artist": "10-FEET",
-   "date": "2027-02-11",
-   "title": "ブクロック!フェスティバル2027幕張",
-   "kind": "フェス",
-   "venue": "幕張メッセ 国際展示場1〜3ホール（千葉）",
-   "ticket_name": "イープラス",
-   "ticket_url": "https://eplus.jp/sf/detail/3604630001-P0030019P021001?P1=0175",
-   "sale_info": "イープラスの出演者欄で確認（公式LIVE一覧には未掲載）",
-   "source_url": "https://eplus.jp/sf/detail/3604630001-P0030019P021001?P1=0175",
-   "confidence": "low"
-  },
-  {
    "artist": "SiM",
    "date": "2027-02-12",
    "title": "SiM HOOMAN AFTER ALL World Tour",
@@ -8228,6 +8094,16 @@
    "confidence": "high"
   },
   {
+   "artist": "SiM",
+   "date": "2027-02-13",
+   "title": "SiM HOOMAN AFTER ALL World Tour",
+   "kind": "その他",
+   "venue": "Elysee Montmartre（フランス・パリ）",
+   "source_url": "https://musicpressbox.antimusic.com/26/r0521sim_announces_new_album_and_world_tour.shtml",
+   "confidence": "low",
+   "sale_info": "2026年5月発表の日程。公式一覧では未確認"
+  },
+  {
    "artist": "あいみょん",
    "date": "2027-02-13",
    "title": "AIMYON TOUR 2027",
@@ -8261,16 +8137,6 @@
    "venue": "鹿児島CAPARVO HALL（鹿児島）",
    "source_url": "https://yabaitshirtsyasan.com/live/",
    "confidence": "high"
-  },
-  {
-   "artist": "SiM",
-   "date": "2027-02-13",
-   "title": "SiM HOOMAN AFTER ALL World Tour",
-   "kind": "その他",
-   "venue": "Elysee Montmartre（フランス・パリ）",
-   "source_url": "https://musicpressbox.antimusic.com/26/r0521sim_announces_new_album_and_world_tour.shtml",
-   "confidence": "low",
-   "sale_info": "2026年5月発表の日程。公式一覧では未確認"
   },
   {
    "artist": "HEY-SMITH",
@@ -8340,6 +8206,16 @@
    "confidence": "high"
   },
   {
+   "artist": "SiM",
+   "date": "2027-02-15",
+   "title": "SiM HOOMAN AFTER ALL World Tour",
+   "kind": "その他",
+   "venue": "Mon Live（スペイン・マドリード）",
+   "source_url": "https://musicpressbox.antimusic.com/26/r0521sim_announces_new_album_and_world_tour.shtml",
+   "confidence": "low",
+   "sale_info": "2026年5月発表の日程。公式一覧では未確認"
+  },
+  {
    "artist": "THE KEBABS",
    "date": "2027-02-15",
    "title": "THE KEBABS寄集",
@@ -8358,16 +8234,6 @@
    ],
    "ticket_name": "チケットぴあ",
    "ticket_url": "https://w.pia.jp/s/thekebabs27oss/"
-  },
-  {
-   "artist": "SiM",
-   "date": "2027-02-15",
-   "title": "SiM HOOMAN AFTER ALL World Tour",
-   "kind": "その他",
-   "venue": "Mon Live（スペイン・マドリード）",
-   "source_url": "https://musicpressbox.antimusic.com/26/r0521sim_announces_new_album_and_world_tour.shtml",
-   "confidence": "low",
-   "sale_info": "2026年5月発表の日程。公式一覧では未確認"
   },
   {
    "artist": "HEY-SMITH",
@@ -8413,6 +8279,24 @@
    "sale_info": "2026年5月発表の日程。公式一覧では未確認"
   },
   {
+   "artist": "SHANK",
+   "date": "2027-02-17",
+   "title": "SLOW SHANK TOUR 2027",
+   "kind": "その他",
+   "venue": "札幌 時計台ホール（北海道）",
+   "sale_info": "整理番号付自由席5,500円（ドリンク別）",
+   "sales": [
+    {
+     "label": "オフィシャルHP先行(抽選)",
+     "start": "2026-11-10",
+     "end": "2026-11-22",
+     "note": "11/10 19:00〜11/22 23:59"
+    }
+   ],
+   "source_url": "https://www.shankofficial.com/news/5b8f5c05-b171-4f8a-a64a-ff112b1affdc",
+   "confidence": "high"
+  },
+  {
    "artist": "THE KEBABS",
    "date": "2027-02-17",
    "title": "THE KEBABS寄集",
@@ -8431,24 +8315,6 @@
    ],
    "ticket_name": "チケットぴあ",
    "ticket_url": "https://w.pia.jp/s/thekebabs27oss/"
-  },
-  {
-   "artist": "SHANK",
-   "date": "2027-02-17",
-   "title": "SLOW SHANK TOUR 2027",
-   "kind": "その他",
-   "venue": "札幌 時計台ホール（北海道）",
-   "sale_info": "整理番号付自由席5,500円（ドリンク別）",
-   "sales": [
-    {
-     "label": "オフィシャルHP先行(抽選)",
-     "start": "2026-11-10",
-     "end": "2026-11-22",
-     "note": "11/10 19:00〜11/22 23:59"
-    }
-   ],
-   "source_url": "https://www.shankofficial.com/news/5b8f5c05-b171-4f8a-a64a-ff112b1affdc",
-   "confidence": "high"
   },
   {
    "artist": "HEY-SMITH",
@@ -8952,6 +8818,15 @@
    "confidence": "high"
   },
   {
+   "artist": "muque",
+   "date": "2027-03-01",
+   "title": "MY FLAGMENT",
+   "kind": "その他",
+   "venue": "SHIBUYA CLUB QUATTRO（東京）",
+   "source_url": "https://muque.jp/live",
+   "confidence": "high"
+  },
+  {
    "artist": "HEY-SMITH",
    "date": "2027-03-04",
    "title": "HEY-SMITH 20th ANNIVERSARY『ALL OVER JAPAN TOUR』",
@@ -9095,27 +8970,6 @@
    ]
   },
   {
-   "artist": "ROTTENGRAFFTY",
-   "date": "2027-03-06",
-   "title": "ALL OVER JAPAN TOUR",
-   "kind": "対バン",
-   "venue": "高知 CARAVAN SARY（高知）",
-   "with": "HEY-SMITH",
-   "source_url": "https://rotten-g.com/live",
-   "confidence": "high"
-  },
-  {
-   "artist": "久石譲",
-   "date": "2027-03-06",
-   "title": "Joe Hisaishi Returns（フィラデルフィア管弦楽団）",
-   "kind": "ワンマン",
-   "venue": "Marian Anderson Hall（アメリカ・フィラデルフィア）",
-   "ticket_url": "https://philorch.ensembleartsphilly.org/tickets-and-events/2026-27-season/joe-hiasashi-returns",
-   "source_url": "https://joehisaishi.com/concert_category/2027/",
-   "confidence": "high",
-   "sale_info": "3/5・6・7の3日間"
-  },
-  {
    "artist": "Novelbright",
    "date": "2027-03-06",
    "title": "竹中雄大 DIVA TOUR 2027-2028（竹中雄大 ソロ）",
@@ -9141,6 +8995,27 @@
    ],
    "source_url": "https://novelbright.jp/news/detail/2549",
    "confidence": "high"
+  },
+  {
+   "artist": "ROTTENGRAFFTY",
+   "date": "2027-03-06",
+   "title": "ALL OVER JAPAN TOUR",
+   "kind": "対バン",
+   "venue": "高知 CARAVAN SARY（高知）",
+   "with": "HEY-SMITH",
+   "source_url": "https://rotten-g.com/live",
+   "confidence": "high"
+  },
+  {
+   "artist": "久石譲",
+   "date": "2027-03-06",
+   "title": "Joe Hisaishi Returns（フィラデルフィア管弦楽団）",
+   "kind": "ワンマン",
+   "venue": "Marian Anderson Hall（アメリカ・フィラデルフィア）",
+   "ticket_url": "https://philorch.ensembleartsphilly.org/tickets-and-events/2026-27-season/joe-hiasashi-returns",
+   "source_url": "https://joehisaishi.com/concert_category/2027/",
+   "confidence": "high",
+   "sale_info": "3/5・6・7の3日間"
   },
   {
    "artist": "HEY-SMITH",
@@ -10202,6 +10077,16 @@
    "confidence": "high"
   },
   {
+   "artist": "SiM",
+   "date": "2027-04-18",
+   "title": "SiM HOOMAN AFTER ALL World Tour（2026-10-15公演の延期先として掲載）",
+   "kind": "その他",
+   "venue": "August Hall（米国・サンフランシスコ）",
+   "source_url": "https://www.livenation.com/artist/K8vZ917Q067/sim-events",
+   "confidence": "low",
+   "sale_info": "Live Nationの一覧に延期表示あり。別の情報源では未確認"
+  },
+  {
    "artist": "あいみょん",
    "date": "2027-04-18",
    "title": "AIMYON TOUR 2027",
@@ -10225,16 +10110,6 @@
      "note": "12:00〜23:59。ローチケ電子チケット。CDのシリアルコードが必要"
     }
    ]
-  },
-  {
-   "artist": "SiM",
-   "date": "2027-04-18",
-   "title": "SiM HOOMAN AFTER ALL World Tour（2026-10-15公演の延期先として掲載）",
-   "kind": "その他",
-   "venue": "August Hall（米国・サンフランシスコ）",
-   "source_url": "https://www.livenation.com/artist/K8vZ917Q067/sim-events",
-   "confidence": "low",
-   "sale_info": "Live Nationの一覧に延期表示あり。別の情報源では未確認"
   },
   {
    "artist": "10-FEET",
@@ -10562,6 +10437,16 @@
    "confidence": "high"
   },
   {
+   "artist": "SiM",
+   "date": "2027-04-28",
+   "title": "SiM HOOMAN AFTER ALL World Tour",
+   "kind": "その他",
+   "venue": "House of Blues Chicago（米国・シカゴ）",
+   "sale_info": "Live Nationの一覧に掲載(延期後の日程と表示)。公式一覧では未確認",
+   "source_url": "https://www.livenation.com/artist/K8vZ917Q067/sim-events",
+   "confidence": "low"
+  },
+  {
    "artist": "あいみょん",
    "date": "2027-04-28",
    "title": "AIMYON TOUR 2027",
@@ -10588,16 +10473,6 @@
    ]
   },
   {
-   "artist": "SiM",
-   "date": "2027-04-28",
-   "title": "SiM HOOMAN AFTER ALL World Tour",
-   "kind": "その他",
-   "venue": "House of Blues Chicago（米国・シカゴ）",
-   "sale_info": "Live Nationの一覧に掲載(延期後の日程と表示)。公式一覧では未確認",
-   "source_url": "https://www.livenation.com/artist/K8vZ917Q067/sim-events",
-   "confidence": "low"
-  },
-  {
    "artist": "あいみょん",
    "date": "2027-04-29",
    "title": "AIMYON TOUR 2027",
@@ -10621,6 +10496,16 @@
      "note": "12:00〜23:59。ローチケ電子チケット。CDのシリアルコードが必要"
     }
    ]
+  },
+  {
+   "artist": "SiM",
+   "date": "2027-04-30",
+   "title": "SiM HOOMAN AFTER ALL World Tour",
+   "kind": "その他",
+   "venue": "The Intersection（米国・グランドラピッズ）",
+   "sale_info": "Live Nationの一覧に掲載(延期後の日程と表示)。公式一覧では未確認",
+   "source_url": "https://www.livenation.com/artist/K8vZ917Q067/sim-events",
+   "confidence": "low"
   },
   {
    "artist": "[Alexandros]",
@@ -10662,16 +10547,6 @@
    "sale_info": "4/30・5/1の2日間"
   },
   {
-   "artist": "SiM",
-   "date": "2027-04-30",
-   "title": "SiM HOOMAN AFTER ALL World Tour",
-   "kind": "その他",
-   "venue": "The Intersection（米国・グランドラピッズ）",
-   "sale_info": "Live Nationの一覧に掲載(延期後の日程と表示)。公式一覧では未確認",
-   "source_url": "https://www.livenation.com/artist/K8vZ917Q067/sim-events",
-   "confidence": "low"
-  },
-  {
    "artist": "Novelbright",
    "date": "2027-05-01",
    "title": "Novelbright ARENA TOUR 2027",
@@ -10680,6 +10555,16 @@
    "sale_info": "チケット情報は後日発表",
    "source_url": "https://novelbright.jp/news/detail/2501",
    "confidence": "high"
+  },
+  {
+   "artist": "SiM",
+   "date": "2027-05-01",
+   "title": "SiM HOOMAN AFTER ALL World Tour",
+   "kind": "その他",
+   "venue": "The Phoenix Concert Theatre（カナダ・トロント）",
+   "sale_info": "Live Nationの一覧に掲載(延期後の日程と表示)。公式一覧では未確認",
+   "source_url": "https://www.livenation.com/artist/K8vZ917Q067/sim-events",
+   "confidence": "low"
   },
   {
    "artist": "久石譲",
@@ -10691,16 +10576,6 @@
    "source_url": "https://joehisaishi.com/concert_category/2027/",
    "confidence": "high",
    "sale_info": "4/30・5/1の2日間"
-  },
-  {
-   "artist": "SiM",
-   "date": "2027-05-01",
-   "title": "SiM HOOMAN AFTER ALL World Tour",
-   "kind": "その他",
-   "venue": "The Phoenix Concert Theatre（カナダ・トロント）",
-   "sale_info": "Live Nationの一覧に掲載(延期後の日程と表示)。公式一覧では未確認",
-   "source_url": "https://www.livenation.com/artist/K8vZ917Q067/sim-events",
-   "confidence": "low"
   },
   {
    "artist": "Novelbright",
@@ -10739,6 +10614,16 @@
    ]
   },
   {
+   "artist": "SiM",
+   "date": "2027-05-03",
+   "title": "SiM HOOMAN AFTER ALL World Tour",
+   "kind": "その他",
+   "venue": "Irving Plaza（米国・ニューヨーク）",
+   "sale_info": "Live Nationの一覧に掲載(延期後の日程と表示)。公式一覧では未確認",
+   "source_url": "https://www.livenation.com/artist/K8vZ917Q067/sim-events",
+   "confidence": "low"
+  },
+  {
    "artist": "あいみょん",
    "date": "2027-05-03",
    "title": "AIMYON TOUR 2027",
@@ -10765,20 +10650,20 @@
   },
   {
    "artist": "SiM",
-   "date": "2027-05-03",
+   "date": "2027-05-04",
    "title": "SiM HOOMAN AFTER ALL World Tour",
    "kind": "その他",
-   "venue": "Irving Plaza（米国・ニューヨーク）",
+   "venue": "Paradise Rock Club（米国・ボストン）",
    "sale_info": "Live Nationの一覧に掲載(延期後の日程と表示)。公式一覧では未確認",
    "source_url": "https://www.livenation.com/artist/K8vZ917Q067/sim-events",
    "confidence": "low"
   },
   {
    "artist": "SiM",
-   "date": "2027-05-04",
+   "date": "2027-05-06",
    "title": "SiM HOOMAN AFTER ALL World Tour",
    "kind": "その他",
-   "venue": "Paradise Rock Club（米国・ボストン）",
+   "venue": "The Fillmore Silver Spring（米国・シルバースプリング）",
    "sale_info": "Live Nationの一覧に掲載(延期後の日程と表示)。公式一覧では未確認",
    "source_url": "https://www.livenation.com/artist/K8vZ917Q067/sim-events",
    "confidence": "low"
@@ -10813,10 +10698,10 @@
   },
   {
    "artist": "SiM",
-   "date": "2027-05-06",
+   "date": "2027-05-07",
    "title": "SiM HOOMAN AFTER ALL World Tour",
    "kind": "その他",
-   "venue": "The Fillmore Silver Spring（米国・シルバースプリング）",
+   "venue": "Brooklyn Bowl Philadelphia（米国・フィラデルフィア）",
    "sale_info": "Live Nationの一覧に掲載(延期後の日程と表示)。公式一覧では未確認",
    "source_url": "https://www.livenation.com/artist/K8vZ917Q067/sim-events",
    "confidence": "low"
@@ -10859,16 +10744,6 @@
    "source_url": "https://joehisaishi.com/concert_category/2027/",
    "confidence": "high",
    "sale_info": "5/7・8・9の3日間"
-  },
-  {
-   "artist": "SiM",
-   "date": "2027-05-07",
-   "title": "SiM HOOMAN AFTER ALL World Tour",
-   "kind": "その他",
-   "venue": "Brooklyn Bowl Philadelphia（米国・フィラデルフィア）",
-   "sale_info": "Live Nationの一覧に掲載(延期後の日程と表示)。公式一覧では未確認",
-   "source_url": "https://www.livenation.com/artist/K8vZ917Q067/sim-events",
-   "confidence": "low"
   },
   {
    "artist": "Mrs. GREEN APPLE",
@@ -10981,6 +10856,16 @@
    ]
   },
   {
+   "artist": "SiM",
+   "date": "2027-05-09",
+   "title": "SiM HOOMAN AFTER ALL World Tour（2026-11-07公演の延期先として掲載）",
+   "kind": "その他",
+   "venue": "The Underground（米国・シャーロット）",
+   "source_url": "https://www.livenation.com/artist/K8vZ917Q067/sim-events",
+   "confidence": "low",
+   "sale_info": "Live Nationの一覧に延期表示あり。別の情報源では未確認"
+  },
+  {
    "artist": "ヤバイTシャツ屋さん",
    "date": "2027-05-09",
    "title": "Tank-top Festival 2027 WACHA-WACHA SHOW",
@@ -11010,16 +10895,6 @@
    "source_url": "https://joehisaishi.com/concert_category/2027/",
    "confidence": "high",
    "sale_info": "5/7・8・9の3日間"
-  },
-  {
-   "artist": "SiM",
-   "date": "2027-05-09",
-   "title": "SiM HOOMAN AFTER ALL World Tour（2026-11-07公演の延期先として掲載）",
-   "kind": "その他",
-   "venue": "The Underground（米国・シャーロット）",
-   "source_url": "https://www.livenation.com/artist/K8vZ917Q067/sim-events",
-   "confidence": "low",
-   "sale_info": "Live Nationの一覧に延期表示あり。別の情報源では未確認"
   },
   {
    "artist": "SiM",
@@ -12703,7 +12578,7 @@
    "pref": "熊本",
    "status": "unknown",
    "source_url": "https://kumamoto-odekake.com/event/9097/",
-   "lineup_checked": "2026-11-11",
+   "lineup_checked": "2026-11-12",
    "venue": "宇土マリーナ"
   },
   {
@@ -12713,7 +12588,7 @@
    "pref": "京都",
    "status": "unknown",
    "source_url": "https://www.ragnet.co.jp/rock-festival",
-   "lineup_checked": "2026-11-11",
+   "lineup_checked": "2026-11-12",
    "official_url": "https://www.town.seika.kyoto.jp/kakuka/jichi/kyodo/kankou/seikafestival/30298.html",
    "venue": "けいはんな記念公園芝生広場 / けいはんなプラザメインホール"
   },
@@ -12769,7 +12644,7 @@
    "pref": "鳥取",
    "status": "unknown",
    "source_url": "https://www.ragnet.co.jp/rock-festival",
-   "lineup_checked": "2026-11-11",
+   "lineup_checked": "2026-11-12",
    "official_url": "https://tottori-caf.or.jp/tcaf-event/detail/1140/",
    "venue": "エースパック未来中心 リハーサル室",
    "image": "https://tottori-caf.or.jp/user/common/images/ogp_image.png"
@@ -13033,7 +12908,7 @@
    "pref": "大阪",
    "status": "unknown",
    "source_url": "https://www.ragnet.co.jp/rock-festival",
-   "lineup_checked": "2026-11-11",
+   "lineup_checked": "2026-11-12",
    "note": "観覧無料。予備日11/22",
    "official_url": "https://everybuddy.site/sennorockyou_2026/",
    "image": "https://cdn.peraichi.com/userData/5e67832c-a6c4-4ef0-bbec-616c0a0000c5/img/12f66bc0-0788-013e-4d98-0a58a9feac02/B3_no_logo.png",
@@ -13046,6 +12921,12 @@
      "end": "2026-11-10",
      "url": "https://everybuddy.site/sennorockyou",
      "note": "6/10 20:00開始。チケットサイトからの受付は11/10まで"
+    },
+    {
+     "label": "出演エントリー（Peatix）",
+     "end": "2026-11-10",
+     "url": "https://everybuddy.site/sennorockyou_2026/",
+     "note": "サイト上は受付終了表示もあり"
     }
    ],
    "venue": "大泉緑地内 大芝生広場"
@@ -13870,7 +13751,7 @@
    "official_url": "https://www.edowave.com/",
    "ticket_name": "イープラス（前売3,300円）",
    "ticket_url": "https://eplus.jp/sf/detail/4580500001-P0030001P021001?P1=1221",
-   "lineup_checked": "2026-11-09",
+   "lineup_checked": "2026-11-12",
    "image": "https://static.wixstatic.com/media/29719f_39661f5d05f24f59b7c2cc24ca7adff1%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/29719f_39661f5d05f24f59b7c2cc24ca7adff1%7Emv2.jpg",
    "lineup_days": {
     "2026-11-29": [
@@ -14226,7 +14107,7 @@
      "start": "2026-10-22"
     }
    ],
-   "lineup_checked": "2026-11-09",
+   "lineup_checked": "2026-11-12",
    "ticket_name": "チケットぴあ・イープラス",
    "ticket_url": "https://w.pia.jp/t/torirockfes2026/",
    "venue": "豊洲PIT",
@@ -14920,7 +14801,7 @@
      "トゲナシトゲアリ"
     ]
    },
-   "lineup_checked": "2026-11-08",
+   "lineup_checked": "2026-11-12",
    "venue": "広島グリーンアリーナ 大アリーナ",
    "official_url": "https://www.hiroshima-continew.com/",
    "ticket_name": "イープラス",
@@ -14932,6 +14813,34 @@
      "end": "2026-12-05",
      "url": "https://eplus.jp/hiroshima-continew/",
      "note": "開始12:00・締切20:00・12/5券・2日券は12/4 20:00まで"
+    },
+    {
+     "label": "2日通し券 オフィシャル1次先行",
+     "start": "2026-07-16",
+     "end": "2026-07-30",
+     "url": "https://eplus.jp/hiroshima-continew/",
+     "note": "受付終了"
+    },
+    {
+     "label": "2日通し券 オフィシャル2次先行",
+     "start": "2026-07-31",
+     "end": "2026-09-09",
+     "url": "https://eplus.jp/hiroshima-continew/",
+     "note": "受付終了"
+    },
+    {
+     "label": "オフィシャル3次先行（2日通し・各日券）",
+     "start": "2026-09-10",
+     "end": "2026-10-21",
+     "url": "https://eplus.jp/hiroshima-continew/",
+     "note": "受付終了"
+    },
+    {
+     "label": "一般発売（2日通し・12/5券）",
+     "start": "2026-10-22",
+     "end": "2026-12-04",
+     "url": "https://eplus.jp/hiroshima-continew/",
+     "note": "12:00開始、12/4 20:00まで"
     }
    ],
    "image": "https://www.hiroshima-continew.com/assets/images/common/ogp.jpg"
@@ -15007,7 +14916,7 @@
    "status": "unknown",
    "lineup": [],
    "source_url": "https://www.ragnet.co.jp/music-festival-winter",
-   "lineup_checked": "2026-11-11",
+   "lineup_checked": "2026-11-12",
    "official_url": "https://www.city.ginowan.lg.jp/kanko_bunka_sports/bunka_geijutsu/10956.html",
    "venue": "宜野湾市民会館 前広場（特設ステージ）",
    "note": "出演者は未発表",
@@ -15080,9 +14989,12 @@
     "PInO(ALMA)",
     "KITE",
     "KOJIMAN",
-    "KZS"
+    "KZS",
+    "INTERPLAY",
+    "BOONIES",
+    "charchill"
    ],
-   "lineup_checked": "2026-11-08",
+   "lineup_checked": "2026-11-12",
    "source_url": "https://honbetsu.com/infrastructure/mame-fes",
    "official_url": "https://honbetsu.com/infrastructure/mame-fes",
    "lineup_days": {
@@ -15182,7 +15094,7 @@
    "pref": "広島",
    "status": "lineup",
    "source_url": "https://musubinoyumebanchi.jp/",
-   "lineup_checked": "2026-11-09",
+   "lineup_checked": "2026-11-12",
    "lineup": [
     "KANA-BOON",
     "Tele",
@@ -15225,6 +15137,13 @@
      "start": "2026-10-23",
      "url": "https://trade.tixplus.jp/artists/tour/15531",
      "note": "各公演の3日前 11:59まで。チケットは完売"
+    },
+    {
+     "label": "チケットトレード",
+     "start": "2026-10-23",
+     "end": "2026-12-12",
+     "url": "https://www.musubinoyumebanchi.jp/",
+     "note": "10:00開始、各公演の3日前11:59まで（終了日は公演日から換算。12/13公演は12/10）。完売"
     }
    ]
   },
@@ -15506,7 +15425,7 @@
    "status": "unknown",
    "lineup": [],
    "source_url": "https://www.ragnet.co.jp/music-festival-winter/6",
-   "lineup_checked": "2026-11-11",
+   "lineup_checked": "2026-11-12",
    "venue": "服部緑地野外音楽堂"
   },
   {
@@ -15517,7 +15436,7 @@
    "status": "unknown",
    "lineup": [],
    "source_url": "https://www.ragnet.co.jp/music-festival-winter/9",
-   "lineup_checked": "2026-11-11",
+   "lineup_checked": "2026-11-12",
    "venue": "小豆島ふるさと村"
   },
   {
@@ -15527,7 +15446,7 @@
    "pref": "兵庫",
    "status": "unknown",
    "source_url": "https://www.ragnet.co.jp/rock-festival",
-   "lineup_checked": "2026-11-11",
+   "lineup_checked": "2026-11-12",
    "venue": "HoborStudio"
   },
   {
@@ -15591,7 +15510,7 @@
     "『ユイカ』",
     "Laughing Hick"
    ],
-   "lineup_checked": "2026-11-09",
+   "lineup_checked": "2026-11-12",
    "status": "lineup",
    "venue": "ポートメッセなごや",
    "official_url": "https://www.merryrockparade.jp/artist.html",
@@ -15669,6 +15588,12 @@
      "label": "一般発売 MIRAGE TICKET（先着）",
      "start": "2026-11-07",
      "note": "10:00開始。1号館のみ入場可。予定枚数に達し次第終了"
+    },
+    {
+     "label": "オフィシャル先行第2弾（抽選）",
+     "end": "2026-10-25",
+     "url": "https://eplus.jp/mrp2026of-2/",
+     "note": "受付は終了済みの可能性"
     }
    ]
   },
@@ -15683,9 +15608,20 @@
     "庵'z",
     "井上用水路",
     "HITOMAZ",
-    "LUCHAPY"
+    "LUCHAPY",
+    "E-Nomura830Band",
+    "イマイチミキ",
+    "ええやんネバヤン(枯山水)",
+    "Star's☆Selection",
+    "トワダケイスケ",
+    "do Rebecca",
+    "虹紫(Violet-Moon)",
+    "松山一春",
+    "みくみょん",
+    "誘惑",
+    "ユメミグサ"
    ],
-   "lineup_checked": "2026-11-08",
+   "lineup_checked": "2026-11-12",
    "source_url": "https://www.ragnet.co.jp/music-festival-winter",
    "official_url": "https://hachi-kokaido.com/2026/10/post-53.html",
    "image": "https://hachi-kokaido.com/.assets/thumbnail/R08narikiri-poster-01-1200wi.png",
@@ -15830,7 +15766,7 @@
    "status": "unknown",
    "lineup": [],
    "source_url": "https://www.ragnet.co.jp/music-festival-winter/5",
-   "lineup_checked": "2026-11-11",
+   "lineup_checked": "2026-11-12",
    "venue": "アメージングカレッジ"
   },
   {
@@ -16050,7 +15986,7 @@
     "WurtS",
     "忘れらんねえよ"
    ],
-   "lineup_checked": "2026-11-11",
+   "lineup_checked": "2026-11-12",
    "sales": [
     {
      "label": "第1次抽選先行",
@@ -16065,6 +16001,11 @@
      "end": "2026-11-02",
      "url": "https://countdownjapan.jp/2627/ticket/",
      "note": "公式アプリ「Jフェス」のみ受付。11/2 16:00締切"
+    },
+    {
+     "label": "公式リセール",
+     "start": "2026-12-07",
+     "note": "全券種ソールドアウト"
     }
    ],
    "lineup_days": {
@@ -16591,7 +16532,7 @@
    "pref": "東京",
    "status": "lineup",
    "source_url": "https://eplus.jp/new-horizon-fest/",
-   "lineup_checked": "2026-11-08",
+   "lineup_checked": "2026-11-12",
    "official_url": "https://newhorizon.sammy.co.jp/2026/nhf/",
    "lineup": [
     "04 Limited Sazabys",
@@ -16629,6 +16570,27 @@
      "end": "2026-12-27",
      "url": "https://eplus.jp/new-horizon-fest/",
      "note": "開始18:00・締切18:00"
+    },
+    {
+     "label": "1次先行",
+     "start": "2026-07-31",
+     "end": "2026-08-09",
+     "url": "https://newhorizon.sammy.co.jp/2026/nhf/ticket/",
+     "note": "受付終了"
+    },
+    {
+     "label": "3次先行",
+     "start": "2026-09-18",
+     "end": "2026-09-27",
+     "url": "https://newhorizon.sammy.co.jp/2026/nhf/ticket/",
+     "note": "受付終了"
+    },
+    {
+     "label": "最終先行",
+     "start": "2026-10-09",
+     "end": "2026-10-18",
+     "url": "https://newhorizon.sammy.co.jp/2026/nhf/ticket/",
+     "note": "受付終了"
     }
    ],
    "note": "第2弾までの発表分（第1弾・第3弾は未反映）",
@@ -16751,7 +16713,7 @@
    "source_url": "https://kai-you.net/article/96807",
    "venue": "有明アリーナ",
    "note": "ヒップホップイベント（ABEMA『RAPSTAR 2026』決勝を兼ねる）。ライブ出演者は順次発表。11/7に出演者の追加発表あり（公式は画像のみで未取得）",
-   "lineup_checked": "2026-11-11",
+   "lineup_checked": "2026-11-12",
    "official_url": "https://rapstar-abema.com/",
    "ticket_name": "ローソンチケット",
    "ticket_url": "https://l-tike.com/starz2026/",
@@ -16780,7 +16742,7 @@
    "venue": "Diamond Hall ほか名古屋新栄エリア",
    "status": "unknown",
    "lineup": [],
-   "lineup_checked": "2026-11-11",
+   "lineup_checked": "2026-11-12",
    "source_url": "https://www.ragnet.co.jp/music-festival-winter",
    "note": "日程は公式で未確認（要再確認）"
   },
@@ -17105,7 +17067,6 @@
     "keigo",
     "kill me Elk",
     "石川紅奈",
-    "nork？",
     "nufehtin",
     "パノラマとラボラトリー",
     "pige",
@@ -17124,13 +17085,40 @@
     "GIFU",
     "Stiques x The Wxve",
     "RINNI",
-    "Yunsae"
+    "Yunsae",
+    "Ámina",
+    "Fi-Né粉內",
+    "norké",
+    "supergoods",
+    "阿橘 Ahh G",
+    "田上碧",
+    "A_Root 同根生",
+    "B.Rox",
+    "CHAKA LAND",
+    "Crystal Murray",
+    "E'sekai",
+    "Etranger",
+    "Guernica Club",
+    "HARMONICA CREAMS",
+    ".jvkn",
+    "KITOKA",
+    "Mohar",
+    "Novocrane",
+    "應聲倒地 On the Floor",
+    "Rol3ert",
+    "Salmon Pink",
+    "Strawman & Celine",
+    "Thalassa",
+    "THE STEREOGANG",
+    "Tyne",
+    "宇宙資料庫 Universe Database",
+    "Yoko City Ghost"
    ],
    "ticket_name": "早割チケット",
    "ticket_url": "https://www.musiclanefestival.com/tickets-2027",
    "note": "第1弾発表。ライブハウス街のショーケース型フェス",
    "source_url": "https://festival-life.com/168324",
-   "lineup_checked": "2026-11-08",
+   "lineup_checked": "2026-11-12",
    "image": "https://static.wixstatic.com/media/ec9d6b_239f0ed844924076a3bdc903a3fc8c4f~mv2.jpg/v1/fill/w_595,h_842,al_c/ec9d6b_239f0ed844924076a3bdc903a3fc8c4f~mv2.jpg"
   },
   {
@@ -17290,9 +17278,11 @@
     "ねぐせ。",
     "My Hair is Bad",
     "マカロニえんぴつ",
-    "マルシィ"
+    "マルシィ",
+    "AiNA THE END",
+    "Neguse."
    ],
-   "lineup_checked": "2026-11-10",
+   "lineup_checked": "2026-11-12",
    "lineup_days": {
     "2027-01-30": [
      "アイナ・ジ・エンド",
@@ -17302,7 +17292,8 @@
      "04 Limited Sazabys",
      "BLUE ENCOUNT",
      "MAZZEL",
-     "WurtS"
+     "WurtS",
+     "AiNA THE END"
     ],
     "2027-01-31": [
      "Aooo",
@@ -17312,7 +17303,8 @@
      "ねぐせ。",
      "My Hair is Bad",
      "マカロニえんぴつ",
-     "マルシィ"
+     "マルシィ",
+     "Neguse."
     ]
    },
    "official_url": "https://fukuokamusic-fes.com/2027/index.html",
@@ -17368,7 +17360,7 @@
    ],
    "note": "開場10:00／開演11:00",
    "source_url": "https://festival-life.com/169315",
-   "lineup_checked": "2026-11-08",
+   "lineup_checked": "2026-11-12",
    "lineup_days": {
     "2027-02-06": [
      "槇原敬之",
@@ -17480,7 +17472,7 @@
     "レトロリロン"
    ],
    "source_url": "https://www.event-td.com/tokyospaceship/",
-   "lineup_checked": "2026-11-11",
+   "lineup_checked": "2026-11-12",
    "tba": true,
    "venue": "東京ドーム",
    "official_url": "https://www.event-td.com/tokyospaceship/",
@@ -17495,7 +17487,7 @@
    "status": "unknown",
    "lineup": [],
    "source_url": "https://www.ragnet.co.jp/music-festival-winter",
-   "lineup_checked": "2026-11-11",
+   "lineup_checked": "2026-11-12",
    "note": "日程は公式で未確認（要再確認）"
   },
   {
@@ -17506,7 +17498,7 @@
    "status": "unknown",
    "lineup": [],
    "source_url": "https://www.mbc.co.jp/event/tegefes2027/",
-   "lineup_checked": "2026-11-11",
+   "lineup_checked": "2026-11-12",
    "venue": "アミュプラザ鹿児島 AMU広場・若き薩摩の群像前広場",
    "official_url": "https://www.mbc.co.jp/event/tegefes2027/",
    "image": "https://www.mbc.co.jp/event/tegefes2027/image/20261013_bana_mini.jpg"
@@ -17581,7 +17573,7 @@
    "status": "unknown",
    "note": "出演者公開は2026年12月末頃予定",
    "source_url": "https://www.tunecore.co.jp/wanted/rfq",
-   "lineup_checked": "2026-11-09"
+   "lineup_checked": "2026-11-12"
   },
   {
    "name": "Snow Machine Japan",
@@ -17628,7 +17620,7 @@
     "YUVIE",
     "Zedena"
    ],
-   "lineup_checked": "2026-11-08",
+   "lineup_checked": "2026-11-12",
    "source_url": "https://www.ragnet.co.jp/music-festival-winter",
    "official_url": "https://hakuba.snow-machine.com/",
    "image": "https://www.snow-machine.nz/wp-content/uploads/2023/05/SM_23_Web_ShareThumbnail_1600x900_SMJ_2.png",
@@ -17713,8 +17705,18 @@
    ],
    "source_url": "https://skyfes.net/",
    "status": "lineup",
-   "lineup_checked": "2026-11-08",
-   "image": "https://skyfes.net/assets/skyfes/ogp.png"
+   "lineup_checked": "2026-11-12",
+   "image": "https://skyfes.net/assets/skyfes/ogp.png",
+   "ticket_name": "TIGET",
+   "ticket_url": "https://tiget.net/events/507700",
+   "sales": [
+    {
+     "label": "宿泊付きチケット（ローソントラベル）",
+     "start": "2026-09-21",
+     "url": "https://skyfes.net/",
+     "note": "公式ニュースの見出しで確認。TIGET一般の受付期間は不明"
+    }
+   ]
   },
   {
    "name": "MEGA VEGAS 2027",
@@ -17795,7 +17797,7 @@
    "pref": "東京",
    "status": "unknown",
    "source_url": "https://www.ragnet.co.jp/rock-festival",
-   "lineup_checked": "2026-11-11",
+   "lineup_checked": "2026-11-12",
    "note": "日程は公式で未確認（要再確認）"
   },
   {
@@ -17805,7 +17807,7 @@
    "pref": "東京",
    "status": "unknown",
    "source_url": "https://festival-life.com/169381",
-   "lineup_checked": "2026-11-10",
+   "lineup_checked": "2026-11-12",
    "official_url": "https://synchronicity.tv/festival/",
    "note": "出演者は未発表",
    "venue": "渋谷エリア",
@@ -17848,7 +17850,7 @@
    ],
    "source_url": "https://deadpopfest.com/2026/04/05/sim-presents-dead-pop-festival-2027%E9%96%8B%E5%82%AC%E6%B1%BA%E5%AE%9A%EF%BC%81/",
    "image": "https://deadpopfest.com/wp-content/themes/deadpop/images2026/dpf27_launch.jpg",
-   "lineup_checked": "2026-11-03"
+   "lineup_checked": "2026-11-12"
   },
   {
    "name": "Rainbow Disco Club",
@@ -17892,11 +17894,17 @@
      "start": "2026-10-23",
      "end": "2026-11-15",
      "note": "ローソンチケット。福岡・関東共通"
+    },
+    {
+     "label": "海外在住者向け",
+     "start": "2026-09-25",
+     "end": "2027-03-07",
+     "url": "https://triangle-official.jp/"
     }
    ],
    "source_url": "https://triangle-official.jp/",
    "image": "https://triangle-official.jp/assets/images/common/ogp.jpg",
-   "lineup_checked": "2026-11-06"
+   "lineup_checked": "2026-11-12"
   },
   {
    "name": "渋谷メタル会フェス",
@@ -17905,7 +17913,7 @@
    "pref": "東京",
    "status": "unknown",
    "source_url": "https://www.ragnet.co.jp/rock-festival",
-   "lineup_checked": "2026-10-19"
+   "lineup_checked": "2026-11-12"
   },
   {
    "name": "JAPAN JAM",
@@ -17918,7 +17926,7 @@
    "note": "出演者とチケットは12月中旬に発表予定",
    "source_url": "https://festival-life.com/168641",
    "image": "https://japanjam.jp/2026/favicon/ogp.png?t=20260121",
-   "lineup_checked": "2026-11-10"
+   "lineup_checked": "2026-11-12"
   },
   {
    "name": "ONE FES -imizu music festival-",
@@ -17927,7 +17935,7 @@
    "pref": "富山",
    "status": "unknown",
    "source_url": "https://www.ragnet.co.jp/rock-festival",
-   "lineup_checked": "2026-11-06",
+   "lineup_checked": "2026-11-12",
    "official_url": "https://one-fes.jp/"
   },
   {
@@ -18397,7 +18405,7 @@
    "pref": "東京",
    "status": "lineup",
    "source_url": "https://www.ragnet.co.jp/rock-festival/2",
-   "lineup_checked": "2026-11-09",
+   "lineup_checked": "2026-11-12",
    "lineup": [
     "OKAMOTO'S",
     "ドレスコーズ",
@@ -18435,6 +18443,12 @@
      "end": "",
      "url": "https://rock-anthem.jp/",
      "note": "11/5 18:00〜。DAY2(11/28)は一般チケットSOLD OUT表示"
+    },
+    {
+     "label": "チケット発売",
+     "start": "2026-11-05",
+     "url": "https://rock-anthem.jp/",
+     "note": "18:00開始。締切は記載なし"
     }
    ],
    "image": "https://rock-anthem.jp/wp-content/uploads/2026/02/ff.jpg"
@@ -18478,7 +18492,7 @@
    "ticket_url": "https://w.pia.jp/t/oaiko-fes-winter/",
    "source_url": "https://prtimes.jp/main/html/rd/p/000003985.000003639.html",
    "note": "第1弾16組（7/17発表）。その後第4弾までの追加発表あり（検索結果の見出しのみ・全員分は未確認）。オルタナ系サーキット。13:00開場／14:00開演、早割2 7,000円。",
-   "lineup_checked": "2026-11-08",
+   "lineup_checked": "2026-11-12",
    "image": "https://storage.googleapis.com/production-os-assets/assets/e416d6c7-ae36-4c17-b8cd-91a4ca7c47f3"
   },
   {
@@ -18593,7 +18607,7 @@
    "ticket_url": "https://eplus.jp/54th-1231/",
    "source_url": "https://gekirock.com/news/2026/11/54th_new_year_rock_festival_1st_lineup.php",
    "note": "第1弾",
-   "lineup_checked": "2026-11-10",
+   "lineup_checked": "2026-11-12",
    "image": "https://static.wixstatic.com/media/1f651b_fc1737d63cbd40518763102d1cc5e3c9%7Emv2.png/v1/fit/w_2500,h_1330,al_c/1f651b_fc1737d63cbd40518763102d1cc5e3c9%7Emv2.png"
   },
   {
@@ -18624,6 +18638,86 @@
    "lineup_checked": "2026-11-10",
    "note": "日割りは後日発表。出演者は追加予定",
    "source_url": "https://natalie.mu/music/news/696450"
+  },
+  {
+   "name": "KASHI ROCK FESTIVAL",
+   "start": "2026-12-05",
+   "end": "2026-12-06",
+   "pref": "北海道",
+   "lineup": [],
+   "status": "unknown",
+   "lineup_checked": "2026-11-12",
+   "source_url": "https://www.ragnet.co.jp/rock-festival"
+  },
+  {
+   "name": "THE BACK HORN presents 後角祭",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "pref": "福島",
+   "lineup": [],
+   "status": "unknown",
+   "lineup_checked": "2026-11-12",
+   "source_url": "https://www.ragnet.co.jp/rock-festival"
+  },
+  {
+   "name": "NEO CLENCH THE FIST SPECIAL",
+   "start": "2026-11-23",
+   "end": "2026-11-23",
+   "pref": "宮城",
+   "lineup": [],
+   "status": "unknown",
+   "lineup_checked": "2026-11-12",
+   "source_url": "https://www.ragnet.co.jp/rock-festival"
+  },
+  {
+   "name": "カレッジオブロック",
+   "start": "2026-12-13",
+   "end": "2026-12-13",
+   "pref": "岩手",
+   "lineup": [],
+   "status": "unknown",
+   "lineup_checked": "2026-11-12",
+   "source_url": "https://www.ragnet.co.jp/rock-festival"
+  },
+  {
+   "name": "廃線ロック",
+   "start": "2026-11-15",
+   "end": "2026-11-15",
+   "pref": "福井",
+   "lineup": [],
+   "status": "unknown",
+   "lineup_checked": "2026-11-12",
+   "source_url": "https://www.ragnet.co.jp/rock-festival/6"
+  },
+  {
+   "name": "beat phoenix",
+   "start": "2026-12-27",
+   "end": "2026-12-27",
+   "pref": "福井",
+   "lineup": [],
+   "status": "unknown",
+   "lineup_checked": "2026-11-12",
+   "source_url": "https://www.ragnet.co.jp/rock-festival/6"
+  },
+  {
+   "name": "小千谷市民音楽祭",
+   "start": "2026-11-21",
+   "end": "2026-11-22",
+   "pref": "新潟",
+   "lineup": [],
+   "status": "unknown",
+   "lineup_checked": "2026-11-12",
+   "source_url": "https://www.ragnet.co.jp/rock-festival/6"
+  },
+  {
+   "name": "ROOTS OF PUNK69ERZ",
+   "start": "2026-11-22",
+   "end": "2026-11-22",
+   "pref": "愛知",
+   "lineup": [],
+   "status": "unknown",
+   "lineup_checked": "2026-11-12",
+   "source_url": "https://www.ragnet.co.jp/rock-festival/6"
   }
  ],
  "artist_links": {
@@ -18772,7 +18866,8 @@
    "schedule": "https://www.sambomaster.com/live/",
    "eplus": "https://eplus.jp/sf/word/0000002764",
    "news": "(SMAのrobots.txtがAIの取得を禁止（2026-11-11確認）。公式サイトはJS描画で取得不可。e+・音楽ニュースで確認)",
-   "image": "https://www.sambomaster.com/img/figure/Sambomaster_A.jpg"
+   "image": "https://www.sambomaster.com/img/figure/Sambomaster_A.jpg",
+   "pia": "https://t.pia.jp/pia/artist/artists.do?artistsCd=29200025"
   },
   "マキシマム ザ ホルモン": {
    "eplus": "https://eplus.jp/sf/word/0000003230",
@@ -19086,27 +19181,27 @@
  "artist_status": {
   "Hi-STANDARD": {
    "state": "no_events",
-   "checked": "2026-11-10T20:07:00+09:00",
-   "news_checked": "2026-11-10T20:07:00+09:00"
+   "checked": "2026-11-12T20:09:00+09:00",
+   "news_checked": "2026-11-12T20:09:00+09:00"
   },
   "Mrs. GREEN APPLE": {
    "state": "ok",
-   "checked": "2026-11-10T20:07:00+09:00",
-   "news_checked": "2026-11-10T20:07:00+09:00"
+   "checked": "2026-11-12T20:09:00+09:00",
+   "news_checked": "2026-11-12T20:09:00+09:00"
   },
   "back number": {
    "state": "ok",
-   "checked": "2026-11-10T20:07:00+09:00",
-   "news_checked": "2026-11-10T20:07:00+09:00"
+   "checked": "2026-11-12T20:09:00+09:00",
+   "news_checked": "2026-11-12T20:09:00+09:00"
   },
   "04 Limited Sazabys": {
    "state": "ok",
-   "checked": "2026-11-10T20:07:00+09:00",
-   "news_checked": "2026-11-10T20:07:00+09:00"
+   "checked": "2026-11-12T20:09:00+09:00",
+   "news_checked": "2026-11-12T20:09:00+09:00"
   },
   "ELLEGARDEN": {
    "state": "ok",
-   "checked": "2026-11-11T20:12:00+09:00",
+   "checked": "2026-11-12T20:09:00+09:00",
    "note": "10/23名古屋は延期（振替日程は調整中・未発表）",
    "news_checked": "2026-11-08T07:07:00+09:00"
   },
@@ -19117,12 +19212,12 @@
   },
   "ORAL CIGARETTES": {
    "state": "ok",
-   "checked": "2026-11-10T20:07:00+09:00",
-   "news_checked": "2026-11-10T20:07:00+09:00"
+   "checked": "2026-11-12T20:09:00+09:00",
+   "news_checked": "2026-11-12T20:09:00+09:00"
   },
   "HEY-SMITH": {
    "state": "ok",
-   "checked": "2026-11-11T20:12:00+09:00",
+   "checked": "2026-11-12T20:09:00+09:00",
    "news_checked": "2026-11-08T07:07:00+09:00"
   },
   "マキシマム ザ ホルモン": {
@@ -19132,13 +19227,13 @@
   },
   "サンボマスター": {
    "state": "ok",
-   "checked": "2026-11-11T20:12:00+09:00",
+   "checked": "2026-11-12T20:09:00+09:00",
    "news_checked": "2026-11-10T07:12:00+09:00"
   },
   "あいみょん": {
    "state": "ok",
-   "checked": "2026-11-10T20:07:00+09:00",
-   "news_checked": "2026-11-10T20:07:00+09:00"
+   "checked": "2026-11-12T20:09:00+09:00",
+   "news_checked": "2026-11-12T20:09:00+09:00"
   },
   "10-FEET": {
    "state": "ok",
@@ -19202,7 +19297,7 @@
   },
   "UNISON SQUARE GARDEN": {
    "state": "no_events",
-   "checked": "2026-11-11T20:12:00+09:00",
+   "checked": "2026-11-12T20:09:00+09:00",
    "note": "2026-04-27に活動休止を発表。最終公演は2026-07-15。再開の発表なし",
    "news_checked": "2026-11-08T07:07:00+09:00"
   },
@@ -19218,23 +19313,23 @@
   },
   "斎藤宏介": {
    "state": "ok",
-   "checked": "2026-11-10T07:12:00+09:00",
+   "checked": "2026-11-12T20:09:00+09:00",
    "news_checked": "2026-11-10T07:12:00+09:00"
   },
   "BUMP OF CHICKEN": {
    "state": "ok",
-   "checked": "2026-11-10T07:12:00+09:00",
-   "news_checked": "2026-11-10T07:12:00+09:00"
+   "checked": "2026-11-12T20:09:00+09:00",
+   "news_checked": "2026-11-12T20:09:00+09:00"
   },
   "ブランデー戦記": {
    "state": "ok",
-   "checked": "2026-11-10T07:12:00+09:00",
-   "news_checked": "2026-11-10T07:12:00+09:00"
+   "checked": "2026-11-12T20:09:00+09:00",
+   "news_checked": "2026-11-12T20:09:00+09:00"
   },
   "muque": {
    "state": "ok",
-   "checked": "2026-11-10T07:12:00+09:00",
-   "news_checked": "2026-11-10T07:12:00+09:00"
+   "checked": "2026-11-12T20:09:00+09:00",
+   "news_checked": "2026-11-12T20:09:00+09:00"
   },
   "久石譲": {
    "state": "ok",

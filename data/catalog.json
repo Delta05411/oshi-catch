@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T20:12:00+09:00",
+ "updated": "2026-11-12T20:09:00+09:00",
  "artists": {
   "Saucy Dog": {
    "aliases": [
@@ -4875,6 +4875,14 @@
      "kind": "フェス",
      "venue": "INTEX OSAKA（大阪府）",
      "source_url": "https://en.skream.jp/news/2026/09/fm802_radio_crazy_2026_1st_lineup.php",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-01-30",
+     "title": "FUKUOKA MUSIC FES.2027 supported by Trunk（1/30）",
+     "kind": "フェス",
+     "venue": "みずほPayPayドーム福岡（福岡県）",
+     "source_url": "https://en.skream.jp/news/2026/10/fukuoka_music_fes_2027_3rd_lineup.php",
      "confidence": "high"
     }
    ]
@@ -14509,6 +14517,14 @@
      "venue": "INTEX OSAKA（大阪府）",
      "source_url": "https://eplus.jp/radiocrazy2026/",
      "confidence": "high"
+    },
+    {
+     "date": "2027-01-22",
+     "title": "Music Lane Festival Okinawa（1/22〜1/24のいずれか）",
+     "kind": "フェス",
+     "venue": "コザ・ミュージックタウン音楽広場ほか（沖縄県）（沖縄県）",
+     "source_url": "https://www.musiclanefestival.com/artist2027",
+     "confidence": "low"
     }
    ]
   },
@@ -20551,6 +20567,14 @@
      "venue": "道の駅かでな（沖縄）",
      "source_url": "https://go-kadena.com/history/article-2622/",
      "confidence": "high"
+    },
+    {
+     "date": "2027-01-22",
+     "title": "Music Lane Festival Okinawa（1/22〜1/24のいずれか）",
+     "kind": "フェス",
+     "venue": "コザ・ミュージックタウン音楽広場ほか（沖縄県）（沖縄県）",
+     "source_url": "https://www.musiclanefestival.com/artist2027",
+     "confidence": "low"
     }
    ]
   },
@@ -21814,6 +21838,526 @@
      "kind": "フェス",
      "venue": "（大阪）",
      "source_url": "https://pkshampoo.jp/psychicfes/artist.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "INTERPLAY": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "お豆音楽祭",
+     "kind": "フェス",
+     "venue": "本別町中央公民館（北海道）",
+     "source_url": "https://honbetsu.com/infrastructure/mame-fes",
+     "confidence": "high"
+    }
+   ]
+  },
+  "BOONIES": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "お豆音楽祭",
+     "kind": "フェス",
+     "venue": "本別町中央公民館（北海道）",
+     "source_url": "https://honbetsu.com/infrastructure/mame-fes",
+     "confidence": "high"
+    }
+   ]
+  },
+  "charchill": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "お豆音楽祭",
+     "kind": "フェス",
+     "venue": "本別町中央公民館（北海道）",
+     "source_url": "https://honbetsu.com/infrastructure/mame-fes",
+     "confidence": "high"
+    }
+   ]
+  },
+  "E-Nomura830Band": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-19",
+     "title": "HACHINOHEなりきり音楽祭（12/19〜12/20のいずれか）",
+     "kind": "フェス",
+     "venue": "SG GROUPホールはちのへ（八戸市公民館ホール）（青森県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "low"
+    }
+   ]
+  },
+  "イマイチミキ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-19",
+     "title": "HACHINOHEなりきり音楽祭（12/19〜12/20のいずれか）",
+     "kind": "フェス",
+     "venue": "SG GROUPホールはちのへ（八戸市公民館ホール）（青森県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "low"
+    }
+   ]
+  },
+  "ええやんネバヤン(枯山水)": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-19",
+     "title": "HACHINOHEなりきり音楽祭（12/19〜12/20のいずれか）",
+     "kind": "フェス",
+     "venue": "SG GROUPホールはちのへ（八戸市公民館ホール）（青森県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Star's☆Selection": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-19",
+     "title": "HACHINOHEなりきり音楽祭（12/19〜12/20のいずれか）",
+     "kind": "フェス",
+     "venue": "SG GROUPホールはちのへ（八戸市公民館ホール）（青森県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "low"
+    }
+   ]
+  },
+  "トワダケイスケ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-19",
+     "title": "HACHINOHEなりきり音楽祭（12/19〜12/20のいずれか）",
+     "kind": "フェス",
+     "venue": "SG GROUPホールはちのへ（八戸市公民館ホール）（青森県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "low"
+    }
+   ]
+  },
+  "do Rebecca": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-19",
+     "title": "HACHINOHEなりきり音楽祭（12/19〜12/20のいずれか）",
+     "kind": "フェス",
+     "venue": "SG GROUPホールはちのへ（八戸市公民館ホール）（青森県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "low"
+    }
+   ]
+  },
+  "虹紫(Violet-Moon)": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-19",
+     "title": "HACHINOHEなりきり音楽祭（12/19〜12/20のいずれか）",
+     "kind": "フェス",
+     "venue": "SG GROUPホールはちのへ（八戸市公民館ホール）（青森県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "low"
+    }
+   ]
+  },
+  "松山一春": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-19",
+     "title": "HACHINOHEなりきり音楽祭（12/19〜12/20のいずれか）",
+     "kind": "フェス",
+     "venue": "SG GROUPホールはちのへ（八戸市公民館ホール）（青森県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "low"
+    }
+   ]
+  },
+  "みくみょん": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-19",
+     "title": "HACHINOHEなりきり音楽祭（12/19〜12/20のいずれか）",
+     "kind": "フェス",
+     "venue": "SG GROUPホールはちのへ（八戸市公民館ホール）（青森県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "low"
+    }
+   ]
+  },
+  "誘惑": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-19",
+     "title": "HACHINOHEなりきり音楽祭（12/19〜12/20のいずれか）",
+     "kind": "フェス",
+     "venue": "SG GROUPホールはちのへ（八戸市公民館ホール）（青森県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "low"
+    }
+   ]
+  },
+  "ユメミグサ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-19",
+     "title": "HACHINOHEなりきり音楽祭（12/19〜12/20のいずれか）",
+     "kind": "フェス",
+     "venue": "SG GROUPホールはちのへ（八戸市公民館ホール）（青森県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Ámina": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-22",
+     "title": "Music Lane Festival Okinawa（1/22〜1/24のいずれか）",
+     "kind": "フェス",
+     "venue": "コザ・ミュージックタウン音楽広場ほか（沖縄県）（沖縄県）",
+     "source_url": "https://www.musiclanefestival.com/artist2027",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Fi-Né粉內": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-22",
+     "title": "Music Lane Festival Okinawa（1/22〜1/24のいずれか）",
+     "kind": "フェス",
+     "venue": "コザ・ミュージックタウン音楽広場ほか（沖縄県）（沖縄県）",
+     "source_url": "https://www.musiclanefestival.com/artist2027",
+     "confidence": "low"
+    }
+   ]
+  },
+  "norké": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-22",
+     "title": "Music Lane Festival Okinawa（1/22〜1/24のいずれか）",
+     "kind": "フェス",
+     "venue": "コザ・ミュージックタウン音楽広場ほか（沖縄県）（沖縄県）",
+     "source_url": "https://www.musiclanefestival.com/artist2027",
+     "confidence": "low"
+    }
+   ]
+  },
+  "supergoods": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-22",
+     "title": "Music Lane Festival Okinawa（1/22〜1/24のいずれか）",
+     "kind": "フェス",
+     "venue": "コザ・ミュージックタウン音楽広場ほか（沖縄県）（沖縄県）",
+     "source_url": "https://www.musiclanefestival.com/artist2027",
+     "confidence": "low"
+    }
+   ]
+  },
+  "阿橘 Ahh G": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-22",
+     "title": "Music Lane Festival Okinawa（1/22〜1/24のいずれか）",
+     "kind": "フェス",
+     "venue": "コザ・ミュージックタウン音楽広場ほか（沖縄県）（沖縄県）",
+     "source_url": "https://www.musiclanefestival.com/artist2027",
+     "confidence": "low"
+    }
+   ]
+  },
+  "田上碧": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-22",
+     "title": "Music Lane Festival Okinawa（1/22〜1/24のいずれか）",
+     "kind": "フェス",
+     "venue": "コザ・ミュージックタウン音楽広場ほか（沖縄県）（沖縄県）",
+     "source_url": "https://www.musiclanefestival.com/artist2027",
+     "confidence": "low"
+    }
+   ]
+  },
+  "A_Root 同根生": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-22",
+     "title": "Music Lane Festival Okinawa（1/22〜1/24のいずれか）",
+     "kind": "フェス",
+     "venue": "コザ・ミュージックタウン音楽広場ほか（沖縄県）（沖縄県）",
+     "source_url": "https://www.musiclanefestival.com/artist2027",
+     "confidence": "low"
+    }
+   ]
+  },
+  "B.Rox": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-22",
+     "title": "Music Lane Festival Okinawa（1/22〜1/24のいずれか）",
+     "kind": "フェス",
+     "venue": "コザ・ミュージックタウン音楽広場ほか（沖縄県）（沖縄県）",
+     "source_url": "https://www.musiclanefestival.com/artist2027",
+     "confidence": "low"
+    }
+   ]
+  },
+  "CHAKA LAND": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-22",
+     "title": "Music Lane Festival Okinawa（1/22〜1/24のいずれか）",
+     "kind": "フェス",
+     "venue": "コザ・ミュージックタウン音楽広場ほか（沖縄県）（沖縄県）",
+     "source_url": "https://www.musiclanefestival.com/artist2027",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Crystal Murray": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-22",
+     "title": "Music Lane Festival Okinawa（1/22〜1/24のいずれか）",
+     "kind": "フェス",
+     "venue": "コザ・ミュージックタウン音楽広場ほか（沖縄県）（沖縄県）",
+     "source_url": "https://www.musiclanefestival.com/artist2027",
+     "confidence": "low"
+    }
+   ]
+  },
+  "E'sekai": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-22",
+     "title": "Music Lane Festival Okinawa（1/22〜1/24のいずれか）",
+     "kind": "フェス",
+     "venue": "コザ・ミュージックタウン音楽広場ほか（沖縄県）（沖縄県）",
+     "source_url": "https://www.musiclanefestival.com/artist2027",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Etranger": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-22",
+     "title": "Music Lane Festival Okinawa（1/22〜1/24のいずれか）",
+     "kind": "フェス",
+     "venue": "コザ・ミュージックタウン音楽広場ほか（沖縄県）（沖縄県）",
+     "source_url": "https://www.musiclanefestival.com/artist2027",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Guernica Club": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-22",
+     "title": "Music Lane Festival Okinawa（1/22〜1/24のいずれか）",
+     "kind": "フェス",
+     "venue": "コザ・ミュージックタウン音楽広場ほか（沖縄県）（沖縄県）",
+     "source_url": "https://www.musiclanefestival.com/artist2027",
+     "confidence": "low"
+    }
+   ]
+  },
+  "HARMONICA CREAMS": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-22",
+     "title": "Music Lane Festival Okinawa（1/22〜1/24のいずれか）",
+     "kind": "フェス",
+     "venue": "コザ・ミュージックタウン音楽広場ほか（沖縄県）（沖縄県）",
+     "source_url": "https://www.musiclanefestival.com/artist2027",
+     "confidence": "low"
+    }
+   ]
+  },
+  ".jvkn": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-22",
+     "title": "Music Lane Festival Okinawa（1/22〜1/24のいずれか）",
+     "kind": "フェス",
+     "venue": "コザ・ミュージックタウン音楽広場ほか（沖縄県）（沖縄県）",
+     "source_url": "https://www.musiclanefestival.com/artist2027",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Mohar": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-22",
+     "title": "Music Lane Festival Okinawa（1/22〜1/24のいずれか）",
+     "kind": "フェス",
+     "venue": "コザ・ミュージックタウン音楽広場ほか（沖縄県）（沖縄県）",
+     "source_url": "https://www.musiclanefestival.com/artist2027",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Novocrane": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-22",
+     "title": "Music Lane Festival Okinawa（1/22〜1/24のいずれか）",
+     "kind": "フェス",
+     "venue": "コザ・ミュージックタウン音楽広場ほか（沖縄県）（沖縄県）",
+     "source_url": "https://www.musiclanefestival.com/artist2027",
+     "confidence": "low"
+    }
+   ]
+  },
+  "應聲倒地 On the Floor": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-22",
+     "title": "Music Lane Festival Okinawa（1/22〜1/24のいずれか）",
+     "kind": "フェス",
+     "venue": "コザ・ミュージックタウン音楽広場ほか（沖縄県）（沖縄県）",
+     "source_url": "https://www.musiclanefestival.com/artist2027",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Salmon Pink": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-22",
+     "title": "Music Lane Festival Okinawa（1/22〜1/24のいずれか）",
+     "kind": "フェス",
+     "venue": "コザ・ミュージックタウン音楽広場ほか（沖縄県）（沖縄県）",
+     "source_url": "https://www.musiclanefestival.com/artist2027",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Strawman & Celine": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-22",
+     "title": "Music Lane Festival Okinawa（1/22〜1/24のいずれか）",
+     "kind": "フェス",
+     "venue": "コザ・ミュージックタウン音楽広場ほか（沖縄県）（沖縄県）",
+     "source_url": "https://www.musiclanefestival.com/artist2027",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Thalassa": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-22",
+     "title": "Music Lane Festival Okinawa（1/22〜1/24のいずれか）",
+     "kind": "フェス",
+     "venue": "コザ・ミュージックタウン音楽広場ほか（沖縄県）（沖縄県）",
+     "source_url": "https://www.musiclanefestival.com/artist2027",
+     "confidence": "low"
+    }
+   ]
+  },
+  "THE STEREOGANG": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-22",
+     "title": "Music Lane Festival Okinawa（1/22〜1/24のいずれか）",
+     "kind": "フェス",
+     "venue": "コザ・ミュージックタウン音楽広場ほか（沖縄県）（沖縄県）",
+     "source_url": "https://www.musiclanefestival.com/artist2027",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Tyne": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-22",
+     "title": "Music Lane Festival Okinawa（1/22〜1/24のいずれか）",
+     "kind": "フェス",
+     "venue": "コザ・ミュージックタウン音楽広場ほか（沖縄県）（沖縄県）",
+     "source_url": "https://www.musiclanefestival.com/artist2027",
+     "confidence": "low"
+    }
+   ]
+  },
+  "宇宙資料庫 Universe Database": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-22",
+     "title": "Music Lane Festival Okinawa（1/22〜1/24のいずれか）",
+     "kind": "フェス",
+     "venue": "コザ・ミュージックタウン音楽広場ほか（沖縄県）（沖縄県）",
+     "source_url": "https://www.musiclanefestival.com/artist2027",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Yoko City Ghost": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-22",
+     "title": "Music Lane Festival Okinawa（1/22〜1/24のいずれか）",
+     "kind": "フェス",
+     "venue": "コザ・ミュージックタウン音楽広場ほか（沖縄県）（沖縄県）",
+     "source_url": "https://www.musiclanefestival.com/artist2027",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Neguse.": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-31",
+     "title": "FUKUOKA MUSIC FES.2027 supported by Trunk（1/31）",
+     "kind": "フェス",
+     "venue": "みずほPayPayドーム福岡（福岡県）",
+     "source_url": "https://en.skream.jp/news/2026/10/fukuoka_music_fes_2027_3rd_lineup.php",
      "confidence": "high"
     }
    ]
