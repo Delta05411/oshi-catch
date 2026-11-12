@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T20:09:00+09:00",
+ "updated": "2026-11-13T07:07:45+09:00",
  "artists": {
   "Saucy Dog": {
    "aliases": [
@@ -376,6 +376,14 @@
   "クリープハイプ": {
    "aliases": [],
    "events": [
+    {
+     "date": "2026-11-14",
+     "title": "THE BACK HORN presents 後角祭",
+     "kind": "フェス",
+     "venue": "（福島）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "high"
+    },
     {
      "date": "2026-12-13",
      "title": "結びの夢番地（12/13）",
@@ -7708,6 +7716,22 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-11-14",
+     "title": "THE BACK HORN presents 後角祭",
+     "kind": "フェス",
+     "venue": "（福島）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-11-15",
+     "title": "THE BACK HORN presents 後角祭",
+     "kind": "フェス",
+     "venue": "（福島）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "high"
+    },
+    {
      "date": "2026-11-27",
      "title": "ロックアンセム -BY ROCK LOVERS , FOR ROCK LOVERS-",
      "kind": "フェス",
@@ -7728,6 +7752,14 @@
   "Base Ball Bear": {
    "aliases": [],
    "events": [
+    {
+     "date": "2026-11-15",
+     "title": "THE BACK HORN presents 後角祭",
+     "kind": "フェス",
+     "venue": "（福島）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "high"
+    },
     {
      "date": "2026-11-27",
      "title": "ロックアンセム -BY ROCK LOVERS , FOR ROCK LOVERS-",
@@ -22358,6 +22390,591 @@
      "kind": "フェス",
      "venue": "みずほPayPayドーム福岡（福岡県）",
      "source_url": "https://en.skream.jp/news/2026/10/fukuoka_music_fes_2027_3rd_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "山本慧人": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-15",
+     "title": "廃線ロック",
+     "kind": "フェス",
+     "venue": "（福井）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival/6",
+     "confidence": "high"
+    }
+   ]
+  },
+  "サモエド": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-15",
+     "title": "廃線ロック",
+     "kind": "フェス",
+     "venue": "（福井）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival/6",
+     "confidence": "high"
+    }
+   ]
+  },
+  "吹奏楽部（敦賀高校）": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-15",
+     "title": "廃線ロック",
+     "kind": "フェス",
+     "venue": "（福井）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival/6",
+     "confidence": "high"
+    }
+   ]
+  },
+  "島津 凛々華": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-15",
+     "title": "廃線ロック",
+     "kind": "フェス",
+     "venue": "（福井）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival/6",
+     "confidence": "high"
+    }
+   ]
+  },
+  "東経135度": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-15",
+     "title": "廃線ロック",
+     "kind": "フェス",
+     "venue": "（福井）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival/6",
+     "confidence": "high"
+    }
+   ]
+  },
+  "日々愛愛": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-15",
+     "title": "廃線ロック",
+     "kind": "フェス",
+     "venue": "（福井）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival/6",
+     "confidence": "high"
+    }
+   ]
+  },
+  "CLIMINALS": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-15",
+     "title": "廃線ロック",
+     "kind": "フェス",
+     "venue": "（福井）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival/6",
+     "confidence": "high"
+    }
+   ]
+  },
+  "合唱団 かたくり": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "小千谷市民音楽祭",
+     "kind": "フェス",
+     "venue": "（新潟）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival/6",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ふうりん": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "小千谷市民音楽祭",
+     "kind": "フェス",
+     "venue": "（新潟）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival/6",
+     "confidence": "high"
+    }
+   ]
+  },
+  "もふもふ団": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "小千谷市民音楽祭",
+     "kind": "フェス",
+     "venue": "（新潟）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival/6",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Ken i": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "小千谷市民音楽祭",
+     "kind": "フェス",
+     "venue": "（新潟）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival/6",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ベル・ネーゴ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "小千谷市民音楽祭",
+     "kind": "フェス",
+     "venue": "（新潟）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival/6",
+     "confidence": "high"
+    }
+   ]
+  },
+  "コール・R": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "小千谷市民音楽祭",
+     "kind": "フェス",
+     "venue": "（新潟）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival/6",
+     "confidence": "high"
+    }
+   ]
+  },
+  "混声合唱団OSC": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "小千谷市民音楽祭",
+     "kind": "フェス",
+     "venue": "（新潟）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival/6",
+     "confidence": "high"
+    }
+   ]
+  },
+  "山本山☆ラテンファンクド☆オルケスタ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "小千谷市民音楽祭",
+     "kind": "フェス",
+     "venue": "（新潟）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival/6",
+     "confidence": "high"
+    }
+   ]
+  },
+  "オンザロックオーケストラ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "小千谷市民音楽祭",
+     "kind": "フェス",
+     "venue": "（新潟）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival/6",
+     "confidence": "high"
+    }
+   ]
+  },
+  "SUIZOKUKAN": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-22",
+     "title": "小千谷市民音楽祭",
+     "kind": "フェス",
+     "venue": "（新潟）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival/6",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Arcobaleno": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-22",
+     "title": "小千谷市民音楽祭",
+     "kind": "フェス",
+     "venue": "（新潟）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival/6",
+     "confidence": "high"
+    }
+   ]
+  },
+  "芸達者": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-22",
+     "title": "小千谷市民音楽祭",
+     "kind": "フェス",
+     "venue": "（新潟）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival/6",
+     "confidence": "high"
+    }
+   ]
+  },
+  "R・S・T・B": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-22",
+     "title": "小千谷市民音楽祭",
+     "kind": "フェス",
+     "venue": "（新潟）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival/6",
+     "confidence": "high"
+    }
+   ]
+  },
+  "イッシー": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-22",
+     "title": "小千谷市民音楽祭",
+     "kind": "フェス",
+     "venue": "（新潟）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival/6",
+     "confidence": "high"
+    }
+   ]
+  },
+  "片貝ルナシー": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-22",
+     "title": "小千谷市民音楽祭",
+     "kind": "フェス",
+     "venue": "（新潟）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival/6",
+     "confidence": "high"
+    }
+   ]
+  },
+  "TRICYCLE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-22",
+     "title": "小千谷市民音楽祭",
+     "kind": "フェス",
+     "venue": "（新潟）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival/6",
+     "confidence": "high"
+    }
+   ]
+  },
+  "CRANKENSTIEN": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-22",
+     "title": "小千谷市民音楽祭",
+     "kind": "フェス",
+     "venue": "（新潟）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival/6",
+     "confidence": "high"
+    }
+   ]
+  },
+  "GO! (JUNIOR)": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-23",
+     "title": "NEO CLENCH THE FIST SPECIAL",
+     "kind": "フェス",
+     "venue": "（宮城）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ヒマラヤロック": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-23",
+     "title": "NEO CLENCH THE FIST SPECIAL",
+     "kind": "フェス",
+     "venue": "（宮城）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "high"
+    }
+   ]
+  },
+  "三ケ田とくにお": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-23",
+     "title": "NEO CLENCH THE FIST SPECIAL",
+     "kind": "フェス",
+     "venue": "（宮城）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "high"
+    }
+   ]
+  },
+  "DIFRAKTO": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-23",
+     "title": "NEO CLENCH THE FIST SPECIAL",
+     "kind": "フェス",
+     "venue": "（宮城）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "high"
+    }
+   ]
+  },
+  "NUE'S HEAD SOUP": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-23",
+     "title": "NEO CLENCH THE FIST SPECIAL",
+     "kind": "フェス",
+     "venue": "（宮城）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "high"
+    }
+   ]
+  },
+  "DRAGON×SCREW": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-23",
+     "title": "NEO CLENCH THE FIST SPECIAL",
+     "kind": "フェス",
+     "venue": "（宮城）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "high"
+    }
+   ]
+  },
+  "NAKED YEGGS": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-23",
+     "title": "NEO CLENCH THE FIST SPECIAL",
+     "kind": "フェス",
+     "venue": "（宮城）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "high"
+    }
+   ]
+  },
+  "KINSMEN": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-23",
+     "title": "NEO CLENCH THE FIST SPECIAL",
+     "kind": "フェス",
+     "venue": "（宮城）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "high"
+    }
+   ]
+  },
+  "DERQUI": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-23",
+     "title": "NEO CLENCH THE FIST SPECIAL",
+     "kind": "フェス",
+     "venue": "（宮城）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "high"
+    }
+   ]
+  },
+  "GxAxMxEx": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-23",
+     "title": "NEO CLENCH THE FIST SPECIAL",
+     "kind": "フェス",
+     "venue": "（宮城）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "high"
+    }
+   ]
+  },
+  "THUNDER TOMAHAWK": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-23",
+     "title": "NEO CLENCH THE FIST SPECIAL",
+     "kind": "フェス",
+     "venue": "（宮城）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "high"
+    }
+   ]
+  },
+  "GREAT INVADERS": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-23",
+     "title": "NEO CLENCH THE FIST SPECIAL",
+     "kind": "フェス",
+     "venue": "（宮城）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "high"
+    }
+   ]
+  },
+  "PSYCHO E8": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-23",
+     "title": "NEO CLENCH THE FIST SPECIAL",
+     "kind": "フェス",
+     "venue": "（宮城）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ENBAN BOYS": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-23",
+     "title": "NEO CLENCH THE FIST SPECIAL",
+     "kind": "フェス",
+     "venue": "（宮城）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "high"
+    }
+   ]
+  },
+  "TOTAL FURY": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-23",
+     "title": "NEO CLENCH THE FIST SPECIAL",
+     "kind": "フェス",
+     "venue": "（宮城）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "high"
+    }
+   ]
+  },
+  "EXCITE JAC": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-23",
+     "title": "NEO CLENCH THE FIST SPECIAL",
+     "kind": "フェス",
+     "venue": "（宮城）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "high"
+    }
+   ]
+  },
+  "KIYOBILLY": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-23",
+     "title": "NEO CLENCH THE FIST SPECIAL",
+     "kind": "フェス",
+     "venue": "（宮城）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ABICO": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-23",
+     "title": "NEO CLENCH THE FIST SPECIAL",
+     "kind": "フェス",
+     "venue": "（宮城）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "high"
+    }
+   ]
+  },
+  "MARIMO": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-23",
+     "title": "NEO CLENCH THE FIST SPECIAL",
+     "kind": "フェス",
+     "venue": "（宮城）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "high"
+    }
+   ]
+  },
+  "TAIHEI": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-23",
+     "title": "NEO CLENCH THE FIST SPECIAL",
+     "kind": "フェス",
+     "venue": "（宮城）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "high"
+    }
+   ]
+  },
+  "BUTCH": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-23",
+     "title": "NEO CLENCH THE FIST SPECIAL",
+     "kind": "フェス",
+     "venue": "（宮城）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
      "confidence": "high"
     }
    ]
