@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T07:07:45+09:00",
+ "updated": "2026-11-15T07:12:22+09:00",
  "artists": {
   "Saucy Dog": {
    "aliases": [
@@ -376,14 +376,6 @@
   "クリープハイプ": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-11-14",
-     "title": "THE BACK HORN presents 後角祭",
-     "kind": "フェス",
-     "venue": "（福島）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "high"
-    },
     {
      "date": "2026-12-13",
      "title": "結びの夢番地（12/13）",
@@ -1553,6 +1545,14 @@
      "kind": "フェス",
      "venue": "台中・清水鰲峰山運動公園（台湾）",
      "source_url": "https://natalie.mu/music/news/696450",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-02-11",
+     "title": "DOVETAIL",
+     "kind": "フェス",
+     "venue": "Spotify O-EAST / Spotify O-WEST / duo MUSIC EXCHANGE（東京都）",
+     "source_url": "https://festival-life.com/168995",
      "confidence": "high"
     }
    ]
@@ -5276,6 +5276,14 @@
      "venue": "TOYOTA ARENA TOKYO（東京）",
      "source_url": "https://eplus.jp/new-horizon-fest/",
      "confidence": "high"
+    },
+    {
+     "date": "2027-01-23",
+     "title": "浜松音球祭2027",
+     "kind": "フェス",
+     "venue": "Live House浜松 窓枠（静岡県）",
+     "source_url": "https://eplus.jp/onkyu-sai/",
+     "confidence": "high"
     }
    ]
   },
@@ -6428,14 +6436,6 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-11-14",
-     "title": "アメ村天国",
-     "kind": "フェス",
-     "venue": "アメリカ村 SUNHALLほか（大阪府）",
-     "source_url": "https://iwzbn.com/live/?id=d20261114",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-05",
      "title": "下北沢にて（12/5）",
      "kind": "フェス",
@@ -7309,14 +7309,6 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-11-14",
-     "title": "アメ村天国",
-     "kind": "フェス",
-     "venue": "アメリカ村 SUNHALLほか（大阪府）",
-     "source_url": "https://iwzbn.com/live/?id=d20261114",
-     "confidence": "high"
-    },
-    {
      "date": "2027-01-10",
      "title": "ロックンロールサーカス（1/10）",
      "kind": "フェス",
@@ -7486,30 +7478,9 @@
     }
    ]
   },
-  "炙りなタウン": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-14",
-     "title": "アメ村天国",
-     "kind": "フェス",
-     "venue": "アメリカ村 SUNHALLほか（大阪府）",
-     "source_url": "https://iwzbn.com/live/?id=d20261114",
-     "confidence": "high"
-    }
-   ]
-  },
   "クリトリック・リス": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-11-14",
-     "title": "アメ村天国",
-     "kind": "フェス",
-     "venue": "アメリカ村 SUNHALLほか（大阪府）",
-     "source_url": "https://iwzbn.com/live/?id=d20261114",
-     "confidence": "high"
-    },
     {
      "date": "2026-11-28",
      "title": "PSYCHIC FES",
@@ -7716,14 +7687,6 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-11-14",
-     "title": "THE BACK HORN presents 後角祭",
-     "kind": "フェス",
-     "venue": "（福島）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "high"
-    },
-    {
      "date": "2026-11-15",
      "title": "THE BACK HORN presents 後角祭",
      "kind": "フェス",
@@ -7908,14 +7871,6 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-11-14",
-     "title": "アメ村天国",
-     "kind": "フェス",
-     "venue": "アメリカ村 SUNHALLほか（大阪府）",
-     "source_url": "https://iwzbn.com/live/?id=d20261114",
-     "confidence": "high"
-    },
-    {
      "date": "2026-11-28",
      "title": "PSYCHIC FES",
      "kind": "フェス",
@@ -7968,14 +7923,6 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-11-14",
-     "title": "アメ村天国",
-     "kind": "フェス",
-     "venue": "アメリカ村 SUNHALLほか（大阪府）",
-     "source_url": "https://iwzbn.com/live/?id=d20261114",
-     "confidence": "high"
-    },
-    {
      "date": "2026-11-28",
      "title": "PSYCHIC FES",
      "kind": "フェス",
@@ -7988,14 +7935,6 @@
   "KING BROTHERS": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-11-14",
-     "title": "アメ村天国",
-     "kind": "フェス",
-     "venue": "アメリカ村 SUNHALLほか（大阪府）",
-     "source_url": "https://iwzbn.com/live/?id=d20261114",
-     "confidence": "high"
-    },
     {
      "date": "2026-11-28",
      "title": "PSYCHIC FES",
@@ -8038,14 +7977,6 @@
   "grating hunny": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-11-14",
-     "title": "アメ村天国",
-     "kind": "フェス",
-     "venue": "アメリカ村 SUNHALLほか（大阪府）",
-     "source_url": "https://iwzbn.com/live/?id=d20261114",
-     "confidence": "high"
-    },
     {
      "date": "2026-11-28",
      "title": "PSYCHIC FES",
@@ -8120,14 +8051,6 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-11-14",
-     "title": "アメ村天国",
-     "kind": "フェス",
-     "venue": "アメリカ村 SUNHALLほか（大阪府）",
-     "source_url": "https://iwzbn.com/live/?id=d20261114",
-     "confidence": "high"
-    },
-    {
      "date": "2026-11-28",
      "title": "PSYCHIC FES",
      "kind": "フェス",
@@ -8161,14 +8084,6 @@
   "空きっ腹に酒": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-11-14",
-     "title": "アメ村天国",
-     "kind": "フェス",
-     "venue": "アメリカ村 SUNHALLほか（大阪府）",
-     "source_url": "https://iwzbn.com/live/?id=d20261114",
-     "confidence": "high"
-    },
     {
      "date": "2026-11-28",
      "title": "PSYCHIC FES",
@@ -8233,14 +8148,6 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-11-14",
-     "title": "アメ村天国",
-     "kind": "フェス",
-     "venue": "アメリカ村 SUNHALLほか（大阪府）",
-     "source_url": "https://iwzbn.com/live/?id=d20261114",
-     "confidence": "high"
-    },
-    {
      "date": "2026-11-28",
      "title": "PSYCHIC FES",
      "kind": "フェス",
@@ -8253,14 +8160,6 @@
   "ザ ニンクス": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-11-14",
-     "title": "アメ村天国",
-     "kind": "フェス",
-     "venue": "アメリカ村 SUNHALLほか（大阪府）",
-     "source_url": "https://iwzbn.com/live/?id=d20261114",
-     "confidence": "high"
-    },
     {
      "date": "2026-11-28",
      "title": "PSYCHIC FES",
@@ -8338,14 +8237,6 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-11-14",
-     "title": "アメ村天国",
-     "kind": "フェス",
-     "venue": "アメリカ村 SUNHALLほか（大阪府）",
-     "source_url": "https://iwzbn.com/live/?id=d20261114",
-     "confidence": "high"
-    },
-    {
      "date": "2026-11-23",
      "title": "PANA FES（11/23）",
      "kind": "フェス",
@@ -8400,14 +8291,6 @@
   "muk": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-11-14",
-     "title": "アメ村天国",
-     "kind": "フェス",
-     "venue": "アメリカ村 SUNHALLほか（大阪府）",
-     "source_url": "https://iwzbn.com/live/?id=d20261114",
-     "confidence": "high"
-    },
     {
      "date": "2026-11-28",
      "title": "PSYCHIC FES",
@@ -8473,14 +8356,6 @@
   "愛はズボーン": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-11-14",
-     "title": "アメ村天国",
-     "kind": "フェス",
-     "venue": "アメリカ村 SUNHALLほか（大阪府）",
-     "source_url": "https://iwzbn.com/live/?id=d20261114",
-     "confidence": "high"
-    },
     {
      "date": "2026-11-23",
      "title": "PANA FES（11/23）",
@@ -8550,14 +8425,6 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-11-14",
-     "title": "アメ村天国",
-     "kind": "フェス",
-     "venue": "アメリカ村 SUNHALLほか（大阪府）",
-     "source_url": "https://iwzbn.com/live/?id=d20261114",
-     "confidence": "high"
-    },
-    {
      "date": "2026-11-28",
      "title": "PSYCHIC FES",
      "kind": "フェス",
@@ -8578,14 +8445,6 @@
   "ハダカエフダ": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-11-14",
-     "title": "アメ村天国",
-     "kind": "フェス",
-     "venue": "アメリカ村 SUNHALLほか（大阪府）",
-     "source_url": "https://iwzbn.com/live/?id=d20261114",
-     "confidence": "high"
-    },
     {
      "date": "2026-11-28",
      "title": "PSYCHIC FES",
@@ -9309,138 +9168,6 @@
     }
    ]
   },
-  "cero": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-14",
-     "title": "こんがりおんがく祭（11/14）",
-     "kind": "フェス",
-     "venue": "大阪城音楽堂（大阪）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "high"
-    }
-   ]
-  },
-  "kanekoayano": {
-   "aliases": [
-    "カネコアヤノ"
-   ],
-   "events": [
-    {
-     "date": "2026-11-14",
-     "title": "こんがりおんがく祭（11/14）",
-     "kind": "フェス",
-     "venue": "大阪城音楽堂（大阪）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "high"
-    }
-   ]
-  },
-  "Summer Eye Sound Syndicate": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-14",
-     "title": "こんがりおんがく祭（11/14）",
-     "kind": "フェス",
-     "venue": "大阪城音楽堂（大阪）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "high"
-    }
-   ]
-  },
-  "Texas 3000": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-14",
-     "title": "こんがりおんがく祭（11/14）",
-     "kind": "フェス",
-     "venue": "大阪城音楽堂（大阪）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "high"
-    }
-   ]
-  },
-  "neco眠る": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-14",
-     "title": "こんがりおんがく祭（11/14）",
-     "kind": "フェス",
-     "venue": "大阪城音楽堂（大阪）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "high"
-    }
-   ]
-  },
-  "オシリペンペンズ": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-14",
-     "title": "こんがりおんがく祭（11/14）",
-     "kind": "フェス",
-     "venue": "大阪城音楽堂（大阪）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "high"
-    }
-   ]
-  },
-  "DODDODO BAND": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-14",
-     "title": "こんがりおんがく祭（11/14）",
-     "kind": "フェス",
-     "venue": "大阪城音楽堂（大阪）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "high"
-    }
-   ]
-  },
-  "ナイトサパーズ(from赤犬)": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-14",
-     "title": "こんがりおんがく祭（11/14）",
-     "kind": "フェス",
-     "venue": "大阪城音楽堂（大阪）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "high"
-    }
-   ]
-  },
-  "NAKAM": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-14",
-     "title": "こんがりおんがく祭（11/14）",
-     "kind": "フェス",
-     "venue": "大阪城音楽堂（大阪）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "high"
-    }
-   ]
-  },
-  "Takashi Irie": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-14",
-     "title": "こんがりおんがく祭（11/14）",
-     "kind": "フェス",
-     "venue": "大阪城音楽堂（大阪）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "high"
-    }
-   ]
-  },
   "JO1": {
    "aliases": [],
    "events": [
@@ -9699,14 +9426,6 @@
   "夜の本気ダンス": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-11-14",
-     "title": "アメ村天国",
-     "kind": "フェス",
-     "venue": "アメリカ村 SUNHALLほか（大阪府）",
-     "source_url": "https://iwzbn.com/live/?id=d20261114",
-     "confidence": "high"
-    },
     {
      "date": "2026-11-23",
      "title": "PANA FES（11/23）",
@@ -11209,14 +10928,6 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-11-14",
-     "title": "アメ村天国",
-     "kind": "フェス",
-     "venue": "アメリカ村 SUNHALLほか（大阪府）",
-     "source_url": "https://iwzbn.com/live/?id=d20261114",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-05",
      "title": "下北沢にて（12/5）",
      "kind": "フェス",
@@ -11888,14 +11599,6 @@
   "さらば帝国": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-11-14",
-     "title": "アメ村天国",
-     "kind": "フェス",
-     "venue": "アメリカ村 SUNHALLほか（大阪府）",
-     "source_url": "https://iwzbn.com/live/?id=d20261114",
-     "confidence": "high"
-    },
     {
      "date": "2026-12-05",
      "title": "下北沢にて（12/5）",
@@ -14182,179 +13885,15 @@
     }
    ]
   },
-  "アイアムアイ": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-14",
-     "title": "アメ村天国",
-     "kind": "フェス",
-     "venue": "アメリカ村 SUNHALLほか（大阪府）",
-     "source_url": "https://iwzbn.com/live/?id=d20261114",
-     "confidence": "high"
-    }
-   ]
-  },
   "アフターアワーズ": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-11-14",
-     "title": "アメ村天国",
-     "kind": "フェス",
-     "venue": "アメリカ村 SUNHALLほか（大阪府）",
-     "source_url": "https://iwzbn.com/live/?id=d20261114",
-     "confidence": "high"
-    },
     {
      "date": "2027-01-10",
      "title": "ロックンロールサーカス（1/10）",
      "kind": "フェス",
      "venue": "神戸VARIT.ほか（兵庫県）",
      "source_url": "https://eplus.jp/sf/detail/K000000646",
-     "confidence": "high"
-    }
-   ]
-  },
-  "Alaska Jam": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-14",
-     "title": "アメ村天国",
-     "kind": "フェス",
-     "venue": "アメリカ村 SUNHALLほか（大阪府）",
-     "source_url": "https://iwzbn.com/live/?id=d20261114",
-     "confidence": "high"
-    }
-   ]
-  },
-  "THE KING OF ROOKIE": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-14",
-     "title": "アメ村天国",
-     "kind": "フェス",
-     "venue": "アメリカ村 SUNHALLほか（大阪府）",
-     "source_url": "https://iwzbn.com/live/?id=d20261114",
-     "confidence": "high"
-    }
-   ]
-  },
-  "ここで生きてるず": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-14",
-     "title": "アメ村天国",
-     "kind": "フェス",
-     "venue": "アメリカ村 SUNHALLほか（大阪府）",
-     "source_url": "https://iwzbn.com/live/?id=d20261114",
-     "confidence": "high"
-    }
-   ]
-  },
-  "Giallo": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-14",
-     "title": "アメ村天国",
-     "kind": "フェス",
-     "venue": "アメリカ村 SUNHALLほか（大阪府）",
-     "source_url": "https://iwzbn.com/live/?id=d20261114",
-     "confidence": "high"
-    }
-   ]
-  },
-  "ドラマチックアラスカ": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-14",
-     "title": "アメ村天国",
-     "kind": "フェス",
-     "venue": "アメリカ村 SUNHALLほか（大阪府）",
-     "source_url": "https://iwzbn.com/live/?id=d20261114",
-     "confidence": "high"
-    }
-   ]
-  },
-  "Nikoん": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-14",
-     "title": "アメ村天国",
-     "kind": "フェス",
-     "venue": "アメリカ村 SUNHALLほか（大阪府）",
-     "source_url": "https://iwzbn.com/live/?id=d20261114",
-     "confidence": "high"
-    }
-   ]
-  },
-  "H.U.G": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-14",
-     "title": "アメ村天国",
-     "kind": "フェス",
-     "venue": "アメリカ村 SUNHALLほか（大阪府）",
-     "source_url": "https://iwzbn.com/live/?id=d20261114",
-     "confidence": "high"
-    }
-   ]
-  },
-  "FATE BOX": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-14",
-     "title": "アメ村天国",
-     "kind": "フェス",
-     "venue": "アメリカ村 SUNHALLほか（大阪府）",
-     "source_url": "https://iwzbn.com/live/?id=d20261114",
-     "confidence": "high"
-    }
-   ]
-  },
-  "僕たちはどう生きるか(おしっこ)": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-14",
-     "title": "アメ村天国",
-     "kind": "フェス",
-     "venue": "アメリカ村 SUNHALLほか（大阪府）",
-     "source_url": "https://iwzbn.com/live/?id=d20261114",
-     "confidence": "high"
-    }
-   ]
-  },
-  "Mikity(PISTOL)": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-14",
-     "title": "アメ村天国",
-     "kind": "フェス",
-     "venue": "アメリカ村 SUNHALLほか（大阪府）",
-     "source_url": "https://iwzbn.com/live/?id=d20261114",
-     "confidence": "high"
-    }
-   ]
-  },
-  "mogari": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-14",
-     "title": "アメ村天国",
-     "kind": "フェス",
-     "venue": "アメリカ村 SUNHALLほか（大阪府）",
-     "source_url": "https://iwzbn.com/live/?id=d20261114",
      "confidence": "high"
     }
    ]
@@ -17176,6 +16715,14 @@
      "venue": "みずほPayPayドーム福岡（福岡県）",
      "source_url": "https://anisama.tv/2027/fukuoka/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-20",
+     "title": "AniCore",
+     "kind": "フェス",
+     "venue": "COMTEC PORTBASE（名古屋市港区）（愛知県）",
+     "source_url": "http://anicorefes.com/",
+     "confidence": "high"
     }
    ]
   },
@@ -17305,110 +16852,6 @@
      "kind": "フェス",
      "venue": "BLUE NOTE PLACE（恵比寿ガーデンプレイス）（東京都）",
      "source_url": "https://montreuxjazzfestival.jp/",
-     "confidence": "high"
-    }
-   ]
-  },
-  "サニーデイ・サービス": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-14",
-     "title": "overhead fes'2026",
-     "kind": "フェス",
-     "venue": "信州スカイパーク アイネットやまびこドーム（長野）",
-     "source_url": "https://overheadfes.com/",
-     "confidence": "high"
-    }
-   ]
-  },
-  "ACO": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-14",
-     "title": "overhead fes'2026",
-     "kind": "フェス",
-     "venue": "信州スカイパーク アイネットやまびこドーム（長野）",
-     "source_url": "https://overheadfes.com/",
-     "confidence": "high"
-    }
-   ]
-  },
-  "奇妙礼太郎": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-14",
-     "title": "overhead fes'2026",
-     "kind": "フェス",
-     "venue": "信州スカイパーク アイネットやまびこドーム（長野）",
-     "source_url": "https://overheadfes.com/",
-     "confidence": "high"
-    }
-   ]
-  },
-  "石崎ひゅーい": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-14",
-     "title": "overhead fes'2026",
-     "kind": "フェス",
-     "venue": "信州スカイパーク アイネットやまびこドーム（長野）",
-     "source_url": "https://overheadfes.com/",
-     "confidence": "high"
-    }
-   ]
-  },
-  "ETSU & CHIHARU from TRF": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-14",
-     "title": "overhead fes'2026",
-     "kind": "フェス",
-     "venue": "信州スカイパーク アイネットやまびこドーム（長野）",
-     "source_url": "https://overheadfes.com/",
-     "confidence": "high"
-    }
-   ]
-  },
-  "MOS": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-14",
-     "title": "overhead fes'2026",
-     "kind": "フェス",
-     "venue": "信州スカイパーク アイネットやまびこドーム（長野）",
-     "source_url": "https://overheadfes.com/",
-     "confidence": "high"
-    }
-   ]
-  },
-  "どぶろっく": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-14",
-     "title": "overhead fes'2026",
-     "kind": "フェス",
-     "venue": "信州スカイパーク アイネットやまびこドーム（長野）",
-     "source_url": "https://overheadfes.com/",
-     "confidence": "high"
-    }
-   ]
-  },
-  "ニッチロー": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-14",
-     "title": "overhead fes'2026",
-     "kind": "フェス",
-     "venue": "信州スカイパーク アイネットやまびこドーム（長野）",
-     "source_url": "https://overheadfes.com/",
      "confidence": "high"
     }
    ]
@@ -19897,6 +19340,14 @@
      "venue": "SGC Hall Ariake・TOYOTA ARENA TOKYO（東京）",
      "source_url": "https://gift-idol.jp/outline.html",
      "confidence": "high"
+    },
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
+     "source_url": "https://idorisefes.jp/",
+     "confidence": "high"
     }
    ]
   },
@@ -20092,6 +19543,14 @@
      "venue": "両国国技館（東京都）",
      "source_url": "https://www.j-wave.co.jp/special/guitarjamboree2027/",
      "confidence": "high"
+    },
+    {
+     "date": "2027-02-11",
+     "title": "DOVETAIL",
+     "kind": "フェス",
+     "venue": "Spotify O-EAST / Spotify O-WEST / duo MUSIC EXCHANGE（東京都）",
+     "source_url": "https://festival-life.com/168995",
+     "confidence": "high"
     }
    ]
   },
@@ -20286,6 +19745,14 @@
      "kind": "フェス",
      "venue": "台中・清水鰲峰山運動公園（台湾）",
      "source_url": "https://natalie.mu/music/news/696450",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-31",
+     "title": "liquidroom presents NEW YEAR FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "LIQUIDROOM（東京都）",
+     "source_url": "https://www.timeout.jp/tokyo/ja/news/liquidroom-presents-new-year-festival-2027-111126",
      "confidence": "high"
     }
    ]
@@ -21108,14 +20575,6 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-11-14",
-     "title": "overhead fes（11/14）",
-     "kind": "フェス",
-     "venue": "信州スカイパーク アイネットやまびこドーム（長野）",
-     "source_url": "https://overheadfes.com/",
-     "confidence": "high"
-    },
-    {
      "date": "2026-11-15",
      "title": "overhead fes（11/15）",
      "kind": "フェス",
@@ -21128,14 +20587,6 @@
   "鳥井ナオキ（ヨガ）": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-11-14",
-     "title": "overhead fes（11/14）",
-     "kind": "フェス",
-     "venue": "信州スカイパーク アイネットやまびこドーム（長野）",
-     "source_url": "https://overheadfes.com/",
-     "confidence": "high"
-    },
     {
      "date": "2026-11-15",
      "title": "overhead fes（11/15）",
@@ -22975,6 +22426,708 @@
      "kind": "フェス",
      "venue": "（宮城）",
      "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "high"
+    }
+   ]
+  },
+  "TRUE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-20",
+     "title": "AniCore",
+     "kind": "フェス",
+     "venue": "COMTEC PORTBASE（名古屋市港区）（愛知県）",
+     "source_url": "http://anicorefes.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "halca": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-20",
+     "title": "AniCore",
+     "kind": "フェス",
+     "venue": "COMTEC PORTBASE（名古屋市港区）（愛知県）",
+     "source_url": "http://anicorefes.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "矢野妃菜喜": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-20",
+     "title": "AniCore",
+     "kind": "フェス",
+     "venue": "COMTEC PORTBASE（名古屋市港区）（愛知県）",
+     "source_url": "http://anicorefes.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "立花日菜": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-20",
+     "title": "AniCore",
+     "kind": "フェス",
+     "venue": "COMTEC PORTBASE（名古屋市港区）（愛知県）",
+     "source_url": "http://anicorefes.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "DIALOGUE＋": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-20",
+     "title": "AniCore",
+     "kind": "フェス",
+     "venue": "COMTEC PORTBASE（名古屋市港区）（愛知県）",
+     "source_url": "http://anicorefes.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "やべきょうすけ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "響都超特急",
+     "kind": "フェス",
+     "venue": "京都パルスプラザ（京都）",
+     "source_url": "https://kue.rotten-g.com/26/artist/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "早稲田大学ハイソサエティ・オーケストラ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-04",
+     "title": "J-WAVE presents INSPIRE TOKYO",
+     "kind": "フェス",
+     "venue": "LINE CUBE SHIBUYA／代々木公園イベント広場（東京都）",
+     "source_url": "https://www.j-wave.co.jp/special/inspiretokyo/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "LEON": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "7th Heaven Festival",
+     "kind": "フェス",
+     "venue": "7th Heaven Koza（沖縄県）",
+     "source_url": "https://ticketdive.com/event/7th-heaven-fes2026",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Chio": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "7th Heaven Festival",
+     "kind": "フェス",
+     "venue": "7th Heaven Koza（沖縄県）",
+     "source_url": "https://ticketdive.com/event/7th-heaven-fes2026",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Keyka": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "7th Heaven Festival",
+     "kind": "フェス",
+     "venue": "7th Heaven Koza（沖縄県）",
+     "source_url": "https://ticketdive.com/event/7th-heaven-fes2026",
+     "confidence": "high"
+    }
+   ]
+  },
+  "WONK": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-02-11",
+     "title": "DOVETAIL",
+     "kind": "フェス",
+     "venue": "Spotify O-EAST / Spotify O-WEST / duo MUSIC EXCHANGE（東京都）",
+     "source_url": "https://festival-life.com/168995",
+     "confidence": "high"
+    }
+   ]
+  },
+  "TENDRE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-02-11",
+     "title": "DOVETAIL",
+     "kind": "フェス",
+     "venue": "Spotify O-EAST / Spotify O-WEST / duo MUSIC EXCHANGE（東京都）",
+     "source_url": "https://festival-life.com/168995",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Jeremy Quartus": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-02-11",
+     "title": "DOVETAIL",
+     "kind": "フェス",
+     "venue": "Spotify O-EAST / Spotify O-WEST / duo MUSIC EXCHANGE（東京都）",
+     "source_url": "https://festival-life.com/168995",
+     "confidence": "high"
+    }
+   ]
+  },
+  "TiDE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-02-11",
+     "title": "DOVETAIL",
+     "kind": "フェス",
+     "venue": "Spotify O-EAST / Spotify O-WEST / duo MUSIC EXCHANGE（東京都）",
+     "source_url": "https://festival-life.com/168995",
+     "confidence": "high"
+    }
+   ]
+  },
+  "モノンクル": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-02-11",
+     "title": "DOVETAIL",
+     "kind": "フェス",
+     "venue": "Spotify O-EAST / Spotify O-WEST / duo MUSIC EXCHANGE（東京都）",
+     "source_url": "https://festival-life.com/168995",
+     "confidence": "high"
+    }
+   ]
+  },
+  "LAGHEADS": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-02-11",
+     "title": "DOVETAIL",
+     "kind": "フェス",
+     "venue": "Spotify O-EAST / Spotify O-WEST / duo MUSIC EXCHANGE（東京都）",
+     "source_url": "https://festival-life.com/168995",
+     "confidence": "high"
+    }
+   ]
+  },
+  "MHRJ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-02-11",
+     "title": "DOVETAIL",
+     "kind": "フェス",
+     "venue": "Spotify O-EAST / Spotify O-WEST / duo MUSIC EXCHANGE（東京都）",
+     "source_url": "https://festival-life.com/168995",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Natsudaidai": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-02-11",
+     "title": "DOVETAIL",
+     "kind": "フェス",
+     "venue": "Spotify O-EAST / Spotify O-WEST / duo MUSIC EXCHANGE（東京都）",
+     "source_url": "https://festival-life.com/168995",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Geloomy": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-02-11",
+     "title": "DOVETAIL",
+     "kind": "フェス",
+     "venue": "Spotify O-EAST / Spotify O-WEST / duo MUSIC EXCHANGE（東京都）",
+     "source_url": "https://festival-life.com/168995",
+     "confidence": "high"
+    }
+   ]
+  },
+  "石野卓球": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-31",
+     "title": "liquidroom presents NEW YEAR FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "LIQUIDROOM（東京都）",
+     "source_url": "https://www.timeout.jp/tokyo/ja/news/liquidroom-presents-new-year-festival-2027-111126",
+     "confidence": "high"
+    }
+   ]
+  },
+  "group_inou": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-31",
+     "title": "liquidroom presents NEW YEAR FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "LIQUIDROOM（東京都）",
+     "source_url": "https://www.timeout.jp/tokyo/ja/news/liquidroom-presents-new-year-festival-2027-111126",
+     "confidence": "high"
+    }
+   ]
+  },
+  "DYGL": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-31",
+     "title": "liquidroom presents NEW YEAR FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "LIQUIDROOM（東京都）",
+     "source_url": "https://www.timeout.jp/tokyo/ja/news/liquidroom-presents-new-year-festival-2027-111126",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Appare!": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
+     "source_url": "https://idorisefes.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "INUWASI": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
+     "source_url": "https://idorisefes.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "UtaGe!": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
+     "source_url": "https://idorisefes.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "JamsCollection": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
+     "source_url": "https://idorisefes.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "CYNHN": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
+     "source_url": "https://idorisefes.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "タイトル未定": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
+     "source_url": "https://idorisefes.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Devil ANTHEM.": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
+     "source_url": "https://idorisefes.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ドラマチックレコード": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
+     "source_url": "https://idorisefes.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "なみだ色の消しごむ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
+     "source_url": "https://idorisefes.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "NEO JAPONISM": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
+     "source_url": "https://idorisefes.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ハルニシオン": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
+     "source_url": "https://idorisefes.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Palette Parade": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
+     "source_url": "https://idorisefes.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "fishbowl": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
+     "source_url": "https://idorisefes.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "FES☆TIVE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
+     "source_url": "https://idorisefes.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Merry BAD TUNE.": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
+     "source_url": "https://idorisefes.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Onephony": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
+     "source_url": "https://idorisefes.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "AOAO": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
+     "source_url": "https://idorisefes.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "衛星とカラテア": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
+     "source_url": "https://idorisefes.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "かすみ草とステラ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
+     "source_url": "https://idorisefes.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "カラフルスクリーム": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
+     "source_url": "https://idorisefes.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Sweet Alley": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
+     "source_url": "https://idorisefes.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Peel the Apple": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
+     "source_url": "https://idorisefes.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "MyDearDarlin'": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
+     "source_url": "https://idorisefes.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "#Mooove!": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
+     "source_url": "https://idorisefes.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "#よーよーよー": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
+     "source_url": "https://idorisefes.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Root mimi": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
+     "source_url": "https://idorisefes.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "fav me": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
+     "source_url": "https://idorisefes.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "log you": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
+     "source_url": "https://idorisefes.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "AKANECLUB.": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
+     "source_url": "https://idorisefes.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "HzMe": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
+     "source_url": "https://idorisefes.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "マリークラウン": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
+     "source_url": "https://idorisefes.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "myojou": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
+     "source_url": "https://idorisefes.jp/",
      "confidence": "high"
     }
    ]
