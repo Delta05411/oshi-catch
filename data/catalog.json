@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T07:12:22+09:00",
+ "updated": "2026-11-15T20:15:42+09:00",
  "artists": {
   "Saucy Dog": {
    "aliases": [
@@ -715,11 +715,27 @@
      "confidence": "high"
     },
     {
+     "date": "2026-12-01",
+     "title": "TRUST NIGHT 2026（大阪）",
+     "kind": "フェス",
+     "venue": "BIGCAT（大阪府）",
+     "source_url": "https://eplus.jp/sf/detail/1999020001-P0030014",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-05",
      "title": "BLAZE UP NAGASAKI",
      "kind": "フェス",
      "venue": "出島メッセ長崎（長崎県）",
      "source_url": "https://barks.jp/news/1091706/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "TRUST NIGHT 2026（名古屋）",
+     "kind": "フェス",
+     "venue": "Zepp Nagoya（愛知県）",
+     "source_url": "https://eplus.jp/sf/detail/1999020001-P0030013",
      "confidence": "high"
     },
     {
@@ -729,6 +745,14 @@
      "venue": "TOYOTA ARENA TOKYO（東京）",
      "source_url": "https://eplus.jp/new-horizon-fest/",
      "confidence": "high"
+    },
+    {
+     "date": "2027-03-13",
+     "title": "RUMBLE×JAG 2027（出演日未定）",
+     "kind": "フェス",
+     "venue": "AICHI SKY EXPO（愛知県）",
+     "source_url": "https://rumble-jag.jp/",
+     "confidence": "low"
     }
    ]
   },
@@ -845,6 +869,14 @@
      "confidence": "high"
     },
     {
+     "date": "2026-12-01",
+     "title": "TRUST NIGHT 2026（大阪）",
+     "kind": "フェス",
+     "venue": "BIGCAT（大阪府）",
+     "source_url": "https://eplus.jp/sf/detail/1999020001-P0030014",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-04",
      "title": "TORI ROCK FESTIVAL（12/4）",
      "kind": "フェス",
@@ -861,12 +893,28 @@
      "confidence": "high"
     },
     {
+     "date": "2026-12-27",
+     "title": "TRUST NIGHT 2026（名古屋）",
+     "kind": "フェス",
+     "venue": "Zepp Nagoya（愛知県）",
+     "source_url": "https://eplus.jp/sf/detail/1999020001-P0030013",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-29",
      "title": "COUNTDOWN JAPAN 26/27（12/29）",
      "kind": "フェス",
      "venue": "幕張メッセ（千葉県）",
      "source_url": "https://countdownjapan.jp/",
      "confidence": "high"
+    },
+    {
+     "date": "2027-03-13",
+     "title": "RUMBLE×JAG 2027（出演日未定）",
+     "kind": "フェス",
+     "venue": "AICHI SKY EXPO（愛知県）",
+     "source_url": "https://rumble-jag.jp/",
+     "confidence": "low"
     }
    ]
   },
@@ -1065,6 +1113,14 @@
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://xhl-music.com/feature/hypelikeit",
      "confidence": "high"
+    },
+    {
+     "date": "2027-03-13",
+     "title": "RUMBLE×JAG 2027（出演日未定）",
+     "kind": "フェス",
+     "venue": "AICHI SKY EXPO（愛知県）",
+     "source_url": "https://rumble-jag.jp/",
+     "confidence": "low"
     },
     {
      "date": "2027-05-22",
@@ -1317,6 +1373,14 @@
      "venue": "みずほPayPayドーム福岡（福岡県）",
      "source_url": "https://fukuokamusic-fes.com/2027/index.html",
      "confidence": "high"
+    },
+    {
+     "date": "2027-03-13",
+     "title": "RUMBLE×JAG 2027（出演日未定）",
+     "kind": "フェス",
+     "venue": "AICHI SKY EXPO（愛知県）",
+     "source_url": "https://rumble-jag.jp/",
+     "confidence": "low"
     }
    ]
   },
@@ -1540,6 +1604,14 @@
      "confidence": "high"
     },
     {
+     "date": "2027-02-11",
+     "title": "DOVETAIL",
+     "kind": "フェス",
+     "venue": "Spotify O-EAST / Spotify O-WEST / duo MUSIC EXCHANGE（東京都）",
+     "source_url": "https://festival-life.com/168995",
+     "confidence": "high"
+    },
+    {
      "date": "2027-02-20",
      "title": "浮現祭 EMERGE FEST 2027（出演日未発表）",
      "kind": "フェス",
@@ -1548,11 +1620,11 @@
      "confidence": "high"
     },
     {
-     "date": "2027-02-11",
-     "title": "DOVETAIL",
+     "date": "2027-04-04",
+     "title": "Brewin' Groove Festival（4/4）",
      "kind": "フェス",
-     "venue": "Spotify O-EAST / Spotify O-WEST / duo MUSIC EXCHANGE（東京都）",
-     "source_url": "https://festival-life.com/168995",
+     "venue": "立川ステージガーデン（東京都）",
+     "source_url": "https://brewingroove.com",
      "confidence": "high"
     }
    ]
@@ -1770,6 +1842,14 @@
      "venue": "INTEX OSAKA（大阪府）",
      "source_url": "https://eplus.jp/radiocrazy2026/",
      "confidence": "high"
+    },
+    {
+     "date": "2027-03-13",
+     "title": "RUMBLE×JAG 2027（出演日未定）",
+     "kind": "フェス",
+     "venue": "AICHI SKY EXPO（愛知県）",
+     "source_url": "https://rumble-jag.jp/",
+     "confidence": "low"
     }
    ]
   },
@@ -1910,6 +1990,14 @@
      "kind": "フェス",
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-04-04",
+     "title": "Brewin' Groove Festival（4/4）",
+     "kind": "フェス",
+     "venue": "立川ステージガーデン（東京都）",
+     "source_url": "https://brewingroove.com",
      "confidence": "high"
     },
     {
@@ -3041,6 +3129,14 @@
      "confidence": "high"
     },
     {
+     "date": "2026-12-01",
+     "title": "TRUST NIGHT 2026（大阪）",
+     "kind": "フェス",
+     "venue": "BIGCAT（大阪府）",
+     "source_url": "https://eplus.jp/sf/detail/1999020001-P0030014",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-05",
      "title": "TORI ROCK FESTIVAL（12/5）",
      "kind": "フェス",
@@ -3055,6 +3151,22 @@
      "venue": "INTEX OSAKA（大阪府）",
      "source_url": "https://eplus.jp/radiocrazy2026/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "TRUST NIGHT 2026（名古屋）",
+     "kind": "フェス",
+     "venue": "Zepp Nagoya（愛知県）",
+     "source_url": "https://eplus.jp/sf/detail/1999020001-P0030013",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-03-13",
+     "title": "RUMBLE×JAG 2027（出演日未定）",
+     "kind": "フェス",
+     "venue": "AICHI SKY EXPO（愛知県）",
+     "source_url": "https://rumble-jag.jp/",
+     "confidence": "low"
     }
    ]
   },
@@ -3147,6 +3259,14 @@
      "venue": "（東京）",
      "source_url": "https://www.ragnet.co.jp/rock-festival",
      "confidence": "low"
+    },
+    {
+     "date": "2026-12-28",
+     "title": "RED HOME PARTY（12/28）",
+     "kind": "フェス",
+     "venue": "LIVE SQUARE 2nd LINE（大阪府）",
+     "source_url": "https://spice.eplus.jp/articles/350189",
+     "confidence": "high"
     }
    ]
   },
@@ -3168,6 +3288,14 @@
      "venue": "幕張メッセ 国際展示場 1～3ホール（千葉）",
      "source_url": "https://www.ragnet.co.jp/rock-festival",
      "confidence": "high"
+    },
+    {
+     "date": "2027-03-13",
+     "title": "RUMBLE×JAG 2027（出演日未定）",
+     "kind": "フェス",
+     "venue": "AICHI SKY EXPO（愛知県）",
+     "source_url": "https://rumble-jag.jp/",
+     "confidence": "low"
     }
    ]
   },
@@ -3233,11 +3361,35 @@
      "confidence": "high"
     },
     {
+     "date": "2026-12-01",
+     "title": "TRUST NIGHT 2026（大阪）",
+     "kind": "フェス",
+     "venue": "BIGCAT（大阪府）",
+     "source_url": "https://eplus.jp/sf/detail/1999020001-P0030014",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-05",
      "title": "下北沢にて",
      "kind": "フェス",
      "venue": "下北沢界隈(複数ライブハウス)（東京都）",
      "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-24",
+     "title": "RED HOME PARTY（12/24）",
+     "kind": "フェス",
+     "venue": "LIVE SQUARE 2nd LINE（大阪府）",
+     "source_url": "https://spice.eplus.jp/articles/350189",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "TRUST NIGHT 2026（名古屋）",
+     "kind": "フェス",
+     "venue": "Zepp Nagoya（愛知県）",
+     "source_url": "https://eplus.jp/sf/detail/1999020001-P0030013",
      "confidence": "high"
     },
     {
@@ -3247,6 +3399,14 @@
      "venue": "幕張メッセ 国際展示場 1～3ホール（千葉）",
      "source_url": "https://www.ragnet.co.jp/rock-festival",
      "confidence": "high"
+    },
+    {
+     "date": "2027-03-13",
+     "title": "RUMBLE×JAG 2027（出演日未定）",
+     "kind": "フェス",
+     "venue": "AICHI SKY EXPO（愛知県）",
+     "source_url": "https://rumble-jag.jp/",
+     "confidence": "low"
     }
    ]
   },
@@ -3531,6 +3691,14 @@
      "venue": "幕張メッセ 国際展示場 1～3ホール（千葉）",
      "source_url": "https://www.ragnet.co.jp/rock-festival",
      "confidence": "high"
+    },
+    {
+     "date": "2027-03-13",
+     "title": "RUMBLE×JAG 2027（出演日未定）",
+     "kind": "フェス",
+     "venue": "AICHI SKY EXPO（愛知県）",
+     "source_url": "https://rumble-jag.jp/",
+     "confidence": "low"
     }
    ]
   },
@@ -3544,6 +3712,14 @@
      "venue": "（東京）",
      "source_url": "https://www.ragnet.co.jp/rock-festival",
      "confidence": "low"
+    },
+    {
+     "date": "2026-12-23",
+     "title": "RED HOME PARTY（12/23）",
+     "kind": "フェス",
+     "venue": "LIVE SQUARE 2nd LINE（大阪府）",
+     "source_url": "https://spice.eplus.jp/articles/350189",
+     "confidence": "high"
     }
    ]
   },
@@ -3611,6 +3787,14 @@
      "kind": "フェス",
      "venue": "下北沢界隈(複数ライブハウス)（東京都）",
      "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-22",
+     "title": "RED HOME PARTY（12/22）",
+     "kind": "フェス",
+     "venue": "LIVE SQUARE 2nd LINE（大阪府）",
+     "source_url": "https://spice.eplus.jp/articles/350189",
      "confidence": "high"
     }
    ]
@@ -3687,6 +3871,14 @@
      "kind": "フェス",
      "venue": "下北沢界隈(複数ライブハウス)（東京都）",
      "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-28",
+     "title": "RED HOME PARTY（12/28）",
+     "kind": "フェス",
+     "venue": "LIVE SQUARE 2nd LINE（大阪府）",
+     "source_url": "https://spice.eplus.jp/articles/350189",
      "confidence": "high"
     }
    ]
@@ -4012,6 +4204,14 @@
      "venue": "岐阜市文化センター（岐阜）",
      "source_url": "http://masterpiece-gifu.com/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "TRUST NIGHT 2026（名古屋）",
+     "kind": "フェス",
+     "venue": "Zepp Nagoya（愛知県）",
+     "source_url": "https://eplus.jp/sf/detail/1999020001-P0030013",
+     "confidence": "high"
     }
    ]
   },
@@ -4111,6 +4311,22 @@
      "kind": "フェス",
      "venue": "岐阜市文化センター（岐阜）",
      "source_url": "http://masterpiece-gifu.com/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-01",
+     "title": "TRUST NIGHT 2026（大阪）",
+     "kind": "フェス",
+     "venue": "BIGCAT（大阪府）",
+     "source_url": "https://eplus.jp/sf/detail/1999020001-P0030014",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "TRUST NIGHT 2026（名古屋）",
+     "kind": "フェス",
+     "venue": "Zepp Nagoya（愛知県）",
+     "source_url": "https://eplus.jp/sf/detail/1999020001-P0030013",
      "confidence": "high"
     },
     {
@@ -4686,6 +4902,14 @@
      "confidence": "high"
     },
     {
+     "date": "2027-03-13",
+     "title": "RUMBLE×JAG 2027（出演日未定）",
+     "kind": "フェス",
+     "venue": "AICHI SKY EXPO（愛知県）",
+     "source_url": "https://rumble-jag.jp/",
+     "confidence": "low"
+    },
+    {
      "date": "2027-05-22",
      "title": "電撃BEPPU",
      "kind": "フェス",
@@ -4971,6 +5195,14 @@
   "梅田サイファー": {
    "aliases": [],
    "events": [
+    {
+     "date": "2026-12-19",
+     "title": "CITY GARDEN in MACHIDA",
+     "kind": "フェス",
+     "venue": "町田市民ホール（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/3689620001-P0030005",
+     "confidence": "high"
+    },
     {
      "date": "2026-12-26",
      "title": "RADIO CRAZY",
@@ -5263,6 +5495,14 @@
      "venue": "TOYOTA ARENA TOKYO（東京）",
      "source_url": "https://eplus.jp/new-horizon-fest/",
      "confidence": "high"
+    },
+    {
+     "date": "2027-03-13",
+     "title": "RUMBLE×JAG 2027（出演日未定）",
+     "kind": "フェス",
+     "venue": "AICHI SKY EXPO（愛知県）",
+     "source_url": "https://rumble-jag.jp/",
+     "confidence": "low"
     }
    ]
   },
@@ -5408,6 +5648,14 @@
      "venue": "幕張メッセ（千葉県）",
      "source_url": "https://countdownjapan.jp/",
      "confidence": "high"
+    },
+    {
+     "date": "2027-03-13",
+     "title": "RUMBLE×JAG 2027（出演日未定）",
+     "kind": "フェス",
+     "venue": "AICHI SKY EXPO（愛知県）",
+     "source_url": "https://rumble-jag.jp/",
+     "confidence": "low"
     }
    ]
   },
@@ -5429,6 +5677,14 @@
      "venue": "TOYOTA ARENA TOKYO（東京）",
      "source_url": "https://eplus.jp/new-horizon-fest/",
      "confidence": "high"
+    },
+    {
+     "date": "2027-03-13",
+     "title": "RUMBLE×JAG 2027（出演日未定）",
+     "kind": "フェス",
+     "venue": "AICHI SKY EXPO（愛知県）",
+     "source_url": "https://rumble-jag.jp/",
+     "confidence": "low"
     }
    ]
   },
@@ -7309,6 +7565,14 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-12-05",
+     "title": "下北沢にて（12/5）",
+     "kind": "フェス",
+     "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.shimonite.com/",
+     "confidence": "high"
+    },
+    {
      "date": "2027-01-10",
      "title": "ロックンロールサーカス（1/10）",
      "kind": "フェス",
@@ -7391,6 +7655,14 @@
      "venue": "幕張メッセ 国際展示場 1～3ホール（千葉）",
      "source_url": "https://www.ragnet.co.jp/rock-festival",
      "confidence": "high"
+    },
+    {
+     "date": "2027-03-13",
+     "title": "RUMBLE×JAG 2027（出演日未定）",
+     "kind": "フェス",
+     "venue": "AICHI SKY EXPO（愛知県）",
+     "source_url": "https://rumble-jag.jp/",
+     "confidence": "low"
     }
    ]
   },
@@ -7433,6 +7705,14 @@
      "venue": "幕張メッセ 国際展示場 1～3ホール（千葉）",
      "source_url": "https://www.ragnet.co.jp/rock-festival",
      "confidence": "high"
+    },
+    {
+     "date": "2027-03-13",
+     "title": "RUMBLE×JAG 2027（出演日未定）",
+     "kind": "フェス",
+     "venue": "AICHI SKY EXPO（愛知県）",
+     "source_url": "https://rumble-jag.jp/",
+     "confidence": "low"
     }
    ]
   },
@@ -7834,6 +8114,14 @@
      "kind": "フェス",
      "venue": "岐阜市文化センター（岐阜）",
      "source_url": "http://masterpiece-gifu.com/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-01",
+     "title": "TRUST NIGHT 2026（大阪）",
+     "kind": "フェス",
+     "venue": "BIGCAT（大阪府）",
+     "source_url": "https://eplus.jp/sf/detail/1999020001-P0030014",
      "confidence": "high"
     },
     {
@@ -8349,6 +8637,14 @@
      "kind": "フェス",
      "venue": "（大阪）",
      "source_url": "https://pkshampoo.jp/psychicfes/artist.html",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-25",
+     "title": "RED HOME PARTY（12/25）",
+     "kind": "フェス",
+     "venue": "LIVE SQUARE 2nd LINE（大阪府）",
+     "source_url": "https://spice.eplus.jp/articles/350189",
      "confidence": "high"
     }
    ]
@@ -9561,6 +9857,14 @@
      "venue": "下北沢界隈(複数ライブハウス)（東京都）",
      "source_url": "https://www.ragnet.co.jp/music-festival-winter",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-22",
+     "title": "RED HOME PARTY（12/22）",
+     "kind": "フェス",
+     "venue": "LIVE SQUARE 2nd LINE（大阪府）",
+     "source_url": "https://spice.eplus.jp/articles/350189",
+     "confidence": "high"
     }
    ]
   },
@@ -9573,6 +9877,14 @@
      "kind": "フェス",
      "venue": "神戸 太陽と虎ほか（兵庫）",
      "source_url": "https://eplus.jp/sf/detail/4580820001-P0030001",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-25",
+     "title": "RED HOME PARTY（12/25）",
+     "kind": "フェス",
+     "venue": "LIVE SQUARE 2nd LINE（大阪府）",
+     "source_url": "https://spice.eplus.jp/articles/350189",
      "confidence": "high"
     }
    ]
@@ -10585,6 +10897,14 @@
      "venue": "下北沢界隈(複数ライブハウス)（東京都）",
      "source_url": "https://www.ragnet.co.jp/music-festival-winter",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-25",
+     "title": "RED HOME PARTY（12/25）",
+     "kind": "フェス",
+     "venue": "LIVE SQUARE 2nd LINE（大阪府）",
+     "source_url": "https://spice.eplus.jp/articles/350189",
+     "confidence": "high"
     }
    ]
   },
@@ -11325,6 +11645,14 @@
      "venue": "下北沢界隈(複数ライブハウス)（東京都）",
      "source_url": "https://www.ragnet.co.jp/music-festival-winter",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "RED HOME PARTY（12/27）",
+     "kind": "フェス",
+     "venue": "LIVE SQUARE 2nd LINE（大阪府）",
+     "source_url": "https://spice.eplus.jp/articles/350189",
+     "confidence": "high"
     }
    ]
   },
@@ -11462,6 +11790,14 @@
      "kind": "フェス",
      "venue": "下北沢界隈(複数ライブハウス)（東京都）",
      "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-29",
+     "title": "RED HOME PARTY（12/29）",
+     "kind": "フェス",
+     "venue": "LIVE SQUARE 2nd LINE（大阪府）",
+     "source_url": "https://spice.eplus.jp/articles/350189",
      "confidence": "high"
     }
    ]
@@ -11878,6 +12214,14 @@
      "kind": "フェス",
      "venue": "下北沢界隈(複数ライブハウス)（東京都）",
      "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-30",
+     "title": "RED HOME PARTY（12/30）",
+     "kind": "フェス",
+     "venue": "LIVE SQUARE 2nd LINE（大阪府）",
+     "source_url": "https://spice.eplus.jp/articles/350189",
      "confidence": "high"
     }
    ]
@@ -12349,6 +12693,14 @@
      "kind": "フェス",
      "venue": "下北沢界隈(複数ライブハウス)（東京都）",
      "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-23",
+     "title": "RED HOME PARTY（12/23）",
+     "kind": "フェス",
+     "venue": "LIVE SQUARE 2nd LINE（大阪府）",
+     "source_url": "https://spice.eplus.jp/articles/350189",
      "confidence": "high"
     }
    ]
@@ -14130,6 +14482,14 @@
      "venue": "LINE CUBE SHIBUYA / 代々木公園イベント広場（東京都）",
      "source_url": "https://www.j-wave.co.jp/special/inspiretokyo/",
      "confidence": "high"
+    },
+    {
+     "date": "2027-04-04",
+     "title": "Brewin' Groove Festival（4/4）",
+     "kind": "フェス",
+     "venue": "立川ステージガーデン（東京都）",
+     "source_url": "https://brewingroove.com",
+     "confidence": "high"
     }
    ]
   },
@@ -14519,6 +14879,14 @@
      "kind": "フェス",
      "venue": "下北沢ライブハウス9店舗（東京都）",
      "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-31",
+     "title": "RED HOME PARTY（12/31）",
+     "kind": "フェス",
+     "venue": "LIVE SQUARE 2nd LINE（大阪府）",
+     "source_url": "https://spice.eplus.jp/articles/350189",
      "confidence": "high"
     }
    ]
@@ -16709,19 +17077,19 @@
    "aliases": [],
    "events": [
     {
-     "date": "2027-03-13",
-     "title": "ANISAMA FUKUOKA 2027（3/13）",
-     "kind": "フェス",
-     "venue": "みずほPayPayドーム福岡（福岡県）",
-     "source_url": "https://anisama.tv/2027/fukuoka/",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-20",
      "title": "AniCore",
      "kind": "フェス",
      "venue": "COMTEC PORTBASE（名古屋市港区）（愛知県）",
      "source_url": "http://anicorefes.com/",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-03-13",
+     "title": "ANISAMA FUKUOKA 2027（3/13）",
+     "kind": "フェス",
+     "venue": "みずほPayPayドーム福岡（福岡県）",
+     "source_url": "https://anisama.tv/2027/fukuoka/",
      "confidence": "high"
     }
    ]
@@ -19537,19 +19905,19 @@
    "aliases": [],
    "events": [
     {
-     "date": "2027-03-06",
-     "title": "J-WAVE TOKYO GUITAR JAMBOREE（3/6）",
-     "kind": "フェス",
-     "venue": "両国国技館（東京都）",
-     "source_url": "https://www.j-wave.co.jp/special/guitarjamboree2027/",
-     "confidence": "high"
-    },
-    {
      "date": "2027-02-11",
      "title": "DOVETAIL",
      "kind": "フェス",
      "venue": "Spotify O-EAST / Spotify O-WEST / duo MUSIC EXCHANGE（東京都）",
      "source_url": "https://festival-life.com/168995",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-03-06",
+     "title": "J-WAVE TOKYO GUITAR JAMBOREE（3/6）",
+     "kind": "フェス",
+     "venue": "両国国技館（東京都）",
+     "source_url": "https://www.j-wave.co.jp/special/guitarjamboree2027/",
      "confidence": "high"
     }
    ]
@@ -19740,19 +20108,19 @@
    "aliases": [],
    "events": [
     {
-     "date": "2027-02-20",
-     "title": "浮現祭 EMERGE FEST 2027（出演日未発表）",
-     "kind": "フェス",
-     "venue": "台中・清水鰲峰山運動公園（台湾）",
-     "source_url": "https://natalie.mu/music/news/696450",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-31",
      "title": "liquidroom presents NEW YEAR FESTIVAL 2027",
      "kind": "フェス",
      "venue": "LIQUIDROOM（東京都）",
      "source_url": "https://www.timeout.jp/tokyo/ja/news/liquidroom-presents-new-year-festival-2027-111126",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-02-20",
+     "title": "浮現祭 EMERGE FEST 2027（出演日未発表）",
+     "kind": "フェス",
+     "venue": "台中・清水鰲峰山運動公園（台湾）",
+     "source_url": "https://natalie.mu/music/news/696450",
      "confidence": "high"
     }
    ]
@@ -20828,6 +21196,14 @@
      "venue": "幕張メッセ 国際展示場 1～3ホール（千葉）",
      "source_url": "https://www.ragnet.co.jp/rock-festival",
      "confidence": "high"
+    },
+    {
+     "date": "2027-03-13",
+     "title": "RUMBLE×JAG 2027（出演日未定）",
+     "kind": "フェス",
+     "venue": "AICHI SKY EXPO（愛知県）",
+     "source_url": "https://rumble-jag.jp/",
+     "confidence": "low"
     }
    ]
   },
@@ -21074,6 +21450,14 @@
      "kind": "フェス",
      "venue": "下北沢界隈(複数ライブハウス)（東京都）",
      "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-24",
+     "title": "RED HOME PARTY（12/24）",
+     "kind": "フェス",
+     "venue": "LIVE SQUARE 2nd LINE（大阪府）",
+     "source_url": "https://spice.eplus.jp/articles/350189",
      "confidence": "high"
     }
    ]
@@ -23128,6 +23512,1535 @@
      "kind": "フェス",
      "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
      "source_url": "https://idorisefes.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Azami": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "KASHI ROCK FESTIVAL（12/6）",
+     "kind": "フェス",
+     "venue": "ELLCUBE（苫小牧市王子町1丁目6-12）（北海道）",
+     "source_url": "https://kt11jack.wixsite.com/krockfes",
+     "confidence": "high"
+    }
+   ]
+  },
+  "COPY CRUSADERS": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-13",
+     "title": "RUMBLE×JAG 2027（出演日未定）",
+     "kind": "フェス",
+     "venue": "AICHI SKY EXPO（愛知県）",
+     "source_url": "https://rumble-jag.jp/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "envy": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-13",
+     "title": "RUMBLE×JAG 2027（出演日未定）",
+     "kind": "フェス",
+     "venue": "AICHI SKY EXPO（愛知県）",
+     "source_url": "https://rumble-jag.jp/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "HUSKING BEE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-13",
+     "title": "RUMBLE×JAG 2027（出演日未定）",
+     "kind": "フェス",
+     "venue": "AICHI SKY EXPO（愛知県）",
+     "source_url": "https://rumble-jag.jp/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Ken Yokoyama": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-13",
+     "title": "RUMBLE×JAG 2027（出演日未定）",
+     "kind": "フェス",
+     "venue": "AICHI SKY EXPO（愛知県）",
+     "source_url": "https://rumble-jag.jp/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "SAND": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-13",
+     "title": "RUMBLE×JAG 2027（出演日未定）",
+     "kind": "フェス",
+     "venue": "AICHI SKY EXPO（愛知県）",
+     "source_url": "https://rumble-jag.jp/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "TIVE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-13",
+     "title": "RUMBLE×JAG 2027（出演日未定）",
+     "kind": "フェス",
+     "venue": "AICHI SKY EXPO（愛知県）",
+     "source_url": "https://rumble-jag.jp/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "TURTLE ISLAND": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-13",
+     "title": "RUMBLE×JAG 2027（出演日未定）",
+     "kind": "フェス",
+     "venue": "AICHI SKY EXPO（愛知県）",
+     "source_url": "https://rumble-jag.jp/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "奇妙礼太郎BAND": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-04-04",
+     "title": "Brewin' Groove Festival（4/4）",
+     "kind": "フェス",
+     "venue": "立川ステージガーデン（東京都）",
+     "source_url": "https://brewingroove.com",
+     "confidence": "high"
+    }
+   ]
+  },
+  "リュックと添い寝ごはん": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-04-04",
+     "title": "Brewin' Groove Festival（4/4）",
+     "kind": "フェス",
+     "venue": "立川ステージガーデン（東京都）",
+     "source_url": "https://brewingroove.com",
+     "confidence": "high"
+    }
+   ]
+  },
+  "RADIO KINGDOM ～You are my buddy～": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-26",
+     "title": "RADIO CRAZY（12/26）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://radiocrazy.fm/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "FM802弾き語り部 部長・サイトウタクヤ（w.o.d.）": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-27",
+     "title": "RADIO CRAZY（12/27）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://radiocrazy.fm/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "林萌々子（Hump Back）": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-28",
+     "title": "RADIO CRAZY（12/28）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://radiocrazy.fm/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "FM802 弾き語り部（部長・サイトウタクヤ(w.o.d.) and more!!）": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-27",
+     "title": "RADIO CRAZY（12/27）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://radiocrazy.fm/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "STARGLOW": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "HIROSHIMA CONTI-NeW FeS（12/5）",
+     "kind": "フェス",
+     "venue": "広島グリーンアリーナ 大アリーナ（広島県）",
+     "source_url": "https://www.hiroshima-continew.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "MORE STAR（OA）": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "HIROSHIMA CONTI-NeW FeS（12/5）",
+     "kind": "フェス",
+     "venue": "広島グリーンアリーナ 大アリーナ（広島県）",
+     "source_url": "https://www.hiroshima-continew.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "こっちのけんと": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "HIROSHIMA CONTI-NeW FeS（12/6）",
+     "kind": "フェス",
+     "venue": "広島グリーンアリーナ 大アリーナ（広島県）",
+     "source_url": "https://www.hiroshima-continew.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "fav me（OA）": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "HIROSHIMA CONTI-NeW FeS（12/6）",
+     "kind": "フェス",
+     "venue": "広島グリーンアリーナ 大アリーナ（広島県）",
+     "source_url": "https://www.hiroshima-continew.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Spitz": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-02-06",
+     "title": "BE FES!!（BEAMS 50th ANNIVERSARY FES.）",
+     "kind": "フェス",
+     "venue": "国立代々木競技場 第一体育館・第二体育館（東京都）",
+     "source_url": "https://festival-life.com/169315",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Coji Cose": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "UMEKITA SOUND BAZAAR（11/21）",
+     "kind": "フェス",
+     "venue": "VS.（グラングリーン大阪 うめきた公園）（大阪府）",
+     "source_url": "http://sound-bazaar.jp",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-11-23",
+     "title": "UMEKITA SOUND BAZAAR（11/23）",
+     "kind": "フェス",
+     "venue": "VS.（グラングリーン大阪 うめきた公園）（大阪府）",
+     "source_url": "http://sound-bazaar.jp",
+     "confidence": "high"
+    }
+   ]
+  },
+  "中村佳穂": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "UMEKITA SOUND BAZAAR（11/21）",
+     "kind": "フェス",
+     "venue": "VS.（グラングリーン大阪 うめきた公園）（大阪府）",
+     "source_url": "http://sound-bazaar.jp",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Yasna Yamaoka": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-22",
+     "title": "UMEKITA SOUND BAZAAR（11/22）",
+     "kind": "フェス",
+     "venue": "VS.（グラングリーン大阪 うめきた公園）（大阪府）",
+     "source_url": "http://sound-bazaar.jp",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ELECTRONICOS FANTASTICOS!": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-22",
+     "title": "UMEKITA SOUND BAZAAR（11/22）",
+     "kind": "フェス",
+     "venue": "VS.（グラングリーン大阪 うめきた公園）（大阪府）",
+     "source_url": "http://sound-bazaar.jp",
+     "confidence": "high"
+    }
+   ]
+  },
+  "DJ MAMEZUKA": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-22",
+     "title": "UMEKITA SOUND BAZAAR（11/22）",
+     "kind": "フェス",
+     "venue": "VS.（グラングリーン大阪 うめきた公園）（大阪府）",
+     "source_url": "http://sound-bazaar.jp",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Tyondai Braxton": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-23",
+     "title": "UMEKITA SOUND BAZAAR（11/23）",
+     "kind": "フェス",
+     "venue": "VS.（グラングリーン大阪 うめきた公園）（大阪府）",
+     "source_url": "http://sound-bazaar.jp",
+     "confidence": "high"
+    }
+   ]
+  },
+  "YPY": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-23",
+     "title": "UMEKITA SOUND BAZAAR（11/23）",
+     "kind": "フェス",
+     "venue": "VS.（グラングリーン大阪 うめきた公園）（大阪府）",
+     "source_url": "http://sound-bazaar.jp",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Greedy (Welcome Act)": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-01",
+     "title": "TRUST NIGHT 2026（大阪）",
+     "kind": "フェス",
+     "venue": "BIGCAT（大阪府）",
+     "source_url": "https://eplus.jp/sf/detail/1999020001-P0030014",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Some Life": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-27",
+     "title": "TRUST NIGHT 2026（名古屋）",
+     "kind": "フェス",
+     "venue": "Zepp Nagoya（愛知県）",
+     "source_url": "https://eplus.jp/sf/detail/1999020001-P0030013",
+     "confidence": "high"
+    }
+   ]
+  },
+  "POT": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-27",
+     "title": "TRUST NIGHT 2026（名古屋）",
+     "kind": "フェス",
+     "venue": "Zepp Nagoya（愛知県）",
+     "source_url": "https://eplus.jp/sf/detail/1999020001-P0030013",
+     "confidence": "high"
+    }
+   ]
+  },
+  "BACK LIFT": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-27",
+     "title": "TRUST NIGHT 2026（名古屋）",
+     "kind": "フェス",
+     "venue": "Zepp Nagoya（愛知県）",
+     "source_url": "https://eplus.jp/sf/detail/1999020001-P0030013",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Track's(Welcome Act)": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-27",
+     "title": "TRUST NIGHT 2026（名古屋）",
+     "kind": "フェス",
+     "venue": "Zepp Nagoya（愛知県）",
+     "source_url": "https://eplus.jp/sf/detail/1999020001-P0030013",
+     "confidence": "high"
+    }
+   ]
+  },
+  "TAXMEN（PUNPEE ＋ OMSB）": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SUMMIT Presents. \"AVALANCHE'15\"",
+     "kind": "フェス",
+     "venue": "Spotify O-EAST（東京都）",
+     "source_url": "https://www.summit2011.net/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "G PLANTS": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SUMMIT Presents. \"AVALANCHE'15\"",
+     "kind": "フェス",
+     "venue": "Spotify O-EAST（東京都）",
+     "source_url": "https://www.summit2011.net/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "27AM": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SUMMIT Presents. \"AVALANCHE'15\"",
+     "kind": "フェス",
+     "venue": "Spotify O-EAST（東京都）",
+     "source_url": "https://www.summit2011.net/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "かせきさいだぁ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SUMMIT Presents. \"AVALANCHE'15\"",
+     "kind": "フェス",
+     "venue": "Spotify O-EAST（東京都）",
+     "source_url": "https://www.summit2011.net/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "原島\"ど真ん中\"宙芳": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SUMMIT Presents. \"AVALANCHE'15\"",
+     "kind": "フェス",
+     "venue": "Spotify O-EAST（東京都）",
+     "source_url": "https://www.summit2011.net/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "RHYMESTER": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-19",
+     "title": "CITY GARDEN in MACHIDA",
+     "kind": "フェス",
+     "venue": "町田市民ホール（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/3689620001-P0030005",
+     "confidence": "high"
+    }
+   ]
+  },
+  "般若": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-19",
+     "title": "CITY GARDEN in MACHIDA",
+     "kind": "フェス",
+     "venue": "町田市民ホール（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/3689620001-P0030005",
+     "confidence": "high"
+    }
+   ]
+  },
+  "KEN THE 390": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-19",
+     "title": "CITY GARDEN in MACHIDA",
+     "kind": "フェス",
+     "venue": "町田市民ホール（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/3689620001-P0030005",
+     "confidence": "high"
+    }
+   ]
+  },
+  "OCTPATH": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-19",
+     "title": "CITY GARDEN in MACHIDA",
+     "kind": "フェス",
+     "venue": "町田市民ホール（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/3689620001-P0030005",
+     "confidence": "high"
+    }
+   ]
+  },
+  "SMOKIN' IN THE BOYS ROOM": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-19",
+     "title": "CITY GARDEN in MACHIDA",
+     "kind": "フェス",
+     "venue": "町田市民ホール（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/3689620001-P0030005",
+     "confidence": "high"
+    }
+   ]
+  },
+  "KAIHO from OCTPATH": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-19",
+     "title": "CITY GARDEN in MACHIDA",
+     "kind": "フェス",
+     "venue": "町田市民ホール（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/3689620001-P0030005",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Function Family": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-19",
+     "title": "CITY GARDEN in MACHIDA",
+     "kind": "フェス",
+     "venue": "町田市民ホール（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/3689620001-P0030005",
+     "confidence": "high"
+    }
+   ]
+  },
+  "声にならないよ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-22",
+     "title": "RED HOME PARTY（12/22）",
+     "kind": "フェス",
+     "venue": "LIVE SQUARE 2nd LINE（大阪府）",
+     "source_url": "https://spice.eplus.jp/articles/350189",
+     "confidence": "high"
+    }
+   ]
+  },
+  "PURPLE BUBBLE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-22",
+     "title": "RED HOME PARTY（12/22）",
+     "kind": "フェス",
+     "venue": "LIVE SQUARE 2nd LINE（大阪府）",
+     "source_url": "https://spice.eplus.jp/articles/350189",
+     "confidence": "high"
+    }
+   ]
+  },
+  "606号室": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-22",
+     "title": "RED HOME PARTY（12/22）",
+     "kind": "フェス",
+     "venue": "LIVE SQUARE 2nd LINE（大阪府）",
+     "source_url": "https://spice.eplus.jp/articles/350189",
+     "confidence": "high"
+    }
+   ]
+  },
+  "夕方と猫": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-22",
+     "title": "RED HOME PARTY（12/22）",
+     "kind": "フェス",
+     "venue": "LIVE SQUARE 2nd LINE（大阪府）",
+     "source_url": "https://spice.eplus.jp/articles/350189",
+     "confidence": "high"
+    }
+   ]
+  },
+  "梵": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-23",
+     "title": "RED HOME PARTY（12/23）",
+     "kind": "フェス",
+     "venue": "LIVE SQUARE 2nd LINE（大阪府）",
+     "source_url": "https://spice.eplus.jp/articles/350189",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Hyuga": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-23",
+     "title": "RED HOME PARTY（12/23）",
+     "kind": "フェス",
+     "venue": "LIVE SQUARE 2nd LINE（大阪府）",
+     "source_url": "https://spice.eplus.jp/articles/350189",
+     "confidence": "high"
+    }
+   ]
+  },
+  "pug": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-23",
+     "title": "RED HOME PARTY（12/23）",
+     "kind": "フェス",
+     "venue": "LIVE SQUARE 2nd LINE（大阪府）",
+     "source_url": "https://spice.eplus.jp/articles/350189",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Lucky Age": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-23",
+     "title": "RED HOME PARTY（12/23）",
+     "kind": "フェス",
+     "venue": "LIVE SQUARE 2nd LINE（大阪府）",
+     "source_url": "https://spice.eplus.jp/articles/350189",
+     "confidence": "high"
+    }
+   ]
+  },
+  "kurage": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-24",
+     "title": "RED HOME PARTY（12/24）",
+     "kind": "フェス",
+     "venue": "LIVE SQUARE 2nd LINE（大阪府）",
+     "source_url": "https://spice.eplus.jp/articles/350189",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Marie's Girl": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-24",
+     "title": "RED HOME PARTY（12/24）",
+     "kind": "フェス",
+     "venue": "LIVE SQUARE 2nd LINE（大阪府）",
+     "source_url": "https://spice.eplus.jp/articles/350189",
+     "confidence": "high"
+    }
+   ]
+  },
+  "LEODRAT": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-24",
+     "title": "RED HOME PARTY（12/24）",
+     "kind": "フェス",
+     "venue": "LIVE SQUARE 2nd LINE（大阪府）",
+     "source_url": "https://spice.eplus.jp/articles/350189",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Recca": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-24",
+     "title": "RED HOME PARTY（12/24）",
+     "kind": "フェス",
+     "venue": "LIVE SQUARE 2nd LINE（大阪府）",
+     "source_url": "https://spice.eplus.jp/articles/350189",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Aonowa": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-25",
+     "title": "RED HOME PARTY（12/25）",
+     "kind": "フェス",
+     "venue": "LIVE SQUARE 2nd LINE（大阪府）",
+     "source_url": "https://spice.eplus.jp/articles/350189",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Organic Call": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-25",
+     "title": "RED HOME PARTY（12/25）",
+     "kind": "フェス",
+     "venue": "LIVE SQUARE 2nd LINE（大阪府）",
+     "source_url": "https://spice.eplus.jp/articles/350189",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Bye-Bye-Handの方程式": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-25",
+     "title": "RED HOME PARTY（12/25）",
+     "kind": "フェス",
+     "venue": "LIVE SQUARE 2nd LINE（大阪府）",
+     "source_url": "https://spice.eplus.jp/articles/350189",
+     "confidence": "high"
+    }
+   ]
+  },
+  "TheΣ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-27",
+     "title": "RED HOME PARTY（12/27）",
+     "kind": "フェス",
+     "venue": "LIVE SQUARE 2nd LINE（大阪府）",
+     "source_url": "https://spice.eplus.jp/articles/350189",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Silly_Walker": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-27",
+     "title": "RED HOME PARTY（12/27）",
+     "kind": "フェス",
+     "venue": "LIVE SQUARE 2nd LINE（大阪府）",
+     "source_url": "https://spice.eplus.jp/articles/350189",
+     "confidence": "high"
+    }
+   ]
+  },
+  "TOTOJI": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-27",
+     "title": "RED HOME PARTY（12/27）",
+     "kind": "フェス",
+     "venue": "LIVE SQUARE 2nd LINE（大阪府）",
+     "source_url": "https://spice.eplus.jp/articles/350189",
+     "confidence": "high"
+    }
+   ]
+  },
+  "フクスイボンニカエス": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-27",
+     "title": "RED HOME PARTY（12/27）",
+     "kind": "フェス",
+     "venue": "LIVE SQUARE 2nd LINE（大阪府）",
+     "source_url": "https://spice.eplus.jp/articles/350189",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ベアディーコリー": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-27",
+     "title": "RED HOME PARTY（12/27）",
+     "kind": "フェス",
+     "venue": "LIVE SQUARE 2nd LINE（大阪府）",
+     "source_url": "https://spice.eplus.jp/articles/350189",
+     "confidence": "high"
+    }
+   ]
+  },
+  "レイラ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-27",
+     "title": "RED HOME PARTY（12/27）",
+     "kind": "フェス",
+     "venue": "LIVE SQUARE 2nd LINE（大阪府）",
+     "source_url": "https://spice.eplus.jp/articles/350189",
+     "confidence": "high"
+    }
+   ]
+  },
+  "明くる夜の羊": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-28",
+     "title": "RED HOME PARTY（12/28）",
+     "kind": "フェス",
+     "venue": "LIVE SQUARE 2nd LINE（大阪府）",
+     "source_url": "https://spice.eplus.jp/articles/350189",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Atlas Youth": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-28",
+     "title": "RED HOME PARTY（12/28）",
+     "kind": "フェス",
+     "venue": "LIVE SQUARE 2nd LINE（大阪府）",
+     "source_url": "https://spice.eplus.jp/articles/350189",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ココロオークション": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-28",
+     "title": "RED HOME PARTY（12/28）",
+     "kind": "フェス",
+     "venue": "LIVE SQUARE 2nd LINE（大阪府）",
+     "source_url": "https://spice.eplus.jp/articles/350189",
+     "confidence": "high"
+    }
+   ]
+  },
+  "toybee": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-28",
+     "title": "RED HOME PARTY（12/28）",
+     "kind": "フェス",
+     "venue": "LIVE SQUARE 2nd LINE（大阪府）",
+     "source_url": "https://spice.eplus.jp/articles/350189",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ドラマチックアラスカ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-28",
+     "title": "RED HOME PARTY（12/28）",
+     "kind": "フェス",
+     "venue": "LIVE SQUARE 2nd LINE（大阪府）",
+     "source_url": "https://spice.eplus.jp/articles/350189",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Rhythmic Toy World": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-28",
+     "title": "RED HOME PARTY（12/28）",
+     "kind": "フェス",
+     "venue": "LIVE SQUARE 2nd LINE（大阪府）",
+     "source_url": "https://spice.eplus.jp/articles/350189",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Groggy-Froggy": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-29",
+     "title": "RED HOME PARTY（12/29）",
+     "kind": "フェス",
+     "venue": "LIVE SQUARE 2nd LINE（大阪府）",
+     "source_url": "https://spice.eplus.jp/articles/350189",
+     "confidence": "high"
+    }
+   ]
+  },
+  "komsume": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-29",
+     "title": "RED HOME PARTY（12/29）",
+     "kind": "フェス",
+     "venue": "LIVE SQUARE 2nd LINE（大阪府）",
+     "source_url": "https://spice.eplus.jp/articles/350189",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Stellar Light Glory": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-29",
+     "title": "RED HOME PARTY（12/29）",
+     "kind": "フェス",
+     "venue": "LIVE SQUARE 2nd LINE（大阪府）",
+     "source_url": "https://spice.eplus.jp/articles/350189",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ドミノンストップ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-29",
+     "title": "RED HOME PARTY（12/29）",
+     "kind": "フェス",
+     "venue": "LIVE SQUARE 2nd LINE（大阪府）",
+     "source_url": "https://spice.eplus.jp/articles/350189",
+     "confidence": "high"
+    }
+   ]
+  },
+  "no-no": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-29",
+     "title": "RED HOME PARTY（12/29）",
+     "kind": "フェス",
+     "venue": "LIVE SQUARE 2nd LINE（大阪府）",
+     "source_url": "https://spice.eplus.jp/articles/350189",
+     "confidence": "high"
+    }
+   ]
+  },
+  "yummy'g": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-29",
+     "title": "RED HOME PARTY（12/29）",
+     "kind": "フェス",
+     "venue": "LIVE SQUARE 2nd LINE（大阪府）",
+     "source_url": "https://spice.eplus.jp/articles/350189",
+     "confidence": "high"
+    }
+   ]
+  },
+  "AKAMONE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-30",
+     "title": "RED HOME PARTY（12/30）",
+     "kind": "フェス",
+     "venue": "LIVE SQUARE 2nd LINE（大阪府）",
+     "source_url": "https://spice.eplus.jp/articles/350189",
+     "confidence": "high"
+    }
+   ]
+  },
+  "atelier room": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-30",
+     "title": "RED HOME PARTY（12/30）",
+     "kind": "フェス",
+     "venue": "LIVE SQUARE 2nd LINE（大阪府）",
+     "source_url": "https://spice.eplus.jp/articles/350189",
+     "confidence": "high"
+    }
+   ]
+  },
+  "おとなりアイニー": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-30",
+     "title": "RED HOME PARTY（12/30）",
+     "kind": "フェス",
+     "venue": "LIVE SQUARE 2nd LINE（大阪府）",
+     "source_url": "https://spice.eplus.jp/articles/350189",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ステレオドロシー": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-30",
+     "title": "RED HOME PARTY（12/30）",
+     "kind": "フェス",
+     "venue": "LIVE SQUARE 2nd LINE（大阪府）",
+     "source_url": "https://spice.eplus.jp/articles/350189",
+     "confidence": "high"
+    }
+   ]
+  },
+  "RIP DISHONOR": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-30",
+     "title": "RED HOME PARTY（12/30）",
+     "kind": "フェス",
+     "venue": "LIVE SQUARE 2nd LINE（大阪府）",
+     "source_url": "https://spice.eplus.jp/articles/350189",
+     "confidence": "high"
+    }
+   ]
+  },
+  "anica": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-31",
+     "title": "RED HOME PARTY（12/31）",
+     "kind": "フェス",
+     "venue": "LIVE SQUARE 2nd LINE（大阪府）",
+     "source_url": "https://spice.eplus.jp/articles/350189",
+     "confidence": "high"
+    }
+   ]
+  },
+  "BlueVeil": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-31",
+     "title": "RED HOME PARTY（12/31）",
+     "kind": "フェス",
+     "venue": "LIVE SQUARE 2nd LINE（大阪府）",
+     "source_url": "https://spice.eplus.jp/articles/350189",
+     "confidence": "high"
+    }
+   ]
+  },
+  "nikoge": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-31",
+     "title": "RED HOME PARTY（12/31）",
+     "kind": "フェス",
+     "venue": "LIVE SQUARE 2nd LINE（大阪府）",
+     "source_url": "https://spice.eplus.jp/articles/350189",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Hello Hello": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-31",
+     "title": "RED HOME PARTY（12/31）",
+     "kind": "フェス",
+     "venue": "LIVE SQUARE 2nd LINE（大阪府）",
+     "source_url": "https://spice.eplus.jp/articles/350189",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ファジーデイズ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-31",
+     "title": "RED HOME PARTY（12/31）",
+     "kind": "フェス",
+     "venue": "LIVE SQUARE 2nd LINE（大阪府）",
+     "source_url": "https://spice.eplus.jp/articles/350189",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Fusee": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-31",
+     "title": "RED HOME PARTY（12/31）",
+     "kind": "フェス",
+     "venue": "LIVE SQUARE 2nd LINE（大阪府）",
+     "source_url": "https://spice.eplus.jp/articles/350189",
+     "confidence": "high"
+    }
+   ]
+  },
+  "リツカ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-31",
+     "title": "RED HOME PARTY（12/31）",
+     "kind": "フェス",
+     "venue": "LIVE SQUARE 2nd LINE（大阪府）",
+     "source_url": "https://spice.eplus.jp/articles/350189",
+     "confidence": "high"
+    }
+   ]
+  },
+  "あやめにきりぎりす": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-16",
+     "title": "しりあがり寿presents新春! (有)さるハゲロックフェスティバル'27",
+     "kind": "フェス",
+     "venue": "新宿 LOFT（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4629230001-P0030001",
+     "confidence": "high"
+    }
+   ]
+  },
+  "あんじゃいはじめ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-16",
+     "title": "しりあがり寿presents新春! (有)さるハゲロックフェスティバル'27",
+     "kind": "フェス",
+     "venue": "新宿 LOFT（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4629230001-P0030001",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ウィリアム･H･メイシーズ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-16",
+     "title": "しりあがり寿presents新春! (有)さるハゲロックフェスティバル'27",
+     "kind": "フェス",
+     "venue": "新宿 LOFT（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4629230001-P0030001",
+     "confidence": "high"
+    }
+   ]
+  },
+  "大人計画 別邸 Produced by 松尾スズキ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-16",
+     "title": "しりあがり寿presents新春! (有)さるハゲロックフェスティバル'27",
+     "kind": "フェス",
+     "venue": "新宿 LOFT（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4629230001-P0030001",
+     "confidence": "high"
+    }
+   ]
+  },
+  "顔田顔彦": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-16",
+     "title": "しりあがり寿presents新春! (有)さるハゲロックフェスティバル'27",
+     "kind": "フェス",
+     "venue": "新宿 LOFT（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4629230001-P0030001",
+     "confidence": "high"
+    }
+   ]
+  },
+  "かわいしのぶ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-16",
+     "title": "しりあがり寿presents新春! (有)さるハゲロックフェスティバル'27",
+     "kind": "フェス",
+     "venue": "新宿 LOFT（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4629230001-P0030001",
+     "confidence": "high"
+    }
+   ]
+  },
+  "こまっちゃハンパ(梅津和時、ほか)": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-16",
+     "title": "しりあがり寿presents新春! (有)さるハゲロックフェスティバル'27",
+     "kind": "フェス",
+     "venue": "新宿 LOFT（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4629230001-P0030001",
+     "confidence": "high"
+    }
+   ]
+  },
+  "サイモンガー･モバイル": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-16",
+     "title": "しりあがり寿presents新春! (有)さるハゲロックフェスティバル'27",
+     "kind": "フェス",
+     "venue": "新宿 LOFT（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4629230001-P0030001",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ザ･スリーメン": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-16",
+     "title": "しりあがり寿presents新春! (有)さるハゲロックフェスティバル'27",
+     "kind": "フェス",
+     "venue": "新宿 LOFT（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4629230001-P0030001",
+     "confidence": "high"
+    }
+   ]
+  },
+  "THE BIG CITY": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-16",
+     "title": "しりあがり寿presents新春! (有)さるハゲロックフェスティバル'27",
+     "kind": "フェス",
+     "venue": "新宿 LOFT（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4629230001-P0030001",
+     "confidence": "high"
+    }
+   ]
+  },
+  "親戚(しりあがり寿、ほか)": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-16",
+     "title": "しりあがり寿presents新春! (有)さるハゲロックフェスティバル'27",
+     "kind": "フェス",
+     "venue": "新宿 LOFT（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4629230001-P0030001",
+     "confidence": "high"
+    }
+   ]
+  },
+  "水中、それは苦しい": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-16",
+     "title": "しりあがり寿presents新春! (有)さるハゲロックフェスティバル'27",
+     "kind": "フェス",
+     "venue": "新宿 LOFT（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4629230001-P0030001",
+     "confidence": "high"
+    }
+   ]
+  },
+  "知久寿焼": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-16",
+     "title": "しりあがり寿presents新春! (有)さるハゲロックフェスティバル'27",
+     "kind": "フェス",
+     "venue": "新宿 LOFT（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4629230001-P0030001",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Tokyoかけひき倶楽部": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-16",
+     "title": "しりあがり寿presents新春! (有)さるハゲロックフェスティバル'27",
+     "kind": "フェス",
+     "venue": "新宿 LOFT（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4629230001-P0030001",
+     "confidence": "high"
+    }
+   ]
+  },
+  "突然段ボール": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-16",
+     "title": "しりあがり寿presents新春! (有)さるハゲロックフェスティバル'27",
+     "kind": "フェス",
+     "venue": "新宿 LOFT（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4629230001-P0030001",
+     "confidence": "high"
+    }
+   ]
+  },
+  "七尾旅人": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-16",
+     "title": "しりあがり寿presents新春! (有)さるハゲロックフェスティバル'27",
+     "kind": "フェス",
+     "venue": "新宿 LOFT（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4629230001-P0030001",
+     "confidence": "high"
+    }
+   ]
+  },
+  "バナナシスターズ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-16",
+     "title": "しりあがり寿presents新春! (有)さるハゲロックフェスティバル'27",
+     "kind": "フェス",
+     "venue": "新宿 LOFT（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4629230001-P0030001",
+     "confidence": "high"
+    }
+   ]
+  },
+  "バカ酒場": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-16",
+     "title": "しりあがり寿presents新春! (有)さるハゲロックフェスティバル'27",
+     "kind": "フェス",
+     "venue": "新宿 LOFT（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4629230001-P0030001",
+     "confidence": "high"
+    }
+   ]
+  },
+  "パスカルズ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-16",
+     "title": "しりあがり寿presents新春! (有)さるハゲロックフェスティバル'27",
+     "kind": "フェス",
+     "venue": "新宿 LOFT（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4629230001-P0030001",
+     "confidence": "high"
+    }
+   ]
+  },
+  "深田晃司(映画監督)": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-16",
+     "title": "しりあがり寿presents新春! (有)さるハゲロックフェスティバル'27",
+     "kind": "フェス",
+     "venue": "新宿 LOFT（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4629230001-P0030001",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ホットグリグリケーキ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-16",
+     "title": "しりあがり寿presents新春! (有)さるハゲロックフェスティバル'27",
+     "kind": "フェス",
+     "venue": "新宿 LOFT（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4629230001-P0030001",
+     "confidence": "high"
+    }
+   ]
+  },
+  "松永天馬": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-16",
+     "title": "しりあがり寿presents新春! (有)さるハゲロックフェスティバル'27",
+     "kind": "フェス",
+     "venue": "新宿 LOFT（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4629230001-P0030001",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ヤギハギ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-16",
+     "title": "しりあがり寿presents新春! (有)さるハゲロックフェスティバル'27",
+     "kind": "フェス",
+     "venue": "新宿 LOFT（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4629230001-P0030001",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Romi-Hari-Club": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-16",
+     "title": "しりあがり寿presents新春! (有)さるハゲロックフェスティバル'27",
+     "kind": "フェス",
+     "venue": "新宿 LOFT（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4629230001-P0030001",
+     "confidence": "high"
+    }
+   ]
+  },
+  "野獣のリリアン": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-16",
+     "title": "しりあがり寿presents新春! (有)さるハゲロックフェスティバル'27",
+     "kind": "フェス",
+     "venue": "新宿 LOFT（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4629230001-P0030001",
+     "confidence": "high"
+    }
+   ]
+  },
+  "三浦カズー": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-16",
+     "title": "しりあがり寿presents新春! (有)さるハゲロックフェスティバル'27",
+     "kind": "フェス",
+     "venue": "新宿 LOFT（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4629230001-P0030001",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ボクデス": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-16",
+     "title": "しりあがり寿presents新春! (有)さるハゲロックフェスティバル'27",
+     "kind": "フェス",
+     "venue": "新宿 LOFT（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4629230001-P0030001",
+     "confidence": "high"
+    }
+   ]
+  },
+  "朝倉世界一": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-16",
+     "title": "しりあがり寿presents新春! (有)さるハゲロックフェスティバル'27",
+     "kind": "フェス",
+     "venue": "新宿 LOFT（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4629230001-P0030001",
+     "confidence": "high"
+    }
+   ]
+  },
+  "羽生生純": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-16",
+     "title": "しりあがり寿presents新春! (有)さるハゲロックフェスティバル'27",
+     "kind": "フェス",
+     "venue": "新宿 LOFT（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4629230001-P0030001",
      "confidence": "high"
     }
    ]
