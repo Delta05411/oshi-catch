@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T20:11:10+09:00",
+ "updated": "2026-11-17T07:45:00+09:00",
  "artists": {
   "Saucy Dog": {
    "aliases": [
@@ -2270,6 +2270,14 @@
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
      "confidence": "high"
+    },
+    {
+     "date": "2027-02-07",
+     "title": "ゼロフェス2027",
+     "kind": "フェス",
+     "venue": "GORILLA HALL OSAKA（大阪府）",
+     "source_url": "https://muque.jp/live/live-1753/",
+     "confidence": "high"
     }
    ]
   },
@@ -2842,6 +2850,14 @@
      "kind": "フェス",
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-02-07",
+     "title": "ゼロフェス2027",
+     "kind": "フェス",
+     "venue": "GORILLA HALL OSAKA（大阪府）",
+     "source_url": "https://muque.jp/live/live-1753/",
      "confidence": "high"
     }
    ]
@@ -9998,6 +10014,14 @@
      "venue": "LIVE SQUARE 2nd LINE（大阪府）",
      "source_url": "https://spice.eplus.jp/articles/350189",
      "confidence": "high"
+    },
+    {
+     "date": "2027-02-07",
+     "title": "ゼロフェス2027",
+     "kind": "フェス",
+     "venue": "GORILLA HALL OSAKA（大阪府）",
+     "source_url": "https://muque.jp/live/live-1753/",
+     "confidence": "high"
     }
    ]
   },
@@ -16539,6 +16563,14 @@
      "venue": "幕張メッセ（千葉県）",
      "source_url": "https://countdownjapan.jp/",
      "confidence": "high"
+    },
+    {
+     "date": "2027-02-07",
+     "title": "ゼロフェス2027",
+     "kind": "フェス",
+     "venue": "GORILLA HALL OSAKA（大阪府）",
+     "source_url": "https://muque.jp/live/live-1753/",
+     "confidence": "high"
     }
    ]
   },
@@ -16753,6 +16785,14 @@
      "venue": "幕張メッセ（千葉県）",
      "source_url": "https://countdownjapan.jp/",
      "confidence": "high"
+    },
+    {
+     "date": "2027-02-07",
+     "title": "ゼロフェス2027",
+     "kind": "フェス",
+     "venue": "GORILLA HALL OSAKA（大阪府）",
+     "source_url": "https://muque.jp/live/live-1753/",
+     "confidence": "high"
     }
    ]
   },
@@ -16802,6 +16842,14 @@
      "kind": "フェス",
      "venue": "幕張メッセ（千葉県）",
      "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-02-07",
+     "title": "ゼロフェス2027",
+     "kind": "フェス",
+     "venue": "GORILLA HALL OSAKA（大阪府）",
+     "source_url": "https://muque.jp/live/live-1753/",
      "confidence": "high"
     }
    ]
