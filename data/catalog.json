@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T07:13:22+09:00",
+ "updated": "2026-11-16T20:11:10+09:00",
  "artists": {
   "Saucy Dog": {
    "aliases": [
@@ -24918,6 +24918,58 @@
      "kind": "フェス",
      "venue": "新宿LOFT（東京）",
      "source_url": "https://skream.jp/news/2026/11/bigmama_of_newtypes_2027.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "品川祐": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-11",
+     "title": "GO OUT CAMP 冬",
+     "kind": "フェス",
+     "venue": "ふもとっぱら（静岡県）",
+     "source_url": "https://www.gooutcamp.jp/winter/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "TOP DOCA (こだまレコード)": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-11",
+     "title": "GO OUT CAMP 冬",
+     "kind": "フェス",
+     "venue": "ふもとっぱら（静岡県）",
+     "source_url": "https://www.gooutcamp.jp/winter/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "neu stand.": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-11",
+     "title": "GO OUT CAMP 冬",
+     "kind": "フェス",
+     "venue": "ふもとっぱら（静岡県）",
+     "source_url": "https://www.gooutcamp.jp/winter/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "さらば青春の光": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-02-11",
+     "title": "ブクロック!フェスティバル",
+     "kind": "フェス",
+     "venue": "幕張メッセ 国際展示場 1～3ホール（千葉）",
+     "source_url": "https://eplus.jp/sf/detail/3604630001",
      "confidence": "high"
     }
    ]

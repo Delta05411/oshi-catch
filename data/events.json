@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T07:13:22+09:00",
+ "updated": "2026-11-16T20:11:10+09:00",
  "artists": [
   "04 Limited Sazabys",
   "ELLEGARDEN",
@@ -12421,7 +12421,7 @@
      "note": "10:00〜 イープラス ※9/11完売"
     }
    ],
-   "lineup_checked": "2026-11-15",
+   "lineup_checked": "2026-11-16",
    "lineup_days": {
     "2026-11-21": [
      "ハルカミライ",
@@ -12438,7 +12438,7 @@
    "pref": "東京",
    "status": "lineup",
    "source_url": "https://en.skream.jp/news/2026/10/over_fest_2026_timetable.php",
-   "lineup_checked": "2026-11-15",
+   "lineup_checked": "2026-11-16",
    "lineup": [
     "ADAM at",
     "AIR SWELL",
@@ -12721,7 +12721,7 @@
    "ticket_url": "https://w.pia.jp/t/dreamfestival/",
    "source_url": "https://dreamfestival.jp/",
    "status": "lineup",
-   "lineup_checked": "2026-11-15",
+   "lineup_checked": "2026-11-16",
    "image": "https://dreamfestival.jp/assets/common/img/share/og.jpg",
    "lineup_days": {
     "2026-11-21": [
@@ -12856,7 +12856,7 @@
      "note": "10/22 10:00〜11/19 23:59"
     }
    ],
-   "lineup_checked": "2026-11-15",
+   "lineup_checked": "2026-11-16",
    "lineup_days": {
     "2026-11-22": [
      "Omoinotake",
@@ -12905,7 +12905,7 @@
      "note": "9/13 23:59締切。受付終了"
     }
    ],
-   "lineup_checked": "2026-11-15",
+   "lineup_checked": "2026-11-16",
    "lineup_days": {
     "2026-11-22": [
      "Maki",
@@ -12929,7 +12929,7 @@
    "pref": "東京",
    "status": "lineup",
    "source_url": "https://www.ragnet.co.jp/rock-festival",
-   "lineup_checked": "2026-11-15",
+   "lineup_checked": "2026-11-16",
    "lineup": [
     "Adept",
     "C-GATE",
@@ -12988,7 +12988,7 @@
    "pref": "兵庫",
    "status": "lineup",
    "source_url": "https://ototoy.jp/news/132535",
-   "lineup_checked": "2026-11-15",
+   "lineup_checked": "2026-11-16",
    "lineup": [
     "Panorama Panama Town",
     "夜の本気ダンス",
@@ -13080,7 +13080,7 @@
    "pref": "新潟",
    "status": "lineup",
    "source_url": "https://www.ragnet.co.jp/rock-festival",
-   "lineup_checked": "2026-11-15",
+   "lineup_checked": "2026-11-16",
    "lineup": [
     "クレイジードクター",
     "Bagteria monster",
@@ -14887,7 +14887,7 @@
      "note": "18:00〜。イープラスのみ"
     }
    ],
-   "lineup_checked": "2026-11-11",
+   "lineup_checked": "2026-11-16",
    "ticket_name": "イープラス／チケットぴあ／ローチケ",
    "ticket_url": "https://eplus.jp/thepianoera2026/"
   },
@@ -14945,10 +14945,13 @@
    "lineup": [
     "銀座たけ内",
     "Satoshi Miya",
-    "歌声ナイトクラブ"
+    "歌声ナイトクラブ",
+    "品川祐",
+    "TOP DOCA (こだまレコード)",
+    "neu stand."
    ],
    "source_url": "https://www.gooutcamp.jp/winter/artist/",
-   "lineup_checked": "2026-11-11",
+   "lineup_checked": "2026-11-16",
    "venue": "ふもとっぱら",
    "official_url": "https://www.gooutcamp.jp/winter/",
    "ticket_name": "ローソンチケット",
@@ -14978,7 +14981,7 @@
    "pref": "沖縄",
    "status": "lineup",
    "source_url": "https://go-kadena.com/history/article-2622/",
-   "lineup_checked": "2026-11-11",
+   "lineup_checked": "2026-11-16",
    "lineup": [
     "THE WALTZ",
     "The Junky JAP Dogs",
@@ -15399,11 +15402,26 @@
     "ゆけむりDJs"
    ],
    "source_url": "https://onsen-ongaku.com/onsenongaku-2026",
-   "lineup_checked": "2026-11-11",
+   "lineup_checked": "2026-11-16",
    "venue": "渋温泉 歴史の宿 金具屋",
    "official_url": "https://onsen-ongaku.com/onsenongaku-2026",
    "ticket_name": "Peatix（2日通し券13,900円）",
-   "ticket_url": "https://onsen-ongaku-shibu2026.peatix.com"
+   "ticket_url": "https://onsen-ongaku-shibu2026.peatix.com",
+   "sales": [
+    {
+     "label": "一般発売（2日通し券）",
+     "start": "2026-07-07",
+     "url": "https://onsen-ongaku.com/onsenongaku-2026",
+     "note": "Peatix。13,900円"
+    },
+    {
+     "label": "新宿発オフィシャルバスツアー",
+     "start": "2026-07-24",
+     "end": "2026-12-04",
+     "url": "https://onsen-ongaku.com/onsenongaku-2026",
+     "note": "先着。12/4 23:00締切"
+    }
+   ]
   },
   {
    "name": "大人の文化祭 冬FES",
@@ -15413,7 +15431,7 @@
    "status": "unknown",
    "lineup": [],
    "source_url": "https://www.ragnet.co.jp/music-festival-winter/6",
-   "lineup_checked": "2026-11-15",
+   "lineup_checked": "2026-11-16",
    "venue": "服部緑地野外音楽堂"
   },
   {
@@ -15424,7 +15442,7 @@
    "status": "unknown",
    "lineup": [],
    "source_url": "https://www.ragnet.co.jp/music-festival-winter/9",
-   "lineup_checked": "2026-11-15",
+   "lineup_checked": "2026-11-16",
    "venue": "小豆島ふるさと村"
   },
   {
@@ -15434,7 +15452,7 @@
    "pref": "兵庫",
    "status": "unknown",
    "source_url": "https://www.ragnet.co.jp/rock-festival",
-   "lineup_checked": "2026-11-14",
+   "lineup_checked": "2026-11-16",
    "venue": "HoborStudio"
   },
   {
@@ -15662,8 +15680,19 @@
      "七瀬すず菜"
     ]
    },
-   "lineup_checked": "2026-11-11",
-   "venue": "インテックス大阪"
+   "lineup_checked": "2026-11-16",
+   "venue": "インテックス大阪",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/detail/4619010001",
+   "sales": [
+    {
+     "label": "イープラス先行",
+     "start": "2026-10-15",
+     "end": "2026-11-03",
+     "url": "https://eplus.jp/sf/detail/4619010001",
+     "note": "抽選。12:00開始、23:59締切"
+    }
+   ]
   },
   {
    "name": "IWA ROCK presented by e-Broad",
@@ -15690,7 +15719,7 @@
    "ticket_url": "https://eplus.jp/iwarock/",
    "source_url": "https://spice.eplus.jp/articles/349354",
    "status": "lineup",
-   "lineup_checked": "2026-11-11",
+   "lineup_checked": "2026-11-16",
    "sales": [
     {
      "name": "先行",
@@ -15711,7 +15740,7 @@
    "pref": "神奈川",
    "status": "lineup",
    "source_url": "https://www.town.aikawa.kanagawa.jp/sports_bunka/bunka/wkot/18902.html",
-   "lineup_checked": "2026-11-11",
+   "lineup_checked": "2026-11-16",
    "lineup": [
     "SLOWINGS",
     "マシマシ",
@@ -15754,7 +15783,7 @@
    "status": "unknown",
    "lineup": [],
    "source_url": "https://www.ragnet.co.jp/music-festival-winter/5",
-   "lineup_checked": "2026-11-14",
+   "lineup_checked": "2026-11-16",
    "venue": "アメージングカレッジ"
   },
   {
@@ -16244,7 +16273,7 @@
    "pref": "東京",
    "status": "lineup",
    "source_url": "https://festival-life.com/169100",
-   "lineup_checked": "2026-11-11",
+   "lineup_checked": "2026-11-16",
    "lineup": [
     "ACIDMAN",
     "Survive Said The Prophet",
@@ -16264,7 +16293,18 @@
     ]
    },
    "official_url": "https://survivesaidtheprophet.com/tour/mh/",
-   "venue": "豊洲PIT"
+   "venue": "豊洲PIT",
+   "ticket_name": "イープラス",
+   "ticket_url": "https://eplus.jp/sf/word/0000057967",
+   "sales": [
+    {
+     "label": "オフィシャル5次先行",
+     "start": "2026-10-16",
+     "end": "2026-11-29",
+     "url": "https://eplus.jp/sf/word/0000057967",
+     "note": "先着。18:00開始、23:59締切"
+    }
+   ]
   },
   {
    "name": "RADIO CRAZY",
@@ -16794,7 +16834,7 @@
    "venue": "Diamond Hall ほか名古屋新栄エリア",
    "status": "unknown",
    "lineup": [],
-   "lineup_checked": "2026-11-14",
+   "lineup_checked": "2026-11-16",
    "source_url": "https://www.ragnet.co.jp/music-festival-winter",
    "note": "日程は公式で未確認（要再確認）"
   },
@@ -16918,7 +16958,7 @@
     "ザ･ビートモーターズ",
     "KING BROTHERS"
    ],
-   "lineup_checked": "2026-11-11",
+   "lineup_checked": "2026-11-16",
    "source_url": "https://eplus.jp/sf/detail/K000000646",
    "lineup_days": {
     "2027-01-09": [
@@ -17450,7 +17490,7 @@
    "pref": "千葉",
    "status": "lineup",
    "source_url": "https://www.ragnet.co.jp/rock-festival",
-   "lineup_checked": "2026-11-11",
+   "lineup_checked": "2026-11-16",
    "lineup": [
     "a flood of circle",
     "バックドロップシンデレラ",
@@ -17488,7 +17528,8 @@
     "May Forth",
     "ROTTENGRAFFTY",
     "ロマンス&バカンス",
-    "忘れらんねえよ"
+    "忘れらんねえよ",
+    "さらば青春の光"
    ],
    "official_url": "https://www.ragnet.co.jp/rock-festival-february",
    "venue": "幕張メッセ 国際展示場 1～3ホール",
@@ -17546,7 +17587,7 @@
    "tba": true,
    "venue": "東京ドーム",
    "official_url": "https://www.event-td.com/tokyospaceship/",
-   "note": "開催見合わせ（2026-09-30 主催者発表。当初 2027-02-13・14）。新しい日程は未発表",
+   "note": "2027-02-13・14の開催は見合わせ（公式 2026-09-30付）。次回の日程は未発表",
    "image": "https://www.event-td.com/tokyospaceship/ogp_1200x600.png?20260701"
   },
   {
@@ -17858,7 +17899,7 @@
    "ticket_url": "https://fmfukuoka.co.jp/lp/fukuokaguitarjamboree/ticket/",
    "note": "開場12:30／開演14:00",
    "source_url": "https://fmfukuoka.co.jp/lp/fukuokaguitarjamboree/",
-   "lineup_checked": "2026-11-11",
+   "lineup_checked": "2026-11-16",
    "lineup_days": {
     "2027-03-22": [
      "奥田民生",
@@ -17878,6 +17919,13 @@
      "start": "2026-11-05",
      "url": "https://fmfukuoka.co.jp/lp/fukuokaguitarjamboree/ticket/",
      "note": "11/5 8:40開始。締切は記載なし"
+    },
+    {
+     "label": "寄り切り先行",
+     "start": "2026-11-17",
+     "end": "2026-11-23",
+     "url": "https://eplus.jp/sf/detail/0945230004-P0030021P021001?P1=0175",
+     "note": "抽選。12:00開始、23:59締切"
     }
    ]
   },
@@ -18057,10 +18105,10 @@
    "venue": "千葉市蘇我スポーツ公園",
    "official_url": "https://japanjam.jp/",
    "status": "unknown",
-   "note": "出演者とチケットは12月中旬に発表予定",
+   "note": "出演アーティスト発表・チケット発売は2026年12月中旬から（公式）",
    "source_url": "https://festival-life.com/168641",
    "image": "https://japanjam.jp/2026/favicon/ogp.png?t=20260121",
-   "lineup_checked": "2026-11-12"
+   "lineup_checked": "2026-11-16"
   },
   {
    "name": "ONE FES -imizu music festival-",
@@ -18106,7 +18154,7 @@
     }
    ],
    "source_url": "https://realsound.jp/2026/10/post-2562487.html",
-   "lineup_checked": "2026-11-05"
+   "lineup_checked": "2026-11-16"
   },
   {
    "name": "Tank-top Festival 2027",
@@ -18271,7 +18319,7 @@
    "end": "2027-07-25",
    "source_url": "https://fujirockexpress.net/26/p_5625.html",
    "image": "https://cdn.fujirockfestival.com/smash/frf/assets/images/IUoJFpTBjjZkkq0FGhvaEzAKC9hZwpvR9bR8ES4D.jpg",
-   "lineup_checked": "2026-11-10"
+   "lineup_checked": "2026-11-16"
   },
   {
    "name": "TRIANGLE（関東）",
@@ -18772,7 +18820,7 @@
     "NEK!",
     "다다다 DADADA"
    ],
-   "lineup_checked": "2026-11-10",
+   "lineup_checked": "2026-11-16",
    "note": "日割りは後日発表。出演者は追加予定",
    "source_url": "https://natalie.mu/music/news/696450"
   },
@@ -18894,7 +18942,7 @@
    "pref": "岩手",
    "lineup": [],
    "status": "unknown",
-   "lineup_checked": "2026-11-15",
+   "lineup_checked": "2026-11-16",
    "source_url": "https://www.ragnet.co.jp/rock-festival"
   },
   {
@@ -18904,7 +18952,7 @@
    "pref": "福井",
    "lineup": [],
    "status": "unknown",
-   "lineup_checked": "2026-11-14",
+   "lineup_checked": "2026-11-16",
    "source_url": "https://www.ragnet.co.jp/rock-festival/6",
    "note": "2026-12-27開催の告知は未確認（2026-11-14）"
   },
@@ -18933,7 +18981,7 @@
     "CRANKENSTIEN"
    ],
    "status": "lineup",
-   "lineup_checked": "2026-11-15",
+   "lineup_checked": "2026-11-16",
    "source_url": "https://www.ragnet.co.jp/rock-festival/6",
    "lineup_days": {
     "2026-11-21": [
@@ -18969,7 +19017,7 @@
    "pref": "愛知",
    "lineup": [],
    "status": "unknown",
-   "lineup_checked": "2026-11-15",
+   "lineup_checked": "2026-11-16",
    "source_url": "https://www.ragnet.co.jp/rock-festival/6"
   },
   {
@@ -19109,7 +19157,7 @@
    "tba": true,
    "status": "unknown",
    "pref": "神奈川県",
-   "note": "『THIS FES '27 in Sagamihara』を2027年秋に開催決定（2026-11-01 公式告知）。日付・会場・チケットは未発表",
+   "note": "2027年秋に4回目の開催を発表（2026-11-01）。日程・会場は未発表",
    "source_url": "https://alexandros.jp/contents/1124118",
    "lineup_checked": "2026-11-16",
    "official_url": "https://thisfes.com/",
@@ -19217,7 +19265,7 @@
      "YPY"
     ]
    },
-   "lineup_checked": "2026-11-15",
+   "lineup_checked": "2026-11-16",
    "image": "https://sound-bazaar.jp/assets/images/ogp.jpg"
   },
   {
@@ -19679,6 +19727,253 @@
    "status": "lineup",
    "note": "チケット情報は未確認",
    "source_url": "https://skream.jp/news/2026/11/bigmama_of_newtypes_2027.php"
+  },
+  {
+   "name": "UTAGE FES",
+   "start": "2026-12-12",
+   "end": "2026-12-12",
+   "pref": "東京都",
+   "status": "unknown",
+   "lineup": [],
+   "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east"
+  },
+  {
+   "name": "JAPAN CUMBIA FESTIVAL",
+   "start": "2026-12-13",
+   "end": "2026-12-13",
+   "pref": "東京都",
+   "status": "unknown",
+   "lineup": [],
+   "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+   "venue": "新宿MARZ"
+  },
+  {
+   "name": "Super OTONA Fes.",
+   "start": "2026-12-13",
+   "end": "2026-12-13",
+   "pref": "大阪府",
+   "status": "unknown",
+   "lineup": [],
+   "source_url": "https://eplus.jp/sf/live/festival/winter/dec",
+   "venue": "大阪城音楽堂"
+  },
+  {
+   "name": "SUMIDA BLOCK FESTIVAL",
+   "start": "2026-12-05",
+   "end": "2026-12-06",
+   "pref": "東京都",
+   "status": "unknown",
+   "lineup": [],
+   "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east"
+  },
+  {
+   "name": "Idol Xmas Fes",
+   "start": "2026-12-24",
+   "end": "2026-12-24",
+   "pref": "神奈川県",
+   "status": "unknown",
+   "lineup": [],
+   "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east"
+  },
+  {
+   "name": "ももいろ歌合戦",
+   "start": "2026-12-31",
+   "end": "2026-12-31",
+   "pref": "東京都",
+   "status": "unknown",
+   "lineup": [],
+   "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east"
+  },
+  {
+   "name": "謹賀新年！アイドル初夢ライブ",
+   "start": "2027-01-02",
+   "end": "2027-01-03",
+   "pref": "東京都",
+   "status": "unknown",
+   "lineup": [],
+   "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east"
+  },
+  {
+   "name": "新春!アヤヲフェス2027",
+   "start": "2027-01-08",
+   "end": "2027-01-11",
+   "pref": "京都府",
+   "status": "unknown",
+   "lineup": [],
+   "source_url": "https://www.ragnet.co.jp/pressrelease-49352178",
+   "venue": "Live Spot RAG"
+  },
+  {
+   "name": "しかロック",
+   "start": "2027-01-09",
+   "end": "2027-01-09",
+   "pref": "福島県",
+   "status": "unknown",
+   "lineup": [],
+   "source_url": "https://fes.ragnet.co.jp/rock-festival",
+   "venue": "Koriyama #9 ほか"
+  },
+  {
+   "name": "THICK FESTIVAL",
+   "start": "2027-01-10",
+   "end": "2027-01-10",
+   "pref": "神奈川県",
+   "status": "unknown",
+   "lineup": [],
+   "source_url": "https://fes.ragnet.co.jp/rock-festival/3"
+  },
+  {
+   "name": "たま音楽祭",
+   "start": "2027-01-16",
+   "end": "2027-01-16",
+   "pref": "神奈川県",
+   "status": "unknown",
+   "lineup": [],
+   "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east"
+  },
+  {
+   "name": "大洗音楽祭",
+   "start": "2027-01-17",
+   "end": "2027-01-17",
+   "pref": "茨城県",
+   "status": "unknown",
+   "lineup": [],
+   "source_url": "https://fes.ragnet.co.jp/rock-festival/3"
+  },
+  {
+   "name": "Arafudo Music",
+   "start": "2027-01-23",
+   "end": "2027-01-23",
+   "pref": "福島県",
+   "status": "unknown",
+   "lineup": [],
+   "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east"
+  },
+  {
+   "name": "フリ放題コーリング 東京",
+   "start": "2027-01-24",
+   "end": "2027-01-24",
+   "pref": "東京都",
+   "status": "unknown",
+   "lineup": [],
+   "source_url": "https://fes.ragnet.co.jp/rock-festival/3"
+  },
+  {
+   "name": "LOVE OCEANフェス",
+   "start": "2027-01-30",
+   "end": "2027-01-30",
+   "pref": "神奈川県",
+   "status": "unknown",
+   "lineup": [],
+   "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east"
+  },
+  {
+   "name": "SAGAMIHARA ROCK FESTIVAL",
+   "start": "2027-01-31",
+   "end": "2027-01-31",
+   "pref": "神奈川県",
+   "status": "unknown",
+   "lineup": [],
+   "source_url": "https://fes.ragnet.co.jp/rock-festival/3"
+  },
+  {
+   "name": "でらロックフェスティバル",
+   "start": "2027-02-06",
+   "end": "2027-02-07",
+   "pref": "愛知県",
+   "status": "unknown",
+   "lineup": [],
+   "source_url": "https://fes.ragnet.co.jp/rock-festival"
+  },
+  {
+   "name": "HERO'S SINGALONG FESTIVAL",
+   "start": "2027-02-06",
+   "end": "2027-02-07",
+   "pref": "滋賀県",
+   "status": "unknown",
+   "lineup": [],
+   "source_url": "https://fes.ragnet.co.jp/rock-festival"
+  },
+  {
+   "name": "倉敷ビートルズストリート",
+   "start": "2027-02-06",
+   "end": "2027-02-06",
+   "pref": "岡山県",
+   "status": "unknown",
+   "lineup": [],
+   "source_url": "https://fes.ragnet.co.jp/rock-festival"
+  },
+  {
+   "name": "True Thrash Fest",
+   "start": "2027-02-13",
+   "end": "2027-02-14",
+   "pref": "大阪府",
+   "status": "unknown",
+   "lineup": [],
+   "source_url": "https://fes.ragnet.co.jp/rock-festival"
+  },
+  {
+   "name": "HANGEKI FES",
+   "start": "2027-02-23",
+   "end": "2027-02-23",
+   "pref": "大阪府",
+   "status": "unknown",
+   "lineup": [],
+   "source_url": "https://fes.ragnet.co.jp/rock-festival"
+  },
+  {
+   "name": "We are Live project",
+   "start": "2027-03-02",
+   "end": "2027-03-04",
+   "pref": "大阪府",
+   "status": "unknown",
+   "lineup": [],
+   "source_url": "https://fes.ragnet.co.jp/rock-festival"
+  },
+  {
+   "name": "オールドアメリカンフェスティバル",
+   "start": "2027-03-06",
+   "end": "2027-03-06",
+   "pref": "高知県",
+   "status": "unknown",
+   "lineup": [],
+   "source_url": "https://fes.ragnet.co.jp/rock-festival"
+  },
+  {
+   "name": "HACHIOJI ROCK DREAM",
+   "start": "2027-03-07",
+   "end": "2027-03-07",
+   "pref": "東京都",
+   "status": "unknown",
+   "lineup": [],
+   "source_url": "https://fes.ragnet.co.jp/rock-festival/3"
+  },
+  {
+   "name": "Fight for METALPOLIS HIROSHIMA",
+   "start": "2027-03-13",
+   "end": "2027-03-14",
+   "pref": "広島県",
+   "status": "unknown",
+   "lineup": [],
+   "source_url": "https://fes.ragnet.co.jp/rock-festival"
+  },
+  {
+   "name": "TENJIN ONTAQ",
+   "start": "2027-03-13",
+   "end": "2027-03-14",
+   "pref": "福岡県",
+   "status": "unknown",
+   "lineup": [],
+   "source_url": "https://fes.ragnet.co.jp/rock-festival"
+  },
+  {
+   "name": "アオハルロックフェスティバル",
+   "start": "2027-03-21",
+   "end": "2027-03-21",
+   "pref": "静岡県",
+   "status": "unknown",
+   "lineup": [],
+   "source_url": "https://fes.ragnet.co.jp/rock-festival"
   }
  ],
  "artist_links": {
@@ -20201,17 +20496,17 @@
   "10-FEET": {
    "state": "ok",
    "checked": "2026-11-14T07:25:00+09:00",
-   "news_checked": "2026-11-14T07:25:00+09:00"
+   "news_checked": "2026-11-16T20:11:10+09:00"
   },
   "SHANK": {
    "state": "ok",
    "checked": "2026-11-14T07:25:00+09:00",
-   "news_checked": "2026-11-14T07:25:00+09:00"
+   "news_checked": "2026-11-16T20:11:10+09:00"
   },
   "ROTTENGRAFFTY": {
    "state": "ok",
    "checked": "2026-11-14T07:25:00+09:00",
-   "news_checked": "2026-11-14T07:25:00+09:00"
+   "news_checked": "2026-11-16T20:11:10+09:00"
   },
   "SiM": {
    "state": "ok",
@@ -20241,7 +20536,7 @@
   "coldrain": {
    "state": "ok",
    "checked": "2026-11-14T07:25:00+09:00",
-   "news_checked": "2026-11-14T07:25:00+09:00"
+   "news_checked": "2026-11-16T20:11:10+09:00"
   },
   "TenTwenty": {
    "state": "ok",
@@ -20317,17 +20612,17 @@
   "THE ALFEE": {
    "state": "ok",
    "checked": "2026-11-14T07:25:00+09:00",
-   "news_checked": "2026-11-14T07:25:00+09:00"
+   "news_checked": "2026-11-16T20:11:10+09:00"
   },
   "バブルガム・ブラザーズ": {
    "state": "ok",
    "checked": "2026-11-14T07:25:00+09:00",
-   "news_checked": "2026-11-14T07:25:00+09:00"
+   "news_checked": "2026-11-16T20:11:10+09:00"
   },
   "Bro.KORN": {
    "state": "ok",
    "checked": "2026-11-14T07:25:00+09:00",
-   "news_checked": "2026-11-14T07:25:00+09:00"
+   "news_checked": "2026-11-16T20:11:10+09:00"
   },
   "ブラザートム": {
    "state": "ok",
