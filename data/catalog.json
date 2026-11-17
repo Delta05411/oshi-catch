@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T21:00:00+09:00",
+ "updated": "2026-11-18T07:21:58+09:00",
  "artists": {
   "Saucy Dog": {
    "aliases": [
@@ -1076,6 +1076,14 @@
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://xhl-music.com/feature/hypelikeit",
      "confidence": "high"
+    },
+    {
+     "date": "2027-01-31",
+     "title": "FUKUOKA MUSIC FES.2027 supported by Trunk（1/31）",
+     "kind": "フェス",
+     "venue": "みずほPayPayドーム福岡（福岡県）",
+     "source_url": "https://festival-life.com/169244",
+     "confidence": "high"
     }
    ]
   },
@@ -1128,6 +1136,14 @@
      "kind": "フェス",
      "venue": "別府ビーコンプラザ（大分県）",
      "source_url": "https://www.billboard-japan.com/d_news/detail/166666/2",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "beat phoenix",
+     "kind": "フェス",
+     "venue": "フェニックス・プラザ エルピス大ホール（福井県）",
+     "source_url": "https://www.beatphoenix.com/",
      "confidence": "high"
     }
    ]
@@ -1500,6 +1516,14 @@
      "venue": "INTEX OSAKA（大阪府）",
      "source_url": "https://eplus.jp/radiocrazy2026/",
      "confidence": "high"
+    },
+    {
+     "date": "2027-02-07",
+     "title": "HERO'S SINGALONG FESTIVAL（2/7）",
+     "kind": "フェス",
+     "venue": "滋賀U☆STONE（大津）（滋賀県）",
+     "source_url": "https://fes.ragnet.co.jp/rock-festival",
+     "confidence": "high"
     }
    ]
   },
@@ -1804,6 +1828,14 @@
      "kind": "フェス",
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-01-09",
+     "title": "ROCK IN WINTER",
+     "kind": "フェス",
+     "venue": "名古屋・新栄界隈（Diamond Hall ほか）（愛知県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
      "confidence": "high"
     }
    ]
@@ -2152,6 +2184,14 @@
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
      "confidence": "high"
+    },
+    {
+     "date": "2027-01-31",
+     "title": "FUKUOKA MUSIC FES.2027 supported by Trunk（1/31）",
+     "kind": "フェス",
+     "venue": "みずほPayPayドーム福岡（福岡県）",
+     "source_url": "https://festival-life.com/169244",
+     "confidence": "high"
     }
    ]
   },
@@ -2306,6 +2346,14 @@
      "kind": "フェス",
      "venue": "幕張メッセ 国際展示場 1～3ホール（千葉）",
      "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-01-10",
+     "title": "THICK FESTIVAL",
+     "kind": "フェス",
+     "venue": "CLUB CITTA'（川崎）（神奈川県）",
+     "source_url": "https://thickfestival.com/",
      "confidence": "high"
     }
    ]
@@ -2559,6 +2607,14 @@
      "venue": "台中・清水鰲峰山運動公園（台湾）",
      "source_url": "https://natalie.mu/music/news/696450",
      "confidence": "high"
+    },
+    {
+     "date": "2027-01-09",
+     "title": "ROCK IN WINTER",
+     "kind": "フェス",
+     "venue": "名古屋・新栄界隈（Diamond Hall ほか）（愛知県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
     }
    ]
   },
@@ -2732,6 +2788,22 @@
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
      "confidence": "high"
+    },
+    {
+     "date": "2027-01-09",
+     "title": "ROCK IN WINTER",
+     "kind": "フェス",
+     "venue": "名古屋・新栄界隈（Diamond Hall ほか）（愛知県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-02-06",
+     "title": "HERO'S SINGALONG FESTIVAL（2/6）",
+     "kind": "フェス",
+     "venue": "滋賀U☆STONE（大津）（滋賀県）",
+     "source_url": "https://fes.ragnet.co.jp/rock-festival",
+     "confidence": "high"
     }
    ]
   },
@@ -2871,6 +2943,14 @@
      "kind": "フェス",
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-01-09",
+     "title": "ROCK IN WINTER",
+     "kind": "フェス",
+     "venue": "名古屋・新栄界隈（Diamond Hall ほか）（愛知県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
      "confidence": "high"
     }
    ]
@@ -3054,6 +3134,22 @@
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "beat phoenix",
+     "kind": "フェス",
+     "venue": "フェニックス・プラザ エルピス大ホール（福井県）",
+     "source_url": "https://www.beatphoenix.com/",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-01-09",
+     "title": "ROCK IN WINTER",
+     "kind": "フェス",
+     "venue": "名古屋・新栄界隈（Diamond Hall ほか）（愛知県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
     }
    ]
   },
@@ -3111,6 +3207,14 @@
      "kind": "フェス",
      "venue": "大分スポーツ公園（大分）",
      "source_url": "https://festival-life.com/169474",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "beat phoenix",
+     "kind": "フェス",
+     "venue": "フェニックス・プラザ エルピス大ホール（福井県）",
+     "source_url": "https://www.beatphoenix.com/",
      "confidence": "high"
     }
    ]
@@ -3231,6 +3335,14 @@
      "venue": "AICHI SKY EXPO（愛知県）",
      "source_url": "https://rumble-jag.jp/",
      "confidence": "low"
+    },
+    {
+     "date": "2027-01-09",
+     "title": "ROCK IN WINTER",
+     "kind": "フェス",
+     "venue": "名古屋・新栄界隈（Diamond Hall ほか）（愛知県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
     }
    ]
   },
@@ -3309,6 +3421,14 @@
      "kind": "フェス",
      "venue": "下北沢界隈(複数ライブハウス)（東京都）",
      "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-01-09",
+     "title": "しかロック",
+     "kind": "フェス",
+     "venue": "郡山 #9／PEAK ACTION／M&J（福島県）",
+     "source_url": "https://fes.ragnet.co.jp/rock-festival",
      "confidence": "high"
     }
    ]
@@ -3479,6 +3599,14 @@
      "venue": "AICHI SKY EXPO（愛知県）",
      "source_url": "https://rumble-jag.jp/",
      "confidence": "low"
+    },
+    {
+     "date": "2027-01-09",
+     "title": "ROCK IN WINTER",
+     "kind": "フェス",
+     "venue": "名古屋・新栄界隈（Diamond Hall ほか）（愛知県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
     }
    ]
   },
@@ -3512,6 +3640,14 @@
      "kind": "フェス",
      "venue": "下北沢界隈(複数ライブハウス)（東京都）",
      "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-01-10",
+     "title": "THICK FESTIVAL",
+     "kind": "フェス",
+     "venue": "CLUB CITTA'（川崎）（神奈川県）",
+     "source_url": "https://thickfestival.com/",
      "confidence": "high"
     }
    ]
@@ -3591,6 +3727,14 @@
      "venue": "（東京）",
      "source_url": "https://www.ragnet.co.jp/rock-festival",
      "confidence": "low"
+    },
+    {
+     "date": "2027-01-10",
+     "title": "THICK FESTIVAL",
+     "kind": "フェス",
+     "venue": "CLUB CITTA'（川崎）（神奈川県）",
+     "source_url": "https://thickfestival.com/",
+     "confidence": "high"
     }
    ]
   },
@@ -3792,6 +3936,14 @@
      "venue": "LIVE SQUARE 2nd LINE（大阪府）",
      "source_url": "https://spice.eplus.jp/articles/350189",
      "confidence": "high"
+    },
+    {
+     "date": "2027-02-27",
+     "title": "ZERO NEN CIRCUIT 2027",
+     "kind": "フェス",
+     "venue": "心斎橋SUNHALL ほか全9会場（大阪府）",
+     "source_url": "https://fes.ragnet.co.jp/music-festival-winter/10",
+     "confidence": "high"
     }
    ]
   },
@@ -3824,6 +3976,14 @@
      "title": "下北沢にて（12/5）",
      "kind": "フェス",
      "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-01-09",
+     "title": "ROCK IN WINTER",
+     "kind": "フェス",
+     "venue": "名古屋・新栄界隈（Diamond Hall ほか）（愛知県）",
      "source_url": "https://www.ragnet.co.jp/music-festival-winter",
      "confidence": "high"
     }
@@ -3952,6 +4112,14 @@
      "venue": "LIVE SQUARE 2nd LINE（大阪府）",
      "source_url": "https://spice.eplus.jp/articles/350189",
      "confidence": "high"
+    },
+    {
+     "date": "2027-02-27",
+     "title": "ZERO NEN CIRCUIT 2027",
+     "kind": "フェス",
+     "venue": "心斎橋SUNHALL ほか全9会場（大阪府）",
+     "source_url": "https://fes.ragnet.co.jp/music-festival-winter/10",
+     "confidence": "high"
     }
    ]
   },
@@ -3999,6 +4167,14 @@
      "venue": "（東京）",
      "source_url": "https://www.ragnet.co.jp/rock-festival",
      "confidence": "low"
+    },
+    {
+     "date": "2027-01-09",
+     "title": "ROCK IN WINTER",
+     "kind": "フェス",
+     "venue": "名古屋・新栄界隈（Diamond Hall ほか）（愛知県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
     }
    ]
   },
@@ -4318,6 +4494,14 @@
      "venue": "（千葉）",
      "source_url": "https://www.ragnet.co.jp/rock-festival",
      "confidence": "high"
+    },
+    {
+     "date": "2027-01-10",
+     "title": "THICK FESTIVAL",
+     "kind": "フェス",
+     "venue": "CLUB CITTA'（川崎）（神奈川県）",
+     "source_url": "https://thickfestival.com/",
+     "confidence": "high"
     }
    ]
   },
@@ -4408,6 +4592,14 @@
      "venue": "幕張メッセ 国際展示場 1～3ホール（千葉）",
      "source_url": "https://www.ragnet.co.jp/rock-festival",
      "confidence": "high"
+    },
+    {
+     "date": "2027-01-09",
+     "title": "ROCK IN WINTER",
+     "kind": "フェス",
+     "venue": "名古屋・新栄界隈（Diamond Hall ほか）（愛知県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
     }
    ]
   },
@@ -4452,6 +4644,14 @@
      "kind": "フェス",
      "venue": "幕張メッセ 国際展示場 1～3ホール（千葉）",
      "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-01-31",
+     "title": "FUKUOKA MUSIC FES.2027 supported by Trunk（1/31）",
+     "kind": "フェス",
+     "venue": "みずほPayPayドーム福岡（福岡県）",
+     "source_url": "https://festival-life.com/169244",
      "confidence": "high"
     }
    ]
@@ -4591,6 +4791,14 @@
      "venue": "神戸ワールド記念ホール（兵庫県）",
      "source_url": "https://lasvegas-jp.com/live/9288",
      "confidence": "low"
+    },
+    {
+     "date": "2027-01-30",
+     "title": "FUKUOKA MUSIC FES.2027 supported by Trunk（1/30）",
+     "kind": "フェス",
+     "venue": "みずほPayPayドーム福岡（福岡県）",
+     "source_url": "https://festival-life.com/169244",
+     "confidence": "high"
     }
    ]
   },
@@ -4716,6 +4924,14 @@
      "kind": "フェス",
      "venue": "幕張メッセ 国際展示場 1～3ホール（千葉）",
      "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-01-23",
+     "title": "浜松音球祭2027",
+     "kind": "フェス",
+     "venue": "Live House浜松 窓枠（静岡県）",
+     "source_url": "https://rotten-g.com/live/detail/1287",
      "confidence": "high"
     }
    ]
@@ -5225,6 +5441,14 @@
      "venue": "INTEX OSAKA（大阪府）",
      "source_url": "https://en.skream.jp/news/2026/09/fm802_radio_crazy_2026_1st_lineup.php",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "beat phoenix",
+     "kind": "フェス",
+     "venue": "フェニックス・プラザ エルピス大ホール（福井県）",
+     "source_url": "https://www.beatphoenix.com/",
+     "confidence": "high"
     }
    ]
   },
@@ -5413,6 +5637,14 @@
      "kind": "フェス",
      "venue": "INTEX OSAKA（大阪府）",
      "source_url": "https://radiocrazy.fm/",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-02-06",
+     "title": "HERO'S SINGALONG FESTIVAL（2/6）",
+     "kind": "フェス",
+     "venue": "滋賀U☆STONE（大津）（滋賀県）",
+     "source_url": "https://fes.ragnet.co.jp/rock-festival",
      "confidence": "high"
     }
    ]
@@ -5693,6 +5925,14 @@
      "kind": "フェス",
      "venue": "TOYOTA ARENA TOKYO（東京）",
      "source_url": "https://eplus.jp/new-horizon-fest/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-24",
+     "title": "Idol Xmas Fes",
+     "kind": "フェス",
+     "venue": "横浜アリーナ（神奈川県）",
+     "source_url": "https://idol-xmas-fes.com/",
      "confidence": "high"
     }
    ]
@@ -8235,6 +8475,14 @@
      "venue": "幕張メッセ（千葉県）",
      "source_url": "https://countdownjapan.jp/",
      "confidence": "high"
+    },
+    {
+     "date": "2027-01-09",
+     "title": "ROCK IN WINTER",
+     "kind": "フェス",
+     "venue": "名古屋・新栄界隈（Diamond Hall ほか）（愛知県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
     }
    ]
   },
@@ -8382,6 +8630,14 @@
      "title": "下北沢にて（12/5）",
      "kind": "フェス",
      "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-01-09",
+     "title": "ROCK IN WINTER",
+     "kind": "フェス",
+     "venue": "名古屋・新栄界隈（Diamond Hall ほか）（愛知県）",
      "source_url": "https://www.ragnet.co.jp/music-festival-winter",
      "confidence": "high"
     }
@@ -8663,6 +8919,14 @@
      "kind": "フェス",
      "venue": "下北沢の複数ライブハウス（東京）",
      "source_url": "https://gekirock.com/news/2026/10/kakumei2026_6th_lineup.php",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-04-10",
+     "title": "SYNCHRONICITY'27",
+     "kind": "フェス",
+     "venue": "渋谷エリア（東京）",
+     "source_url": "https://skream.jp/news/2026/11/synchronicity27_1st_lineup.php",
      "confidence": "high"
     }
    ]
@@ -9951,6 +10215,14 @@
      "venue": "神戸 太陽と虎ほか（兵庫）",
      "source_url": "https://eplus.jp/sf/detail/4580820001-P0030001",
      "confidence": "high"
+    },
+    {
+     "date": "2027-01-09",
+     "title": "しかロック",
+     "kind": "フェス",
+     "venue": "郡山 #9／PEAK ACTION／M&J（福島県）",
+     "source_url": "https://fes.ragnet.co.jp/rock-festival",
+     "confidence": "high"
     }
    ]
   },
@@ -10068,6 +10340,14 @@
      "kind": "フェス",
      "venue": "下北沢の複数ライブハウス（東京）",
      "source_url": "https://gekirock.com/news/2026/10/kakumei2026_6th_lineup.php",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-01-09",
+     "title": "ROCK IN WINTER",
+     "kind": "フェス",
+     "venue": "名古屋・新栄界隈（Diamond Hall ほか）（愛知県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
      "confidence": "high"
     }
    ]
@@ -11015,6 +11295,14 @@
      "venue": "渋谷9会場（CLUB QUATTRO、GARRET udagawa、CUTUP STUDIO、Shibuya PIT ZERO、TOKIO TOKYO、FOWS、DOMMUNE、QUATTRO LABO、XXI）（東京）",
      "source_url": "https://prtimes.jp/main/html/rd/p/000003985.000003639.html",
      "confidence": "high"
+    },
+    {
+     "date": "2027-04-10",
+     "title": "SYNCHRONICITY'27",
+     "kind": "フェス",
+     "venue": "渋谷エリア（東京）",
+     "source_url": "https://skream.jp/news/2026/11/synchronicity27_1st_lineup.php",
+     "confidence": "high"
     }
    ]
   },
@@ -11185,6 +11473,14 @@
      "title": "下北沢にて（12/5）",
      "kind": "フェス",
      "venue": "下北沢界隈(複数ライブハウス)（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-01-09",
+     "title": "ROCK IN WINTER",
+     "kind": "フェス",
+     "venue": "名古屋・新栄界隈（Diamond Hall ほか）（愛知県）",
      "source_url": "https://www.ragnet.co.jp/music-festival-winter",
      "confidence": "high"
     }
@@ -11604,6 +11900,14 @@
      "venue": "下北沢界隈(複数ライブハウス)（東京都）",
      "source_url": "https://www.ragnet.co.jp/music-festival-winter",
      "confidence": "high"
+    },
+    {
+     "date": "2027-02-27",
+     "title": "ZERO NEN CIRCUIT 2027",
+     "kind": "フェス",
+     "venue": "心斎橋SUNHALL ほか全9会場（大阪府）",
+     "source_url": "https://fes.ragnet.co.jp/music-festival-winter/10",
+     "confidence": "high"
     }
    ]
   },
@@ -11891,6 +12195,14 @@
      "venue": "Spotify O-EAST / O-WEST / O-nest / O-Crest / duo MUSIC EXCHANGE（東京）",
      "source_url": "https://prtimes.jp/main/html/rd/p/000002551.000002929.html",
      "confidence": "high"
+    },
+    {
+     "date": "2027-01-09",
+     "title": "ROCK IN WINTER",
+     "kind": "フェス",
+     "venue": "名古屋・新栄界隈（Diamond Hall ほか）（愛知県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
     }
    ]
   },
@@ -12019,6 +12331,14 @@
      "venue": "下北沢界隈(複数ライブハウス)（東京都）",
      "source_url": "https://www.ragnet.co.jp/music-festival-winter",
      "confidence": "high"
+    },
+    {
+     "date": "2027-01-09",
+     "title": "しかロック",
+     "kind": "フェス",
+     "venue": "郡山 #9／PEAK ACTION／M&J（福島県）",
+     "source_url": "https://fes.ragnet.co.jp/rock-festival",
+     "confidence": "high"
     }
    ]
   },
@@ -12083,6 +12403,14 @@
      "kind": "フェス",
      "venue": "下北沢界隈(複数ライブハウス)（東京都）",
      "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-02-27",
+     "title": "ZERO NEN CIRCUIT 2027",
+     "kind": "フェス",
+     "venue": "心斎橋SUNHALL ほか全9会場（大阪府）",
+     "source_url": "https://fes.ragnet.co.jp/music-festival-winter/10",
      "confidence": "high"
     }
    ]
@@ -12649,6 +12977,14 @@
      "venue": "ポートメッセなごや（愛知県）",
      "source_url": "http://www.merryrockparade.jp/artist.html",
      "confidence": "high"
+    },
+    {
+     "date": "2027-04-10",
+     "title": "SYNCHRONICITY'27",
+     "kind": "フェス",
+     "venue": "渋谷エリア（東京）",
+     "source_url": "https://skream.jp/news/2026/11/synchronicity27_1st_lineup.php",
+     "confidence": "high"
     }
    ]
   },
@@ -12817,6 +13153,14 @@
      "kind": "フェス",
      "venue": "下北沢界隈(複数ライブハウス)（東京都）",
      "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-02-27",
+     "title": "ZERO NEN CIRCUIT 2027",
+     "kind": "フェス",
+     "venue": "心斎橋SUNHALL ほか全9会場（大阪府）",
+     "source_url": "https://fes.ragnet.co.jp/music-festival-winter/10",
      "confidence": "high"
     }
    ]
@@ -15715,6 +16059,14 @@
      "venue": "SGC Hall Ariake・TOYOTA ARENA TOKYO（東京都）",
      "source_url": "https://gift-idol.jp/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-24",
+     "title": "Idol Xmas Fes",
+     "kind": "フェス",
+     "venue": "横浜アリーナ（神奈川県）",
+     "source_url": "https://idol-xmas-fes.com/",
+     "confidence": "high"
     }
    ]
   },
@@ -15767,6 +16119,14 @@
      "venue": "SGC Hall Ariake・TOYOTA ARENA TOKYO（東京都）",
      "source_url": "https://gift-idol.jp/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-24",
+     "title": "Idol Xmas Fes",
+     "kind": "フェス",
+     "venue": "横浜アリーナ（神奈川県）",
+     "source_url": "https://idol-xmas-fes.com/",
+     "confidence": "high"
     }
    ]
   },
@@ -15818,6 +16178,14 @@
      "kind": "フェス",
      "venue": "SGC Hall Ariake・TOYOTA ARENA TOKYO（東京都）",
      "source_url": "https://gift-idol.jp/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-24",
+     "title": "Idol Xmas Fes",
+     "kind": "フェス",
+     "venue": "横浜アリーナ（神奈川県）",
+     "source_url": "https://idol-xmas-fes.com/",
      "confidence": "high"
     }
    ]
@@ -16322,6 +16690,14 @@
      "venue": "INTEX OSAKA（大阪府）",
      "source_url": "https://eplus.jp/radiocrazy2026/",
      "confidence": "high"
+    },
+    {
+     "date": "2027-01-09",
+     "title": "ROCK IN WINTER",
+     "kind": "フェス",
+     "venue": "名古屋・新栄界隈（Diamond Hall ほか）（愛知県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
     }
    ]
   },
@@ -16488,6 +16864,14 @@
      "venue": "幕張メッセ（千葉県）",
      "source_url": "https://countdownjapan.jp/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-24",
+     "title": "Idol Xmas Fes",
+     "kind": "フェス",
+     "venue": "横浜アリーナ（神奈川県）",
+     "source_url": "https://idol-xmas-fes.com/",
+     "confidence": "high"
     }
    ]
   },
@@ -16547,6 +16931,14 @@
      "kind": "フェス",
      "venue": "国立代々木競技場 第一体育館（東京都）",
      "source_url": "https://festival-life.com/169315",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-01-30",
+     "title": "FUKUOKA MUSIC FES.2027 supported by Trunk（1/30）",
+     "kind": "フェス",
+     "venue": "みずほPayPayドーム福岡（福岡県）",
+     "source_url": "https://festival-life.com/169244",
      "confidence": "high"
     }
    ]
@@ -16628,6 +17020,14 @@
      "kind": "フェス",
      "venue": "幕張メッセ（千葉県）",
      "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-02-23",
+     "title": "HANGEKI FES",
+     "kind": "フェス",
+     "venue": "なんばHatch（大阪府）",
+     "source_url": "https://fes.ragnet.co.jp/rock-festival",
      "confidence": "high"
     }
    ]
@@ -18430,6 +18830,14 @@
      "venue": "幕張メッセ国際展示場1・2・3ホール（千葉県）",
      "source_url": "https://xhl-music.com/feature/hypelikeit",
      "confidence": "high"
+    },
+    {
+     "date": "2027-04-10",
+     "title": "SYNCHRONICITY'27",
+     "kind": "フェス",
+     "venue": "渋谷エリア（東京）",
+     "source_url": "https://skream.jp/news/2026/11/synchronicity27_1st_lineup.php",
+     "confidence": "high"
     }
    ]
   },
@@ -18442,6 +18850,14 @@
      "kind": "フェス",
      "venue": "幕張メッセ国際展示場1・2・3ホール（千葉県）",
      "source_url": "https://xhl-music.com/feature/hypelikeit",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-04-10",
+     "title": "SYNCHRONICITY'27",
+     "kind": "フェス",
+     "venue": "渋谷エリア（東京）",
+     "source_url": "https://skream.jp/news/2026/11/synchronicity27_1st_lineup.php",
      "confidence": "high"
     }
    ]
@@ -18610,6 +19026,30 @@
      "venue": "ポートメッセなごや（愛知県）",
      "source_url": "http://www.merryrockparade.jp/artist.html",
      "confidence": "high"
+    },
+    {
+     "date": "2027-01-09",
+     "title": "ROCK IN WINTER",
+     "kind": "フェス",
+     "venue": "名古屋・新栄界隈（Diamond Hall ほか）（愛知県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-02-06",
+     "title": "HERO'S SINGALONG FESTIVAL（2/6）",
+     "kind": "フェス",
+     "venue": "滋賀U☆STONE（大津）（滋賀県）",
+     "source_url": "https://fes.ragnet.co.jp/rock-festival",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-02-07",
+     "title": "HERO'S SINGALONG FESTIVAL（2/7）",
+     "kind": "フェス",
+     "venue": "滋賀U☆STONE（大津）（滋賀県）",
+     "source_url": "https://fes.ragnet.co.jp/rock-festival",
+     "confidence": "high"
     }
    ]
   },
@@ -18657,6 +19097,14 @@
      "venue": "ポートメッセなごや（愛知県）",
      "source_url": "http://www.merryrockparade.jp/artist.html",
      "confidence": "high"
+    },
+    {
+     "date": "2027-02-23",
+     "title": "HANGEKI FES",
+     "kind": "フェス",
+     "venue": "なんばHatch（大阪府）",
+     "source_url": "https://fes.ragnet.co.jp/rock-festival",
+     "confidence": "high"
     }
    ]
   },
@@ -18682,6 +19130,14 @@
      "kind": "フェス",
      "venue": "ポートメッセなごや（愛知県）",
      "source_url": "http://www.merryrockparade.jp/artist.html",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-01-09",
+     "title": "ROCK IN WINTER",
+     "kind": "フェス",
+     "venue": "名古屋・新栄界隈（Diamond Hall ほか）（愛知県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
      "confidence": "high"
     }
    ]
@@ -18729,6 +19185,14 @@
      "kind": "フェス",
      "venue": "INTEX OSAKA（大阪府）",
      "source_url": "https://eplus.jp/radiocrazy2026/",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-01-09",
+     "title": "ROCK IN WINTER",
+     "kind": "フェス",
+     "venue": "名古屋・新栄界隈（Diamond Hall ほか）（愛知県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
      "confidence": "high"
     }
    ]
@@ -20351,6 +20815,14 @@
      "venue": "台中・清水鰲峰山運動公園（台湾）",
      "source_url": "https://natalie.mu/music/news/696450",
      "confidence": "high"
+    },
+    {
+     "date": "2027-01-09",
+     "title": "ROCK IN WINTER",
+     "kind": "フェス",
+     "venue": "名古屋・新栄界隈（Diamond Hall ほか）（愛知県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
     }
    ]
   },
@@ -21173,6 +21645,14 @@
      "venue": "AICHI SKY EXPO（愛知県）",
      "source_url": "https://rumble-jag.jp/",
      "confidence": "low"
+    },
+    {
+     "date": "2027-01-09",
+     "title": "ROCK IN WINTER",
+     "kind": "フェス",
+     "venue": "名古屋・新栄界隈（Diamond Hall ほか）（愛知県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
     }
    ]
   },
@@ -21212,6 +21692,14 @@
      "venue": "幕張メッセ 国際展示場 1～3ホール（千葉）",
      "source_url": "https://www.ragnet.co.jp/rock-festival",
      "confidence": "high"
+    },
+    {
+     "date": "2027-01-09",
+     "title": "ROCK IN WINTER",
+     "kind": "フェス",
+     "venue": "名古屋・新栄界隈（Diamond Hall ほか）（愛知県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
     }
    ]
   },
@@ -21237,6 +21725,14 @@
      "kind": "フェス",
      "venue": "幕張メッセ 国際展示場 1～3ホール（千葉）",
      "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-01-10",
+     "title": "THICK FESTIVAL",
+     "kind": "フェス",
+     "venue": "CLUB CITTA'（川崎）（神奈川県）",
+     "source_url": "https://thickfestival.com/",
      "confidence": "high"
     }
    ]
@@ -21289,6 +21785,14 @@
      "kind": "フェス",
      "venue": "下北沢界隈(複数ライブハウス)（東京都）",
      "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-04-10",
+     "title": "SYNCHRONICITY'27",
+     "kind": "フェス",
+     "venue": "渋谷エリア（東京）",
+     "source_url": "https://skream.jp/news/2026/11/synchronicity27_1st_lineup.php",
      "confidence": "high"
     }
    ]
@@ -21453,6 +21957,14 @@
      "kind": "フェス",
      "venue": "下北沢界隈(複数ライブハウス)（東京都）",
      "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-02-27",
+     "title": "ZERO NEN CIRCUIT 2027",
+     "kind": "フェス",
+     "venue": "心斎橋SUNHALL ほか全9会場（大阪府）",
+     "source_url": "https://fes.ragnet.co.jp/music-festival-winter/10",
      "confidence": "high"
     }
    ]
@@ -22251,6 +22763,14 @@
      "venue": "みずほPayPayドーム福岡（福岡県）",
      "source_url": "https://en.skream.jp/news/2026/10/fukuoka_music_fes_2027_3rd_lineup.php",
      "confidence": "high"
+    },
+    {
+     "date": "2027-01-30",
+     "title": "FUKUOKA MUSIC FES.2027 supported by Trunk",
+     "kind": "フェス",
+     "venue": "みずほPayPayドーム福岡（福岡県）",
+     "source_url": "https://festival-life.com/169244",
+     "confidence": "high"
     }
    ]
   },
@@ -23047,6 +23567,14 @@
      "venue": "LIQUIDROOM（東京都）",
      "source_url": "https://www.timeout.jp/tokyo/ja/news/liquidroom-presents-new-year-festival-2027-111126",
      "confidence": "high"
+    },
+    {
+     "date": "2027-04-10",
+     "title": "SYNCHRONICITY'27",
+     "kind": "フェス",
+     "venue": "渋谷エリア（東京）",
+     "source_url": "https://skream.jp/news/2026/11/synchronicity27_1st_lineup.php",
+     "confidence": "high"
     }
    ]
   },
@@ -23073,6 +23601,14 @@
      "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
      "source_url": "https://idorisefes.jp/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-12",
+     "title": "UTAGE FES",
+     "kind": "フェス",
+     "venue": "代々木公園野外ステージ（東京都）",
+     "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
     }
    ]
   },
@@ -23085,6 +23621,14 @@
      "kind": "フェス",
      "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
      "source_url": "https://idorisefes.jp/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-12",
+     "title": "UTAGE FES",
+     "kind": "フェス",
+     "venue": "代々木公園野外ステージ（東京都）",
+     "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
      "confidence": "high"
     }
    ]
@@ -23138,6 +23682,14 @@
      "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
      "source_url": "https://idorisefes.jp/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-12",
+     "title": "UTAGE FES",
+     "kind": "フェス",
+     "venue": "代々木公園野外ステージ（東京都）",
+     "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
     }
    ]
   },
@@ -23150,6 +23702,14 @@
      "kind": "フェス",
      "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
      "source_url": "https://idorisefes.jp/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-12",
+     "title": "UTAGE FES",
+     "kind": "フェス",
+     "venue": "代々木公園野外ステージ（東京都）",
+     "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
      "confidence": "high"
     }
    ]
@@ -23164,6 +23724,14 @@
      "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
      "source_url": "https://idorisefes.jp/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-12",
+     "title": "UTAGE FES",
+     "kind": "フェス",
+     "venue": "代々木公園野外ステージ（東京都）",
+     "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
     }
    ]
   },
@@ -23176,6 +23744,14 @@
      "kind": "フェス",
      "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
      "source_url": "https://idorisefes.jp/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-12",
+     "title": "UTAGE FES",
+     "kind": "フェス",
+     "venue": "代々木公園野外ステージ（東京都）",
+     "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
      "confidence": "high"
     }
    ]
@@ -23203,6 +23779,14 @@
      "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
      "source_url": "https://idorisefes.jp/",
      "confidence": "high"
+    },
+    {
+     "date": "2027-01-02",
+     "title": "謹賀新年！アイドル初夢ライブ",
+     "kind": "フェス",
+     "venue": "Zepp DiverCity(TOKYO) ほか（東京都）",
+     "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
     }
    ]
   },
@@ -23229,6 +23813,14 @@
      "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
      "source_url": "https://idorisefes.jp/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-12",
+     "title": "UTAGE FES",
+     "kind": "フェス",
+     "venue": "代々木公園野外ステージ（東京都）",
+     "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
     }
    ]
   },
@@ -23241,6 +23833,14 @@
      "kind": "フェス",
      "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
      "source_url": "https://idorisefes.jp/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-12",
+     "title": "UTAGE FES",
+     "kind": "フェス",
+     "venue": "代々木公園野外ステージ（東京都）",
+     "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
      "confidence": "high"
     }
    ]
@@ -23268,6 +23868,22 @@
      "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
      "source_url": "https://idorisefes.jp/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-12",
+     "title": "UTAGE FES",
+     "kind": "フェス",
+     "venue": "代々木公園野外ステージ（東京都）",
+     "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-24",
+     "title": "Idol Xmas Fes",
+     "kind": "フェス",
+     "venue": "横浜アリーナ（神奈川県）",
+     "source_url": "https://idol-xmas-fes.com/",
+     "confidence": "high"
     }
    ]
   },
@@ -23280,6 +23896,14 @@
      "kind": "フェス",
      "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
      "source_url": "https://idorisefes.jp/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-12",
+     "title": "UTAGE FES",
+     "kind": "フェス",
+     "venue": "代々木公園野外ステージ（東京都）",
+     "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
      "confidence": "high"
     }
    ]
@@ -23307,6 +23931,14 @@
      "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
      "source_url": "https://idorisefes.jp/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-12",
+     "title": "UTAGE FES",
+     "kind": "フェス",
+     "venue": "代々木公園野外ステージ（東京都）",
+     "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
     }
    ]
   },
@@ -23320,6 +23952,22 @@
      "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
      "source_url": "https://idorisefes.jp/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-12",
+     "title": "UTAGE FES",
+     "kind": "フェス",
+     "venue": "代々木公園野外ステージ（東京都）",
+     "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-01-02",
+     "title": "謹賀新年！アイドル初夢ライブ",
+     "kind": "フェス",
+     "venue": "Zepp DiverCity(TOKYO) ほか（東京都）",
+     "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
     }
    ]
   },
@@ -23332,6 +23980,14 @@
      "kind": "フェス",
      "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
      "source_url": "https://idorisefes.jp/",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-01-02",
+     "title": "謹賀新年！アイドル初夢ライブ",
+     "kind": "フェス",
+     "venue": "Zepp DiverCity(TOKYO) ほか（東京都）",
+     "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
      "confidence": "high"
     }
    ]
@@ -23424,6 +24080,14 @@
      "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
      "source_url": "https://idorisefes.jp/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-12",
+     "title": "UTAGE FES",
+     "kind": "フェス",
+     "venue": "代々木公園野外ステージ（東京都）",
+     "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
     }
    ]
   },
@@ -23450,6 +24114,14 @@
      "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
      "source_url": "https://idorisefes.jp/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-12",
+     "title": "UTAGE FES",
+     "kind": "フェス",
+     "venue": "代々木公園野外ステージ（東京都）",
+     "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
     }
    ]
   },
@@ -23462,6 +24134,14 @@
      "kind": "フェス",
      "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
      "source_url": "https://idorisefes.jp/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-12",
+     "title": "UTAGE FES",
+     "kind": "フェス",
+     "venue": "代々木公園野外ステージ（東京都）",
+     "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
      "confidence": "high"
     }
    ]
@@ -23579,6 +24259,14 @@
      "kind": "フェス",
      "venue": "立川ステージガーデン（東京都）",
      "source_url": "https://brewingroove.com",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-04-10",
+     "title": "SYNCHRONICITY'27",
+     "kind": "フェス",
+     "venue": "渋谷エリア（東京）",
+     "source_url": "https://skream.jp/news/2026/11/synchronicity27_1st_lineup.php",
      "confidence": "high"
     }
    ]
@@ -23864,6 +24552,14 @@
      "venue": "Zepp Nagoya（愛知県）",
      "source_url": "https://eplus.jp/sf/detail/1999020001-P0030013",
      "confidence": "high"
+    },
+    {
+     "date": "2027-01-09",
+     "title": "ROCK IN WINTER",
+     "kind": "フェス",
+     "venue": "名古屋・新栄界隈（Diamond Hall ほか）（愛知県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
     }
    ]
   },
@@ -24059,6 +24755,14 @@
      "venue": "LIVE SQUARE 2nd LINE（大阪府）",
      "source_url": "https://spice.eplus.jp/articles/350189",
      "confidence": "high"
+    },
+    {
+     "date": "2027-02-27",
+     "title": "ZERO NEN CIRCUIT 2027",
+     "kind": "フェス",
+     "venue": "心斎橋SUNHALL ほか全9会場（大阪府）",
+     "source_url": "https://fes.ragnet.co.jp/music-festival-winter/10",
+     "confidence": "high"
     }
    ]
   },
@@ -24097,6 +24801,14 @@
      "kind": "フェス",
      "venue": "LIVE SQUARE 2nd LINE（大阪府）",
      "source_url": "https://spice.eplus.jp/articles/350189",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-02-27",
+     "title": "ZERO NEN CIRCUIT 2027",
+     "kind": "フェス",
+     "venue": "心斎橋SUNHALL ほか全9会場（大阪府）",
+     "source_url": "https://fes.ragnet.co.jp/music-festival-winter/10",
      "confidence": "high"
     }
    ]
@@ -24163,6 +24875,14 @@
      "venue": "LIVE SQUARE 2nd LINE（大阪府）",
      "source_url": "https://spice.eplus.jp/articles/350189",
      "confidence": "high"
+    },
+    {
+     "date": "2027-01-09",
+     "title": "ROCK IN WINTER",
+     "kind": "フェス",
+     "venue": "名古屋・新栄界隈（Diamond Hall ほか）（愛知県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
     }
    ]
   },
@@ -24175,6 +24895,14 @@
      "kind": "フェス",
      "venue": "LIVE SQUARE 2nd LINE（大阪府）",
      "source_url": "https://spice.eplus.jp/articles/350189",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-01-09",
+     "title": "ROCK IN WINTER",
+     "kind": "フェス",
+     "venue": "名古屋・新栄界隈（Diamond Hall ほか）（愛知県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
      "confidence": "high"
     }
    ]
@@ -24228,6 +24956,14 @@
      "venue": "LIVE SQUARE 2nd LINE（大阪府）",
      "source_url": "https://spice.eplus.jp/articles/350189",
      "confidence": "high"
+    },
+    {
+     "date": "2027-02-07",
+     "title": "HERO'S SINGALONG FESTIVAL（2/7）",
+     "kind": "フェス",
+     "venue": "滋賀U☆STONE（大津）（滋賀県）",
+     "source_url": "https://fes.ragnet.co.jp/rock-festival",
+     "confidence": "high"
     }
    ]
   },
@@ -24253,6 +24989,14 @@
      "kind": "フェス",
      "venue": "LIVE SQUARE 2nd LINE（大阪府）",
      "source_url": "https://spice.eplus.jp/articles/350189",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-01-09",
+     "title": "ROCK IN WINTER",
+     "kind": "フェス",
+     "venue": "名古屋・新栄界隈（Diamond Hall ほか）（愛知県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
      "confidence": "high"
     }
    ]
@@ -24604,6 +25348,14 @@
      "kind": "フェス",
      "venue": "LIVE SQUARE 2nd LINE（大阪府）",
      "source_url": "https://spice.eplus.jp/articles/350189",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-02-27",
+     "title": "ZERO NEN CIRCUIT 2027",
+     "kind": "フェス",
+     "venue": "心斎橋SUNHALL ほか全9会場（大阪府）",
+     "source_url": "https://fes.ragnet.co.jp/music-festival-winter/10",
      "confidence": "high"
     }
    ]
@@ -25033,6 +25785,22 @@
      "kind": "フェス",
      "venue": "Spotify O-EAST / O-WEST / O-nest / O-Crest / duo MUSIC EXCHANGE（東京）",
      "source_url": "https://prtimes.jp/main/html/rd/p/000002551.000002929.html",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-01-09",
+     "title": "ROCK IN WINTER",
+     "kind": "フェス",
+     "venue": "名古屋・新栄界隈（Diamond Hall ほか）（愛知県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-02-06",
+     "title": "HERO'S SINGALONG FESTIVAL（2/6）",
+     "kind": "フェス",
+     "venue": "滋賀U☆STONE（大津）（滋賀県）",
+     "source_url": "https://fes.ragnet.co.jp/rock-festival",
      "confidence": "high"
     }
    ]
@@ -26359,6 +27127,1410 @@
      "kind": "フェス",
      "venue": "東京国際フォーラム ホールA（東京都）",
      "source_url": "https://www.joqr.co.jp/lp/recofes2027/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "輪入道": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SUMIDA BLOCK FESTIVAL",
+     "kind": "フェス",
+     "venue": "隅田公園そよ風ひろば（東京都）",
+     "source_url": "https://sumidablockfes.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "はなび": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SUMIDA BLOCK FESTIVAL",
+     "kind": "フェス",
+     "venue": "隅田公園そよ風ひろば（東京都）",
+     "source_url": "https://sumidablockfes.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "掌幻": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SUMIDA BLOCK FESTIVAL",
+     "kind": "フェス",
+     "venue": "隅田公園そよ風ひろば（東京都）",
+     "source_url": "https://sumidablockfes.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "十影": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SUMIDA BLOCK FESTIVAL",
+     "kind": "フェス",
+     "venue": "隅田公園そよ風ひろば（東京都）",
+     "source_url": "https://sumidablockfes.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "SHO": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SUMIDA BLOCK FESTIVAL",
+     "kind": "フェス",
+     "venue": "隅田公園そよ風ひろば（東京都）",
+     "source_url": "https://sumidablockfes.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ダースレイダー": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SUMIDA BLOCK FESTIVAL",
+     "kind": "フェス",
+     "venue": "隅田公園そよ風ひろば（東京都）",
+     "source_url": "https://sumidablockfes.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "KAMAITACI": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "UTAGE FES",
+     "kind": "フェス",
+     "venue": "代々木公園野外ステージ（東京都）",
+     "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    }
+   ]
+  },
+  "キングサリ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "UTAGE FES",
+     "kind": "フェス",
+     "venue": "代々木公園野外ステージ（東京都）",
+     "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    }
+   ]
+  },
+  "selfish": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "UTAGE FES",
+     "kind": "フェス",
+     "venue": "代々木公園野外ステージ（東京都）",
+     "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Tohkei": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "UTAGE FES",
+     "kind": "フェス",
+     "venue": "代々木公園野外ステージ（東京都）",
+     "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    }
+   ]
+  },
+  "パラディーク": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "UTAGE FES",
+     "kind": "フェス",
+     "venue": "代々木公園野外ステージ（東京都）",
+     "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    }
+   ]
+  },
+  "PIAGRIM": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "UTAGE FES",
+     "kind": "フェス",
+     "venue": "代々木公園野外ステージ（東京都）",
+     "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    }
+   ]
+  },
+  "HIBANA": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "UTAGE FES",
+     "kind": "フェス",
+     "venue": "代々木公園野外ステージ（東京都）",
+     "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ラナキュラ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "UTAGE FES",
+     "kind": "フェス",
+     "venue": "代々木公園野外ステージ（東京都）",
+     "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    }
+   ]
+  },
+  "RePLAY": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "UTAGE FES",
+     "kind": "フェス",
+     "venue": "代々木公園野外ステージ（東京都）",
+     "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Ringwanderung": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "UTAGE FES",
+     "kind": "フェス",
+     "venue": "代々木公園野外ステージ（東京都）",
+     "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    }
+   ]
+  },
+  "QUENTIN COOPER & FLORIANE BLANCKE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "JAPAN CUMBIA FESTIVAL",
+     "kind": "フェス",
+     "venue": "新宿MARZ（東京都）",
+     "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ASTROS DE MENDOZA": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "JAPAN CUMBIA FESTIVAL",
+     "kind": "フェス",
+     "venue": "新宿MARZ（東京都）",
+     "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    }
+   ]
+  },
+  "CARIBBEAN DANDY": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "JAPAN CUMBIA FESTIVAL",
+     "kind": "フェス",
+     "venue": "新宿MARZ（東京都）",
+     "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    }
+   ]
+  },
+  "藤井悟": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "JAPAN CUMBIA FESTIVAL",
+     "kind": "フェス",
+     "venue": "新宿MARZ（東京都）",
+     "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    }
+   ]
+  },
+  "KAZ SUDO": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "JAPAN CUMBIA FESTIVAL",
+     "kind": "フェス",
+     "venue": "新宿MARZ（東京都）",
+     "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    }
+   ]
+  },
+  "AMEMIYA KSK": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "JAPAN CUMBIA FESTIVAL",
+     "kind": "フェス",
+     "venue": "新宿MARZ（東京都）",
+     "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    }
+   ]
+  },
+  "TXAKO": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "JAPAN CUMBIA FESTIVAL",
+     "kind": "フェス",
+     "venue": "新宿MARZ（東京都）",
+     "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    }
+   ]
+  },
+  "TAGOOD": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "JAPAN CUMBIA FESTIVAL",
+     "kind": "フェス",
+     "venue": "新宿MARZ（東京都）",
+     "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    }
+   ]
+  },
+  "MATXA": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "JAPAN CUMBIA FESTIVAL",
+     "kind": "フェス",
+     "venue": "新宿MARZ（東京都）",
+     "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    }
+   ]
+  },
+  "AVAM": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-24",
+     "title": "Idol Xmas Fes",
+     "kind": "フェス",
+     "venue": "横浜アリーナ（神奈川県）",
+     "source_url": "https://idol-xmas-fes.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "虹のコンキスタドール": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-24",
+     "title": "Idol Xmas Fes",
+     "kind": "フェス",
+     "venue": "横浜アリーナ（神奈川県）",
+     "source_url": "https://idol-xmas-fes.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Pixel Ribbon": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-24",
+     "title": "Idol Xmas Fes",
+     "kind": "フェス",
+     "venue": "横浜アリーナ（神奈川県）",
+     "source_url": "https://idol-xmas-fes.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ほくりくアイドル部": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-24",
+     "title": "Idol Xmas Fes",
+     "kind": "フェス",
+     "venue": "横浜アリーナ（神奈川県）",
+     "source_url": "https://idol-xmas-fes.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Maison de Queen": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-24",
+     "title": "Idol Xmas Fes",
+     "kind": "フェス",
+     "venue": "横浜アリーナ（神奈川県）",
+     "source_url": "https://idol-xmas-fes.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "yosugala": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-24",
+     "title": "Idol Xmas Fes",
+     "kind": "フェス",
+     "venue": "横浜アリーナ（神奈川県）",
+     "source_url": "https://idol-xmas-fes.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "@onefive": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-24",
+     "title": "Idol Xmas Fes",
+     "kind": "フェス",
+     "venue": "横浜アリーナ（神奈川県）",
+     "source_url": "https://idol-xmas-fes.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "点染テンセイ少女。": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-24",
+     "title": "Idol Xmas Fes",
+     "kind": "フェス",
+     "venue": "横浜アリーナ（神奈川県）",
+     "source_url": "https://idol-xmas-fes.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Jeremy Quartus(Nulbarich)": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-27",
+     "title": "beat phoenix",
+     "kind": "フェス",
+     "venue": "フェニックス・プラザ エルピス大ホール（福井県）",
+     "source_url": "https://www.beatphoenix.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Maverick Mom": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-27",
+     "title": "beat phoenix",
+     "kind": "フェス",
+     "venue": "フェニックス・プラザ エルピス大ホール（福井県）",
+     "source_url": "https://www.beatphoenix.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "アイドルカレッジ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-02",
+     "title": "謹賀新年！アイドル初夢ライブ",
+     "kind": "フェス",
+     "venue": "Zepp DiverCity(TOKYO) ほか（東京都）",
+     "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    }
+   ]
+  },
+  "AsIs": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-02",
+     "title": "謹賀新年！アイドル初夢ライブ",
+     "kind": "フェス",
+     "venue": "Zepp DiverCity(TOKYO) ほか（東京都）",
+     "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Task have Fun": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-02",
+     "title": "謹賀新年！アイドル初夢ライブ",
+     "kind": "フェス",
+     "venue": "Zepp DiverCity(TOKYO) ほか（東京都）",
+     "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    }
+   ]
+  },
+  "マジカル・パンチライン": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-02",
+     "title": "謹賀新年！アイドル初夢ライブ",
+     "kind": "フェス",
+     "venue": "Zepp DiverCity(TOKYO) ほか（東京都）",
+     "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    }
+   ]
+  },
+  "まねきケチャ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-02",
+     "title": "謹賀新年！アイドル初夢ライブ",
+     "kind": "フェス",
+     "venue": "Zepp DiverCity(TOKYO) ほか（東京都）",
+     "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    }
+   ]
+  },
+  "メイビーME": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-02",
+     "title": "謹賀新年！アイドル初夢ライブ",
+     "kind": "フェス",
+     "venue": "Zepp DiverCity(TOKYO) ほか（東京都）",
+     "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ラフ×ラフ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-02",
+     "title": "謹賀新年！アイドル初夢ライブ",
+     "kind": "フェス",
+     "venue": "Zepp DiverCity(TOKYO) ほか（東京都）",
+     "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    }
+   ]
+  },
+  "市川セカイ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-08",
+     "title": "新春!アヤヲフェス2027（1/8）",
+     "kind": "フェス",
+     "venue": "Live Spot RAG（京都）（京都府）",
+     "source_url": "https://www.ragnet.co.jp/pressrelease-49352178",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ただのささき": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-08",
+     "title": "新春!アヤヲフェス2027（1/8）",
+     "kind": "フェス",
+     "venue": "Live Spot RAG（京都）（京都府）",
+     "source_url": "https://www.ragnet.co.jp/pressrelease-49352178",
+     "confidence": "high"
+    }
+   ]
+  },
+  "YASASHIME＋": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-08",
+     "title": "新春!アヤヲフェス2027（1/8）",
+     "kind": "フェス",
+     "venue": "Live Spot RAG（京都）（京都府）",
+     "source_url": "https://www.ragnet.co.jp/pressrelease-49352178",
+     "confidence": "high"
+    }
+   ]
+  },
+  "佐合井マリ子": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-09",
+     "title": "新春!アヤヲフェス2027（1/9）",
+     "kind": "フェス",
+     "venue": "Live Spot RAG（京都）（京都府）",
+     "source_url": "https://www.ragnet.co.jp/pressrelease-49352178",
+     "confidence": "high"
+    }
+   ]
+  },
+  "五条哲也": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-09",
+     "title": "新春!アヤヲフェス2027（1/9）",
+     "kind": "フェス",
+     "venue": "Live Spot RAG（京都）（京都府）",
+     "source_url": "https://www.ragnet.co.jp/pressrelease-49352178",
+     "confidence": "high"
+    }
+   ]
+  },
+  "五美ひろえ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-09",
+     "title": "新春!アヤヲフェス2027（1/9）",
+     "kind": "フェス",
+     "venue": "Live Spot RAG（京都）（京都府）",
+     "source_url": "https://www.ragnet.co.jp/pressrelease-49352178",
+     "confidence": "high"
+    }
+   ]
+  },
+  "アヤヲクリニック": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-09",
+     "title": "新春!アヤヲフェス2027（1/9）",
+     "kind": "フェス",
+     "venue": "Live Spot RAG（京都）（京都府）",
+     "source_url": "https://www.ragnet.co.jp/pressrelease-49352178",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ゆあさまさや": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-10",
+     "title": "新春!アヤヲフェス2027（1/10）",
+     "kind": "フェス",
+     "venue": "Live Spot RAG（京都）（京都府）",
+     "source_url": "https://www.ragnet.co.jp/pressrelease-49352178",
+     "confidence": "high"
+    }
+   ]
+  },
+  "マグネッツ with Booing Bed": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-10",
+     "title": "新春!アヤヲフェス2027（1/10）",
+     "kind": "フェス",
+     "venue": "Live Spot RAG（京都）（京都府）",
+     "source_url": "https://www.ragnet.co.jp/pressrelease-49352178",
+     "confidence": "high"
+    }
+   ]
+  },
+  "秋吉オサムと砂時計カンパニーズ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-10",
+     "title": "新春!アヤヲフェス2027（1/10）",
+     "kind": "フェス",
+     "venue": "Live Spot RAG（京都）（京都府）",
+     "source_url": "https://www.ragnet.co.jp/pressrelease-49352178",
+     "confidence": "high"
+    }
+   ]
+  },
+  "情熱マリー": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-10",
+     "title": "新春!アヤヲフェス2027（1/10）",
+     "kind": "フェス",
+     "venue": "Live Spot RAG（京都）（京都府）",
+     "source_url": "https://www.ragnet.co.jp/pressrelease-49352178",
+     "confidence": "high"
+    }
+   ]
+  },
+  "河野圭佑": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-11",
+     "title": "新春!アヤヲフェス2027（1/11）",
+     "kind": "フェス",
+     "venue": "Live Spot RAG（京都）（京都府）",
+     "source_url": "https://www.ragnet.co.jp/pressrelease-49352178",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ステシュラ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-11",
+     "title": "新春!アヤヲフェス2027（1/11）",
+     "kind": "フェス",
+     "venue": "Live Spot RAG（京都）（京都府）",
+     "source_url": "https://www.ragnet.co.jp/pressrelease-49352178",
+     "confidence": "high"
+    }
+   ]
+  },
+  "TRASH feat.アヤヲ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-11",
+     "title": "新春!アヤヲフェス2027（1/11）",
+     "kind": "フェス",
+     "venue": "Live Spot RAG（京都）（京都府）",
+     "source_url": "https://www.ragnet.co.jp/pressrelease-49352178",
+     "confidence": "high"
+    }
+   ]
+  },
+  "音速ライン": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-09",
+     "title": "しかロック",
+     "kind": "フェス",
+     "venue": "郡山 #9／PEAK ACTION／M&J（福島県）",
+     "source_url": "https://fes.ragnet.co.jp/rock-festival",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Alaska Jam": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-09",
+     "title": "しかロック",
+     "kind": "フェス",
+     "venue": "郡山 #9／PEAK ACTION／M&J（福島県）",
+     "source_url": "https://fes.ragnet.co.jp/rock-festival",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ウソツキ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-09",
+     "title": "しかロック",
+     "kind": "フェス",
+     "venue": "郡山 #9／PEAK ACTION／M&J（福島県）",
+     "source_url": "https://fes.ragnet.co.jp/rock-festival",
+     "confidence": "high"
+    }
+   ]
+  },
+  "渡辺諒(ANTENA)": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-09",
+     "title": "しかロック",
+     "kind": "フェス",
+     "venue": "郡山 #9／PEAK ACTION／M&J（福島県）",
+     "source_url": "https://fes.ragnet.co.jp/rock-festival",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ハシグチカナデリヤ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-09",
+     "title": "しかロック",
+     "kind": "フェス",
+     "venue": "郡山 #9／PEAK ACTION／M&J（福島県）",
+     "source_url": "https://fes.ragnet.co.jp/rock-festival",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Loojy": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-09",
+     "title": "しかロック",
+     "kind": "フェス",
+     "venue": "郡山 #9／PEAK ACTION／M&J（福島県）",
+     "source_url": "https://fes.ragnet.co.jp/rock-festival",
+     "confidence": "high"
+    }
+   ]
+  },
+  "MANAMI": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-09",
+     "title": "しかロック",
+     "kind": "フェス",
+     "venue": "郡山 #9／PEAK ACTION／M&J（福島県）",
+     "source_url": "https://fes.ragnet.co.jp/rock-festival",
+     "confidence": "high"
+    }
+   ]
+  },
+  "sayuta band": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-09",
+     "title": "しかロック",
+     "kind": "フェス",
+     "venue": "郡山 #9／PEAK ACTION／M&J（福島県）",
+     "source_url": "https://fes.ragnet.co.jp/rock-festival",
+     "confidence": "high"
+    }
+   ]
+  },
+  "旭日東天": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-09",
+     "title": "しかロック",
+     "kind": "フェス",
+     "venue": "郡山 #9／PEAK ACTION／M&J（福島県）",
+     "source_url": "https://fes.ragnet.co.jp/rock-festival",
+     "confidence": "high"
+    }
+   ]
+  },
+  "asmi": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-09",
+     "title": "ROCK IN WINTER",
+     "kind": "フェス",
+     "venue": "名古屋・新栄界隈（Diamond Hall ほか）（愛知県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ちゃくら": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-09",
+     "title": "ROCK IN WINTER",
+     "kind": "フェス",
+     "venue": "名古屋・新栄界隈（Diamond Hall ほか）（愛知県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "EVE OF THE LAIN": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-09",
+     "title": "ROCK IN WINTER",
+     "kind": "フェス",
+     "venue": "名古屋・新栄界隈（Diamond Hall ほか）（愛知県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "kobore": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-09",
+     "title": "ROCK IN WINTER",
+     "kind": "フェス",
+     "venue": "名古屋・新栄界隈（Diamond Hall ほか）（愛知県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "the shes gone": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-09",
+     "title": "ROCK IN WINTER",
+     "kind": "フェス",
+     "venue": "名古屋・新栄界隈（Diamond Hall ほか）（愛知県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ガラクタ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-09",
+     "title": "ROCK IN WINTER",
+     "kind": "フェス",
+     "venue": "名古屋・新栄界隈（Diamond Hall ほか）（愛知県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "セブンス・ベガ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-09",
+     "title": "ROCK IN WINTER",
+     "kind": "フェス",
+     "venue": "名古屋・新栄界隈（Diamond Hall ほか）（愛知県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "フェンス": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-09",
+     "title": "ROCK IN WINTER",
+     "kind": "フェス",
+     "venue": "名古屋・新栄界隈（Diamond Hall ほか）（愛知県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ポルトギース": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-09",
+     "title": "ROCK IN WINTER",
+     "kind": "フェス",
+     "venue": "名古屋・新栄界隈（Diamond Hall ほか）（愛知県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Be my Girl": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-09",
+     "title": "ROCK IN WINTER",
+     "kind": "フェス",
+     "venue": "名古屋・新栄界隈（Diamond Hall ほか）（愛知県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Brown Basket": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-09",
+     "title": "ROCK IN WINTER",
+     "kind": "フェス",
+     "venue": "名古屋・新栄界隈（Diamond Hall ほか）（愛知県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "COPES": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-09",
+     "title": "ROCK IN WINTER",
+     "kind": "フェス",
+     "venue": "名古屋・新栄界隈（Diamond Hall ほか）（愛知県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "RAINCOVER": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-09",
+     "title": "ROCK IN WINTER",
+     "kind": "フェス",
+     "venue": "名古屋・新栄界隈（Diamond Hall ほか）（愛知県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ペルシカリア": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-09",
+     "title": "ROCK IN WINTER",
+     "kind": "フェス",
+     "venue": "名古屋・新栄界隈（Diamond Hall ほか）（愛知県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "SECRET 7 LINE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-10",
+     "title": "THICK FESTIVAL",
+     "kind": "フェス",
+     "venue": "CLUB CITTA'（川崎）（神奈川県）",
+     "source_url": "https://thickfestival.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Boobie Trap": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-10",
+     "title": "THICK FESTIVAL",
+     "kind": "フェス",
+     "venue": "CLUB CITTA'（川崎）（神奈川県）",
+     "source_url": "https://thickfestival.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "EGG BRAIN": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-10",
+     "title": "THICK FESTIVAL",
+     "kind": "フェス",
+     "venue": "CLUB CITTA'（川崎）（神奈川県）",
+     "source_url": "https://thickfestival.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "GOOD4NOTHING": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-10",
+     "title": "THICK FESTIVAL",
+     "kind": "フェス",
+     "venue": "CLUB CITTA'（川崎）（神奈川県）",
+     "source_url": "https://thickfestival.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "HOTSQUALL": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-10",
+     "title": "THICK FESTIVAL",
+     "kind": "フェス",
+     "venue": "CLUB CITTA'（川崎）（神奈川県）",
+     "source_url": "https://thickfestival.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "LAST ALLIANCE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-10",
+     "title": "THICK FESTIVAL",
+     "kind": "フェス",
+     "venue": "CLUB CITTA'（川崎）（神奈川県）",
+     "source_url": "https://thickfestival.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Northern19": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-10",
+     "title": "THICK FESTIVAL",
+     "kind": "フェス",
+     "venue": "CLUB CITTA'（川崎）（神奈川県）",
+     "source_url": "https://thickfestival.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "See You Smile": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-10",
+     "title": "THICK FESTIVAL",
+     "kind": "フェス",
+     "venue": "CLUB CITTA'（川崎）（神奈川県）",
+     "source_url": "https://thickfestival.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "STOMPIN' BIRD": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-10",
+     "title": "THICK FESTIVAL",
+     "kind": "フェス",
+     "venue": "CLUB CITTA'（川崎）（神奈川県）",
+     "source_url": "https://thickfestival.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "THE CLOVERHEARTS": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-10",
+     "title": "THICK FESTIVAL",
+     "kind": "フェス",
+     "venue": "CLUB CITTA'（川崎）（神奈川県）",
+     "source_url": "https://thickfestival.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Kis-My-Ft2": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-31",
+     "title": "FUKUOKA MUSIC FES.2027 supported by Trunk（1/31）",
+     "kind": "フェス",
+     "venue": "みずほPayPayドーム福岡（福岡県）",
+     "source_url": "https://festival-life.com/169244",
+     "confidence": "high"
+    }
+   ]
+  },
+  "渋さ知らズオーケストラ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-04-10",
+     "title": "SYNCHRONICITY'27",
+     "kind": "フェス",
+     "venue": "渋谷エリア（東京）",
+     "source_url": "https://skream.jp/news/2026/11/synchronicity27_1st_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "THE SPELLBOUND × BOOM BOOM SATELLITES": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-04-10",
+     "title": "SYNCHRONICITY'27",
+     "kind": "フェス",
+     "venue": "渋谷エリア（東京）",
+     "source_url": "https://skream.jp/news/2026/11/synchronicity27_1st_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "思い出野郎Aチーム": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-04-10",
+     "title": "SYNCHRONICITY'27",
+     "kind": "フェス",
+     "venue": "渋谷エリア（東京）",
+     "source_url": "https://skream.jp/news/2026/11/synchronicity27_1st_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "toconoma": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-04-10",
+     "title": "SYNCHRONICITY'27",
+     "kind": "フェス",
+     "venue": "渋谷エリア（東京）",
+     "source_url": "https://skream.jp/news/2026/11/synchronicity27_1st_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "fox capture plan": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-04-10",
+     "title": "SYNCHRONICITY'27",
+     "kind": "フェス",
+     "venue": "渋谷エリア（東京）",
+     "source_url": "https://skream.jp/news/2026/11/synchronicity27_1st_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "jizue": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-04-10",
+     "title": "SYNCHRONICITY'27",
+     "kind": "フェス",
+     "venue": "渋谷エリア（東京）",
+     "source_url": "https://skream.jp/news/2026/11/synchronicity27_1st_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "maya ongaku": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-04-10",
+     "title": "SYNCHRONICITY'27",
+     "kind": "フェス",
+     "venue": "渋谷エリア（東京）",
+     "source_url": "https://skream.jp/news/2026/11/synchronicity27_1st_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "NIKO NIKO TAN TAN": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-04-10",
+     "title": "SYNCHRONICITY'27",
+     "kind": "フェス",
+     "venue": "渋谷エリア（東京）",
+     "source_url": "https://skream.jp/news/2026/11/synchronicity27_1st_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Doona": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-04-10",
+     "title": "SYNCHRONICITY'27",
+     "kind": "フェス",
+     "venue": "渋谷エリア（東京）",
+     "source_url": "https://skream.jp/news/2026/11/synchronicity27_1st_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "雪国": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-04-10",
+     "title": "SYNCHRONICITY'27",
+     "kind": "フェス",
+     "venue": "渋谷エリア（東京）",
+     "source_url": "https://skream.jp/news/2026/11/synchronicity27_1st_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "downt": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-04-10",
+     "title": "SYNCHRONICITY'27",
+     "kind": "フェス",
+     "venue": "渋谷エリア（東京）",
+     "source_url": "https://skream.jp/news/2026/11/synchronicity27_1st_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ผ้าอ้อม99999": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-04-10",
+     "title": "SYNCHRONICITY'27",
+     "kind": "フェス",
+     "venue": "渋谷エリア（東京）",
+     "source_url": "https://skream.jp/news/2026/11/synchronicity27_1st_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "New Action!": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-04-10",
+     "title": "SYNCHRONICITY'27",
+     "kind": "フェス",
+     "venue": "渋谷エリア（東京）",
+     "source_url": "https://skream.jp/news/2026/11/synchronicity27_1st_lineup.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "CRYSTAL LAKE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-23",
+     "title": "浜松音球祭2027",
+     "kind": "フェス",
+     "venue": "Live House浜松 窓枠（静岡県）",
+     "source_url": "https://rotten-g.com/live/detail/1287",
+     "confidence": "high"
+    }
+   ]
+  },
+  "WOMCADOLE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-02-07",
+     "title": "HERO'S SINGALONG FESTIVAL（2/7）",
+     "kind": "フェス",
+     "venue": "滋賀U☆STONE（大津）（滋賀県）",
+     "source_url": "https://fes.ragnet.co.jp/rock-festival",
+     "confidence": "high"
+    }
+   ]
+  },
+  "クジラ夜の街": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-02-27",
+     "title": "ZERO NEN CIRCUIT 2027",
+     "kind": "フェス",
+     "venue": "心斎橋SUNHALL ほか全9会場（大阪府）",
+     "source_url": "https://fes.ragnet.co.jp/music-festival-winter/10",
+     "confidence": "high"
+    }
+   ]
+  },
+  "つきみ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-02-27",
+     "title": "ZERO NEN CIRCUIT 2027",
+     "kind": "フェス",
+     "venue": "心斎橋SUNHALL ほか全9会場（大阪府）",
+     "source_url": "https://fes.ragnet.co.jp/music-festival-winter/10",
+     "confidence": "high"
+    }
+   ]
+  },
+  "アンユースレス": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-02-27",
+     "title": "ZERO NEN CIRCUIT 2027",
+     "kind": "フェス",
+     "venue": "心斎橋SUNHALL ほか全9会場（大阪府）",
+     "source_url": "https://fes.ragnet.co.jp/music-festival-winter/10",
      "confidence": "high"
     }
    ]
