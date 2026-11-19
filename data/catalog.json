@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T20:14:08+09:00",
+ "updated": "2026-11-19T20:16:04+09:00",
  "artists": {
   "Saucy Dog": {
    "aliases": [
@@ -20,14 +20,6 @@
      "kind": "フェス",
      "venue": "ポートメッセなごや（愛知県）",
      "source_url": "https://www.merryrockparade.jp/artist.html",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-12-26",
-     "title": "RADIO CRAZY",
-     "kind": "フェス",
-     "venue": "INTEX OSAKA（大阪府）",
-     "source_url": "https://en.skream.jp/news/2026/09/fm802_radio_crazy_2026_1st_lineup.php",
      "confidence": "high"
     },
     {
@@ -81,14 +73,6 @@
      "kind": "フェス",
      "venue": "ポートメッセなごや（愛知県）",
      "source_url": "https://www.merryrockparade.jp/artist.html",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-12-26",
-     "title": "RADIO CRAZY",
-     "kind": "フェス",
-     "venue": "INTEX OSAKA（大阪府）",
-     "source_url": "https://en.skream.jp/news/2026/09/fm802_radio_crazy_2026_1st_lineup.php",
      "confidence": "high"
     },
     {
@@ -179,14 +163,6 @@
      "kind": "フェス",
      "venue": "ポートメッセなごや（愛知県）",
      "source_url": "https://www.merryrockparade.jp/artist.html",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-12-26",
-     "title": "RADIO CRAZY",
-     "kind": "フェス",
-     "venue": "INTEX OSAKA（大阪府）",
-     "source_url": "https://en.skream.jp/news/2026/09/fm802_radio_crazy_2026_1st_lineup.php",
      "confidence": "high"
     },
     {
@@ -293,19 +269,11 @@
      "confidence": "high"
     },
     {
-     "date": "2026-12-26",
-     "title": "COUNTDOWN JAPAN 26/27（12/26・27・29・30・31のいずれか）",
-     "kind": "フェス",
-     "venue": "幕張メッセ 国際展示場（千葉）",
-     "source_url": "https://www.thefirsttimes.jp/news/0000899196/",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-27",
      "title": "COUNTDOWN JAPAN 26/27（12/27）",
      "kind": "フェス",
-     "venue": "幕張メッセ（千葉）",
-     "source_url": "https://festival-life.com/168983",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
      "confidence": "high"
     }
    ]
@@ -335,19 +303,11 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-12-26",
-     "title": "COUNTDOWN JAPAN 26/27（12/26・27・29・30・31のいずれか）",
-     "kind": "フェス",
-     "venue": "幕張メッセ 国際展示場（千葉）",
-     "source_url": "https://www.thefirsttimes.jp/news/0000899196/",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-31",
      "title": "COUNTDOWN JAPAN 26/27（12/31）",
      "kind": "フェス",
-     "venue": "幕張メッセ（千葉）",
-     "source_url": "https://festival-life.com/168983",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
      "confidence": "high"
     }
    ]
@@ -356,19 +316,11 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-12-26",
-     "title": "COUNTDOWN JAPAN 26/27（12/26・27・29・30・31のいずれか）",
-     "kind": "フェス",
-     "venue": "幕張メッセ 国際展示場（千葉）",
-     "source_url": "https://www.thefirsttimes.jp/news/0000899196/",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-30",
      "title": "COUNTDOWN JAPAN 26/27（12/30）",
      "kind": "フェス",
-     "venue": "幕張メッセ（千葉）",
-     "source_url": "https://festival-life.com/168983",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
      "confidence": "high"
     }
    ]
@@ -393,22 +345,6 @@
      "confidence": "high"
     },
     {
-     "date": "2026-12-26",
-     "title": "COUNTDOWN JAPAN 26/27（12/26・27・29・30・31のいずれか）",
-     "kind": "フェス",
-     "venue": "幕張メッセ 国際展示場（千葉）",
-     "source_url": "https://www.thefirsttimes.jp/news/0000899196/",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-12-26",
-     "title": "RADIO CRAZY",
-     "kind": "フェス",
-     "venue": "INTEX OSAKA（大阪府）",
-     "source_url": "https://en.skream.jp/news/2026/09/fm802_radio_crazy_2026_1st_lineup.php",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-27",
      "title": "RADIO CRAZY（12/27）",
      "kind": "フェス",
@@ -420,8 +356,8 @@
      "date": "2026-12-31",
      "title": "COUNTDOWN JAPAN 26/27（12/31）",
      "kind": "フェス",
-     "venue": "幕張メッセ（千葉）",
-     "source_url": "https://festival-life.com/168983",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
      "confidence": "high"
     }
    ]
@@ -430,19 +366,11 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-12-26",
-     "title": "COUNTDOWN JAPAN 26/27（12/26・27・29・30・31のいずれか）",
-     "kind": "フェス",
-     "venue": "幕張メッセ 国際展示場（千葉）",
-     "source_url": "https://www.thefirsttimes.jp/news/0000899196/",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-29",
      "title": "COUNTDOWN JAPAN 26/27（12/29）",
      "kind": "フェス",
-     "venue": "幕張メッセ（千葉）",
-     "source_url": "https://festival-life.com/168983",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
      "confidence": "high"
     }
    ]
@@ -472,19 +400,11 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-12-26",
-     "title": "COUNTDOWN JAPAN 26/27（12/26・27・29・30・31のいずれか）",
-     "kind": "フェス",
-     "venue": "幕張メッセ 国際展示場（千葉）",
-     "source_url": "https://www.thefirsttimes.jp/news/0000899196/",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-30",
      "title": "COUNTDOWN JAPAN 26/27（12/30）",
      "kind": "フェス",
-     "venue": "幕張メッセ（千葉）",
-     "source_url": "https://festival-life.com/168983",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
      "confidence": "high"
     }
    ]
@@ -501,19 +421,11 @@
      "confidence": "high"
     },
     {
-     "date": "2026-12-26",
-     "title": "COUNTDOWN JAPAN 26/27（12/26・27・29・30・31のいずれか）",
-     "kind": "フェス",
-     "venue": "幕張メッセ 国際展示場（千葉）",
-     "source_url": "https://www.thefirsttimes.jp/news/0000899196/",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-27",
      "title": "COUNTDOWN JAPAN 26/27（12/27）",
      "kind": "フェス",
-     "venue": "幕張メッセ（千葉）",
-     "source_url": "https://festival-life.com/168983",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
      "confidence": "high"
     }
    ]
@@ -569,19 +481,11 @@
    ],
    "events": [
     {
-     "date": "2026-12-26",
-     "title": "COUNTDOWN JAPAN 26/27",
-     "kind": "フェス",
-     "venue": "幕張メッセ（千葉県）",
-     "source_url": "https://countdownjapan.jp/",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-29",
      "title": "COUNTDOWN JAPAN 26/27（12/29）",
      "kind": "フェス",
-     "venue": "幕張メッセ（千葉）",
-     "source_url": "https://festival-life.com/168983",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
      "confidence": "high"
     }
    ]
@@ -619,14 +523,6 @@
      "kind": "フェス",
      "venue": "ポートメッセなごや（愛知県）",
      "source_url": "https://www.merryrockparade.jp/artist.html",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-12-26",
-     "title": "COUNTDOWN JAPAN 26/27",
-     "kind": "フェス",
-     "venue": "幕張メッセ（千葉県）",
-     "source_url": "https://countdownjapan.jp/",
      "confidence": "high"
     },
     {
@@ -800,22 +696,6 @@
      "confidence": "high"
     },
     {
-     "date": "2026-12-26",
-     "title": "COUNTDOWN JAPAN 26/27",
-     "kind": "フェス",
-     "venue": "幕張メッセ（千葉県）",
-     "source_url": "https://countdownjapan.jp/",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-12-26",
-     "title": "RADIO CRAZY",
-     "kind": "フェス",
-     "venue": "INTEX OSAKA（大阪府）",
-     "source_url": "https://en.skream.jp/news/2026/09/fm802_radio_crazy_2026_1st_lineup.php",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-28",
      "title": "RADIO CRAZY（12/28）",
      "kind": "フェス",
@@ -948,22 +828,6 @@
      "confidence": "high"
     },
     {
-     "date": "2026-12-26",
-     "title": "COUNTDOWN JAPAN 26/27",
-     "kind": "フェス",
-     "venue": "幕張メッセ（千葉県）",
-     "source_url": "https://countdownjapan.jp/",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-12-26",
-     "title": "RADIO CRAZY",
-     "kind": "フェス",
-     "venue": "INTEX OSAKA（大阪府）",
-     "source_url": "https://en.skream.jp/news/2026/09/fm802_radio_crazy_2026_1st_lineup.php",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-28",
      "title": "RADIO CRAZY（12/28）",
      "kind": "フェス",
@@ -1009,14 +873,6 @@
      "confidence": "high"
     },
     {
-     "date": "2026-12-26",
-     "title": "RADIO CRAZY",
-     "kind": "フェス",
-     "venue": "INTEX OSAKA（大阪府）",
-     "source_url": "https://en.skream.jp/news/2026/09/fm802_radio_crazy_2026_1st_lineup.php",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-28",
      "title": "RADIO CRAZY（12/28）",
      "kind": "フェス",
@@ -1051,14 +907,6 @@
      "kind": "フェス",
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-12-26",
-     "title": "RADIO CRAZY",
-     "kind": "フェス",
-     "venue": "INTEX OSAKA（大阪府）",
-     "source_url": "https://en.skream.jp/news/2026/09/fm802_radio_crazy_2026_1st_lineup.php",
      "confidence": "high"
     },
     {
@@ -1151,14 +999,6 @@
   "Chevon": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-12-26",
-     "title": "RADIO CRAZY",
-     "kind": "フェス",
-     "venue": "INTEX OSAKA（大阪府）",
-     "source_url": "https://en.skream.jp/news/2026/09/fm802_radio_crazy_2026_1st_lineup.php",
-     "confidence": "high"
-    },
     {
      "date": "2026-12-28",
      "title": "RADIO CRAZY（12/28）",
@@ -1340,14 +1180,6 @@
      "kind": "フェス",
      "venue": "ポートメッセなごや（愛知県）",
      "source_url": "https://www.merryrockparade.jp/artist.html",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-12-26",
-     "title": "COUNTDOWN JAPAN 26/27",
-     "kind": "フェス",
-     "venue": "幕張メッセ（千葉県）",
-     "source_url": "https://countdownjapan.jp/",
      "confidence": "high"
     },
     {
@@ -2126,14 +1958,6 @@
    "events": [
     {
      "date": "2026-12-26",
-     "title": "COUNTDOWN JAPAN 26/27",
-     "kind": "フェス",
-     "venue": "幕張メッセ（千葉県）",
-     "source_url": "https://countdownjapan.jp/",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-12-26",
      "title": "MAGIC HOUR FESTIVAL（12/26）",
      "kind": "フェス",
      "venue": "豊洲PIT（東京）",
@@ -2144,8 +1968,8 @@
      "date": "2026-12-29",
      "title": "COUNTDOWN JAPAN 26/27（12/29）",
      "kind": "フェス",
-     "venue": "幕張メッセ（千葉）",
-     "source_url": "https://festival-life.com/168983",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
      "confidence": "high"
     }
    ]
@@ -2159,14 +1983,6 @@
      "kind": "フェス",
      "venue": "ポートメッセなごや（愛知県）",
      "source_url": "https://www.merryrockparade.jp/artist.html",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-12-26",
-     "title": "RADIO CRAZY",
-     "kind": "フェス",
-     "venue": "INTEX OSAKA（大阪府）",
-     "source_url": "https://en.skream.jp/news/2026/09/fm802_radio_crazy_2026_1st_lineup.php",
      "confidence": "high"
     },
     {
@@ -2325,27 +2141,11 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-12-26",
-     "title": "COUNTDOWN JAPAN 26/27",
-     "kind": "フェス",
-     "venue": "幕張メッセ（千葉県）",
-     "source_url": "https://countdownjapan.jp/",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-29",
      "title": "COUNTDOWN JAPAN 26/27（12/29）",
      "kind": "フェス",
-     "venue": "幕張メッセ（千葉）",
-     "source_url": "https://festival-life.com/168983",
-     "confidence": "high"
-    },
-    {
-     "date": "2027-02-11",
-     "title": "ブクロック!フェスティバル",
-     "kind": "フェス",
-     "venue": "幕張メッセ 国際展示場 1～3ホール（千葉）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
      "confidence": "high"
     },
     {
@@ -2354,6 +2154,14 @@
      "kind": "フェス",
      "venue": "CLUB CITTA'（川崎）（神奈川県）",
      "source_url": "https://thickfestival.com/",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-02-11",
+     "title": "ブクロック!フェスティバル",
+     "kind": "フェス",
+     "venue": "幕張メッセ 国際展示場 1～3ホール（千葉）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
      "confidence": "high"
     }
    ]
@@ -2522,14 +2330,6 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-12-26",
-     "title": "RADIO CRAZY",
-     "kind": "フェス",
-     "venue": "INTEX OSAKA（大阪府）",
-     "source_url": "https://en.skream.jp/news/2026/09/fm802_radio_crazy_2026_1st_lineup.php",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-27",
      "title": "RADIO CRAZY（12/27）",
      "kind": "フェス",
@@ -2601,6 +2401,22 @@
      "confidence": "high"
     },
     {
+     "date": "2027-01-09",
+     "title": "ROCK IN WINTER",
+     "kind": "フェス",
+     "venue": "名古屋・新栄界隈（Diamond Hall ほか）（愛知県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-02-06",
+     "title": "でらロックフェスティバル（2/6〜2/7のいずれか）",
+     "kind": "フェス",
+     "venue": "名古屋 新栄・栄・大須のライブハウス15会場以上（愛知県）",
+     "source_url": "https://www.loveinq.com/182782.html",
+     "confidence": "high"
+    },
+    {
      "date": "2027-02-20",
      "title": "浮現祭 EMERGE FEST 2027（出演日未発表）",
      "kind": "フェス",
@@ -2609,11 +2425,11 @@
      "confidence": "high"
     },
     {
-     "date": "2027-01-09",
-     "title": "ROCK IN WINTER",
+     "date": "2027-02-27",
+     "title": "E.L.L.×ZIP-FM FIND OUT『OSU ENCOUNTER 2027』",
      "kind": "フェス",
-     "venue": "名古屋・新栄界隈（Diamond Hall ほか）（愛知県）",
-     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "venue": "Electric Lady Land / ell.FITS ALL / ell.SIZE（名古屋市中区大須）（愛知県）",
+     "source_url": "https://spice.eplus.jp/articles/350442",
      "confidence": "high"
     }
    ]
@@ -3157,19 +2973,11 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-12-26",
-     "title": "COUNTDOWN JAPAN 26/27",
-     "kind": "フェス",
-     "venue": "幕張メッセ（千葉県）",
-     "source_url": "https://countdownjapan.jp/",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-31",
      "title": "COUNTDOWN JAPAN 26/27（12/31）",
      "kind": "フェス",
-     "venue": "幕張メッセ（千葉）",
-     "source_url": "https://festival-life.com/168983",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
      "confidence": "high"
     }
    ]
@@ -3430,6 +3238,14 @@
      "venue": "郡山 #9／PEAK ACTION／M&J（福島県）",
      "source_url": "https://fes.ragnet.co.jp/rock-festival",
      "confidence": "high"
+    },
+    {
+     "date": "2027-02-06",
+     "title": "でらロックフェスティバル（2/6〜2/7のいずれか）",
+     "kind": "フェス",
+     "venue": "名古屋 新栄・栄・大須のライブハウス15会場以上（愛知県）",
+     "source_url": "https://www.loveinq.com/182782.html",
+     "confidence": "high"
     }
    ]
   },
@@ -3590,6 +3406,14 @@
      "kind": "フェス",
      "venue": "名古屋・新栄界隈（Diamond Hall ほか）（愛知県）",
      "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-02-06",
+     "title": "でらロックフェスティバル（2/6〜2/7のいずれか）",
+     "kind": "フェス",
+     "venue": "名古屋 新栄・栄・大須のライブハウス15会場以上（愛知県）",
+     "source_url": "https://www.loveinq.com/182782.html",
      "confidence": "high"
     },
     {
@@ -3761,6 +3585,14 @@
      "venue": "（東京）",
      "source_url": "https://www.ragnet.co.jp/rock-festival",
      "confidence": "low"
+    },
+    {
+     "date": "2027-02-06",
+     "title": "でらロックフェスティバル（2/6〜2/7のいずれか）",
+     "kind": "フェス",
+     "venue": "名古屋 新栄・栄・大須のライブハウス15会場以上（愛知県）",
+     "source_url": "https://www.loveinq.com/182782.html",
+     "confidence": "high"
     }
    ]
   },
@@ -3935,6 +3767,14 @@
      "kind": "フェス",
      "venue": "LIVE SQUARE 2nd LINE（大阪府）",
      "source_url": "https://spice.eplus.jp/articles/350189",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-02-06",
+     "title": "でらロックフェスティバル（2/6〜2/7のいずれか）",
+     "kind": "フェス",
+     "venue": "名古屋 新栄・栄・大須のライブハウス15会場以上（愛知県）",
+     "source_url": "https://www.loveinq.com/182782.html",
      "confidence": "high"
     },
     {
@@ -4222,6 +4062,14 @@
      "venue": "（東京）",
      "source_url": "https://www.ragnet.co.jp/rock-festival",
      "confidence": "low"
+    },
+    {
+     "date": "2027-02-06",
+     "title": "でらロックフェスティバル（2/6〜2/7のいずれか）",
+     "kind": "フェス",
+     "venue": "名古屋 新栄・栄・大須のライブハウス15会場以上（愛知県）",
+     "source_url": "https://www.loveinq.com/182782.html",
+     "confidence": "high"
     }
    ]
   },
@@ -4496,19 +4344,19 @@
      "confidence": "high"
     },
     {
-     "date": "2027-02-11",
-     "title": "ブクロック!フェスティバル",
-     "kind": "フェス",
-     "venue": "（千葉）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "high"
-    },
-    {
      "date": "2027-01-10",
      "title": "THICK FESTIVAL",
      "kind": "フェス",
      "venue": "CLUB CITTA'（川崎）（神奈川県）",
      "source_url": "https://thickfestival.com/",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-02-11",
+     "title": "ブクロック!フェスティバル",
+     "kind": "フェス",
+     "venue": "（千葉）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
      "confidence": "high"
     }
    ]
@@ -4530,6 +4378,14 @@
      "kind": "フェス",
      "venue": "京都パルスプラザ（京都）",
      "source_url": "https://kue.rotten-g.com/26/artist/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-19",
+     "title": "長田大行進曲",
+     "kind": "フェス",
+     "venue": "HoborStudio（神戸市）（兵庫県）",
+     "source_url": "https://spice.eplus.jp/articles/350503",
      "confidence": "high"
     },
     {
@@ -4599,6 +4455,14 @@
      "kind": "フェス",
      "venue": "名古屋・新栄界隈（Diamond Hall ほか）（愛知県）",
      "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-02-06",
+     "title": "でらロックフェスティバル（2/6〜2/7のいずれか）",
+     "kind": "フェス",
+     "venue": "名古屋 新栄・栄・大須のライブハウス15会場以上（愛知県）",
+     "source_url": "https://www.loveinq.com/182782.html",
      "confidence": "high"
     },
     {
@@ -4813,14 +4677,6 @@
   "レキシ": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-12-26",
-     "title": "RADIO CRAZY",
-     "kind": "フェス",
-     "venue": "INTEX OSAKA（大阪府）",
-     "source_url": "https://en.skream.jp/news/2026/09/fm802_radio_crazy_2026_1st_lineup.php",
-     "confidence": "high"
-    },
     {
      "date": "2026-12-27",
      "title": "RADIO CRAZY（12/27）",
@@ -5114,14 +4970,6 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-12-26",
-     "title": "RADIO CRAZY",
-     "kind": "フェス",
-     "venue": "INTEX OSAKA（大阪府）",
-     "source_url": "https://en.skream.jp/news/2026/09/fm802_radio_crazy_2026_1st_lineup.php",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-27",
      "title": "RADIO CRAZY（12/27）",
      "kind": "フェス",
@@ -5285,14 +5133,6 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-12-26",
-     "title": "RADIO CRAZY",
-     "kind": "フェス",
-     "venue": "INTEX OSAKA（大阪府）",
-     "source_url": "https://en.skream.jp/news/2026/09/fm802_radio_crazy_2026_1st_lineup.php",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-27",
      "title": "COUNTDOWN JAPAN 26/27（12/27）",
      "kind": "フェス",
@@ -5382,14 +5222,6 @@
      "kind": "フェス",
      "venue": "ポートメッセなごや（愛知県）",
      "source_url": "https://www.merryrockparade.jp/artist.html",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-12-26",
-     "title": "COUNTDOWN JAPAN 26/27",
-     "kind": "フェス",
-     "venue": "幕張メッセ（千葉県）",
-     "source_url": "https://countdownjapan.jp/",
      "confidence": "high"
     },
     {
@@ -5524,14 +5356,6 @@
      "confidence": "high"
     },
     {
-     "date": "2026-12-26",
-     "title": "RADIO CRAZY",
-     "kind": "フェス",
-     "venue": "INTEX OSAKA（大阪府）",
-     "source_url": "https://en.skream.jp/news/2026/09/fm802_radio_crazy_2026_1st_lineup.php",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-27",
      "title": "RADIO CRAZY（12/27）",
      "kind": "フェス",
@@ -5563,14 +5387,6 @@
      "kind": "フェス",
      "venue": "ポートメッセなごや（愛知県）",
      "source_url": "http://www.merryrockparade.jp/artist.html",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-12-26",
-     "title": "RADIO CRAZY",
-     "kind": "フェス",
-     "venue": "INTEX OSAKA（大阪府）",
-     "source_url": "https://en.skream.jp/news/2026/09/fm802_radio_crazy_2026_1st_lineup.php",
      "confidence": "high"
     },
     {
@@ -5611,14 +5427,6 @@
      "confidence": "high"
     },
     {
-     "date": "2026-12-26",
-     "title": "RADIO CRAZY",
-     "kind": "フェス",
-     "venue": "INTEX OSAKA（大阪府）",
-     "source_url": "https://en.skream.jp/news/2026/09/fm802_radio_crazy_2026_1st_lineup.php",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-27",
      "title": "RADIO CRAZY（12/27）",
      "kind": "フェス",
@@ -5631,14 +5439,6 @@
   "the paddles": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-12-26",
-     "title": "RADIO CRAZY",
-     "kind": "フェス",
-     "venue": "INTEX OSAKA（大阪府）",
-     "source_url": "https://en.skream.jp/news/2026/09/fm802_radio_crazy_2026_1st_lineup.php",
-     "confidence": "high"
-    },
     {
      "date": "2026-12-28",
      "title": "RADIO CRAZY（12/28）",
@@ -5685,14 +5485,6 @@
      "confidence": "high"
     },
     {
-     "date": "2026-12-26",
-     "title": "RADIO CRAZY",
-     "kind": "フェス",
-     "venue": "INTEX OSAKA（大阪府）",
-     "source_url": "https://en.skream.jp/news/2026/09/fm802_radio_crazy_2026_1st_lineup.php",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-28",
      "title": "RADIO CRAZY（12/28）",
      "kind": "フェス",
@@ -5719,14 +5511,6 @@
      "kind": "フェス",
      "venue": "EX THEATER ROPPONGI（東京）",
      "source_url": "https://rock-anthem.jp/",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-12-26",
-     "title": "RADIO CRAZY",
-     "kind": "フェス",
-     "venue": "INTEX OSAKA（大阪府）",
-     "source_url": "https://en.skream.jp/news/2026/09/fm802_radio_crazy_2026_1st_lineup.php",
      "confidence": "high"
     },
     {
@@ -5759,14 +5543,6 @@
      "confidence": "high"
     },
     {
-     "date": "2026-12-26",
-     "title": "RADIO CRAZY",
-     "kind": "フェス",
-     "venue": "INTEX OSAKA（大阪府）",
-     "source_url": "https://en.skream.jp/news/2026/09/fm802_radio_crazy_2026_1st_lineup.php",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-28",
      "title": "RADIO CRAZY（12/28）",
      "kind": "フェス",
@@ -5779,14 +5555,6 @@
   "Lucky Kilimanjaro": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-12-26",
-     "title": "RADIO CRAZY",
-     "kind": "フェス",
-     "venue": "INTEX OSAKA（大阪府）",
-     "source_url": "https://en.skream.jp/news/2026/09/fm802_radio_crazy_2026_1st_lineup.php",
-     "confidence": "high"
-    },
     {
      "date": "2026-12-28",
      "title": "RADIO CRAZY（12/28）",
@@ -5928,19 +5696,19 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-12-28",
-     "title": "NEW HORIZON FEST",
-     "kind": "フェス",
-     "venue": "TOYOTA ARENA TOKYO（東京）",
-     "source_url": "https://eplus.jp/new-horizon-fest/",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-24",
      "title": "Idol Xmas Fes",
      "kind": "フェス",
      "venue": "横浜アリーナ（神奈川県）",
      "source_url": "https://idol-xmas-fes.com/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-28",
+     "title": "NEW HORIZON FEST",
+     "kind": "フェス",
+     "venue": "TOYOTA ARENA TOKYO（東京）",
+     "source_url": "https://eplus.jp/new-horizon-fest/",
      "confidence": "high"
     }
    ]
@@ -7096,14 +6864,6 @@
    "aliases": [],
    "events": [
     {
-     "date": "2027-01-09",
-     "title": "ロックンロールサーカス（1/9）",
-     "kind": "フェス",
-     "venue": "神戸VARIT.ほか（兵庫県）",
-     "source_url": "https://eplus.jp/sf/detail/K000000646",
-     "confidence": "high"
-    },
-    {
      "date": "2027-01-10",
      "title": "ロックンロールサーカス（1/10）",
      "kind": "フェス",
@@ -7372,14 +7132,6 @@
    "aliases": [],
    "events": [
     {
-     "date": "2027-01-09",
-     "title": "ロックンロールサーカス（01/09〜01/10のいずれか）",
-     "kind": "フェス",
-     "venue": "神戸VARIT.ほか（兵庫県）",
-     "source_url": "https://eplus.jp/sf/detail/K000000646",
-     "confidence": "high"
-    },
-    {
      "date": "2027-01-10",
      "title": "ロックンロールサーカス（1/10）",
      "kind": "フェス",
@@ -7444,14 +7196,6 @@
   "THETAROS": {
    "aliases": [],
    "events": [
-    {
-     "date": "2027-01-09",
-     "title": "ロックンロールサーカス（01/09〜01/10のいずれか）",
-     "kind": "フェス",
-     "venue": "神戸VARIT.ほか（兵庫県）",
-     "source_url": "https://eplus.jp/sf/detail/K000000646",
-     "confidence": "high"
-    },
     {
      "date": "2027-01-10",
      "title": "ロックンロールサーカス（1/10）",
@@ -7748,14 +7492,6 @@
      "venue": "神戸VARIT.ほか（兵庫県）",
      "source_url": "https://eplus.jp/sf/detail/K000000646",
      "confidence": "high"
-    },
-    {
-     "date": "2027-01-10",
-     "title": "ロックンロールサーカス（1/10）",
-     "kind": "フェス",
-     "venue": "神戸VARIT.ほか（兵庫県）",
-     "source_url": "https://eplus.jp/sf/detail/K000000646",
-     "confidence": "high"
     }
    ]
   },
@@ -7828,14 +7564,6 @@
    "aliases": [],
    "events": [
     {
-     "date": "2027-01-09",
-     "title": "ロックンロールサーカス（01/09〜01/10のいずれか）",
-     "kind": "フェス",
-     "venue": "神戸VARIT.ほか（兵庫県）",
-     "source_url": "https://eplus.jp/sf/detail/K000000646",
-     "confidence": "high"
-    },
-    {
      "date": "2027-01-10",
      "title": "ロックンロールサーカス（1/10）",
      "kind": "フェス",
@@ -7880,6 +7608,14 @@
      "kind": "フェス",
      "venue": "下北沢界隈(複数ライブハウス)（東京都）",
      "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-19",
+     "title": "長田大行進曲",
+     "kind": "フェス",
+     "venue": "HoborStudio（神戸市）（兵庫県）",
+     "source_url": "https://spice.eplus.jp/articles/350503",
      "confidence": "high"
     },
     {
@@ -7929,6 +7665,14 @@
   "流血ブリザード": {
    "aliases": [],
    "events": [
+    {
+     "date": "2026-12-19",
+     "title": "長田大行進曲",
+     "kind": "フェス",
+     "venue": "HoborStudio（神戸市）（兵庫県）",
+     "source_url": "https://spice.eplus.jp/articles/350503",
+     "confidence": "high"
+    },
     {
      "date": "2027-01-09",
      "title": "ロックンロールサーカス（1/9）",
@@ -8907,6 +8651,14 @@
      "venue": "（大阪）",
      "source_url": "https://pkshampoo.jp/psychicfes/artist.html",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-19",
+     "title": "長田大行進曲",
+     "kind": "フェス",
+     "venue": "HoborStudio（神戸市）（兵庫県）",
+     "source_url": "https://spice.eplus.jp/articles/350503",
+     "confidence": "high"
     }
    ]
   },
@@ -9153,6 +8905,14 @@
      "venue": "下北沢界隈(複数ライブハウス)（東京都）",
      "source_url": "https://www.ragnet.co.jp/music-festival-winter",
      "confidence": "high"
+    },
+    {
+     "date": "2027-02-06",
+     "title": "でらロックフェスティバル（2/6〜2/7のいずれか）",
+     "kind": "フェス",
+     "venue": "名古屋 新栄・栄・大須のライブハウス15会場以上（愛知県）",
+     "source_url": "https://www.loveinq.com/182782.html",
+     "confidence": "high"
     }
    ]
   },
@@ -9394,6 +9154,14 @@
      "kind": "フェス",
      "venue": "大阪城音楽堂（大阪）",
      "source_url": "https://tiget.net/events/487908",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-02-06",
+     "title": "でらロックフェスティバル（2/6〜2/7のいずれか）",
+     "kind": "フェス",
+     "venue": "名古屋 新栄・栄・大須のライブハウス15会場以上（愛知県）",
+     "source_url": "https://www.loveinq.com/182782.html",
      "confidence": "high"
     }
    ]
@@ -10301,6 +10069,14 @@
      "kind": "フェス",
      "venue": "LIVE SQUARE 2nd LINE（大阪府）",
      "source_url": "https://spice.eplus.jp/articles/350189",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-01-23",
+     "title": "ゼロフェス2027（川崎）",
+     "kind": "フェス",
+     "venue": "川崎CLUB CITTA'（神奈川県）",
+     "source_url": "https://eplus.jp/zerofes27/",
      "confidence": "high"
     },
     {
@@ -11282,6 +11058,14 @@
      "venue": "ポートメッセなごや（愛知県）",
      "source_url": "http://www.merryrockparade.jp/artist.html",
      "confidence": "high"
+    },
+    {
+     "date": "2027-02-27",
+     "title": "E.L.L.×ZIP-FM FIND OUT『OSU ENCOUNTER 2027』",
+     "kind": "フェス",
+     "venue": "Electric Lady Land / ell.FITS ALL / ell.SIZE（名古屋市中区大須）（愛知県）",
+     "source_url": "https://spice.eplus.jp/articles/350442",
+     "confidence": "high"
     }
    ]
   },
@@ -11344,6 +11128,14 @@
      "kind": "フェス",
      "venue": "LIVE SQUARE 2nd LINE（大阪府）",
      "source_url": "https://spice.eplus.jp/articles/350189",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-02-06",
+     "title": "でらロックフェスティバル（2/6〜2/7のいずれか）",
+     "kind": "フェス",
+     "venue": "名古屋 新栄・栄・大須のライブハウス15会場以上（愛知県）",
+     "source_url": "https://www.loveinq.com/182782.html",
      "confidence": "high"
     }
    ]
@@ -11451,6 +11243,14 @@
      "confidence": "high"
     },
     {
+     "date": "2027-02-06",
+     "title": "でらロックフェスティバル（2/6〜2/7のいずれか）",
+     "kind": "フェス",
+     "venue": "名古屋 新栄・栄・大須のライブハウス15会場以上（愛知県）",
+     "source_url": "https://www.loveinq.com/182782.html",
+     "confidence": "high"
+    },
+    {
      "date": "2027-02-11",
      "title": "ブクロック!フェスティバル",
      "kind": "フェス",
@@ -11542,6 +11342,14 @@
      "kind": "フェス",
      "venue": "下北沢界隈(複数ライブハウス)（東京都）",
      "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-02-06",
+     "title": "でらロックフェスティバル（2/6〜2/7のいずれか）",
+     "kind": "フェス",
+     "venue": "名古屋 新栄・栄・大須のライブハウス15会場以上（愛知県）",
+     "source_url": "https://www.loveinq.com/182782.html",
      "confidence": "high"
     },
     {
@@ -11701,6 +11509,14 @@
      "kind": "フェス",
      "venue": "下北沢界隈(複数ライブハウス)（東京都）",
      "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-02-06",
+     "title": "でらロックフェスティバル（2/6〜2/7のいずれか）",
+     "kind": "フェス",
+     "venue": "名古屋 新栄・栄・大須のライブハウス15会場以上（愛知県）",
+     "source_url": "https://www.loveinq.com/182782.html",
      "confidence": "high"
     },
     {
@@ -12182,6 +11998,14 @@
      "venue": "Spotify O-EAST / O-WEST / O-nest / O-Crest / duo MUSIC EXCHANGE（東京）",
      "source_url": "https://prtimes.jp/main/html/rd/p/000002551.000002929.html",
      "confidence": "high"
+    },
+    {
+     "date": "2027-02-06",
+     "title": "でらロックフェスティバル（2/6〜2/7のいずれか）",
+     "kind": "フェス",
+     "venue": "名古屋 新栄・栄・大須のライブハウス15会場以上（愛知県）",
+     "source_url": "https://www.loveinq.com/182782.html",
+     "confidence": "high"
     }
    ]
   },
@@ -12286,6 +12110,14 @@
      "kind": "フェス",
      "venue": "LIVE SQUARE 2nd LINE（大阪府）",
      "source_url": "https://spice.eplus.jp/articles/350189",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-02-06",
+     "title": "でらロックフェスティバル（2/6〜2/7のいずれか）",
+     "kind": "フェス",
+     "venue": "名古屋 新栄・栄・大須のライブハウス15会場以上（愛知県）",
+     "source_url": "https://www.loveinq.com/182782.html",
      "confidence": "high"
     }
    ]
@@ -13164,6 +12996,14 @@
      "confidence": "high"
     },
     {
+     "date": "2027-02-06",
+     "title": "でらロックフェスティバル（2/6〜2/7のいずれか）",
+     "kind": "フェス",
+     "venue": "名古屋 新栄・栄・大須のライブハウス15会場以上（愛知県）",
+     "source_url": "https://www.loveinq.com/182782.html",
+     "confidence": "high"
+    },
+    {
      "date": "2027-02-27",
      "title": "ZERO NEN CIRCUIT 2027",
      "kind": "フェス",
@@ -13229,6 +13069,14 @@
      "kind": "フェス",
      "venue": "LIVE SQUARE 2nd LINE（大阪府）",
      "source_url": "https://spice.eplus.jp/articles/350189",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-02-06",
+     "title": "でらロックフェスティバル（2/6〜2/7のいずれか）",
+     "kind": "フェス",
+     "venue": "名古屋 新栄・栄・大須のライブハウス15会場以上（愛知県）",
+     "source_url": "https://www.loveinq.com/182782.html",
      "confidence": "high"
     }
    ]
@@ -15307,6 +15155,14 @@
      "venue": "下北沢ライブハウス9店舗（東京都）",
      "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
      "confidence": "high"
+    },
+    {
+     "date": "2027-02-06",
+     "title": "でらロックフェスティバル（2/6〜2/7のいずれか）",
+     "kind": "フェス",
+     "venue": "名古屋 新栄・栄・大須のライブハウス15会場以上（愛知県）",
+     "source_url": "https://www.loveinq.com/182782.html",
+     "confidence": "high"
     }
    ]
   },
@@ -15730,6 +15586,14 @@
      "kind": "フェス",
      "venue": "下北沢ライブハウス9店舗（東京都）",
      "source_url": "https://eplus.jp/sf/detail/4597140001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-02-06",
+     "title": "でらロックフェスティバル（2/6〜2/7のいずれか）",
+     "kind": "フェス",
+     "venue": "名古屋 新栄・栄・大須のライブハウス15会場以上（愛知県）",
+     "source_url": "https://www.loveinq.com/182782.html",
      "confidence": "high"
     }
    ]
@@ -16866,19 +16730,19 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-12-27",
-     "title": "COUNTDOWN JAPAN 26/27（12/27）",
-     "kind": "フェス",
-     "venue": "幕張メッセ（千葉県）",
-     "source_url": "https://countdownjapan.jp/",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-24",
      "title": "Idol Xmas Fes",
      "kind": "フェス",
      "venue": "横浜アリーナ（神奈川県）",
      "source_url": "https://idol-xmas-fes.com/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "COUNTDOWN JAPAN 26/27（12/27）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
      "confidence": "high"
     }
    ]
@@ -16994,6 +16858,14 @@
      "kind": "フェス",
      "venue": "幕張メッセ（千葉県）",
      "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-01-23",
+     "title": "ゼロフェス2027（川崎）",
+     "kind": "フェス",
+     "venue": "川崎CLUB CITTA'（神奈川県）",
+     "source_url": "https://eplus.jp/zerofes27/",
      "confidence": "high"
     },
     {
@@ -17131,6 +17003,14 @@
      "venue": "幕張メッセ（千葉県）",
      "source_url": "https://countdownjapan.jp/",
      "confidence": "high"
+    },
+    {
+     "date": "2027-01-23",
+     "title": "ゼロフェス2027（川崎）",
+     "kind": "フェス",
+     "venue": "川崎CLUB CITTA'（神奈川県）",
+     "source_url": "https://eplus.jp/zerofes27/",
+     "confidence": "high"
     }
    ]
   },
@@ -17227,6 +17107,14 @@
      "confidence": "high"
     },
     {
+     "date": "2027-01-23",
+     "title": "ゼロフェス2027（川崎）",
+     "kind": "フェス",
+     "venue": "川崎CLUB CITTA'（神奈川県）",
+     "source_url": "https://eplus.jp/zerofes27/",
+     "confidence": "high"
+    },
+    {
      "date": "2027-02-07",
      "title": "ゼロフェス2027",
      "kind": "フェス",
@@ -17282,6 +17170,14 @@
      "kind": "フェス",
      "venue": "幕張メッセ（千葉県）",
      "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-01-23",
+     "title": "ゼロフェス2027（川崎）",
+     "kind": "フェス",
+     "venue": "川崎CLUB CITTA'（神奈川県）",
+     "source_url": "https://eplus.jp/zerofes27/",
      "confidence": "high"
     },
     {
@@ -17431,11 +17327,27 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-12-19",
+     "title": "長田大行進曲",
+     "kind": "フェス",
+     "venue": "HoborStudio（神戸市）（兵庫県）",
+     "source_url": "https://spice.eplus.jp/articles/350503",
+     "confidence": "high"
+    },
+    {
      "date": "2027-01-10",
      "title": "ロックンロールサーカス（1/10）",
      "kind": "フェス",
      "venue": "神戸VARIT.ほか（兵庫県）",
      "source_url": "https://eplus.jp/sf/detail/K000000646",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-02-06",
+     "title": "でらロックフェスティバル（2/6〜2/7のいずれか）",
+     "kind": "フェス",
+     "venue": "名古屋 新栄・栄・大須のライブハウス15会場以上（愛知県）",
+     "source_url": "https://www.loveinq.com/182782.html",
      "confidence": "high"
     },
     {
@@ -19134,6 +19046,14 @@
      "venue": "名古屋・新栄界隈（Diamond Hall ほか）（愛知県）",
      "source_url": "https://www.ragnet.co.jp/music-festival-winter",
      "confidence": "high"
+    },
+    {
+     "date": "2027-02-27",
+     "title": "E.L.L.×ZIP-FM FIND OUT『OSU ENCOUNTER 2027』",
+     "kind": "フェス",
+     "venue": "Electric Lady Land / ell.FITS ALL / ell.SIZE（名古屋市中区大須）（愛知県）",
+     "source_url": "https://spice.eplus.jp/articles/350442",
+     "confidence": "high"
     }
    ]
   },
@@ -19227,6 +19147,14 @@
      "kind": "フェス",
      "venue": "INTEX OSAKA（大阪府）",
      "source_url": "https://eplus.jp/radiocrazy2026/",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-02-06",
+     "title": "でらロックフェスティバル（2/6〜2/7のいずれか）",
+     "kind": "フェス",
+     "venue": "名古屋 新栄・栄・大須のライブハウス15会場以上（愛知県）",
+     "source_url": "https://www.loveinq.com/182782.html",
      "confidence": "high"
     }
    ]
@@ -20900,19 +20828,27 @@
    "aliases": [],
    "events": [
     {
-     "date": "2027-02-20",
-     "title": "浮現祭 EMERGE FEST 2027（出演日未発表）",
-     "kind": "フェス",
-     "venue": "台中・清水鰲峰山運動公園（台湾）",
-     "source_url": "https://natalie.mu/music/news/696450",
-     "confidence": "high"
-    },
-    {
      "date": "2027-01-09",
      "title": "ROCK IN WINTER",
      "kind": "フェス",
      "venue": "名古屋・新栄界隈（Diamond Hall ほか）（愛知県）",
      "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-02-06",
+     "title": "でらロックフェスティバル（2/6〜2/7のいずれか）",
+     "kind": "フェス",
+     "venue": "名古屋 新栄・栄・大須のライブハウス15会場以上（愛知県）",
+     "source_url": "https://www.loveinq.com/182782.html",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-02-20",
+     "title": "浮現祭 EMERGE FEST 2027（出演日未発表）",
+     "kind": "フェス",
+     "venue": "台中・清水鰲峰山運動公園（台湾）",
+     "source_url": "https://natalie.mu/music/news/696450",
      "confidence": "high"
     }
    ]
@@ -21722,6 +21658,14 @@
    "aliases": [],
    "events": [
     {
+     "date": "2027-01-09",
+     "title": "ROCK IN WINTER",
+     "kind": "フェス",
+     "venue": "名古屋・新栄界隈（Diamond Hall ほか）（愛知県）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    },
+    {
      "date": "2027-02-11",
      "title": "ブクロック!フェスティバル",
      "kind": "フェス",
@@ -21736,14 +21680,6 @@
      "venue": "AICHI SKY EXPO（愛知県）",
      "source_url": "https://rumble-jag.jp/",
      "confidence": "low"
-    },
-    {
-     "date": "2027-01-09",
-     "title": "ROCK IN WINTER",
-     "kind": "フェス",
-     "venue": "名古屋・新栄界隈（Diamond Hall ほか）（愛知県）",
-     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
-     "confidence": "high"
     }
    ]
   },
@@ -21764,6 +21700,14 @@
    "aliases": [],
    "events": [
     {
+     "date": "2027-02-06",
+     "title": "でらロックフェスティバル（2/6〜2/7のいずれか）",
+     "kind": "フェス",
+     "venue": "名古屋 新栄・栄・大須のライブハウス15会場以上（愛知県）",
+     "source_url": "https://www.loveinq.com/182782.html",
+     "confidence": "high"
+    },
+    {
      "date": "2027-02-11",
      "title": "ブクロック!フェスティバル",
      "kind": "フェス",
@@ -21777,19 +21721,19 @@
    "aliases": [],
    "events": [
     {
-     "date": "2027-02-11",
-     "title": "ブクロック!フェスティバル",
-     "kind": "フェス",
-     "venue": "幕張メッセ 国際展示場 1～3ホール（千葉）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "high"
-    },
-    {
      "date": "2027-01-09",
      "title": "ROCK IN WINTER",
      "kind": "フェス",
      "venue": "名古屋・新栄界隈（Diamond Hall ほか）（愛知県）",
      "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-02-11",
+     "title": "ブクロック!フェスティバル",
+     "kind": "フェス",
+     "venue": "幕張メッセ 国際展示場 1～3ホール（千葉）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
      "confidence": "high"
     }
    ]
@@ -21811,19 +21755,19 @@
    "aliases": [],
    "events": [
     {
-     "date": "2027-02-11",
-     "title": "ブクロック!フェスティバル",
-     "kind": "フェス",
-     "venue": "幕張メッセ 国際展示場 1～3ホール（千葉）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "high"
-    },
-    {
      "date": "2027-01-10",
      "title": "THICK FESTIVAL",
      "kind": "フェス",
      "venue": "CLUB CITTA'（川崎）（神奈川県）",
      "source_url": "https://thickfestival.com/",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-02-11",
+     "title": "ブクロック!フェスティバル",
+     "kind": "フェス",
+     "venue": "幕張メッセ 国際展示場 1～3ホール（千葉）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
      "confidence": "high"
     }
    ]
@@ -21831,6 +21775,14 @@
   "虎の子ラミー": {
    "aliases": [],
    "events": [
+    {
+     "date": "2027-02-06",
+     "title": "でらロックフェスティバル（2/6〜2/7のいずれか）",
+     "kind": "フェス",
+     "venue": "名古屋 新栄・栄・大須のライブハウス15会場以上（愛知県）",
+     "source_url": "https://www.loveinq.com/182782.html",
+     "confidence": "high"
+    },
     {
      "date": "2027-02-11",
      "title": "ブクロック!フェスティバル",
@@ -23686,19 +23638,19 @@
    "aliases": [],
    "events": [
     {
-     "date": "2027-03-13",
-     "title": "IDORISE!! FESTIVAL 2027",
-     "kind": "フェス",
-     "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
-     "source_url": "https://idorisefes.jp/",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-12",
      "title": "UTAGE FES",
      "kind": "フェス",
      "venue": "代々木公園野外ステージ（東京都）",
      "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
+     "source_url": "https://idorisefes.jp/",
      "confidence": "high"
     }
    ]
@@ -23707,19 +23659,19 @@
    "aliases": [],
    "events": [
     {
-     "date": "2027-03-13",
-     "title": "IDORISE!! FESTIVAL 2027",
-     "kind": "フェス",
-     "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
-     "source_url": "https://idorisefes.jp/",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-12",
      "title": "UTAGE FES",
      "kind": "フェス",
      "venue": "代々木公園野外ステージ（東京都）",
      "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
+     "source_url": "https://idorisefes.jp/",
      "confidence": "high"
     }
    ]
@@ -23767,19 +23719,19 @@
    "aliases": [],
    "events": [
     {
-     "date": "2027-03-13",
-     "title": "IDORISE!! FESTIVAL 2027",
-     "kind": "フェス",
-     "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
-     "source_url": "https://idorisefes.jp/",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-12",
      "title": "UTAGE FES",
      "kind": "フェス",
      "venue": "代々木公園野外ステージ（東京都）",
      "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
+     "source_url": "https://idorisefes.jp/",
      "confidence": "high"
     }
    ]
@@ -23788,19 +23740,19 @@
    "aliases": [],
    "events": [
     {
-     "date": "2027-03-13",
-     "title": "IDORISE!! FESTIVAL 2027",
-     "kind": "フェス",
-     "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
-     "source_url": "https://idorisefes.jp/",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-12",
      "title": "UTAGE FES",
      "kind": "フェス",
      "venue": "代々木公園野外ステージ（東京都）",
      "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
+     "source_url": "https://idorisefes.jp/",
      "confidence": "high"
     }
    ]
@@ -23809,19 +23761,19 @@
    "aliases": [],
    "events": [
     {
-     "date": "2027-03-13",
-     "title": "IDORISE!! FESTIVAL 2027",
-     "kind": "フェス",
-     "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
-     "source_url": "https://idorisefes.jp/",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-12",
      "title": "UTAGE FES",
      "kind": "フェス",
      "venue": "代々木公園野外ステージ（東京都）",
      "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
+     "source_url": "https://idorisefes.jp/",
      "confidence": "high"
     }
    ]
@@ -23830,19 +23782,19 @@
    "aliases": [],
    "events": [
     {
-     "date": "2027-03-13",
-     "title": "IDORISE!! FESTIVAL 2027",
-     "kind": "フェス",
-     "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
-     "source_url": "https://idorisefes.jp/",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-12",
      "title": "UTAGE FES",
      "kind": "フェス",
      "venue": "代々木公園野外ステージ（東京都）",
      "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
+     "source_url": "https://idorisefes.jp/",
      "confidence": "high"
     }
    ]
@@ -23864,19 +23816,19 @@
    "aliases": [],
    "events": [
     {
-     "date": "2027-03-13",
-     "title": "IDORISE!! FESTIVAL 2027",
-     "kind": "フェス",
-     "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
-     "source_url": "https://idorisefes.jp/",
-     "confidence": "high"
-    },
-    {
      "date": "2027-01-02",
      "title": "謹賀新年！アイドル初夢ライブ",
      "kind": "フェス",
      "venue": "Zepp DiverCity(TOKYO) ほか（東京都）",
      "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
+     "source_url": "https://idorisefes.jp/",
      "confidence": "high"
     }
    ]
@@ -23898,19 +23850,27 @@
    "aliases": [],
    "events": [
     {
-     "date": "2027-03-13",
-     "title": "IDORISE!! FESTIVAL 2027",
-     "kind": "フェス",
-     "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
-     "source_url": "https://idorisefes.jp/",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-12",
      "title": "UTAGE FES",
      "kind": "フェス",
      "venue": "代々木公園野外ステージ（東京都）",
      "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-02-06",
+     "title": "でらロックフェスティバル（2/6〜2/7のいずれか）",
+     "kind": "フェス",
+     "venue": "名古屋 新栄・栄・大須のライブハウス15会場以上（愛知県）",
+     "source_url": "https://www.loveinq.com/182782.html",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
+     "source_url": "https://idorisefes.jp/",
      "confidence": "high"
     }
    ]
@@ -23919,19 +23879,19 @@
    "aliases": [],
    "events": [
     {
-     "date": "2027-03-13",
-     "title": "IDORISE!! FESTIVAL 2027",
-     "kind": "フェス",
-     "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
-     "source_url": "https://idorisefes.jp/",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-12",
      "title": "UTAGE FES",
      "kind": "フェス",
      "venue": "代々木公園野外ステージ（東京都）",
      "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
+     "source_url": "https://idorisefes.jp/",
      "confidence": "high"
     }
    ]
@@ -23953,14 +23913,6 @@
    "aliases": [],
    "events": [
     {
-     "date": "2027-03-13",
-     "title": "IDORISE!! FESTIVAL 2027",
-     "kind": "フェス",
-     "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
-     "source_url": "https://idorisefes.jp/",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-12",
      "title": "UTAGE FES",
      "kind": "フェス",
@@ -23975,12 +23927,7 @@
      "venue": "横浜アリーナ（神奈川県）",
      "source_url": "https://idol-xmas-fes.com/",
      "confidence": "high"
-    }
-   ]
-  },
-  "衛星とカラテア": {
-   "aliases": [],
-   "events": [
+    },
     {
      "date": "2027-03-13",
      "title": "IDORISE!! FESTIVAL 2027",
@@ -23988,13 +23935,26 @@
      "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
      "source_url": "https://idorisefes.jp/",
      "confidence": "high"
-    },
+    }
+   ]
+  },
+  "衛星とカラテア": {
+   "aliases": [],
+   "events": [
     {
      "date": "2026-12-12",
      "title": "UTAGE FES",
      "kind": "フェス",
      "venue": "代々木公園野外ステージ（東京都）",
      "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
+     "source_url": "https://idorisefes.jp/",
      "confidence": "high"
     }
    ]
@@ -24016,19 +23976,19 @@
    "aliases": [],
    "events": [
     {
-     "date": "2027-03-13",
-     "title": "IDORISE!! FESTIVAL 2027",
-     "kind": "フェス",
-     "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
-     "source_url": "https://idorisefes.jp/",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-12",
      "title": "UTAGE FES",
      "kind": "フェス",
      "venue": "代々木公園野外ステージ（東京都）",
      "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
+     "source_url": "https://idorisefes.jp/",
      "confidence": "high"
     }
    ]
@@ -24037,14 +23997,6 @@
    "aliases": [],
    "events": [
     {
-     "date": "2027-03-13",
-     "title": "IDORISE!! FESTIVAL 2027",
-     "kind": "フェス",
-     "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
-     "source_url": "https://idorisefes.jp/",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-12",
      "title": "UTAGE FES",
      "kind": "フェス",
@@ -24059,12 +24011,7 @@
      "venue": "Zepp DiverCity(TOKYO) ほか（東京都）",
      "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
      "confidence": "high"
-    }
-   ]
-  },
-  "Peel the Apple": {
-   "aliases": [],
-   "events": [
+    },
     {
      "date": "2027-03-13",
      "title": "IDORISE!! FESTIVAL 2027",
@@ -24072,13 +24019,26 @@
      "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
      "source_url": "https://idorisefes.jp/",
      "confidence": "high"
-    },
+    }
+   ]
+  },
+  "Peel the Apple": {
+   "aliases": [],
+   "events": [
     {
      "date": "2027-01-02",
      "title": "謹賀新年！アイドル初夢ライブ",
      "kind": "フェス",
      "venue": "Zepp DiverCity(TOKYO) ほか（東京都）",
      "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
+     "source_url": "https://idorisefes.jp/",
      "confidence": "high"
     }
    ]
@@ -24165,19 +24125,19 @@
    "aliases": [],
    "events": [
     {
-     "date": "2027-03-13",
-     "title": "IDORISE!! FESTIVAL 2027",
-     "kind": "フェス",
-     "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
-     "source_url": "https://idorisefes.jp/",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-12",
      "title": "UTAGE FES",
      "kind": "フェス",
      "venue": "代々木公園野外ステージ（東京都）",
      "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
+     "source_url": "https://idorisefes.jp/",
      "confidence": "high"
     }
    ]
@@ -24199,19 +24159,19 @@
    "aliases": [],
    "events": [
     {
-     "date": "2027-03-13",
-     "title": "IDORISE!! FESTIVAL 2027",
-     "kind": "フェス",
-     "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
-     "source_url": "https://idorisefes.jp/",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-12",
      "title": "UTAGE FES",
      "kind": "フェス",
      "venue": "代々木公園野外ステージ（東京都）",
      "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
+     "source_url": "https://idorisefes.jp/",
      "confidence": "high"
     }
    ]
@@ -24220,19 +24180,19 @@
    "aliases": [],
    "events": [
     {
-     "date": "2027-03-13",
-     "title": "IDORISE!! FESTIVAL 2027",
-     "kind": "フェス",
-     "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
-     "source_url": "https://idorisefes.jp/",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-12",
      "title": "UTAGE FES",
      "kind": "フェス",
      "venue": "代々木公園野外ステージ（東京都）",
      "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
+     "source_url": "https://idorisefes.jp/",
      "confidence": "high"
     }
    ]
@@ -24850,6 +24810,14 @@
      "confidence": "high"
     },
     {
+     "date": "2027-02-06",
+     "title": "でらロックフェスティバル（2/6〜2/7のいずれか）",
+     "kind": "フェス",
+     "venue": "名古屋 新栄・栄・大須のライブハウス15会場以上（愛知県）",
+     "source_url": "https://www.loveinq.com/182782.html",
+     "confidence": "high"
+    },
+    {
      "date": "2027-02-27",
      "title": "ZERO NEN CIRCUIT 2027",
      "kind": "フェス",
@@ -24894,6 +24862,14 @@
      "kind": "フェス",
      "venue": "LIVE SQUARE 2nd LINE（大阪府）",
      "source_url": "https://spice.eplus.jp/articles/350189",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-02-06",
+     "title": "でらロックフェスティバル（2/6〜2/7のいずれか）",
+     "kind": "フェス",
+     "venue": "名古屋 新栄・栄・大須のライブハウス15会場以上（愛知県）",
+     "source_url": "https://www.loveinq.com/182782.html",
      "confidence": "high"
     },
     {
@@ -25051,6 +25027,14 @@
      "confidence": "high"
     },
     {
+     "date": "2027-02-06",
+     "title": "でらロックフェスティバル（2/6〜2/7のいずれか）",
+     "kind": "フェス",
+     "venue": "名古屋 新栄・栄・大須のライブハウス15会場以上（愛知県）",
+     "source_url": "https://www.loveinq.com/182782.html",
+     "confidence": "high"
+    },
+    {
      "date": "2027-02-07",
      "title": "HERO'S SINGALONG FESTIVAL（2/7）",
      "kind": "フェス",
@@ -25090,6 +25074,14 @@
      "kind": "フェス",
      "venue": "名古屋・新栄界隈（Diamond Hall ほか）（愛知県）",
      "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-02-27",
+     "title": "E.L.L.×ZIP-FM FIND OUT『OSU ENCOUNTER 2027』",
+     "kind": "フェス",
+     "venue": "Electric Lady Land / ell.FITS ALL / ell.SIZE（名古屋市中区大須）（愛知県）",
+     "source_url": "https://spice.eplus.jp/articles/350442",
      "confidence": "high"
     }
    ]
@@ -26284,6 +26276,14 @@
      "kind": "フェス",
      "venue": "渋谷9会場（CLUB QUATTRO、GARRET udagawa、CUTUP STUDIO、Shibuya PIT ZERO、TOKIO TOKYO、FOWS、DOMMUNE、QUATTRO LABO、XXI）（東京）",
      "source_url": "https://ototoy.jp/news/132560",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-02-06",
+     "title": "でらロックフェスティバル（2/6〜2/7のいずれか）",
+     "kind": "フェス",
+     "venue": "名古屋 新栄・栄・大須のライブハウス15会場以上（愛知県）",
+     "source_url": "https://www.loveinq.com/182782.html",
      "confidence": "high"
     }
    ]
@@ -28113,6 +28113,14 @@
      "venue": "名古屋・新栄界隈（Diamond Hall ほか）（愛知県）",
      "source_url": "https://www.ragnet.co.jp/music-festival-winter",
      "confidence": "high"
+    },
+    {
+     "date": "2027-02-06",
+     "title": "でらロックフェスティバル（2/6〜2/7のいずれか）",
+     "kind": "フェス",
+     "venue": "名古屋 新栄・栄・大須のライブハウス15会場以上（愛知県）",
+     "source_url": "https://www.loveinq.com/182782.html",
+     "confidence": "high"
     }
    ]
   },
@@ -28203,6 +28211,14 @@
      "kind": "フェス",
      "venue": "名古屋・新栄界隈（Diamond Hall ほか）（愛知県）",
      "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-02-06",
+     "title": "でらロックフェスティバル（2/6〜2/7のいずれか）",
+     "kind": "フェス",
+     "venue": "名古屋 新栄・栄・大須のライブハウス15会場以上（愛知県）",
+     "source_url": "https://www.loveinq.com/182782.html",
      "confidence": "high"
     }
    ]
@@ -28372,6 +28388,14 @@
      "kind": "フェス",
      "venue": "CLUB CITTA'（川崎）（神奈川県）",
      "source_url": "https://thickfestival.com/",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-02-11",
+     "title": "ブクロック!フェスティバル（2/11）",
+     "kind": "フェス",
+     "venue": "幕張メッセ 国際展示場 1～3ホール（千葉）",
+     "source_url": "https://eplus.jp/bukurock-fes2027/",
      "confidence": "high"
     }
    ]
@@ -28646,6 +28670,14 @@
      "venue": "LIVE SQUARE 2nd LINE（大阪府）",
      "source_url": "https://eplus.jp/2ndline_rhp/",
      "confidence": "high"
+    },
+    {
+     "date": "2027-02-06",
+     "title": "でらロックフェスティバル（2/6〜2/7のいずれか）",
+     "kind": "フェス",
+     "venue": "名古屋 新栄・栄・大須のライブハウス15会場以上（愛知県）",
+     "source_url": "https://www.loveinq.com/182782.html",
+     "confidence": "high"
     }
    ]
   },
@@ -28706,6 +28738,942 @@
      "venue": "INTEX OSAKA（大阪府）",
      "source_url": "https://festival-life.com/169448",
      "confidence": "low"
+    }
+   ]
+  },
+  "TORABBIT": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "Kurayoshi ROCK Festival（11/21）",
+     "kind": "フェス",
+     "venue": "エースパック未来中心 リハーサル室（鳥取）",
+     "source_url": "https://tottori-caf.or.jp/tcaf-event/detail/1140/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "月面旅行": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "Kurayoshi ROCK Festival（11/21）",
+     "kind": "フェス",
+     "venue": "エースパック未来中心 リハーサル室（鳥取）",
+     "source_url": "https://tottori-caf.or.jp/tcaf-event/detail/1140/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "nude-lu": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "Kurayoshi ROCK Festival（11/21）",
+     "kind": "フェス",
+     "venue": "エースパック未来中心 リハーサル室（鳥取）",
+     "source_url": "https://tottori-caf.or.jp/tcaf-event/detail/1140/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "SUNBURST": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "Kurayoshi ROCK Festival（11/21）",
+     "kind": "フェス",
+     "venue": "エースパック未来中心 リハーサル室（鳥取）",
+     "source_url": "https://tottori-caf.or.jp/tcaf-event/detail/1140/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "メガチャンズ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "Kurayoshi ROCK Festival（11/21）",
+     "kind": "フェス",
+     "venue": "エースパック未来中心 リハーサル室（鳥取）",
+     "source_url": "https://tottori-caf.or.jp/tcaf-event/detail/1140/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "The Boots.": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-22",
+     "title": "Kurayoshi ROCK Festival（11/22）",
+     "kind": "フェス",
+     "venue": "エースパック未来中心 リハーサル室（鳥取）",
+     "source_url": "https://tottori-caf.or.jp/tcaf-event/detail/1140/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "P7": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-22",
+     "title": "Kurayoshi ROCK Festival（11/22）",
+     "kind": "フェス",
+     "venue": "エースパック未来中心 リハーサル室（鳥取）",
+     "source_url": "https://tottori-caf.or.jp/tcaf-event/detail/1140/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "bulldog": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-22",
+     "title": "Kurayoshi ROCK Festival（11/22）",
+     "kind": "フェス",
+     "venue": "エースパック未来中心 リハーサル室（鳥取）",
+     "source_url": "https://tottori-caf.or.jp/tcaf-event/detail/1140/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "SIMASIN": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-22",
+     "title": "Kurayoshi ROCK Festival（11/22）",
+     "kind": "フェス",
+     "venue": "エースパック未来中心 リハーサル室（鳥取）",
+     "source_url": "https://tottori-caf.or.jp/tcaf-event/detail/1140/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "G4": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-22",
+     "title": "Kurayoshi ROCK Festival（11/22）",
+     "kind": "フェス",
+     "venue": "エースパック未来中心 リハーサル室（鳥取）",
+     "source_url": "https://tottori-caf.or.jp/tcaf-event/detail/1140/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "あの頃僕らは90s～00s": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-22",
+     "title": "Kurayoshi ROCK Festival（11/22）",
+     "kind": "フェス",
+     "venue": "エースパック未来中心 リハーサル室（鳥取）",
+     "source_url": "https://tottori-caf.or.jp/tcaf-event/detail/1140/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "カニカニロックンロール": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "サブライムロックふぇふてぃばる（11/21）",
+     "kind": "フェス",
+     "venue": "国富町法華嶽公園芝生コート（宮崎県）",
+     "source_url": "https://r.goope.jp/sublime-m-2021/info/6960016",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Nu³": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "サブライムロックふぇふてぃばる（11/21）",
+     "kind": "フェス",
+     "venue": "国富町法華嶽公園芝生コート（宮崎県）",
+     "source_url": "https://r.goope.jp/sublime-m-2021/info/6960016",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Song Tack": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "サブライムロックふぇふてぃばる（11/21）",
+     "kind": "フェス",
+     "venue": "国富町法華嶽公園芝生コート（宮崎県）",
+     "source_url": "https://r.goope.jp/sublime-m-2021/info/6960016",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Luck Groove": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "サブライムロックふぇふてぃばる（11/21）",
+     "kind": "フェス",
+     "venue": "国富町法華嶽公園芝生コート（宮崎県）",
+     "source_url": "https://r.goope.jp/sublime-m-2021/info/6960016",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Keisuke from ATLLACTIONS": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "サブライムロックふぇふてぃばる（11/21）",
+     "kind": "フェス",
+     "venue": "国富町法華嶽公園芝生コート（宮崎県）",
+     "source_url": "https://r.goope.jp/sublime-m-2021/info/6960016",
+     "confidence": "high"
+    }
+   ]
+  },
+  "YOLO!": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "サブライムロックふぇふてぃばる（11/21）",
+     "kind": "フェス",
+     "venue": "国富町法華嶽公園芝生コート（宮崎県）",
+     "source_url": "https://r.goope.jp/sublime-m-2021/info/6960016",
+     "confidence": "high"
+    }
+   ]
+  },
+  "マホロバ。": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "サブライムロックふぇふてぃばる（11/21）",
+     "kind": "フェス",
+     "venue": "国富町法華嶽公園芝生コート（宮崎県）",
+     "source_url": "https://r.goope.jp/sublime-m-2021/info/6960016",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Dorislimb": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "サブライムロックふぇふてぃばる（11/21）",
+     "kind": "フェス",
+     "venue": "国富町法華嶽公園芝生コート（宮崎県）",
+     "source_url": "https://r.goope.jp/sublime-m-2021/info/6960016",
+     "confidence": "high"
+    }
+   ]
+  },
+  "YOUFU": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "サブライムロックふぇふてぃばる（11/21）",
+     "kind": "フェス",
+     "venue": "国富町法華嶽公園芝生コート（宮崎県）",
+     "source_url": "https://r.goope.jp/sublime-m-2021/info/6960016",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Bonno's": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "サブライムロックふぇふてぃばる（11/21）",
+     "kind": "フェス",
+     "venue": "国富町法華嶽公園芝生コート（宮崎県）",
+     "source_url": "https://r.goope.jp/sublime-m-2021/info/6960016",
+     "confidence": "high"
+    }
+   ]
+  },
+  "HIMAN WITH A MISSION": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-22",
+     "title": "サブライムロックふぇふてぃばる（11/22）",
+     "kind": "フェス",
+     "venue": "国富町法華嶽公園芝生コート（宮崎県）",
+     "source_url": "https://r.goope.jp/sublime-m-2021/info/6960016",
+     "confidence": "high"
+    }
+   ]
+  },
+  "sakiko": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-22",
+     "title": "サブライムロックふぇふてぃばる（11/22）",
+     "kind": "フェス",
+     "venue": "国富町法華嶽公園芝生コート（宮崎県）",
+     "source_url": "https://r.goope.jp/sublime-m-2021/info/6960016",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ヨハク": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-22",
+     "title": "サブライムロックふぇふてぃばる（11/22）",
+     "kind": "フェス",
+     "venue": "国富町法華嶽公園芝生コート（宮崎県）",
+     "source_url": "https://r.goope.jp/sublime-m-2021/info/6960016",
+     "confidence": "high"
+    }
+   ]
+  },
+  "INFiSTAR": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-22",
+     "title": "サブライムロックふぇふてぃばる（11/22）",
+     "kind": "フェス",
+     "venue": "国富町法華嶽公園芝生コート（宮崎県）",
+     "source_url": "https://r.goope.jp/sublime-m-2021/info/6960016",
+     "confidence": "high"
+    }
+   ]
+  },
+  "今村さつき": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-22",
+     "title": "サブライムロックふぇふてぃばる（11/22）",
+     "kind": "フェス",
+     "venue": "国富町法華嶽公園芝生コート（宮崎県）",
+     "source_url": "https://r.goope.jp/sublime-m-2021/info/6960016",
+     "confidence": "high"
+    }
+   ]
+  },
+  "RicK CameL": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-22",
+     "title": "サブライムロックふぇふてぃばる（11/22）",
+     "kind": "フェス",
+     "venue": "国富町法華嶽公園芝生コート（宮崎県）",
+     "source_url": "https://r.goope.jp/sublime-m-2021/info/6960016",
+     "confidence": "high"
+    }
+   ]
+  },
+  "456": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-22",
+     "title": "サブライムロックふぇふてぃばる（11/22）",
+     "kind": "フェス",
+     "venue": "国富町法華嶽公園芝生コート（宮崎県）",
+     "source_url": "https://r.goope.jp/sublime-m-2021/info/6960016",
+     "confidence": "high"
+    }
+   ]
+  },
+  "GHEME": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-22",
+     "title": "サブライムロックふぇふてぃばる（11/22）",
+     "kind": "フェス",
+     "venue": "国富町法華嶽公園芝生コート（宮崎県）",
+     "source_url": "https://r.goope.jp/sublime-m-2021/info/6960016",
+     "confidence": "high"
+    }
+   ]
+  },
+  "THE LITTLE BITCH": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-22",
+     "title": "サブライムロックふぇふてぃばる（11/22）",
+     "kind": "フェス",
+     "venue": "国富町法華嶽公園芝生コート（宮崎県）",
+     "source_url": "https://r.goope.jp/sublime-m-2021/info/6960016",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Drapis": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-22",
+     "title": "サブライムロックふぇふてぃばる（11/22）",
+     "kind": "フェス",
+     "venue": "国富町法華嶽公園芝生コート（宮崎県）",
+     "source_url": "https://r.goope.jp/sublime-m-2021/info/6960016",
+     "confidence": "high"
+    }
+   ]
+  },
+  "NINE LIVES": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-22",
+     "title": "サブライムロックふぇふてぃばる（11/22）",
+     "kind": "フェス",
+     "venue": "国富町法華嶽公園芝生コート（宮崎県）",
+     "source_url": "https://r.goope.jp/sublime-m-2021/info/6960016",
+     "confidence": "high"
+    }
+   ]
+  },
+  "oqoq Band Set": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-22",
+     "title": "サブライムロックふぇふてぃばる（11/22）",
+     "kind": "フェス",
+     "venue": "国富町法華嶽公園芝生コート（宮崎県）",
+     "source_url": "https://r.goope.jp/sublime-m-2021/info/6960016",
+     "confidence": "high"
+    }
+   ]
+  },
+  "池田れ井名": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-22",
+     "title": "サブライムロックふぇふてぃばる（11/22）",
+     "kind": "フェス",
+     "venue": "国富町法華嶽公園芝生コート（宮崎県）",
+     "source_url": "https://r.goope.jp/sublime-m-2021/info/6960016",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Intensity Radiates": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-22",
+     "title": "サブライムロックふぇふてぃばる（11/22）",
+     "kind": "フェス",
+     "venue": "国富町法華嶽公園芝生コート（宮崎県）",
+     "source_url": "https://r.goope.jp/sublime-m-2021/info/6960016",
+     "confidence": "high"
+    }
+   ]
+  },
+  "武幸佑": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-22",
+     "title": "サブライムロックふぇふてぃばる（11/22）",
+     "kind": "フェス",
+     "venue": "国富町法華嶽公園芝生コート（宮崎県）",
+     "source_url": "https://r.goope.jp/sublime-m-2021/info/6960016",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ONE'S TRUTH": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-22",
+     "title": "サブライムロックふぇふてぃばる（11/22）",
+     "kind": "フェス",
+     "venue": "国富町法華嶽公園芝生コート（宮崎県）",
+     "source_url": "https://r.goope.jp/sublime-m-2021/info/6960016",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Zai": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-22",
+     "title": "サブライムロックふぇふてぃばる（11/22）",
+     "kind": "フェス",
+     "venue": "国富町法華嶽公園芝生コート（宮崎県）",
+     "source_url": "https://r.goope.jp/sublime-m-2021/info/6960016",
+     "confidence": "high"
+    }
+   ]
+  },
+  "THEE Black Swan Fellows": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-22",
+     "title": "サブライムロックふぇふてぃばる（11/22）",
+     "kind": "フェス",
+     "venue": "国富町法華嶽公園芝生コート（宮崎県）",
+     "source_url": "https://r.goope.jp/sublime-m-2021/info/6960016",
+     "confidence": "high"
+    }
+   ]
+  },
+  "MIYUKING": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "サブライムロックふぇふてぃばる（11/21〜11/22のいずれか）",
+     "kind": "フェス",
+     "venue": "国富町法華嶽公園芝生コート（宮崎県）",
+     "source_url": "https://r.goope.jp/sublime-m-2021/info/6960016",
+     "confidence": "high"
+    }
+   ]
+  },
+  "DJ M SIZE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-21",
+     "title": "サブライムロックふぇふてぃばる（11/21〜11/22のいずれか）",
+     "kind": "フェス",
+     "venue": "国富町法華嶽公園芝生コート（宮崎県）",
+     "source_url": "https://r.goope.jp/sublime-m-2021/info/6960016",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Pxrge Trxxxper": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-29",
+     "title": "STARZ",
+     "kind": "フェス",
+     "venue": "有明アリーナ（東京都）",
+     "source_url": "https://kai-you.net/article/96807",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Masato Hayashi": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-29",
+     "title": "STARZ",
+     "kind": "フェス",
+     "venue": "有明アリーナ（東京都）",
+     "source_url": "https://kai-you.net/article/96807",
+     "confidence": "high"
+    }
+   ]
+  },
+  "MIKADO": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-29",
+     "title": "STARZ",
+     "kind": "フェス",
+     "venue": "有明アリーナ（東京都）",
+     "source_url": "https://kai-you.net/article/96807",
+     "confidence": "high"
+    }
+   ]
+  },
+  "BIM": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-29",
+     "title": "STARZ",
+     "kind": "フェス",
+     "venue": "有明アリーナ（東京都）",
+     "source_url": "https://kai-you.net/article/96807",
+     "confidence": "high"
+    }
+   ]
+  },
+  "UtaGe!(BAND SET)": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-02-06",
+     "title": "でらロックフェスティバル（2/6〜2/7のいずれか）",
+     "kind": "フェス",
+     "venue": "名古屋 新栄・栄・大須のライブハウス15会場以上（愛知県）",
+     "source_url": "https://www.loveinq.com/182782.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ジエメイ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-02-06",
+     "title": "でらロックフェスティバル（2/6〜2/7のいずれか）",
+     "kind": "フェス",
+     "venue": "名古屋 新栄・栄・大須のライブハウス15会場以上（愛知県）",
+     "source_url": "https://www.loveinq.com/182782.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "手羽先センセーション": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-02-06",
+     "title": "でらロックフェスティバル（2/6〜2/7のいずれか）",
+     "kind": "フェス",
+     "venue": "名古屋 新栄・栄・大須のライブハウス15会場以上（愛知県）",
+     "source_url": "https://www.loveinq.com/182782.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "バンドじゃないもん!": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-02-06",
+     "title": "でらロックフェスティバル（2/6〜2/7のいずれか）",
+     "kind": "フェス",
+     "venue": "名古屋 新栄・栄・大須のライブハウス15会場以上（愛知県）",
+     "source_url": "https://www.loveinq.com/182782.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "AZ-ON": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-02-06",
+     "title": "でらロックフェスティバル（2/6〜2/7のいずれか）",
+     "kind": "フェス",
+     "venue": "名古屋 新栄・栄・大須のライブハウス15会場以上（愛知県）",
+     "source_url": "https://www.loveinq.com/182782.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Cosmoslay": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-02-06",
+     "title": "でらロックフェスティバル（2/6〜2/7のいずれか）",
+     "kind": "フェス",
+     "venue": "名古屋 新栄・栄・大須のライブハウス15会場以上（愛知県）",
+     "source_url": "https://www.loveinq.com/182782.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "LinQ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-02-06",
+     "title": "でらロックフェスティバル（2/6〜2/7のいずれか）",
+     "kind": "フェス",
+     "venue": "名古屋 新栄・栄・大須のライブハウス15会場以上（愛知県）",
+     "source_url": "https://www.loveinq.com/182782.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "STARRY×NIGHT↗": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-02-06",
+     "title": "でらロックフェスティバル（2/6〜2/7のいずれか）",
+     "kind": "フェス",
+     "venue": "名古屋 新栄・栄・大須のライブハウス15会場以上（愛知県）",
+     "source_url": "https://www.loveinq.com/182782.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "THE南無ズ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-02-06",
+     "title": "でらロックフェスティバル（2/6〜2/7のいずれか）",
+     "kind": "フェス",
+     "venue": "名古屋 新栄・栄・大須のライブハウス15会場以上（愛知県）",
+     "source_url": "https://www.loveinq.com/182782.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "UtaKata": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-02-06",
+     "title": "でらロックフェスティバル（2/6〜2/7のいずれか）",
+     "kind": "フェス",
+     "venue": "名古屋 新栄・栄・大須のライブハウス15会場以上（愛知県）",
+     "source_url": "https://www.loveinq.com/182782.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "XINXIN": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-02-06",
+     "title": "でらロックフェスティバル（2/6〜2/7のいずれか）",
+     "kind": "フェス",
+     "venue": "名古屋 新栄・栄・大須のライブハウス15会場以上（愛知県）",
+     "source_url": "https://www.loveinq.com/182782.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "あたまのなかは8ビット！？": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-02-06",
+     "title": "でらロックフェスティバル（2/6〜2/7のいずれか）",
+     "kind": "フェス",
+     "venue": "名古屋 新栄・栄・大須のライブハウス15会場以上（愛知県）",
+     "source_url": "https://www.loveinq.com/182782.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "カイジューバイミー": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-02-06",
+     "title": "でらロックフェスティバル（2/6〜2/7のいずれか）",
+     "kind": "フェス",
+     "venue": "名古屋 新栄・栄・大須のライブハウス15会場以上（愛知県）",
+     "source_url": "https://www.loveinq.com/182782.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "スパンコールグッドタイムズ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-02-06",
+     "title": "でらロックフェスティバル（2/6〜2/7のいずれか）",
+     "kind": "フェス",
+     "venue": "名古屋 新栄・栄・大須のライブハウス15会場以上（愛知県）",
+     "source_url": "https://www.loveinq.com/182782.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ぜろから☆すた→と": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-02-06",
+     "title": "でらロックフェスティバル（2/6〜2/7のいずれか）",
+     "kind": "フェス",
+     "venue": "名古屋 新栄・栄・大須のライブハウス15会場以上（愛知県）",
+     "source_url": "https://www.loveinq.com/182782.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "鳴ル神": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-02-06",
+     "title": "でらロックフェスティバル（2/6〜2/7のいずれか）",
+     "kind": "フェス",
+     "venue": "名古屋 新栄・栄・大須のライブハウス15会場以上（愛知県）",
+     "source_url": "https://www.loveinq.com/182782.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ガガガSP": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-19",
+     "title": "長田大行進曲",
+     "kind": "フェス",
+     "venue": "HoborStudio（神戸市）（兵庫県）",
+     "source_url": "https://spice.eplus.jp/articles/350503",
+     "confidence": "high"
+    }
+   ]
+  },
+  "花男": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-19",
+     "title": "長田大行進曲",
+     "kind": "フェス",
+     "venue": "HoborStudio（神戸市）（兵庫県）",
+     "source_url": "https://spice.eplus.jp/articles/350503",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ケンオガタ(セックスマシーン!!)": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-19",
+     "title": "長田大行進曲",
+     "kind": "フェス",
+     "venue": "HoborStudio（神戸市）（兵庫県）",
+     "source_url": "https://spice.eplus.jp/articles/350503",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ザ・ボートレース(コザック前田&山本聡)": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-19",
+     "title": "長田大行進曲",
+     "kind": "フェス",
+     "venue": "HoborStudio（神戸市）（兵庫県）",
+     "source_url": "https://spice.eplus.jp/articles/350503",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ターキーのぶと(ユタ州)": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-19",
+     "title": "長田大行進曲",
+     "kind": "フェス",
+     "venue": "HoborStudio（神戸市）（兵庫県）",
+     "source_url": "https://spice.eplus.jp/articles/350503",
+     "confidence": "high"
+    }
+   ]
+  },
+  "タカダスマイル": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-19",
+     "title": "長田大行進曲",
+     "kind": "フェス",
+     "venue": "HoborStudio（神戸市）（兵庫県）",
+     "source_url": "https://spice.eplus.jp/articles/350503",
+     "confidence": "high"
+    }
+   ]
+  },
+  "244(ツヨシ)": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-19",
+     "title": "長田大行進曲",
+     "kind": "フェス",
+     "venue": "HoborStudio（神戸市）（兵庫県）",
+     "source_url": "https://spice.eplus.jp/articles/350503",
+     "confidence": "high"
+    }
+   ]
+  },
+  "アイアムアイ（O.A.）": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-19",
+     "title": "長田大行進曲",
+     "kind": "フェス",
+     "venue": "HoborStudio（神戸市）（兵庫県）",
+     "source_url": "https://spice.eplus.jp/articles/350503",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ammo": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-02-27",
+     "title": "E.L.L.×ZIP-FM FIND OUT『OSU ENCOUNTER 2027』",
+     "kind": "フェス",
+     "venue": "Electric Lady Land / ell.FITS ALL / ell.SIZE（名古屋市中区大須）（愛知県）",
+     "source_url": "https://spice.eplus.jp/articles/350442",
+     "confidence": "high"
+    }
+   ]
+  },
+  "菊池くじら": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-07-10",
+     "title": "corom real fes 2027 -Still Burning-",
+     "kind": "フェス",
+     "venue": "Zepp Namba（OSAKA）（大阪府）",
+     "source_url": "https://prtimes.jp/main/html/rd/p/000000026.000053164.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "伊勢彩愛": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-07-10",
+     "title": "corom real fes 2027 -Still Burning-",
+     "kind": "フェス",
+     "venue": "Zepp Namba（OSAKA）（大阪府）",
+     "source_url": "https://prtimes.jp/main/html/rd/p/000000026.000053164.html",
+     "confidence": "high"
     }
    ]
   }
