@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T20:08:07+09:00",
+ "updated": "2026-11-21T07:25:00+09:00",
  "artists": {
   "Saucy Dog": {
    "aliases": [
@@ -4990,6 +4990,14 @@
      "kind": "フェス",
      "venue": "Kアリーナ横浜（神奈川県）",
      "source_url": "https://dreamfestival.jp/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-31",
+     "title": "ももいろ歌合戦",
+     "kind": "フェス",
+     "venue": "有明アリーナ（東京都）",
+     "source_url": "https://www.momoclo.net/",
      "confidence": "high"
     }
    ]
@@ -15960,6 +15968,14 @@
      "venue": "SGC Hall Ariake・TOYOTA ARENA TOKYO（東京都）",
      "source_url": "https://gift-idol.jp/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-05",
+     "title": "HIROSHIMA CONTI-NeW FeS",
+     "kind": "フェス",
+     "venue": "広島グリーンアリーナ 大アリーナ（広島県）",
+     "source_url": "https://www.hiroshima-continew.com/",
+     "confidence": "high"
     }
    ]
   },
@@ -24113,6 +24129,14 @@
      "venue": "Spotify O-EAST ほか渋谷10会場（O-WEST、O-Crest、O-nest、duo MUSIC EXCHANGE、WOMB LIVE、clubasia、SHIBUYA RING、Veats Shibuya、LOFT9）（東京都）",
      "source_url": "https://idorisefes.jp/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-06",
+     "title": "HIROSHIMA CONTI-NeW FeS",
+     "kind": "フェス",
+     "venue": "広島グリーンアリーナ 大アリーナ（広島県）",
+     "source_url": "https://www.hiroshima-continew.com/",
+     "confidence": "high"
     }
    ]
   },
@@ -29840,6 +29864,201 @@
      "kind": "フェス",
      "venue": "横浜アリーナ（神奈川県）",
      "source_url": "https://dengekionline.com/article/202611/94216",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Toshiki Nunokawa & Ayaka Toyohide Duo": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-03",
+     "title": "Montreux Jazz Festival Japan -THE CLUB-",
+     "kind": "フェス",
+     "venue": "BLUE NOTE PLACE（恵比寿ガーデンプレイス）（東京都）",
+     "source_url": "https://montreuxjazzfestival.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Barney McAll": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-03",
+     "title": "Montreux Jazz Festival Japan -THE CLUB-",
+     "kind": "フェス",
+     "venue": "BLUE NOTE PLACE（恵比寿ガーデンプレイス）（東京都）",
+     "source_url": "https://montreuxjazzfestival.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Rita Satch": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-03",
+     "title": "Montreux Jazz Festival Japan -THE CLUB-",
+     "kind": "フェス",
+     "venue": "BLUE NOTE PLACE（恵比寿ガーデンプレイス）（東京都）",
+     "source_url": "https://montreuxjazzfestival.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Matt Pavolka": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-03",
+     "title": "Montreux Jazz Festival Japan -THE CLUB-",
+     "kind": "フェス",
+     "venue": "BLUE NOTE PLACE（恵比寿ガーデンプレイス）（東京都）",
+     "source_url": "https://montreuxjazzfestival.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Paul Bollenbeck": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-03",
+     "title": "Montreux Jazz Festival Japan -THE CLUB-",
+     "kind": "フェス",
+     "venue": "BLUE NOTE PLACE（恵比寿ガーデンプレイス）（東京都）",
+     "source_url": "https://montreuxjazzfestival.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Ele Howell": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-03",
+     "title": "Montreux Jazz Festival Japan -THE CLUB-",
+     "kind": "フェス",
+     "venue": "BLUE NOTE PLACE（恵比寿ガーデンプレイス）（東京都）",
+     "source_url": "https://montreuxjazzfestival.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "MURO": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-03",
+     "title": "Montreux Jazz Festival Japan -THE CLUB-",
+     "kind": "フェス",
+     "venue": "BLUE NOTE PLACE（恵比寿ガーデンプレイス）（東京都）",
+     "source_url": "https://montreuxjazzfestival.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Hiroko Otsuka": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-03",
+     "title": "Montreux Jazz Festival Japan -THE CLUB-",
+     "kind": "フェス",
+     "venue": "BLUE NOTE PLACE（恵比寿ガーデンプレイス）（東京都）",
+     "source_url": "https://montreuxjazzfestival.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Katsushika Trio": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-04",
+     "title": "Montreux Jazz Festival Japan -THE CLUB-",
+     "kind": "フェス",
+     "venue": "BLUE NOTE PLACE（恵比寿ガーデンプレイス）（東京都）",
+     "source_url": "https://montreuxjazzfestival.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Toshikazu Kanazawa": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-04",
+     "title": "Montreux Jazz Festival Japan -THE CLUB-",
+     "kind": "フェス",
+     "venue": "BLUE NOTE PLACE（恵比寿ガーデンプレイス）（東京都）",
+     "source_url": "https://montreuxjazzfestival.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "LET ME KNOW": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "HIROSHIMA CONTI-NeW FeS（12/05〜12/06のいずれか）",
+     "kind": "フェス",
+     "venue": "広島グリーンアリーナ 大アリーナ（広島県）",
+     "source_url": "https://www.hiroshima-continew.com/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "NERUBEATS Friends": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SUMIDA BLOCK FESTIVAL（12/05〜12/06のいずれか）",
+     "kind": "フェス",
+     "venue": "隅田公園そよ風ひろば（東京都）",
+     "source_url": "https://sumidablockfes.com/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "ずーいち＆jaqoo": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SUMIDA BLOCK FESTIVAL（12/05〜12/06のいずれか）",
+     "kind": "フェス",
+     "venue": "隅田公園そよ風ひろば（東京都）",
+     "source_url": "https://sumidablockfes.com/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "やけのはら": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SUMIDA BLOCK FESTIVAL（12/05〜12/06のいずれか）",
+     "kind": "フェス",
+     "venue": "隅田公園そよ風ひろば（東京都）",
+     "source_url": "https://sumidablockfes.com/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "the奥歯’s": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-23",
+     "title": "HYPE LIKE IT!",
+     "kind": "フェス",
+     "venue": "幕張メッセ国際展示場1・2・3ホール（千葉県）",
+     "source_url": "https://xhl-music.com/feature/hypelikeit",
      "confidence": "high"
     }
    ]
