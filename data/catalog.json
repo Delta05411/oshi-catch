@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T07:25:00+09:00",
+ "updated": "2026-11-22T02:46:00+09:00",
  "artists": {
   "Saucy Dog": {
    "aliases": [
@@ -30060,6 +30060,40 @@
      "venue": "幕張メッセ国際展示場1・2・3ホール（千葉県）",
      "source_url": "https://xhl-music.com/feature/hypelikeit",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-31",
+     "title": "COUNTDOWN JAPAN 26/27",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉県）",
+     "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "内澤崇仁": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-26",
+     "title": "RADIO CRAZY（出演日未確認）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://radiocrazy.fm/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "サイトウタクヤ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-26",
+     "title": "RADIO CRAZY（出演日未確認）",
+     "kind": "フェス",
+     "venue": "INTEX OSAKA（大阪府）",
+     "source_url": "https://radiocrazy.fm/",
+     "confidence": "low"
     }
    ]
   }
