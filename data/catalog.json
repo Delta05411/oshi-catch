@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T20:11:11+09:00",
+ "updated": "2026-11-24T07:10:57+09:00",
  "artists": {
   "Saucy Dog": {
    "aliases": [
@@ -952,6 +952,14 @@
      "kind": "フェス",
      "venue": "別府ビーコンプラザ（大分県）",
      "source_url": "https://www.billboard-japan.com/d_news/detail/166666/2",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-03",
+     "title": "Orange Station Live 2026",
+     "kind": "フェス",
+     "venue": "Zepp Haneda (TOKYO)（東京都）",
+     "source_url": "https://www.tfm.co.jp/osl2026/",
      "confidence": "high"
     }
    ]
@@ -2078,6 +2086,14 @@
      "venue": "GORILLA HALL OSAKA（大阪府）",
      "source_url": "https://muque.jp/live/live-1753/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-03",
+     "title": "Orange Station Live 2026",
+     "kind": "フェス",
+     "venue": "Zepp Haneda (TOKYO)（東京都）",
+     "source_url": "https://www.tfm.co.jp/osl2026/",
+     "confidence": "high"
     }
    ]
   },
@@ -2416,6 +2432,14 @@
      "kind": "フェス",
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-05",
+     "title": "GRAND GREEN HOLIDAY × FM COCOLO WITH HEART FES.",
+     "kind": "フェス",
+     "venue": "ロートハートスクエアうめきた・タイムアウトマーケット大阪（大阪府）",
+     "source_url": "https://umekita.com/sc/topics/12_5_12_6_with_heart_fes/",
      "confidence": "high"
     }
    ]
@@ -5258,6 +5282,14 @@
      "kind": "フェス",
      "venue": "幕張メッセ（千葉県）",
      "source_url": "https://countdownjapan.jp/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-03",
+     "title": "Orange Station Live 2026",
+     "kind": "フェス",
+     "venue": "Zepp Haneda (TOKYO)（東京都）",
+     "source_url": "https://www.tfm.co.jp/osl2026/",
      "confidence": "high"
     }
    ]
@@ -14360,6 +14392,14 @@
      "venue": "コザ・ミュージックタウン音楽広場ほか（沖縄県）（沖縄県）",
      "source_url": "https://www.musiclanefestival.com/artist2027",
      "confidence": "low"
+    },
+    {
+     "date": "2026-12-05",
+     "title": "GRAND GREEN HOLIDAY × FM COCOLO WITH HEART FES.",
+     "kind": "フェス",
+     "venue": "ロートハートスクエアうめきた・タイムアウトマーケット大阪（大阪府）",
+     "source_url": "https://umekita.com/sc/topics/12_5_12_6_with_heart_fes/",
+     "confidence": "high"
     }
    ]
   },
@@ -29613,6 +29653,1735 @@
      "kind": "フェス",
      "venue": "Spotify O-EAST / Spotify O-WEST / duo MUSIC EXCHANGE（東京都）",
      "source_url": "https://dovetail.asia/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "CheChe": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-03",
+     "title": "Orange Station Live 2026",
+     "kind": "フェス",
+     "venue": "Zepp Haneda (TOKYO)（東京都）",
+     "source_url": "https://www.tfm.co.jp/osl2026/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "WILYWNKA": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-04",
+     "title": "Road to SBI MUSIC CIRCUS HOKKAIDO",
+     "kind": "フェス",
+     "venue": "CLUB SANGO SAPPORO by Riviera（北海道）",
+     "source_url": "https://eplus.jp/sf/detail/4633100001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "SALU": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-04",
+     "title": "Road to SBI MUSIC CIRCUS HOKKAIDO",
+     "kind": "フェス",
+     "venue": "CLUB SANGO SAPPORO by Riviera（北海道）",
+     "source_url": "https://eplus.jp/sf/detail/4633100001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Candee&Deech": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-04",
+     "title": "Road to SBI MUSIC CIRCUS HOKKAIDO",
+     "kind": "フェス",
+     "venue": "CLUB SANGO SAPPORO by Riviera（北海道）",
+     "source_url": "https://eplus.jp/sf/detail/4633100001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "BABYWOODROSE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-04",
+     "title": "Road to SBI MUSIC CIRCUS HOKKAIDO",
+     "kind": "フェス",
+     "venue": "CLUB SANGO SAPPORO by Riviera（北海道）",
+     "source_url": "https://eplus.jp/sf/detail/4633100001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Shawn G": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-04",
+     "title": "Road to SBI MUSIC CIRCUS HOKKAIDO",
+     "kind": "フェス",
+     "venue": "CLUB SANGO SAPPORO by Riviera（北海道）",
+     "source_url": "https://eplus.jp/sf/detail/4633100001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "NORIO&LUKE(from Tokyo Young Vision)": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-04",
+     "title": "Road to SBI MUSIC CIRCUS HOKKAIDO",
+     "kind": "フェス",
+     "venue": "CLUB SANGO SAPPORO by Riviera（北海道）",
+     "source_url": "https://eplus.jp/sf/detail/4633100001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "SANGO SAPPORO DJ's": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-04",
+     "title": "Road to SBI MUSIC CIRCUS HOKKAIDO",
+     "kind": "フェス",
+     "venue": "CLUB SANGO SAPPORO by Riviera（北海道）",
+     "source_url": "https://eplus.jp/sf/detail/4633100001-P0030001P021001?P1=0175",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ai*ai": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "POP IN FESTIVAL 2026",
+     "kind": "フェス",
+     "venue": "GOTANDA G2・GOTANDA G3（東京都）",
+     "source_url": "https://ticketdive.com/event/PIF_1205",
+     "confidence": "high"
+    }
+   ]
+  },
+  "あくまで天使": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "POP IN FESTIVAL 2026",
+     "kind": "フェス",
+     "venue": "GOTANDA G2・GOTANDA G3（東京都）",
+     "source_url": "https://ticketdive.com/event/PIF_1205",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ANHEL": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "POP IN FESTIVAL 2026",
+     "kind": "フェス",
+     "venue": "GOTANDA G2・GOTANDA G3（東京都）",
+     "source_url": "https://ticketdive.com/event/PIF_1205",
+     "confidence": "high"
+    }
+   ]
+  },
+  "&CUTE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "POP IN FESTIVAL 2026",
+     "kind": "フェス",
+     "venue": "GOTANDA G2・GOTANDA G3（東京都）",
+     "source_url": "https://ticketdive.com/event/PIF_1205",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Innocent Lucia": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "POP IN FESTIVAL 2026",
+     "kind": "フェス",
+     "venue": "GOTANDA G2・GOTANDA G3（東京都）",
+     "source_url": "https://ticketdive.com/event/PIF_1205",
+     "confidence": "high"
+    }
+   ]
+  },
+  "8DOLL": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "POP IN FESTIVAL 2026",
+     "kind": "フェス",
+     "venue": "GOTANDA G2・GOTANDA G3（東京都）",
+     "source_url": "https://ticketdive.com/event/PIF_1205",
+     "confidence": "high"
+    }
+   ]
+  },
+  "8ANGEL": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "POP IN FESTIVAL 2026",
+     "kind": "フェス",
+     "venue": "GOTANDA G2・GOTANDA G3（東京都）",
+     "source_url": "https://ticketdive.com/event/PIF_1205",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ESTLINK☆": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "POP IN FESTIVAL 2026",
+     "kind": "フェス",
+     "venue": "GOTANDA G2・GOTANDA G3（東京都）",
+     "source_url": "https://ticketdive.com/event/PIF_1205",
+     "confidence": "high"
+    }
+   ]
+  },
+  "GIRLS GIRLS IDOL PROJECT": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "POP IN FESTIVAL 2026",
+     "kind": "フェス",
+     "venue": "GOTANDA G2・GOTANDA G3（東京都）",
+     "source_url": "https://ticketdive.com/event/PIF_1205",
+     "confidence": "high"
+    }
+   ]
+  },
+  "蓋然性オルトイズム": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "POP IN FESTIVAL 2026",
+     "kind": "フェス",
+     "venue": "GOTANDA G2・GOTANDA G3（東京都）",
+     "source_url": "https://ticketdive.com/event/PIF_1205",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Coloration": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "POP IN FESTIVAL 2026",
+     "kind": "フェス",
+     "venue": "GOTANDA G2・GOTANDA G3（東京都）",
+     "source_url": "https://ticketdive.com/event/PIF_1205",
+     "confidence": "high"
+    }
+   ]
+  },
+  "君と青": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "POP IN FESTIVAL 2026",
+     "kind": "フェス",
+     "venue": "GOTANDA G2・GOTANDA G3（東京都）",
+     "source_url": "https://ticketdive.com/event/PIF_1205",
+     "confidence": "high"
+    }
+   ]
+  },
+  "キミニハネ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "POP IN FESTIVAL 2026",
+     "kind": "フェス",
+     "venue": "GOTANDA G2・GOTANDA G3（東京都）",
+     "source_url": "https://ticketdive.com/event/PIF_1205",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Krays": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "POP IN FESTIVAL 2026",
+     "kind": "フェス",
+     "venue": "GOTANDA G2・GOTANDA G3（東京都）",
+     "source_url": "https://ticketdive.com/event/PIF_1205",
+     "confidence": "high"
+    }
+   ]
+  },
+  "幻色シアター": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "POP IN FESTIVAL 2026",
+     "kind": "フェス",
+     "venue": "GOTANDA G2・GOTANDA G3（東京都）",
+     "source_url": "https://ticketdive.com/event/PIF_1205",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Sistersあにま": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "POP IN FESTIVAL 2026",
+     "kind": "フェス",
+     "venue": "GOTANDA G2・GOTANDA G3（東京都）",
+     "source_url": "https://ticketdive.com/event/PIF_1205",
+     "confidence": "high"
+    }
+   ]
+  },
+  "終幕劇場": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "POP IN FESTIVAL 2026",
+     "kind": "フェス",
+     "venue": "GOTANDA G2・GOTANDA G3（東京都）",
+     "source_url": "https://ticketdive.com/event/PIF_1205",
+     "confidence": "high"
+    }
+   ]
+  },
+  "月とソーダ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "POP IN FESTIVAL 2026",
+     "kind": "フェス",
+     "venue": "GOTANDA G2・GOTANDA G3（東京都）",
+     "source_url": "https://ticketdive.com/event/PIF_1205",
+     "confidence": "high"
+    }
+   ]
+  },
+  "TEARS-ティアーズ-": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "POP IN FESTIVAL 2026",
+     "kind": "フェス",
+     "venue": "GOTANDA G2・GOTANDA G3（東京都）",
+     "source_url": "https://ticketdive.com/event/PIF_1205",
+     "confidence": "high"
+    }
+   ]
+  },
+  "チキータ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "POP IN FESTIVAL 2026",
+     "kind": "フェス",
+     "venue": "GOTANDA G2・GOTANDA G3（東京都）",
+     "source_url": "https://ticketdive.com/event/PIF_1205",
+     "confidence": "high"
+    }
+   ]
+  },
+  "てんしろっ！": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "POP IN FESTIVAL 2026",
+     "kind": "フェス",
+     "venue": "GOTANDA G2・GOTANDA G3（東京都）",
+     "source_url": "https://ticketdive.com/event/PIF_1205",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ドキドキハキミノセイ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "POP IN FESTIVAL 2026",
+     "kind": "フェス",
+     "venue": "GOTANDA G2・GOTANDA G3（東京都）",
+     "source_url": "https://ticketdive.com/event/PIF_1205",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Dozy✝Doze": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "POP IN FESTIVAL 2026",
+     "kind": "フェス",
+     "venue": "GOTANDA G2・GOTANDA G3（東京都）",
+     "source_url": "https://ticketdive.com/event/PIF_1205",
+     "confidence": "high"
+    }
+   ]
+  },
+  "なづ季澪": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "POP IN FESTIVAL 2026",
+     "kind": "フェス",
+     "venue": "GOTANDA G2・GOTANDA G3（東京都）",
+     "source_url": "https://ticketdive.com/event/PIF_1205",
+     "confidence": "high"
+    }
+   ]
+  },
+  "にとくり。": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "POP IN FESTIVAL 2026",
+     "kind": "フェス",
+     "venue": "GOTANDA G2・GOTANDA G3（東京都）",
+     "source_url": "https://ticketdive.com/event/PIF_1205",
+     "confidence": "high"
+    }
+   ]
+  },
+  "虹月Rainbow_moon": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "POP IN FESTIVAL 2026",
+     "kind": "フェス",
+     "venue": "GOTANDA G2・GOTANDA G3（東京都）",
+     "source_url": "https://ticketdive.com/event/PIF_1205",
+     "confidence": "high"
+    }
+   ]
+  },
+  "New Crown": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "POP IN FESTIVAL 2026",
+     "kind": "フェス",
+     "venue": "GOTANDA G2・GOTANDA G3（東京都）",
+     "source_url": "https://ticketdive.com/event/PIF_1205",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ひとつキラリ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "POP IN FESTIVAL 2026",
+     "kind": "フェス",
+     "venue": "GOTANDA G2・GOTANDA G3（東京都）",
+     "source_url": "https://ticketdive.com/event/PIF_1205",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ビーバイユー": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "POP IN FESTIVAL 2026",
+     "kind": "フェス",
+     "venue": "GOTANDA G2・GOTANDA G3（東京都）",
+     "source_url": "https://ticketdive.com/event/PIF_1205",
+     "confidence": "high"
+    }
+   ]
+  },
+  "FENRIR": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "POP IN FESTIVAL 2026",
+     "kind": "フェス",
+     "venue": "GOTANDA G2・GOTANDA G3（東京都）",
+     "source_url": "https://ticketdive.com/event/PIF_1205",
+     "confidence": "high"
+    }
+   ]
+  },
+  "FAPPINESS": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "POP IN FESTIVAL 2026",
+     "kind": "フェス",
+     "venue": "GOTANDA G2・GOTANDA G3（東京都）",
+     "source_url": "https://ticketdive.com/event/PIF_1205",
+     "confidence": "high"
+    }
+   ]
+  },
+  "BABBLY BUBBLY": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "POP IN FESTIVAL 2026",
+     "kind": "フェス",
+     "venue": "GOTANDA G2・GOTANDA G3（東京都）",
+     "source_url": "https://ticketdive.com/event/PIF_1205",
+     "confidence": "high"
+    }
+   ]
+  },
+  "まあちゃん8歳": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "POP IN FESTIVAL 2026",
+     "kind": "フェス",
+     "venue": "GOTANDA G2・GOTANDA G3（東京都）",
+     "source_url": "https://ticketdive.com/event/PIF_1205",
+     "confidence": "high"
+    }
+   ]
+  },
+  "まぶだちゅ！": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "POP IN FESTIVAL 2026",
+     "kind": "フェス",
+     "venue": "GOTANDA G2・GOTANDA G3（東京都）",
+     "source_url": "https://ticketdive.com/event/PIF_1205",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ミスティア！": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "POP IN FESTIVAL 2026",
+     "kind": "フェス",
+     "venue": "GOTANDA G2・GOTANDA G3（東京都）",
+     "source_url": "https://ticketdive.com/event/PIF_1205",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ミニスカポリス": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "POP IN FESTIVAL 2026",
+     "kind": "フェス",
+     "venue": "GOTANDA G2・GOTANDA G3（東京都）",
+     "source_url": "https://ticketdive.com/event/PIF_1205",
+     "confidence": "high"
+    }
+   ]
+  },
+  "miao": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "POP IN FESTIVAL 2026",
+     "kind": "フェス",
+     "venue": "GOTANDA G2・GOTANDA G3（東京都）",
+     "source_url": "https://ticketdive.com/event/PIF_1205",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ミライズ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "POP IN FESTIVAL 2026",
+     "kind": "フェス",
+     "venue": "GOTANDA G2・GOTANDA G3（東京都）",
+     "source_url": "https://ticketdive.com/event/PIF_1205",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Miluμ!": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "POP IN FESTIVAL 2026",
+     "kind": "フェス",
+     "venue": "GOTANDA G2・GOTANDA G3（東京都）",
+     "source_url": "https://ticketdive.com/event/PIF_1205",
+     "confidence": "high"
+    }
+   ]
+  },
+  "夢幻に咲く詩": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "POP IN FESTIVAL 2026",
+     "kind": "フェス",
+     "venue": "GOTANDA G2・GOTANDA G3（東京都）",
+     "source_url": "https://ticketdive.com/event/PIF_1205",
+     "confidence": "high"
+    }
+   ]
+  },
+  "メモワールパルファム": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "POP IN FESTIVAL 2026",
+     "kind": "フェス",
+     "venue": "GOTANDA G2・GOTANDA G3（東京都）",
+     "source_url": "https://ticketdive.com/event/PIF_1205",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Melty BeaR": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "POP IN FESTIVAL 2026",
+     "kind": "フェス",
+     "venue": "GOTANDA G2・GOTANDA G3（東京都）",
+     "source_url": "https://ticketdive.com/event/PIF_1205",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ゆにきゅーと": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "POP IN FESTIVAL 2026",
+     "kind": "フェス",
+     "venue": "GOTANDA G2・GOTANDA G3（東京都）",
+     "source_url": "https://ticketdive.com/event/PIF_1205",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ラビットビット": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "POP IN FESTIVAL 2026",
+     "kind": "フェス",
+     "venue": "GOTANDA G2・GOTANDA G3（東京都）",
+     "source_url": "https://ticketdive.com/event/PIF_1205",
+     "confidence": "high"
+    }
+   ]
+  },
+  "LOVE IT'S": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "POP IN FESTIVAL 2026",
+     "kind": "フェス",
+     "venue": "GOTANDA G2・GOTANDA G3（東京都）",
+     "source_url": "https://ticketdive.com/event/PIF_1205",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Lilite tune": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "POP IN FESTIVAL 2026",
+     "kind": "フェス",
+     "venue": "GOTANDA G2・GOTANDA G3（東京都）",
+     "source_url": "https://ticketdive.com/event/PIF_1205",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ルートプリュフォール": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "POP IN FESTIVAL 2026",
+     "kind": "フェス",
+     "venue": "GOTANDA G2・GOTANDA G3（東京都）",
+     "source_url": "https://ticketdive.com/event/PIF_1205",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ルシフェルの園。": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "POP IN FESTIVAL 2026",
+     "kind": "フェス",
+     "venue": "GOTANDA G2・GOTANDA G3（東京都）",
+     "source_url": "https://ticketdive.com/event/PIF_1205",
+     "confidence": "high"
+    }
+   ]
+  },
+  "LUNARISE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "POP IN FESTIVAL 2026",
+     "kind": "フェス",
+     "venue": "GOTANDA G2・GOTANDA G3（東京都）",
+     "source_url": "https://ticketdive.com/event/PIF_1205",
+     "confidence": "high"
+    }
+   ]
+  },
+  "レプスルプス": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "POP IN FESTIVAL 2026",
+     "kind": "フェス",
+     "venue": "GOTANDA G2・GOTANDA G3（東京都）",
+     "source_url": "https://ticketdive.com/event/PIF_1205",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Remi Belle": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "POP IN FESTIVAL 2026",
+     "kind": "フェス",
+     "venue": "GOTANDA G2・GOTANDA G3（東京都）",
+     "source_url": "https://ticketdive.com/event/PIF_1205",
+     "confidence": "high"
+    }
+   ]
+  },
+  "LEVEL7": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "POP IN FESTIVAL 2026",
+     "kind": "フェス",
+     "venue": "GOTANDA G2・GOTANDA G3（東京都）",
+     "source_url": "https://ticketdive.com/event/PIF_1205",
+     "confidence": "high"
+    }
+   ]
+  },
+  "LONDON BLUE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "POP IN FESTIVAL 2026",
+     "kind": "フェス",
+     "venue": "GOTANDA G2・GOTANDA G3（東京都）",
+     "source_url": "https://ticketdive.com/event/PIF_1205",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ワガマき": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "POP IN FESTIVAL 2026",
+     "kind": "フェス",
+     "venue": "GOTANDA G2・GOTANDA G3（東京都）",
+     "source_url": "https://ticketdive.com/event/PIF_1205",
+     "confidence": "high"
+    }
+   ]
+  },
+  "乃紫": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "GRAND GREEN HOLIDAY × FM COCOLO WITH HEART FES.",
+     "kind": "フェス",
+     "venue": "ロートハートスクエアうめきた・タイムアウトマーケット大阪（大阪府）",
+     "source_url": "https://umekita.com/sc/topics/12_5_12_6_with_heart_fes/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "藤原さくら": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "GRAND GREEN HOLIDAY × FM COCOLO WITH HEART FES.",
+     "kind": "フェス",
+     "venue": "ロートハートスクエアうめきた・タイムアウトマーケット大阪（大阪府）",
+     "source_url": "https://umekita.com/sc/topics/12_5_12_6_with_heart_fes/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "矢井田 瞳": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "GRAND GREEN HOLIDAY × FM COCOLO WITH HEART FES.",
+     "kind": "フェス",
+     "venue": "ロートハートスクエアうめきた・タイムアウトマーケット大阪（大阪府）",
+     "source_url": "https://umekita.com/sc/topics/12_5_12_6_with_heart_fes/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "馬場 俊英": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "GRAND GREEN HOLIDAY × FM COCOLO WITH HEART FES.",
+     "kind": "フェス",
+     "venue": "ロートハートスクエアうめきた・タイムアウトマーケット大阪（大阪府）",
+     "source_url": "https://umekita.com/sc/topics/12_5_12_6_with_heart_fes/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "富岡 愛": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "GRAND GREEN HOLIDAY × FM COCOLO WITH HEART FES.",
+     "kind": "フェス",
+     "venue": "ロートハートスクエアうめきた・タイムアウトマーケット大阪（大阪府）",
+     "source_url": "https://umekita.com/sc/topics/12_5_12_6_with_heart_fes/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "HIKKA": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "GRAND GREEN HOLIDAY × FM COCOLO WITH HEART FES.",
+     "kind": "フェス",
+     "venue": "ロートハートスクエアうめきた・タイムアウトマーケット大阪（大阪府）",
+     "source_url": "https://umekita.com/sc/topics/12_5_12_6_with_heart_fes/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "友成空": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "GRAND GREEN HOLIDAY × FM COCOLO WITH HEART FES.",
+     "kind": "フェス",
+     "venue": "ロートハートスクエアうめきた・タイムアウトマーケット大阪（大阪府）",
+     "source_url": "https://umekita.com/sc/topics/12_5_12_6_with_heart_fes/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "家入レオ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "GRAND GREEN HOLIDAY × FM COCOLO WITH HEART FES.",
+     "kind": "フェス",
+     "venue": "ロートハートスクエアうめきた・タイムアウトマーケット大阪（大阪府）",
+     "source_url": "https://umekita.com/sc/topics/12_5_12_6_with_heart_fes/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "MONKEY MAJIK": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "GRAND GREEN HOLIDAY × FM COCOLO WITH HEART FES.",
+     "kind": "フェス",
+     "venue": "ロートハートスクエアうめきた・タイムアウトマーケット大阪（大阪府）",
+     "source_url": "https://umekita.com/sc/topics/12_5_12_6_with_heart_fes/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Skoop On Somebody": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "GRAND GREEN HOLIDAY × FM COCOLO WITH HEART FES.",
+     "kind": "フェス",
+     "venue": "ロートハートスクエアうめきた・タイムアウトマーケット大阪（大阪府）",
+     "source_url": "https://umekita.com/sc/topics/12_5_12_6_with_heart_fes/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ミカヅキグマ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "姫路サウンドトポロジー2026",
+     "kind": "フェス",
+     "venue": "姫路市内3店舗（兵庫県）",
+     "source_url": "https://himeji-st.net",
+     "confidence": "high"
+    }
+   ]
+  },
+  "加藤鯨": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "姫路サウンドトポロジー2026",
+     "kind": "フェス",
+     "venue": "姫路市内3店舗（兵庫県）",
+     "source_url": "https://himeji-st.net",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ハロルド": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "姫路サウンドトポロジー2026",
+     "kind": "フェス",
+     "venue": "姫路市内3店舗（兵庫県）",
+     "source_url": "https://himeji-st.net",
+     "confidence": "high"
+    }
+   ]
+  },
+  "コシカワヒヨリ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "姫路サウンドトポロジー2026",
+     "kind": "フェス",
+     "venue": "姫路市内3店舗（兵庫県）",
+     "source_url": "https://himeji-st.net",
+     "confidence": "high"
+    }
+   ]
+  },
+  "鴨しんご": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "姫路サウンドトポロジー2026",
+     "kind": "フェス",
+     "venue": "姫路市内3店舗（兵庫県）",
+     "source_url": "https://himeji-st.net",
+     "confidence": "high"
+    }
+   ]
+  },
+  "TAK（Hybrid）": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "姫路サウンドトポロジー2026",
+     "kind": "フェス",
+     "venue": "姫路市内3店舗（兵庫県）",
+     "source_url": "https://himeji-st.net",
+     "confidence": "high"
+    }
+   ]
+  },
+  "イマノタイキ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "姫路サウンドトポロジー2026",
+     "kind": "フェス",
+     "venue": "姫路市内3店舗（兵庫県）",
+     "source_url": "https://himeji-st.net",
+     "confidence": "high"
+    }
+   ]
+  },
+  "つるんづマリー": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "姫路サウンドトポロジー2026",
+     "kind": "フェス",
+     "venue": "姫路市内3店舗（兵庫県）",
+     "source_url": "https://himeji-st.net",
+     "confidence": "high"
+    }
+   ]
+  },
+  "乙女ひろき": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "姫路サウンドトポロジー2026",
+     "kind": "フェス",
+     "venue": "姫路市内3店舗（兵庫県）",
+     "source_url": "https://himeji-st.net",
+     "confidence": "high"
+    }
+   ]
+  },
+  "みりん。": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "姫路サウンドトポロジー2026",
+     "kind": "フェス",
+     "venue": "姫路市内3店舗（兵庫県）",
+     "source_url": "https://himeji-st.net",
+     "confidence": "high"
+    }
+   ]
+  },
+  "げんき": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "姫路サウンドトポロジー2026",
+     "kind": "フェス",
+     "venue": "姫路市内3店舗（兵庫県）",
+     "source_url": "https://himeji-st.net",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ちゃむりん": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "姫路サウンドトポロジー2026",
+     "kind": "フェス",
+     "venue": "姫路市内3店舗（兵庫県）",
+     "source_url": "https://himeji-st.net",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ペーター": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "姫路サウンドトポロジー2026",
+     "kind": "フェス",
+     "venue": "姫路市内3店舗（兵庫県）",
+     "source_url": "https://himeji-st.net",
+     "confidence": "high"
+    }
+   ]
+  },
+  "コトリ木 with 井波陽子": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "姫路サウンドトポロジー2026",
+     "kind": "フェス",
+     "venue": "姫路市内3店舗（兵庫県）",
+     "source_url": "https://himeji-st.net",
+     "confidence": "high"
+    }
+   ]
+  },
+  "milo.": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "姫路サウンドトポロジー2026",
+     "kind": "フェス",
+     "venue": "姫路市内3店舗（兵庫県）",
+     "source_url": "https://himeji-st.net",
+     "confidence": "high"
+    }
+   ]
+  },
+  "syu": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "姫路サウンドトポロジー2026",
+     "kind": "フェス",
+     "venue": "姫路市内3店舗（兵庫県）",
+     "source_url": "https://himeji-st.net",
+     "confidence": "high"
+    }
+   ]
+  },
+  "なっちゃん": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "姫路サウンドトポロジー2026",
+     "kind": "フェス",
+     "venue": "姫路市内3店舗（兵庫県）",
+     "source_url": "https://himeji-st.net",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Hidra": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "姫路サウンドトポロジー2026",
+     "kind": "フェス",
+     "venue": "姫路市内3店舗（兵庫県）",
+     "source_url": "https://himeji-st.net",
+     "confidence": "high"
+    }
+   ]
+  },
+  "インレイカ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "姫路サウンドトポロジー2026",
+     "kind": "フェス",
+     "venue": "姫路市内3店舗（兵庫県）",
+     "source_url": "https://himeji-st.net",
+     "confidence": "high"
+    }
+   ]
+  },
+  "小野山雄海": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "姫路サウンドトポロジー2026",
+     "kind": "フェス",
+     "venue": "姫路市内3店舗（兵庫県）",
+     "source_url": "https://himeji-st.net",
+     "confidence": "high"
+    }
+   ]
+  },
+  "矢野ゾミ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "姫路サウンドトポロジー2026",
+     "kind": "フェス",
+     "venue": "姫路市内3店舗（兵庫県）",
+     "source_url": "https://himeji-st.net",
+     "confidence": "high"
+    }
+   ]
+  },
+  "本城タカヒロ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "姫路サウンドトポロジー2026",
+     "kind": "フェス",
+     "venue": "姫路市内3店舗（兵庫県）",
+     "source_url": "https://himeji-st.net",
+     "confidence": "high"
+    }
+   ]
+  },
+  "煤城ダイ（武装衝突）": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "姫路サウンドトポロジー2026",
+     "kind": "フェス",
+     "venue": "姫路市内3店舗（兵庫県）",
+     "source_url": "https://himeji-st.net",
+     "confidence": "high"
+    }
+   ]
+  },
+  "カンダケイコ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "姫路サウンドトポロジー2026",
+     "kind": "フェス",
+     "venue": "姫路市内3店舗（兵庫県）",
+     "source_url": "https://himeji-st.net",
+     "confidence": "high"
+    }
+   ]
+  },
+  "詩屋万次郎": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "姫路サウンドトポロジー2026",
+     "kind": "フェス",
+     "venue": "姫路市内3店舗（兵庫県）",
+     "source_url": "https://himeji-st.net",
+     "confidence": "high"
+    }
+   ]
+  },
+  "うたうたいの翠": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "姫路サウンドトポロジー2026",
+     "kind": "フェス",
+     "venue": "姫路市内3店舗（兵庫県）",
+     "source_url": "https://himeji-st.net",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Sota": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "姫路サウンドトポロジー2026",
+     "kind": "フェス",
+     "venue": "姫路市内3店舗（兵庫県）",
+     "source_url": "https://himeji-st.net",
+     "confidence": "high"
+    }
+   ]
+  },
+  "あきを": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "姫路サウンドトポロジー2026",
+     "kind": "フェス",
+     "venue": "姫路市内3店舗（兵庫県）",
+     "source_url": "https://himeji-st.net",
+     "confidence": "high"
+    }
+   ]
+  },
+  "岸っしゃん": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "姫路サウンドトポロジー2026",
+     "kind": "フェス",
+     "venue": "姫路市内3店舗（兵庫県）",
+     "source_url": "https://himeji-st.net",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Kubota Tetsuya": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "姫路サウンドトポロジー2026",
+     "kind": "フェス",
+     "venue": "姫路市内3店舗（兵庫県）",
+     "source_url": "https://himeji-st.net",
+     "confidence": "high"
+    }
+   ]
+  },
+  "サーモン矢野": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "姫路サウンドトポロジー2026",
+     "kind": "フェス",
+     "venue": "姫路市内3店舗（兵庫県）",
+     "source_url": "https://himeji-st.net",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Sari Sari": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "姫路サウンドトポロジー2026",
+     "kind": "フェス",
+     "venue": "姫路市内3店舗（兵庫県）",
+     "source_url": "https://himeji-st.net",
+     "confidence": "high"
+    }
+   ]
+  },
+  "春田玄": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "姫路サウンドトポロジー2026",
+     "kind": "フェス",
+     "venue": "姫路市内3店舗（兵庫県）",
+     "source_url": "https://himeji-st.net",
+     "confidence": "high"
+    }
+   ]
+  },
+  "岡崎": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "姫路サウンドトポロジー2026",
+     "kind": "フェス",
+     "venue": "姫路市内3店舗（兵庫県）",
+     "source_url": "https://himeji-st.net",
+     "confidence": "high"
+    }
+   ]
+  },
+  "嵯峨山悠": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "姫路サウンドトポロジー2026",
+     "kind": "フェス",
+     "venue": "姫路市内3店舗（兵庫県）",
+     "source_url": "https://himeji-st.net",
+     "confidence": "high"
+    }
+   ]
+  },
+  "そると姉妹": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "姫路サウンドトポロジー2026",
+     "kind": "フェス",
+     "venue": "姫路市内3店舗（兵庫県）",
+     "source_url": "https://himeji-st.net",
+     "confidence": "high"
+    }
+   ]
+  },
+  "西牧力": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "姫路サウンドトポロジー2026",
+     "kind": "フェス",
+     "venue": "姫路市内3店舗（兵庫県）",
+     "source_url": "https://himeji-st.net",
+     "confidence": "high"
+    }
+   ]
+  },
+  "773。": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "姫路サウンドトポロジー2026",
+     "kind": "フェス",
+     "venue": "姫路市内3店舗（兵庫県）",
+     "source_url": "https://himeji-st.net",
+     "confidence": "high"
+    }
+   ]
+  },
+  "起暉 – tatsuki": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "姫路サウンドトポロジー2026",
+     "kind": "フェス",
+     "venue": "姫路市内3店舗（兵庫県）",
+     "source_url": "https://himeji-st.net",
+     "confidence": "high"
+    }
+   ]
+  },
+  "長谷川信也": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "姫路サウンドトポロジー2026",
+     "kind": "フェス",
+     "venue": "姫路市内3店舗（兵庫県）",
+     "source_url": "https://himeji-st.net",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Melty×Mellow": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SURPASS LIVE FEST 2026",
+     "kind": "フェス",
+     "venue": "KMA PARADISE HALL（東京都）",
+     "source_url": "https://surpass-inc.net/live-fest/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "20SI.": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SURPASS LIVE FEST 2026",
+     "kind": "フェス",
+     "venue": "KMA PARADISE HALL（東京都）",
+     "source_url": "https://surpass-inc.net/live-fest/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "YoiN": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SURPASS LIVE FEST 2026",
+     "kind": "フェス",
+     "venue": "KMA PARADISE HALL（東京都）",
+     "source_url": "https://surpass-inc.net/live-fest/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "19Si.": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SURPASS LIVE FEST 2026",
+     "kind": "フェス",
+     "venue": "KMA PARADISE HALL（東京都）",
+     "source_url": "https://surpass-inc.net/live-fest/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "TIGERLILY": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SURPASS LIVE FEST 2026",
+     "kind": "フェス",
+     "venue": "KMA PARADISE HALL（東京都）",
+     "source_url": "https://surpass-inc.net/live-fest/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Lovely Trip": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SURPASS LIVE FEST 2026",
+     "kind": "フェス",
+     "venue": "KMA PARADISE HALL（東京都）",
+     "source_url": "https://surpass-inc.net/live-fest/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Bloom CHIC": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SURPASS LIVE FEST 2026",
+     "kind": "フェス",
+     "venue": "KMA PARADISE HALL（東京都）",
+     "source_url": "https://surpass-inc.net/live-fest/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "FLΛME": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SURPASS LIVE FEST 2026",
+     "kind": "フェス",
+     "venue": "KMA PARADISE HALL（東京都）",
+     "source_url": "https://surpass-inc.net/live-fest/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "＆マスコット": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SURPASS LIVE FEST 2026",
+     "kind": "フェス",
+     "venue": "KMA PARADISE HALL（東京都）",
+     "source_url": "https://surpass-inc.net/live-fest/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "あぷちぇら": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-09",
+     "title": "第5回 AJIF オールジャパンアイドルフェス",
+     "kind": "フェス",
+     "venue": "浅草VAMPKIN（東京都）",
+     "source_url": "https://ajif.jp/2026/11/09/%E3%80%902026%E5%B9%B412%E6%9C%88%E3%80%91%E7%AC%AC5%E5%9B%9E%E3%80%8Eajif-%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%95%E3%82%A7/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "KIMIDOKU": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-09",
+     "title": "第5回 AJIF オールジャパンアイドルフェス",
+     "kind": "フェス",
+     "venue": "浅草VAMPKIN（東京都）",
+     "source_url": "https://ajif.jp/2026/11/09/%E3%80%902026%E5%B9%B412%E6%9C%88%E3%80%91%E7%AC%AC5%E5%9B%9E%E3%80%8Eajif-%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%95%E3%82%A7/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "きみはれ。": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-09",
+     "title": "第5回 AJIF オールジャパンアイドルフェス",
+     "kind": "フェス",
+     "venue": "浅草VAMPKIN（東京都）",
+     "source_url": "https://ajif.jp/2026/11/09/%E3%80%902026%E5%B9%B412%E6%9C%88%E3%80%91%E7%AC%AC5%E5%9B%9E%E3%80%8Eajif-%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%95%E3%82%A7/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Crazy Fantasy": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-09",
+     "title": "第5回 AJIF オールジャパンアイドルフェス",
+     "kind": "フェス",
+     "venue": "浅草VAMPKIN（東京都）",
+     "source_url": "https://ajif.jp/2026/11/09/%E3%80%902026%E5%B9%B412%E6%9C%88%E3%80%91%E7%AC%AC5%E5%9B%9E%E3%80%8Eajif-%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%95%E3%82%A7/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Jewelry Palette": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-09",
+     "title": "第5回 AJIF オールジャパンアイドルフェス",
+     "kind": "フェス",
+     "venue": "浅草VAMPKIN（東京都）",
+     "source_url": "https://ajif.jp/2026/11/09/%E3%80%902026%E5%B9%B412%E6%9C%88%E3%80%91%E7%AC%AC5%E5%9B%9E%E3%80%8Eajif-%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%95%E3%82%A7/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "空色Glitter": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-09",
+     "title": "第5回 AJIF オールジャパンアイドルフェス",
+     "kind": "フェス",
+     "venue": "浅草VAMPKIN（東京都）",
+     "source_url": "https://ajif.jp/2026/11/09/%E3%80%902026%E5%B9%B412%E6%9C%88%E3%80%91%E7%AC%AC5%E5%9B%9E%E3%80%8Eajif-%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%95%E3%82%A7/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "天使の白衣": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-09",
+     "title": "第5回 AJIF オールジャパンアイドルフェス",
+     "kind": "フェス",
+     "venue": "浅草VAMPKIN（東京都）",
+     "source_url": "https://ajif.jp/2026/11/09/%E3%80%902026%E5%B9%B412%E6%9C%88%E3%80%91%E7%AC%AC5%E5%9B%9E%E3%80%8Eajif-%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%95%E3%82%A7/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "BANZAI JAPAN": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-09",
+     "title": "第5回 AJIF オールジャパンアイドルフェス",
+     "kind": "フェス",
+     "venue": "浅草VAMPKIN（東京都）",
+     "source_url": "https://ajif.jp/2026/11/09/%E3%80%902026%E5%B9%B412%E6%9C%88%E3%80%91%E7%AC%AC5%E5%9B%9E%E3%80%8Eajif-%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%95%E3%82%A7/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Poupée²": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-09",
+     "title": "第5回 AJIF オールジャパンアイドルフェス",
+     "kind": "フェス",
+     "venue": "浅草VAMPKIN（東京都）",
+     "source_url": "https://ajif.jp/2026/11/09/%E3%80%902026%E5%B9%B412%E6%9C%88%E3%80%91%E7%AC%AC5%E5%9B%9E%E3%80%8Eajif-%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%95%E3%82%A7/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "LitMelt": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-09",
+     "title": "第5回 AJIF オールジャパンアイドルフェス",
+     "kind": "フェス",
+     "venue": "浅草VAMPKIN（東京都）",
+     "source_url": "https://ajif.jp/2026/11/09/%E3%80%902026%E5%B9%B412%E6%9C%88%E3%80%91%E7%AC%AC5%E5%9B%9E%E3%80%8Eajif-%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%95%E3%82%A7/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ルルエクレール": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-09",
+     "title": "第5回 AJIF オールジャパンアイドルフェス",
+     "kind": "フェス",
+     "venue": "浅草VAMPKIN（東京都）",
+     "source_url": "https://ajif.jp/2026/11/09/%E3%80%902026%E5%B9%B412%E6%9C%88%E3%80%91%E7%AC%AC5%E5%9B%9E%E3%80%8Eajif-%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%95%E3%82%A7/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Rociena": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-09",
+     "title": "第5回 AJIF オールジャパンアイドルフェス",
+     "kind": "フェス",
+     "venue": "浅草VAMPKIN（東京都）",
+     "source_url": "https://ajif.jp/2026/11/09/%E3%80%902026%E5%B9%B412%E6%9C%88%E3%80%91%E7%AC%AC5%E5%9B%9E%E3%80%8Eajif-%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%95%E3%82%A7/",
      "confidence": "high"
     }
    ]
