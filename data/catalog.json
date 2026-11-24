@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T20:08:42+09:00",
+ "updated": "2026-11-25T07:10:38+09:00",
  "artists": {
   "Saucy Dog": {
    "aliases": [
@@ -258,6 +258,14 @@
      "kind": "フェス",
      "venue": "広島グリーンアリーナ 大アリーナ（広島県）",
      "source_url": "https://eplus.jp/hiroshima-continew/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-12",
+     "title": "KAWAII LAB. Christmas SESSION 2026",
+     "kind": "フェス",
+     "venue": "有明アリーナ（東京都）",
+     "source_url": "https://sweetsteady.asobisystem.com/live_information/detail/44467",
      "confidence": "high"
     },
     {
@@ -1346,6 +1354,14 @@
      "kind": "フェス",
      "venue": "広島グリーンアリーナ 大アリーナ（広島県）",
      "source_url": "https://eplus.jp/hiroshima-continew/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-12",
+     "title": "KAWAII LAB. Christmas SESSION 2026",
+     "kind": "フェス",
+     "venue": "有明アリーナ（東京都）",
+     "source_url": "https://sweetsteady.asobisystem.com/live_information/detail/44467",
      "confidence": "high"
     },
     {
@@ -2849,6 +2865,14 @@
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
      "confidence": "high"
+    },
+    {
+     "date": "2027-03-20",
+     "title": "大港開唱 MEGAPORT FESTIVAL（出演日未定）",
+     "kind": "フェス",
+     "venue": "駁二芸術特区（台湾・高雄）",
+     "source_url": "https://www.mirrormedia.mg/external/setn_1941659",
+     "confidence": "low"
     }
    ]
   },
@@ -4086,6 +4110,14 @@
      "confidence": "high"
     },
     {
+     "date": "2026-12-14",
+     "title": "BURIFES 2026",
+     "kind": "フェス",
+     "venue": "下北沢シャングリラ（東京都）",
+     "source_url": "https://www.zaikei.co.jp/releases/3704827/",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-19",
      "title": "長田大行進曲",
      "kind": "フェス",
@@ -4530,6 +4562,14 @@
      "kind": "フェス",
      "venue": "ポートメッセなごや（愛知県）",
      "source_url": "https://www.merryrockparade.jp/artist.html",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-01-10",
+     "title": "東京浮世離れ歌謡祭2027（1/10）",
+     "kind": "フェス",
+     "venue": "東京キネマ倶楽部（東京都）",
+     "source_url": "https://www.hustle-records.com/news-list/27/01/10/ratbones",
      "confidence": "high"
     },
     {
@@ -7889,6 +7929,14 @@
      "confidence": "high"
     },
     {
+     "date": "2026-12-14",
+     "title": "BURIFES 2026",
+     "kind": "フェス",
+     "venue": "下北沢シャングリラ（東京都）",
+     "source_url": "https://www.zaikei.co.jp/releases/3704827/",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-27",
      "title": "RADIO CRAZY（12/27）",
      "kind": "フェス",
@@ -9676,6 +9724,22 @@
      "kind": "フェス",
      "venue": "下北沢の複数ライブハウス（東京）",
      "source_url": "https://gekirock.com/news/2026/10/kakumei2026_6th_lineup.php",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
      "confidence": "high"
     }
    ]
@@ -11837,6 +11901,14 @@
      "venue": "下北沢界隈(複数ライブハウス)（東京都）",
      "source_url": "https://www.ragnet.co.jp/music-festival-winter",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-14",
+     "title": "BURIFES 2026",
+     "kind": "フェス",
+     "venue": "下北沢シャングリラ（東京都）",
+     "source_url": "https://www.zaikei.co.jp/releases/3704827/",
+     "confidence": "high"
     }
    ]
   },
@@ -12850,6 +12922,14 @@
   "GLIM SPANKY": {
    "aliases": [],
    "events": [
+    {
+     "date": "2026-12-16",
+     "title": "The Covers' ウインターフェス",
+     "kind": "フェス",
+     "venue": "狭山市市民会館（埼玉県）",
+     "source_url": "https://natalie.mu/music/news/698752",
+     "confidence": "high"
+    },
     {
      "date": "2026-12-20",
      "title": "MERRY ROCK PARADE 2026（12/20）",
@@ -14214,6 +14294,14 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
      "date": "2027-02-06",
      "title": "でらロックフェスティバル（2/6〜2/7のいずれか）",
      "kind": "フェス",
@@ -14308,6 +14396,14 @@
      "confidence": "high"
     },
     {
+     "date": "2026-12-12",
+     "title": "KAWAII LAB. Christmas SESSION 2026",
+     "kind": "フェス",
+     "venue": "有明アリーナ（東京都）",
+     "source_url": "https://sweetsteady.asobisystem.com/live_information/detail/44467",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-26",
      "title": "COUNTDOWN JAPAN 26/27（12/26）",
      "kind": "フェス",
@@ -14355,6 +14451,14 @@
      "kind": "フェス",
      "venue": "広島グリーンアリーナ 大アリーナ（広島県）",
      "source_url": "https://www.hiroshima-continew.com/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-12",
+     "title": "KAWAII LAB. Christmas SESSION 2026",
+     "kind": "フェス",
+     "venue": "有明アリーナ（東京都）",
+     "source_url": "https://sweetsteady.asobisystem.com/live_information/detail/44467",
      "confidence": "high"
     }
    ]
@@ -14415,6 +14519,14 @@
      "kind": "フェス",
      "venue": "SGC Hall Ariake・TOYOTA ARENA TOKYO（東京都）",
      "source_url": "https://gift-idol.jp/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-12",
+     "title": "KAWAII LAB. Christmas SESSION 2026",
+     "kind": "フェス",
+     "venue": "有明アリーナ（東京都）",
+     "source_url": "https://sweetsteady.asobisystem.com/live_information/detail/44467",
      "confidence": "high"
     }
    ]
@@ -17331,6 +17443,14 @@
      "confidence": "high"
     },
     {
+     "date": "2026-12-14",
+     "title": "BURIFES 2026",
+     "kind": "フェス",
+     "venue": "下北沢シャングリラ（東京都）",
+     "source_url": "https://www.zaikei.co.jp/releases/3704827/",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-19",
      "title": "MERRY ROCK PARADE 2026（12/19）",
      "kind": "フェス",
@@ -18768,6 +18888,14 @@
      "confidence": "high"
     },
     {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
      "date": "2027-03-13",
      "title": "IDORISE!! FESTIVAL 2027",
      "kind": "フェス",
@@ -19009,6 +19137,14 @@
   "ハンバート ハンバート": {
    "aliases": [],
    "events": [
+    {
+     "date": "2026-12-16",
+     "title": "The Covers' ウインターフェス",
+     "kind": "フェス",
+     "venue": "狭山市市民会館（埼玉県）",
+     "source_url": "https://natalie.mu/music/news/698752",
+     "confidence": "high"
+    },
     {
      "date": "2027-03-07",
      "title": "J-WAVE TOKYO GUITAR JAMBOREE（3/7）",
@@ -21286,11 +21422,27 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-12",
      "title": "UTAGE FES",
      "kind": "フェス",
      "venue": "代々木公園野外ステージ（東京都）",
      "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
      "confidence": "high"
     },
     {
@@ -21307,11 +21459,27 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-12",
      "title": "UTAGE FES",
      "kind": "フェス",
      "venue": "代々木公園野外ステージ（東京都）",
      "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
      "confidence": "high"
     },
     {
@@ -21328,6 +21496,14 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
+     "confidence": "high"
+    },
+    {
      "date": "2027-03-13",
      "title": "IDORISE!! FESTIVAL 2027",
      "kind": "フェス",
@@ -21340,6 +21516,14 @@
   "CYNHN": {
    "aliases": [],
    "events": [
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
+     "confidence": "high"
+    },
     {
      "date": "2027-03-13",
      "title": "IDORISE!! FESTIVAL 2027",
@@ -21375,6 +21559,14 @@
      "confidence": "high"
     },
     {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
+     "confidence": "high"
+    },
+    {
      "date": "2027-03-13",
      "title": "IDORISE!! FESTIVAL 2027",
      "kind": "フェス",
@@ -21388,11 +21580,27 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-12",
      "title": "UTAGE FES",
      "kind": "フェス",
      "venue": "代々木公園野外ステージ（東京都）",
      "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
      "confidence": "high"
     },
     {
@@ -21417,6 +21625,14 @@
      "confidence": "high"
     },
     {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
+     "confidence": "high"
+    },
+    {
      "date": "2027-03-13",
      "title": "IDORISE!! FESTIVAL 2027",
      "kind": "フェス",
@@ -21438,6 +21654,14 @@
      "confidence": "high"
     },
     {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
+     "confidence": "high"
+    },
+    {
      "date": "2027-03-13",
      "title": "IDORISE!! FESTIVAL 2027",
      "kind": "フェス",
@@ -21451,6 +21675,22 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
+     "confidence": "high"
+    },
+    {
      "date": "2027-03-13",
      "title": "IDORISE!! FESTIVAL 2027",
      "kind": "フェス",
@@ -21463,6 +21703,30 @@
   "Palette Parade": {
    "aliases": [],
    "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
+     "confidence": "high"
+    },
     {
      "date": "2027-01-02",
      "title": "謹賀新年！アイドル初夢ライブ",
@@ -21506,6 +21770,14 @@
      "confidence": "high"
     },
     {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
+     "confidence": "high"
+    },
+    {
      "date": "2027-02-06",
      "title": "でらロックフェスティバル（2/6〜2/7のいずれか）",
      "kind": "フェス",
@@ -21532,6 +21804,14 @@
      "kind": "フェス",
      "venue": "代々木公園野外ステージ（東京都）",
      "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
      "confidence": "high"
     },
     {
@@ -21577,6 +21857,14 @@
      "confidence": "high"
     },
     {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
+     "confidence": "high"
+    },
+    {
      "date": "2027-03-13",
      "title": "IDORISE!! FESTIVAL 2027",
      "kind": "フェス",
@@ -21595,6 +21883,14 @@
      "kind": "フェス",
      "venue": "代々木公園野外ステージ（東京都）",
      "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
      "confidence": "high"
     },
     {
@@ -21619,6 +21915,22 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
+     "confidence": "high"
+    },
+    {
      "date": "2027-01-02",
      "title": "謹賀新年！アイドル初夢ライブ（1/2〜1/3。出演日未定）",
      "kind": "フェス",
@@ -21640,11 +21952,27 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-12",
      "title": "UTAGE FES",
      "kind": "フェス",
      "venue": "代々木公園野外ステージ（東京都）",
      "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
      "confidence": "high"
     },
     {
@@ -21661,11 +21989,27 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-12",
      "title": "UTAGE FES",
      "kind": "フェス",
      "venue": "代々木公園野外ステージ（東京都）",
      "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
      "confidence": "high"
     },
     {
@@ -21690,6 +22034,14 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
      "date": "2027-01-02",
      "title": "謹賀新年！アイドル初夢ライブ",
      "kind": "フェス",
@@ -21710,6 +22062,22 @@
   "MyDearDarlin'": {
    "aliases": [],
    "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
+     "confidence": "high"
+    },
     {
      "date": "2027-01-02",
      "title": "謹賀新年！アイドル初夢ライブ（1/2〜1/3。出演日未定）",
@@ -21732,6 +22100,14 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
      "date": "2027-03-13",
      "title": "IDORISE!! FESTIVAL 2027",
      "kind": "フェス",
@@ -21745,6 +22121,22 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
+     "confidence": "high"
+    },
+    {
      "date": "2027-03-13",
      "title": "IDORISE!! FESTIVAL 2027",
      "kind": "フェス",
@@ -21757,6 +22149,22 @@
   "Root mimi": {
    "aliases": [],
    "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
+     "confidence": "high"
+    },
     {
      "date": "2027-01-02",
      "title": "謹賀新年！アイドル初夢ライブ（1/2〜1/3。出演日未定）",
@@ -21800,6 +22208,14 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
      "date": "2027-03-13",
      "title": "IDORISE!! FESTIVAL 2027",
      "kind": "フェス",
@@ -21813,11 +22229,27 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-12",
      "title": "UTAGE FES",
      "kind": "フェス",
      "venue": "代々木公園野外ステージ（東京都）",
      "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
      "confidence": "high"
     },
     {
@@ -21833,6 +22265,30 @@
   "HzMe": {
    "aliases": [],
    "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
+     "confidence": "high"
+    },
     {
      "date": "2027-01-02",
      "title": "謹賀新年！アイドル初夢ライブ（1/2〜1/3。出演日未定）",
@@ -21855,11 +22311,27 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-12",
      "title": "UTAGE FES",
      "kind": "フェス",
      "venue": "代々木公園野外ステージ（東京都）",
      "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
      "confidence": "high"
     },
     {
@@ -21884,11 +22356,35 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-12",
      "title": "UTAGE FES",
      "kind": "フェス",
      "venue": "代々木公園野外ステージ（東京都）",
      "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
      "confidence": "high"
     },
     {
@@ -21995,6 +22491,14 @@
   "TURTLE ISLAND": {
    "aliases": [],
    "events": [
+    {
+     "date": "2027-01-10",
+     "title": "東京浮世離れ歌謡祭2027（1/10）",
+     "kind": "フェス",
+     "venue": "東京キネマ倶楽部（東京都）",
+     "source_url": "https://www.hustle-records.com/news-list/27/01/10/ratbones",
+     "confidence": "high"
+    },
     {
      "date": "2027-03-13",
      "title": "RUMBLE×JAG 2027（出演日未定）",
@@ -23876,6 +24380,14 @@
      "confidence": "high"
     },
     {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
+     "confidence": "high"
+    },
+    {
      "date": "2027-02-06",
      "title": "でらロックフェスティバル（2/6〜2/7のいずれか）",
      "kind": "フェス",
@@ -24885,6 +25397,22 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-12",
      "title": "UTAGE FES",
      "kind": "フェス",
@@ -24898,11 +25426,27 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-12",
      "title": "UTAGE FES",
      "kind": "フェス",
      "venue": "代々木公園野外ステージ（東京都）",
      "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
      "confidence": "high"
     }
    ]
@@ -24911,11 +25455,27 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-12",
      "title": "UTAGE FES",
      "kind": "フェス",
      "venue": "代々木公園野外ステージ（東京都）",
      "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
      "confidence": "high"
     }
    ]
@@ -24924,11 +25484,27 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-12",
      "title": "UTAGE FES",
      "kind": "フェス",
      "venue": "代々木公園野外ステージ（東京都）",
      "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
      "confidence": "high"
     },
     {
@@ -24945,6 +25521,14 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-12",
      "title": "UTAGE FES",
      "kind": "フェス",
@@ -24957,6 +25541,22 @@
   "PIAGRIM": {
    "aliases": [],
    "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
     {
      "date": "2026-12-12",
      "title": "UTAGE FES",
@@ -24971,11 +25571,27 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-12",
      "title": "UTAGE FES",
      "kind": "フェス",
      "venue": "代々木公園野外ステージ（東京都）",
      "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
      "confidence": "high"
     },
     {
@@ -24992,11 +25608,27 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-12",
      "title": "UTAGE FES",
      "kind": "フェス",
      "venue": "代々木公園野外ステージ（東京都）",
      "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
      "confidence": "high"
     }
    ]
@@ -25004,6 +25636,14 @@
   "RePLAY": {
    "aliases": [],
    "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
     {
      "date": "2026-12-12",
      "title": "UTAGE FES",
@@ -25023,6 +25663,14 @@
      "kind": "フェス",
      "venue": "代々木公園野外ステージ（東京都）",
      "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
      "confidence": "high"
     },
     {
@@ -25195,6 +25843,14 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-12-13",
+     "title": "Creators' Anthem「奥能登フェス」",
+     "kind": "フェス",
+     "venue": "南志見市場（石川県）",
+     "source_url": "https://hkrk.jp/event/",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-24",
      "title": "Idol Xmas Fes",
      "kind": "フェス",
@@ -25213,6 +25869,14 @@
      "kind": "フェス",
      "venue": "横浜アリーナ（神奈川県）",
      "source_url": "https://idol-xmas-fes.com/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
      "confidence": "high"
     }
    ]
@@ -25254,6 +25918,14 @@
   "点染テンセイ少女。": {
    "aliases": [],
    "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
     {
      "date": "2026-12-24",
      "title": "Idol Xmas Fes",
@@ -25341,6 +26013,14 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
      "date": "2027-01-02",
      "title": "謹賀新年！アイドル初夢ライブ",
      "kind": "フェス",
@@ -25366,6 +26046,22 @@
   "メイビーME": {
    "aliases": [],
    "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
+     "confidence": "high"
+    },
     {
      "date": "2027-01-02",
      "title": "謹賀新年！アイドル初夢ライブ",
@@ -26437,6 +27133,14 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
+     "confidence": "high"
+    },
+    {
      "date": "2027-02-06",
      "title": "でらロックフェスティバル（2/6〜2/7のいずれか）",
      "kind": "フェス",
@@ -26531,6 +27235,14 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
      "date": "2027-02-06",
      "title": "でらロックフェスティバル（2/6〜2/7のいずれか）",
      "kind": "フェス",
@@ -26569,6 +27281,14 @@
   "XINXIN": {
    "aliases": [],
    "events": [
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
+     "confidence": "high"
+    },
     {
      "date": "2027-02-06",
      "title": "でらロックフェスティバル（2/6〜2/7のいずれか）",
@@ -26621,6 +27341,14 @@
   "ぜろから☆すた→と": {
    "aliases": [],
    "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
     {
      "date": "2027-02-06",
      "title": "でらロックフェスティバル（2/6〜2/7のいずれか）",
@@ -27384,6 +28112,22 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
+     "confidence": "high"
+    },
+    {
      "date": "2027-03-13",
      "title": "IDORISE!! FESTIVAL 2027（出演日未定）",
      "kind": "フェス",
@@ -27396,6 +28140,22 @@
   "Kolokol": {
    "aliases": [],
    "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
+     "confidence": "high"
+    },
     {
      "date": "2027-03-13",
      "title": "IDORISE!! FESTIVAL 2027（出演日未定）",
@@ -27410,6 +28170,22 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
+     "confidence": "high"
+    },
+    {
      "date": "2027-03-13",
      "title": "IDORISE!! FESTIVAL 2027（出演日未定）",
      "kind": "フェス",
@@ -27422,6 +28198,22 @@
   "Mirror,Mirror": {
    "aliases": [],
    "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
+     "confidence": "high"
+    },
     {
      "date": "2027-03-13",
      "title": "IDORISE!! FESTIVAL 2027（出演日未定）",
@@ -27605,6 +28397,14 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-12-13",
+     "title": "MIW FES in 小豆島（12/13）",
+     "kind": "フェス",
+     "venue": "小豆島ふるさと村（香川県）",
+     "source_url": "https://news.dellows.jp/1316678/",
+     "confidence": "high"
+    },
+    {
      "date": "2027-04-03",
      "title": "中津川 AOZORA LINKUP2027",
      "kind": "フェス",
@@ -27695,6 +28495,14 @@
   "808": {
    "aliases": [],
    "events": [
+    {
+     "date": "2026-12-13",
+     "title": "MIW FES in 小豆島（12/13）",
+     "kind": "フェス",
+     "venue": "小豆島ふるさと村（香川県）",
+     "source_url": "https://news.dellows.jp/1316678/",
+     "confidence": "high"
+    },
     {
      "date": "2027-04-03",
      "title": "中津川 AOZORA LINKUP2027",
@@ -27922,6 +28730,14 @@
      "kind": "フェス",
      "venue": "養源寺・光源寺（駒込大観音）（文京区）（東京都）",
      "source_url": "https://juh.la/festival/2026/",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-01-09",
+     "title": "フフFES. 2027",
+     "kind": "フェス",
+     "venue": "長崎市民会館（長崎県）",
+     "source_url": "https://www.fmnagasaki.co.jp/concert/",
      "confidence": "high"
     }
    ]
@@ -28510,6 +29326,14 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
      "date": "2027-01-02",
      "title": "謹賀新年！アイドル初夢ライブ（1/2〜1/3。出演日未定）",
      "kind": "フェス",
@@ -28562,6 +29386,14 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
      "date": "2027-01-02",
      "title": "謹賀新年！アイドル初夢ライブ（1/2〜1/3。出演日未定）",
      "kind": "フェス",
@@ -28574,6 +29406,22 @@
   "SEKAIE☆": {
    "aliases": [],
    "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
+     "confidence": "high"
+    },
     {
      "date": "2027-01-02",
      "title": "謹賀新年！アイドル初夢ライブ（1/2〜1/3。出演日未定）",
@@ -28588,6 +29436,14 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
      "date": "2027-01-02",
      "title": "謹賀新年！アイドル初夢ライブ（1/2〜1/3。出演日未定）",
      "kind": "フェス",
@@ -28601,6 +29457,14 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
      "date": "2027-01-02",
      "title": "謹賀新年！アイドル初夢ライブ（1/2〜1/3。出演日未定）",
      "kind": "フェス",
@@ -28613,6 +29477,14 @@
   "二丁目の魁カミングアウト": {
    "aliases": [],
    "events": [
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
+     "confidence": "high"
+    },
     {
      "date": "2027-01-02",
      "title": "謹賀新年！アイドル初夢ライブ（1/2〜1/3。出演日未定）",
@@ -28640,6 +29512,22 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
      "date": "2027-01-02",
      "title": "謹賀新年！アイドル初夢ライブ（1/2〜1/3。出演日未定）",
      "kind": "フェス",
@@ -28666,6 +29554,14 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
      "date": "2027-01-02",
      "title": "謹賀新年！アイドル初夢ライブ（1/2〜1/3。出演日未定）",
      "kind": "フェス",
@@ -28678,6 +29574,14 @@
   "himawari(船橋)": {
    "aliases": [],
    "events": [
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
+     "confidence": "high"
+    },
     {
      "date": "2027-01-02",
      "title": "謹賀新年！アイドル初夢ライブ（1/2〜1/3。出演日未定）",
@@ -28692,6 +29596,22 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
+     "confidence": "high"
+    },
+    {
      "date": "2027-01-02",
      "title": "謹賀新年！アイドル初夢ライブ（1/2〜1/3。出演日未定）",
      "kind": "フェス",
@@ -28704,6 +29624,14 @@
   "FULIT BOX": {
    "aliases": [],
    "events": [
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
+     "confidence": "high"
+    },
     {
      "date": "2027-01-02",
      "title": "謹賀新年！アイドル初夢ライブ（1/2〜1/3。出演日未定）",
@@ -28718,6 +29646,30 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
+     "confidence": "high"
+    },
+    {
      "date": "2027-01-02",
      "title": "謹賀新年！アイドル初夢ライブ（1/2〜1/3。出演日未定）",
      "kind": "フェス",
@@ -28730,6 +29682,14 @@
   "Ma'Scar'Piece": {
    "aliases": [],
    "events": [
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
+     "confidence": "high"
+    },
     {
      "date": "2027-01-02",
      "title": "謹賀新年！アイドル初夢ライブ（1/2〜1/3。出演日未定）",
@@ -28744,6 +29704,22 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
+     "confidence": "high"
+    },
+    {
      "date": "2027-01-02",
      "title": "謹賀新年！アイドル初夢ライブ（1/2〜1/3。出演日未定）",
      "kind": "フェス",
@@ -28756,6 +29732,14 @@
   "愛乙女★DOLL": {
    "aliases": [],
    "events": [
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
+     "confidence": "high"
+    },
     {
      "date": "2027-01-02",
      "title": "謹賀新年！アイドル初夢ライブ（1/2〜1/3。出演日未定）",
@@ -28770,6 +29754,30 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
+     "confidence": "high"
+    },
+    {
      "date": "2027-01-02",
      "title": "謹賀新年！アイドル初夢ライブ（1/2〜1/3。出演日未定）",
      "kind": "フェス",
@@ -28782,6 +29790,14 @@
   "可憐なアイボリー": {
    "aliases": [],
    "events": [
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
+     "confidence": "high"
+    },
     {
      "date": "2027-01-02",
      "title": "謹賀新年！アイドル初夢ライブ（1/2〜1/3。出演日未定）",
@@ -28945,6 +29961,14 @@
      "venue": "GOTANDA G2・GOTANDA G3（東京都）",
      "source_url": "https://ticketdive.com/event/PIF_1205",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
     }
    ]
   },
@@ -28958,6 +29982,14 @@
      "venue": "GOTANDA G2・GOTANDA G3（東京都）",
      "source_url": "https://ticketdive.com/event/PIF_1205",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
     }
    ]
   },
@@ -28970,6 +30002,14 @@
      "kind": "フェス",
      "venue": "GOTANDA G2・GOTANDA G3（東京都）",
      "source_url": "https://ticketdive.com/event/PIF_1205",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
      "confidence": "high"
     }
    ]
@@ -29023,6 +30063,14 @@
      "venue": "GOTANDA G2・GOTANDA G3（東京都）",
      "source_url": "https://ticketdive.com/event/PIF_1205",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
     }
    ]
   },
@@ -29049,6 +30097,14 @@
      "venue": "GOTANDA G2・GOTANDA G3（東京都）",
      "source_url": "https://ticketdive.com/event/PIF_1205",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
     }
    ]
   },
@@ -29061,6 +30117,14 @@
      "kind": "フェス",
      "venue": "GOTANDA G2・GOTANDA G3（東京都）",
      "source_url": "https://ticketdive.com/event/PIF_1205",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
      "confidence": "high"
     }
    ]
@@ -29075,6 +30139,14 @@
      "venue": "GOTANDA G2・GOTANDA G3（東京都）",
      "source_url": "https://ticketdive.com/event/PIF_1205",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
     }
    ]
   },
@@ -29087,6 +30159,14 @@
      "kind": "フェス",
      "venue": "GOTANDA G2・GOTANDA G3（東京都）",
      "source_url": "https://ticketdive.com/event/PIF_1205",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
      "confidence": "high"
     }
    ]
@@ -29127,6 +30207,14 @@
      "venue": "GOTANDA G2・GOTANDA G3（東京都）",
      "source_url": "https://ticketdive.com/event/PIF_1205",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
     }
    ]
   },
@@ -29165,6 +30253,14 @@
      "kind": "フェス",
      "venue": "GOTANDA G2・GOTANDA G3（東京都）",
      "source_url": "https://ticketdive.com/event/PIF_1205",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
      "confidence": "high"
     }
    ]
@@ -29205,6 +30301,14 @@
      "venue": "GOTANDA G2・GOTANDA G3（東京都）",
      "source_url": "https://ticketdive.com/event/PIF_1205",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
     }
    ]
   },
@@ -29217,6 +30321,14 @@
      "kind": "フェス",
      "venue": "GOTANDA G2・GOTANDA G3（東京都）",
      "source_url": "https://ticketdive.com/event/PIF_1205",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
      "confidence": "high"
     }
    ]
@@ -29296,6 +30408,14 @@
      "venue": "GOTANDA G2・GOTANDA G3（東京都）",
      "source_url": "https://ticketdive.com/event/PIF_1205",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
     }
    ]
   },
@@ -29308,6 +30428,14 @@
      "kind": "フェス",
      "venue": "GOTANDA G2・GOTANDA G3（東京都）",
      "source_url": "https://ticketdive.com/event/PIF_1205",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
      "confidence": "high"
     }
    ]
@@ -29387,6 +30515,14 @@
      "venue": "GOTANDA G2・GOTANDA G3（東京都）",
      "source_url": "https://ticketdive.com/event/PIF_1205",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
     }
    ]
   },
@@ -29400,6 +30536,14 @@
      "venue": "GOTANDA G2・GOTANDA G3（東京都）",
      "source_url": "https://ticketdive.com/event/PIF_1205",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
     }
    ]
   },
@@ -29412,6 +30556,14 @@
      "kind": "フェス",
      "venue": "GOTANDA G2・GOTANDA G3（東京都）",
      "source_url": "https://ticketdive.com/event/PIF_1205",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
      "confidence": "high"
     }
    ]
@@ -29465,6 +30617,22 @@
      "venue": "GOTANDA G2・GOTANDA G3（東京都）",
      "source_url": "https://ticketdive.com/event/PIF_1205",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
+     "confidence": "high"
     }
    ]
   },
@@ -29490,6 +30658,14 @@
      "kind": "フェス",
      "venue": "GOTANDA G2・GOTANDA G3（東京都）",
      "source_url": "https://ticketdive.com/event/PIF_1205",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
      "confidence": "high"
     }
    ]
@@ -29620,6 +30796,14 @@
      "kind": "フェス",
      "venue": "GOTANDA G2・GOTANDA G3（東京都）",
      "source_url": "https://ticketdive.com/event/PIF_1205",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
      "confidence": "high"
     }
    ]
@@ -30421,6 +31605,22 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-09",
      "title": "第5回 AJIF オールジャパンアイドルフェス",
      "kind": "フェス",
@@ -30726,6 +31926,3640 @@
      "venue": "南栄リース桜島広場（桜島多目的広場）野外ステージ（鹿児島県）",
      "source_url": "https://spice.eplus.jp/articles/350159",
      "confidence": "high"
+    }
+   ]
+  },
+  "シンデレラ宣言！": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "iCONiQ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "iCON!": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Aurora": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "UNDO": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "unFinale Tokyo": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "泡沫パーティーズ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "オカシリゾート": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "踊れ！神風": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ON THE AIR": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "限りなく白く": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Kitty_z": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "煌めき☆アンフォレント": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Claire♡Dolls": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "このアイドルはフィクションです。": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Cherie!": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Shibu3 project": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "シャルロット": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "17秒前の瞬きに光を": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "透色ドロップ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ZUTTOMOTTO": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Spiralia": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "SAISON": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "大スッキ♡新党！": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "太陽と踊れ月夜に唄え": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "玉響storage": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "昼夜逆転": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ツキナミ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "てんしめし！": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "『TryVII』": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "虜なるプレリュード": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "虹色の飛行少女": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "NiLUNLOCK": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ネクスタリア": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "NEFRALISE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "白地図プロローグ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ハルカエコー": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "P1QUE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "HEROINES SCHOOL A2": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "HEROINES SCHOOL B1": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "HEROINES SCHOOL C2": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "フィルフェリーチェ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "フューチャーサイダー": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "べるべっとセンテンス": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "BNSI": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "My_Stage": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Magi": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Malcolm Mask McLaren": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "MixVeil": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ミルフィオーレ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Melodys High": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "MOMENT COLLECTION": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "UNION FLEUR": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "LAST PiECE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "LIT MOON": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "LiVREAL": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "LilyS/ash": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ROOKEY♡ROOKEYS": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ルージュブック": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ルルネージュ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ワガママなラストノート": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "アイドル革命": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "アオノシグナル": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "As a Cutie Pomeranian": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "UPローチ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "オトメルキュール": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "OLiDOL!": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "KAIJU ON THE STAGE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "COLOR of COLOR": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "可愛いって言わないと呪う！": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "きっと大切だった": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "君とのシナリオ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "空想ロマンス": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "KRD8": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "幻奏リフレクション": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "再生のルクトゥミー": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "瞬間シネマ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "しろもん": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "新世界ギルドール": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "スターチスのラブレター": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "スターリットストーリー": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "スプスラッシュ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "センチメンタル喫茶": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Sophià la Mode": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Drawry.": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "撫子の音返し": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "NEOTOKYO-TRIBE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Noreco": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ばたんキュン": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "HERO CHARM": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "プエラの絶対値": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "プライマリタイズ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "FLAPSTAR": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Blueberry Girls": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Brave Mental Orchestra": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "文翠麗": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "BabyDoll": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ポジティブモンスター": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "MISS MY NOTES": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "MATE×MATE!": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Maison*Lily": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "メノニューイヤー": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "メリーパレード": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "YUGUREMI": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "RAViDAVi": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "LOVE CHANT": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Rea Lis": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "リットクロスxxx": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "リルアムール": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "LOOPARADE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Loulouchouchou": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/5）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "アンスリューム": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "こみっきゅおん！": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "chuLa": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "夜光性アミューズ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "アキシブproject": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "AZATOY": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ADMIRAL×BANQUET": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ANOSORA": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Aproof": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "amini": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "異国のルミナリア": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "éclatcia": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Lって何のLですか？": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "思い出とプレゼント": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "CURE'T": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "きゅんﾀﾋに一生を!?": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "きゅ〜くる": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "恋に落ちる確率は限りなく低いが0じゃない": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "サクヤコノハナ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "スキトオルアオ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "STAiNY": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "SUPER JYAPON": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ネコプラpixx.": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "hakanai": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "はぐっと！": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Pastel Closet": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ばり♡KAWA!!": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "遥か": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "彼方。": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "VVSiS": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "HEROINES SCHOOL A1": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "HEROINES SCHOOL C1": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Falench.": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "#フラサービックル": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ブルーなままで": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "蛍": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ポラリスマイル": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "My Starry Diary": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Mi'Line Hearts": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "夢みるアドレセンス": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "LittleSignal": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "AMO million": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "あもるてぃえ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "&youth!": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "vVibe!": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "シークレットシャノワール": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "清麗使命女子": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "SEKAMONO": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "宙色シンドローム": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "neOen": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "花いろは": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "PiRiRi": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Fancy Film*": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "マイナーガール": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "むーぷり": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "MAKE ONE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "めろでぃーぷれいす": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "もふる×クロス": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Reverse Tokyo": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "笑う門には福来たる": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "One Last Bloom": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "SPARK 2026 -秋葉原冬祭-（12/6）",
+     "kind": "フェス",
+     "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
+     "source_url": "https://ticketdive.com/event/SPARK2026_winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Micro from Def Tech": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "MIW FES in 小豆島（12/12）",
+     "kind": "フェス",
+     "venue": "小豆島ふるさと村（香川県）",
+     "source_url": "https://news.dellows.jp/1316678/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Spinna B-ILL": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "MIW FES in 小豆島（12/12）",
+     "kind": "フェス",
+     "venue": "小豆島ふるさと村（香川県）",
+     "source_url": "https://news.dellows.jp/1316678/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "nobodyknows+": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "MIW FES in 小豆島（12/12）",
+     "kind": "フェス",
+     "venue": "小豆島ふるさと村（香川県）",
+     "source_url": "https://news.dellows.jp/1316678/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "平野莉玖": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "MIW FES in 小豆島（12/12）",
+     "kind": "フェス",
+     "venue": "小豆島ふるさと村（香川県）",
+     "source_url": "https://news.dellows.jp/1316678/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "SugLawd Familiar": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "MIW FES in 小豆島（12/12）",
+     "kind": "フェス",
+     "venue": "小豆島ふるさと村（香川県）",
+     "source_url": "https://news.dellows.jp/1316678/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "まるり": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "MIW FES in 小豆島（12/12）",
+     "kind": "フェス",
+     "venue": "小豆島ふるさと村（香川県）",
+     "source_url": "https://news.dellows.jp/1316678/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "SoulJa": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "MIW FES in 小豆島（12/12）",
+     "kind": "フェス",
+     "venue": "小豆島ふるさと村（香川県）",
+     "source_url": "https://news.dellows.jp/1316678/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "RISANO": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "MIW FES in 小豆島（12/12）",
+     "kind": "フェス",
+     "venue": "小豆島ふるさと村（香川県）",
+     "source_url": "https://news.dellows.jp/1316678/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "HINATA&HAT&DJ SO-TA": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "MIW FES in 小豆島（12/12）",
+     "kind": "フェス",
+     "venue": "小豆島ふるさと村（香川県）",
+     "source_url": "https://news.dellows.jp/1316678/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-13",
+     "title": "MIW FES in 小豆島（12/13）",
+     "kind": "フェス",
+     "venue": "小豆島ふるさと村（香川県）",
+     "source_url": "https://news.dellows.jp/1316678/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "パイニー": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "MIW FES in 小豆島（12/12）",
+     "kind": "フェス",
+     "venue": "小豆島ふるさと村（香川県）",
+     "source_url": "https://news.dellows.jp/1316678/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ハリウリサ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "MIW FES in 小豆島（12/12）",
+     "kind": "フェス",
+     "venue": "小豆島ふるさと村（香川県）",
+     "source_url": "https://news.dellows.jp/1316678/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-13",
+     "title": "MIW FES in 小豆島（12/13）",
+     "kind": "フェス",
+     "venue": "小豆島ふるさと村（香川県）",
+     "source_url": "https://news.dellows.jp/1316678/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "はるな愛": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "MIW FES in 小豆島（12/12）",
+     "kind": "フェス",
+     "venue": "小豆島ふるさと村（香川県）",
+     "source_url": "https://news.dellows.jp/1316678/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "勝詩-katsushi-": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "MIW FES in 小豆島（12/12）",
+     "kind": "フェス",
+     "venue": "小豆島ふるさと村（香川県）",
+     "source_url": "https://news.dellows.jp/1316678/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "C-ROOTS（前川真悟 from かりゆし58 / 内田コーヘイ / 千賀太郎）": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "MIW FES in 小豆島（12/13）",
+     "kind": "フェス",
+     "venue": "小豆島ふるさと村（香川県）",
+     "source_url": "https://news.dellows.jp/1316678/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "VIGORMAN from 変態紳士クラブ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "MIW FES in 小豆島（12/13）",
+     "kind": "フェス",
+     "venue": "小豆島ふるさと村（香川県）",
+     "source_url": "https://news.dellows.jp/1316678/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "SARUKANI": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "MIW FES in 小豆島（12/13）",
+     "kind": "フェス",
+     "venue": "小豆島ふるさと村（香川県）",
+     "source_url": "https://news.dellows.jp/1316678/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "TAOM-K": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "MIW FES in 小豆島（12/13）",
+     "kind": "フェス",
+     "venue": "小豆島ふるさと村（香川県）",
+     "source_url": "https://news.dellows.jp/1316678/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Chozen Lee from FIRE BALL": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "MIW FES in 小豆島（12/13）",
+     "kind": "フェス",
+     "venue": "小豆島ふるさと村（香川県）",
+     "source_url": "https://news.dellows.jp/1316678/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "TAK-Z": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "MIW FES in 小豆島（12/13）",
+     "kind": "フェス",
+     "venue": "小豆島ふるさと村（香川県）",
+     "source_url": "https://news.dellows.jp/1316678/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "BLACKANESE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "MIW FES in 小豆島（12/13）",
+     "kind": "フェス",
+     "venue": "小豆島ふるさと村（香川県）",
+     "source_url": "https://news.dellows.jp/1316678/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "DJ TA-SHI": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "MIW FES in 小豆島（12/13）",
+     "kind": "フェス",
+     "venue": "小豆島ふるさと村（香川県）",
+     "source_url": "https://news.dellows.jp/1316678/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "DJ KISS ME": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "MIW FES in 小豆島（12/13）",
+     "kind": "フェス",
+     "venue": "小豆島ふるさと村（香川県）",
+     "source_url": "https://news.dellows.jp/1316678/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "だしおさん": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "MIW FES in 小豆島（12/13）",
+     "kind": "フェス",
+     "venue": "小豆島ふるさと村（香川県）",
+     "source_url": "https://news.dellows.jp/1316678/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "仁支川峰子": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "MIW FES in 小豆島（12/13）",
+     "kind": "フェス",
+     "venue": "小豆島ふるさと村（香川県）",
+     "source_url": "https://news.dellows.jp/1316678/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "上原亜衣": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "MIW FES in 小豆島（12/13）",
+     "kind": "フェス",
+     "venue": "小豆島ふるさと村（香川県）",
+     "source_url": "https://news.dellows.jp/1316678/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "KAWAII LAB. MATES": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "KAWAII LAB. Christmas SESSION 2026",
+     "kind": "フェス",
+     "venue": "有明アリーナ（東京都）",
+     "source_url": "https://sweetsteady.asobisystem.com/live_information/detail/44467",
+     "confidence": "high"
+    }
+   ]
+  },
+  "KAWAII LAB. SOUTH": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "KAWAII LAB. Christmas SESSION 2026",
+     "kind": "フェス",
+     "venue": "有明アリーナ（東京都）",
+     "source_url": "https://sweetsteady.asobisystem.com/live_information/detail/44467",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ばってん少女隊": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "GOBOU FES.2026",
+     "kind": "フェス",
+     "venue": "BASE GRANBELL（東京都）",
+     "source_url": "https://dialogue-music.jp/news/2026/10/19-9/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "俵万智": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "GOBOU FES.2026",
+     "kind": "フェス",
+     "venue": "BASE GRANBELL（東京都）",
+     "source_url": "https://dialogue-music.jp/news/2026/10/19-9/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "笹公人": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "GOBOU FES.2026",
+     "kind": "フェス",
+     "venue": "BASE GRANBELL（東京都）",
+     "source_url": "https://dialogue-music.jp/news/2026/10/19-9/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "豊崎愛生": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "GOBOU FES.2026",
+     "kind": "フェス",
+     "venue": "BASE GRANBELL（東京都）",
+     "source_url": "https://dialogue-music.jp/news/2026/10/19-9/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "末吉9太郎": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "GOBOU FES.2026",
+     "kind": "フェス",
+     "venue": "BASE GRANBELL（東京都）",
+     "source_url": "https://dialogue-music.jp/news/2026/10/19-9/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "西井万理那": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "GOBOU FES.2026",
+     "kind": "フェス",
+     "venue": "BASE GRANBELL（東京都）",
+     "source_url": "https://dialogue-music.jp/news/2026/10/19-9/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "DIALOGUE＋ ゴボウフェス Special Unit（内山悠里菜・守屋亨香・飯塚麻結）": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "GOBOU FES.2026",
+     "kind": "フェス",
+     "venue": "BASE GRANBELL（東京都）",
+     "source_url": "https://dialogue-music.jp/news/2026/10/19-9/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "龍 / REAL AKIBA BOYZ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "GOBOU FES.2026",
+     "kind": "フェス",
+     "venue": "BASE GRANBELL（東京都）",
+     "source_url": "https://dialogue-music.jp/news/2026/10/19-9/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "御陣乗太鼓": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "Creators' Anthem「奥能登フェス」",
+     "kind": "フェス",
+     "venue": "南志見市場（石川県）",
+     "source_url": "https://hkrk.jp/event/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "さかいゆう": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-16",
+     "title": "The Covers' ウインターフェス",
+     "kind": "フェス",
+     "venue": "狭山市市民会館（埼玉県）",
+     "source_url": "https://natalie.mu/music/news/698752",
+     "confidence": "high"
+    }
+   ]
+  },
+  "JUJU": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-16",
+     "title": "The Covers' ウインターフェス",
+     "kind": "フェス",
+     "venue": "狭山市市民会館（埼玉県）",
+     "source_url": "https://natalie.mu/music/news/698752",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ふぉ～ゆ～": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-16",
+     "title": "The Covers' ウインターフェス",
+     "kind": "フェス",
+     "venue": "狭山市市民会館（埼玉県）",
+     "source_url": "https://natalie.mu/music/news/698752",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ONE N' ONLY（TETTA・EIKU）": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-16",
+     "title": "The Covers' ウインターフェス",
+     "kind": "フェス",
+     "venue": "狭山市市民会館（埼玉県）",
+     "source_url": "https://natalie.mu/music/news/698752",
+     "confidence": "high"
+    }
+   ]
+  },
+  "SION": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-16",
+     "title": "The Covers' ウインターフェス",
+     "kind": "フェス",
+     "venue": "狭山市市民会館（埼玉県）",
+     "source_url": "https://natalie.mu/music/news/698752",
+     "confidence": "high"
+    }
+   ]
+  },
+  "君に": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "胸キュン。": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "SUNNY PARADE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "PIGMONZ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "碧の途中式": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Axelight": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "α＋": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ウメコマチ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "逆転ねこぱんちっ！": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "zanka": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "寺嶋由芙": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "フルコース": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "MyDresscode": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "MORE*": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "YumeLia": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-27",
+     "title": "LEADING PREMIUM 年末感謝祭'26",
+     "kind": "フェス",
+     "venue": "渋谷7会場（東京都）",
+     "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Minna-no-Kimochi": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-31",
+     "title": "WWW New Year Party 2026-27 -108 Spirits-（12/31）",
+     "kind": "フェス",
+     "venue": "WWW・WWW X・WWWβ（東京都）",
+     "source_url": "https://www-shibuya.jp/sp/schedule/020211.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Laraaji [NY] -108 rings set-": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-31",
+     "title": "WWW New Year Party 2026-27 -108 Spirits-（12/31）",
+     "kind": "フェス",
+     "venue": "WWW・WWW X・WWWβ（東京都）",
+     "source_url": "https://www-shibuya.jp/sp/schedule/020211.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "vq": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-31",
+     "title": "WWW New Year Party 2026-27 -108 Spirits-（12/31）",
+     "kind": "フェス",
+     "venue": "WWW・WWW X・WWWβ（東京都）",
+     "source_url": "https://www-shibuya.jp/sp/schedule/020211.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "祝福の食品まつり a.k.a The Blessed foodman": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-31",
+     "title": "WWW New Year Party 2026-27 -108 Spirits-（12/31）",
+     "kind": "フェス",
+     "venue": "WWW・WWW X・WWWβ（東京都）",
+     "source_url": "https://www-shibuya.jp/sp/schedule/020211.php",
+     "confidence": "high"
+    }
+   ]
+  },
+  "サニーデイ・サービス": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-09",
+     "title": "フフFES. 2027",
+     "kind": "フェス",
+     "venue": "長崎市民会館（長崎県）",
+     "source_url": "https://www.fmnagasaki.co.jp/concert/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "柴田聡子": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-09",
+     "title": "フフFES. 2027",
+     "kind": "フェス",
+     "venue": "長崎市民会館（長崎県）",
+     "source_url": "https://www.fmnagasaki.co.jp/concert/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "AZKi": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-09",
+     "title": "hololive RECORDS MUSIC STAGE 2027（1/9）",
+     "kind": "フェス",
+     "venue": "Kアリーナ横浜（神奈川県）",
+     "source_url": "https://hololive-records.com/musicstage2027/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ハコス・ベールズ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-09",
+     "title": "hololive RECORDS MUSIC STAGE 2027（1/9）",
+     "kind": "フェス",
+     "venue": "Kアリーナ横浜（神奈川県）",
+     "source_url": "https://hololive-records.com/musicstage2027/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "さくらみこ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-09",
+     "title": "hololive RECORDS MUSIC STAGE 2027（1/9）",
+     "kind": "フェス",
+     "venue": "Kアリーナ横浜（神奈川県）",
+     "source_url": "https://hololive-records.com/musicstage2027/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ReGLOSS": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-09",
+     "title": "hololive RECORDS MUSIC STAGE 2027（1/9）",
+     "kind": "フェス",
+     "venue": "Kアリーナ横浜（神奈川県）",
+     "source_url": "https://hololive-records.com/musicstage2027/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "角巻わため": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-10",
+     "title": "hololive RECORDS MUSIC STAGE 2027（1/10）",
+     "kind": "フェス",
+     "venue": "Kアリーナ横浜（神奈川県）",
+     "source_url": "https://hololive-records.com/musicstage2027/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "こぼ・かなえる": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-10",
+     "title": "hololive RECORDS MUSIC STAGE 2027（1/10）",
+     "kind": "フェス",
+     "venue": "Kアリーナ横浜（神奈川県）",
+     "source_url": "https://hololive-records.com/musicstage2027/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "白上フブキ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-10",
+     "title": "hololive RECORDS MUSIC STAGE 2027（1/10）",
+     "kind": "フェス",
+     "venue": "Kアリーナ横浜（神奈川県）",
+     "source_url": "https://hololive-records.com/musicstage2027/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "FLOW GLOW": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-10",
+     "title": "hololive RECORDS MUSIC STAGE 2027（1/10）",
+     "kind": "フェス",
+     "venue": "Kアリーナ横浜（神奈川県）",
+     "source_url": "https://hololive-records.com/musicstage2027/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "柳家睦とラットボーンズ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-10",
+     "title": "東京浮世離れ歌謡祭2027（1/10）",
+     "kind": "フェス",
+     "venue": "東京キネマ倶楽部（東京都）",
+     "source_url": "https://www.hustle-records.com/news-list/27/01/10/ratbones",
+     "confidence": "high"
+    }
+   ]
+  },
+  "THE BLUE HERB": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-10",
+     "title": "東京浮世離れ歌謡祭2027（1/10）",
+     "kind": "フェス",
+     "venue": "東京キネマ倶楽部（東京都）",
+     "source_url": "https://www.hustle-records.com/news-list/27/01/10/ratbones",
+     "confidence": "high"
+    }
+   ]
+  },
+  "赤犬": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-10",
+     "title": "東京浮世離れ歌謡祭2027（1/10）",
+     "kind": "フェス",
+     "venue": "東京キネマ倶楽部（東京都）",
+     "source_url": "https://www.hustle-records.com/news-list/27/01/10/ratbones",
+     "confidence": "high"
+    }
+   ]
+  },
+  "the Onedollars feat. 田代まさし": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-10",
+     "title": "東京浮世離れ歌謡祭2027（1/10）",
+     "kind": "フェス",
+     "venue": "東京キネマ倶楽部（東京都）",
+     "source_url": "https://www.hustle-records.com/news-list/27/01/10/ratbones",
+     "confidence": "high"
+    }
+   ]
+  },
+  "大西ユカリと赤犬社中": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-10",
+     "title": "東京浮世離れ歌謡祭2027（1/10）",
+     "kind": "フェス",
+     "venue": "東京キネマ倶楽部（東京都）",
+     "source_url": "https://www.hustle-records.com/news-list/27/01/10/ratbones",
+     "confidence": "high"
+    }
+   ]
+  },
+  "The HU": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-20",
+     "title": "大港開唱 MEGAPORT FESTIVAL（出演日未定）",
+     "kind": "フェス",
+     "venue": "駁二芸術特区（台湾・高雄）",
+     "source_url": "https://www.mirrormedia.mg/external/setn_1941659",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Tempalay": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-20",
+     "title": "大港開唱 MEGAPORT FESTIVAL（出演日未定）",
+     "kind": "フェス",
+     "venue": "駁二芸術特区（台湾・高雄）",
+     "source_url": "https://www.mirrormedia.mg/external/setn_1941659",
+     "confidence": "low"
+    }
+   ]
+  },
+  "洪榮宏": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-20",
+     "title": "大港開唱 MEGAPORT FESTIVAL（出演日未定）",
+     "kind": "フェス",
+     "venue": "駁二芸術特区（台湾・高雄）",
+     "source_url": "https://www.mirrormedia.mg/external/setn_1941659",
+     "confidence": "low"
     }
    ]
   }
