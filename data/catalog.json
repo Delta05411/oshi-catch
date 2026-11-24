@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T07:10:57+09:00",
+ "updated": "2026-11-24T20:08:42+09:00",
  "artists": {
   "Saucy Dog": {
    "aliases": [
@@ -426,14 +426,6 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-11-23",
-     "title": "テレビ朝日ドリームフェスティバル2026（11/23）",
-     "kind": "フェス",
-     "venue": "Kアリーナ横浜（神奈川県）",
-     "source_url": "https://dreamfestival.jp/",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-26",
      "title": "COUNTDOWN JAPAN 26/27（12/26・27・29・30・31のいずれか）",
      "kind": "フェス",
@@ -809,14 +801,6 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-11-23",
-     "title": "ANI-ROCK FES.（11/23）",
-     "kind": "フェス",
-     "venue": "国立代々木競技場 第一体育館（東京）",
-     "source_url": "https://anirockfes.jp/",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-12",
      "title": "結びの夢番地（12/12）",
      "kind": "フェス",
@@ -899,6 +883,14 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-12-03",
+     "title": "Orange Station Live 2026",
+     "kind": "フェス",
+     "venue": "Zepp Haneda (TOKYO)（東京都）",
+     "source_url": "https://www.tfm.co.jp/osl2026/",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-20",
      "title": "MERRY ROCK PARADE 2026（12/20）",
      "kind": "フェス",
@@ -952,14 +944,6 @@
      "kind": "フェス",
      "venue": "別府ビーコンプラザ（大分県）",
      "source_url": "https://www.billboard-japan.com/d_news/detail/166666/2",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-12-03",
-     "title": "Orange Station Live 2026",
-     "kind": "フェス",
-     "venue": "Zepp Haneda (TOKYO)（東京都）",
-     "source_url": "https://www.tfm.co.jp/osl2026/",
      "confidence": "high"
     }
    ]
@@ -2064,6 +2048,14 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-12-03",
+     "title": "Orange Station Live 2026",
+     "kind": "フェス",
+     "venue": "Zepp Haneda (TOKYO)（東京都）",
+     "source_url": "https://www.tfm.co.jp/osl2026/",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-26",
      "title": "MAGIC HOUR FESTIVAL",
      "kind": "フェス",
@@ -2085,14 +2077,6 @@
      "kind": "フェス",
      "venue": "GORILLA HALL OSAKA（大阪府）",
      "source_url": "https://muque.jp/live/live-1753/",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-12-03",
-     "title": "Orange Station Live 2026",
-     "kind": "フェス",
-     "venue": "Zepp Haneda (TOKYO)（東京都）",
-     "source_url": "https://www.tfm.co.jp/osl2026/",
      "confidence": "high"
     }
    ]
@@ -2427,19 +2411,19 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-12-30",
-     "title": "COUNTDOWN JAPAN 26/27（12/30）",
-     "kind": "フェス",
-     "venue": "幕張メッセ（千葉）",
-     "source_url": "https://festival-life.com/168983",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-05",
      "title": "GRAND GREEN HOLIDAY × FM COCOLO WITH HEART FES.",
      "kind": "フェス",
      "venue": "ロートハートスクエアうめきた・タイムアウトマーケット大阪（大阪府）",
      "source_url": "https://umekita.com/sc/topics/12_5_12_6_with_heart_fes/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-30",
+     "title": "COUNTDOWN JAPAN 26/27（12/30）",
+     "kind": "フェス",
+     "venue": "幕張メッセ（千葉）",
+     "source_url": "https://festival-life.com/168983",
      "confidence": "high"
     }
    ]
@@ -4480,6 +4464,14 @@
      "confidence": "high"
     },
     {
+     "date": "2026-11-29",
+     "title": "ISHIGAKI FEST（11/29）",
+     "kind": "フェス",
+     "venue": "石垣舟蔵の里（沖縄）",
+     "source_url": "https://kubihuri.com/live/live-4117/",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-28",
      "title": "RADIO CRAZY（12/28）",
      "kind": "フェス",
@@ -4592,14 +4584,6 @@
   "モナキ": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-11-23",
-     "title": "テレビ朝日ドリームフェスティバル2026（11/23）",
-     "kind": "フェス",
-     "venue": "Kアリーナ横浜（神奈川県）",
-     "source_url": "https://dreamfestival.jp/",
-     "confidence": "high"
-    },
     {
      "date": "2026-12-27",
      "title": "COUNTDOWN JAPAN 26/27（12/27）",
@@ -5269,6 +5253,14 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-12-03",
+     "title": "Orange Station Live 2026",
+     "kind": "フェス",
+     "venue": "Zepp Haneda (TOKYO)（東京都）",
+     "source_url": "https://www.tfm.co.jp/osl2026/",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-28",
      "title": "RADIO CRAZY（12/28）",
      "kind": "フェス",
@@ -5282,14 +5274,6 @@
      "kind": "フェス",
      "venue": "幕張メッセ（千葉県）",
      "source_url": "https://countdownjapan.jp/",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-12-03",
-     "title": "Orange Station Live 2026",
-     "kind": "フェス",
-     "venue": "Zepp Haneda (TOKYO)（東京都）",
-     "source_url": "https://www.tfm.co.jp/osl2026/",
      "confidence": "high"
     }
    ]
@@ -6382,6 +6366,14 @@
      "confidence": "high"
     },
     {
+     "date": "2026-11-29",
+     "title": "ISHIGAKI FEST（11/29）",
+     "kind": "フェス",
+     "venue": "石垣舟蔵の里（沖縄）",
+     "source_url": "https://kubihuri.com/live/live-4117/",
+     "confidence": "high"
+    },
+    {
      "date": "2027-01-09",
      "title": "ロックンロールサーカス（1/9）",
      "kind": "フェス",
@@ -6662,14 +6654,6 @@
   "climbgrow": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-11-23",
-     "title": "PANA FES",
-     "kind": "フェス",
-     "venue": "神戸 太陽と虎ほか（兵庫）",
-     "source_url": "https://ototoy.jp/news/132535",
-     "confidence": "high"
-    },
     {
      "date": "2027-01-09",
      "title": "ロックンロールサーカス（1/9）",
@@ -7107,14 +7091,6 @@
   "みみみ食堂": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-11-23",
-     "title": "PANA FES（11/23）",
-     "kind": "フェス",
-     "venue": "神戸 太陽と虎ほか（兵庫）",
-     "source_url": "https://panoramapanamatown.jp/news/30395",
-     "confidence": "high"
-    },
     {
      "date": "2027-01-10",
      "title": "ロックンロールサーカス（1/10）",
@@ -7617,30 +7593,9 @@
     }
    ]
   },
-  "ポルノグラフィティ": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-23",
-     "title": "ANI-ROCK FES.（11/23）",
-     "kind": "フェス",
-     "venue": "国立代々木競技場 第一体育館（東京）",
-     "source_url": "https://anirockfes.jp/",
-     "confidence": "high"
-    }
-   ]
-  },
   "秋山黄色": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-11-23",
-     "title": "ANI-ROCK FES.（11/23）",
-     "kind": "フェス",
-     "venue": "国立代々木競技場 第一体育館（東京）",
-     "source_url": "https://anirockfes.jp/",
-     "confidence": "high"
-    },
     {
      "date": "2026-12-28",
      "title": "RADIO CRAZY（12/28）",
@@ -7663,14 +7618,6 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-11-23",
-     "title": "ANI-ROCK FES.（11/23）",
-     "kind": "フェス",
-     "venue": "国立代々木競技場 第一体育館（東京）",
-     "source_url": "https://anirockfes.jp/",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-29",
      "title": "COUNTDOWN JAPAN 26/27（12/29）",
      "kind": "フェス",
@@ -7683,14 +7630,6 @@
   "Little Glee Monster": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-11-23",
-     "title": "ANI-ROCK FES.（11/23）",
-     "kind": "フェス",
-     "venue": "国立代々木競技場 第一体育館（東京）",
-     "source_url": "https://anirockfes.jp/",
-     "confidence": "high"
-    },
     {
      "date": "2026-12-30",
      "title": "COUNTDOWN JAPAN 26/27（12/30）",
@@ -8374,14 +8313,6 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-11-23",
-     "title": "PANA FES（11/23）",
-     "kind": "フェス",
-     "venue": "神戸 太陽と虎ほか（兵庫）",
-     "source_url": "https://eplus.jp/sf/detail/4580820001-P0030001",
-     "confidence": "high"
-    },
-    {
      "date": "2026-11-28",
      "title": "PSYCHIC FES",
      "kind": "フェス",
@@ -8518,14 +8449,6 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-11-23",
-     "title": "PANA FES（11/23）",
-     "kind": "フェス",
-     "venue": "神戸 太陽と虎ほか（兵庫）",
-     "source_url": "https://eplus.jp/sf/detail/4580820001-P0030001",
-     "confidence": "high"
-    },
-    {
      "date": "2026-11-28",
      "title": "PSYCHIC FES",
      "kind": "フェス",
@@ -8619,14 +8542,6 @@
   "Panorama Panama Town": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-11-23",
-     "title": "PANA FES（11/23）",
-     "kind": "フェス",
-     "venue": "神戸 太陽と虎ほか（兵庫）",
-     "source_url": "https://eplus.jp/sf/detail/4580820001-P0030001",
-     "confidence": "high"
-    },
     {
      "date": "2026-11-28",
      "title": "PSYCHIC FES",
@@ -9383,14 +9298,6 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-11-23",
-     "title": "テレビ朝日ドリームフェスティバル2026（11/23）",
-     "kind": "フェス",
-     "venue": "Kアリーナ横浜（神奈川県）",
-     "source_url": "https://dreamfestival.jp/",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-12",
      "title": "MUSIC BANK GLOBAL FESTIVAL IN JAPAN",
      "kind": "フェス",
@@ -9400,30 +9307,9 @@
     }
    ]
   },
-  "izna": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-23",
-     "title": "テレビ朝日ドリームフェスティバル2026（11/23）",
-     "kind": "フェス",
-     "venue": "Kアリーナ横浜（神奈川県）",
-     "source_url": "https://dreamfestival.jp/",
-     "confidence": "high"
-    }
-   ]
-  },
   "NCT WISH": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-11-23",
-     "title": "テレビ朝日ドリームフェスティバル2026（11/23）",
-     "kind": "フェス",
-     "venue": "Kアリーナ横浜（神奈川県）",
-     "source_url": "https://dreamfestival.jp/",
-     "confidence": "high"
-    },
     {
      "date": "2026-12-12",
      "title": "MUSIC BANK GLOBAL FESTIVAL IN JAPAN",
@@ -9438,14 +9324,6 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-11-23",
-     "title": "テレビ朝日ドリームフェスティバル2026（11/23）",
-     "kind": "フェス",
-     "venue": "Kアリーナ横浜（神奈川県）",
-     "source_url": "https://dreamfestival.jp/",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-30",
      "title": "COUNTDOWN JAPAN 26/27（12/30）",
      "kind": "フェス",
@@ -9458,14 +9336,6 @@
   "夜の本気ダンス": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-11-23",
-     "title": "PANA FES（11/23）",
-     "kind": "フェス",
-     "venue": "神戸 太陽と虎ほか（兵庫）",
-     "source_url": "https://eplus.jp/sf/detail/4580820001-P0030001",
-     "confidence": "high"
-    },
     {
      "date": "2026-12-05",
      "title": "下北沢にて（12/5）",
@@ -9484,82 +9354,9 @@
     }
    ]
   },
-  "SuperBack": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-23",
-     "title": "PANA FES（11/23）",
-     "kind": "フェス",
-     "venue": "神戸 太陽と虎ほか（兵庫）",
-     "source_url": "https://eplus.jp/sf/detail/4580820001-P0030001",
-     "confidence": "high"
-    }
-   ]
-  },
-  "加速するラブズ": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-23",
-     "title": "PANA FES（11/23）",
-     "kind": "フェス",
-     "venue": "神戸 太陽と虎ほか（兵庫）",
-     "source_url": "https://eplus.jp/sf/detail/4580820001-P0030001",
-     "confidence": "high"
-    }
-   ]
-  },
-  "Voodoo V": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-23",
-     "title": "PANA FES（11/23）",
-     "kind": "フェス",
-     "venue": "神戸 太陽と虎ほか（兵庫）",
-     "source_url": "https://eplus.jp/sf/detail/4580820001-P0030001",
-     "confidence": "high"
-    }
-   ]
-  },
-  "Ivy to Fraudulent Game": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-23",
-     "title": "PANA FES（11/23）",
-     "kind": "フェス",
-     "venue": "神戸 太陽と虎ほか（兵庫）",
-     "source_url": "https://eplus.jp/sf/detail/4580820001-P0030001",
-     "confidence": "high"
-    }
-   ]
-  },
-  "Gill Snatch": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-23",
-     "title": "PANA FES（11/23）",
-     "kind": "フェス",
-     "venue": "神戸 太陽と虎ほか（兵庫）",
-     "source_url": "https://eplus.jp/sf/detail/4580820001-P0030001",
-     "confidence": "high"
-    }
-   ]
-  },
   "The Cheserasera": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-11-23",
-     "title": "PANA FES（11/23）",
-     "kind": "フェス",
-     "venue": "神戸 太陽と虎ほか（兵庫）",
-     "source_url": "https://eplus.jp/sf/detail/4580820001-P0030001",
-     "confidence": "high"
-    },
     {
      "date": "2027-01-09",
      "title": "しかロック",
@@ -9574,14 +9371,6 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-11-23",
-     "title": "PANA FES（11/23）",
-     "kind": "フェス",
-     "venue": "神戸 太陽と虎ほか（兵庫）",
-     "source_url": "https://eplus.jp/sf/detail/4580820001-P0030001",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-05",
      "title": "下北沢にて（12/5）",
      "kind": "フェス",
@@ -9594,14 +9383,6 @@
   "CAT ATE HOTDOGS": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-11-23",
-     "title": "PANA FES（11/23）",
-     "kind": "フェス",
-     "venue": "神戸 太陽と虎ほか（兵庫）",
-     "source_url": "https://eplus.jp/sf/detail/4580820001-P0030001",
-     "confidence": "high"
-    },
     {
      "date": "2026-12-05",
      "title": "下北沢にて",
@@ -9624,14 +9405,6 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-11-23",
-     "title": "PANA FES（11/23）",
-     "kind": "フェス",
-     "venue": "神戸 太陽と虎ほか（兵庫）",
-     "source_url": "https://eplus.jp/sf/detail/4580820001-P0030001",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-25",
      "title": "RED HOME PARTY（12/25）",
      "kind": "フェス",
@@ -9653,32 +9426,6 @@
      "kind": "フェス",
      "venue": "GORILLA HALL OSAKA（大阪府）",
      "source_url": "https://muque.jp/live/live-1753/",
-     "confidence": "high"
-    }
-   ]
-  },
-  "TORO": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-23",
-     "title": "PANA FES（11/23）",
-     "kind": "フェス",
-     "venue": "神戸 太陽と虎ほか（兵庫）",
-     "source_url": "https://eplus.jp/sf/detail/4580820001-P0030001",
-     "confidence": "high"
-    }
-   ]
-  },
-  "WALTZMORE": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-23",
-     "title": "PANA FES（11/23）",
-     "kind": "フェス",
-     "venue": "神戸 太陽と虎ほか（兵庫）",
-     "source_url": "https://eplus.jp/sf/detail/4580820001-P0030001",
      "confidence": "high"
     }
    ]
@@ -14362,6 +14109,14 @@
    "aliases": [],
    "events": [
     {
+     "date": "2026-12-05",
+     "title": "GRAND GREEN HOLIDAY × FM COCOLO WITH HEART FES.",
+     "kind": "フェス",
+     "venue": "ロートハートスクエアうめきた・タイムアウトマーケット大阪（大阪府）",
+     "source_url": "https://umekita.com/sc/topics/12_5_12_6_with_heart_fes/",
+     "confidence": "high"
+    },
+    {
      "date": "2026-12-06",
      "title": "J-WAVE presents INSPIRE TOKYO",
      "kind": "フェス",
@@ -14392,14 +14147,6 @@
      "venue": "コザ・ミュージックタウン音楽広場ほか（沖縄県）（沖縄県）",
      "source_url": "https://www.musiclanefestival.com/artist2027",
      "confidence": "low"
-    },
-    {
-     "date": "2026-12-05",
-     "title": "GRAND GREEN HOLIDAY × FM COCOLO WITH HEART FES.",
-     "kind": "フェス",
-     "venue": "ロートハートスクエアうめきた・タイムアウトマーケット大阪（大阪府）",
-     "source_url": "https://umekita.com/sc/topics/12_5_12_6_with_heart_fes/",
-     "confidence": "high"
     }
    ]
   },
@@ -14472,19 +14219,6 @@
      "kind": "フェス",
      "venue": "名古屋 新栄・栄・大須のライブハウス15会場以上（愛知県）",
      "source_url": "https://www.loveinq.com/182782.html",
-     "confidence": "high"
-    }
-   ]
-  },
-  "尖club": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-23",
-     "title": "PANA FES（11/23）",
-     "kind": "フェス",
-     "venue": "神戸 太陽と虎ほか（兵庫）",
-     "source_url": "https://panoramapanamatown.jp/news/30395",
      "confidence": "high"
     }
    ]
@@ -18835,6 +18569,14 @@
      "venue": "石垣舟蔵の里（沖縄）",
      "source_url": "https://kubihuri.com/live/live-4117/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-11-29",
+     "title": "ISHIGAKI FEST（11/29）",
+     "kind": "フェス",
+     "venue": "石垣舟蔵の里（沖縄）",
+     "source_url": "https://kubihuri.com/live/live-4117/",
+     "confidence": "high"
     }
    ]
   },
@@ -18848,6 +18590,14 @@
      "venue": "石垣舟蔵の里（沖縄）",
      "source_url": "https://kubihuri.com/live/live-4117/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-11-29",
+     "title": "ISHIGAKI FEST（11/29）",
+     "kind": "フェス",
+     "venue": "石垣舟蔵の里（沖縄）",
+     "source_url": "https://kubihuri.com/live/live-4117/",
+     "confidence": "high"
     }
    ]
   },
@@ -18857,6 +18607,14 @@
     {
      "date": "2026-11-28",
      "title": "ISHIGAKI FEST",
+     "kind": "フェス",
+     "venue": "石垣舟蔵の里（沖縄）",
+     "source_url": "https://kubihuri.com/live/live-4117/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-11-29",
+     "title": "ISHIGAKI FEST（11/29）",
      "kind": "フェス",
      "venue": "石垣舟蔵の里（沖縄）",
      "source_url": "https://kubihuri.com/live/live-4117/",
@@ -18882,6 +18640,14 @@
      "venue": "石垣舟蔵の里（沖縄）",
      "source_url": "https://kubihuri.com/live/live-4117/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-11-29",
+     "title": "ISHIGAKI FEST（11/29）",
+     "kind": "フェス",
+     "venue": "石垣舟蔵の里（沖縄）",
+     "source_url": "https://kubihuri.com/live/live-4117/",
+     "confidence": "high"
     }
    ]
   },
@@ -18891,6 +18657,14 @@
     {
      "date": "2026-11-28",
      "title": "ISHIGAKI FEST",
+     "kind": "フェス",
+     "venue": "石垣舟蔵の里（沖縄）",
+     "source_url": "https://kubihuri.com/live/live-4117/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-11-29",
+     "title": "ISHIGAKI FEST（11/29）",
      "kind": "フェス",
      "venue": "石垣舟蔵の里（沖縄）",
      "source_url": "https://kubihuri.com/live/live-4117/",
@@ -18908,6 +18682,14 @@
      "venue": "石垣舟蔵の里（沖縄）",
      "source_url": "https://kubihuri.com/live/live-4117/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-11-29",
+     "title": "ISHIGAKI FEST（11/29）",
+     "kind": "フェス",
+     "venue": "石垣舟蔵の里（沖縄）",
+     "source_url": "https://kubihuri.com/live/live-4117/",
+     "confidence": "high"
     }
    ]
   },
@@ -18917,6 +18699,14 @@
     {
      "date": "2026-11-28",
      "title": "ISHIGAKI FEST",
+     "kind": "フェス",
+     "venue": "石垣舟蔵の里（沖縄）",
+     "source_url": "https://kubihuri.com/live/live-4117/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-11-29",
+     "title": "ISHIGAKI FEST（11/29）",
      "kind": "フェス",
      "venue": "石垣舟蔵の里（沖縄）",
      "source_url": "https://kubihuri.com/live/live-4117/",
@@ -18934,6 +18724,14 @@
      "venue": "石垣舟蔵の里（沖縄）",
      "source_url": "https://kubihuri.com/live/live-4117/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-11-29",
+     "title": "ISHIGAKI FEST（11/29）",
+     "kind": "フェス",
+     "venue": "石垣舟蔵の里（沖縄）",
+     "source_url": "https://kubihuri.com/live/live-4117/",
+     "confidence": "high"
     }
    ]
   },
@@ -18947,109 +18745,13 @@
      "venue": "石垣舟蔵の里（沖縄）",
      "source_url": "https://kubihuri.com/live/live-4117/",
      "confidence": "high"
-    }
-   ]
-  },
-  "GOMESS": {
-   "aliases": [],
-   "events": [
+    },
     {
-     "date": "2026-11-23",
-     "title": "PANA FES",
+     "date": "2026-11-29",
+     "title": "ISHIGAKI FEST（11/29）",
      "kind": "フェス",
-     "venue": "神戸 太陽と虎ほか（兵庫）",
-     "source_url": "https://ototoy.jp/news/132535",
-     "confidence": "high"
-    }
-   ]
-  },
-  "SPOT": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-23",
-     "title": "PANA FES",
-     "kind": "フェス",
-     "venue": "神戸 太陽と虎ほか（兵庫）",
-     "source_url": "https://ototoy.jp/news/132535",
-     "confidence": "high"
-    }
-   ]
-  },
-  "vanish.": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-23",
-     "title": "PANA FES",
-     "kind": "フェス",
-     "venue": "神戸 太陽と虎ほか（兵庫）",
-     "source_url": "https://ototoy.jp/news/132535",
-     "confidence": "high"
-    }
-   ]
-  },
-  "Bentham": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-23",
-     "title": "PANA FES",
-     "kind": "フェス",
-     "venue": "神戸 太陽と虎ほか（兵庫）",
-     "source_url": "https://ototoy.jp/news/132535",
-     "confidence": "high"
-    }
-   ]
-  },
-  "ムノーノ=モーゼス": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-23",
-     "title": "PANA FES",
-     "kind": "フェス",
-     "venue": "神戸 太陽と虎ほか（兵庫）",
-     "source_url": "https://ototoy.jp/news/132535",
-     "confidence": "high"
-    }
-   ]
-  },
-  "宵待": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-23",
-     "title": "PANA FES",
-     "kind": "フェス",
-     "venue": "神戸 太陽と虎ほか（兵庫）",
-     "source_url": "https://ototoy.jp/news/132535",
-     "confidence": "high"
-    }
-   ]
-  },
-  "（夜と）SAMPO": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-23",
-     "title": "PANA FES",
-     "kind": "フェス",
-     "venue": "神戸 太陽と虎ほか（兵庫）",
-     "source_url": "https://ototoy.jp/news/132535",
-     "confidence": "high"
-    }
-   ]
-  },
-  "ロイヤル嫁姑": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-23",
-     "title": "PANA FES",
-     "kind": "フェス",
-     "venue": "神戸 太陽と虎ほか（兵庫）",
-     "source_url": "https://ototoy.jp/news/132535",
+     "venue": "石垣舟蔵の里（沖縄）",
+     "source_url": "https://kubihuri.com/live/live-4117/",
      "confidence": "high"
     }
    ]
@@ -20021,175 +19723,6 @@
      "kind": "フェス",
      "venue": "愛川町文化会館ホール（神奈川）",
      "source_url": "https://www.town.aikawa.kanagawa.jp/sports_bunka/bunka/wkot/18902.html",
-     "confidence": "high"
-    }
-   ]
-  },
-  "クレイジードクター": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-23",
-     "title": "つばめ音楽祭（ロック＆フォークフェスタ）",
-     "kind": "フェス",
-     "venue": "燕市文化会館 大ホール（新潟）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "high"
-    }
-   ]
-  },
-  "Bagteria monster": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-23",
-     "title": "つばめ音楽祭（ロック＆フォークフェスタ）",
-     "kind": "フェス",
-     "venue": "燕市文化会館 大ホール（新潟）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "high"
-    }
-   ]
-  },
-  "luffa": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-23",
-     "title": "つばめ音楽祭（ロック＆フォークフェスタ）",
-     "kind": "フェス",
-     "venue": "燕市文化会館 大ホール（新潟）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "high"
-    }
-   ]
-  },
-  "五十嵐 康史": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-23",
-     "title": "つばめ音楽祭（ロック＆フォークフェスタ）",
-     "kind": "フェス",
-     "venue": "燕市文化会館 大ホール（新潟）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "high"
-    }
-   ]
-  },
-  "ず。": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-23",
-     "title": "つばめ音楽祭（ロック＆フォークフェスタ）",
-     "kind": "フェス",
-     "venue": "燕市文化会館 大ホール（新潟）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "high"
-    }
-   ]
-  },
-  "エアマンズ": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-23",
-     "title": "つばめ音楽祭（ロック＆フォークフェスタ）",
-     "kind": "フェス",
-     "venue": "燕市文化会館 大ホール（新潟）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "high"
-    }
-   ]
-  },
-  "グレーテル": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-23",
-     "title": "つばめ音楽祭（ロック＆フォークフェスタ）",
-     "kind": "フェス",
-     "venue": "燕市文化会館 大ホール（新潟）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "high"
-    }
-   ]
-  },
-  "県央の福山": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-23",
-     "title": "つばめ音楽祭（ロック＆フォークフェスタ）",
-     "kind": "フェス",
-     "venue": "燕市文化会館 大ホール（新潟）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "high"
-    }
-   ]
-  },
-  "Lyrics": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-23",
-     "title": "つばめ音楽祭（ロック＆フォークフェスタ）",
-     "kind": "フェス",
-     "venue": "燕市文化会館 大ホール（新潟）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "high"
-    }
-   ]
-  },
-  "矢代秀晴＆South Hills": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-23",
-     "title": "つばめ音楽祭（ロック＆フォークフェスタ）",
-     "kind": "フェス",
-     "venue": "燕市文化会館 大ホール（新潟）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "high"
-    }
-   ]
-  },
-  "37℃": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-23",
-     "title": "つばめ音楽祭（ロック＆フォークフェスタ）",
-     "kind": "フェス",
-     "venue": "燕市文化会館 大ホール（新潟）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "high"
-    }
-   ]
-  },
-  "アイアムミー": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-23",
-     "title": "つばめ音楽祭（ロック＆フォークフェスタ）",
-     "kind": "フェス",
-     "venue": "燕市文化会館 大ホール（新潟）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "high"
-    }
-   ]
-  },
-  "Fusionworks": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-23",
-     "title": "つばめ音楽祭（ロック＆フォークフェスタ）",
-     "kind": "フェス",
-     "venue": "燕市文化会館 大ホール（新潟）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
      "confidence": "high"
     }
    ]
@@ -21426,279 +20959,6 @@
     }
    ]
   },
-  "GO! (JUNIOR)": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-23",
-     "title": "NEO CLENCH THE FIST SPECIAL",
-     "kind": "フェス",
-     "venue": "（宮城）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "high"
-    }
-   ]
-  },
-  "ヒマラヤロック": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-23",
-     "title": "NEO CLENCH THE FIST SPECIAL",
-     "kind": "フェス",
-     "venue": "（宮城）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "high"
-    }
-   ]
-  },
-  "三ケ田とくにお": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-23",
-     "title": "NEO CLENCH THE FIST SPECIAL",
-     "kind": "フェス",
-     "venue": "（宮城）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "high"
-    }
-   ]
-  },
-  "DIFRAKTO": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-23",
-     "title": "NEO CLENCH THE FIST SPECIAL",
-     "kind": "フェス",
-     "venue": "（宮城）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "high"
-    }
-   ]
-  },
-  "NUE'S HEAD SOUP": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-23",
-     "title": "NEO CLENCH THE FIST SPECIAL",
-     "kind": "フェス",
-     "venue": "（宮城）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "high"
-    }
-   ]
-  },
-  "DRAGON×SCREW": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-23",
-     "title": "NEO CLENCH THE FIST SPECIAL",
-     "kind": "フェス",
-     "venue": "（宮城）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "high"
-    }
-   ]
-  },
-  "NAKED YEGGS": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-23",
-     "title": "NEO CLENCH THE FIST SPECIAL",
-     "kind": "フェス",
-     "venue": "（宮城）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "high"
-    }
-   ]
-  },
-  "KINSMEN": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-23",
-     "title": "NEO CLENCH THE FIST SPECIAL",
-     "kind": "フェス",
-     "venue": "（宮城）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "high"
-    }
-   ]
-  },
-  "DERQUI": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-23",
-     "title": "NEO CLENCH THE FIST SPECIAL",
-     "kind": "フェス",
-     "venue": "（宮城）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "high"
-    }
-   ]
-  },
-  "GxAxMxEx": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-23",
-     "title": "NEO CLENCH THE FIST SPECIAL",
-     "kind": "フェス",
-     "venue": "（宮城）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "high"
-    }
-   ]
-  },
-  "THUNDER TOMAHAWK": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-23",
-     "title": "NEO CLENCH THE FIST SPECIAL",
-     "kind": "フェス",
-     "venue": "（宮城）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "high"
-    }
-   ]
-  },
-  "GREAT INVADERS": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-23",
-     "title": "NEO CLENCH THE FIST SPECIAL",
-     "kind": "フェス",
-     "venue": "（宮城）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "high"
-    }
-   ]
-  },
-  "PSYCHO E8": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-23",
-     "title": "NEO CLENCH THE FIST SPECIAL",
-     "kind": "フェス",
-     "venue": "（宮城）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "high"
-    }
-   ]
-  },
-  "ENBAN BOYS": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-23",
-     "title": "NEO CLENCH THE FIST SPECIAL",
-     "kind": "フェス",
-     "venue": "（宮城）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "high"
-    }
-   ]
-  },
-  "TOTAL FURY": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-23",
-     "title": "NEO CLENCH THE FIST SPECIAL",
-     "kind": "フェス",
-     "venue": "（宮城）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "high"
-    }
-   ]
-  },
-  "EXCITE JAC": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-23",
-     "title": "NEO CLENCH THE FIST SPECIAL",
-     "kind": "フェス",
-     "venue": "（宮城）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "high"
-    }
-   ]
-  },
-  "KIYOBILLY": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-23",
-     "title": "NEO CLENCH THE FIST SPECIAL",
-     "kind": "フェス",
-     "venue": "（宮城）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "high"
-    }
-   ]
-  },
-  "ABICO": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-23",
-     "title": "NEO CLENCH THE FIST SPECIAL",
-     "kind": "フェス",
-     "venue": "（宮城）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "high"
-    }
-   ]
-  },
-  "MARIMO": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-23",
-     "title": "NEO CLENCH THE FIST SPECIAL",
-     "kind": "フェス",
-     "venue": "（宮城）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "high"
-    }
-   ]
-  },
-  "TAIHEI": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-23",
-     "title": "NEO CLENCH THE FIST SPECIAL",
-     "kind": "フェス",
-     "venue": "（宮城）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "high"
-    }
-   ]
-  },
-  "BUTCH": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-23",
-     "title": "NEO CLENCH THE FIST SPECIAL",
-     "kind": "フェス",
-     "venue": "（宮城）",
-     "source_url": "https://www.ragnet.co.jp/rock-festival",
-     "confidence": "high"
-    }
-   ]
-  },
   "TRUE": {
    "aliases": [],
    "events": [
@@ -22906,45 +22166,6 @@
     }
    ]
   },
-  "Coji Cose": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-23",
-     "title": "UMEKITA SOUND BAZAAR（11/23）",
-     "kind": "フェス",
-     "venue": "VS.（グラングリーン大阪 うめきた公園）（大阪府）",
-     "source_url": "http://sound-bazaar.jp",
-     "confidence": "high"
-    }
-   ]
-  },
-  "Tyondai Braxton": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-23",
-     "title": "UMEKITA SOUND BAZAAR（11/23）",
-     "kind": "フェス",
-     "venue": "VS.（グラングリーン大阪 うめきた公園）（大阪府）",
-     "source_url": "http://sound-bazaar.jp",
-     "confidence": "high"
-    }
-   ]
-  },
-  "YPY": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-23",
-     "title": "UMEKITA SOUND BAZAAR（11/23）",
-     "kind": "フェス",
-     "venue": "VS.（グラングリーン大阪 うめきた公園）（大阪府）",
-     "source_url": "http://sound-bazaar.jp",
-     "confidence": "high"
-    }
-   ]
-  },
   "Greedy (Welcome Act)": {
    "aliases": [],
    "events": [
@@ -23274,14 +22495,6 @@
   "Hyuga": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-11-23",
-     "title": "PANA FES（11/23）",
-     "kind": "フェス",
-     "venue": "神戸 太陽と虎ほか（兵庫）",
-     "source_url": "https://panoramapanamatown.jp/news/30395",
-     "confidence": "high"
-    },
     {
      "date": "2026-12-23",
      "title": "RED HOME PARTY（12/23）",
@@ -28232,58 +27445,6 @@
     }
    ]
   },
-  "アイアムアイ": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-23",
-     "title": "PANA FES（11/23）",
-     "kind": "フェス",
-     "venue": "神戸 太陽と虎ほか（兵庫）",
-     "source_url": "https://panoramapanamatown.jp/news/30395",
-     "confidence": "high"
-    }
-   ]
-  },
-  "ITO→たのし": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-23",
-     "title": "PANA FES（11/23）",
-     "kind": "フェス",
-     "venue": "神戸 太陽と虎ほか（兵庫）",
-     "source_url": "https://panoramapanamatown.jp/news/30395",
-     "confidence": "high"
-    }
-   ]
-  },
-  "PULPS": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-23",
-     "title": "PANA FES（11/23）",
-     "kind": "フェス",
-     "venue": "神戸 太陽と虎ほか（兵庫）",
-     "source_url": "https://panoramapanamatown.jp/news/30395",
-     "confidence": "high"
-    }
-   ]
-  },
-  "MACK JACK": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-23",
-     "title": "PANA FES（11/23）",
-     "kind": "フェス",
-     "venue": "神戸 太陽と虎ほか（兵庫）",
-     "source_url": "https://panoramapanamatown.jp/news/30395",
-     "confidence": "high"
-    }
-   ]
-  },
   "好き好きロンちゃんバンド": {
    "aliases": [],
    "events": [
@@ -31382,6 +30543,188 @@
      "kind": "フェス",
      "venue": "浅草VAMPKIN（東京都）",
      "source_url": "https://ajif.jp/2026/11/09/%E3%80%902026%E5%B9%B412%E6%9C%88%E3%80%91%E7%AC%AC5%E5%9B%9E%E3%80%8Eajif-%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%95%E3%82%A7/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "人性補欠": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-04-03",
+     "title": "WALK INN FES!2027 IN桜島（4/3）",
+     "kind": "フェス",
+     "venue": "南栄リース桜島広場（桜島多目的広場）野外ステージ（鹿児島県）",
+     "source_url": "https://spice.eplus.jp/articles/350159",
+     "confidence": "high"
+    }
+   ]
+  },
+  "GLARE SOUNDS PROJECTION": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-04-03",
+     "title": "WALK INN FES!2027 IN桜島（4/3）",
+     "kind": "フェス",
+     "venue": "南栄リース桜島広場（桜島多目的広場）野外ステージ（鹿児島県）",
+     "source_url": "https://spice.eplus.jp/articles/350159",
+     "confidence": "high"
+    }
+   ]
+  },
+  "スプートニク": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-04-03",
+     "title": "WALK INN FES!2027 IN桜島（4/3）",
+     "kind": "フェス",
+     "venue": "南栄リース桜島広場（桜島多目的広場）野外ステージ（鹿児島県）",
+     "source_url": "https://spice.eplus.jp/articles/350159",
+     "confidence": "high"
+    }
+   ]
+  },
+  "The Jobs": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-04-03",
+     "title": "WALK INN FES!2027 IN桜島（4/3）",
+     "kind": "フェス",
+     "venue": "南栄リース桜島広場（桜島多目的広場）野外ステージ（鹿児島県）",
+     "source_url": "https://spice.eplus.jp/articles/350159",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Wiθ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-04-03",
+     "title": "WALK INN FES!2027 IN桜島（4/3）",
+     "kind": "フェス",
+     "venue": "南栄リース桜島広場（桜島多目的広場）野外ステージ（鹿児島県）",
+     "source_url": "https://spice.eplus.jp/articles/350159",
+     "confidence": "high"
+    }
+   ]
+  },
+  "シングルコイルシンドローム": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-04-03",
+     "title": "WALK INN FES!2027 IN桜島（4/3）",
+     "kind": "フェス",
+     "venue": "南栄リース桜島広場（桜島多目的広場）野外ステージ（鹿児島県）",
+     "source_url": "https://spice.eplus.jp/articles/350159",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Tear drop": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-04-03",
+     "title": "WALK INN FES!2027 IN桜島（4/3）",
+     "kind": "フェス",
+     "venue": "南栄リース桜島広場（桜島多目的広場）野外ステージ（鹿児島県）",
+     "source_url": "https://spice.eplus.jp/articles/350159",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ともそだちBAND": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-04-03",
+     "title": "WALK INN FES!2027 IN桜島（4/3）",
+     "kind": "フェス",
+     "venue": "南栄リース桜島広場（桜島多目的広場）野外ステージ（鹿児島県）",
+     "source_url": "https://spice.eplus.jp/articles/350159",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Tonto": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-04-04",
+     "title": "WALK INN FES!2027 IN桜島（4/4）",
+     "kind": "フェス",
+     "venue": "南栄リース桜島広場（桜島多目的広場）野外ステージ（鹿児島県）",
+     "source_url": "https://spice.eplus.jp/articles/350159",
+     "confidence": "high"
+    }
+   ]
+  },
+  "THE ACOUSTICS": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-04-04",
+     "title": "WALK INN FES!2027 IN桜島（4/4）",
+     "kind": "フェス",
+     "venue": "南栄リース桜島広場（桜島多目的広場）野外ステージ（鹿児島県）",
+     "source_url": "https://spice.eplus.jp/articles/350159",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Noisy Laf": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-04-04",
+     "title": "WALK INN FES!2027 IN桜島（4/4）",
+     "kind": "フェス",
+     "venue": "南栄リース桜島広場（桜島多目的広場）野外ステージ（鹿児島県）",
+     "source_url": "https://spice.eplus.jp/articles/350159",
+     "confidence": "high"
+    }
+   ]
+  },
+  "花想い": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-04-04",
+     "title": "WALK INN FES!2027 IN桜島（4/4）",
+     "kind": "フェス",
+     "venue": "南栄リース桜島広場（桜島多目的広場）野外ステージ（鹿児島県）",
+     "source_url": "https://spice.eplus.jp/articles/350159",
+     "confidence": "high"
+    }
+   ]
+  },
+  "BACKSKiD": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-04-04",
+     "title": "WALK INN FES!2027 IN桜島（4/4）",
+     "kind": "フェス",
+     "venue": "南栄リース桜島広場（桜島多目的広場）野外ステージ（鹿児島県）",
+     "source_url": "https://spice.eplus.jp/articles/350159",
+     "confidence": "high"
+    }
+   ]
+  },
+  "その日暮らし": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-04-04",
+     "title": "WALK INN FES!2027 IN桜島（4/4）",
+     "kind": "フェス",
+     "venue": "南栄リース桜島広場（桜島多目的広場）野外ステージ（鹿児島県）",
+     "source_url": "https://spice.eplus.jp/articles/350159",
      "confidence": "high"
     }
    ]
