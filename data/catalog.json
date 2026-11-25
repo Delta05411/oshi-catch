@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T20:15:01+09:00",
+ "updated": "2026-11-26T07:25:00+09:00",
  "artists": {
   "Saucy Dog": {
    "aliases": [
@@ -7460,14 +7460,6 @@
   "Dizzy Sunfist": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-11-29",
-     "title": "MASTERPIECE（11/29）",
-     "kind": "フェス",
-     "venue": "岐阜市文化センター（岐阜）",
-     "source_url": "http://masterpiece-gifu.com/",
-     "confidence": "high"
-    },
     {
      "date": "2026-12-29",
      "title": "COUNTDOWN JAPAN 26/27（12/29）",
@@ -20100,6 +20092,14 @@
      "kind": "フェス",
      "venue": "幕張メッセ 国際展示場 1～3ホール（千葉）",
      "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-11-29",
+     "title": "MASTERPIECE（11/29）",
+     "kind": "フェス",
+     "venue": "岐阜市文化センター（岐阜）",
+     "source_url": "http://masterpiece-gifu.com/",
      "confidence": "high"
     }
    ]
