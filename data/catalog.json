@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T07:10:38+09:00",
+ "updated": "2026-11-25T20:15:01+09:00",
  "artists": {
   "Saucy Dog": {
    "aliases": [
@@ -2580,6 +2580,14 @@
      "venue": "滋賀U☆STONE（大津）（滋賀県）",
      "source_url": "https://fes.ragnet.co.jp/rock-festival",
      "confidence": "high"
+    },
+    {
+     "date": "2027-02-27",
+     "title": "風のリズム FEST.2027",
+     "kind": "フェス",
+     "venue": "NIIGATA LOTS（新潟県）",
+     "source_url": "https://eplus.jp/sf/detail/4637040001-P0030001",
+     "confidence": "high"
     }
    ]
   },
@@ -4155,6 +4163,14 @@
      "kind": "フェス",
      "venue": "別府ビーコンプラザ（大分県）",
      "source_url": "https://www.billboard-japan.com/d_news/detail/166666/2",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-02-27",
+     "title": "風のリズム FEST.2027",
+     "kind": "フェス",
+     "venue": "NIIGATA LOTS（新潟県）",
+     "source_url": "https://eplus.jp/sf/detail/4637040001-P0030001",
      "confidence": "high"
     }
    ]
@@ -16290,6 +16306,14 @@
      "venue": "みずほPayPayドーム福岡（福岡県）",
      "source_url": "https://anisama.tv/2027/fukuoka/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "LAWSON premium event ミュージックレインフェスティバル2026（12/27）",
+     "kind": "フェス",
+     "venue": "Shibuya LOVEZ（東京都）",
+     "source_url": "https://musicrayn.com/s/mra/news/detail/10070",
+     "confidence": "high"
     }
    ]
   },
@@ -16830,6 +16854,14 @@
      "kind": "フェス",
      "venue": "TOYOTA ARENA TOKYO（東京都）",
      "source_url": "https://www.lisani.jp/live/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-26",
+     "title": "LAWSON premium event ミュージックレインフェスティバル2026（12/26）",
+     "kind": "フェス",
+     "venue": "Shibuya LOVEZ（東京都）",
+     "source_url": "https://musicrayn.com/s/mra/news/detail/10070",
      "confidence": "high"
     }
    ]
@@ -19058,6 +19090,14 @@
      "venue": "（千葉）",
      "source_url": "https://www.ragnet.co.jp/rock-festival",
      "confidence": "high"
+    },
+    {
+     "date": "2027-02-27",
+     "title": "風のリズム FEST.2027",
+     "kind": "フェス",
+     "venue": "NIIGATA LOTS（新潟県）",
+     "source_url": "https://eplus.jp/sf/detail/4637040001-P0030001",
+     "confidence": "high"
     }
    ]
   },
@@ -21133,6 +21173,14 @@
      "kind": "フェス",
      "venue": "COMTEC PORTBASE（名古屋市港区）（愛知県）",
      "source_url": "http://anicorefes.com/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-26",
+     "title": "LAWSON premium event ミュージックレインフェスティバル2026（12/26）",
+     "kind": "フェス",
+     "venue": "Shibuya LOVEZ（東京都）",
+     "source_url": "https://musicrayn.com/s/mra/news/detail/10070",
      "confidence": "high"
     }
    ]
@@ -24778,6 +24826,14 @@
      "kind": "フェス",
      "venue": "ロームシアター京都 メインホール（京都府）",
      "source_url": "https://miyako-premiumlive.jp/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-27",
+     "title": "LAWSON premium event ミュージックレインフェスティバル2026（12/27）",
+     "kind": "フェス",
+     "venue": "Shibuya LOVEZ（東京都）",
+     "source_url": "https://musicrayn.com/s/mra/news/detail/10070",
      "confidence": "high"
     }
    ]
@@ -34949,6 +35005,14 @@
      "venue": "BASE GRANBELL（東京都）",
      "source_url": "https://dialogue-music.jp/news/2026/10/19-9/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-12-26",
+     "title": "LAWSON premium event ミュージックレインフェスティバル2026（12/26）",
+     "kind": "フェス",
+     "venue": "Shibuya LOVEZ（東京都）",
+     "source_url": "https://musicrayn.com/s/mra/news/detail/10070",
+     "confidence": "high"
     }
    ]
   },
@@ -35560,6 +35624,708 @@
      "venue": "駁二芸術特区（台湾・高雄）",
      "source_url": "https://www.mirrormedia.mg/external/setn_1941659",
      "confidence": "low"
+    }
+   ]
+  },
+  "SAbio": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "Super OTONA Fes.",
+     "kind": "フェス",
+     "venue": "大阪城音楽堂（大阪府）",
+     "source_url": "https://kidoairaku.club/super-otona-fes/2026/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "９６２": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "Super OTONA Fes.",
+     "kind": "フェス",
+     "venue": "大阪城音楽堂（大阪府）",
+     "source_url": "https://kidoairaku.club/super-otona-fes/2026/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ウォーターメロンヘッズ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "Super OTONA Fes.",
+     "kind": "フェス",
+     "venue": "大阪城音楽堂（大阪府）",
+     "source_url": "https://kidoairaku.club/super-otona-fes/2026/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "燦燦シュウ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "Super OTONA Fes.",
+     "kind": "フェス",
+     "venue": "大阪城音楽堂（大阪府）",
+     "source_url": "https://kidoairaku.club/super-otona-fes/2026/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "THE LEMONADE×Z": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "Super OTONA Fes.",
+     "kind": "フェス",
+     "venue": "大阪城音楽堂（大阪府）",
+     "source_url": "https://kidoairaku.club/super-otona-fes/2026/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "es sense": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "Super OTONA Fes.",
+     "kind": "フェス",
+     "venue": "大阪城音楽堂（大阪府）",
+     "source_url": "https://kidoairaku.club/super-otona-fes/2026/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "KIT": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "Super OTONA Fes.",
+     "kind": "フェス",
+     "venue": "大阪城音楽堂（大阪府）",
+     "source_url": "https://kidoairaku.club/super-otona-fes/2026/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "L.es.B": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "Super OTONA Fes.",
+     "kind": "フェス",
+     "venue": "大阪城音楽堂（大阪府）",
+     "source_url": "https://kidoairaku.club/super-otona-fes/2026/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "らうどやねん": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "Super OTONA Fes.",
+     "kind": "フェス",
+     "venue": "大阪城音楽堂（大阪府）",
+     "source_url": "https://kidoairaku.club/super-otona-fes/2026/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Indian Popgun": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "Super OTONA Fes.",
+     "kind": "フェス",
+     "venue": "大阪城音楽堂（大阪府）",
+     "source_url": "https://kidoairaku.club/super-otona-fes/2026/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "名前をつけてくれ!!": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "Super OTONA Fes.",
+     "kind": "フェス",
+     "venue": "大阪城音楽堂（大阪府）",
+     "source_url": "https://kidoairaku.club/super-otona-fes/2026/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Raichi": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "Super OTONA Fes.",
+     "kind": "フェス",
+     "venue": "大阪城音楽堂（大阪府）",
+     "source_url": "https://kidoairaku.club/super-otona-fes/2026/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "THE TAMUYASU": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "Super OTONA Fes.",
+     "kind": "フェス",
+     "venue": "大阪城音楽堂（大阪府）",
+     "source_url": "https://kidoairaku.club/super-otona-fes/2026/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ハタスケ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "Super OTONA Fes.",
+     "kind": "フェス",
+     "venue": "大阪城音楽堂（大阪府）",
+     "source_url": "https://kidoairaku.club/super-otona-fes/2026/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "おやふこうもの": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "Super OTONA Fes.",
+     "kind": "フェス",
+     "venue": "大阪城音楽堂（大阪府）",
+     "source_url": "https://kidoairaku.club/super-otona-fes/2026/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Swing Goat": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "Super OTONA Fes.",
+     "kind": "フェス",
+     "venue": "大阪城音楽堂（大阪府）",
+     "source_url": "https://kidoairaku.club/super-otona-fes/2026/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "にぶおんぷまりるん": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "Super OTONA Fes.",
+     "kind": "フェス",
+     "venue": "大阪城音楽堂（大阪府）",
+     "source_url": "https://kidoairaku.club/super-otona-fes/2026/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "マモコと彩加": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "Super OTONA Fes.",
+     "kind": "フェス",
+     "venue": "大阪城音楽堂（大阪府）",
+     "source_url": "https://kidoairaku.club/super-otona-fes/2026/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "The Green Mountain Tops": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "Super OTONA Fes.",
+     "kind": "フェス",
+     "venue": "大阪城音楽堂（大阪府）",
+     "source_url": "https://kidoairaku.club/super-otona-fes/2026/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "The Amazing Trio": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "Super OTONA Fes.",
+     "kind": "フェス",
+     "venue": "大阪城音楽堂（大阪府）",
+     "source_url": "https://kidoairaku.club/super-otona-fes/2026/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "CLOVER": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "Super OTONA Fes.",
+     "kind": "フェス",
+     "venue": "大阪城音楽堂（大阪府）",
+     "source_url": "https://kidoairaku.club/super-otona-fes/2026/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "TERU": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "Super OTONA Fes.",
+     "kind": "フェス",
+     "venue": "大阪城音楽堂（大阪府）",
+     "source_url": "https://kidoairaku.club/super-otona-fes/2026/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "The Lapis": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "Super OTONA Fes.",
+     "kind": "フェス",
+     "venue": "大阪城音楽堂（大阪府）",
+     "source_url": "https://kidoairaku.club/super-otona-fes/2026/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "人生はダンス": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "Super OTONA Fes.",
+     "kind": "フェス",
+     "venue": "大阪城音楽堂（大阪府）",
+     "source_url": "https://kidoairaku.club/super-otona-fes/2026/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "OVER★Thanks": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "Super OTONA Fes.",
+     "kind": "フェス",
+     "venue": "大阪城音楽堂（大阪府）",
+     "source_url": "https://kidoairaku.club/super-otona-fes/2026/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "德上小夜子 with sayo's choir": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "Super OTONA Fes.",
+     "kind": "フェス",
+     "venue": "大阪城音楽堂（大阪府）",
+     "source_url": "https://kidoairaku.club/super-otona-fes/2026/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "kokodeiku": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "Super OTONA Fes.",
+     "kind": "フェス",
+     "venue": "大阪城音楽堂（大阪府）",
+     "source_url": "https://kidoairaku.club/super-otona-fes/2026/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "SPIRAL RING": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "Super OTONA Fes.",
+     "kind": "フェス",
+     "venue": "大阪城音楽堂（大阪府）",
+     "source_url": "https://kidoairaku.club/super-otona-fes/2026/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "SAIN": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "Super OTONA Fes.",
+     "kind": "フェス",
+     "venue": "大阪城音楽堂（大阪府）",
+     "source_url": "https://kidoairaku.club/super-otona-fes/2026/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ムラキヤスノリ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "Super OTONA Fes.",
+     "kind": "フェス",
+     "venue": "大阪城音楽堂（大阪府）",
+     "source_url": "https://kidoairaku.club/super-otona-fes/2026/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "中込和隆 SOLO PROJECT": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "Super OTONA Fes.",
+     "kind": "フェス",
+     "venue": "大阪城音楽堂（大阪府）",
+     "source_url": "https://kidoairaku.club/super-otona-fes/2026/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "A-cryl": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "Super OTONA Fes.",
+     "kind": "フェス",
+     "venue": "大阪城音楽堂（大阪府）",
+     "source_url": "https://kidoairaku.club/super-otona-fes/2026/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "高垣彩陽": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-26",
+     "title": "LAWSON premium event ミュージックレインフェスティバル2026（12/26）",
+     "kind": "フェス",
+     "venue": "Shibuya LOVEZ（東京都）",
+     "source_url": "https://musicrayn.com/s/mra/news/detail/10070",
+     "confidence": "high"
+    }
+   ]
+  },
+  "戸松遥": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-26",
+     "title": "LAWSON premium event ミュージックレインフェスティバル2026（12/26）",
+     "kind": "フェス",
+     "venue": "Shibuya LOVEZ（東京都）",
+     "source_url": "https://musicrayn.com/s/mra/news/detail/10070",
+     "confidence": "high"
+    }
+   ]
+  },
+  "雨宮天": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-26",
+     "title": "LAWSON premium event ミュージックレインフェスティバル2026（12/26）",
+     "kind": "フェス",
+     "venue": "Shibuya LOVEZ（東京都）",
+     "source_url": "https://musicrayn.com/s/mra/news/detail/10070",
+     "confidence": "high"
+    }
+   ]
+  },
+  "シユイ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-26",
+     "title": "LAWSON premium event ミュージックレインフェスティバル2026（12/26）",
+     "kind": "フェス",
+     "venue": "Shibuya LOVEZ（東京都）",
+     "source_url": "https://musicrayn.com/s/mra/news/detail/10070",
+     "confidence": "high"
+    }
+   ]
+  },
+  "寿美菜子": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-26",
+     "title": "LAWSON premium event ミュージックレインフェスティバル2026（12/26）",
+     "kind": "フェス",
+     "venue": "Shibuya LOVEZ（東京都）",
+     "source_url": "https://musicrayn.com/s/mra/news/detail/10070",
+     "confidence": "high"
+    }
+   ]
+  },
+  "麻倉もも": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-26",
+     "title": "LAWSON premium event ミュージックレインフェスティバル2026（12/26）",
+     "kind": "フェス",
+     "venue": "Shibuya LOVEZ（東京都）",
+     "source_url": "https://musicrayn.com/s/mra/news/detail/10070",
+     "confidence": "high"
+    }
+   ]
+  },
+  "CHiCO": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-26",
+     "title": "LAWSON premium event ミュージックレインフェスティバル2026（12/26）",
+     "kind": "フェス",
+     "venue": "Shibuya LOVEZ（東京都）",
+     "source_url": "https://musicrayn.com/s/mra/news/detail/10070",
+     "confidence": "high"
+    }
+   ]
+  },
+  "310": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-26",
+     "title": "LAWSON premium event ミュージックレインフェスティバル2026（12/26）",
+     "kind": "フェス",
+     "venue": "Shibuya LOVEZ（東京都）",
+     "source_url": "https://musicrayn.com/s/mra/news/detail/10070",
+     "confidence": "high"
+    }
+   ]
+  },
+  "スフィア": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-27",
+     "title": "LAWSON premium event ミュージックレインフェスティバル2026（12/27）",
+     "kind": "フェス",
+     "venue": "Shibuya LOVEZ（東京都）",
+     "source_url": "https://musicrayn.com/s/mra/news/detail/10070",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Hina": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "7th Heaven Festival（12/6）",
+     "kind": "フェス",
+     "venue": "7th Heaven Koza（沖縄県）",
+     "source_url": "https://ticketdive.com/event/7th-heaven-fes2026",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Bonbero": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-29",
+     "title": "STARZ",
+     "kind": "フェス",
+     "venue": "有明アリーナ（東京都）",
+     "source_url": "https://kai-you.net/article/97226",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Sonsi": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-29",
+     "title": "STARZ",
+     "kind": "フェス",
+     "venue": "有明アリーナ（東京都）",
+     "source_url": "https://kai-you.net/article/97226",
+     "confidence": "high"
+    }
+   ]
+  },
+  "かっちゃん工房": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-28",
+     "title": "淀川河川公園 アコースティックライブ × 淀ロック（11/28）",
+     "kind": "フェス",
+     "venue": "淀川河川公園 西中島地区（有料BBQエリア／淀川キャンプフィールド）（大阪府）",
+     "source_url": "https://fes.ragnet.co.jp/rock-festival/8",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Danny boy": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-28",
+     "title": "淀川河川公園 アコースティックライブ × 淀ロック（11/28）",
+     "kind": "フェス",
+     "venue": "淀川河川公園 西中島地区（有料BBQエリア／淀川キャンプフィールド）（大阪府）",
+     "source_url": "https://fes.ragnet.co.jp/rock-festival/8",
+     "confidence": "high"
+    }
+   ]
+  },
+  "永井よる": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-28",
+     "title": "淀川河川公園 アコースティックライブ × 淀ロック（11/28）",
+     "kind": "フェス",
+     "venue": "淀川河川公園 西中島地区（有料BBQエリア／淀川キャンプフィールド）（大阪府）",
+     "source_url": "https://fes.ragnet.co.jp/rock-festival/8",
+     "confidence": "high"
+    }
+   ]
+  },
+  "まっちゃん": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-28",
+     "title": "淀川河川公園 アコースティックライブ × 淀ロック（11/28）",
+     "kind": "フェス",
+     "venue": "淀川河川公園 西中島地区（有料BBQエリア／淀川キャンプフィールド）（大阪府）",
+     "source_url": "https://fes.ragnet.co.jp/rock-festival/8",
+     "confidence": "high"
+    }
+   ]
+  },
+  "THE Carnivals": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "淀川河川公園 アコースティックライブ × 淀ロック（11/29）",
+     "kind": "フェス",
+     "venue": "淀川河川公園 西中島地区（有料BBQエリア／淀川キャンプフィールド）（大阪府）",
+     "source_url": "https://fes.ragnet.co.jp/rock-festival/8",
+     "confidence": "high"
+    }
+   ]
+  },
+  "NIDONE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "淀川河川公園 アコースティックライブ × 淀ロック（11/29）",
+     "kind": "フェス",
+     "venue": "淀川河川公園 西中島地区（有料BBQエリア／淀川キャンプフィールド）（大阪府）",
+     "source_url": "https://fes.ragnet.co.jp/rock-festival/8",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ケニー＆キャサリン": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "淀川河川公園 アコースティックライブ × 淀ロック（11/29）",
+     "kind": "フェス",
+     "venue": "淀川河川公園 西中島地区（有料BBQエリア／淀川キャンプフィールド）（大阪府）",
+     "source_url": "https://fes.ragnet.co.jp/rock-festival/8",
+     "confidence": "high"
+    }
+   ]
+  },
+  "西島ファミリー": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "淀川河川公園 アコースティックライブ × 淀ロック（11/29）",
+     "kind": "フェス",
+     "venue": "淀川河川公園 西中島地区（有料BBQエリア／淀川キャンプフィールド）（大阪府）",
+     "source_url": "https://fes.ragnet.co.jp/rock-festival/8",
+     "confidence": "high"
+    }
+   ]
+  },
+  "タカハシタンバリン": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "淀川河川公園 アコースティックライブ × 淀ロック（11/29）",
+     "kind": "フェス",
+     "venue": "淀川河川公園 西中島地区（有料BBQエリア／淀川キャンプフィールド）（大阪府）",
+     "source_url": "https://fes.ragnet.co.jp/rock-festival/8",
+     "confidence": "high"
+    }
+   ]
+  },
+  "湾岸の羊": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-31",
+     "title": "54th NEW YEAR ROCK FESTIVAL 2026-2027",
+     "kind": "フェス",
+     "venue": "SHIBUYA PLEASURE PLEASURE（東京都）",
+     "source_url": "https://www.newyearrockfestival.com/",
+     "confidence": "high"
     }
    ]
   }
