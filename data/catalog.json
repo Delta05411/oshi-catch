@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T20:11:00+09:00",
+ "updated": "2026-11-27T07:11:40+09:00",
  "artists": {
   "Saucy Dog": {
    "aliases": [
@@ -2686,6 +2686,22 @@
      "venue": "別府ビーコンプラザ（大分県）",
      "source_url": "https://dengeki-beppu.com/",
      "confidence": "high"
+    },
+    {
+     "date": "2027-03-13",
+     "title": "RUMBLE×JAG 2027（3/13）",
+     "kind": "フェス",
+     "venue": "Aichi Sky Expo 展示ホールA（愛知県）",
+     "source_url": "https://yabaitshirtsyasan.com/news/",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-04-17",
+     "title": "ジゴロック大分2027 supported by ニカソー",
+     "kind": "フェス",
+     "venue": "大分スポーツ公園（大分）",
+     "source_url": "https://festival-life.com/169474",
+     "confidence": "high"
     }
    ]
   },
@@ -3260,6 +3276,14 @@
      "kind": "フェス",
      "venue": "幕張メッセ 国際展示場 1～3ホール（千葉）",
      "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-03-13",
+     "title": "RUMBLE×JAG 2027（3/13）",
+     "kind": "フェス",
+     "venue": "Aichi Sky Expo 展示ホールA（愛知県）",
+     "source_url": "https://yabaitshirtsyasan.com/news/",
      "confidence": "high"
     }
    ]
@@ -4286,6 +4310,14 @@
      "venue": "幕張メッセ 国際展示場 1～3ホール（千葉）",
      "source_url": "https://www.ragnet.co.jp/rock-festival",
      "confidence": "high"
+    },
+    {
+     "date": "2027-03-13",
+     "title": "RUMBLE×JAG 2027（3/13）",
+     "kind": "フェス",
+     "venue": "Aichi Sky Expo 展示ホールA（愛知県）",
+     "source_url": "https://yabaitshirtsyasan.com/news/",
+     "confidence": "high"
     }
    ]
   },
@@ -5259,6 +5291,14 @@
      "kind": "フェス",
      "venue": "INTEX OSAKA（大阪府）",
      "source_url": "https://radiocrazy.fm/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-11-29",
+     "title": "KONOSU MUSIC FESTIVAL 2026",
+     "kind": "フェス",
+     "venue": "コスモスアリーナふきあげ（吹上総合運動場）（埼玉県）",
+     "source_url": "https://festival-life.com/169138",
      "confidence": "high"
     }
    ]
@@ -8917,6 +8957,14 @@
      "kind": "フェス",
      "venue": "豊洲PIT（東京）",
      "source_url": "https://kotori-band.com/news/607273ae-b510-4524-8d84-85fc900cc09e",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-03-14",
+     "title": "RUMBLE×JAG 2027（3/14）",
+     "kind": "フェス",
+     "venue": "Aichi Sky Expo 展示ホールA（愛知県）",
+     "source_url": "https://yabaitshirtsyasan.com/news/",
      "confidence": "high"
     }
    ]
@@ -12961,6 +13009,14 @@
      "venue": "ポートメッセなごや（愛知県）",
      "source_url": "https://www.merryrockparade.jp/artist.html",
      "confidence": "high"
+    },
+    {
+     "date": "2026-11-29",
+     "title": "KONOSU MUSIC FESTIVAL 2026",
+     "kind": "フェス",
+     "venue": "コスモスアリーナふきあげ（吹上総合運動場）（埼玉県）",
+     "source_url": "https://festival-life.com/169138",
+     "confidence": "high"
     }
    ]
   },
@@ -15475,6 +15531,14 @@
      "venue": "幕張メッセ（千葉県）",
      "source_url": "https://countdownjapan.jp/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-11-29",
+     "title": "KONOSU MUSIC FESTIVAL 2026",
+     "kind": "フェス",
+     "venue": "コスモスアリーナふきあげ（吹上総合運動場）（埼玉県）",
+     "source_url": "https://festival-life.com/169138",
+     "confidence": "high"
     }
    ]
   },
@@ -15820,6 +15884,14 @@
      "kind": "フェス",
      "venue": "神戸VARIT.ほか（兵庫県）",
      "source_url": "https://eplus.jp/sf/detail/K000000646",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-11-29",
+     "title": "KONOSU MUSIC FESTIVAL 2026",
+     "kind": "フェス",
+     "venue": "コスモスアリーナふきあげ（吹上総合運動場）（埼玉県）",
+     "source_url": "https://festival-life.com/169138",
      "confidence": "high"
     }
    ]
@@ -17076,6 +17148,14 @@
      "kind": "フェス",
      "venue": "福岡国際センター（福岡県）",
      "source_url": "https://fmfukuoka.co.jp/lp/fukuokaguitarjamboree/",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-11-29",
+     "title": "KONOSU MUSIC FESTIVAL 2026",
+     "kind": "フェス",
+     "venue": "コスモスアリーナふきあげ（吹上総合運動場）（埼玉県）",
+     "source_url": "https://festival-life.com/169138",
      "confidence": "high"
     }
    ]
@@ -22651,6 +22731,14 @@
      "venue": "INTEX OSAKA（大阪府）",
      "source_url": "https://radiocrazy.fm/",
      "confidence": "high"
+    },
+    {
+     "date": "2026-11-28",
+     "title": "OLUYO FESTIVAL-YO!",
+     "kind": "フェス",
+     "venue": "ヒラオカビル（徳島市東新町）（徳島県）",
+     "source_url": "https://festival-life.com/169100",
+     "confidence": "high"
     }
    ]
   },
@@ -23840,6 +23928,14 @@
      "kind": "フェス",
      "venue": "新宿 LOFT（東京都）",
      "source_url": "https://eplus.jp/sf/detail/4629230001-P0030001",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-11-28",
+     "title": "OLUYO FESTIVAL-YO!",
+     "kind": "フェス",
+     "venue": "ヒラオカビル（徳島市東新町）（徳島県）",
+     "source_url": "https://festival-life.com/169100",
      "confidence": "high"
     }
    ]
@@ -26099,6 +26195,14 @@
      "venue": "Zepp DiverCity(TOKYO) ほか（東京都）",
      "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
      "confidence": "high"
+    },
+    {
+     "date": "2026-11-29",
+     "title": "KONOSU MUSIC FESTIVAL 2026",
+     "kind": "フェス",
+     "venue": "コスモスアリーナふきあげ（吹上総合運動場）（埼玉県）",
+     "source_url": "https://festival-life.com/169138",
+     "confidence": "high"
     }
    ]
   },
@@ -26520,6 +26624,14 @@
      "kind": "フェス",
      "venue": "名古屋・新栄界隈（Diamond Hall ほか）（愛知県）",
      "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-03-14",
+     "title": "RUMBLE×JAG 2027（3/14）",
+     "kind": "フェス",
+     "venue": "Aichi Sky Expo 展示ホールA（愛知県）",
+     "source_url": "https://yabaitshirtsyasan.com/news/",
      "confidence": "high"
     }
    ]
@@ -27393,6 +27505,14 @@
      "kind": "フェス",
      "venue": "名古屋 新栄・栄・大須のライブハウス15会場以上（愛知県）",
      "source_url": "https://www.loveinq.com/182782.html",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-11-29",
+     "title": "KONOSU MUSIC FESTIVAL 2026",
+     "kind": "フェス",
+     "venue": "コスモスアリーナふきあげ（吹上総合運動場）（埼玉県）",
+     "source_url": "https://festival-life.com/169138",
      "confidence": "high"
     }
    ]
@@ -37133,6 +37253,539 @@
      "venue": "SHIBUYA CYCLONE / GARRET udagawa（2会場サーキット）（東京都）",
      "source_url": "https://gekirock.com/news/2026/11/sleepless_endorphine_resail_records.php",
      "confidence": "low"
+    }
+   ]
+  },
+  "OHAYASHI BAND（accobin & 純れのん）": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-28",
+     "title": "OLUYO FESTIVAL-YO!",
+     "kind": "フェス",
+     "venue": "ヒラオカビル（徳島市東新町）（徳島県）",
+     "source_url": "https://festival-life.com/169100",
+     "confidence": "high"
+    }
+   ]
+  },
+  "北島康雄（四星球）": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-28",
+     "title": "OLUYO FESTIVAL-YO!",
+     "kind": "フェス",
+     "venue": "ヒラオカビル（徳島市東新町）（徳島県）",
+     "source_url": "https://festival-life.com/169100",
+     "confidence": "high"
+    }
+   ]
+  },
+  "後藤正文（ASIAN KUNG-FU GENERATION）": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-28",
+     "title": "OLUYO FESTIVAL-YO!",
+     "kind": "フェス",
+     "venue": "ヒラオカビル（徳島市東新町）（徳島県）",
+     "source_url": "https://festival-life.com/169100",
+     "confidence": "high"
+    }
+   ]
+  },
+  "蜂須賀連": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-28",
+     "title": "OLUYO FESTIVAL-YO!",
+     "kind": "フェス",
+     "venue": "ヒラオカビル（徳島市東新町）（徳島県）",
+     "source_url": "https://festival-life.com/169100",
+     "confidence": "high"
+    }
+   ]
+  },
+  "大黒摩季": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "KONOSU MUSIC FESTIVAL 2026",
+     "kind": "フェス",
+     "venue": "コスモスアリーナふきあげ（吹上総合運動場）（埼玉県）",
+     "source_url": "https://festival-life.com/169138",
+     "confidence": "high"
+    }
+   ]
+  },
+  "高橋洋子": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "KONOSU MUSIC FESTIVAL 2026",
+     "kind": "フェス",
+     "venue": "コスモスアリーナふきあげ（吹上総合運動場）（埼玉県）",
+     "source_url": "https://festival-life.com/169138",
+     "confidence": "high"
+    }
+   ]
+  },
+  "VALHALLA": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "KONOSU MUSIC FESTIVAL 2026",
+     "kind": "フェス",
+     "venue": "コスモスアリーナふきあげ（吹上総合運動場）（埼玉県）",
+     "source_url": "https://festival-life.com/169138",
+     "confidence": "high"
+    }
+   ]
+  },
+  "うた": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "KONOSU MUSIC FESTIVAL 2026",
+     "kind": "フェス",
+     "venue": "コスモスアリーナふきあげ（吹上総合運動場）（埼玉県）",
+     "source_url": "https://festival-life.com/169138",
+     "confidence": "high"
+    }
+   ]
+  },
+  "稀": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-29",
+     "title": "KONOSU MUSIC FESTIVAL 2026",
+     "kind": "フェス",
+     "venue": "コスモスアリーナふきあげ（吹上総合運動場）（埼玉県）",
+     "source_url": "https://festival-life.com/169138",
+     "confidence": "high"
+    }
+   ]
+  },
+  "AKIIIRA / KYORO": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-28",
+     "title": "MASTERPIECE（出演日未確認）",
+     "kind": "フェス",
+     "venue": "岐阜市文化センター（岐阜）",
+     "source_url": "http://masterpiece-gifu.com/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "HAZU": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-28",
+     "title": "MASTERPIECE（出演日未確認）",
+     "kind": "フェス",
+     "venue": "岐阜市文化センター（岐阜）",
+     "source_url": "http://masterpiece-gifu.com/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "HIDEO (LONDON NITE NAGOYA)": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-28",
+     "title": "MASTERPIECE（出演日未確認）",
+     "kind": "フェス",
+     "venue": "岐阜市文化センター（岐阜）",
+     "source_url": "http://masterpiece-gifu.com/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Kevin (OFF THE WALL)": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-28",
+     "title": "MASTERPIECE（出演日未確認）",
+     "kind": "フェス",
+     "venue": "岐阜市文化センター（岐阜）",
+     "source_url": "http://masterpiece-gifu.com/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Mippan (Let's Do Nuts)": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-28",
+     "title": "MASTERPIECE（出演日未確認）",
+     "kind": "フェス",
+     "venue": "岐阜市文化センター（岐阜）",
+     "source_url": "http://masterpiece-gifu.com/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "MORICAWA (Low-Cal-Ball)": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-28",
+     "title": "MASTERPIECE（出演日未確認）",
+     "kind": "フェス",
+     "venue": "岐阜市文化センター（岐阜）",
+     "source_url": "http://masterpiece-gifu.com/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "MORIMOTO (CANDY STORE)": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-28",
+     "title": "MASTERPIECE（出演日未確認）",
+     "kind": "フェス",
+     "venue": "岐阜市文化センター（岐阜）",
+     "source_url": "http://masterpiece-gifu.com/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "ozworks (VIICON)": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-28",
+     "title": "MASTERPIECE（出演日未確認）",
+     "kind": "フェス",
+     "venue": "岐阜市文化センター（岐阜）",
+     "source_url": "http://masterpiece-gifu.com/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "TAKASHI (VELOCITY OF SOUND)": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-28",
+     "title": "MASTERPIECE（出演日未確認）",
+     "kind": "フェス",
+     "venue": "岐阜市文化センター（岐阜）",
+     "source_url": "http://masterpiece-gifu.com/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "TAKASHIMAN (GOTCHA!)": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-28",
+     "title": "MASTERPIECE（出演日未確認）",
+     "kind": "フェス",
+     "venue": "岐阜市文化センター（岐阜）",
+     "source_url": "http://masterpiece-gifu.com/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "YANOMI": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-28",
+     "title": "MASTERPIECE（出演日未確認）",
+     "kind": "フェス",
+     "venue": "岐阜市文化センター（岐阜）",
+     "source_url": "http://masterpiece-gifu.com/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "カヴァー DE ないと！CREW(YAGI / 卍リョウ卍 / すだ金 / YU-TO)": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-28",
+     "title": "MASTERPIECE（出演日未確認）",
+     "kind": "フェス",
+     "venue": "岐阜市文化センター（岐阜）",
+     "source_url": "http://masterpiece-gifu.com/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "ATSU69": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-28",
+     "title": "MASTERPIECE（出演日未確認）",
+     "kind": "フェス",
+     "venue": "岐阜市文化センター（岐阜）",
+     "source_url": "http://masterpiece-gifu.com/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "ARINCE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-28",
+     "title": "MASTERPIECE（出演日未確認）",
+     "kind": "フェス",
+     "venue": "岐阜市文化センター（岐阜）",
+     "source_url": "http://masterpiece-gifu.com/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "APiTACO (ONEAPiENO)": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-28",
+     "title": "MASTERPIECE（出演日未確認）",
+     "kind": "フェス",
+     "venue": "岐阜市文化センター（岐阜）",
+     "source_url": "http://masterpiece-gifu.com/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "BUZZDOG": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-28",
+     "title": "MASTERPIECE（出演日未確認）",
+     "kind": "フェス",
+     "venue": "岐阜市文化センター（岐阜）",
+     "source_url": "http://masterpiece-gifu.com/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "coro": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-28",
+     "title": "MASTERPIECE（出演日未確認）",
+     "kind": "フェス",
+     "venue": "岐阜市文化センター（岐阜）",
+     "source_url": "http://masterpiece-gifu.com/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "HIDEKING (AFTER9/FMC)": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-28",
+     "title": "MASTERPIECE（出演日未確認）",
+     "kind": "フェス",
+     "venue": "岐阜市文化センター（岐阜）",
+     "source_url": "http://masterpiece-gifu.com/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Low-Cal-Ball CREW(u- / 祭林竹彦 / QuVota / MC Nick)": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-28",
+     "title": "MASTERPIECE（出演日未確認）",
+     "kind": "フェス",
+     "venue": "岐阜市文化センター（岐阜）",
+     "source_url": "http://masterpiece-gifu.com/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "TATSUYA": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-28",
+     "title": "MASTERPIECE（出演日未確認）",
+     "kind": "フェス",
+     "venue": "岐阜市文化センター（岐阜）",
+     "source_url": "http://masterpiece-gifu.com/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Yuuki Matsuo JAPAN(SKYLARKING)": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-28",
+     "title": "MASTERPIECE（出演日未確認）",
+     "kind": "フェス",
+     "venue": "岐阜市文化センター（岐阜）",
+     "source_url": "http://masterpiece-gifu.com/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "浅葉裕文": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-28",
+     "title": "JUHLA FESTIVAL 2026 テラノオト（出演日未確認）",
+     "kind": "フェス",
+     "venue": "養源寺・光源寺（駒込大観音）（文京区）（東京都）",
+     "source_url": "https://juh.la/festival/2026/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Stay Key Moment": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-11-28",
+     "title": "JUHLA FESTIVAL 2026 テラノオト（出演日未確認）",
+     "kind": "フェス",
+     "venue": "養源寺・光源寺（駒込大観音）（文京区）（東京都）",
+     "source_url": "https://juh.la/festival/2026/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Shunosuke Ishikawa": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-03",
+     "title": "Montreux Jazz Festival Japan -THE CLUB-（出演日未確認）",
+     "kind": "フェス",
+     "venue": "BLUE NOTE PLACE（恵比寿ガーデンプレイス）（東京都）",
+     "source_url": "https://festival-life.com/169140",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Kevin McHugh": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-03",
+     "title": "Montreux Jazz Festival Japan -THE CLUB-（出演日未確認）",
+     "kind": "フェス",
+     "venue": "BLUE NOTE PLACE（恵比寿ガーデンプレイス）（東京都）",
+     "source_url": "https://festival-life.com/169140",
+     "confidence": "low"
+    }
+   ]
+  },
+  "LOW IQ 01 & THE RHYTHM MAKERS": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-14",
+     "title": "RUMBLE×JAG 2027（3/14）",
+     "kind": "フェス",
+     "venue": "Aichi Sky Expo 展示ホールA（愛知県）",
+     "source_url": "https://yabaitshirtsyasan.com/news/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "SNAIL RAMP": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-14",
+     "title": "RUMBLE×JAG 2027（3/14）",
+     "kind": "フェス",
+     "venue": "Aichi Sky Expo 展示ホールA（愛知県）",
+     "source_url": "https://yabaitshirtsyasan.com/news/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "浮trio": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-14",
+     "title": "武蔵野 MUSIC JAM 2027 ～On the Tracks of Music in Tokorozawa～",
+     "kind": "フェス",
+     "venue": "所沢航空記念公園 野外ステージ（埼玉県）",
+     "source_url": "https://eplus.jp/sf/live/festival/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "梅津和時": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-14",
+     "title": "武蔵野 MUSIC JAM 2027 ～On the Tracks of Music in Tokorozawa～",
+     "kind": "フェス",
+     "venue": "所沢航空記念公園 野外ステージ（埼玉県）",
+     "source_url": "https://eplus.jp/sf/live/festival/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "KMC & STUTS": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-14",
+     "title": "武蔵野 MUSIC JAM 2027 ～On the Tracks of Music in Tokorozawa～",
+     "kind": "フェス",
+     "venue": "所沢航空記念公園 野外ステージ（埼玉県）",
+     "source_url": "https://eplus.jp/sf/live/festival/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "曽我部恵一": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-14",
+     "title": "武蔵野 MUSIC JAM 2027 ～On the Tracks of Music in Tokorozawa～",
+     "kind": "フェス",
+     "venue": "所沢航空記念公園 野外ステージ（埼玉県）",
+     "source_url": "https://eplus.jp/sf/live/festival/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Kazuki Isogai feat. 木村カエラ・小袋成彬・ケンチンミン": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-04-17",
+     "title": "ジゴロック大分2027 supported by ニカソー",
+     "kind": "フェス",
+     "venue": "大分スポーツ公園（大分）",
+     "source_url": "https://festival-life.com/169474",
+     "confidence": "high"
     }
    ]
   }
