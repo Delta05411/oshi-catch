@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T07:25:00+09:00",
+ "updated": "2026-11-26T20:11:00+09:00",
  "artists": [
   "04 Limited Sazabys",
   "ELLEGARDEN",
@@ -12109,13 +12109,20 @@
    "title": "京都大作戦2027（10-FEET主催）",
    "kind": "フェス",
    "venue": "京都府立山城総合運動公園 太陽が丘特設野外ステージ（京都府）",
-   "sale_info": "7/3・4・10・11の4日間開催。9:30開場/11:00開演",
+   "sale_info": "7/3・4・10・11の4日間開催。9:30開場/11:00開演。1日券12,100円・2日券24,200円（税込）。一般発売は未発表",
    "sales": [
     {
      "label": "はんなり会 超最速0次受付",
      "start": "2026-10-03",
      "end": "2026-10-12",
      "note": "10/3 20:00〜10/12 23:59 / 年額会員制度「はんなり会」限定"
+    },
+    {
+     "label": "10-FEET MOBILE会員受付（抽選）",
+     "start": "2026-11-24",
+     "end": "2026-11-29",
+     "url": "https://10-feet.kyoto/contents/1129109",
+     "note": "11/24 12:00〜11/29 23:59。10-FEET MOBILE会員限定"
     }
    ],
    "source_url": "https://kyoto-daisakusen.kyoto/27/",
@@ -12153,13 +12160,20 @@
    "title": "京都大作戦2027（10-FEET主催）",
    "kind": "フェス",
    "venue": "京都府立山城総合運動公園 太陽が丘特設野外ステージ（京都府）",
-   "sale_info": "7/3・4・10・11の4日間開催。9:30開場/11:00開演",
+   "sale_info": "7/3・4・10・11の4日間開催。9:30開場/11:00開演。1日券12,100円・2日券24,200円（税込）。一般発売は未発表",
    "sales": [
     {
      "label": "はんなり会 超最速0次受付",
      "start": "2026-10-03",
      "end": "2026-10-12",
      "note": "10/3 20:00〜10/12 23:59 / 年額会員制度「はんなり会」限定"
+    },
+    {
+     "label": "10-FEET MOBILE会員受付（抽選）",
+     "start": "2026-11-24",
+     "end": "2026-11-29",
+     "url": "https://10-feet.kyoto/contents/1129109",
+     "note": "11/24 12:00〜11/29 23:59。10-FEET MOBILE会員限定"
     }
    ],
    "source_url": "https://kyoto-daisakusen.kyoto/27/",
@@ -12210,13 +12224,20 @@
    "title": "京都大作戦2027（10-FEET主催）",
    "kind": "フェス",
    "venue": "京都府立山城総合運動公園 太陽が丘特設野外ステージ（京都府）",
-   "sale_info": "7/3・4・10・11の4日間開催。9:30開場/11:00開演",
+   "sale_info": "7/3・4・10・11の4日間開催。9:30開場/11:00開演。1日券12,100円・2日券24,200円（税込）。一般発売は未発表",
    "sales": [
     {
      "label": "はんなり会 超最速0次受付",
      "start": "2026-10-03",
      "end": "2026-10-12",
      "note": "10/3 20:00〜10/12 23:59 / 年額会員制度「はんなり会」限定"
+    },
+    {
+     "label": "10-FEET MOBILE会員受付（抽選）",
+     "start": "2026-11-24",
+     "end": "2026-11-29",
+     "url": "https://10-feet.kyoto/contents/1129109",
+     "note": "11/24 12:00〜11/29 23:59。10-FEET MOBILE会員限定"
     }
    ],
    "source_url": "https://kyoto-daisakusen.kyoto/27/",
@@ -12282,13 +12303,20 @@
    "title": "京都大作戦2027（10-FEET主催）",
    "kind": "フェス",
    "venue": "京都府立山城総合運動公園 太陽が丘特設野外ステージ（京都府）",
-   "sale_info": "7/3・4・10・11の4日間開催。9:30開場/11:00開演",
+   "sale_info": "7/3・4・10・11の4日間開催。9:30開場/11:00開演。1日券12,100円・2日券24,200円（税込）。一般発売は未発表",
    "sales": [
     {
      "label": "はんなり会 超最速0次受付",
      "start": "2026-10-03",
      "end": "2026-10-12",
      "note": "10/3 20:00〜10/12 23:59 / 年額会員制度「はんなり会」限定"
+    },
+    {
+     "label": "10-FEET MOBILE会員受付（抽選）",
+     "start": "2026-11-24",
+     "end": "2026-11-29",
+     "url": "https://10-feet.kyoto/contents/1129109",
+     "note": "11/24 12:00〜11/29 23:59。10-FEET MOBILE会員限定"
     }
    ],
    "source_url": "https://kyoto-daisakusen.kyoto/27/",
@@ -12506,9 +12534,9 @@
    "venue": "豊洲PIT（東京）",
    "source_url": "https://backnumber.info/news/detail/400314",
    "confidence": "high",
-   "sale_info": "FC（one room gold key）会員限定・抽選。チケット詳細は2026年11月中旬発表予定",
+   "sale_info": "FC（one room gold key）会員限定・抽選。全席9,900円（税込）、1公演1人2枚まで。開場開演と一般発売は未発表",
    "ticket_name": "one room gold key 抽選",
-   "ticket_url": "https://backnumber.info/news/detail/400314",
+   "ticket_url": "https://backnumber.info/feature/oneroomparty_vol8",
    "sales": [
     {
      "label": "one room gold key 会員先行",
@@ -12527,9 +12555,9 @@
    "venue": "豊洲PIT（東京）",
    "source_url": "https://backnumber.info/news/detail/400314",
    "confidence": "high",
-   "sale_info": "FC（one room gold key）会員限定・抽選。チケット詳細は2026年11月中旬発表予定",
+   "sale_info": "FC（one room gold key）会員限定・抽選。全席9,900円（税込）、1公演1人2枚まで。開場開演と一般発売は未発表",
    "ticket_name": "one room gold key 抽選",
-   "ticket_url": "https://backnumber.info/news/detail/400314",
+   "ticket_url": "https://backnumber.info/feature/oneroomparty_vol8",
    "sales": [
     {
      "label": "one room gold key 会員先行",
@@ -12630,9 +12658,9 @@
    "venue": "Zepp Sapporo（北海道）",
    "source_url": "https://backnumber.info/news/detail/400314",
    "confidence": "high",
-   "sale_info": "FC（one room gold key）会員限定・抽選。チケット詳細は2026年11月中旬発表予定",
+   "sale_info": "FC（one room gold key）会員限定・抽選。全席9,900円（税込）、1公演1人2枚まで。開場開演と一般発売は未発表",
    "ticket_name": "one room gold key 抽選",
-   "ticket_url": "https://backnumber.info/news/detail/400314",
+   "ticket_url": "https://backnumber.info/feature/oneroomparty_vol8",
    "sales": [
     {
      "label": "one room gold key 会員先行",
@@ -12651,9 +12679,9 @@
    "venue": "Zepp Sapporo（北海道）",
    "source_url": "https://backnumber.info/news/detail/400314",
    "confidence": "high",
-   "sale_info": "FC（one room gold key）会員限定・抽選。チケット詳細は2026年11月中旬発表予定",
+   "sale_info": "FC（one room gold key）会員限定・抽選。全席9,900円（税込）、1公演1人2枚まで。開場開演と一般発売は未発表",
    "ticket_name": "one room gold key 抽選",
-   "ticket_url": "https://backnumber.info/news/detail/400314",
+   "ticket_url": "https://backnumber.info/feature/oneroomparty_vol8",
    "sales": [
     {
      "label": "one room gold key 会員先行",
@@ -12685,9 +12713,9 @@
    "venue": "Zepp Osaka Bayside（大阪）",
    "source_url": "https://backnumber.info/news/detail/400314",
    "confidence": "high",
-   "sale_info": "FC（one room gold key）会員限定・抽選。チケット詳細は2026年11月中旬発表予定",
+   "sale_info": "FC（one room gold key）会員限定・抽選。全席9,900円（税込）、1公演1人2枚まで。開場開演と一般発売は未発表",
    "ticket_name": "one room gold key 抽選",
-   "ticket_url": "https://backnumber.info/news/detail/400314",
+   "ticket_url": "https://backnumber.info/feature/oneroomparty_vol8",
    "sales": [
     {
      "label": "one room gold key 会員先行",
@@ -12706,9 +12734,9 @@
    "venue": "Zepp Osaka Bayside（大阪）",
    "source_url": "https://backnumber.info/news/detail/400314",
    "confidence": "high",
-   "sale_info": "FC（one room gold key）会員限定・抽選。チケット詳細は2026年11月中旬発表予定",
+   "sale_info": "FC（one room gold key）会員限定・抽選。全席9,900円（税込）、1公演1人2枚まで。開場開演と一般発売は未発表",
    "ticket_name": "one room gold key 抽選",
-   "ticket_url": "https://backnumber.info/news/detail/400314",
+   "ticket_url": "https://backnumber.info/feature/oneroomparty_vol8",
    "sales": [
     {
      "label": "one room gold key 会員先行",
@@ -12727,9 +12755,9 @@
    "venue": "やまぎん県民ホール（山形）",
    "source_url": "https://backnumber.info/news/detail/400314",
    "confidence": "high",
-   "sale_info": "FC（one room gold key）会員限定・抽選。チケット詳細は2026年11月中旬発表予定",
+   "sale_info": "FC（one room gold key）会員限定・抽選。全席9,900円（税込）、1公演1人2枚まで。開場開演と一般発売は未発表",
    "ticket_name": "one room gold key 抽選",
-   "ticket_url": "https://backnumber.info/news/detail/400314",
+   "ticket_url": "https://backnumber.info/feature/oneroomparty_vol8",
    "sales": [
     {
      "label": "one room gold key 会員先行",
@@ -12748,9 +12776,9 @@
    "venue": "やまぎん県民ホール（山形）",
    "source_url": "https://backnumber.info/news/detail/400314",
    "confidence": "high",
-   "sale_info": "FC（one room gold key）会員限定・抽選。チケット詳細は2026年11月中旬発表予定",
+   "sale_info": "FC（one room gold key）会員限定・抽選。全席9,900円（税込）、1公演1人2枚まで。開場開演と一般発売は未発表",
    "ticket_name": "one room gold key 抽選",
-   "ticket_url": "https://backnumber.info/news/detail/400314",
+   "ticket_url": "https://backnumber.info/feature/oneroomparty_vol8",
    "sales": [
     {
      "label": "one room gold key 会員先行",
@@ -12797,9 +12825,9 @@
    "venue": "本多の森 北電ホール（石川）",
    "source_url": "https://backnumber.info/news/detail/400314",
    "confidence": "high",
-   "sale_info": "FC（one room gold key）会員限定・抽選。チケット詳細は2026年11月中旬発表予定",
+   "sale_info": "FC（one room gold key）会員限定・抽選。全席9,900円（税込）、1公演1人2枚まで。開場開演と一般発売は未発表",
    "ticket_name": "one room gold key 抽選",
-   "ticket_url": "https://backnumber.info/news/detail/400314",
+   "ticket_url": "https://backnumber.info/feature/oneroomparty_vol8",
    "sales": [
     {
      "label": "one room gold key 会員先行",
@@ -12846,9 +12874,9 @@
    "venue": "本多の森 北電ホール（石川）",
    "source_url": "https://backnumber.info/news/detail/400314",
    "confidence": "high",
-   "sale_info": "FC（one room gold key）会員限定・抽選。チケット詳細は2026年11月中旬発表予定",
+   "sale_info": "FC（one room gold key）会員限定・抽選。全席9,900円（税込）、1公演1人2枚まで。開場開演と一般発売は未発表",
    "ticket_name": "one room gold key 抽選",
-   "ticket_url": "https://backnumber.info/news/detail/400314",
+   "ticket_url": "https://backnumber.info/feature/oneroomparty_vol8",
    "sales": [
     {
      "label": "one room gold key 会員先行",
@@ -12909,9 +12937,9 @@
    "venue": "KDDI維新ホール（山口）",
    "source_url": "https://backnumber.info/news/detail/400314",
    "confidence": "high",
-   "sale_info": "FC（one room gold key）会員限定・抽選。チケット詳細は2026年11月中旬発表予定",
+   "sale_info": "FC（one room gold key）会員限定・抽選。全席9,900円（税込）、1公演1人2枚まで。開場開演と一般発売は未発表",
    "ticket_name": "one room gold key 抽選",
-   "ticket_url": "https://backnumber.info/news/detail/400314",
+   "ticket_url": "https://backnumber.info/feature/oneroomparty_vol8",
    "sales": [
     {
      "label": "one room gold key 会員先行",
@@ -12930,9 +12958,9 @@
    "venue": "KDDI維新ホール（山口）",
    "source_url": "https://backnumber.info/news/detail/400314",
    "confidence": "high",
-   "sale_info": "FC（one room gold key）会員限定・抽選。チケット詳細は2026年11月中旬発表予定",
+   "sale_info": "FC（one room gold key）会員限定・抽選。全席9,900円（税込）、1公演1人2枚まで。開場開演と一般発売は未発表",
    "ticket_name": "one room gold key 抽選",
-   "ticket_url": "https://backnumber.info/news/detail/400314",
+   "ticket_url": "https://backnumber.info/feature/oneroomparty_vol8",
    "sales": [
     {
      "label": "one room gold key 会員先行",
@@ -12951,9 +12979,9 @@
    "venue": "LaLa arena TOKYO-BAY（千葉）",
    "source_url": "https://backnumber.info/news/detail/400314",
    "confidence": "high",
-   "sale_info": "FC（one room gold key）会員限定・抽選。チケット詳細は2026年11月中旬発表予定",
+   "sale_info": "FC（one room gold key）会員限定・抽選。全席9,900円（税込）、1公演1人2枚まで。開場開演と一般発売は未発表",
    "ticket_name": "one room gold key 抽選",
-   "ticket_url": "https://backnumber.info/news/detail/400314",
+   "ticket_url": "https://backnumber.info/feature/oneroomparty_vol8",
    "sales": [
     {
      "label": "one room gold key 会員先行",
@@ -12972,9 +13000,9 @@
    "venue": "LaLa arena TOKYO-BAY（千葉）",
    "source_url": "https://backnumber.info/news/detail/400314",
    "confidence": "high",
-   "sale_info": "FC（one room gold key）会員限定・抽選。チケット詳細は2026年11月中旬発表予定",
+   "sale_info": "FC（one room gold key）会員限定・抽選。全席9,900円（税込）、1公演1人2枚まで。開場開演と一般発売は未発表",
    "ticket_name": "one room gold key 抽選",
-   "ticket_url": "https://backnumber.info/news/detail/400314",
+   "ticket_url": "https://backnumber.info/feature/oneroomparty_vol8",
    "sales": [
     {
      "label": "one room gold key 会員先行",
@@ -12993,9 +13021,9 @@
    "venue": "クロコくんホール（愛知）",
    "source_url": "https://backnumber.info/news/detail/400314",
    "confidence": "high",
-   "sale_info": "FC（one room gold key）会員限定・抽選。チケット詳細は2026年11月中旬発表予定",
+   "sale_info": "FC（one room gold key）会員限定・抽選。全席9,900円（税込）、1公演1人2枚まで。開場開演と一般発売は未発表",
    "ticket_name": "one room gold key 抽選",
-   "ticket_url": "https://backnumber.info/news/detail/400314",
+   "ticket_url": "https://backnumber.info/feature/oneroomparty_vol8",
    "sales": [
     {
      "label": "one room gold key 会員先行",
@@ -13014,9 +13042,9 @@
    "venue": "クロコくんホール（愛知）",
    "source_url": "https://backnumber.info/news/detail/400314",
    "confidence": "high",
-   "sale_info": "FC（one room gold key）会員限定・抽選。チケット詳細は2026年11月中旬発表予定",
+   "sale_info": "FC（one room gold key）会員限定・抽選。全席9,900円（税込）、1公演1人2枚まで。開場開演と一般発売は未発表",
    "ticket_name": "one room gold key 抽選",
-   "ticket_url": "https://backnumber.info/news/detail/400314",
+   "ticket_url": "https://backnumber.info/feature/oneroomparty_vol8",
    "sales": [
     {
      "label": "one room gold key 会員先行",
@@ -13035,9 +13063,9 @@
    "venue": "マリンメッセ福岡A館（福岡）",
    "source_url": "https://backnumber.info/news/detail/400314",
    "confidence": "high",
-   "sale_info": "FC（one room gold key）会員限定・抽選。チケット詳細は2026年11月中旬発表予定",
+   "sale_info": "FC（one room gold key）会員限定・抽選。全席9,900円（税込）、1公演1人2枚まで。開場開演と一般発売は未発表",
    "ticket_name": "one room gold key 抽選",
-   "ticket_url": "https://backnumber.info/news/detail/400314",
+   "ticket_url": "https://backnumber.info/feature/oneroomparty_vol8",
    "sales": [
     {
      "label": "one room gold key 会員先行",
@@ -13056,9 +13084,9 @@
    "venue": "マリンメッセ福岡A館（福岡）",
    "source_url": "https://backnumber.info/news/detail/400314",
    "confidence": "high",
-   "sale_info": "FC（one room gold key）会員限定・抽選。チケット詳細は2026年11月中旬発表予定",
+   "sale_info": "FC（one room gold key）会員限定・抽選。全席9,900円（税込）、1公演1人2枚まで。開場開演と一般発売は未発表",
    "ticket_name": "one room gold key 抽選",
-   "ticket_url": "https://backnumber.info/news/detail/400314",
+   "ticket_url": "https://backnumber.info/feature/oneroomparty_vol8",
    "sales": [
     {
      "label": "one room gold key 会員先行",
@@ -13077,9 +13105,9 @@
    "venue": "あなぶきアリーナ香川（香川）",
    "source_url": "https://backnumber.info/news/detail/400314",
    "confidence": "high",
-   "sale_info": "FC（one room gold key）会員限定・抽選。チケット詳細は2026年11月中旬発表予定",
+   "sale_info": "FC（one room gold key）会員限定・抽選。全席9,900円（税込）、1公演1人2枚まで。開場開演と一般発売は未発表",
    "ticket_name": "one room gold key 抽選",
-   "ticket_url": "https://backnumber.info/news/detail/400314",
+   "ticket_url": "https://backnumber.info/feature/oneroomparty_vol8",
    "sales": [
     {
      "label": "one room gold key 会員先行",
@@ -13098,9 +13126,9 @@
    "venue": "あなぶきアリーナ香川（香川）",
    "source_url": "https://backnumber.info/news/detail/400314",
    "confidence": "high",
-   "sale_info": "FC（one room gold key）会員限定・抽選。チケット詳細は2026年11月中旬発表予定",
+   "sale_info": "FC（one room gold key）会員限定・抽選。全席9,900円（税込）、1公演1人2枚まで。開場開演と一般発売は未発表",
    "ticket_name": "one room gold key 抽選",
-   "ticket_url": "https://backnumber.info/news/detail/400314",
+   "ticket_url": "https://backnumber.info/feature/oneroomparty_vol8",
    "sales": [
     {
      "label": "one room gold key 会員先行",
@@ -13119,9 +13147,9 @@
    "venue": "G-Messe Gunma（群馬）",
    "source_url": "https://backnumber.info/news/detail/400314",
    "confidence": "high",
-   "sale_info": "FC（one room gold key）会員限定・抽選。チケット詳細は2026年11月中旬発表予定",
+   "sale_info": "FC（one room gold key）会員限定・抽選。全席9,900円（税込）、1公演1人2枚まで。開場開演と一般発売は未発表",
    "ticket_name": "one room gold key 抽選",
-   "ticket_url": "https://backnumber.info/news/detail/400314",
+   "ticket_url": "https://backnumber.info/feature/oneroomparty_vol8",
    "sales": [
     {
      "label": "one room gold key 会員先行",
@@ -13140,9 +13168,9 @@
    "venue": "G-Messe Gunma（群馬）",
    "source_url": "https://backnumber.info/news/detail/400314",
    "confidence": "high",
-   "sale_info": "FC（one room gold key）会員限定・抽選。チケット詳細は2026年11月中旬発表予定",
+   "sale_info": "FC（one room gold key）会員限定・抽選。全席9,900円（税込）、1公演1人2枚まで。開場開演と一般発売は未発表",
    "ticket_name": "one room gold key 抽選",
-   "ticket_url": "https://backnumber.info/news/detail/400314",
+   "ticket_url": "https://backnumber.info/feature/oneroomparty_vol8",
    "sales": [
     {
      "label": "one room gold key 会員先行",
@@ -13723,7 +13751,7 @@
    "pref": "静岡",
    "status": "lineup",
    "source_url": "https://www.ragnet.co.jp/rock-festival",
-   "lineup_checked": "2026-11-19",
+   "lineup_checked": "2026-11-26",
    "note": "要確認：2026-10-24の調査でこの名称のイベントが確認できなかった（出典はragnetの一覧のみ）。次回以降も確認できなければ削除を検討",
    "lineup": [
     "inari",
@@ -14096,7 +14124,7 @@
      "start": "2026-10-22"
     }
    ],
-   "lineup_checked": "2026-11-24",
+   "lineup_checked": "2026-11-26",
    "ticket_name": "チケットぴあ・イープラス",
    "ticket_url": "https://w.pia.jp/t/torirockfes2026/",
    "venue": "豊洲PIT",
@@ -14146,9 +14174,19 @@
     "天々高々",
     "the Po",
     "Rol3ert",
-    "早稲田大学ハイソサエティ・オーケストラ"
+    "早稲田大学ハイソサエティ・オーケストラ",
+    "DJ TARO",
+    "セレイナ・アン（MAYBE DJ TAKU ANN）",
+    "DJ HASEBE 嶋野百恵",
+    "TJO",
+    "FLIP FRIDAY COLLECTIVE（ノイハウス萌菜、SHOTARO MAEDA ほか）",
+    "中原仁（from SAÚDE! SAUDADE...）",
+    "Night Tempo",
+    "JAH-WAVE",
+    "橋本徹（from FREE SOUL WAVE）",
+    "オカモトレイジ（OKAMOTO'S）"
    ],
-   "lineup_checked": "2026-11-23",
+   "lineup_checked": "2026-11-26",
    "source_url": "https://www.ragnet.co.jp/music-festival-winter",
    "official_url": "https://www.j-wave.co.jp/special/inspiretokyo/",
    "lineup_days": {
@@ -14161,19 +14199,31 @@
      "高木大丈夫",
      "長澤樹",
      "綾戸智恵",
-     "早稲田大学ハイソサエティ・オーケストラ"
+     "早稲田大学ハイソサエティ・オーケストラ",
+     "DJ TARO",
+     "セレイナ・アン（MAYBE DJ TAKU ANN）",
+     "DJ HASEBE 嶋野百恵",
+     "TJO"
     ],
     "2026-12-05": [
      "大貫妙子",
      "大橋トリオ",
      "luvis",
      "さらさ",
-     "スーパー登山部"
+     "スーパー登山部",
+     "DJ TARO",
+     "FLIP FRIDAY COLLECTIVE（ノイハウス萌菜、SHOTARO MAEDA ほか）",
+     "中原仁（from SAÚDE! SAUDADE...）",
+     "Night Tempo"
     ],
     "2026-12-06": [
      "Rol3ert",
      "the Po",
-     "天々高々"
+     "天々高々",
+     "DJ TARO",
+     "JAH-WAVE",
+     "橋本徹（from FREE SOUL WAVE）",
+     "オカモトレイジ（OKAMOTO'S）"
     ]
    },
    "image": "https://www.j-wave.co.jp/special/inspiretokyo/img/it2026w_ogp.webp",
@@ -14241,7 +14291,7 @@
     "Dragon Ash",
     "長崎龍踊り"
    ],
-   "lineup_checked": "2026-11-23",
+   "lineup_checked": "2026-11-26",
    "lineup_days": {
     "2026-12-05": [
      "SHANK",
@@ -14359,7 +14409,7 @@
     "GREEN TRIPE",
     "KRISHNV"
    ],
-   "lineup_checked": "2026-11-23",
+   "lineup_checked": "2026-11-26",
    "lineup_days": {
     "2026-12-05": [
      "CASTLE",
@@ -14610,7 +14660,7 @@
     "サンタモニカ",
     "まなつ"
    ],
-   "lineup_checked": "2026-11-25",
+   "lineup_checked": "2026-11-26",
    "source_url": "https://www.ragnet.co.jp/music-festival-winter",
    "official_url": "https://www.shimonite.com/",
    "image": "https://static.wixstatic.com/media/5ca89a_e131ba4147214be9ae053b0ac2dc8967~mv2.png/v1/fill/w_2500,h_977,al_c/5ca89a_e131ba4147214be9ae053b0ac2dc8967~mv2.png",
@@ -14895,7 +14945,7 @@
      "fav me"
     ]
    },
-   "lineup_checked": "2026-11-25",
+   "lineup_checked": "2026-11-26",
    "venue": "広島グリーンアリーナ 大アリーナ",
    "official_url": "https://www.hiroshima-continew.com/",
    "ticket_name": "イープラス",
@@ -14973,7 +15023,7 @@
     "Hina"
    ],
    "source_url": "https://ticketdive.com/event/7th-heaven-fes2026",
-   "lineup_checked": "2026-11-25",
+   "lineup_checked": "2026-11-26",
    "lineup_days": {
     "2026-12-05": [
      "ジョージ紫",
@@ -15079,7 +15129,7 @@
      "note": "18:00〜。イープラスのみ"
     }
    ],
-   "lineup_checked": "2026-11-24",
+   "lineup_checked": "2026-11-26",
    "ticket_name": "イープラス／チケットぴあ／ローチケ",
    "ticket_url": "https://eplus.jp/thepianoera2026/"
   },
@@ -17013,7 +17063,7 @@
    "pref": "東京",
    "status": "lineup",
    "source_url": "https://eplus.jp/new-horizon-fest/",
-   "lineup_checked": "2026-11-20",
+   "lineup_checked": "2026-11-26",
    "official_url": "https://newhorizon.sammy.co.jp/2026/nhf/",
    "lineup": [
     "04 Limited Sazabys",
@@ -17073,6 +17123,12 @@
      "end": "2026-10-18",
      "url": "https://newhorizon.sammy.co.jp/2026/nhf/ticket/",
      "note": "受付終了"
+    },
+    {
+     "label": "一般発売",
+     "start": "2026-10-24",
+     "url": "https://eplus.jp/new-horizon-fest/",
+     "note": "10/24 18:00〜（終了日は公式に記載なし）。販売先: ぴあ https://w.pia.jp/t/new-horizon-fest/ 、イープラス https://eplus.jp/new-horizon-fest/ 、ローチケ https://l-tike.com/new-horizon-fest/ 、ふるさと納税 https://w.pia.jp/t/furusato-newhorizon2026-a/（10/24 18:00〜）"
     }
    ],
    "note": "第2弾までの発表分（第1弾・第3弾は未反映） / The BONEZ は出演キャンセル（2026-11-10 発表）",
@@ -17602,7 +17658,7 @@
      "Dove Ellis"
     ]
    },
-   "lineup_checked": "2026-11-21",
+   "lineup_checked": "2026-11-26",
    "note": "開場12:00／開演13:00。イープラスは「全出演アーティスト発表」と表記",
    "source_url": "https://realsound.jp/2026/09/post-2523918.html",
    "ticket_name": "イープラス",
@@ -17640,45 +17696,43 @@
    "official_url": "https://www.musiclanefestival.com/",
    "status": "lineup",
    "lineup": [
-    "Amina",
-    "Buddhadatta",
+    "Ámina",
     "板歯目",
+    "Buddhadatta",
     "Destiny Hope Tiara",
+    "Fi-Né粉內",
     "Fried Banana Shop",
+    "GIFU",
+    "Grrrl Gang",
     "HARIKUYAMAKU",
     "IRIS MONDO",
     "かわらかの",
     "keigo",
     "kill me Elk",
     "石川紅奈",
+    "norké",
     "nufehtin",
     "パノラマとラボラトリー",
     "pige",
     "redraw",
     "REJAY",
+    "RINNI",
     "SAISA",
     "Shohey Uemura × yuhei miura",
-    "STAP Sigh Boys",
-    "TECHNOBOYS PULCRAFT GREEN-FUND",
-    "THREE1989",
-    "融解建築",
-    "Grrrl Gang",
     "Shye",
-    "Tompuvan",
-    "starrducc",
-    "GIFU",
+    "STAP Sigh Boys",
     "Stiques x The Wxve",
-    "RINNI",
-    "Yunsae",
-    "Ámina",
-    "Fi-Né粉內",
-    "norké",
     "supergoods",
+    "TECHNOBOYS PULCRAFT GREEN-FUND",
+    "Tompuvan",
+    "THREE1989",
+    "Yunsae",
+    "融解建築",
     "阿橘 Ahh G",
     "田上碧",
     "A_Root 同根生",
     "B.Rox",
-    "CHAKA LAND",
+    "CHAKA LAND / チャカランド",
     "Crystal Murray",
     "E'sekai",
     "Etranger",
@@ -17691,6 +17745,7 @@
     "應聲倒地 On the Floor",
     "Rol3ert",
     "Salmon Pink",
+    "starrducc",
     "Strawman & Celine",
     "Thalassa",
     "THE STEREOGANG",
@@ -17702,7 +17757,7 @@
    "ticket_url": "https://www.musiclanefestival.com/tickets-2027",
    "note": "第1弾発表。ライブハウス街のショーケース型フェス",
    "source_url": "https://festival-life.com/168324",
-   "lineup_checked": "2026-11-20",
+   "lineup_checked": "2026-11-26",
    "image": "https://static.wixstatic.com/media/ec9d6b_239f0ed844924076a3bdc903a3fc8c4f~mv2.jpg/v1/fill/w_595,h_842,al_c/ec9d6b_239f0ed844924076a3bdc903a3fc8c4f~mv2.jpg"
   },
   {
@@ -18009,7 +18064,7 @@
    "pref": "千葉",
    "status": "lineup",
    "source_url": "https://eplus.jp/bukurock-fes2027/",
-   "lineup_checked": "2026-11-19",
+   "lineup_checked": "2026-11-26",
    "lineup": [
     "a flood of circle",
     "バックドロップシンデレラ",
@@ -18163,7 +18218,7 @@
     "レトロリロン"
    ],
    "source_url": "https://www.event-td.com/tokyospaceship/",
-   "lineup_checked": "2026-11-25",
+   "lineup_checked": "2026-11-26",
    "tba": true,
    "venue": "東京ドーム",
    "official_url": "https://www.event-td.com/tokyospaceship/",
@@ -18531,7 +18586,7 @@
    "ticket_url": "https://fmfukuoka.co.jp/lp/fukuokaguitarjamboree/ticket/",
    "note": "開場12:30／開演14:00",
    "source_url": "https://fmfukuoka.co.jp/lp/fukuokaguitarjamboree/",
-   "lineup_checked": "2026-11-20",
+   "lineup_checked": "2026-11-26",
    "lineup_days": {
     "2027-03-22": [
      "奥田民生",
@@ -18558,6 +18613,12 @@
      "end": "2026-11-23",
      "url": "https://eplus.jp/sf/detail/0945230004-P0030021P021001?P1=0175",
      "note": "抽選。12:00開始、23:59締切"
+    },
+    {
+     "label": "押し出し先行",
+     "start": "2026-11-26",
+     "url": "https://fmfukuoka.co.jp/lp/fukuokaguitarjamboree/ticket/",
+     "note": "9:00開始。締切の記載なし"
     }
    ]
   },
@@ -18568,7 +18629,7 @@
    "pref": "東京",
    "status": "lineup",
    "source_url": "https://www.ragnet.co.jp/rock-festival",
-   "lineup_checked": "2026-11-20",
+   "lineup_checked": "2026-11-26",
    "note": "本編は「SAKANAMON and more」（他の出演者は後日発表）。アルカラ・LEGO BIG MORL は番外編 UOOO!! EXTRA 2027（2/6 大阪・2/7 愛知のツーマン）のゲスト",
    "venue": "Spotify O-WEST・Spotify O-nest",
    "lineup": [
@@ -18578,7 +18639,15 @@
     "2027-03-27": [
      "SAKANAMON"
     ]
-   }
+   },
+   "sales": [
+    {
+     "label": "FC先行（新SAKANAMONs会員）",
+     "start": "2026-11-11",
+     "end": "2026-11-24",
+     "note": "23:59締切。受付終了"
+    }
+   ]
   },
   {
    "name": "SYNCHRONICITY'27",
@@ -18959,7 +19028,7 @@
    "lineup": [
     "10-FEET"
    ],
-   "lineup_checked": "2026-11-19",
+   "lineup_checked": "2026-11-26",
    "lineup_days": {
     "2027-07-03": [
      "10-FEET"
@@ -18994,11 +19063,20 @@
      "end": "2026-11-01",
      "url": "https://hannarikai.kyoto-daisakusen.kyoto/news/25",
      "note": "10/21 12:00〜11/1 23:59。はんなり会 年額/月額会員限定・エントリー抽選"
+    },
+    {
+     "label": "10-FEET MOBILE会員受付（抽選）",
+     "start": "2026-11-24",
+     "end": "2026-11-29",
+     "url": "https://10-feet.kyoto/contents/1129109",
+     "note": "11/24 12:00〜11/29 23:59 / 10-FEET MOBILE会員限定・エントリー抽選。通常札 https://10-feet.kyoto/contents/1129112 、通常札＋家族札/童札 https://10-feet.kyoto/contents/1129111"
     }
    ],
    "note": "開催日は 7/3・4・10・11 の4日間 / 開催は7/3・4・10・11の4日間",
    "source_url": "https://realsound.jp/2026/10/post-2542953.html",
-   "image": "https://kyoto-daisakusen.kyoto/27/assets/img/teaser/ogp.png"
+   "image": "https://kyoto-daisakusen.kyoto/27/assets/img/teaser/ogp.png",
+   "ticket_name": "10-FEET MOBILE / はんなり会",
+   "ticket_url": "https://kyoto-daisakusen.kyoto/27/"
   },
   {
    "name": "FUJI ROCK FESTIVAL",
@@ -19192,11 +19270,24 @@
      "end": "2026-11-29",
      "url": "https://anisama.tv/2027/fukuoka/tickets/",
      "note": "11/4 19:30〜11/29 23:59"
+    },
+    {
+     "label": "animelo mix会員限定 先行",
+     "start": "2026-12-04",
+     "end": "2026-12-13",
+     "url": "https://anisama.tv/2027/fukuoka/tickets/",
+     "note": "12/4 12:00〜12/13 23:59"
+    },
+    {
+     "label": "公式ツアー tabiwaトラベル",
+     "start": "2026-12-18",
+     "url": "https://anisama.tv/2027/fukuoka/tickets/",
+     "note": "12/18 12:00〜（先着）"
     }
    ],
    "note": "出演者第1弾20組。開場13:30／開演15:00（両日）",
    "source_url": "https://yabaitshirtsyasan.com/news/299640/",
-   "lineup_checked": "2026-11-19",
+   "lineup_checked": "2026-11-26",
    "image": "https://anisama.tv/2027/fukuoka/assets/images/common/og_img.jpg"
   },
   {
@@ -19677,7 +19768,7 @@
     "NEK!",
     "다다다 DADADA"
    ],
-   "lineup_checked": "2026-11-20",
+   "lineup_checked": "2026-11-26",
    "note": "日割りは後日発表。出演者は追加予定",
    "source_url": "https://natalie.mu/music/news/696450"
   },
@@ -20019,7 +20110,7 @@
    "pref": "神奈川県",
    "note": "THIS FES '27 in Sagamihara：2027年秋の開催決定（[Alexandros] 公式NEWS 2026-11-01）。日付・会場・出演者・チケットは後日発表（2026-11-22確認）",
    "source_url": "https://alexandros.jp/contents/1124118",
-   "lineup_checked": "2026-11-25",
+   "lineup_checked": "2026-11-26",
    "official_url": "https://thisfes.com/",
    "image": "https://thisfes.com/wp-content/uploads/img_1_pc-1.png",
    "lineup": [
@@ -20488,7 +20579,7 @@
    "start": "2026-12-30",
    "end": "2026-12-30",
    "pref": "大阪府",
-   "status": "unknown",
+   "status": "lineup",
    "source_url": "https://eplus.jp/sf/detail/2950550001-P0030013",
    "venue": "クリエイティブセンター大阪",
    "note": "開場12:00／開演13:00。出演者はイープラス特設ページに記載なし（2026-11-22確認）",
@@ -20501,9 +20592,35 @@
      "end": "2026-11-25",
      "url": "https://eplus.jp/sf/detail/2950550001-P0030013",
      "note": "開始 12:00／締切 23:59"
+    },
+    {
+     "label": "先着一般発売",
+     "start": "2026-11-26",
+     "end": "2026-12-29",
+     "url": "https://eplus.jp/circuscircus/",
+     "note": "11/26 12:00〜12/29 23:59"
     }
    ],
-   "lineup_checked": "2026-11-26"
+   "lineup_checked": "2026-11-26",
+   "lineup": [
+    "BabyNyca",
+    "e5",
+    "Fliix王",
+    "Jairo nark",
+    "Jellyy",
+    "ksr:3",
+    "kZm",
+    "lil soft tennis",
+    "Lucas",
+    "Manaka",
+    "ODETRASH",
+    "Sad Kid Yaz",
+    "Saggypants Shimba",
+    "Saren",
+    "VERRY SMoL",
+    "Worldwiide Skippa",
+    "yvnlazy"
+   ]
   },
   {
    "name": "しりあがり寿presents新春! (有)さるハゲロックフェスティバル'27",
@@ -21132,7 +21249,7 @@
    ],
    "source_url": "https://fes.ragnet.co.jp/rock-festival",
    "venue": "郡山 #9／PEAK ACTION／M&J",
-   "lineup_checked": "2026-11-18"
+   "lineup_checked": "2026-11-26"
   },
   {
    "name": "THICK FESTIVAL",
@@ -21194,13 +21311,30 @@
    "start": "2027-01-16",
    "end": "2027-01-16",
    "pref": "神奈川県",
-   "status": "unknown",
+   "status": "lineup",
    "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
    "lineup_checked": "2026-11-26",
    "official_url": "https://www.city.kawasaki.jp/tama/page/0000191658.html",
    "venue": "多摩区総合庁舎アトリウム（1階）・多摩市民館大ホール（2階）（川崎市多摩区）",
    "image": "https://www.city.kawasaki.jp/css/img/ogp_img.png",
-   "note": "第16回。12:30開場／13:00開演。参加無料・申込不要。出演者は2026-11-26公開予定 / 出演者は公式で「11/26までに公開」の案内のまま未掲載（2026-11-26朝）"
+   "note": "第16回。12:30開場／13:00開演。参加無料・申込不要。出演者は2026-11-26公開予定 / 出演者は公式で「11/26までに公開」の案内のまま未掲載（2026-11-26朝）",
+   "lineup": [
+    "Generale Saxophone Quartet",
+    "Singer haru",
+    "Clover",
+    "内藤ヒデアキwith渡辺翔&KEISUKE",
+    "ロストック娘☆",
+    "スイートハンド",
+    "登戸ゴスペルクワイア",
+    "和太鼓 央楓",
+    "リリーチアクラブ",
+    "DANCE STUDIO Fossette",
+    "神奈川県立生田高等学校ダンス部（IDC）",
+    "洗足学園音楽大学声優アニメソングコース",
+    "乙三.",
+    "matzo&コマッツォ&ココマッツォ",
+    "Winds Meeting 029"
+   ]
   },
   {
    "name": "大洗音楽祭",
@@ -21209,7 +21343,7 @@
    "pref": "茨城県",
    "status": "unknown",
    "source_url": "https://fes.ragnet.co.jp/rock-festival/3",
-   "lineup_checked": "2026-11-23"
+   "lineup_checked": "2026-11-26"
   },
   {
    "name": "Arafudo Music",
@@ -21219,7 +21353,7 @@
    "status": "unknown",
    "lineup": [],
    "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
-   "lineup_checked": "2026-11-22"
+   "lineup_checked": "2026-11-26"
   },
   {
    "name": "フリ放題コーリング 東京",
@@ -21229,7 +21363,7 @@
    "status": "unknown",
    "lineup": [],
    "source_url": "https://fes.ragnet.co.jp/rock-festival/3",
-   "lineup_checked": "2026-11-22",
+   "lineup_checked": "2026-11-26",
    "venue": "Zepp Haneda",
    "ticket_name": "チケットぴあ",
    "ticket_url": "https://w.pia.jp/t/fhc2027/",
@@ -21332,7 +21466,8 @@
      "url": "https://w.pia.jp/t/derarockfes2027/",
      "note": "〜12/13 23:59（終了日は出演バンドの告知の検索見出しによる。開始日は未確認）。1日券 前売5,600円（1D別）／通し券 前売10,000円（2D別）。URLは出演者サイトからの転記"
     }
-   ]
+   ],
+   "image": "https://derarockfes.radcreation.jp/2027/wp-content/themes/wordpress/common/images/ogp.jpg"
   },
   {
    "name": "HERO'S SINGALONG FESTIVAL",
@@ -21825,10 +21960,16 @@
      "start": "2026-06-26",
      "end": "2026-12-25",
      "note": "10:00〜23:59（SS席完売）"
+    },
+    {
+     "label": "先行（抽選）",
+     "start": "2026-06-05",
+     "end": "2026-06-14",
+     "note": "12:00〜23:59"
     }
    ],
    "source_url": "https://www.earthstar.co.jp/20th-fes/",
-   "lineup_checked": "2026-11-20",
+   "lineup_checked": "2026-11-26",
    "image": "https://www.earthstar.co.jp/20th-fes/img/common/ogp.png"
   },
   {
@@ -21876,7 +22017,7 @@
    ],
    "note": "一般発売は11/15 9:00〜とする情報あり（要確認）",
    "source_url": "https://news.mynavi.jp/article/20260926-5025747/",
-   "lineup_checked": "2026-11-20",
+   "lineup_checked": "2026-11-26",
    "official_url": "https://www.tv-asahi.co.jp/my-th/eiyusai2027/",
    "lineup_days": {
     "2027-01-20": [
@@ -22151,7 +22292,7 @@
     "メトロワ",
     "ファジーデイズ"
    ],
-   "lineup_checked": "2026-11-18",
+   "lineup_checked": "2026-11-26",
    "source_url": "https://fes.ragnet.co.jp/music-festival-winter/10"
   },
   {
@@ -22237,7 +22378,7 @@
    ],
    "note": "大須3会場のサーキットイベント。第1弾5組（11/17発表）、追加は順次。開場13:30／開演14:15。公式URLは SPICE 記事に記載のもの（zip-fm.co.jp は robots.txt を確認できず本文は未読）",
    "source_url": "https://spice.eplus.jp/articles/350442",
-   "lineup_checked": "2026-11-19"
+   "lineup_checked": "2026-11-26"
   },
   {
    "name": "FUJI & SUN '27",
@@ -22265,7 +22406,7 @@
    ],
    "note": "オンラインで活動するアーティストのライブイベント（2026-09-08 リリース）。ヘッドライナーは菊池くじら。ほかの出演者・チケットは順次発表",
    "source_url": "https://prtimes.jp/main/html/rd/p/000000026.000053164.html",
-   "lineup_checked": "2026-11-19",
+   "lineup_checked": "2026-11-26",
    "image": "https://corom.me/_assets/img/b4407e4b932a48a9.png"
   },
   {
@@ -22585,7 +22726,7 @@
    "note": "CheChe は OPENING ACT。開場17:30・開演19:00"
   },
   {
-   "lineup_checked": "2026-11-24",
+   "lineup_checked": "2026-11-26",
    "name": "Road to SBI MUSIC CIRCUS HOKKAIDO",
    "start": "2026-12-04",
    "end": "2026-12-04",
@@ -23800,7 +23941,7 @@
    ]
   },
   {
-   "lineup_checked": "2026-11-25",
+   "lineup_checked": "2026-11-26",
    "name": "KOBE MUSIC COMMONS",
    "pref": "兵庫県",
    "venue": "GLION ARENA KOBE",
@@ -23974,17 +24115,23 @@
    ]
   },
   {
-   "lineup_checked": "2026-11-23",
+   "lineup_checked": "2026-11-26",
    "name": "ASIA POP GIRL FEST 2027",
    "start": "2027-01-22",
    "end": "2027-01-23",
    "pref": "千葉県",
-   "status": "unknown",
+   "status": "lineup",
    "note": "会場・公式サイトは未調査（一覧ページのみ確認）",
-   "source_url": "https://adorehack.com/article/2027-january-music-festivals/"
+   "source_url": "https://adorehack.com/article/2027-january-music-festivals/",
+   "lineup": [
+    "HANA",
+    "4EVE",
+    "BINI"
+   ],
+   "venue": "LaLa arena TOKYO-BAY"
   },
   {
-   "lineup_checked": "2026-11-23",
+   "lineup_checked": "2026-11-26",
    "name": "Anything Allright Festival",
    "start": "2027-01-24",
    "end": "2027-01-24",
@@ -24146,6 +24293,99 @@
    "source_url": "https://fes.ragnet.co.jp/rock-festival",
    "note": "日付は ragnet の日程欄による（公式で要再確認）。出演者・チケットは未発表",
    "lineup_checked": "2026-11-25"
+  },
+  {
+   "name": "狂騒前線 2027（Sleepless Endorphine x CYCLONE pre.）",
+   "start": "2027-01-04",
+   "end": "2027-01-04",
+   "pref": "東京都",
+   "venue": "SHIBUYA CYCLONE / GARRET udagawa（2会場サーキット）",
+   "ticket_name": "前売 3,000円／当日 3,500円",
+   "note": "小規模サーキット。推しの出演なし。OPEN/START未定",
+   "source_url": "https://gekirock.com/news/2026/11/sleepless_endorphine_resail_records.php",
+   "lineup": [
+    "Sleepless Endorphine",
+    "VIRTH OWN TALES",
+    "Vertical Climb Roll",
+    "NELVIOWL",
+    "KEEP FROZEN",
+    "011",
+    "C'lazy GOAT",
+    "Clone of Vengeance",
+    "Called by Mercury",
+    "Sailing Before The Wind",
+    "CHASED"
+   ],
+   "status": "lineup",
+   "lineup_checked": "2026-11-26"
+  },
+  {
+   "name": "flows 2026",
+   "start": "2026-12-27",
+   "end": "2026-12-27",
+   "pref": "東京都",
+   "venue": "恵比寿 ザ・ガーデンホール",
+   "official_url": "https://flows-jp.com/",
+   "ticket_name": "前売券 Category 2 9,800円",
+   "note": "4回目。最終ラインナップ発表予定。推しの出演なし（クラブ系）",
+   "source_url": "https://festival-life.com/169755",
+   "lineup": [
+    "Nujabes Metaphorical Ensemble",
+    "The Orb",
+    "Powder",
+    "DJ SHOTA"
+   ],
+   "status": "lineup",
+   "lineup_checked": "2026-11-26",
+   "image": "https://flows-jp.com/img/og_26.png?v=20261010"
+  },
+  {
+   "name": "武蔵野 MUSIC JAM 2027 ～On the Tracks of Music in Tokorozawa～",
+   "start": "2027-03-14",
+   "end": "2027-03-14",
+   "pref": "埼玉県",
+   "venue": "所沢航空記念公園 野外ステージ",
+   "note": "イープラスのフェス一覧（冬）で日程・会場を確認。2026年回は2026-03-15開催。出演者は未確認",
+   "source_url": "https://eplus.jp/sf/live/festival/",
+   "lineup": [],
+   "status": "unknown",
+   "lineup_checked": "2026-11-26"
+  },
+  {
+   "name": "KONOSU MUSIC FESTIVAL 2026",
+   "start": "2026-11-29",
+   "end": "2026-11-29",
+   "pref": "埼玉県",
+   "venue": "コスモスアリーナふきあげ（吹上総合運動場）",
+   "note": "出演者は検索結果の要約のみで未確認のため未掲載",
+   "source_url": "https://festival-life.com/169138",
+   "lineup": [],
+   "status": "unknown",
+   "lineup_checked": "2026-11-26"
+  },
+  {
+   "name": "結ノ島CAMP 2026",
+   "start": "2026-11-28",
+   "end": "2026-11-29",
+   "pref": "鹿児島県",
+   "venue": "マングローブパーク",
+   "note": "festival-life の Upcoming Fests 欄で日程・会場を確認。出演者は未確認",
+   "source_url": "https://festival-life.com/169100",
+   "lineup": [],
+   "status": "unknown",
+   "lineup_checked": "2026-11-26"
+  },
+  {
+   "name": "OLUYO FESTIVAL-YO!",
+   "start": "2026-11-28",
+   "end": "2026-11-28",
+   "pref": "徳島県",
+   "venue": "ヒラオカビル（徳島市東新町）",
+   "note": "OLUYO 10周年。音楽・阿波踊り・飲食など。出演者は未確認",
+   "source_url": "https://festival-life.com/169100",
+   "lineup": [],
+   "status": "unknown",
+   "lineup_checked": "2026-11-26"
   }
  ],
  "artist_links": {
@@ -24623,8 +24863,8 @@
   },
   "back number": {
    "state": "ok",
-   "checked": "2026-11-24T20:08:42+09:00",
-   "news_checked": "2026-11-24T20:08:42+09:00"
+   "checked": "2026-11-26T20:11:00+09:00",
+   "news_checked": "2026-11-26T20:11:00+09:00"
   },
   "04 Limited Sazabys": {
    "state": "ok",
@@ -24633,7 +24873,7 @@
   },
   "ELLEGARDEN": {
    "state": "ok",
-   "checked": "2026-11-26T07:25:00+09:00",
+   "checked": "2026-11-26T20:11:00+09:00",
    "note": "10/23名古屋は延期（振替日程は調整中・未発表）",
    "news_checked": "2026-11-08T07:07:00+09:00"
   },
@@ -24649,7 +24889,7 @@
   },
   "HEY-SMITH": {
    "state": "ok",
-   "checked": "2026-11-26T07:25:00+09:00",
+   "checked": "2026-11-26T20:11:00+09:00",
    "news_checked": "2026-11-08T07:07:00+09:00"
   },
   "マキシマム ザ ホルモン": {
@@ -24659,7 +24899,7 @@
   },
   "サンボマスター": {
    "state": "ok",
-   "checked": "2026-11-26T07:25:00+09:00",
+   "checked": "2026-11-26T20:11:00+09:00",
    "news_checked": "2026-11-10T07:12:00+09:00"
   },
   "あいみょん": {
@@ -24669,8 +24909,8 @@
   },
   "10-FEET": {
    "state": "ok",
-   "checked": "2026-11-24T20:08:42+09:00",
-   "news_checked": "2026-11-24T20:08:42+09:00"
+   "checked": "2026-11-26T20:11:00+09:00",
+   "news_checked": "2026-11-26T20:11:00+09:00"
   },
   "SHANK": {
    "state": "ok",
@@ -24685,13 +24925,13 @@
   },
   "SiM": {
    "state": "ok",
-   "checked": "2026-11-24T07:10:57+09:00",
-   "news_checked": "2026-11-24T07:10:57+09:00"
+   "checked": "2026-11-26T20:11:00+09:00",
+   "news_checked": "2026-11-26T20:11:00+09:00"
   },
   "[Alexandros]": {
    "state": "ok",
-   "checked": "2026-11-24T20:08:42+09:00",
-   "news_checked": "2026-11-24T20:08:42+09:00"
+   "checked": "2026-11-26T20:11:00+09:00",
+   "news_checked": "2026-11-26T20:11:00+09:00"
   },
   "RADWIMPS": {
    "state": "no_events",
@@ -24710,12 +24950,12 @@
   },
   "coldrain": {
    "state": "ok",
-   "checked": "2026-11-24T07:10:57+09:00",
-   "news_checked": "2026-11-24T07:10:57+09:00"
+   "checked": "2026-11-26T20:11:00+09:00",
+   "news_checked": "2026-11-26T20:11:00+09:00"
   },
   "TenTwenty": {
    "state": "ok",
-   "checked": "2026-11-26T07:25:00+09:00",
+   "checked": "2026-11-26T20:11:00+09:00",
    "news_checked": "2026-11-11T20:12:00+09:00"
   },
   "Wienners": {
@@ -24730,7 +24970,7 @@
   },
   "UNISON SQUARE GARDEN": {
    "state": "no_events",
-   "checked": "2026-11-26T07:25:00+09:00",
+   "checked": "2026-11-26T20:11:00+09:00",
    "note": "2026-04-27に活動休止を発表。最終公演は2026-07-15。再開の発表なし",
    "news_checked": "2026-11-08T07:07:00+09:00"
   },
@@ -24746,7 +24986,7 @@
   },
   "斎藤宏介": {
    "state": "ok",
-   "checked": "2026-11-25T20:11:06+09:00",
+   "checked": "2026-11-26T20:11:00+09:00",
    "news_checked": "2026-11-10T07:12:00+09:00"
   },
   "BUMP OF CHICKEN": {
@@ -24771,7 +25011,7 @@
   },
   "福山雅治": {
    "state": "ok",
-   "checked": "2026-11-26T07:25:00+09:00",
+   "checked": "2026-11-26T20:11:00+09:00",
    "news_checked": "2026-11-13T07:07:45+09:00"
   },
   "竹内まりや": {
@@ -24786,13 +25026,13 @@
   },
   "THE ALFEE": {
    "state": "ok",
-   "checked": "2026-11-24T07:10:57+09:00",
-   "news_checked": "2026-11-24T07:10:57+09:00"
+   "checked": "2026-11-26T20:11:00+09:00",
+   "news_checked": "2026-11-26T20:11:00+09:00"
   },
   "バブルガム・ブラザーズ": {
    "state": "ok",
-   "checked": "2026-11-24T07:10:57+09:00",
-   "news_checked": "2026-11-24T07:10:57+09:00"
+   "checked": "2026-11-26T20:11:00+09:00",
+   "news_checked": "2026-11-26T20:11:00+09:00"
   },
   "Bro.KORN": {
    "state": "ok",

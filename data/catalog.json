@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T07:25:00+09:00",
+ "updated": "2026-11-26T20:11:00+09:00",
  "artists": {
   "Saucy Dog": {
    "aliases": [
@@ -3958,6 +3958,14 @@
      "venue": "（東京）",
      "source_url": "https://www.ragnet.co.jp/rock-festival",
      "confidence": "low"
+    },
+    {
+     "date": "2027-01-04",
+     "title": "狂騒前線 2027（Sleepless Endorphine x CYCLONE pre.）",
+     "kind": "フェス",
+     "venue": "SHIBUYA CYCLONE / GARRET udagawa（2会場サーキット）（東京都）",
+     "source_url": "https://gekirock.com/news/2026/11/sleepless_endorphine_resail_records.php",
+     "confidence": "low"
     }
    ]
   },
@@ -4914,6 +4922,14 @@
   "HANA": {
    "aliases": [],
    "events": [
+    {
+     "date": "2027-01-22",
+     "title": "ASIA POP GIRL FEST 2027",
+     "kind": "フェス",
+     "venue": "LaLa arena TOKYO-BAY（千葉県）",
+     "source_url": "https://adorehack.com/article/2027-january-music-festivals/",
+     "confidence": "low"
+    },
     {
      "date": "2027-03-02",
      "title": "Snow Machine Japan（3/2〜3/7のいずれか）",
@@ -35897,6 +35913,14 @@
      "venue": "大阪城音楽堂（大阪府）",
      "source_url": "https://kidoairaku.club/super-otona-fes/2026/",
      "confidence": "high"
+    },
+    {
+     "date": "2027-01-16",
+     "title": "たま音楽祭",
+     "kind": "フェス",
+     "venue": "多摩区総合庁舎アトリウム（1階）・多摩市民館大ホール（2階）（川崎市多摩区）（神奈川県）",
+     "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
     }
    ]
   },
@@ -36326,6 +36350,789 @@
      "venue": "SHIBUYA PLEASURE PLEASURE（東京都）",
      "source_url": "https://www.newyearrockfestival.com/",
      "confidence": "high"
+    }
+   ]
+  },
+  "4EVE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-22",
+     "title": "ASIA POP GIRL FEST 2027",
+     "kind": "フェス",
+     "venue": "LaLa arena TOKYO-BAY（千葉県）",
+     "source_url": "https://adorehack.com/article/2027-january-music-festivals/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "BINI": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-22",
+     "title": "ASIA POP GIRL FEST 2027",
+     "kind": "フェス",
+     "venue": "LaLa arena TOKYO-BAY（千葉県）",
+     "source_url": "https://adorehack.com/article/2027-january-music-festivals/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "BabyNyca": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-30",
+     "title": "CIRCUS × CIRCUS",
+     "kind": "フェス",
+     "venue": "クリエイティブセンター大阪（大阪府）",
+     "source_url": "https://eplus.jp/sf/detail/2950550001-P0030013",
+     "confidence": "low"
+    }
+   ]
+  },
+  "e5": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-30",
+     "title": "CIRCUS × CIRCUS",
+     "kind": "フェス",
+     "venue": "クリエイティブセンター大阪（大阪府）",
+     "source_url": "https://eplus.jp/sf/detail/2950550001-P0030013",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Fliix王": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-30",
+     "title": "CIRCUS × CIRCUS",
+     "kind": "フェス",
+     "venue": "クリエイティブセンター大阪（大阪府）",
+     "source_url": "https://eplus.jp/sf/detail/2950550001-P0030013",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Jairo nark": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-30",
+     "title": "CIRCUS × CIRCUS",
+     "kind": "フェス",
+     "venue": "クリエイティブセンター大阪（大阪府）",
+     "source_url": "https://eplus.jp/sf/detail/2950550001-P0030013",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Jellyy": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-30",
+     "title": "CIRCUS × CIRCUS",
+     "kind": "フェス",
+     "venue": "クリエイティブセンター大阪（大阪府）",
+     "source_url": "https://eplus.jp/sf/detail/2950550001-P0030013",
+     "confidence": "low"
+    }
+   ]
+  },
+  "ksr:3": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-30",
+     "title": "CIRCUS × CIRCUS",
+     "kind": "フェス",
+     "venue": "クリエイティブセンター大阪（大阪府）",
+     "source_url": "https://eplus.jp/sf/detail/2950550001-P0030013",
+     "confidence": "low"
+    }
+   ]
+  },
+  "kZm": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-30",
+     "title": "CIRCUS × CIRCUS",
+     "kind": "フェス",
+     "venue": "クリエイティブセンター大阪（大阪府）",
+     "source_url": "https://eplus.jp/sf/detail/2950550001-P0030013",
+     "confidence": "low"
+    }
+   ]
+  },
+  "lil soft tennis": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-30",
+     "title": "CIRCUS × CIRCUS",
+     "kind": "フェス",
+     "venue": "クリエイティブセンター大阪（大阪府）",
+     "source_url": "https://eplus.jp/sf/detail/2950550001-P0030013",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Lucas": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-30",
+     "title": "CIRCUS × CIRCUS",
+     "kind": "フェス",
+     "venue": "クリエイティブセンター大阪（大阪府）",
+     "source_url": "https://eplus.jp/sf/detail/2950550001-P0030013",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Manaka": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-30",
+     "title": "CIRCUS × CIRCUS",
+     "kind": "フェス",
+     "venue": "クリエイティブセンター大阪（大阪府）",
+     "source_url": "https://eplus.jp/sf/detail/2950550001-P0030013",
+     "confidence": "low"
+    }
+   ]
+  },
+  "ODETRASH": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-30",
+     "title": "CIRCUS × CIRCUS",
+     "kind": "フェス",
+     "venue": "クリエイティブセンター大阪（大阪府）",
+     "source_url": "https://eplus.jp/sf/detail/2950550001-P0030013",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Sad Kid Yaz": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-30",
+     "title": "CIRCUS × CIRCUS",
+     "kind": "フェス",
+     "venue": "クリエイティブセンター大阪（大阪府）",
+     "source_url": "https://eplus.jp/sf/detail/2950550001-P0030013",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Saggypants Shimba": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-30",
+     "title": "CIRCUS × CIRCUS",
+     "kind": "フェス",
+     "venue": "クリエイティブセンター大阪（大阪府）",
+     "source_url": "https://eplus.jp/sf/detail/2950550001-P0030013",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Saren": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-30",
+     "title": "CIRCUS × CIRCUS",
+     "kind": "フェス",
+     "venue": "クリエイティブセンター大阪（大阪府）",
+     "source_url": "https://eplus.jp/sf/detail/2950550001-P0030013",
+     "confidence": "low"
+    }
+   ]
+  },
+  "VERRY SMoL": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-30",
+     "title": "CIRCUS × CIRCUS",
+     "kind": "フェス",
+     "venue": "クリエイティブセンター大阪（大阪府）",
+     "source_url": "https://eplus.jp/sf/detail/2950550001-P0030013",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Worldwiide Skippa": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-30",
+     "title": "CIRCUS × CIRCUS",
+     "kind": "フェス",
+     "venue": "クリエイティブセンター大阪（大阪府）",
+     "source_url": "https://eplus.jp/sf/detail/2950550001-P0030013",
+     "confidence": "low"
+    }
+   ]
+  },
+  "yvnlazy": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-30",
+     "title": "CIRCUS × CIRCUS",
+     "kind": "フェス",
+     "venue": "クリエイティブセンター大阪（大阪府）",
+     "source_url": "https://eplus.jp/sf/detail/2950550001-P0030013",
+     "confidence": "low"
+    }
+   ]
+  },
+  "DJ TARO": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-04",
+     "title": "J-WAVE presents INSPIRE TOKYO",
+     "kind": "フェス",
+     "venue": "LINE CUBE SHIBUYA／代々木公園イベント広場（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-05",
+     "title": "J-WAVE presents INSPIRE TOKYO",
+     "kind": "フェス",
+     "venue": "LINE CUBE SHIBUYA／代々木公園イベント広場（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-06",
+     "title": "J-WAVE presents INSPIRE TOKYO",
+     "kind": "フェス",
+     "venue": "LINE CUBE SHIBUYA／代々木公園イベント広場（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "セレイナ・アン（MAYBE DJ TAKU ANN）": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-04",
+     "title": "J-WAVE presents INSPIRE TOKYO",
+     "kind": "フェス",
+     "venue": "LINE CUBE SHIBUYA／代々木公園イベント広場（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "DJ HASEBE 嶋野百恵": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-04",
+     "title": "J-WAVE presents INSPIRE TOKYO",
+     "kind": "フェス",
+     "venue": "LINE CUBE SHIBUYA／代々木公園イベント広場（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "TJO": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-04",
+     "title": "J-WAVE presents INSPIRE TOKYO",
+     "kind": "フェス",
+     "venue": "LINE CUBE SHIBUYA／代々木公園イベント広場（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "FLIP FRIDAY COLLECTIVE（ノイハウス萌菜、SHOTARO MAEDA ほか）": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "J-WAVE presents INSPIRE TOKYO",
+     "kind": "フェス",
+     "venue": "LINE CUBE SHIBUYA／代々木公園イベント広場（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "中原仁（from SAÚDE! SAUDADE...）": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "J-WAVE presents INSPIRE TOKYO",
+     "kind": "フェス",
+     "venue": "LINE CUBE SHIBUYA／代々木公園イベント広場（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Night Tempo": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-05",
+     "title": "J-WAVE presents INSPIRE TOKYO",
+     "kind": "フェス",
+     "venue": "LINE CUBE SHIBUYA／代々木公園イベント広場（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "JAH-WAVE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "J-WAVE presents INSPIRE TOKYO",
+     "kind": "フェス",
+     "venue": "LINE CUBE SHIBUYA／代々木公園イベント広場（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "橋本徹（from FREE SOUL WAVE）": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "J-WAVE presents INSPIRE TOKYO",
+     "kind": "フェス",
+     "venue": "LINE CUBE SHIBUYA／代々木公園イベント広場（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "オカモトレイジ（OKAMOTO'S）": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "J-WAVE presents INSPIRE TOKYO",
+     "kind": "フェス",
+     "venue": "LINE CUBE SHIBUYA／代々木公園イベント広場（東京都）",
+     "source_url": "https://www.ragnet.co.jp/music-festival-winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "CHAKA LAND / チャカランド": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-22",
+     "title": "Music Lane Festival Okinawa",
+     "kind": "フェス",
+     "venue": "コザ・ミュージックタウン音楽広場ほか（沖縄県）",
+     "source_url": "https://festival-life.com/168324",
+     "confidence": "high"
+    }
+   ]
+  },
+  "SAKANAMON": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-27",
+     "title": "UOOO!!",
+     "kind": "フェス",
+     "venue": "Spotify O-WEST・Spotify O-nest（東京）",
+     "source_url": "https://www.ragnet.co.jp/rock-festival",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Nujabes Metaphorical Ensemble": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-27",
+     "title": "flows 2026",
+     "kind": "フェス",
+     "venue": "恵比寿 ザ・ガーデンホール（東京都）",
+     "source_url": "https://festival-life.com/169755",
+     "confidence": "high"
+    }
+   ]
+  },
+  "The Orb": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-27",
+     "title": "flows 2026",
+     "kind": "フェス",
+     "venue": "恵比寿 ザ・ガーデンホール（東京都）",
+     "source_url": "https://festival-life.com/169755",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Powder": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-27",
+     "title": "flows 2026",
+     "kind": "フェス",
+     "venue": "恵比寿 ザ・ガーデンホール（東京都）",
+     "source_url": "https://festival-life.com/169755",
+     "confidence": "high"
+    }
+   ]
+  },
+  "DJ SHOTA": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-27",
+     "title": "flows 2026",
+     "kind": "フェス",
+     "venue": "恵比寿 ザ・ガーデンホール（東京都）",
+     "source_url": "https://festival-life.com/169755",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Generale Saxophone Quartet": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-16",
+     "title": "たま音楽祭",
+     "kind": "フェス",
+     "venue": "多摩区総合庁舎アトリウム（1階）・多摩市民館大ホール（2階）（川崎市多摩区）（神奈川県）",
+     "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Singer haru": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-16",
+     "title": "たま音楽祭",
+     "kind": "フェス",
+     "venue": "多摩区総合庁舎アトリウム（1階）・多摩市民館大ホール（2階）（川崎市多摩区）（神奈川県）",
+     "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    }
+   ]
+  },
+  "内藤ヒデアキwith渡辺翔&KEISUKE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-16",
+     "title": "たま音楽祭",
+     "kind": "フェス",
+     "venue": "多摩区総合庁舎アトリウム（1階）・多摩市民館大ホール（2階）（川崎市多摩区）（神奈川県）",
+     "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ロストック娘☆": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-16",
+     "title": "たま音楽祭",
+     "kind": "フェス",
+     "venue": "多摩区総合庁舎アトリウム（1階）・多摩市民館大ホール（2階）（川崎市多摩区）（神奈川県）",
+     "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    }
+   ]
+  },
+  "スイートハンド": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-16",
+     "title": "たま音楽祭",
+     "kind": "フェス",
+     "venue": "多摩区総合庁舎アトリウム（1階）・多摩市民館大ホール（2階）（川崎市多摩区）（神奈川県）",
+     "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    }
+   ]
+  },
+  "登戸ゴスペルクワイア": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-16",
+     "title": "たま音楽祭",
+     "kind": "フェス",
+     "venue": "多摩区総合庁舎アトリウム（1階）・多摩市民館大ホール（2階）（川崎市多摩区）（神奈川県）",
+     "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    }
+   ]
+  },
+  "和太鼓 央楓": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-16",
+     "title": "たま音楽祭",
+     "kind": "フェス",
+     "venue": "多摩区総合庁舎アトリウム（1階）・多摩市民館大ホール（2階）（川崎市多摩区）（神奈川県）",
+     "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    }
+   ]
+  },
+  "リリーチアクラブ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-16",
+     "title": "たま音楽祭",
+     "kind": "フェス",
+     "venue": "多摩区総合庁舎アトリウム（1階）・多摩市民館大ホール（2階）（川崎市多摩区）（神奈川県）",
+     "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    }
+   ]
+  },
+  "DANCE STUDIO Fossette": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-16",
+     "title": "たま音楽祭",
+     "kind": "フェス",
+     "venue": "多摩区総合庁舎アトリウム（1階）・多摩市民館大ホール（2階）（川崎市多摩区）（神奈川県）",
+     "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    }
+   ]
+  },
+  "神奈川県立生田高等学校ダンス部（IDC）": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-16",
+     "title": "たま音楽祭",
+     "kind": "フェス",
+     "venue": "多摩区総合庁舎アトリウム（1階）・多摩市民館大ホール（2階）（川崎市多摩区）（神奈川県）",
+     "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    }
+   ]
+  },
+  "洗足学園音楽大学声優アニメソングコース": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-16",
+     "title": "たま音楽祭",
+     "kind": "フェス",
+     "venue": "多摩区総合庁舎アトリウム（1階）・多摩市民館大ホール（2階）（川崎市多摩区）（神奈川県）",
+     "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    }
+   ]
+  },
+  "乙三.": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-16",
+     "title": "たま音楽祭",
+     "kind": "フェス",
+     "venue": "多摩区総合庁舎アトリウム（1階）・多摩市民館大ホール（2階）（川崎市多摩区）（神奈川県）",
+     "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    }
+   ]
+  },
+  "matzo&コマッツォ&ココマッツォ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-16",
+     "title": "たま音楽祭",
+     "kind": "フェス",
+     "venue": "多摩区総合庁舎アトリウム（1階）・多摩市民館大ホール（2階）（川崎市多摩区）（神奈川県）",
+     "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Winds Meeting 029": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-16",
+     "title": "たま音楽祭",
+     "kind": "フェス",
+     "venue": "多摩区総合庁舎アトリウム（1階）・多摩市民館大ホール（2階）（川崎市多摩区）（神奈川県）",
+     "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
+     "confidence": "high"
+    }
+   ]
+  },
+  "VIRTH OWN TALES": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-04",
+     "title": "狂騒前線 2027（Sleepless Endorphine x CYCLONE pre.）",
+     "kind": "フェス",
+     "venue": "SHIBUYA CYCLONE / GARRET udagawa（2会場サーキット）（東京都）",
+     "source_url": "https://gekirock.com/news/2026/11/sleepless_endorphine_resail_records.php",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Vertical Climb Roll": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-04",
+     "title": "狂騒前線 2027（Sleepless Endorphine x CYCLONE pre.）",
+     "kind": "フェス",
+     "venue": "SHIBUYA CYCLONE / GARRET udagawa（2会場サーキット）（東京都）",
+     "source_url": "https://gekirock.com/news/2026/11/sleepless_endorphine_resail_records.php",
+     "confidence": "low"
+    }
+   ]
+  },
+  "NELVIOWL": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-04",
+     "title": "狂騒前線 2027（Sleepless Endorphine x CYCLONE pre.）",
+     "kind": "フェス",
+     "venue": "SHIBUYA CYCLONE / GARRET udagawa（2会場サーキット）（東京都）",
+     "source_url": "https://gekirock.com/news/2026/11/sleepless_endorphine_resail_records.php",
+     "confidence": "low"
+    }
+   ]
+  },
+  "KEEP FROZEN": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-04",
+     "title": "狂騒前線 2027（Sleepless Endorphine x CYCLONE pre.）",
+     "kind": "フェス",
+     "venue": "SHIBUYA CYCLONE / GARRET udagawa（2会場サーキット）（東京都）",
+     "source_url": "https://gekirock.com/news/2026/11/sleepless_endorphine_resail_records.php",
+     "confidence": "low"
+    }
+   ]
+  },
+  "011": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-04",
+     "title": "狂騒前線 2027（Sleepless Endorphine x CYCLONE pre.）",
+     "kind": "フェス",
+     "venue": "SHIBUYA CYCLONE / GARRET udagawa（2会場サーキット）（東京都）",
+     "source_url": "https://gekirock.com/news/2026/11/sleepless_endorphine_resail_records.php",
+     "confidence": "low"
+    }
+   ]
+  },
+  "C'lazy GOAT": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-04",
+     "title": "狂騒前線 2027（Sleepless Endorphine x CYCLONE pre.）",
+     "kind": "フェス",
+     "venue": "SHIBUYA CYCLONE / GARRET udagawa（2会場サーキット）（東京都）",
+     "source_url": "https://gekirock.com/news/2026/11/sleepless_endorphine_resail_records.php",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Clone of Vengeance": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-04",
+     "title": "狂騒前線 2027（Sleepless Endorphine x CYCLONE pre.）",
+     "kind": "フェス",
+     "venue": "SHIBUYA CYCLONE / GARRET udagawa（2会場サーキット）（東京都）",
+     "source_url": "https://gekirock.com/news/2026/11/sleepless_endorphine_resail_records.php",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Called by Mercury": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-04",
+     "title": "狂騒前線 2027（Sleepless Endorphine x CYCLONE pre.）",
+     "kind": "フェス",
+     "venue": "SHIBUYA CYCLONE / GARRET udagawa（2会場サーキット）（東京都）",
+     "source_url": "https://gekirock.com/news/2026/11/sleepless_endorphine_resail_records.php",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Sailing Before The Wind": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-04",
+     "title": "狂騒前線 2027（Sleepless Endorphine x CYCLONE pre.）",
+     "kind": "フェス",
+     "venue": "SHIBUYA CYCLONE / GARRET udagawa（2会場サーキット）（東京都）",
+     "source_url": "https://gekirock.com/news/2026/11/sleepless_endorphine_resail_records.php",
+     "confidence": "low"
+    }
+   ]
+  },
+  "CHASED": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-04",
+     "title": "狂騒前線 2027（Sleepless Endorphine x CYCLONE pre.）",
+     "kind": "フェス",
+     "venue": "SHIBUYA CYCLONE / GARRET udagawa（2会場サーキット）（東京都）",
+     "source_url": "https://gekirock.com/news/2026/11/sleepless_endorphine_resail_records.php",
+     "confidence": "low"
     }
    ]
   }
