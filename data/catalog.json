@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T20:21:12+09:00",
+ "updated": "2026-11-28T07:16:32+09:00",
  "artists": {
   "Saucy Dog": {
    "aliases": [
@@ -17185,6 +17185,14 @@
      "venue": "国立代々木競技場 第一体育館（東京都）",
      "source_url": "https://festival-life.com/169315",
      "confidence": "high"
+    },
+    {
+     "date": "2027-03-20",
+     "title": "KYON FES！ 45rpm COMMONS",
+     "kind": "フェス",
+     "venue": "国立代々木競技場 第一体育館（東京都）（東京都）",
+     "source_url": "https://barks.jp/news/1106353/",
+     "confidence": "high"
     }
    ]
   },
@@ -29559,6 +29567,14 @@
      "venue": "養源寺・光源寺（駒込大観音）（文京区）（東京都）",
      "source_url": "https://juh.la/festival/2026/",
      "confidence": "high"
+    },
+    {
+     "date": "2027-01-23",
+     "title": "Arafudo Music",
+     "kind": "フェス",
+     "venue": "YUMORI ONSEN HOSTEL（福島市土湯温泉町）（福島県）",
+     "source_url": "https://www.arafudo.com/",
+     "confidence": "high"
     }
    ]
   },
@@ -36019,6 +36035,14 @@
      "venue": "長崎市民会館（長崎県）",
      "source_url": "https://www.fmnagasaki.co.jp/concert/",
      "confidence": "high"
+    },
+    {
+     "date": "2027-01-30",
+     "title": "UNDER FLOWER FESTIVAL Vol.3",
+     "kind": "フェス",
+     "venue": "CLUB SEATA/他（吉祥寺）（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4569030001-P0030001",
+     "confidence": "high"
     }
    ]
   },
@@ -39194,6 +39218,919 @@
      "kind": "フェス",
      "venue": "ONE HEART BIRTH（神戸市中央区）（兵庫県）",
      "source_url": "https://fes.ragnet.co.jp/music-festival-winter/11",
+     "confidence": "high"
+    }
+   ]
+  },
+  "アナムネーシス": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "メリケンミュージックナイツ〜冬〜",
+     "kind": "フェス",
+     "venue": "メリケンパーク（神戸市）（兵庫県）",
+     "source_url": "https://meriken-music.com/2026winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ALDBINE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "メリケンミュージックナイツ〜冬〜",
+     "kind": "フェス",
+     "venue": "メリケンパーク（神戸市）（兵庫県）",
+     "source_url": "https://meriken-music.com/2026winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Stereo Jack": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "メリケンミュージックナイツ〜冬〜",
+     "kind": "フェス",
+     "venue": "メリケンパーク（神戸市）（兵庫県）",
+     "source_url": "https://meriken-music.com/2026winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "sobacan": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "メリケンミュージックナイツ〜冬〜",
+     "kind": "フェス",
+     "venue": "メリケンパーク（神戸市）（兵庫県）",
+     "source_url": "https://meriken-music.com/2026winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ちびっこにんげん": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "メリケンミュージックナイツ〜冬〜",
+     "kind": "フェス",
+     "venue": "メリケンパーク（神戸市）（兵庫県）",
+     "source_url": "https://meriken-music.com/2026winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ハイグレードピーマンズ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "メリケンミュージックナイツ〜冬〜",
+     "kind": "フェス",
+     "venue": "メリケンパーク（神戸市）（兵庫県）",
+     "source_url": "https://meriken-music.com/2026winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Pale Moon": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "メリケンミュージックナイツ〜冬〜",
+     "kind": "フェス",
+     "venue": "メリケンパーク（神戸市）（兵庫県）",
+     "source_url": "https://meriken-music.com/2026winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "pod'z": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "メリケンミュージックナイツ〜冬〜",
+     "kind": "フェス",
+     "venue": "メリケンパーク（神戸市）（兵庫県）",
+     "source_url": "https://meriken-music.com/2026winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "堀 今日花": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "メリケンミュージックナイツ〜冬〜",
+     "kind": "フェス",
+     "venue": "メリケンパーク（神戸市）（兵庫県）",
+     "source_url": "https://meriken-music.com/2026winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "MACK JACK": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "メリケンミュージックナイツ〜冬〜",
+     "kind": "フェス",
+     "venue": "メリケンパーク（神戸市）（兵庫県）",
+     "source_url": "https://meriken-music.com/2026winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "MOE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "メリケンミュージックナイツ〜冬〜",
+     "kind": "フェス",
+     "venue": "メリケンパーク（神戸市）（兵庫県）",
+     "source_url": "https://meriken-music.com/2026winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Lailah": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-06",
+     "title": "メリケンミュージックナイツ〜冬〜",
+     "kind": "フェス",
+     "venue": "メリケンパーク（神戸市）（兵庫県）",
+     "source_url": "https://meriken-music.com/2026winter",
+     "confidence": "high"
+    }
+   ]
+  },
+  "パレット": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "パレットピクニック なまずの郷野外音楽祭",
+     "kind": "フェス",
+     "venue": "福津市総合運動公園 なまずの郷噴水広場（福岡県）",
+     "source_url": "https://palette.band-colorful.org/namazu1.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "息枠": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "パレットピクニック なまずの郷野外音楽祭",
+     "kind": "フェス",
+     "venue": "福津市総合運動公園 なまずの郷噴水広場（福岡県）",
+     "source_url": "https://palette.band-colorful.org/namazu1.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Calico": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "パレットピクニック なまずの郷野外音楽祭",
+     "kind": "フェス",
+     "venue": "福津市総合運動公園 なまずの郷噴水広場（福岡県）",
+     "source_url": "https://palette.band-colorful.org/namazu1.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Candle": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "パレットピクニック なまずの郷野外音楽祭",
+     "kind": "フェス",
+     "venue": "福津市総合運動公園 なまずの郷噴水広場（福岡県）",
+     "source_url": "https://palette.band-colorful.org/namazu1.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "GGR": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "パレットピクニック なまずの郷野外音楽祭",
+     "kind": "フェス",
+     "venue": "福津市総合運動公園 なまずの郷噴水広場（福岡県）",
+     "source_url": "https://palette.band-colorful.org/namazu1.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Tomo": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "パレットピクニック なまずの郷野外音楽祭",
+     "kind": "フェス",
+     "venue": "福津市総合運動公園 なまずの郷噴水広場（福岡県）",
+     "source_url": "https://palette.band-colorful.org/namazu1.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "琥珀糖＋ワン": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "パレットピクニック なまずの郷野外音楽祭",
+     "kind": "フェス",
+     "venue": "福津市総合運動公園 なまずの郷噴水広場（福岡県）",
+     "source_url": "https://palette.band-colorful.org/namazu1.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Beagles": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "パレットピクニック なまずの郷野外音楽祭",
+     "kind": "フェス",
+     "venue": "福津市総合運動公園 なまずの郷噴水広場（福岡県）",
+     "source_url": "https://palette.band-colorful.org/namazu1.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "The Ordinary World": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "パレットピクニック なまずの郷野外音楽祭",
+     "kind": "フェス",
+     "venue": "福津市総合運動公園 なまずの郷噴水広場（福岡県）",
+     "source_url": "https://palette.band-colorful.org/namazu1.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "J&J Gospel Singers": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-12",
+     "title": "パレットピクニック なまずの郷野外音楽祭",
+     "kind": "フェス",
+     "venue": "福津市総合運動公園 なまずの郷噴水広場（福岡県）",
+     "source_url": "https://palette.band-colorful.org/namazu1.html",
+     "confidence": "high"
+    }
+   ]
+  },
+  "アルタン": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "ケルティック・クリスマス",
+     "kind": "フェス",
+     "venue": "すみだトリフォニーホール 大ホール（東京都）",
+     "source_url": "https://plankton.co.jp/xmas26/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ソーラス": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "ケルティック・クリスマス",
+     "kind": "フェス",
+     "venue": "すみだトリフォニーホール 大ホール（東京都）",
+     "source_url": "https://plankton.co.jp/xmas26/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ダン・ステイシー": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "ケルティック・クリスマス",
+     "kind": "フェス",
+     "venue": "すみだトリフォニーホール 大ホール（東京都）",
+     "source_url": "https://plankton.co.jp/xmas26/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "イニ・K": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-13",
+     "title": "ケルティック・クリスマス",
+     "kind": "フェス",
+     "venue": "すみだトリフォニーホール 大ホール（東京都）",
+     "source_url": "https://plankton.co.jp/xmas26/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "DJ MAR SKI": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-18",
+     "title": "HIPHOPPORTUNITY",
+     "kind": "フェス",
+     "venue": "和歌山市内（Park Biz WAKAYAMA / わかちか広場 ほか調整中）（和歌山県）",
+     "source_url": "https://hiphopportunity.com/journal/hiphopportunity2026",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-19",
+     "title": "HIPHOPPORTUNITY",
+     "kind": "フェス",
+     "venue": "和歌山市内（Park Biz WAKAYAMA / わかちか広場 ほか調整中）（和歌山県）",
+     "source_url": "https://hiphopportunity.com/journal/hiphopportunity2026",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-20",
+     "title": "HIPHOPPORTUNITY",
+     "kind": "フェス",
+     "venue": "和歌山市内（Park Biz WAKAYAMA / わかちか広場 ほか調整中）（和歌山県）",
+     "source_url": "https://hiphopportunity.com/journal/hiphopportunity2026",
+     "confidence": "high"
+    }
+   ]
+  },
+  "BOSANOBU": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-18",
+     "title": "HIPHOPPORTUNITY",
+     "kind": "フェス",
+     "venue": "和歌山市内（Park Biz WAKAYAMA / わかちか広場 ほか調整中）（和歌山県）",
+     "source_url": "https://hiphopportunity.com/journal/hiphopportunity2026",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-19",
+     "title": "HIPHOPPORTUNITY",
+     "kind": "フェス",
+     "venue": "和歌山市内（Park Biz WAKAYAMA / わかちか広場 ほか調整中）（和歌山県）",
+     "source_url": "https://hiphopportunity.com/journal/hiphopportunity2026",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-20",
+     "title": "HIPHOPPORTUNITY",
+     "kind": "フェス",
+     "venue": "和歌山市内（Park Biz WAKAYAMA / わかちか広場 ほか調整中）（和歌山県）",
+     "source_url": "https://hiphopportunity.com/journal/hiphopportunity2026",
+     "confidence": "high"
+    }
+   ]
+  },
+  "richblack": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-18",
+     "title": "HIPHOPPORTUNITY",
+     "kind": "フェス",
+     "venue": "和歌山市内（Park Biz WAKAYAMA / わかちか広場 ほか調整中）（和歌山県）",
+     "source_url": "https://hiphopportunity.com/journal/hiphopportunity2026",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-19",
+     "title": "HIPHOPPORTUNITY",
+     "kind": "フェス",
+     "venue": "和歌山市内（Park Biz WAKAYAMA / わかちか広場 ほか調整中）（和歌山県）",
+     "source_url": "https://hiphopportunity.com/journal/hiphopportunity2026",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-20",
+     "title": "HIPHOPPORTUNITY",
+     "kind": "フェス",
+     "venue": "和歌山市内（Park Biz WAKAYAMA / わかちか広場 ほか調整中）（和歌山県）",
+     "source_url": "https://hiphopportunity.com/journal/hiphopportunity2026",
+     "confidence": "high"
+    }
+   ]
+  },
+  "TOSY": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-18",
+     "title": "HIPHOPPORTUNITY",
+     "kind": "フェス",
+     "venue": "和歌山市内（Park Biz WAKAYAMA / わかちか広場 ほか調整中）（和歌山県）",
+     "source_url": "https://hiphopportunity.com/journal/hiphopportunity2026",
+     "confidence": "high"
+    }
+   ]
+  },
+  "THE D SoraKi": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-18",
+     "title": "HIPHOPPORTUNITY",
+     "kind": "フェス",
+     "venue": "和歌山市内（Park Biz WAKAYAMA / わかちか広場 ほか調整中）（和歌山県）",
+     "source_url": "https://hiphopportunity.com/journal/hiphopportunity2026",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-19",
+     "title": "HIPHOPPORTUNITY",
+     "kind": "フェス",
+     "venue": "和歌山市内（Park Biz WAKAYAMA / わかちか広場 ほか調整中）（和歌山県）",
+     "source_url": "https://hiphopportunity.com/journal/hiphopportunity2026",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-20",
+     "title": "HIPHOPPORTUNITY",
+     "kind": "フェス",
+     "venue": "和歌山市内（Park Biz WAKAYAMA / わかちか広場 ほか調整中）（和歌山県）",
+     "source_url": "https://hiphopportunity.com/journal/hiphopportunity2026",
+     "confidence": "high"
+    }
+   ]
+  },
+  "SPNY": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-18",
+     "title": "HIPHOPPORTUNITY",
+     "kind": "フェス",
+     "venue": "和歌山市内（Park Biz WAKAYAMA / わかちか広場 ほか調整中）（和歌山県）",
+     "source_url": "https://hiphopportunity.com/journal/hiphopportunity2026",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Naza": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-18",
+     "title": "HIPHOPPORTUNITY",
+     "kind": "フェス",
+     "venue": "和歌山市内（Park Biz WAKAYAMA / わかちか広場 ほか調整中）（和歌山県）",
+     "source_url": "https://hiphopportunity.com/journal/hiphopportunity2026",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-19",
+     "title": "HIPHOPPORTUNITY",
+     "kind": "フェス",
+     "venue": "和歌山市内（Park Biz WAKAYAMA / わかちか広場 ほか調整中）（和歌山県）",
+     "source_url": "https://hiphopportunity.com/journal/hiphopportunity2026",
+     "confidence": "high"
+    }
+   ]
+  },
+  "もりof the year": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-19",
+     "title": "HIPHOPPORTUNITY",
+     "kind": "フェス",
+     "venue": "和歌山市内（Park Biz WAKAYAMA / わかちか広場 ほか調整中）（和歌山県）",
+     "source_url": "https://hiphopportunity.com/journal/hiphopportunity2026",
+     "confidence": "high"
+    }
+   ]
+  },
+  "MSY": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-19",
+     "title": "HIPHOPPORTUNITY",
+     "kind": "フェス",
+     "venue": "和歌山市内（Park Biz WAKAYAMA / わかちか広場 ほか調整中）（和歌山県）",
+     "source_url": "https://hiphopportunity.com/journal/hiphopportunity2026",
+     "confidence": "high"
+    }
+   ]
+  },
+  "YOUTEE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-19",
+     "title": "HIPHOPPORTUNITY",
+     "kind": "フェス",
+     "venue": "和歌山市内（Park Biz WAKAYAMA / わかちか広場 ほか調整中）（和歌山県）",
+     "source_url": "https://hiphopportunity.com/journal/hiphopportunity2026",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-20",
+     "title": "HIPHOPPORTUNITY",
+     "kind": "フェス",
+     "venue": "和歌山市内（Park Biz WAKAYAMA / わかちか広場 ほか調整中）（和歌山県）",
+     "source_url": "https://hiphopportunity.com/journal/hiphopportunity2026",
+     "confidence": "high"
+    }
+   ]
+  },
+  "SO-TA": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-19",
+     "title": "HIPHOPPORTUNITY",
+     "kind": "フェス",
+     "venue": "和歌山市内（Park Biz WAKAYAMA / わかちか広場 ほか調整中）（和歌山県）",
+     "source_url": "https://hiphopportunity.com/journal/hiphopportunity2026",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-20",
+     "title": "HIPHOPPORTUNITY",
+     "kind": "フェス",
+     "venue": "和歌山市内（Park Biz WAKAYAMA / わかちか広場 ほか調整中）（和歌山県）",
+     "source_url": "https://hiphopportunity.com/journal/hiphopportunity2026",
+     "confidence": "high"
+    }
+   ]
+  },
+  "HIYO": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-19",
+     "title": "HIPHOPPORTUNITY",
+     "kind": "フェス",
+     "venue": "和歌山市内（Park Biz WAKAYAMA / わかちか広場 ほか調整中）（和歌山県）",
+     "source_url": "https://hiphopportunity.com/journal/hiphopportunity2026",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-20",
+     "title": "HIPHOPPORTUNITY",
+     "kind": "フェス",
+     "venue": "和歌山市内（Park Biz WAKAYAMA / わかちか広場 ほか調整中）（和歌山県）",
+     "source_url": "https://hiphopportunity.com/journal/hiphopportunity2026",
+     "confidence": "high"
+    }
+   ]
+  },
+  "PInO": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-19",
+     "title": "HIPHOPPORTUNITY",
+     "kind": "フェス",
+     "venue": "和歌山市内（Park Biz WAKAYAMA / わかちか広場 ほか調整中）（和歌山県）",
+     "source_url": "https://hiphopportunity.com/journal/hiphopportunity2026",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-20",
+     "title": "HIPHOPPORTUNITY",
+     "kind": "フェス",
+     "venue": "和歌山市内（Park Biz WAKAYAMA / わかちか広場 ほか調整中）（和歌山県）",
+     "source_url": "https://hiphopportunity.com/journal/hiphopportunity2026",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Tamaki": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-18",
+     "title": "HIPHOPPORTUNITY",
+     "kind": "フェス",
+     "venue": "和歌山市内（Park Biz WAKAYAMA / わかちか広場 ほか調整中）（和歌山県）",
+     "source_url": "https://hiphopportunity.com/journal/hiphopportunity2026",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-19",
+     "title": "HIPHOPPORTUNITY",
+     "kind": "フェス",
+     "venue": "和歌山市内（Park Biz WAKAYAMA / わかちか広場 ほか調整中）（和歌山県）",
+     "source_url": "https://hiphopportunity.com/journal/hiphopportunity2026",
+     "confidence": "high"
+    },
+    {
+     "date": "2026-12-20",
+     "title": "HIPHOPPORTUNITY",
+     "kind": "フェス",
+     "venue": "和歌山市内（Park Biz WAKAYAMA / わかちか広場 ほか調整中）（和歌山県）",
+     "source_url": "https://hiphopportunity.com/journal/hiphopportunity2026",
+     "confidence": "high"
+    }
+   ]
+  },
+  "J'HIRO": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-19",
+     "title": "HIPHOPPORTUNITY",
+     "kind": "フェス",
+     "venue": "和歌山市内（Park Biz WAKAYAMA / わかちか広場 ほか調整中）（和歌山県）",
+     "source_url": "https://hiphopportunity.com/journal/hiphopportunity2026",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Green Green（J'HIRO & 龍粋）": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-19",
+     "title": "HIPHOPPORTUNITY",
+     "kind": "フェス",
+     "venue": "和歌山市内（Park Biz WAKAYAMA / わかちか広場 ほか調整中）（和歌山県）",
+     "source_url": "https://hiphopportunity.com/journal/hiphopportunity2026",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ARTemisiA": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-19",
+     "title": "HIPHOPPORTUNITY",
+     "kind": "フェス",
+     "venue": "和歌山市内（Park Biz WAKAYAMA / わかちか広場 ほか調整中）（和歌山県）",
+     "source_url": "https://hiphopportunity.com/journal/hiphopportunity2026",
+     "confidence": "high"
+    }
+   ]
+  },
+  "ポチョムキング": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-19",
+     "title": "HIPHOPPORTUNITY",
+     "kind": "フェス",
+     "venue": "和歌山市内（Park Biz WAKAYAMA / わかちか広場 ほか調整中）（和歌山県）",
+     "source_url": "https://hiphopportunity.com/journal/hiphopportunity2026",
+     "confidence": "high"
+    }
+   ]
+  },
+  "WKYM BREAKIN' LAB Kidz & Keyz": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-19",
+     "title": "HIPHOPPORTUNITY",
+     "kind": "フェス",
+     "venue": "和歌山市内（Park Biz WAKAYAMA / わかちか広場 ほか調整中）（和歌山県）",
+     "source_url": "https://hiphopportunity.com/journal/hiphopportunity2026",
+     "confidence": "high"
+    }
+   ]
+  },
+  "蔡忠浩（TANQUA WATER）": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-23",
+     "title": "Arafudo Music",
+     "kind": "フェス",
+     "venue": "YUMORI ONSEN HOSTEL（福島市土湯温泉町）（福島県）",
+     "source_url": "https://www.arafudo.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "小山田壮平": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-23",
+     "title": "Arafudo Music",
+     "kind": "フェス",
+     "venue": "YUMORI ONSEN HOSTEL（福島市土湯温泉町）（福島県）",
+     "source_url": "https://www.arafudo.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "鈴木真海子": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-23",
+     "title": "Arafudo Music",
+     "kind": "フェス",
+     "venue": "YUMORI ONSEN HOSTEL（福島市土湯温泉町）（福島県）",
+     "source_url": "https://www.arafudo.com/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "西寺郷太(NONA REEVES)": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-30",
+     "title": "UNDER FLOWER FESTIVAL Vol.3",
+     "kind": "フェス",
+     "venue": "CLUB SEATA/他（吉祥寺）（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4569030001-P0030001",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Shortcut Miffy!": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-30",
+     "title": "UNDER FLOWER FESTIVAL Vol.3",
+     "kind": "フェス",
+     "venue": "CLUB SEATA/他（吉祥寺）（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4569030001-P0030001",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Momo-Sei(よしのももこ&よしのせい)": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-30",
+     "title": "UNDER FLOWER FESTIVAL Vol.3",
+     "kind": "フェス",
+     "venue": "CLUB SEATA/他（吉祥寺）（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4569030001-P0030001",
+     "confidence": "high"
+    }
+   ]
+  },
+  "N.G.THREE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-30",
+     "title": "UNDER FLOWER FESTIVAL Vol.3",
+     "kind": "フェス",
+     "venue": "CLUB SEATA/他（吉祥寺）（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4569030001-P0030001",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Sunny Gets Blue": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-30",
+     "title": "UNDER FLOWER FESTIVAL Vol.3",
+     "kind": "フェス",
+     "venue": "CLUB SEATA/他（吉祥寺）（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4569030001-P0030001",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Tip Top Planets": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-30",
+     "title": "UNDER FLOWER FESTIVAL Vol.3",
+     "kind": "フェス",
+     "venue": "CLUB SEATA/他（吉祥寺）（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4569030001-P0030001",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Overcoat's": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-30",
+     "title": "UNDER FLOWER FESTIVAL Vol.3",
+     "kind": "フェス",
+     "venue": "CLUB SEATA/他（吉祥寺）（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4569030001-P0030001",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Mica Flakes": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-30",
+     "title": "UNDER FLOWER FESTIVAL Vol.3",
+     "kind": "フェス",
+     "venue": "CLUB SEATA/他（吉祥寺）（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4569030001-P0030001",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Stud Muffin": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-30",
+     "title": "UNDER FLOWER FESTIVAL Vol.3",
+     "kind": "フェス",
+     "venue": "CLUB SEATA/他（吉祥寺）（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4569030001-P0030001",
+     "confidence": "high"
+    }
+   ]
+  },
+  "SOFTTOUCH": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-30",
+     "title": "UNDER FLOWER FESTIVAL Vol.3",
+     "kind": "フェス",
+     "venue": "CLUB SEATA/他（吉祥寺）（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4569030001-P0030001",
+     "confidence": "high"
+    }
+   ]
+  },
+  "strawberry": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-30",
+     "title": "UNDER FLOWER FESTIVAL Vol.3",
+     "kind": "フェス",
+     "venue": "CLUB SEATA/他（吉祥寺）（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4569030001-P0030001",
+     "confidence": "high"
+    }
+   ]
+  },
+  "SCRUFFY!": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-30",
+     "title": "UNDER FLOWER FESTIVAL Vol.3",
+     "kind": "フェス",
+     "venue": "CLUB SEATA/他（吉祥寺）（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4569030001-P0030001",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Kanetsugu Tanaka": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-01-30",
+     "title": "UNDER FLOWER FESTIVAL Vol.3",
+     "kind": "フェス",
+     "venue": "CLUB SEATA/他（吉祥寺）（東京都）",
+     "source_url": "https://eplus.jp/sf/detail/4569030001-P0030001",
      "confidence": "high"
     }
    ]
