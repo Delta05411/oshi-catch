@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T07:16:32+09:00",
+ "updated": "2026-11-28T20:09:02+09:00",
  "artists": {
   "Saucy Dog": {
    "aliases": [
@@ -244,14 +244,6 @@
   "CUTIE STREET": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-11-27",
-     "title": "GIFT ～Girls Idol Festival Tokyo～",
-     "kind": "フェス",
-     "venue": "SGC Hall Ariake・TOYOTA ARENA TOKYO（東京都）",
-     "source_url": "https://gift-idol.jp/",
-     "confidence": "high"
-    },
     {
      "date": "2026-12-05",
      "title": "HIROSHIMA CONTI-NeW FeS（12/5）",
@@ -1279,6 +1271,14 @@
      "venue": "幕張メッセ（千葉）",
      "source_url": "https://festival-life.com/168983",
      "confidence": "high"
+    },
+    {
+     "date": "2027-03-21",
+     "title": "HY SKY Fes 2027 & 前夜祭（3/21）",
+     "kind": "フェス",
+     "venue": "沖縄県総合運動公園 多目的広場（沖縄県）",
+     "source_url": "https://skyfes.net/",
+     "confidence": "high"
     }
    ]
   },
@@ -1348,14 +1348,6 @@
   "FRUITS ZIPPER": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-11-27",
-     "title": "GIFT ～Girls Idol Festival Tokyo～",
-     "kind": "フェス",
-     "venue": "SGC Hall Ariake・TOYOTA ARENA TOKYO（東京都）",
-     "source_url": "https://gift-idol.jp/",
-     "confidence": "high"
-    },
     {
      "date": "2026-11-29",
      "title": "GIFT ～Girls Idol Festival Tokyo～",
@@ -1769,14 +1761,6 @@
     "とき宣"
    ],
    "events": [
-    {
-     "date": "2026-11-27",
-     "title": "GIFT ～Girls Idol Festival Tokyo～",
-     "kind": "フェス",
-     "venue": "SGC Hall Ariake・TOYOTA ARENA TOKYO（東京都）",
-     "source_url": "https://gift-idol.jp/",
-     "confidence": "high"
-    },
     {
      "date": "2026-11-28",
      "title": "GIFT ～Girls Idol Festival Tokyo～",
@@ -4143,14 +4127,6 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-11-27",
-     "title": "ロックアンセム -BY ROCK LOVERS , FOR ROCK LOVERS-",
-     "kind": "フェス",
-     "venue": "（東京）",
-     "source_url": "https://rock-anthem.jp/",
-     "confidence": "high"
-    },
-    {
      "date": "2026-11-28",
      "title": "ロックアンセムEX（11/28）",
      "kind": "フェス",
@@ -5356,14 +5332,6 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-11-27",
-     "title": "ロックアンセム -BY ROCK LOVERS , FOR ROCK LOVERS-",
-     "kind": "フェス",
-     "venue": "（東京）",
-     "source_url": "https://rock-anthem.jp/",
-     "confidence": "high"
-    },
-    {
      "date": "2026-11-29",
      "title": "ロックアンセムEX（11/29）",
      "kind": "フェス",
@@ -5406,22 +5374,6 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-11-27",
-     "title": "ロックアンセムEX（11/27）",
-     "kind": "フェス",
-     "venue": "EX THEATER ROPPONGI（東京）",
-     "source_url": "https://rock-anthem.jp/",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-11-27",
-     "title": "ロックアンセム -BY ROCK LOVERS , FOR ROCK LOVERS-",
-     "kind": "フェス",
-     "venue": "（東京）",
-     "source_url": "https://rock-anthem.jp/",
-     "confidence": "high"
-    },
-    {
      "date": "2026-11-29",
      "title": "KONOSU MUSIC FESTIVAL 2026",
      "kind": "フェス",
@@ -5458,14 +5410,6 @@
   "TenTwenty": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-11-27",
-     "title": "ロックアンセム -BY ROCK LOVERS , FOR ROCK LOVERS-",
-     "kind": "フェス",
-     "venue": "（東京）",
-     "source_url": "https://rock-anthem.jp/",
-     "confidence": "high"
-    },
     {
      "date": "2026-11-29",
      "title": "ロックアンセムEX（11/29）",
@@ -6034,6 +5978,14 @@
      "kind": "フェス",
      "venue": "Spotify O-EAST / Spotify O-WEST / duo MUSIC EXCHANGE（東京都）",
      "source_url": "https://dovetail.asia/",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-03-27",
+     "title": "梅田界隈 THE CIRCUIT '27",
+     "kind": "フェス",
+     "venue": "梅田BananaHall・梅田Zeela・梅田BANGBOO（大阪府）",
+     "source_url": "https://festival-life.com/169830",
      "confidence": "high"
     }
    ]
@@ -7932,22 +7884,6 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-11-27",
-     "title": "ロックアンセムEX（11/27）",
-     "kind": "フェス",
-     "venue": "EX THEATER ROPPONGI（東京）",
-     "source_url": "https://rock-anthem.jp/",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-11-27",
-     "title": "ロックアンセム -BY ROCK LOVERS , FOR ROCK LOVERS-",
-     "kind": "フェス",
-     "venue": "（東京）",
-     "source_url": "https://rock-anthem.jp/",
-     "confidence": "high"
-    },
-    {
      "date": "2026-12-28",
      "title": "RADIO CRAZY（12/28）",
      "kind": "フェス",
@@ -7957,38 +7893,9 @@
     }
    ]
   },
-  "ドレスコーズ": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-27",
-     "title": "ロックアンセムEX（11/27）",
-     "kind": "フェス",
-     "venue": "EX THEATER ROPPONGI（東京）",
-     "source_url": "https://rock-anthem.jp/",
-     "confidence": "high"
-    },
-    {
-     "date": "2026-11-27",
-     "title": "ロックアンセム -BY ROCK LOVERS , FOR ROCK LOVERS-",
-     "kind": "フェス",
-     "venue": "（東京）",
-     "source_url": "https://rock-anthem.jp/",
-     "confidence": "high"
-    }
-   ]
-  },
   "ストレイテナー": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-11-27",
-     "title": "ロックアンセム -BY ROCK LOVERS , FOR ROCK LOVERS-",
-     "kind": "フェス",
-     "venue": "（東京）",
-     "source_url": "https://rock-anthem.jp/",
-     "confidence": "high"
-    },
     {
      "date": "2026-11-28",
      "title": "ロックアンセムEX（11/28）",
@@ -8019,14 +7926,6 @@
    "aliases": [],
    "events": [
     {
-     "date": "2026-11-27",
-     "title": "ロックアンセム -BY ROCK LOVERS , FOR ROCK LOVERS-",
-     "kind": "フェス",
-     "venue": "（東京）",
-     "source_url": "https://rock-anthem.jp/",
-     "confidence": "high"
-    },
-    {
      "date": "2026-11-28",
      "title": "ロックアンセムEX（11/28）",
      "kind": "フェス",
@@ -8047,14 +7946,6 @@
   "Base Ball Bear": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-11-27",
-     "title": "ロックアンセム -BY ROCK LOVERS , FOR ROCK LOVERS-",
-     "kind": "フェス",
-     "venue": "（東京）",
-     "source_url": "https://rock-anthem.jp/",
-     "confidence": "high"
-    },
     {
      "date": "2026-11-29",
      "title": "ロックアンセムEX（11/29）",
@@ -12895,6 +12786,14 @@
      "venue": "本別町中央公民館（北海道）",
      "source_url": "https://honbetsu.com/infrastructure/mame-fes",
      "confidence": "high"
+    },
+    {
+     "date": "2027-03-27",
+     "title": "梅田界隈 THE CIRCUIT '27",
+     "kind": "フェス",
+     "venue": "梅田BananaHall・梅田Zeela・梅田BANGBOO（大阪府）",
+     "source_url": "https://festival-life.com/169830",
+     "confidence": "high"
     }
    ]
   },
@@ -14716,30 +14615,9 @@
     }
    ]
   },
-  "＝LOVE": {
-   "aliases": [],
-   "events": [
-    {
-     "date": "2026-11-27",
-     "title": "GIFT ～Girls Idol Festival Tokyo～",
-     "kind": "フェス",
-     "venue": "SGC Hall Ariake・TOYOTA ARENA TOKYO（東京都）",
-     "source_url": "https://gift-idol.jp/",
-     "confidence": "high"
-    }
-   ]
-  },
   "モーニング娘。'26": {
    "aliases": [],
    "events": [
-    {
-     "date": "2026-11-27",
-     "title": "GIFT ～Girls Idol Festival Tokyo～",
-     "kind": "フェス",
-     "venue": "SGC Hall Ariake・TOYOTA ARENA TOKYO（東京都）",
-     "source_url": "https://gift-idol.jp/",
-     "confidence": "high"
-    },
     {
      "date": "2026-11-28",
      "title": "GIFT ～Girls Idol Festival Tokyo～",
@@ -26135,6 +26013,14 @@
      "venue": "代々木公園野外ステージ（東京都）",
      "source_url": "https://fes.ragnet.co.jp/music-festival-winter-east",
      "confidence": "high"
+    },
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "渋谷10会場（Spotify O-EAST ほか）（東京都）",
+     "source_url": "https://idorisefes.jp/",
+     "confidence": "low"
     }
    ]
   },
@@ -32935,6 +32821,14 @@
      "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
      "source_url": "https://ticketdive.com/event/SPARK2026_winter",
      "confidence": "high"
+    },
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "渋谷10会場（Spotify O-EAST ほか）（東京都）",
+     "source_url": "https://idorisefes.jp/",
+     "confidence": "low"
     }
    ]
   },
@@ -33183,6 +33077,14 @@
      "venue": "渋谷7会場（東京都）",
      "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
      "confidence": "high"
+    },
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "渋谷10会場（Spotify O-EAST ほか）（東京都）",
+     "source_url": "https://idorisefes.jp/",
+     "confidence": "low"
     }
    ]
   },
@@ -34440,6 +34342,14 @@
      "venue": "渋谷7会場（東京都）",
      "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
      "confidence": "high"
+    },
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "渋谷10会場（Spotify O-EAST ほか）（東京都）",
+     "source_url": "https://idorisefes.jp/",
+     "confidence": "low"
     }
    ]
   },
@@ -34453,6 +34363,14 @@
      "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
      "source_url": "https://ticketdive.com/event/SPARK2026_winter",
      "confidence": "high"
+    },
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "渋谷10会場（Spotify O-EAST ほか）（東京都）",
+     "source_url": "https://idorisefes.jp/",
+     "confidence": "low"
     }
    ]
   },
@@ -34466,6 +34384,14 @@
      "venue": "ベルサール秋葉原・秋葉原コンベンションホール ほか（東京都）",
      "source_url": "https://ticketdive.com/event/SPARK2026_winter",
      "confidence": "high"
+    },
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "渋谷10会場（Spotify O-EAST ほか）（東京都）",
+     "source_url": "https://idorisefes.jp/",
+     "confidence": "low"
     }
    ]
   },
@@ -34763,6 +34689,14 @@
      "venue": "渋谷7会場（東京都）",
      "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
      "confidence": "high"
+    },
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "渋谷10会場（Spotify O-EAST ほか）（東京都）",
+     "source_url": "https://idorisefes.jp/",
+     "confidence": "low"
     }
    ]
   },
@@ -35879,6 +35813,14 @@
      "venue": "渋谷7会場（東京都）",
      "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
      "confidence": "high"
+    },
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "渋谷10会場（Spotify O-EAST ほか）（東京都）",
+     "source_url": "https://idorisefes.jp/",
+     "confidence": "low"
     }
    ]
   },
@@ -35931,6 +35873,14 @@
      "venue": "渋谷7会場（東京都）",
      "source_url": "https://shibuya-o.com/east/schedule/leading-premium-%E5%B9%B4%E6%9C%AB%E6%84%9F%E8%AC%9D%E7%A5%AD26/",
      "confidence": "high"
+    },
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "渋谷10会場（Spotify O-EAST ほか）（東京都）",
+     "source_url": "https://idorisefes.jp/",
+     "confidence": "low"
     }
    ]
   },
@@ -38454,6 +38404,14 @@
      "venue": "名古屋 今池 THE BOTTOM LINE（愛知県）",
      "source_url": "https://www.jailhouse.jp/event/nenmatsugig-2026/",
      "confidence": "high"
+    },
+    {
+     "date": "2027-03-27",
+     "title": "梅田界隈 THE CIRCUIT '27",
+     "kind": "フェス",
+     "venue": "梅田BananaHall・梅田Zeela・梅田BANGBOO（大阪府）",
+     "source_url": "https://festival-life.com/169830",
+     "confidence": "high"
     }
    ]
   },
@@ -38518,6 +38476,14 @@
      "kind": "フェス",
      "venue": "渋谷CLUB QUATTRO / TAKE OFF 7（東京都）",
      "source_url": "https://fes.ragnet.co.jp/rock-festival/4",
+     "confidence": "high"
+    },
+    {
+     "date": "2027-03-27",
+     "title": "梅田界隈 THE CIRCUIT '27",
+     "kind": "フェス",
+     "venue": "梅田BananaHall・梅田Zeela・梅田BANGBOO（大阪府）",
+     "source_url": "https://festival-life.com/169830",
      "confidence": "high"
     }
    ]
@@ -40131,6 +40097,292 @@
      "kind": "フェス",
      "venue": "CLUB SEATA/他（吉祥寺）（東京都）",
      "source_url": "https://eplus.jp/sf/detail/4569030001-P0030001",
+     "confidence": "high"
+    }
+   ]
+  },
+  "AdamLilith": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "渋谷10会場（Spotify O-EAST ほか）（東京都）",
+     "source_url": "https://idorisefes.jp/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "Ill": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "渋谷10会場（Spotify O-EAST ほか）（東京都）",
+     "source_url": "https://idorisefes.jp/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "ガガピエロ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "渋谷10会場（Spotify O-EAST ほか）（東京都）",
+     "source_url": "https://idorisefes.jp/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "CAL&RES": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "渋谷10会場（Spotify O-EAST ほか）（東京都）",
+     "source_url": "https://idorisefes.jp/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "テンシンランマン": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "渋谷10会場（Spotify O-EAST ほか）（東京都）",
+     "source_url": "https://idorisefes.jp/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "TENRIN": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "渋谷10会場（Spotify O-EAST ほか）（東京都）",
+     "source_url": "https://idorisefes.jp/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "ドレスコード": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "渋谷10会場（Spotify O-EAST ほか）（東京都）",
+     "source_url": "https://idorisefes.jp/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "なう♡すとれーじ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "渋谷10会場（Spotify O-EAST ほか）（東京都）",
+     "source_url": "https://idorisefes.jp/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "ナナコロビヤオキ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "渋谷10会場（Spotify O-EAST ほか）（東京都）",
+     "source_url": "https://idorisefes.jp/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "パラレルサイダー": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "渋谷10会場（Spotify O-EAST ほか）（東京都）",
+     "source_url": "https://idorisefes.jp/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "ヒロインズ研究生": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "渋谷10会場（Spotify O-EAST ほか）（東京都）",
+     "source_url": "https://idorisefes.jp/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "ヒロインズ研究生大阪": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "渋谷10会場（Spotify O-EAST ほか）（東京都）",
+     "source_url": "https://idorisefes.jp/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "ポンコツコンポ": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "渋谷10会場（Spotify O-EAST ほか）（東京都）",
+     "source_url": "https://idorisefes.jp/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "MEGAFON": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "渋谷10会場（Spotify O-EAST ほか）（東京都）",
+     "source_url": "https://idorisefes.jp/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "ラストシーン": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "渋谷10会場（Spotify O-EAST ほか）（東京都）",
+     "source_url": "https://idorisefes.jp/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "LADYBABY": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-13",
+     "title": "IDORISE!! FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "渋谷10会場（Spotify O-EAST ほか）（東京都）",
+     "source_url": "https://idorisefes.jp/",
+     "confidence": "low"
+    }
+   ]
+  },
+  "ASKA": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-20",
+     "title": "HY SKY Fes 2027 & 前夜祭（3/20）",
+     "kind": "フェス",
+     "venue": "沖縄県総合運動公園 多目的広場（沖縄県）",
+     "source_url": "https://skyfes.net/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Number_i": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-20",
+     "title": "HY SKY Fes 2027 & 前夜祭（3/20）",
+     "kind": "フェス",
+     "venue": "沖縄県総合運動公園 多目的広場（沖縄県）",
+     "source_url": "https://skyfes.net/",
+     "confidence": "high"
+    }
+   ]
+  },
+  "KURANGE": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-31",
+     "title": "liquidroom presents NEW YEAR FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "LIQUIDROOM（東京都）",
+     "source_url": "https://www.liquidroom.net/schedule/lr_nyp2027_20261231",
+     "confidence": "high"
+    }
+   ]
+  },
+  "Shotaro Aoyama (NF)": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2026-12-31",
+     "title": "liquidroom presents NEW YEAR FESTIVAL 2027",
+     "kind": "フェス",
+     "venue": "LIQUIDROOM（東京都）",
+     "source_url": "https://www.liquidroom.net/schedule/lr_nyp2027_20261231",
+     "confidence": "high"
+    }
+   ]
+  },
+  "brkfstblend": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-27",
+     "title": "梅田界隈 THE CIRCUIT '27",
+     "kind": "フェス",
+     "venue": "梅田BananaHall・梅田Zeela・梅田BANGBOO（大阪府）",
+     "source_url": "https://festival-life.com/169830",
+     "confidence": "high"
+    }
+   ]
+  },
+  "寺久保伶矢": {
+   "aliases": [],
+   "events": [
+    {
+     "date": "2027-03-27",
+     "title": "梅田界隈 THE CIRCUIT '27",
+     "kind": "フェス",
+     "venue": "梅田BananaHall・梅田Zeela・梅田BANGBOO（大阪府）",
+     "source_url": "https://festival-life.com/169830",
      "confidence": "high"
     }
    ]
